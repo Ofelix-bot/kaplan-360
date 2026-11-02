@@ -33,5 +33,11 @@ async function programmeCount() {
 
 export default async function Home() {
   const programmes = await programmeCount();
-  return <Landing programmes={programmes} />;
+  return (
+    <>
+      <Landing programmes={programmes} />
+      {/* Header: Start planning here, no AI adviser button (globals.css). */}
+      <span data-start-planning hidden />
+    </>
+  );
 }

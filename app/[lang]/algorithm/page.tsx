@@ -1,4 +1,5 @@
 import { pageMetadata } from "@/lib/i18n/server";
+import { AdviserContext } from "@/components/agent/AdviserDock";
 import { AlgorithmPage } from "@/components/algorithm/algorithm-page";
 import { algorithmFacts } from "@/lib/algorithm/facts";
 import "../../ui.css";
@@ -12,5 +13,10 @@ export const generateMetadata = pageMetadata(
 // The numbers are read from the admission model at build time; the calculator runs lib/admit-model.ts in the
 // browser on the /results data file, so the visitor's settings never leave it.
 export default function CoreAlgorithmPage() {
-  return <AlgorithmPage f={algorithmFacts()} />;
+  return (
+    <>
+      <AdviserContext page="algorithm" />
+      <AlgorithmPage f={algorithmFacts()} />
+    </>
+  );
 }

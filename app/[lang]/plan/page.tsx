@@ -1,4 +1,5 @@
 import { pageMetadata } from "@/lib/i18n/server";
+import { AdviserContext } from "@/components/agent/AdviserDock";
 import PlanView from "@/components/plan/PlanView";
 import { PlanTabs } from "@/components/plan/PlanTabs";
 import { PlanApplications } from "@/components/finder/plan-applications";
@@ -31,5 +32,10 @@ export default async function PlanPage() {
   };
   // Applications: the shortlist's board, moved here from /results with the Programme finder.
   const applications = <PlanApplications props={{ ...map.stand, sentence: false }} />;
-  return <PlanTabs timeline={<PlanView sources={sources} />} map={map} applications={applications} />;
+  return (
+    <>
+      <AdviserContext page="plan" />
+      <PlanTabs timeline={<PlanView sources={sources} />} map={map} applications={applications} />
+    </>
+  );
 }

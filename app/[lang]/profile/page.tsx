@@ -1,4 +1,5 @@
 import type { Viewport } from "next";
+import { AdviserContext } from "@/components/agent/AdviserDock";
 import { ProfileApp } from "@/components/profile/ProfileApp";
 import { pageMetadata } from "@/lib/i18n/server";
 import { getProfileData } from "./data";
@@ -21,5 +22,10 @@ export const viewport: Viewport = {
 export default async function ProfilePage() {
   const data = await getProfileData();
   // The autofill card only where the reader can run (app/api/profile needs the key).
-  return <ProfileApp data={data} autofill={!!process.env.ANTHROPIC_API_KEY} />;
+  return (
+    <>
+      <AdviserContext page="profile" />
+      <ProfileApp data={data} autofill={!!process.env.ANTHROPIC_API_KEY} />
+    </>
+  );
 }

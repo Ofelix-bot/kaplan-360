@@ -9,10 +9,9 @@ import css from "./kappy.module.css";
 
 // Kappy in the bottom-left corner of every page (mounted in app/[lang]/layout.tsx), clear of the profile button on the
 // right edge. A click: it waves, asks its question and offers the way in; a second click, or 9 s, puts the bubble away.
-// It reads no route (the layout must stay prerendered), so the link carries no `from`. The link opens /kappy until the
-// adviser page (app/[lang]/adviser) exists; then point ADVISER_HREF there.
+// It reads no route (the layout must stay prerendered), so the link carries no `from`.
 
-const ADVISER_HREF = "/kappy";
+const ADVISER_HREF = "/adviser";
 
 export function KappyDock() {
   const t = useT();
@@ -47,7 +46,7 @@ export function KappyDock() {
         {open && (
           <>
             <br />
-            <Link href={ADVISER_HREF}>{t("Meet Kappy")} →</Link>
+            <Link href={ADVISER_HREF}>{t("Open the AI adviser")} →</Link>
           </>
         )}
       </KappyBubble>

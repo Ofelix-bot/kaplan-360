@@ -44,7 +44,7 @@ export function AdviserToggle() {
   const t = useT();
   const { open, toggle } = useOpenAdviser();
   return (
-    <button type="button" className="button header-adviser" aria-pressed={open} onClick={toggle}>
+    <button type="button" className="button button-accent header-adviser" aria-pressed={open} onClick={toggle}>
       <SparklesIcon size={16} aria-hidden="true" />
       {t("AI adviser")}
     </button>

@@ -510,9 +510,11 @@ html body .site-header[data-menu="open"] {
   .nav-mega-grid { border-top-color: var(--text); }
 }
 .header-cta { display: none; }
-/* The AI adviser's header button (components/agent/AdviserDock.tsx): wide screens only, beside Start planning. */
-.header-adviser { display: none; min-height: 40px; padding: 8px 16px; margin-right: 8px; border-color: var(--hd-line); color: var(--hd-ink); background: transparent; }
-.header-adviser:hover, .header-adviser[aria-pressed="true"] { border-color: var(--brand); color: var(--brand); }
+/* The AI adviser's header button (components/agent/AdviserDock.tsx) takes Start planning's place on wide screens: a page
+   that marks itself [data-start-planning] (the homepage, /move) shows Start planning and no adviser; every other page
+   shows the adviser instead. Read from the server-rendered marker, so the right button is there before scripts run. */
+.header-adviser { display: none; }
+.header-adviser:hover, .header-adviser[aria-pressed="true"] { background: #ffc46b; }
 
 .menu-toggle {
   display: inline-flex; align-items: center; justify-content: center;
@@ -610,8 +612,8 @@ html body .site-header[data-menu="open"] {
 
 @media (min-width: 960px) {
   .nav-links { display: flex; margin: 0 auto; }
-  .header-cta { display: inline-flex; }
-  .header-adviser { display: inline-flex; gap: 8px; }
+  body:has([data-start-planning]) .header-cta { display: inline-flex; }
+  body:not(:has([data-start-planning])) .header-adviser { display: inline-flex; gap: 8px; }
   .lang { margin-left: -12px; margin-right: -10px; }
   .menu-toggle, .mobile-menu { display: none; }
 }

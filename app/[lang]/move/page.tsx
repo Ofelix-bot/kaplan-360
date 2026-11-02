@@ -19,5 +19,11 @@ export const viewport: Viewport = {
 // English has the 2026-11-02 layout; the Chinese pages keep the earlier one until their words are written.
 export default async function Move({ params }: PageProps<"/[lang]/move">) {
   const { lang } = await params;
-  return lang === "en" ? <MovePage /> : <MovePageZh />;
+  return (
+    <>
+      {lang === "en" ? <MovePage /> : <MovePageZh />}
+      {/* Header: Start planning here, no AI adviser button (globals.css). */}
+      <span data-start-planning hidden />
+    </>
+  );
 }

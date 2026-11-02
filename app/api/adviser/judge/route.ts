@@ -32,8 +32,8 @@ export async function POST(request: Request) {
       tools: READ_TOOL_SCHEMAS,
       submit: { tool: SUBMIT_DECISION, check: (v, k) => checkDecision(v, k, lineCheck([...k.texts, replies.map((r) => r.answer).join(" ")], base.answers, base.text, base.locale, today), base.locale, today) },
       firstMessage: firstMessage({ ...base, intake, replies, study, work, toolResults: lines, verdicts: fix, previous }),
-      // The rewrite only edits the flagged lines: medium keeps it inside the deadline.
-      effort: rewrite ? "medium" : "high",
+      // Medium: high ran to the 50 s deadline on Arjun (2026-11-03 check:adviser run 2).
+      effort: "medium",
       deadlineMs: DEADLINE_MS.judge,
       emit,
       ctx,

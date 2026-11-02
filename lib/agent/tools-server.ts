@@ -180,7 +180,9 @@ async function searchProgrammes(x: SearchInput, c: ToolContext): Promise<ToolRes
       country: r.country,
       qs: qsOf(r.p, data),
       months: r.p.months,
+      // The page states the fee per year or per course; the yearly figure is worked out from a course fee.
       feeYearSgd: r.p.feeSgd,
+      feeAsStated: r.p.fee ? `${r.p.fee.currency ?? ""} ${r.p.fee.amount} ${r.p.feeBasis === "course" ? "for the whole course" : r.p.feeBasis === "year" ? "a year" : ""}`.trim() : null,
       ielts: r.p.ielts,
       match: r.m.band,
       flags: r.flags,
@@ -285,6 +287,8 @@ async function epCheck(x: EpInput, c: ToolContext): Promise<ToolResult> {
     needsWorkPass: true,
     pass: "Employment Pass",
     minimumMonthlySalarySgd: floor.value,
+    // A student graduating near 1 Jan 2027 may apply under either schedule: both figures, each with its schedule.
+    fromJan2027MinimumMonthlySalarySgd: epFloor({ ...a, graduationYear: 2027, graduationMonth: 1 }, financial).value,
     age: floor.age ?? "23 or below (birth year or graduation not given)",
     sector: floor.sector,
     schedule: floor.schedule === "current" ? "applications before 1 Jan 2027" : "applications from 1 Jan 2027",

@@ -131,7 +131,10 @@ function userTurn(text: string, answers: PlanAnswers, claims: Claim[], evidence:
 const UNCHECKED: Record<Locale, string> = { en: "Not checked.", "zh-hans": "未核查。", "zh-hant": "未核查。" };
 
 /** A verdict per claim; blocked when any isn't supported. Throws the SDK's errors for the route to answer. */
-export async function auditFinal(x: { locale: Locale; text: string; answers: PlanAnswers; final: Final }, apiKey: string): Promise<AuditResponse> {
+/** The adviser v2's own model call (lib/adviser/model.ts: Opus, adaptive thinking, retries, the stage's deadline). */
+export type AuditCall = (p: { system: string; tools: Anthropic.Tool[]; messages: Anthropic.MessageParam[] }) => Promise<Anthropic.Message>;
+
+export async function auditFinal(x: { locale: Locale; text: string; answers: PlanAnswers; final: Final }, apiKey: string, v2call?: AuditCall): Promise<AuditResponse> {
   const t0 = Date.now();
   const today = new Date();
   const claims = claimsOf(x.final);
@@ -140,17 +143,35 @@ export async function auditFinal(x: { locale: Locale; text: string; answers: Pla
     claims.flatMap((c) => c.sources),
     x.answers,
   );
-  const workspace = process.env.ANTHROPIC_WORKSPACE_ID;
-  const timeout = Math.max(2500, 8800 - (Date.now() - t0));
-  const msg = await new Anthropic({ apiKey, timeout, maxRetries: 0, defaultHeaders: workspace ? { "anthropic-workspace-id": workspace } : undefined }).messages.create({
-    model: MODEL,
-    max_tokens: 1600,
-    thinking: LEGACY ? { type: "disabled" } : { type: "between_tools" },
-    system: [{ type: "text", text: SYSTEM, cache_control: { type: "ephemeral" } }],
-    tools: [verdictsTool(x.locale)],
-    tool_choice: LEGACY ? { type: "tool", name: "verdicts" } : { type: "auto" },
-    messages: [{ role: "user", content: `${userTurn(x.text, x.answers, claims, evidence, today)}\n\nWrite every note in ${LANGUAGE[x.locale]}.` }],
-  });
+  const userText = `${userTurn(x.text, x.answers, claims, evidence, today)}
+
+Write every note in ${LANGUAGE[x.locale]}.`;
+  let msg: Anthropic.Message;
+  if (v2call) {
+    // v2: tool_choice is auto, so the prompt asks for the call; still no call after one retry blocks the advice.
+    const system = `${SYSTEM}
+
+Call the verdicts tool once with a verdict for every claim; write nothing else.`;
+    const messages: Anthropic.MessageParam[] = [{ role: "user", content: userText }];
+    msg = await v2call({ system, tools: [verdictsTool(x.locale)], messages });
+    if (!msg.content.some((c) => c.type === "tool_use")) {
+      messages.push({ role: "assistant", content: msg.content as Anthropic.ContentBlockParam[] }, { role: "user", content: "Call the verdicts tool now, once, with a verdict for every claim." });
+      msg = await v2call({ system, tools: [verdictsTool(x.locale)], messages });
+      if (!msg.content.some((c) => c.type === "tool_use")) return { verdicts: claims.map((c) => ({ claim: c.text, status: "unsupported" as const, quote: null, url: null, note: UNCHECKED[x.locale] })), blocked: true };
+    }
+  } else {
+    const workspace = process.env.ANTHROPIC_WORKSPACE_ID;
+    const timeout = Math.max(2500, 8800 - (Date.now() - t0));
+    msg = await new Anthropic({ apiKey, timeout, maxRetries: 0, defaultHeaders: workspace ? { "anthropic-workspace-id": workspace } : undefined }).messages.create({
+      model: MODEL,
+      max_tokens: 1600,
+      thinking: LEGACY ? { type: "disabled" } : { type: "between_tools" },
+      system: [{ type: "text", text: SYSTEM, cache_control: { type: "ephemeral" } }],
+      tools: [verdictsTool(x.locale)],
+      tool_choice: LEGACY ? { type: "tool", name: "verdicts" } : { type: "auto" },
+      messages: [{ role: "user", content: userText }],
+    });
+  }
   const call = msg.content.find((c): c is Anthropic.ToolUseBlock => c.type === "tool_use");
   const given = Array.isArray((call?.input as { verdicts?: unknown } | undefined)?.verdicts) ? ((call!.input as { verdicts: unknown[] }).verdicts as Record<string, unknown>[]) : [];
   const verdicts: Verdict[] = claims.map((c, i) => {

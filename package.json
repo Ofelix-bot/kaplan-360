@@ -35,6 +35,7 @@
     "data:fx": "node scripts/data/fetch-mas-fx.mjs",
     "check:rai": "tsx scripts/check-rai.ts",
     "check:agent": "tsx scripts/check-agent.ts",
+    "check:adviser": "tsx scripts/check-adviser.ts",
     "plan:dates": "tsx scripts/plan/dates.ts",
     "changes:snapshot": "tsx scripts/changes/diff.ts snapshot",
     "changes:diff": "tsx scripts/changes/diff.ts",

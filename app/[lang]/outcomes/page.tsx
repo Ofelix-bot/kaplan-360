@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { AdviserContext, AdviserPrompt } from "@/components/agent/AdviserDock";
 import EmployerTicker from "@/components/home/EmployerTicker";
+import Link from "@/components/i18n/Link";
 import OutcomesDetail from "@/components/home/OutcomesDetail";
 import OutcomesExplorer from "@/components/home/OutcomesExplorer";
 import Reveal from "@/components/home/Reveal";
@@ -38,6 +39,9 @@ export default async function OutcomesPage() {
         <div className="adviser-prompt-row">
           <AdviserPrompt label={t("What do these numbers mean for you?")} />
         </div>
+        <p className="adviser-prompt-row">
+          <Link href="/adviser?from=outcomes">{t("Ask the AI adviser: master’s first or work first?")}</Link>
+        </p>
       </div>
       <EmployerTicker />
       <OutcomesDetail />

@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState, type ReactNode } from "react";
-import { ArrowRightIcon, BriefcaseIcon, CheckIcon, FileTextIcon, GraduationCapIcon, ShieldAlertIcon, ShieldCheckIcon, SparklesIcon, Undo2Icon, UserIcon } from "lucide-react";
+import { ArrowRightIcon, BriefcaseIcon, RotateCwIcon, CheckIcon, FileTextIcon, GraduationCapIcon, ShieldAlertIcon, ShieldCheckIcon, SparklesIcon, Undo2Icon, UserIcon } from "lucide-react";
 import { useLocale, useT } from "@/components/i18n/I18nProvider";
 import Link from "@/components/i18n/Link";
 import { VoiceInput } from "@/components/finder/voice-input";
@@ -100,9 +100,9 @@ function TraceRow({ l }: { l: TraceLine }) {
   const [p, g] = l.tool === "save_to_plan" ? l.summary.split("|") : [];
   return (
     <li className="flex gap-2 text-sm">
-      <span className="mt-0.5 shrink-0">{l.pending ? <Spinner className="size-3.5 text-primary" /> : <CheckIcon className="size-3.5 text-primary" strokeWidth={3} aria-hidden />}</span>
+      <span className="mt-0.5 shrink-0">{l.pending ? <Spinner className="size-3.5 text-primary" /> : l.retry ? <RotateCwIcon className="size-3.5 text-amber-600" aria-hidden /> : <CheckIcon className="size-3.5 text-primary" strokeWidth={3} aria-hidden />}</span>
       <span className="min-w-0">
-        <span className="font-medium">{t(TOOL_LABEL[l.tool])}</span>
+        <span className="font-medium">{l.retry ? t("That step took too long: asking the AI again") : t(TOOL_LABEL[l.tool])}</span>
         {l.tool === "save_to_plan" ? (
           <span className="block text-muted-foreground">{t("{p} programmes and {g} skill gaps", { p: Number(p) || 0, g: Number(g) || 0 })}</span>
         ) : (
@@ -179,7 +179,7 @@ function Ask() {
 /** The audit's state: checking, all supported, or blocked and rewritten (with the claim and the official text). */
 function Audit() {
   const t = useT();
-  const { status, audit, rewritten, blocked } = useAdviser();
+  const { status, audit, rewritten, blocked, unchecked } = useAdviser();
   const failed = blocked?.verdicts.filter((v) => v.status !== "supported") ?? [];
   return (
     <div className="space-y-2">
@@ -215,7 +215,13 @@ function Audit() {
           <Spinner className="size-3.5" /> {t("A second AI is checking every figure against the official sources…")}
         </p>
       )}
-      {status === "done" && audit && !audit.blocked && (
+      {status === "done" && unchecked && (
+        <p className="flex items-center gap-1.5 text-sm font-medium text-amber-700 dark:text-amber-400">
+          <ShieldAlertIcon className="size-4" aria-hidden />
+          {t("The second AI couldn’t finish its check in time: ask a Kaplan adviser before you act on these figures.")}
+        </p>
+      )}
+      {status === "done" && audit && !audit.blocked && !unchecked && (
         <p className="flex items-center gap-1.5 text-sm font-medium text-emerald-700 dark:text-emerald-400">
           <ShieldCheckIcon className="size-4" aria-hidden />
           {t("Checked by a second AI: every figure matches the official sources")}
@@ -226,6 +232,18 @@ function Audit() {
           <ShieldAlertIcon className="size-4" aria-hidden />
           {t("Still not matching the official text after a rewrite: ask a Kaplan adviser before you act on the flagged lines.")}
         </p>
+      )}
+      {status === "done" && audit?.blocked && (
+        <ul className="list-disc space-y-1 pl-5 text-xs text-destructive">
+          {audit.verdicts
+            .filter((v) => v.status !== "supported")
+            .map((v, i) => (
+              <li key={i}>
+                {v.claim}
+                {v.note && <span className="text-muted-foreground"> — {v.note}</span>}
+              </li>
+            ))}
+        </ul>
       )}
     </div>
   );

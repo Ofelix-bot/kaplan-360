@@ -16,7 +16,11 @@ import { CLIENT_TOOLS, MAX_ASKS, MAX_STEPS, SERVER_TOOLS, type AgentMessage, typ
 // lib/parent-plan.ts lineOk (no admission wording, no hedging, only numbers a tool result or the student gave) and the
 // page's language, every source against the ids the tools returned; what fails is dropped. Nothing is stored or logged.
 
-const MODEL = process.env.AGENT_MODEL || "claude-sonnet-5-5";
+// Haiku: Sonnet 5.5 chose tools as well but wrote the final plan too slowly for the host's ~10 s per call (2026-11-03).
+const MODEL = process.env.AGENT_MODEL || "claude-haiku-5-5";
+/** Sonnet 5.5 takes neither thinking "disabled" nor a forced tool: it thinks only between tool calls (thinking blocks the
+ * conversation must carry back), and a call that must happen is made the only tool offered. Haiku takes both. */
+const LEGACY = /haiku/.test(MODEL);
 /** The whole request's budget: the host gives one call about 10 s. */
 const BUDGET_MS = 8800;
 /** The server tools' share of it, so the model call that follows keeps at least 4 s. */
@@ -67,13 +71,16 @@ const CHECK: Record<ServerTool, (v: unknown) => Checked<unknown>> = {
 
 // ── the conversation as the browser sent it ──────────────────────────────────────────────────────────────
 
-type Block = Anthropic.TextBlockParam | Anthropic.ToolUseBlockParam | Anthropic.ToolResultBlockParam;
+type Block = Anthropic.TextBlockParam | Anthropic.ToolUseBlockParam | Anthropic.ToolResultBlockParam | Anthropic.ThinkingBlockParam | Anthropic.RedactedThinkingBlockParam;
 
 /** One content block with only the fields the API takes (no cache_control from the browser), or null. */
 function blockOf(v: unknown): Block | null {
   const b = v && typeof v === "object" ? (v as Record<string, unknown>) : null;
   if (!b) return null;
   if (b.type === "text" && typeof b.text === "string") return { type: "text", text: b.text.slice(0, 20_000) };
+  // The model's thinking between tool calls goes back unchanged (its signature covers it).
+  if (b.type === "thinking" && typeof b.thinking === "string" && typeof b.signature === "string") return { type: "thinking", thinking: b.thinking, signature: b.signature };
+  if (b.type === "redacted_thinking" && typeof b.data === "string") return { type: "redacted_thinking", data: b.data };
   if (b.type === "tool_use" && typeof b.id === "string" && typeof b.name === "string" && b.input && typeof b.input === "object") return { type: "tool_use", id: b.id, name: b.name, input: b.input };
   if (b.type === "tool_result" && typeof b.tool_use_id === "string") {
     const content = typeof b.content === "string" ? b.content : Array.isArray(b.content) ? b.content.map((c) => (c && typeof c === "object" && typeof c.text === "string" ? c.text : "")).join("\n") : "";
@@ -249,18 +256,33 @@ export async function runStep(x: StepInput, apiKey: string): Promise<StepRespons
     { role: last.role, content: [...lastBlocks.slice(0, -1), { ...lastBlocks.at(-1)!, cache_control: { type: "ephemeral" } } as Block] },
   ];
   const remaining = Math.max(2500, BUDGET_MS - (Date.now() - t0));
-  const msg = await client(apiKey, remaining).messages.create({
-    model: MODEL,
-    max_tokens: 1800,
-    thinking: { type: "disabled" },
-    system: [{ type: "text", text: SYSTEM, cache_control: { type: "ephemeral" } }],
-    tools: TOOLS,
-    tool_choice: step >= MAX_STEPS ? { type: "tool", name: "finish" } : { type: "auto" },
-    messages: marked,
-  });
+  let msg: Anthropic.Message;
+  try {
+    msg = await client(apiKey, remaining).messages.create({
+      model: MODEL,
+      max_tokens: 1800,
+      thinking: LEGACY ? { type: "disabled" } : { type: "between_tools" },
+      system: [{ type: "text", text: SYSTEM, cache_control: { type: "ephemeral" } }],
+      tools: step >= MAX_STEPS && !LEGACY ? TOOLS.filter((t) => "name" in t && t.name === "finish") : TOOLS,
+      tool_choice: step >= MAX_STEPS && LEGACY ? { type: "tool", name: "finish" } : { type: "auto" },
+      messages: marked,
+    });
+  } catch (e) {
+    // Out of time: the browser sees the conversation unchanged, says so in its trace and sends this step again.
+    if (e instanceof Anthropic.APIConnectionTimeoutError) return { messages: x.messages, calls: [], trace, final: null, step };
+    throw e;
+  }
 
   const reply: Block[] = msg.content.flatMap((b): Block[] =>
-    b.type === "text" && b.text.trim() ? [{ type: "text", text: b.text }] : b.type === "tool_use" ? [{ type: "tool_use", id: b.id, name: b.name, input: b.input }] : [],
+    b.type === "text" && b.text.trim()
+      ? [{ type: "text", text: b.text }]
+      : b.type === "tool_use"
+        ? [{ type: "tool_use", id: b.id, name: b.name, input: b.input }]
+        : b.type === "thinking"
+          ? [{ type: "thinking", thinking: b.thinking, signature: b.signature }]
+          : b.type === "redacted_thinking"
+            ? [{ type: "redacted_thinking", data: b.data }]
+            : [],
   );
   const out: AgentMessage[] = [...messages, { role: "assistant", content: reply.length ? reply : [{ type: "text", text: "(no reply)" }] }];
 
@@ -268,7 +290,9 @@ export async function runStep(x: StepInput, apiKey: string): Promise<StepRespons
   const known = knownOf(messages);
   const ok = (() => {
     const nums = allowed([...known.texts, x.text, answersLine(x.answers)], today);
-    return (line: string) => lineOk(line, nums) && inLanguage(line, x.locale);
+    // Month names leave the line before the hedging check: "Apply in May 2027" is a date, not "may".
+    const MONTHS = /\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\b/g;
+    return (line: string) => lineOk(line.replace(MONTHS, ""), nums) && inLanguage(line, x.locale);
   })();
   let asks = known.asks;
   let final: Final | null = null;

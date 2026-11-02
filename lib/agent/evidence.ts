@@ -4,6 +4,8 @@ import epTable from "@/data/raw/ep-qualifying-salary.json";
 import policy from "@/data/raw/policy-risks.json";
 import { getRole } from "@/lib/data/careers-db";
 import { getResultsData } from "@/lib/data/results";
+import { LEVEL_NAME } from "@/lib/admit-range";
+import { admittedGpa } from "@/lib/finder/admitted-gpa";
 import { epFloor } from "@/lib/ep";
 import type { PlanAnswers } from "@/lib/plan-storage";
 import { supabase } from "@/lib/supabase";
@@ -91,6 +93,23 @@ async function programmeEvidence(refs: SourceRef[]): Promise<Evidence[]> {
     const p = results.programmes.find((q) => q.id === id);
     if (!p) continue;
     out.push({ key, label: `programme ${id}: its name and university`, quote: `${p.name}, ${results.universities[p.u].name} (${p.campus?.country ?? results.universities[p.u].country})`, url: p.url, date: p.checked, verified: null });
+    // The site's own record, as the finder shows it and the tools returned it: facts read from the official page and the
+    // figures the site works out itself (QS rank, the admitted GPA range from its admission model).
+    const u = results.universities[p.u];
+    const gpa = admittedGpa(p.fit, p.cases, results.fittedGpa, results.match.tierShift);
+    const record = [
+      p.months ? `${p.months} months` : null,
+      p.fee ? `fee ${p.fee.currency ?? ""} ${p.fee.amount}${p.fee.basis ? ` (${p.fee.basis})` : ""}` : null,
+      p.feeSgd ? `fee in S$ at the MAS rate: ${Math.round(p.feeSgd)}${p.feeBasis ? ` per ${p.feeBasis}` : ""}` : null,
+      p.ielts ? `IELTS ${p.ielts} overall` : null,
+      p.minBasis ? `minimum: ${p.minBasis}` : p.minClass ? `minimum class: ${["", "First", "2:1", "2:2", "Third"][p.minClass]}` : null,
+      p.academic ? `requirement as read: ${p.academic.slice(0, 200)}` : null,
+      p.range.floor !== null ? `admits at least (the site's reading of the requirement): ${LEVEL_NAME[p.range.floor]}` : null,
+      `usually admits (the site's reading): ${LEVEL_NAME[p.range.usual]}`,
+      u.qs ? `QS World University Rankings 2027: ${u.qs}` : null,
+      gpa ? `admitted GPA on a 4.0 scale (the site's admission model): 25th percentile ${gpa.p25}, median ${gpa.median}, 75th percentile ${gpa.p75}` : null,
+    ].filter(Boolean);
+    if (record.length) out.push({ key, label: `programme ${id}: Kaplan 360++'s own record (page facts and the site's model figures)`, quote: record.join("; "), url: p.url, date: p.checked, verified: null });
     for (const f of p.range.from) {
       if (f.k === "stated") out.push({ key, label: `programme ${id}: who it admits, in its own words`, quote: f.quote, url: f.url, date: p.checked, verified: null });
       if (f.k === "competitive") out.push({ key, label: `programme ${id}: its wording on competition`, quote: f.quote, url: p.url, date: p.checked, verified: null });
@@ -131,7 +150,8 @@ async function careerEvidence(refs: SourceRef[]): Promise<Evidence[]> {
   return roles.flatMap(({ id, role }) => {
     if (!role) return [];
     const key = sourceKey({ kind: "career", id });
-    const facts = role.facts.slice(0, 4).map((f) => ({ key, label: `${role.title}: ${f.fact.metric} (${f.fact.publisher})`, quote: f.fact.quote.slice(0, 600), url: f.fact.url, date: f.fact.publishedOn, verified: null }));
+    // Every fact the role page shows (wages, openings, outlook), so a figure the hot-roles tool returned has its quote here.
+    const facts = role.facts.slice(0, 10).map((f) => ({ key, label: `${role.title}: ${f.fact.metric} (${f.fact.publisher})`, quote: f.fact.quote.slice(0, 600), url: f.fact.url, date: f.fact.publishedOn, verified: null }));
     const skills = { key, label: `${role.title}: the skills the Skills Framework lists`, quote: role.skills.map((s) => `${s.skill} (level ${s.level})`).join("; "), url: null, date: null, verified: null };
     return [...facts, skills];
   });

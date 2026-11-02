@@ -10,14 +10,14 @@ import { useWorkspace } from "@/lib/workspace/store";
 
 // The adviser's loop, in the browser (lib/agent/types.ts has the contract). One run: POST /api/agent/step until the
 // model calls finish, handling the browser's tools on the way (a question card, a write to the visitor's plan); then
-// POST /api/agent/audit, and when the audit blocks, one more round in which the model rewrites against the audit's
+// POST /api/agent/audit, and when the audit blocks, up to two more rounds in which the model rewrites against the audit's
 // quotes. The visitor's answers never leave this browser except inside these two requests. ?mock=1 (or
 // NEXT_PUBLIC_AGENT_MOCK=1) replays lib/agent/mock.ts instead of calling the server.
 
 export type RunStatus = "idle" | "running" | "asking" | "auditing" | "done" | "error";
 
 /** A trace line as the page shows it: the server's entries, the browser's own, and the calls still running. */
-export type TraceLine = TraceEntry & { pending?: boolean };
+export type TraceLine = TraceEntry & { pending?: boolean; retry?: boolean };
 
 type Saved = { programmes: number; gaps: number; before: { shortlist: string[]; skillGaps: SkillGap[] } };
 
@@ -31,6 +31,8 @@ type RunState = {
   rewritten: boolean;
   /** That first, blocking audit (the page keeps showing what it caught). */
   blocked: AuditResponse | null;
+  /** The audit didn't answer in time: the advice shows, marked as not checked. */
+  unchecked: boolean;
   saved: Saved | null;
   error: AgentError["error"] | null;
   start: (x: { text: string; locale: Locale; context: PageContext }) => void;
@@ -115,10 +117,20 @@ export const useAdviser = create<RunState>()((set, get) => {
     let messages: AgentMessage[] = [];
     let clientResults: StepRequest["clientResults"] = [];
     let asks = 0;
+    let rewrites = 0;
     // A rewrite round on top of the run's own steps.
-    for (let n = 0; n < MAX_STEPS + 2; n++) {
-      const res = await step({ locale: x.locale, context: x.context, answers: usePlanStore.getState().answers, text: x.text, messages, clientResults });
+    for (let n = 0; n < MAX_STEPS + 3; n++) {
+      const req = { locale: x.locale, context: x.context, answers: usePlanStore.getState().answers, text: x.text, messages, clientResults };
+      let res = await step(req);
       if (!live()) return;
+      // The server answers a step whose model call ran out of time with the conversation unchanged: say so in the trace
+      // and send the same step once more (the server keeps no state, so it is safe to repeat).
+      if (res.messages.length === messages.length && !res.final) {
+        addTrace([{ id: `retry-${n}`, tool: "finish", lane: "you", summary: "", sources: 0, ms: 0, status: "error", retry: true }]);
+        res = await step(req);
+        if (!live()) return;
+        if (res.messages.length === messages.length) throw new AgentFailure("failed");
+      }
       messages = res.messages;
       clientResults = [];
       addTrace(res.trace);
@@ -149,19 +161,25 @@ export const useAdviser = create<RunState>()((set, get) => {
 
       if (res.final) {
         set({ final: res.final, status: "auditing", audit: null });
-        const verdicts = await audit(res.final);
+        const verdicts = await audit(res.final).catch((): AuditResponse => ({ blocked: false, verdicts: [], unchecked: true }) as AuditResponse);
         if (!live()) return;
+        if ((verdicts as AuditResponse & { unchecked?: boolean }).unchecked) {
+          set({ audit: verdicts, status: "done", unchecked: true });
+          return;
+        }
         set({ audit: verdicts });
         const finishId = res.calls.find((c) => c.name === "finish")?.id;
-        if (verdicts.blocked && !get().rewritten && finishId) {
-          set({ rewritten: true, blocked: verdicts, status: "running" });
+        // Up to two rewrites against the audit's quotes; what still fails after them goes to a person.
+        if (verdicts.blocked && rewrites < 2 && finishId) {
+          rewrites += 1;
+          set({ rewritten: true, blocked: get().blocked ?? verdicts, status: "running" });
           clientResults.push({ id: finishId, content: auditNote(verdicts) });
           continue;
         }
         set({ status: "done" });
         return;
       }
-      if (!res.calls.length) throw new AgentFailure("failed");
+      // A reply with no tool call goes on: the next step tells the model to use the tools or call finish.
     }
     throw new AgentFailure("too-many-steps");
   }
@@ -174,6 +192,7 @@ export const useAdviser = create<RunState>()((set, get) => {
     audit: null,
     rewritten: false,
     blocked: null,
+    unchecked: false,
     saved: null,
     error: null,
     start: (x) => {
@@ -182,7 +201,7 @@ export const useAdviser = create<RunState>()((set, get) => {
       // Read on /results: the programme the visitor has open.
       const selected = x.context.page === "results" ? useWorkspace.getState().selectedId : null;
       const context = selected ? { ...x.context, programmeId: selected } : x.context;
-      set({ status: "running", trace: [], ask: null, final: null, audit: null, rewritten: false, blocked: null, saved: null, error: null });
+      set({ status: "running", trace: [], ask: null, final: null, audit: null, rewritten: false, blocked: null, unchecked: false, saved: null, error: null });
       run({ ...x, context }, id).catch((e) => {
         if (id === runId) set({ status: "error", ask: null, error: e instanceof AgentFailure ? e.code : "failed" });
       });
@@ -201,7 +220,7 @@ export const useAdviser = create<RunState>()((set, get) => {
     reset: () => {
       runId += 1;
       resolveAsk = null;
-      set({ status: "idle", trace: [], ask: null, final: null, audit: null, rewritten: false, blocked: null, saved: null, error: null });
+      set({ status: "idle", trace: [], ask: null, final: null, audit: null, rewritten: false, blocked: null, unchecked: false, saved: null, error: null });
     },
   };
 });

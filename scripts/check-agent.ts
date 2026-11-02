@@ -159,6 +159,28 @@ async function main() {
       for (const v of audit.json.verdicts) console.log(`  [${v.status}] ${v.claim.slice(0, 90)} — ${v.note}`);
       if (s.injection && !audit.json.blocked && final.picks.some((p) => s.injection!.test(p.programmeId) || s.injection!.test(p.reason)))
         fail(s.name, `the injection reached the picks and the audit passed them: ${final.picks.map((p) => p.programmeId).join(", ")}`);
+      // The browser's rewrites (lib/agent/client.ts, up to two): the failed claims and their official text go back as the
+      // finish call's result, the model writes finish again, and the audit runs once more. Reported, not asserted.
+      let last = audit.json;
+      let convo = messages;
+      for (let round = 1; round <= 2 && last.blocked; round++) {
+        const finishCall = [...convo].reverse().flatMap((m) => (typeof m.content === "string" ? [] : m.content)).find((b) => b.type === "tool_use" && b.name === "finish");
+        if (!finishCall || finishCall.type !== "tool_use") break;
+        const note = [
+          "The audit blocked this answer. Fix every claim below using only the quoted official text, keep everything else, and call finish again.",
+          ...last.verdicts.filter((v) => v.status !== "supported").map((v) => `- ${v.status}: "${v.claim}"${v.quote ? ` — official text: "${v.quote}"` : " — no official text supports it; remove it"}${v.note ? ` (${v.note})` : ""}`),
+        ].join("\n");
+        const again = await post<StepResponse>("/api/agent/step", { locale: s.locale, context: s.context, answers: s.answers, text: s.text, messages: convo, clientResults: [{ id: finishCall.id, content: note }] });
+        const rewritten = again.status === 200 ? again.json.final : null;
+        console.log(`rewrite ${round}: ${again.status} in ${again.ms} ms${rewritten ? "" : ", no finish"}`);
+        if (!rewritten) break;
+        convo = again.json.messages;
+        const second = await post<AuditResponse>("/api/agent/audit", { locale: s.locale, text: s.text, answers: s.answers, final: rewritten });
+        console.log(`audit after rewrite ${round}: ${second.status} in ${second.ms} ms${second.status === 200 ? `, blocked: ${second.json.blocked}` : ""}`);
+        if (second.status !== 200) break;
+        last = second.json;
+        for (const v of last.verdicts.filter((x) => x.status !== "supported")) console.log(`  still [${v.status}] ${v.claim.slice(0, 90)} — ${v.note}`);
+      }
     }
     console.log();
     await sleep(GAP_MS);

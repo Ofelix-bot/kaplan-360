@@ -71,5 +71,7 @@
  "graduates {when}": "{when} 毕业",
  "level {n}": "{n} 级",
  "{n} official sources": "{n} 个官方来源",
- "{p} programmes and {g} skill gaps": "{p} 个课程和 {g} 项技能差距"
+ "{p} programmes and {g} skill gaps": "{p} 个课程和 {g} 项技能差距",
+ "That step took too long: asking the AI again": "这一步耗时太长：正在让 AI 重试",
+ "The second AI couldn’t finish its check in time: ask a Kaplan adviser before you act on these figures.": "第二个 AI 没能及时完成核对：按这些数字行动前，请先问 Kaplan 顾问。"
 }

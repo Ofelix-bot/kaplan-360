@@ -34,6 +34,7 @@
     "benefits:checklists": "tsx scripts/benefits/checklists.ts",
     "data:fx": "node scripts/data/fetch-mas-fx.mjs",
     "check:rai": "tsx scripts/check-rai.ts",
+    "kappy:sprite": "node scripts/kappy/build-sprite.mjs",
     "plan:dates": "tsx scripts/plan/dates.ts",
     "changes:snapshot": "tsx scripts/changes/diff.ts snapshot",
     "changes:diff": "tsx scripts/changes/diff.ts",

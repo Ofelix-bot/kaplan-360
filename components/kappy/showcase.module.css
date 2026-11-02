@@ -1,0 +1,56 @@
+/* /kappy (components/kappy/KappyShowcase.tsx): the stage with its controls, and a card per state. Site tokens only. */
+
+.page { display: grid; gap: 40px; padding-block: calc(var(--header-h, 68px) + 48px) 96px; }
+.head { display: grid; gap: 10px; max-width: 64ch; }
+.eyebrow { margin: 0; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent-ink); }
+.title { margin: 0; font-family: var(--font-display); font-stretch: 125%; font-size: clamp(44px, 8vw, 80px); font-weight: 800; line-height: 0.95; letter-spacing: -0.02em; color: var(--brand-ink, var(--text)); }
+.lead { margin: 0; font-size: 17px; line-height: 1.6; color: var(--text); }
+.note { margin: 0; font-size: 13px; color: var(--muted); }
+
+.sec { display: grid; gap: 14px; }
+.secHead { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 8px 20px; }
+.secHead h2 { margin: 0; font-family: var(--font-display); font-stretch: 125%; font-size: 22px; font-weight: 700; color: var(--text); }
+.secHead p { margin: 0; max-width: 62ch; color: var(--muted); font-size: 15px; }
+
+.grid {
+  background-color: var(--surface);
+  background-image: linear-gradient(color-mix(in srgb, var(--brand-ink, #240f6e) 6%, transparent) 1px, transparent 1px), linear-gradient(90deg, color-mix(in srgb, var(--brand-ink, #240f6e) 6%, transparent) 1px, transparent 1px);
+  background-size: 12px 12px;
+}
+
+.stage { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; background: var(--bg); }
+.floor { --kappy-scale: 4; display: grid; align-content: center; justify-items: center; gap: 18px; padding: 28px 20px 20px; border-right: 1px solid var(--border); min-width: 0; }
+.row { display: flex; align-items: center; justify-content: center; gap: 22px; min-width: 0; max-width: 100%; }
+.lcd { display: flex; flex-wrap: wrap; gap: 4px 14px; font-family: ui-monospace, "SFMono-Regular", Menlo, monospace; font-size: 12px; letter-spacing: 0.08em; padding: 7px 12px; border: 1px solid var(--border); border-radius: 4px; background: var(--bg); color: var(--muted); }
+.lcd b { color: var(--text); font-weight: 600; }
+.controls { display: grid; gap: 16px; padding: 22px 20px; align-content: start; min-width: 0; }
+.group { display: grid; gap: 8px; }
+.group h3 { margin: 0; font-size: 13px; font-weight: 500; color: var(--muted); }
+.btns { display: flex; flex-wrap: wrap; gap: 8px; }
+.btn { border: 1px solid var(--border); background: var(--bg); color: var(--text); border-radius: 6px; padding: 7px 12px; font: inherit; font-size: 14px; cursor: pointer; display: inline-flex; align-items: center; gap: 7px; box-shadow: 0 2px 0 var(--border); }
+.btn:hover { border-color: var(--brand-ink, var(--text)); }
+.btn:active { translate: 0 2px; box-shadow: none; }
+.btn:focus-visible, .tile:focus-visible, .field input:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
+.ico { width: 24px; height: 15px; color: var(--accent-ink); flex: none; }
+.field { display: grid; gap: 6px; }
+.field label { font-size: 13px; color: var(--muted); }
+.field input { font: inherit; padding: 9px 11px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); width: 100%; }
+
+.sheet { --kappy-scale: 2; display: grid; grid-template-columns: repeat(auto-fill, minmax(168px, 1fr)); gap: 12px; }
+.tile { display: grid; justify-items: center; align-content: start; gap: 8px; padding: 14px 10px 12px; cursor: pointer; text-align: center; border: 1px solid var(--border); border-radius: 8px; background: var(--bg); color: var(--text); font: inherit; }
+.tile:hover { border-color: var(--brand-ink, var(--text)); }
+.box { width: 100%; display: flex; justify-content: center; padding-top: 6px; border-radius: 4px; }
+.tile b { font-size: 14px; }
+.tile small { font-size: 12.5px; color: var(--muted); line-height: 1.5; }
+
+@media (max-width: 860px) {
+  .stage { grid-template-columns: minmax(0, 1fr); }
+  .floor { border-right: 0; border-bottom: 1px solid var(--border); }
+}
+@media (max-width: 560px) {
+  .floor { --kappy-scale: 3; }
+  .row { flex-direction: column; gap: 14px; }
+}
+@media (max-width: 560px) {
+  .row > div::before { left: 22px; top: -8px; box-shadow: -4px -4px 0 var(--text); }
+}

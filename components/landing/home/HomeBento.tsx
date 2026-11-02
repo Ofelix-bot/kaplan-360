@@ -6,7 +6,7 @@ import { useIntlLocale, useT } from "@/components/i18n/I18nProvider";
 import Link from "@/components/i18n/Link";
 import { ArrowSquare } from "@/components/shared/ArrowSquare";
 import { ExpandCard } from "@/components/shared/ExpandCard";
-import { PauseToggle, usePaused } from "@/components/shared/PauseProvider";
+import { usePaused } from "@/components/shared/PauseProvider";
 import { DRAFT } from "@/content/draft";
 import { HOME } from "@/content/home.en";
 import { CARDS, OPENER, type App } from "@/content/landing.en";
@@ -30,7 +30,7 @@ import { ScanVisual } from "./tiles/ScanVisual";
 // (lib/changes.ts), the programme count and its date (lib/data/results.ts getProgrammeCount), the worked
 // example's match rate and the model's size (lib/home/core-example.ts), the graduates from their receipts
 // (content/move.en.ts WHO). The pictures loop in CSS (globals.css .hb-*); they hold while the bento is
-// off screen, and show their final frame when the site's pause is on or with reduced motion.
+// off screen, and show their final frame with reduced motion.
 // The earlier tiles' pictures (the receipt, the pipeline, CSCSE) stay in ./tiles, unused.
 
 const H = DRAFT.home;
@@ -83,7 +83,6 @@ export function HomeBento({ reads, programmes, core, model }: Props) {
           {t(HOME.bento.title)}
         </h2>
         <div className="flex flex-wrap items-center gap-x-5 gap-y-3">
-          <PauseToggle className="text-(--muted)" />
           <Link
             href="/move"
             className="inline-flex min-h-11 items-center gap-3 rounded-md font-bold text-(--text) no-underline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-(--focus-ring) focus-visible:outline-solid"

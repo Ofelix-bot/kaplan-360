@@ -80,35 +80,35 @@
 
 ## 4. 讲稿（英文照念，中文为要点）
 
-目标 620 词左右，每分钟 130 词，留出点击和等待。
+约 610 词；按每分钟 130 词念是 4:40，含点击和等待刚好 5 分钟。括号里的句子是条件句，不计入。
 
 ### 4.1 开场（0:00–0:30）
 
-> Good afternoon. We're ReFly.X, and this is Kaplan 360++: the patch for what comes after a Kaplan degree. A job, a master's, or a gap, with every number traced back to the official page it came from.
+> Good afternoon. We're ReFly.X, and this is Kaplan 360++: what comes after a Kaplan degree, a job, a master's or a gap, with every number traced to the official page it came from.
 >
-> Today's brief said: build two AI features that only work because of the AI. Round 1, our user changed: the parent. Round 2, make it fail, and catch it. Both are live. Let's go.
+> The brief said: build two AI features that only work because of the AI. Round 1, our user changed: the parent. Round 2, make it fail, and catch it. Both are live. Let's go.
 
-要点：三句话说清产品；点名两个 feature；"both are live"是给评分表看的。
+要点：两句话说清产品；点名两个 feature；"both are live"是给评分表听的。
 
 ### 4.2 Feature 1 · For parents（0:30–2:30）
 
 **铺垫（不动鼠标）**
 
-> Our users were students, with a twelve-field form. Then the parent showed up. Often in China, often on WeChat, often in Chinese. Research on Kaplan students found most were "pushed" here by their parents' expectations. A parent doesn't fill in a form. A parent writes a paragraph: grades, budget, "she must get CSCSE recognition", "we worry about her finding a job". No filter has a field for a worry.
+> Our users were students, with a twelve-field form. Then the parent showed up: often in China, on WeChat, in Chinese. Research on Kaplan students found most were pushed here by their parents' expectations. A parent doesn't fill in a form. A parent writes a paragraph: grades, budget, "she must get CSCSE recognition", "we worry about her job". No filter has a field for a worry.
 
 **粘贴、点击**
 
-> Here is a parent's message, in Chinese, on the English page. Write the plan.
+> A parent's message, in Chinese, on the English page. Write the plan.
 
 **进度条在跑的时候**
 
-> Three steps. One: the AI reads the words, in any language, into the planner's fields and the family's needs. Two is not AI: our own rules take 10,800 programmes down to the ones that meet every condition. Three: the AI picks three and writes the plan in the page's language.
+> Three steps. One: the AI reads the words, in any language, into the planner's fields and the family's needs. Two is not AI: our rules take 10,800 programmes down to the ones that meet every condition. Three: the AI picks three and writes the plan.
 
 **指着结果**
 
-> What it read: a UCD finance top-up, June 2027, GPA 3.4, IELTS 6.5, 450,000 RMB for everything, UK or Singapore, one year, no GMAT, CSCSE recognition, works back home, Big Four audit. Every chip is a structured field, read out of Chinese prose.
+> What it read: a UCD finance top-up, June 2027, GPA 3.4, IELTS 6.5, 450,000 RMB for everything, UK or Singapore, one year, no GMAT, CSCSE recognition, works back home, Big Four audit. Every chip is a structured field read out of Chinese prose.
 >
-> Three programmes, each with one reason tied to the family's own words. Then the things a parent asks first: the cost in RMB at the MAS rate; what graduates actually earn, from the official survey; whether the degree is on CSCSE's recognition list; the months ahead; and three things to do this month, split between parent and child, with three questions to talk over.
+> Three programmes, each with one reason tied to the family's own words. Then what a parent asks first: cost in RMB at the MAS rate; what graduates earn, from the official survey; whether the degree is on CSCSE's list; the months ahead; three things to do this month, parent and child, and three questions to talk over.
 
 （若某个项目显示 "Next in the finder's order"，顺口加一句：）
 
@@ -116,7 +116,7 @@
 
 **AI test + 可控**
 
-> The AI test: take Claude away and this page says "not available". There is no rule that turns "we worry about her job" into a plan. And every line it writes is checked on the way out: no number that isn't in the text or the data, no hedging, no promise of admission. The parent stays in charge: take a condition off, and the plan is written again.
+> The AI test: take Claude away and this page says "not available". No rule turns "we worry about her job" into a plan. Every line it writes is checked on the way out: no number that isn't in the text or the data, no hedging, no promise of admission. And the parent stays in charge: take a condition off, and the plan is written again.
 
 要点：用户问题（家长、中文、段落、"担心"没有字段）→ AI 读 / 规则滤 / AI 写 → 拔掉 AI 剩什么 → 输出有检查 → 人可控。
 
@@ -124,32 +124,32 @@
 
 **铺垫**
 
-> Round 2. We built an adviser that chooses its own tools: programmes, admit rates, Employment Pass rules, hot roles, skill gaps, graduate outcomes. Powerful. And an adviser like this will sometimes say something confident that the official page does not support. So we made it fail on purpose, and built a second AI whose only job is to catch it.
+> Round 2. We built an adviser that chooses its own tools: programmes, admit rates, Employment Pass rules, hot roles, skill gaps, outcomes. Powerful. And an adviser like this will sometimes state something the official page does not support. So we made it fail on purpose, and built a second AI whose only job is to catch it.
 
 **点运行，讲 trace**
 
-> This is Arjun: Indian, Student's Pass, finishing his finance top-up, wants fintech in Singapore, parents want a master's. Watch the trace. The model decided to check the Employment Pass rules, the fintech roles, his skill gap, and the master's that would fill it. None of this is scripted. A Singapore citizen would get no Employment Pass check at all.
+> This is Arjun: Indian, Student's Pass, finishing his finance top-up, wants fintech in Singapore; his parents want a master's. Watch the trace: the model chose to check the Employment Pass rules, the fintech roles, his skill gap and the master's that fill it. None of this is scripted; a Singapore citizen would get no Employment Pass check.
 
 **失败与抓住**
 
-> The draft: profile, analysis, the study-or-work decision, a dated roadmap. And here is the failure: it repeated the 5,600-dollar Employment Pass figure from his own message.
+> The draft: profile, analysis, the study-or-work decision, a dated roadmap. And the failure: it repeated the 5,600-dollar Employment Pass figure from his own message.
 >
-> Now the audit. A separate model. It sees only the claims, his words and the official quotes, never the adviser's conversation. Verdict: conflict. MOM's table for applications from January 2027 says 6,000 for his age, and he applies in 2027. The release is blocked. The adviser is told what is wrong, rewrites once, the audit runs again: supported. Only now does Arjun see it.
+> Now the audit: a separate model that sees only the claims, his words and the official quotes, never the adviser's conversation. Verdict: conflict. MOM's table for applications from January 2027 says 6,000 for his age. The release is blocked, the adviser rewrites once, the audit runs again: supported. Only now does Arjun see it.
 
 **AI test**
 
-> Why this is AI and not a blocklist: a keyword list cannot know that 5,600 is stale for someone applying in 2027, or that "IELTS 6.5" conflicts with "no band below 6.0". The audit judges meaning against evidence. Remove it, and the wrong number reaches the student.
+> A keyword list cannot know that 5,600 is stale for someone applying in 2027, or that "IELTS 6.5" conflicts with "no band below 6.0". The audit judges meaning against evidence. Remove it, and the wrong number reaches the student.
 
 要点：用户问题（自信的错数字代价一年）→ 顾问自选工具 → 审核是第二个模型、只看结论和证据 → 拦下、改写、再审 → 关键词表做不到。
 
 如何"让它错"（三选一，按排练结果定，详见 §8）：
 1. **文本陷阱**：学生原话里带一个过期数字（"I heard the EP minimum for my age is S$5,600"），毕业月写 2027 年，使 `epFloor` 走 from2027 表（S$6,000）。顾问若复述 5,600（数字在原话里，过得了数字检查），审核对照 `ep-qualifying-salary.json` 判 conflict / stale。排练 5 次里至少 4 次触发才可用。
 2. **演示开关**（推荐实现）："Answer without looking anything up" 的 demo 模式：第一稿不调用服务端工具，只凭学生原话和模型记忆作答——这正是幻灯片上的 Before（unchecked AI output）。审核照常跑，改写时恢复工具。上台要说明："to show the failure reliably, I'm asking it to draft the way a plain chatbot would."
-3. **录屏兜底**：今天排练时录一段 15 秒的"被拦下"画面。现场如果审核全部 supported，就说"this time it got it right; this is from this morning when it didn't"，播放录屏。
+3. **录屏兜底**：排练时录一段 15 秒的"被拦下"画面。现场如果审核全部 supported，就说 "this time it got it right; this is from this morning when it didn't"，播放录屏。
 
 ### 4.4 收尾（4:30–4:50）
 
-> Two features, one principle: the AI reads and writes, the rules filter, and a second AI checks before a person sees anything. Nothing a student or a parent types is stored. Both are live at kaplan360pp dash v201 dot netlify dot app. Try the parent page on your phone, in your own language. Thank you. Questions?
+> Two features, one principle: the AI reads and writes, the rules filter, and a second AI checks before a person sees anything. Nothing anyone types is stored. Both are live at kaplan360pp dash v201 dot netlify dot app; try the parent page on your phone, in your own language. Thank you. Questions?
 
 唯一一张幻灯片（如果用）：左栏 "For parents · AI reads any language → rules filter 10,800 → AI writes 3 picks + this month"，右栏 "Adviser · model picks tools → draft → second model audits against official quotes → blocked → rewrite"，底部网址和二维码。
 

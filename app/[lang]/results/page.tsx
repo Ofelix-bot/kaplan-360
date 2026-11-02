@@ -1,4 +1,5 @@
 import { pageMetadata } from "@/lib/i18n/server";
+import { AdviserContext } from "@/components/agent/AdviserDock";
 import { FinderShell } from "@/components/finder/finder-frame";
 import { FinderList } from "@/components/finder/results-list";
 import { getKaplanAwarders } from "@/lib/data/partners";
@@ -10,6 +11,7 @@ export default async function FinderListPage() {
   const props = { programmes: KAPLAN_OPTIONS, disciplines: DISCIPLINES, schools: OTHER_SCHOOLS, awarders: await getKaplanAwarders(), sentence: false };
   return (
     <FinderShell props={props}>
+      <AdviserContext page="results" />
       <FinderList />
     </FinderShell>
   );

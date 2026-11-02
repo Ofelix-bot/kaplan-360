@@ -1,4 +1,5 @@
 import type { Viewport } from "next";
+import { AdviserContext } from "@/components/agent/AdviserDock";
 import { CareersEntry } from "@/components/careers/CareersEntry";
 import { DRAFT } from "@/content/draft";
 import { getIndustries, getRoleKeys, getStudentContext } from "@/lib/data/careers-db";
@@ -29,6 +30,7 @@ export default async function Careers() {
   const [industries, roleKeys, ctx] = await Promise.all([getIndustries(), getRoleKeys(), getStudentContext()]);
   return (
     <div className="ui careers-page">
+      <AdviserContext page="careers" />
       <CareersEntry ctx={ctx} industries={industries} roleKeys={roleKeys} />
     </div>
   );

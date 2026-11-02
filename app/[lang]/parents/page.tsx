@@ -1,4 +1,5 @@
 import { Inter } from "next/font/google";
+import { AdviserContext } from "@/components/agent/AdviserDock";
 import { pageMetadata } from "@/lib/i18n/server";
 import { FinderFrame, FinderShell } from "@/components/finder/finder-frame";
 import type { ParentsFacts } from "@/components/parents/family-plan";
@@ -50,6 +51,7 @@ export default async function ParentsPage() {
   return (
     <FinderFrame font={inter.variable}>
       <FinderShell props={props} needsData={false}>
+        <AdviserContext page="parents" />
         <ParentsApp props={props} sources={planSources(benefits, names)} facts={FACTS} />
       </FinderShell>
     </FinderFrame>

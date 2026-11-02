@@ -33,6 +33,8 @@
 @source "../components/finder";
 /* For parents (/parents), on the finder's skin. */
 @source "../components/parents";
+/* The AI adviser (/adviser and the right-hand dock on the service pages). */
+@source "../components/agent";
 /* The previous homepage sections, kept but unused: remove this line if they come back. */
 @source not "../components/landing/v1";
 /* The site's layout class; Tailwind would generate a utility of that name. */

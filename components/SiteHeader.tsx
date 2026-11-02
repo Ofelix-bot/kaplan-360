@@ -5,6 +5,7 @@ import { ArrowRightIcon } from "lucide-react";
 import { useLocale, useT } from "@/components/i18n/I18nProvider";
 import LanguageSwitcher from "@/components/i18n/LanguageSwitcher";
 import Link from "@/components/i18n/Link";
+import { AdviserToggle } from "@/components/agent/AdviserDock";
 import { DRAFT } from "@/content/draft";
 import { INDUSTRIES } from "@/lib/careers/industries";
 import { industryHref } from "@/lib/careers/links";
@@ -38,6 +39,8 @@ const FLOW: Service[] = [
 const MORE: Service[] = [
   // The visitor's own words, read into their own answers: no example (the page closes any open one).
   { href: "/parents", name: "For parents", note: "Tell us about your child, in your own words" },
+  // The AI adviser's own page; on wide screens the header's button opens it beside the page instead.
+  { href: "/adviser", name: "AI adviser", note: "Master’s first or work first? Ask the AI" },
   { href: "/pathway", name: "Routes to a degree", note: "The ways to a bachelor’s", example: "mei" },
   { href: "/algorithm", name: "Core Algorithm", note: "How the match rate is worked out" },
   { href: "/outcomes", name: "Graduate outcomes", note: "Employment rates and starting pay", example: "arjun" },
@@ -306,6 +309,8 @@ export default function SiteHeader() {
             <ServicesMenu open={megaOpen} setOpen={setMegaOpen} />
             <Link href="/about">{t("About us")}</Link>
           </nav>
+
+          <AdviserToggle />
 
           <Link href="/profile" className="button button-accent header-cta" onClick={() => closeExampleNow()}>
             {t("Start planning")} <ArrowRightIcon className="arrow" size={16} aria-hidden="true" />

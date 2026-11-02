@@ -510,6 +510,9 @@ html body .site-header[data-menu="open"] {
   .nav-mega-grid { border-top-color: var(--text); }
 }
 .header-cta { display: none; }
+/* The AI adviser's header button (components/agent/AdviserDock.tsx): wide screens only, beside Start planning. */
+.header-adviser { display: none; min-height: 40px; padding: 8px 16px; margin-right: 8px; border-color: var(--hd-line); color: var(--hd-ink); background: transparent; }
+.header-adviser:hover, .header-adviser[aria-pressed="true"] { border-color: var(--brand); color: var(--brand); }
 
 .menu-toggle {
   display: inline-flex; align-items: center; justify-content: center;
@@ -608,6 +611,7 @@ html body .site-header[data-menu="open"] {
 @media (min-width: 960px) {
   .nav-links { display: flex; margin: 0 auto; }
   .header-cta { display: inline-flex; }
+  .header-adviser { display: inline-flex; gap: 8px; }
   .lang { margin-left: -12px; margin-right: -10px; }
   .menu-toggle, .mobile-menu { display: none; }
 }
@@ -2570,4 +2574,15 @@ a:focus-visible .arrow-square, button:focus-visible .arrow-square { transform: t
   .pfab-link:hover, .pfab-link:active { transform: none; }
 }
 @media print { .pfab, .pfab-tab { display: none; } }
+
+/* The AI adviser docked on the right (components/agent/AdviserDock.tsx sets data-adviser-dock and --dock-w on <html>):
+   the page and the footer make room for it, so it sits beside the content, not over it. */
+@media (min-width: 1024px) {
+  html[data-adviser-dock] #main, html[data-adviser-dock] .site-footer { margin-right: var(--dock-w); }
+  html[data-adviser-dock] .pfab { right: calc(var(--dock-w) + 16px); }
+}
+/* A page's own button that opens the adviser (e.g. under the /outcomes chart). */
+.adviser-prompt { flex-wrap: wrap; justify-content: center; margin: 24px auto 0; }
+.adviser-prompt-note { flex-basis: 100%; font-size: 0.8rem; font-weight: 400; opacity: 0.8; }
+.adviser-prompt-row { display: flex; justify-content: center; }
 }

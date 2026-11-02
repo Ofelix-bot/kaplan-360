@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { AdviserContext, AdviserPrompt } from "@/components/agent/AdviserDock";
 import EmployerTicker from "@/components/home/EmployerTicker";
 import OutcomesDetail from "@/components/home/OutcomesDetail";
 import OutcomesExplorer from "@/components/home/OutcomesExplorer";
@@ -32,6 +33,11 @@ export default async function OutcomesPage() {
         <Reveal>
           <OutcomesExplorer />
         </Reveal>
+        {/* The AI adviser: what these figures mean for this student (components/agent). */}
+        <AdviserContext page="outcomes" />
+        <div className="adviser-prompt-row">
+          <AdviserPrompt label={t("What do these numbers mean for you?")} />
+        </div>
       </div>
       <EmployerTicker />
       <OutcomesDetail />

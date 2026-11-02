@@ -1,0 +1,123 @@
+# university-of-hull https://www.hull.ac.uk
+robots sitemaps: https://www.hull.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 2466 · master's-looking 471
+  158  www.hull.ac.uk/study/undergraduate/courses
+         https://www.hull.ac.uk/study/undergraduate/courses/accounting-and-financial-management-bsc-hons
+         https://www.hull.ac.uk/study/undergraduate/courses/accounting-bsc-hons
+         https://www.hull.ac.uk/study/undergraduate/courses/acting-ba-hons
+         https://www.hull.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc-meng-hons
+   80  www.hull.ac.uk/study/postgraduate-taught/courses
+         https://www.hull.ac.uk/study/postgraduate-taught/courses/accounting-and-finance-msc
+         https://www.hull.ac.uk/study/postgraduate-taught/courses/advanced-chemical-engineering-msc
+         https://www.hull.ac.uk/study/postgraduate-taught/courses/advanced-clinical-practice-msc
+         https://www.hull.ac.uk/study/postgraduate-taught/courses/advanced-computer-science-msc
+   32  www.hull.ac.uk/study/postgraduate-research/courses
+         https://www.hull.ac.uk/study/postgraduate-research/courses/accounting-and-finance-research-degrees
+         https://www.hull.ac.uk/study/postgraduate-research/courses/american-studies-research-degrees
+         https://www.hull.ac.uk/study/postgraduate-research/courses/biochemistry-research-degrees
+         https://www.hull.ac.uk/study/postgraduate-research/courses/biological-and-environmental-sciences-research-degrees
+   22  www.hull.ac.uk/study/undergraduate/subjects
+         https://www.hull.ac.uk/study/undergraduate/subjects/accounting-and-finance
+         https://www.hull.ac.uk/study/undergraduate/subjects/biological-and-marine-science
+         https://www.hull.ac.uk/study/undergraduate/subjects/biomedical-and-forensic-science
+         https://www.hull.ac.uk/study/undergraduate/subjects/business-management-and-marketing
+   20  www.hull.ac.uk/study/undergraduate/fees-and-funding
+         https://www.hull.ac.uk/study/undergraduate/fees-and-funding/complete-guide
+         https://www.hull.ac.uk/study/undergraduate/fees-and-funding/scholarships-and-awards
+         https://www.hull.ac.uk/study/undergraduate/fees-and-funding/scholarships-and-awards/black-students-in-law-scholarship
+         https://www.hull.ac.uk/study/undergraduate/fees-and-funding/scholarships-and-awards/chancellors-scholarship
+   16  www.hull.ac.uk/help-centre/applying-to-hull
+         https://www.hull.ac.uk/help-centre/applying-to-hull/how-do-i-apply-for-an-undergraduate-degree-at-the-university-of-hull
+         https://www.hull.ac.uk/help-centre/applying-to-hull/how-do-i-apply-for-a-postgraduate-taught-course-at-hull
+         https://www.hull.ac.uk/help-centre/applying-to-hull/how-do-i-check-the-entry-requirements-for-my-course-postgrad
+         https://www.hull.ac.uk/help-centre/applying-to-hull/when-should-i-apply-for-a-postgraduate-taught-course
+   13  www.hull.ac.uk/study/postgraduate-taught/fees-and-funding
+         https://www.hull.ac.uk/study/postgraduate-taught/fees-and-funding/complete-guide
+         https://www.hull.ac.uk/study/postgraduate-taught/fees-and-funding/scholarships-and-awards
+         https://www.hull.ac.uk/study/postgraduate-taught/fees-and-funding/scholarships-and-awards/alumni-postgraduate-scholarship
+         https://www.hull.ac.uk/study/postgraduate-taught/fees-and-funding/scholarships-and-awards/commonwealth-scholarships-scheme
+   12  www.hull.ac.uk/news-and-events/news
+         https://www.hull.ac.uk/news-and-events/news/curtain-up-celebrating-our-graduates-and-change-makers-of-2024
+         https://www.hull.ac.uk/news-and-events/news/decision-welcomed-on-graduate-visa-following-campaign
+         https://www.hull.ac.uk/news-and-events/news/from-strength-to-strength-university-of-hull-graduate-progress-outperforms-yorkshire-universities
+         https://www.hull.ac.uk/news-and-events/news/hull-confirms-importance-of-graduate-visa-route-to-prime-minister
+   11  www.hull.ac.uk/study/undergraduate
+         https://www.hull.ac.uk/study/undergraduate/courses
+         https://www.hull.ac.uk/study/undergraduate/how-to-apply
+         https://www.hull.ac.uk/study/undergraduate/fees-and-funding
+         https://www.hull.ac.uk/study/undergraduate/meet-us
+   10  www.hull.ac.uk/study/undergraduate/meet-us
+         https://www.hull.ac.uk/study/undergraduate/meet-us/open-days
+         https://www.hull.ac.uk/study/undergraduate/meet-us/open-days/why-come-to-an-open-day
+         https://www.hull.ac.uk/study/undergraduate/meet-us/open-days/booking-confirmation
+         https://www.hull.ac.uk/study/undergraduate/meet-us/campus-visits
+    9  www.hull.ac.uk/study/postgraduate-research/fees-and-funding
+         https://www.hull.ac.uk/study/postgraduate-research/fees-and-funding/complete-guide
+         https://www.hull.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards
+         https://www.hull.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/commonwealth-scholarships-scheme
+         https://www.hull.ac.uk/study/postgraduate-research/fees-and-funding/scholarships-and-awards/hull-fc-rugby-league-scholarship
+    9  www.hull.ac.uk/help-centre/fees-and-funding
+         https://www.hull.ac.uk/help-centre/fees-and-funding/what-funding-is-available-for-masters-study
+         https://www.hull.ac.uk/help-centre/fees-and-funding/when-do-i-apply-for-student-finance-pgt
+         https://www.hull.ac.uk/help-centre/fees-and-funding/how-do-i-apply-for-student-finance-pgt
+         https://www.hull.ac.uk/help-centre/fees-and-funding/how-do-i-repay-my-loans-pgt
+    8  www.hull.ac.uk/study/postgraduate-research/funded-opportunities
+         https://www.hull.ac.uk/study/postgraduate-research/funded-opportunities/esrc-white-rose-dtp-collaborative-scholarship
+         https://www.hull.ac.uk/study/postgraduate-research/funded-opportunities/living-well-with-water
+         https://www.hull.ac.uk/study/postgraduate-research/funded-opportunities/living-well-with-water/affordable-3d-scanning-and-data-visualisation-solutions-in-extended-reality-for-coastal-challenges
+         https://www.hull.ac.uk/study/postgraduate-research/funded-opportunities/living-well-with-water/chronicle-to-core-a-multidisciplinary-approach-to-flood-histories-societal-resilience-and-community-engagement
+    7  www.hull.ac.uk/study/postgraduate-taught
+         https://www.hull.ac.uk/study/postgraduate-taught/courses
+         https://www.hull.ac.uk/study/postgraduate-taught/how-to-apply
+         https://www.hull.ac.uk/study/postgraduate-taught/fees-and-funding
+         https://www.hull.ac.uk/study/postgraduate-taught/open-events
+    6  www.hull.ac.uk/study/undergraduate/how-to-apply
+         https://www.hull.ac.uk/study/undergraduate/how-to-apply/complete-guide
+         https://www.hull.ac.uk/study/undergraduate/how-to-apply/ucas-personal-statement-guide
+         https://www.hull.ac.uk/study/undergraduate/how-to-apply/contextual-offers
+         https://www.hull.ac.uk/study/undergraduate/how-to-apply/contextual-offers/terms-and-conditions
+    6  www.hull.ac.uk/study/undergraduate/clearing
+         https://www.hull.ac.uk/study/undergraduate/clearing/clearing-first
+         https://www.hull.ac.uk/study/undergraduate/clearing/clearing-first/success
+         https://www.hull.ac.uk/study/undergraduate/clearing/complete-guide
+         https://www.hull.ac.uk/study/undergraduate/clearing/send-an-enquiry
+    6  www.hull.ac.uk/study/postgraduate-research
+         https://www.hull.ac.uk/study/postgraduate-research/courses
+         https://www.hull.ac.uk/study/postgraduate-research/funded-opportunities
+         https://www.hull.ac.uk/study/postgraduate-research/how-to-apply
+         https://www.hull.ac.uk/study/postgraduate-research/fees-and-funding
+    5  www.hull.ac.uk/study/undergraduate/foundation-years
+         https://www.hull.ac.uk/study/undergraduate/foundation-years/certificate-in-health-and-social-care
+         https://www.hull.ac.uk/study/undergraduate/foundation-years/george
+         https://www.hull.ac.uk/study/undergraduate/foundation-years/lara
+         https://www.hull.ac.uk/study/undergraduate/foundation-years/ramona
+    4  www.hull.ac.uk/study
+         https://www.hull.ac.uk/study/undergraduate
+         https://www.hull.ac.uk/study/postgraduate-taught
+         https://www.hull.ac.uk/study/postgraduate-research
+         https://www.hull.ac.uk/study/types-of-postgraduate-qualifications
+    4  www.hull.ac.uk/study/undergraduate/how-you-will-learn
+         https://www.hull.ac.uk/study/undergraduate/how-you-will-learn/teaching-excellence-framework
+         https://www.hull.ac.uk/study/undergraduate/how-you-will-learn/work-placements
+         https://www.hull.ac.uk/study/undergraduate/how-you-will-learn/work-placements/education
+         https://www.hull.ac.uk/study/undergraduate/how-you-will-learn/work-placements/health
+    3  www.hull.ac.uk/study/undergraduate/parents-carers-and-guardians
+         https://www.hull.ac.uk/study/undergraduate/parents-carers-and-guardians/choose-a-university
+         https://www.hull.ac.uk/study/undergraduate/parents-carers-and-guardians/student-living
+         https://www.hull.ac.uk/study/undergraduate/parents-carers-and-guardians/supporting-your-child
+    3  www.hull.ac.uk/study/postgraduate-research/how-to-apply
+         https://www.hull.ac.uk/study/postgraduate-research/how-to-apply/complete-guide
+         https://www.hull.ac.uk/study/postgraduate-research/how-to-apply/personal-statement-guide
+         https://www.hull.ac.uk/study/postgraduate-research/how-to-apply/research-proposal-guide
+    3  www.hull.ac.uk/study/international-students/how-to-apply
+         https://www.hull.ac.uk/study/international-students/how-to-apply/undergraduate
+         https://www.hull.ac.uk/study/international-students/how-to-apply/postgraduate-taught
+         https://www.hull.ac.uk/study/international-students/how-to-apply/postgraduate-research
+    3  www.hull.ac.uk/study/international-students/fees-and-funding
+         https://www.hull.ac.uk/study/international-students/fees-and-funding/undergraduate
+         https://www.hull.ac.uk/study/international-students/fees-and-funding/postgraduate-taught
+         https://www.hull.ac.uk/study/international-students/fees-and-funding/postgraduate-research
+    3  www.hull.ac.uk/help-centre/international-students
+         https://www.hull.ac.uk/help-centre/international-students/how-can-international-students-apply-for-an-undergraduate-degree
+         https://www.hull.ac.uk/help-centre/international-students/how-do-international-students-apply-for-a-postgraduate-taught-course
+         https://www.hull.ac.uk/help-centre/international-students/how-do-i-apply-for-a-postgraduate-research-degree-at-the-university-of-hull-as-an-international-student

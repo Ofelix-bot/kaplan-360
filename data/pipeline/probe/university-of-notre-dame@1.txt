@@ -1,0 +1,11 @@
+# university-of-notre-dame@1 https://www.nd.edu
+robots sitemaps: https://www.nd.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 43 · master's-looking 5
+    2  www.nd.edu/research
+         https://www.nd.edu/research/graduate-research/
+         https://www.nd.edu/research/undergraduate-research/
+    2  www.nd.edu/community
+         https://www.nd.edu/community/undergraduate-student-life/
+         https://www.nd.edu/community/graduate-student-life/
+    1  www.nd.edu/admissions
+         https://www.nd.edu/admissions/graduate-admissions/

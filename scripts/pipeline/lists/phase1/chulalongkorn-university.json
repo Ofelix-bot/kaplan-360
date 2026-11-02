@@ -1,0 +1,20 @@
+{
+ "source": "Chula graduate admission list of international (English-taught) programmes https://www.chula.ac.th/en/academics/admissions/graduate-admission/ (browser; Incapsula) -> each programme's own requirement page (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.cphs.chula.ac.th/index.php/program-in-public-health/master-of-public-health",
+  "https://www.cphs.chula.ac.th/index.php/program-in-public-health-sciences/master-of-public-health-sciences",
+  "https://mba.cbs.chula.ac.th/",
+  "https://msf.cbs.chula.ac.th/apply/application-requirements/",
+  "https://www.mfe.acc.chula.ac.th/admission/process",
+  "https://marketing.cbs.chula.ac.th/en/prospectus/master-in-branding-and-marketing-eng/admission",
+  "https://www.econ.chula.ac.th/student/grad-program/maae/",
+  "https://portal.edu.chula.ac.th/pub/tefl/index.php/admission/admission-requirements",
+  "https://www.psy.chula.ac.th/en/graduate",
+  "https://www.sasin.edu/programs/executive-mba/admissions",
+  "https://www.sasin.edu/programs/flexible-mba/admissions",
+  "https://mmchula.cbs.chula.ac.th/",
+  "https://www.mabe.econ.chula.ac.th/admission/admission-guide",
+  "https://www.inter.commarts.chula.ac.th/mscm-curriculum/"
+ ]
+}

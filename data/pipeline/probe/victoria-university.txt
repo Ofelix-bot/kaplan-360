@@ -1,0 +1,95 @@
+# victoria-university https://www.vu.edu.au
+robots sitemaps: https://www.vu.edu.au/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.vu.edu.au/sitemap.xml: 3 children (3 course-like)
+sitemaps read 4 · urls 5780 · master's-looking 254
+  112  www.vu.edu.au/courses
+         https://www.vu.edu.au/courses/graduate-diploma-in-international-community-development-agid
+         https://www.vu.edu.au/courses/graduate-diploma-in-counselling-agpd
+         https://www.vu.edu.au/courses/master-of-applied-psychology-clinical-psychology-amal
+         https://www.vu.edu.au/courses/master-of-international-community-development-amcd
+   27  www.vu.edu.au/about-vu/news-events/news
+         https://www.vu.edu.au/about-vu/news-events/news/vu-graduate-finds-calling-as-humanitarian-engineer
+         https://www.vu.edu.au/about-vu/news-events/news/vu-graduate-receives-cambridge-scholarship
+         https://www.vu.edu.au/about-vu/news-events/news/muslim-leaders-graduate-from-legal-training
+         https://www.vu.edu.au/about-vu/news-events/news/vu-law-graduate-awarded-supreme-court-prize
+   18  www.vu.edu.au/about-vu/news-events/events
+         https://www.vu.edu.au/about-vu/news-events/events/sir-zelman-cowen-centre-masterclass-investigators
+         https://www.vu.edu.au/about-vu/news-events/events/sentencing-theory-practice-masterclass
+         https://www.vu.edu.au/about-vu/news-events/events/meet-the-course-chair-postgraduate
+         https://www.vu.edu.au/about-vu/news-events/events/leadership-masterclass-speak-like-a-leader-public-speaking-essentials
+   15  www.vu.edu.au/study-at-vu/success-stories
+         https://www.vu.edu.au/study-at-vu/success-stories/why-this-manager-prefers-to-hire-vu-graduate
+         https://www.vu.edu.au/study-at-vu/success-stories/an-mba-fit-for-a-ceo
+         https://www.vu.edu.au/study-at-vu/success-stories/how-vu-english-prepared-pierre-for-postgraduate-studies
+         https://www.vu.edu.au/study-at-vu/success-stories/mastering-the-art-of-english-language-at-vu-english
+   10  www.vu.edu.au/research/graduate-research/manage-your-candidature
+         https://www.vu.edu.au/research/graduate-research/manage-your-candidature/forms-guidelines-for-graduate-researchers
+         https://www.vu.edu.au/research/graduate-research/manage-your-candidature/new-hdr-candidate-information
+         https://www.vu.edu.au/research/graduate-research/manage-your-candidature/research-degree-coursework-units
+         https://www.vu.edu.au/research/graduate-research/manage-your-candidature/preparing-for-candidature
+    8  www.vu.edu.au/about-vu/news-events/vu-blog
+         https://www.vu.edu.au/about-vu/news-events/vu-blog/5-ways-postgrad-study-can-boost-your-career
+         https://www.vu.edu.au/about-vu/news-events/vu-blog/vu-graduate-leading-the-way-in-disability-sport-recreation
+         https://www.vu.edu.au/about-vu/news-events/vu-blog/how-to-build-a-graduate-resume-that-stands-out
+         https://www.vu.edu.au/about-vu/news-events/vu-blog/how-to-master-online-learning
+    8  www.vu.edu.au/vu-sydney/courses-at-vu-sydney/postgraduate-courses-vu-sydney
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/postgraduate-courses-vu-sydney/master-of-applied-information-technology
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/postgraduate-courses-vu-sydney/master-of-business-administration-global-vu-sydney
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/postgraduate-courses-vu-sydney/master-of-business-analytics
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/postgraduate-courses-vu-sydney/master-of-professional-accounting
+    8  www.vu.edu.au/apply-to-study/how-to-apply/inherent-requirements
+         https://www.vu.edu.au/apply-to-study/how-to-apply/inherent-requirements/inherent-requirements-master-of-speech-pathology
+         https://www.vu.edu.au/apply-to-study/how-to-apply/inherent-requirements/inherent-requirements-master-of-clinical-exercise-science-rehabilitation
+         https://www.vu.edu.au/apply-to-study/how-to-apply/inherent-requirements/inherent-requirements-master-of-psychology
+         https://www.vu.edu.au/apply-to-study/how-to-apply/inherent-requirements/inherent-requirements-early-childhood-bachelor-postgraduate-degrees
+    6  www.vu.edu.au/apply-to-study/scholarships/graduate-research-scholarships
+         https://www.vu.edu.au/apply-to-study/scholarships/graduate-research-scholarships/international-research-scholarships
+         https://www.vu.edu.au/apply-to-study/scholarships/graduate-research-scholarships/domestic-research-scholarships
+         https://www.vu.edu.au/apply-to-study/scholarships/graduate-research-scholarships/project-industry-research-scholarships
+         https://www.vu.edu.au/apply-to-study/scholarships/graduate-research-scholarships/moondani-balluk-research-scholarships
+    6  www.vu.edu.au/vu-sydney/courses-at-vu-sydney/undergraduate-courses-vu-sydney
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/undergraduate-courses-vu-sydney/bachelor-of-business
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/undergraduate-courses-vu-sydney/bachelor-of-cyber-security
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/undergraduate-courses-vu-sydney/bachelor-of-information-technology
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/undergraduate-courses-vu-sydney/bachelor-of-early-childhood-education-vu-sydney
+    6  www.vu.edu.au/vu-brisbane/courses-at-vu-brisbane
+         https://www.vu.edu.au/vu-brisbane/courses-at-vu-brisbane/master-of-business-administration-global
+         https://www.vu.edu.au/vu-brisbane/courses-at-vu-brisbane/master-of-applied-information-technology
+         https://www.vu.edu.au/vu-brisbane/courses-at-vu-brisbane/master-of-business-analytics
+         https://www.vu.edu.au/vu-brisbane/courses-at-vu-brisbane/master-of-enterprise-resource-planning
+    3  www.vu.edu.au/apply-to-study/how-to-apply
+         https://www.vu.edu.au/apply-to-study/how-to-apply/apply-for-undergraduate-courses
+         https://www.vu.edu.au/apply-to-study/how-to-apply/apply-for-postgraduate-courses
+         https://www.vu.edu.au/apply-to-study/how-to-apply/apply-for-graduate-research
+    3  www.vu.edu.au/research/graduate-research
+         https://www.vu.edu.au/research/graduate-research/become-a-graduate-researcher
+         https://www.vu.edu.au/research/graduate-research/graduate-research-support
+         https://www.vu.edu.au/research/graduate-research/manage-your-candidature
+    3  www.vu.edu.au/research/graduate-research/graduate-research-support
+         https://www.vu.edu.au/research/graduate-research/graduate-research-support/graduate-research-school
+         https://www.vu.edu.au/research/graduate-research/graduate-research-support/research-writing-support
+         https://www.vu.edu.au/research/graduate-research/graduate-research-support/vu-doctoral-internship-program
+    2  www.vu.edu.au/student-experience/activities-opportunities/competitions-surveys
+         https://www.vu.edu.au/student-experience/activities-opportunities/competitions-surveys/graduate-outcomes-survey-longitudinal-gos-l
+         https://www.vu.edu.au/student-experience/activities-opportunities/competitions-surveys/graduate-outcomes-survey-gos
+    2  www.vu.edu.au/vu-sydney/courses-at-vu-sydney
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/undergraduate-courses-vu-sydney
+         https://www.vu.edu.au/vu-sydney/courses-at-vu-sydney/postgraduate-courses-vu-sydney
+    1  www.vu.edu.au/news-events/news
+         https://www.vu.edu.au/news-events/news/vu-mba-alumnus-wins-state-award
+    1  www.vu.edu.au/mitchell-institute
+         https://www.vu.edu.au/mitchell-institute/humanities-graduates-earn-more-than-those-who-study-science-and-maths
+    1  www.vu.edu.au/research
+         https://www.vu.edu.au/research/graduate-research
+    1  www.vu.edu.au/apply-to-study/how-to-apply/undergraduate-applications
+         https://www.vu.edu.au/apply-to-study/how-to-apply/undergraduate-applications/atar-at-vu
+    1  www.vu.edu.au/apply-to-study/fees
+         https://www.vu.edu.au/apply-to-study/fees/graduate-research-fees
+    1  www.vu.edu.au/apply-to-study/scholarships
+         https://www.vu.edu.au/apply-to-study/scholarships/graduate-research-scholarships
+    1  www.vu.edu.au/apply-to-study/information-hubs
+         https://www.vu.edu.au/apply-to-study/information-hubs/postgraduate-students
+    1  www.vu.edu.au/partners-alumni/partner-with-us
+         https://www.vu.edu.au/partners-alumni/partner-with-us/employ-students-graduates
+    1  www.vu.edu.au/about-vu/purpose-strategy-impact/strategic-plan-annual-reports
+         https://www.vu.edu.au/about-vu/purpose-strategy-impact/strategic-plan-annual-reports/campus-master-plan

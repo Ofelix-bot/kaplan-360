@@ -1,0 +1,3250 @@
+{
+  "加州大学欧文分校": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "qsName": "University of California, Irvine",
+    "qsRank": "=252",
+    "qsRankValue": 252,
+    "how": "exact"
+  },
+  "昆士兰大学": {
+    "english": "The University of Queensland",
+    "country": "Australia",
+    "qsName": "The University of Queensland",
+    "qsRank": "=40",
+    "qsRankValue": 40,
+    "how": "exact"
+  },
+  "The University of Melbourne": {
+    "english": "The University of Melbourne",
+    "country": "Australia",
+    "qsName": "The University of Melbourne",
+    "qsRank": "=22",
+    "qsRankValue": 22,
+    "how": "exact"
+  },
+  "马来西亚国立大学": {
+    "english": "Universiti Kebangsaan Malaysia",
+    "country": "Malaysia",
+    "qsName": "Universiti Kebangsaan Malaysia (UKM)",
+    "qsRank": "130",
+    "qsRankValue": 130,
+    "how": "exact"
+  },
+  "伦敦政治经济学院": {
+    "english": "The London School of Economics and Political Science",
+    "country": "United Kingdom",
+    "qsName": "The London School of Economics and Political Science (LSE)",
+    "qsRank": "62",
+    "qsRankValue": 62,
+    "how": "exact"
+  },
+  "清迈大学": {
+    "english": "Chiang Mai University",
+    "country": "Thailand",
+    "qsName": "Chiang Mai University",
+    "qsRank": "=555",
+    "qsRankValue": 555,
+    "how": "exact"
+  },
+  "新加坡国立大学": {
+    "english": "National University of Singapore",
+    "country": "Singapore",
+    "qsName": "National University of Singapore (NUS)",
+    "qsRank": "10",
+    "qsRankValue": 10,
+    "how": "exact"
+  },
+  "University of California, Los Angeles": {
+    "english": "University of California, Los Angeles",
+    "country": "United States",
+    "qsName": "University of California, Los Angeles (UCLA)",
+    "qsRank": "49",
+    "qsRankValue": 49,
+    "how": "exact"
+  },
+  "悉尼大学": {
+    "english": "The University of Sydney",
+    "country": "Australia",
+    "qsName": "The University of Sydney",
+    "qsRank": "28",
+    "qsRankValue": 28,
+    "how": "exact"
+  },
+  "墨尔本大学": {
+    "english": "The University of Melbourne",
+    "country": "Australia",
+    "qsName": "The University of Melbourne",
+    "qsRank": "=22",
+    "qsRankValue": 22,
+    "how": "exact"
+  },
+  "加拿大多伦多大学": {
+    "english": "University of Toronto",
+    "country": "Canada",
+    "qsName": "University of Toronto",
+    "qsRank": "32",
+    "qsRankValue": 32,
+    "how": "exact"
+  },
+  "利兹大学": {
+    "english": "University of Leeds",
+    "country": "United Kingdom",
+    "qsName": "University of Leeds",
+    "qsRank": "=77",
+    "qsRankValue": 77,
+    "how": "exact"
+  },
+  "McMaster University": {
+    "english": "McMaster University",
+    "country": "Canada",
+    "qsName": "McMaster University",
+    "qsRank": "=174",
+    "qsRankValue": 174,
+    "how": "exact"
+  },
+  "香港科技大学": {
+    "english": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong SAR",
+    "qsName": "The Hong Kong University of Science and Technology",
+    "qsRank": "33",
+    "qsRankValue": 33,
+    "how": "exact"
+  },
+  "多伦多大学": {
+    "english": "University of Toronto",
+    "country": "Canada",
+    "qsName": "University of Toronto",
+    "qsRank": "32",
+    "qsRankValue": 32,
+    "how": "exact"
+  },
+  "University of British Columbia": {
+    "english": "The University of British Columbia",
+    "country": "Canada",
+    "qsName": "University of British Columbia",
+    "qsRank": "=45",
+    "qsRankValue": 45,
+    "how": "exact"
+  },
+  "曼彻斯特大学": {
+    "english": "The University of Manchester",
+    "country": "United Kingdom",
+    "qsName": "The University of Manchester",
+    "qsRank": "=40",
+    "qsRankValue": 40,
+    "how": "exact"
+  },
+  "伦敦大学国王学院": {
+    "english": "King's College London",
+    "country": "United Kingdom",
+    "qsName": "King's College London",
+    "qsRank": "37",
+    "qsRankValue": 37,
+    "how": "exact"
+  },
+  "澳门大学": {
+    "english": "University of Macau",
+    "country": "Macau SAR",
+    "qsName": "University of Macau",
+    "qsRank": "267",
+    "qsRankValue": 267,
+    "how": "exact"
+  },
+  "纽卡斯尔大学": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "香港城市大学": {
+    "english": "City University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "qsName": "City University of Hong Kong",
+    "qsRank": "=52",
+    "qsRankValue": 52,
+    "how": "exact"
+  },
+  "明尼苏达大学双城分校": {
+    "english": "University of Minnesota",
+    "country": "United States",
+    "qsName": "University of Minnesota Twin Cities",
+    "qsRank": "=255",
+    "qsRankValue": 255,
+    "how": "chosen"
+  },
+  "加州大学河滨分校": {
+    "english": "University of California, Riverside",
+    "country": "United States",
+    "qsName": "University of California, Riverside",
+    "qsRank": "398",
+    "qsRankValue": 398,
+    "how": "exact"
+  },
+  "香港大学": {
+    "english": "The University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "qsName": "The University of Hong Kong",
+    "qsRank": "11",
+    "qsRankValue": 11,
+    "how": "exact"
+  },
+  "University of Waterloo": {
+    "english": "University of Waterloo",
+    "country": "Canada",
+    "qsName": "University of Waterloo",
+    "qsRank": "=113",
+    "qsRankValue": 113,
+    "how": "exact"
+  },
+  "俄亥俄州立大学": {
+    "english": "The Ohio State University",
+    "country": "United States",
+    "qsName": "The Ohio State University",
+    "qsRank": "=201",
+    "qsRankValue": 201,
+    "how": "exact"
+  },
+  "香港中文大学": {
+    "english": "The Chinese University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "qsName": "The Chinese University of Hong Kong (CUHK)",
+    "qsRank": "18",
+    "qsRankValue": 18,
+    "how": "exact"
+  },
+  "英属哥伦比亚大学": {
+    "english": "The University of British Columbia",
+    "country": "Canada",
+    "qsName": "University of British Columbia",
+    "qsRank": "=45",
+    "qsRankValue": 45,
+    "how": "exact"
+  },
+  "华威大学": {
+    "english": "University of Warwick",
+    "country": "United Kingdom",
+    "qsName": "The University of Warwick",
+    "qsRank": "=68",
+    "qsRankValue": 68,
+    "how": "exact"
+  },
+  "澳门科技大学": {
+    "english": "Macau University of Science and Technology",
+    "country": "Macau SAR",
+    "qsName": "Macau University of Science and Technology",
+    "qsRank": "=398",
+    "qsRankValue": 398,
+    "how": "exact"
+  },
+  "新南威尔士大学": {
+    "english": "UNSW Sydney",
+    "country": "Australia",
+    "qsName": "The University of New South Wales (UNSW Sydney)",
+    "qsRank": "19",
+    "qsRankValue": 19,
+    "how": "exact"
+  },
+  "Mcmaster University": {
+    "english": "McMaster University",
+    "country": "Canada",
+    "qsName": "McMaster University",
+    "qsRank": "=174",
+    "qsRankValue": 174,
+    "how": "exact"
+  },
+  "加州大学圣塔芭芭拉分校": {
+    "english": "University of California, Santa Barbara",
+    "country": "United States",
+    "qsName": "University of California, Santa Barbara (UCSB)",
+    "qsRank": "173",
+    "qsRankValue": 173,
+    "how": "exact"
+  },
+  "加州大学伯克利分校": {
+    "english": "University of California, Berkeley",
+    "country": "United States",
+    "qsName": "University of California, Berkeley (UCB)",
+    "qsRank": "=20",
+    "qsRankValue": 20,
+    "how": "exact"
+  },
+  "香港理工大学": {
+    "english": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong SAR",
+    "qsName": "The Hong Kong Polytechnic University",
+    "qsRank": "50",
+    "qsRankValue": 50,
+    "how": "exact"
+  },
+  "NUS": {
+    "english": "National University of Singapore",
+    "country": "Singapore",
+    "qsName": "National University of Singapore (NUS)",
+    "qsRank": "10",
+    "qsRankValue": 10,
+    "how": "exact"
+  },
+  "University of Melbourne": {
+    "english": "The University of Melbourne",
+    "country": "Australia",
+    "qsName": "The University of Melbourne",
+    "qsRank": "=22",
+    "qsRankValue": 22,
+    "how": "exact"
+  },
+  "Wenzhou-Kean University": {
+    "english": "Wenzhou-Kean University",
+    "country": "China (Mainland)",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "东安格利亚大学": {
+    "english": "University of East Anglia",
+    "country": "United Kingdom",
+    "qsName": "University of East Anglia (UEA)",
+    "qsRank": "=381",
+    "qsRankValue": 381,
+    "how": "exact"
+  },
+  "波士顿大学": {
+    "english": "Boston University",
+    "country": "United States",
+    "qsName": "Boston University",
+    "qsRank": "94",
+    "qsRankValue": 94,
+    "how": "exact"
+  },
+  "犹他州立大学": {
+    "english": "Utah State University",
+    "country": "United States",
+    "qsName": "Utah State University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "马来西亚国立大学（UKM）": {
+    "english": "Universiti Kebangsaan Malaysia",
+    "country": "Malaysia",
+    "qsName": "Universiti Kebangsaan Malaysia (UKM)",
+    "qsRank": "130",
+    "qsRankValue": 130,
+    "how": "exact"
+  },
+  "香港浸会大学": {
+    "english": "Hong Kong Baptist University",
+    "country": "Hong Kong SAR",
+    "qsName": "Hong Kong Baptist University",
+    "qsRank": "216",
+    "qsRankValue": 216,
+    "how": "exact"
+  },
+  "马来西亚博特拉": {
+    "english": "Universiti Putra Malaysia",
+    "country": "Malaysia",
+    "qsName": "Universiti Putra Malaysia (UPM)",
+    "qsRank": "138",
+    "qsRankValue": 138,
+    "how": "exact"
+  },
+  "澳大利亚国立大学": {
+    "english": "The Australian National University",
+    "country": "Australia",
+    "qsName": "The Australian National University",
+    "qsRank": "29",
+    "qsRankValue": 29,
+    "how": "exact"
+  },
+  "卡内基梅隆大学": {
+    "english": "Carnegie Mellon University",
+    "country": "United States",
+    "qsName": "Carnegie Mellon University",
+    "qsRank": "55",
+    "qsRankValue": 55,
+    "how": "exact"
+  },
+  "University of Macau": {
+    "english": "University of Macau",
+    "country": "Macau SAR",
+    "qsName": "University of Macau",
+    "qsRank": "267",
+    "qsRankValue": 267,
+    "how": "exact"
+  },
+  "格拉斯哥大学": {
+    "english": "University of Glasgow",
+    "country": "United Kingdom",
+    "qsName": "University of Glasgow",
+    "qsRank": "80",
+    "qsRankValue": 80,
+    "how": "exact"
+  },
+  "皇家墨尔本理工大学": {
+    "english": "RMIT University",
+    "country": "Australia",
+    "qsName": "RMIT University",
+    "qsRank": "=119",
+    "qsRankValue": 119,
+    "how": "exact"
+  },
+  "维克森林大学": {
+    "english": "Wake Forest University",
+    "country": "United States",
+    "qsName": "Wake Forest University",
+    "qsRank": "801-850",
+    "qsRankValue": 801,
+    "how": "exact"
+  },
+  "杜伦大学": {
+    "english": "Durham University",
+    "country": "United Kingdom",
+    "qsName": "Durham University",
+    "qsRank": "85",
+    "qsRankValue": 85,
+    "how": "exact"
+  },
+  "UKM": {
+    "english": "Universiti Kebangsaan Malaysia",
+    "country": "Malaysia",
+    "qsName": "Universiti Kebangsaan Malaysia (UKM)",
+    "qsRank": "130",
+    "qsRankValue": 130,
+    "how": "exact"
+  },
+  "爱荷华大学": {
+    "english": "The University of Iowa",
+    "country": "United States",
+    "qsName": "University of Iowa",
+    "qsRank": "=597",
+    "qsRankValue": 597,
+    "how": "exact"
+  },
+  "Monash University": {
+    "english": "Monash University",
+    "country": "Australia",
+    "qsName": "Monash University",
+    "qsRank": "31",
+    "qsRankValue": 31,
+    "how": "exact"
+  },
+  "弗吉尼亚大学": {
+    "english": "University of Virginia",
+    "country": "United States",
+    "qsName": "University of Virginia",
+    "qsRank": "268",
+    "qsRankValue": 268,
+    "how": "exact"
+  },
+  "滑铁卢大学": {
+    "english": "University of Waterloo",
+    "country": "Canada",
+    "qsName": "University of Waterloo",
+    "qsRank": "=113",
+    "qsRankValue": 113,
+    "how": "exact"
+  },
+  "美国东北大学": {
+    "english": "Northeastern University",
+    "country": "United States",
+    "qsName": "Northeastern University",
+    "qsRank": "=385",
+    "qsRankValue": 385,
+    "how": "exact"
+  },
+  "爱丁堡大学": {
+    "english": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "qsName": "The University of Edinburgh",
+    "qsRank": "35",
+    "qsRankValue": 35,
+    "how": "exact"
+  },
+  "SUNGKYUNKWAN UNIVERSITY": {
+    "english": "Sungkyunkwan University",
+    "country": "South Korea",
+    "qsName": "Sungkyunkwan University(SKKU)",
+    "qsRank": "108",
+    "qsRankValue": 108,
+    "how": "exact"
+  },
+  "UCI": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "qsName": "University of California, Irvine",
+    "qsRank": "=252",
+    "qsRankValue": 252,
+    "how": "exact"
+  },
+  "慕尼黑工业": {
+    "english": "Technical University of Munich",
+    "country": "Germany",
+    "qsName": "Technical University of Munich",
+    "qsRank": "25",
+    "qsRankValue": 25,
+    "how": "exact"
+  },
+  "都灵理工大学": {
+    "english": "Politecnico di Torino",
+    "country": "Italy",
+    "qsName": "Politecnico di Torino",
+    "qsRank": "=206",
+    "qsRankValue": 206,
+    "how": "exact"
+  },
+  "纽约大学": {
+    "english": "New York University",
+    "country": "United States",
+    "qsName": "New York University (NYU)",
+    "qsRank": "58",
+    "qsRankValue": 58,
+    "how": "exact"
+  },
+  "塞格德大学": {
+    "english": "University of Szeged",
+    "country": "Hungary",
+    "qsName": "University of Szeged",
+    "qsRank": "633",
+    "qsRankValue": 633,
+    "how": "exact"
+  },
+  "马来西亚博特拉大学": {
+    "english": "Universiti Putra Malaysia",
+    "country": "Malaysia",
+    "qsName": "Universiti Putra Malaysia (UPM)",
+    "qsRank": "138",
+    "qsRankValue": 138,
+    "how": "exact"
+  },
+  "谢菲尔德大学": {
+    "english": "The University of Sheffield",
+    "country": "United Kingdom",
+    "qsName": "The University of Sheffield",
+    "qsRank": "=82",
+    "qsRankValue": 82,
+    "how": "exact"
+  },
+  "澳门本科": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "麦考瑞大学": {
+    "english": "Macquarie University",
+    "country": "Australia",
+    "qsName": "Macquarie University",
+    "qsRank": "=126",
+    "qsRankValue": 126,
+    "how": "exact"
+  },
+  "不列颠哥伦比亚大学": {
+    "english": "The University of British Columbia",
+    "country": "Canada",
+    "qsName": "University of British Columbia",
+    "qsRank": "=45",
+    "qsRankValue": 45,
+    "how": "exact"
+  },
+  "Western University": {
+    "english": "Western University",
+    "country": "Canada",
+    "qsName": "Western University",
+    "qsRank": "=142",
+    "qsRankValue": 142,
+    "how": "exact"
+  },
+  "华盛顿大学": {
+    "english": "University of Washington",
+    "country": "United States",
+    "qsName": "University of Washington",
+    "qsRank": "=92",
+    "qsRankValue": 92,
+    "how": "exact"
+  },
+  "加州戴维斯大学": {
+    "english": "University of California, Davis",
+    "country": "United States",
+    "qsName": "University of California, Davis",
+    "qsRank": "137",
+    "qsRankValue": 137,
+    "how": "exact"
+  },
+  "华盛顿州立大学": {
+    "english": "Washington State University",
+    "country": "United States",
+    "qsName": "Washington State University",
+    "qsRank": "=510",
+    "qsRankValue": 510,
+    "how": "exact"
+  },
+  "香港教育大学": {
+    "english": "The Education University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "qsName": "The Education University of Hong Kong",
+    "qsRank": "=406",
+    "qsRankValue": 406,
+    "how": "exact"
+  },
+  "布里斯托大学": {
+    "english": "University of Bristol",
+    "country": "United Kingdom",
+    "qsName": "University of Bristol",
+    "qsRank": "57",
+    "qsRankValue": 57,
+    "how": "exact"
+  },
+  "国立中山大学": {
+    "english": "National Sun Yat-sen University",
+    "country": "Taiwan",
+    "qsName": "National Sun Yat-sen University",
+    "qsRank": "=438",
+    "qsRankValue": 438,
+    "how": "exact"
+  },
+  "UConn": {
+    "english": "University of Connecticut",
+    "country": "United States",
+    "qsName": "University of Connecticut",
+    "qsRank": "=458",
+    "qsRankValue": 458,
+    "how": "exact"
+  },
+  "麦克马斯特大学": {
+    "english": "McMaster University",
+    "country": "Canada",
+    "qsName": "McMaster University",
+    "qsRank": "=174",
+    "qsRankValue": 174,
+    "how": "exact"
+  },
+  "加拿大滑铁卢大学": {
+    "english": "University of Waterloo",
+    "country": "Canada",
+    "qsName": "University of Waterloo",
+    "qsRank": "=113",
+    "qsRankValue": 113,
+    "how": "exact"
+  },
+  "以色列理工学院": {
+    "english": "Technion – Israel Institute of Technology",
+    "country": "Israel",
+    "qsName": "Technion - Israel Institute of Technology",
+    "qsRank": "334",
+    "qsRankValue": 334,
+    "how": "exact"
+  },
+  "俄亥俄州立大学+四川大学": {
+    "english": "The Ohio State University",
+    "country": "United States",
+    "qsName": "The Ohio State University",
+    "qsRank": "=201",
+    "qsRankValue": 201,
+    "how": "exact"
+  },
+  "电子科技大学+格拉斯哥大学": {
+    "english": "University of Glasgow",
+    "country": "United Kingdom",
+    "qsName": "University of Glasgow",
+    "qsRank": "80",
+    "qsRankValue": 80,
+    "how": "exact"
+  },
+  "西蒙弗雷泽大学": {
+    "english": "Simon Fraser University",
+    "country": "Canada",
+    "qsName": "Simon Fraser University",
+    "qsRank": "312",
+    "qsRankValue": 312,
+    "how": "exact"
+  },
+  "Lehigh University": {
+    "english": "Lehigh University",
+    "country": "United States",
+    "qsName": "Lehigh University",
+    "qsRank": "=670",
+    "qsRankValue": 670,
+    "how": "exact"
+  },
+  "恺撒里兹酒店管理学院": {
+    "english": "César Ritz Colleges Switzerland",
+    "country": "Switzerland",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "里士满大学": {
+    "english": "University of Richmond",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "加州大学欧文分校+帕萨迪纳城市学院": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "qsName": "University of California, Irvine",
+    "qsRank": "=252",
+    "qsRankValue": 252,
+    "how": "exact"
+  },
+  "佩珀代因大学": {
+    "english": "Pepperdine University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "伊利诺伊大学香槟分校": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "qsName": "University of Illinois at Urbana-Champaign",
+    "qsRank": "74",
+    "qsRankValue": 74,
+    "how": "exact"
+  },
+  "威斯康星大学麦迪逊分校": {
+    "english": "University of Wisconsin-Madison",
+    "country": "United States",
+    "qsName": "University of Wisconsin-Madison",
+    "qsRank": "=131",
+    "qsRankValue": 131,
+    "how": "exact"
+  },
+  "密歇根州立大学": {
+    "english": "Michigan State University",
+    "country": "United States",
+    "qsName": "Michigan State University",
+    "qsRank": "182",
+    "qsRankValue": 182,
+    "how": "exact"
+  },
+  "印第安纳大学伯明顿分校": {
+    "english": "Indiana University Bloomington",
+    "country": "United States",
+    "qsName": "Indiana University Bloomington",
+    "qsRank": "=360",
+    "qsRankValue": 360,
+    "how": "exact"
+  },
+  "宾夕法尼亚州立大学": {
+    "english": "The Pennsylvania State University",
+    "country": "United States",
+    "qsName": "Pennsylvania State University",
+    "qsRank": "=92",
+    "qsRankValue": 92,
+    "how": "exact"
+  },
+  "加州大学戴维斯分校": {
+    "english": "University of California, Davis",
+    "country": "United States",
+    "qsName": "University of California, Davis",
+    "qsRank": "137",
+    "qsRankValue": 137,
+    "how": "exact"
+  },
+  "中央大学": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "乐卓博大学": {
+    "english": "La Trobe University",
+    "country": "Australia",
+    "qsName": "La Trobe University",
+    "qsRank": "=241",
+    "qsRankValue": 241,
+    "how": "exact"
+  },
+  "中国农业大学+伊利诺伊大学香槟分校": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "qsName": "University of Illinois at Urbana-Champaign",
+    "qsRank": "74",
+    "qsRankValue": 74,
+    "how": "exact"
+  },
+  "埃塞克高等商学院": {
+    "english": "ESSEC Business School",
+    "country": "France",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "韦仕敦大学": {
+    "english": "Western University",
+    "country": "Canada",
+    "qsName": "Western University",
+    "qsRank": "=142",
+    "qsRankValue": 142,
+    "how": "exact"
+  },
+  "南安普顿大学": {
+    "english": "University of Southampton",
+    "country": "United Kingdom",
+    "qsName": "University of Southampton",
+    "qsRank": "=111",
+    "qsRankValue": 111,
+    "how": "exact"
+  },
+  "台湾政治大学": {
+    "english": "National Chengchi University",
+    "country": "Taiwan",
+    "qsName": "National Chengchi University",
+    "qsRank": "=613",
+    "qsRankValue": 613,
+    "how": "exact"
+  },
+  "戴尔豪斯大学": {
+    "english": "Dalhousie University",
+    "country": "Canada",
+    "qsName": "Dalhousie University",
+    "qsRank": "298",
+    "qsRankValue": 298,
+    "how": "exact"
+  },
+  "东海大学": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "伯明翰大学": {
+    "english": "University of Birmingham",
+    "country": "United Kingdom",
+    "qsName": "University of Birmingham",
+    "qsRank": "=68",
+    "qsRankValue": 68,
+    "how": "exact"
+  },
+  "奥克兰大学（新西兰）": {
+    "english": "University of Auckland",
+    "country": "New Zealand",
+    "qsName": "The University of Auckland",
+    "qsRank": "67",
+    "qsRankValue": 67,
+    "how": "exact"
+  },
+  "国立台湾大学": {
+    "english": "National Taiwan University",
+    "country": "Taiwan",
+    "qsName": "National Taiwan University (NTU)",
+    "qsRank": "54",
+    "qsRankValue": 54,
+    "how": "exact"
+  },
+  "威廉玛丽学院": {
+    "english": "William & Mary",
+    "country": "United States",
+    "qsName": "College of William and Mary",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "chosen"
+  },
+  "逢甲大学": {
+    "english": "Feng Chia University",
+    "country": "Taiwan",
+    "qsName": "Feng Chia University",
+    "qsRank": "1401+",
+    "qsRankValue": 1401,
+    "how": "exact"
+  },
+  "奥克兰大学": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "University of Minnesota": {
+    "english": "University of Minnesota",
+    "country": "United States",
+    "qsName": "University of Minnesota Twin Cities",
+    "qsRank": "=255",
+    "qsRankValue": 255,
+    "how": "chosen"
+  },
+  "厦门大学马来西亚分校": {
+    "english": "Xiamen University",
+    "country": "China (Mainland)",
+    "qsName": "Xiamen University",
+    "qsRank": "=303",
+    "qsRankValue": 303,
+    "how": "exact"
+  },
+  "伦敦大学学院": {
+    "english": "University College London",
+    "country": "United Kingdom",
+    "qsName": "UCL",
+    "qsRank": "=8",
+    "qsRankValue": 8,
+    "how": "exact"
+  },
+  "澳门理工学院": {
+    "english": "Macao Polytechnic University",
+    "country": "Macau SAR",
+    "qsName": "Macao Polytechnic University",
+    "qsRank": "951-1000",
+    "qsRankValue": 951,
+    "how": "exact"
+  },
+  "普渡大学西拉法叶分校": {
+    "english": "Purdue University",
+    "country": "United States",
+    "qsName": "Purdue University",
+    "qsRank": "=100",
+    "qsRankValue": 100,
+    "how": "exact"
+  },
+  "UCL": {
+    "english": "University College London",
+    "country": "United Kingdom",
+    "qsName": "UCL",
+    "qsRank": "=8",
+    "qsRankValue": 8,
+    "how": "exact"
+  },
+  "哥伦比亚大学巴纳德学院": {
+    "english": "Barnard College",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "长安大学都柏林合办": {
+    "english": "University College Dublin",
+    "country": "Ireland",
+    "qsName": "University College Dublin",
+    "qsRank": "=100",
+    "qsRankValue": 100,
+    "how": "exact"
+  },
+  "罗格斯大学": {
+    "english": "Rutgers, The State University of New Jersey",
+    "country": "United States",
+    "qsName": "Rutgers University–New Brunswick",
+    "qsRank": "=314",
+    "qsRankValue": 314,
+    "how": "chosen"
+  },
+  "诺丁汉大学马来校区": {
+    "english": "University of Nottingham",
+    "country": "United Kingdom",
+    "qsName": "University of Nottingham",
+    "qsRank": "=97",
+    "qsRankValue": 97,
+    "how": "exact"
+  },
+  "威斯康星大学": {
+    "english": "University of Wisconsin-Madison",
+    "country": "United States",
+    "qsName": "University of Wisconsin-Madison",
+    "qsRank": "=131",
+    "qsRankValue": 131,
+    "how": "exact"
+  },
+  "里昂商学院": {
+    "english": "emlyon business school",
+    "country": "France",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "SP Jain全球管理学院": {
+    "english": "S P Jain School of Global Management",
+    "country": "Australia",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "南澳大学": {
+    "english": "University of South Australia",
+    "country": "Australia",
+    "qsName": "Adelaide University",
+    "qsRank": "79",
+    "qsRankValue": 79,
+    "how": "exact"
+  },
+  "圣塔克拉拉大学": {
+    "english": "Santa Clara University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "柯伊学院": {
+    "english": "Coe College",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "弗莱堡大学": {
+    "english": "University of Freiburg",
+    "country": "Germany",
+    "qsName": "Albert-Ludwigs-Universitaet Freiburg",
+    "qsRank": "245",
+    "qsRankValue": 245,
+    "how": "chosen"
+  },
+  "阿德莱德大学": {
+    "english": "The University of Adelaide",
+    "country": "Australia",
+    "qsName": "Adelaide University",
+    "qsRank": "79",
+    "qsRankValue": 79,
+    "how": "exact"
+  },
+  "澳门城市大学": {
+    "english": "City University of Macau",
+    "country": "Macau SAR",
+    "qsName": "City University of Macau",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "韩国庆熙大学": {
+    "english": "Kyung Hee University",
+    "country": "South Korea",
+    "qsName": "Kyung Hee University",
+    "qsRank": "=309",
+    "qsRankValue": 309,
+    "how": "exact"
+  },
+  "UBC": {
+    "english": "The University of British Columbia",
+    "country": "Canada",
+    "qsName": "University of British Columbia",
+    "qsRank": "=45",
+    "qsRankValue": 45,
+    "how": "exact"
+  },
+  "詹姆斯?库克大学新加坡校区": {
+    "english": "James Cook University",
+    "country": "Australia",
+    "qsName": "James Cook University",
+    "qsRank": "=438",
+    "qsRankValue": 438,
+    "how": "exact"
+  },
+  "香港树仁大学": {
+    "english": "Hong Kong Shue Yan University",
+    "country": "Hong Kong SAR",
+    "qsName": "Hong Kong Shue Yan University",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "南安普顿": {
+    "english": "University of Southampton",
+    "country": "United Kingdom",
+    "qsName": "University of Southampton",
+    "qsRank": "=111",
+    "qsRankValue": 111,
+    "how": "exact"
+  },
+  "明尼苏达双城分校": {
+    "english": "University of Minnesota Twin Cities",
+    "country": "United States",
+    "qsName": "University of Minnesota Twin Cities",
+    "qsRank": "=255",
+    "qsRankValue": 255,
+    "how": "exact"
+  },
+  "The University of Sydney": {
+    "english": "The University of Sydney",
+    "country": "Australia",
+    "qsName": "The University of Sydney",
+    "qsRank": "28",
+    "qsRankValue": 28,
+    "how": "exact"
+  },
+  "马来西亚国立大学(UKM)": {
+    "english": "Universiti Kebangsaan Malaysia",
+    "country": "Malaysia",
+    "qsName": "Universiti Kebangsaan Malaysia (UKM)",
+    "qsRank": "130",
+    "qsRankValue": 130,
+    "how": "exact"
+  },
+  "Dalhousie University": {
+    "english": "Dalhousie University",
+    "country": "Canada",
+    "qsName": "Dalhousie University",
+    "qsRank": "298",
+    "qsRankValue": 298,
+    "how": "exact"
+  },
+  "多伦多大学（Mississauga校区）": {
+    "english": "University of Toronto",
+    "country": "Canada",
+    "qsName": "University of Toronto",
+    "qsRank": "32",
+    "qsRankValue": 32,
+    "how": "exact"
+  },
+  "康涅狄格大学": {
+    "english": "University of Connecticut",
+    "country": "United States",
+    "qsName": "University of Connecticut",
+    "qsRank": "=458",
+    "qsRankValue": 458,
+    "how": "exact"
+  },
+  "阿拉巴马大学": {
+    "english": "The University of Alabama",
+    "country": "United States",
+    "qsName": "The University of Alabama",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "University of California, Santa Cruz, UCSC": {
+    "english": "University of California, Santa Cruz",
+    "country": "United States",
+    "qsName": "University of California, Santa Cruz",
+    "qsRank": "=458",
+    "qsRankValue": 458,
+    "how": "exact"
+  },
+  "山口大学": {
+    "english": "Yamaguchi University",
+    "country": "Japan",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "University of Southampton": {
+    "english": "University of Southampton",
+    "country": "United Kingdom",
+    "qsName": "University of Southampton",
+    "qsRank": "=111",
+    "qsRankValue": 111,
+    "how": "exact"
+  },
+  "立命馆大学": {
+    "english": "Ritsumeikan University",
+    "country": "Japan",
+    "qsName": "Ritsumeikan University",
+    "qsRank": "=683",
+    "qsRankValue": 683,
+    "how": "exact"
+  },
+  "利物浦大学": {
+    "english": "University of Liverpool",
+    "country": "United Kingdom",
+    "qsName": "University of Liverpool",
+    "qsRank": "139",
+    "qsRankValue": 139,
+    "how": "exact"
+  },
+  "韩国高丽大学": {
+    "english": "Korea University",
+    "country": "South Korea",
+    "qsName": "Korea University",
+    "qsRank": "=52",
+    "qsRankValue": 52,
+    "how": "exact"
+  },
+  "Cape Breton University": {
+    "english": "Cape Breton University",
+    "country": "Canada",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "密苏里大学堪萨斯分校": {
+    "english": "University of Missouri-Kansas City",
+    "country": "United States",
+    "qsName": "University of Missouri, Kansas City",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "慕尼黑大学": {
+    "english": "Ludwig-Maximilians-Universität München",
+    "country": "Germany",
+    "qsName": "Ludwig-Maximilians-Universität München",
+    "qsRank": "61",
+    "qsRankValue": 61,
+    "how": "exact"
+  },
+  "University of Newcastle": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "约克大学（加拿大）": {
+    "english": "York University",
+    "country": "Canada",
+    "qsName": "York University",
+    "qsRank": "=322",
+    "qsRankValue": 322,
+    "how": "exact"
+  },
+  "Curtin Singapore": {
+    "english": "Curtin University",
+    "country": "Australia",
+    "qsName": "Curtin University",
+    "qsRank": "189",
+    "qsRankValue": 189,
+    "how": "exact"
+  },
+  "厄特沃什&middot;罗兰大学": {
+    "english": "Eötvös Loránd University",
+    "country": "Hungary",
+    "qsName": "Eötvös Loránd University",
+    "qsRank": "=595",
+    "qsRankValue": 595,
+    "how": "exact"
+  },
+  "Carleton University": {
+    "english": "Carleton University",
+    "country": "Canada",
+    "qsName": "Carleton University",
+    "qsRank": "801-850",
+    "qsRankValue": 801,
+    "how": "exact"
+  },
+  "Curtin University": {
+    "english": "Curtin University",
+    "country": "Australia",
+    "qsName": "Curtin University",
+    "qsRank": "189",
+    "qsRankValue": 189,
+    "how": "exact"
+  },
+  "莫斯科国立大学": {
+    "english": "Lomonosov Moscow State University",
+    "country": "Russia",
+    "qsName": "Lomonosov Moscow State University",
+    "qsRank": "=115",
+    "qsRankValue": 115,
+    "how": "exact"
+  },
+  "香港都会大学": {
+    "english": "Hong Kong Metropolitan University",
+    "country": "Hong Kong SAR",
+    "qsName": "Hong Kong Metropolitan University",
+    "qsRank": "781-790",
+    "qsRankValue": 781,
+    "how": "exact"
+  },
+  "University of Illinois at Urbana-Champaign": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "qsName": "University of Illinois at Urbana-Champaign",
+    "qsRank": "74",
+    "qsRankValue": 74,
+    "how": "exact"
+  },
+  "剑桥大学": {
+    "english": "University of Cambridge",
+    "country": "United Kingdom",
+    "qsName": "University of Cambridge",
+    "qsRank": "6",
+    "qsRankValue": 6,
+    "how": "exact"
+  },
+  "南卫理公会大学": {
+    "english": "Southern Methodist University",
+    "country": "United States",
+    "qsName": "Southern Methodist University",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "圣路易斯华盛顿大学": {
+    "english": "Washington University in St. Louis",
+    "country": "United States",
+    "qsName": "Washington University in St. Louis",
+    "qsRank": "=162",
+    "qsRankValue": 162,
+    "how": "exact"
+  },
+  "多伦多大学UTSG": {
+    "english": "University of Toronto",
+    "country": "Canada",
+    "qsName": "University of Toronto",
+    "qsRank": "32",
+    "qsRankValue": 32,
+    "how": "exact"
+  },
+  "莫纳什大学": {
+    "english": "Monash University",
+    "country": "Australia",
+    "qsName": "Monash University",
+    "qsRank": "31",
+    "qsRankValue": 31,
+    "how": "exact"
+  },
+  "悉尼科技大学": {
+    "english": "University of Technology Sydney",
+    "country": "Australia",
+    "qsName": "University of Technology Sydney",
+    "qsRank": "=87",
+    "qsRankValue": 87,
+    "how": "exact"
+  },
+  "卡耐基梅隆": {
+    "english": "Carnegie Mellon University",
+    "country": "United States",
+    "qsName": "Carnegie Mellon University",
+    "qsRank": "55",
+    "qsRankValue": 55,
+    "how": "exact"
+  },
+  "麦吉尔大学": {
+    "english": "McGill University",
+    "country": "Canada",
+    "qsName": "McGill University",
+    "qsRank": "30",
+    "qsRankValue": 30,
+    "how": "exact"
+  },
+  "马来亚博特拉大学": {
+    "english": "Universiti Putra Malaysia",
+    "country": "Malaysia",
+    "qsName": "Universiti Putra Malaysia (UPM)",
+    "qsRank": "138",
+    "qsRankValue": 138,
+    "how": "exact"
+  },
+  "早稻田大学": {
+    "english": "Waseda University",
+    "country": "Japan",
+    "qsName": "Waseda University",
+    "qsRank": "=201",
+    "qsRankValue": 201,
+    "how": "exact"
+  },
+  "Embry-Riddle Aeronautical University": {
+    "english": "Embry-Riddle Aeronautical University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "伦敦艺术大学": {
+    "english": "University of the Arts London",
+    "country": "United Kingdom",
+    "qsName": "University of the Arts London",
+    "qsRank": "851-900",
+    "qsRankValue": 851,
+    "how": "exact"
+  },
+  "McGill University": {
+    "english": "McGill University",
+    "country": "Canada",
+    "qsName": "McGill University",
+    "qsRank": "30",
+    "qsRankValue": 30,
+    "how": "exact"
+  },
+  "卡尔加里大学": {
+    "english": "University of Calgary",
+    "country": "Canada",
+    "qsName": "University of Calgary",
+    "qsRank": "249",
+    "qsRankValue": 249,
+    "how": "exact"
+  },
+  "马里兰帕克": {
+    "english": "University of Maryland, College Park",
+    "country": "United States",
+    "qsName": "University of Maryland, College Park",
+    "qsRank": "=252",
+    "qsRankValue": 252,
+    "how": "exact"
+  },
+  "佩奇大学": {
+    "english": "University of Pécs",
+    "country": "Hungary",
+    "qsName": "University of Pecs",
+    "qsRank": "791-800",
+    "qsRankValue": 791,
+    "how": "exact"
+  },
+  "上海理工大学-利兹大学": {
+    "english": "University of Leeds",
+    "country": "United Kingdom",
+    "qsName": "University of Leeds",
+    "qsRank": "=77",
+    "qsRankValue": 77,
+    "how": "exact"
+  },
+  "伍伦贡大学": {
+    "english": "University of Wollongong",
+    "country": "Australia",
+    "qsName": "University of Wollongong",
+    "qsRank": "195",
+    "qsRankValue": 195,
+    "how": "exact"
+  },
+  "西南财经大学和纽约城市大学": {
+    "english": "The City University of New York",
+    "country": "United States",
+    "qsName": "City University of New York",
+    "qsRank": "=677",
+    "qsRankValue": 677,
+    "how": "exact"
+  },
+  "江南大学+莫纳什大学（3+1）": {
+    "english": "Monash University",
+    "country": "Australia",
+    "qsName": "Monash University",
+    "qsRank": "31",
+    "qsRankValue": 31,
+    "how": "exact"
+  },
+  "匹兹堡大学": {
+    "english": "University of Pittsburgh",
+    "country": "United States",
+    "qsName": "University of Pittsburgh",
+    "qsRank": "=279",
+    "qsRankValue": 279,
+    "how": "exact"
+  },
+  "俄克拉荷马大学": {
+    "english": "The University of Oklahoma",
+    "country": "United States",
+    "qsName": "University of Oklahoma",
+    "qsRank": "771-780",
+    "qsRankValue": 771,
+    "how": "exact"
+  },
+  "加拿大约克大学": {
+    "english": "York University",
+    "country": "Canada",
+    "qsName": "York University",
+    "qsRank": "=322",
+    "qsRankValue": 322,
+    "how": "exact"
+  },
+  "阿尔伯塔": {
+    "english": "University of Alberta",
+    "country": "Canada",
+    "qsName": "University of Alberta",
+    "qsRank": "96",
+    "qsRankValue": 96,
+    "how": "exact"
+  },
+  "南财+滑铁卢": {
+    "english": "University of Waterloo",
+    "country": "Canada",
+    "qsName": "University of Waterloo",
+    "qsRank": "=113",
+    "qsRankValue": 113,
+    "how": "exact"
+  },
+  "麦克马斯特大学（McMaster University）": {
+    "english": "McMaster University",
+    "country": "Canada",
+    "qsName": "McMaster University",
+    "qsRank": "=174",
+    "qsRankValue": 174,
+    "how": "exact"
+  },
+  "墨尔本": {
+    "english": "The University of Melbourne",
+    "country": "Australia",
+    "qsName": "The University of Melbourne",
+    "qsRank": "=22",
+    "qsRankValue": 22,
+    "how": "exact"
+  },
+  "康普顿斯大学": {
+    "english": "Complutense University of Madrid",
+    "country": "Spain",
+    "qsName": "Complutense University of Madrid",
+    "qsRank": "199",
+    "qsRankValue": 199,
+    "how": "exact"
+  },
+  "亚利桑那州立大学": {
+    "english": "Arizona State University",
+    "country": "United States",
+    "qsName": "Arizona State University",
+    "qsRank": "172",
+    "qsRankValue": 172,
+    "how": "exact"
+  },
+  "韩国汉阳大学": {
+    "english": "Hanyang University",
+    "country": "South Korea",
+    "qsName": "Hanyang University",
+    "qsRank": "155",
+    "qsRankValue": 155,
+    "how": "exact"
+  },
+  "中山大学 珠海校区": {
+    "english": "Sun Yat-sen University",
+    "country": "China (Mainland)",
+    "qsName": "Sun Yat-sen University",
+    "qsRank": "=258",
+    "qsRankValue": 258,
+    "how": "exact"
+  },
+  "多伦多": {
+    "english": "University of Toronto",
+    "country": "Canada",
+    "qsName": "University of Toronto",
+    "qsRank": "32",
+    "qsRankValue": 32,
+    "how": "exact"
+  },
+  "北京工业大学都柏林国际学院": {
+    "english": "University College Dublin",
+    "country": "Ireland",
+    "qsName": "University College Dublin",
+    "qsRank": "=100",
+    "qsRankValue": 100,
+    "how": "exact"
+  },
+  "都柏林大学": {
+    "english": "University College Dublin",
+    "country": "Ireland",
+    "qsName": "University College Dublin",
+    "qsRank": "=100",
+    "qsRankValue": 100,
+    "how": "exact"
+  },
+  "华盛顿大学西雅图分校": {
+    "english": "University of Washington",
+    "country": "United States",
+    "qsName": "University of Washington",
+    "qsRank": "=92",
+    "qsRankValue": 92,
+    "how": "exact"
+  },
+  "爱丁堡": {
+    "english": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "qsName": "The University of Edinburgh",
+    "qsRank": "35",
+    "qsRankValue": 35,
+    "how": "exact"
+  },
+  "宾州州立大学": {
+    "english": "The Pennsylvania State University",
+    "country": "United States",
+    "qsName": "Pennsylvania State University",
+    "qsRank": "=92",
+    "qsRankValue": 92,
+    "how": "exact"
+  },
+  "华南农业大学+莫纳什大学（2+2）": {
+    "english": "Monash University",
+    "country": "Australia",
+    "qsName": "Monash University",
+    "qsRank": "31",
+    "qsRankValue": 31,
+    "how": "exact"
+  },
+  "Toronto metropolitan university": {
+    "english": "Toronto Metropolitan University",
+    "country": "Canada",
+    "qsName": "Toronto Metropolitan University",
+    "qsRank": "669",
+    "qsRankValue": 669,
+    "how": "exact"
+  },
+  "Toronto Metropolitan University": {
+    "english": "Toronto Metropolitan University",
+    "country": "Canada",
+    "qsName": "Toronto Metropolitan University",
+    "qsRank": "669",
+    "qsRankValue": 669,
+    "how": "exact"
+  },
+  "帝国理工学院": {
+    "english": "Imperial College London",
+    "country": "United Kingdom",
+    "qsName": "Imperial College London",
+    "qsRank": "=2",
+    "qsRankValue": 2,
+    "how": "exact"
+  },
+  "贝勒大学": {
+    "english": "Baylor University",
+    "country": "United States",
+    "qsName": "Baylor University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "La Trobe University": {
+    "english": "La Trobe University",
+    "country": "Australia",
+    "qsName": "La Trobe University",
+    "qsRank": "=241",
+    "qsRankValue": 241,
+    "how": "exact"
+  },
+  "university of waterloo": {
+    "english": "University of Waterloo",
+    "country": "Canada",
+    "qsName": "University of Waterloo",
+    "qsRank": "=113",
+    "qsRankValue": 113,
+    "how": "exact"
+  },
+  "台湾中原大学": {
+    "english": "Chung Yuan Christian University",
+    "country": "Taiwan",
+    "qsName": "Chung Yuan Christian University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "dalhousie": {
+    "english": "Dalhousie University",
+    "country": "Canada",
+    "qsName": "Dalhousie University",
+    "qsRank": "298",
+    "qsRankValue": 298,
+    "how": "exact"
+  },
+  "加州大学圣地亚哥分校": {
+    "english": "University of California San Diego",
+    "country": "United States",
+    "qsName": "University of California, San Diego (UCSD)",
+    "qsRank": "81",
+    "qsRankValue": 81,
+    "how": "exact"
+  },
+  "康考迪亚大学": {
+    "english": "Concordia University",
+    "country": "Canada",
+    "qsName": "Concordia University",
+    "qsRank": "=497",
+    "qsRankValue": 497,
+    "how": "exact"
+  },
+  "马萨诸塞大学波士顿分校": {
+    "english": "University of Massachusetts Boston",
+    "country": "United States",
+    "qsName": "University of Massachusetts Boston",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "University of Delaware": {
+    "english": "University of Delaware",
+    "country": "United States",
+    "qsName": "University of Delaware",
+    "qsRank": "=575",
+    "qsRankValue": 575,
+    "how": "exact"
+  },
+  "科廷大学新加坡校区": {
+    "english": "Curtin University",
+    "country": "Australia",
+    "qsName": "Curtin University",
+    "qsRank": "189",
+    "qsRankValue": 189,
+    "how": "exact"
+  },
+  "南京财经大学+滑铁卢大学": {
+    "english": "University of Waterloo",
+    "country": "Canada",
+    "qsName": "University of Waterloo",
+    "qsRank": "=113",
+    "qsRankValue": 113,
+    "how": "exact"
+  },
+  "阿尔伯塔大学": {
+    "english": "University of Alberta",
+    "country": "Canada",
+    "qsName": "University of Alberta",
+    "qsRank": "96",
+    "qsRankValue": 96,
+    "how": "exact"
+  },
+  "卡尔顿大学": {
+    "english": "Carleton University",
+    "country": "Canada",
+    "qsName": "Carleton University",
+    "qsRank": "801-850",
+    "qsRankValue": 801,
+    "how": "exact"
+  },
+  "福特汉姆大学": {
+    "english": "Fordham University",
+    "country": "United States",
+    "qsName": "Fordham University",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "印第安纳大学布卢明顿分校": {
+    "english": "Indiana University Bloomington",
+    "country": "United States",
+    "qsName": "Indiana University Bloomington",
+    "qsRank": "=360",
+    "qsRankValue": 360,
+    "how": "exact"
+  },
+  "考文垂大学": {
+    "english": "Coventry University",
+    "country": "United Kingdom",
+    "qsName": "Coventry University",
+    "qsRank": "=581",
+    "qsRankValue": 581,
+    "how": "exact"
+  },
+  "香港公开大学": {
+    "english": "Hong Kong Metropolitan University",
+    "country": "Hong Kong SAR",
+    "qsName": "Hong Kong Metropolitan University",
+    "qsRank": "781-790",
+    "qsRankValue": 781,
+    "how": "exact"
+  },
+  "马兰欧尼学院伦敦校区": {
+    "english": "Istituto Marangoni",
+    "country": "Italy",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "雪城大学": {
+    "english": "Syracuse University",
+    "country": "United States",
+    "qsName": "Syracuse University",
+    "qsRank": "731-740",
+    "qsRankValue": 731,
+    "how": "exact"
+  },
+  "德克萨斯理工大学": {
+    "english": "Texas Tech University",
+    "country": "United States",
+    "qsName": "Texas Tech University",
+    "qsRank": "761-770",
+    "qsRankValue": 761,
+    "how": "exact"
+  },
+  "加州大学圣克鲁兹分校": {
+    "english": "University of California, Santa Cruz",
+    "country": "United States",
+    "qsName": "University of California, Santa Cruz",
+    "qsRank": "=458",
+    "qsRankValue": 458,
+    "how": "exact"
+  },
+  "南卡罗来纳大学": {
+    "english": "University of South Carolina",
+    "country": "United States",
+    "qsName": "University of South Carolina",
+    "qsRank": "711-720",
+    "qsRankValue": 711,
+    "how": "exact"
+  },
+  "圣安德鲁斯大学": {
+    "english": "University of St Andrews",
+    "country": "United Kingdom",
+    "qsName": "University of St Andrews",
+    "qsRank": "=115",
+    "qsRankValue": 115,
+    "how": "exact"
+  },
+  "安徽大学+格林威治大学(3+1），硕：贝尔法斯特女王大学（在读）": {
+    "english": "University of Greenwich",
+    "country": "United Kingdom",
+    "qsName": "University of Greenwich",
+    "qsRank": "791-800",
+    "qsRankValue": 791,
+    "how": "exact"
+  },
+  "佩斯大学": {
+    "english": "Pace University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "加州大学洛杉矶分校": {
+    "english": "University of California, Los Angeles",
+    "country": "United States",
+    "qsName": "University of California, Los Angeles (UCLA)",
+    "qsRank": "49",
+    "qsRankValue": 49,
+    "how": "exact"
+  },
+  "庆熙大学": {
+    "english": "Kyung Hee University",
+    "country": "South Korea",
+    "qsName": "Kyung Hee University",
+    "qsRank": "=309",
+    "qsRankValue": 309,
+    "how": "exact"
+  },
+  "高丽大学": {
+    "english": "Korea University",
+    "country": "South Korea",
+    "qsName": "Korea University",
+    "qsRank": "=52",
+    "qsRankValue": 52,
+    "how": "exact"
+  },
+  "曼尼托巴大学": {
+    "english": "University of Manitoba",
+    "country": "Canada",
+    "qsName": "University of Manitoba",
+    "qsRank": "=560",
+    "qsRankValue": 560,
+    "how": "exact"
+  },
+  "哈德斯菲尔德大学": {
+    "english": "University of Huddersfield",
+    "country": "United Kingdom",
+    "qsName": "University of Huddersfield",
+    "qsRank": "=521",
+    "qsRankValue": 521,
+    "how": "exact"
+  },
+  "西蒙弗雷泽大学+南安普顿大学": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "马来西亚国民大学": {
+    "english": "Universiti Kebangsaan Malaysia",
+    "country": "Malaysia",
+    "qsName": "Universiti Kebangsaan Malaysia (UKM)",
+    "qsRank": "130",
+    "qsRankValue": 130,
+    "how": "exact"
+  },
+  "天普大学（美国）": {
+    "english": "Temple University",
+    "country": "United States",
+    "qsName": "Temple University",
+    "qsRank": "751-760",
+    "qsRankValue": 751,
+    "how": "exact"
+  },
+  "中国农业大学+科罗拉多大学丹佛分校": {
+    "english": "University of Colorado Denver",
+    "country": "United States",
+    "qsName": "University of Colorado, Denver",
+    "qsRank": "851-900",
+    "qsRankValue": 851,
+    "how": "exact"
+  },
+  "苏州大学+维多利亚大学": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "麦克莫瑞学院": {
+    "english": "McMurry University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "岭南大学": {
+    "english": "Lingnan University",
+    "country": "Hong Kong SAR",
+    "qsName": "Lingnan University, Hong Kong",
+    "qsRank": "=581",
+    "qsRankValue": 581,
+    "how": "chosen"
+  },
+  "香港岭南大学": {
+    "english": "Lingnan University",
+    "country": "Hong Kong SAR",
+    "qsName": "Lingnan University, Hong Kong",
+    "qsRank": "=581",
+    "qsRankValue": 581,
+    "how": "chosen"
+  },
+  "卡迪夫城市大学": {
+    "english": "Cardiff Metropolitan University",
+    "country": "United Kingdom",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "伦敦大学": {
+    "english": "University of London",
+    "country": "United Kingdom",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "University of Newcastle Australia": {
+    "english": "The University of Newcastle",
+    "country": "Australia",
+    "qsName": "The University of Newcastle, Australia (UON)",
+    "qsRank": "244",
+    "qsRankValue": 244,
+    "how": "chosen"
+  },
+  "瑞士格里昂酒店管理学院": {
+    "english": "Glion Institute of Higher Education",
+    "country": "Switzerland",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "法国特鲁瓦技术大学": {
+    "english": "Université de Technologie de Troyes",
+    "country": "France",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "Lingnan University": {
+    "english": "Lingnan University",
+    "country": "Hong Kong SAR",
+    "qsName": "Lingnan University, Hong Kong",
+    "qsRank": "=581",
+    "qsRankValue": 581,
+    "how": "chosen"
+  },
+  "加拿大女王大学": {
+    "english": "Queen's University",
+    "country": "Canada",
+    "qsName": "Queen's University at Kingston",
+    "qsRank": "=179",
+    "qsRankValue": 179,
+    "how": "chosen"
+  },
+  "萨凡纳艺术与设计学院": {
+    "english": "Savannah College of Art and Design",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "香港恒生大学": {
+    "english": "The Hang Seng University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "上海体育大学": {
+    "english": "Shanghai University of Sport",
+    "country": "China (Mainland)",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "纽约州立大学阿尔巴尼分校": {
+    "english": "University at Albany, State University of New York",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "加州州立大学": {
+    "english": "California State University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "铭传大学": {
+    "english": "Ming Chuan University",
+    "country": "Taiwan",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "台北商业大学": {
+    "english": "National Taipei University of Business",
+    "country": "Taiwan",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "布达佩斯考文纽斯大学": {
+    "english": "Corvinus University of Budapest",
+    "country": "Hungary",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "武汉工程大学+佛罗里达理工学院": {
+    "english": "Florida Institute of Technology",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "巴黎第五大学": {
+    "english": "Université Paris Cité",
+    "country": "France",
+    "qsName": "Université de Paris",
+    "qsRank": "=303",
+    "qsRankValue": 303,
+    "how": "chosen"
+  },
+  "密苏里大学": {
+    "english": "University of Missouri",
+    "country": "United States",
+    "qsName": "University of Missouri, Columbia",
+    "qsRank": "721-730",
+    "qsRankValue": 721,
+    "how": "chosen"
+  },
+  "纽约州立大学石溪分校": {
+    "english": "Stony Brook University",
+    "country": "United States",
+    "qsName": "Stony Brook University, State University of New York",
+    "qsRank": "=468",
+    "qsRankValue": 468,
+    "how": "chosen"
+  },
+  "朱尼亚塔学院": {
+    "english": "Juniata College",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "谢菲尔德哈勒姆": {
+    "english": "Sheffield Hallam University",
+    "country": "United Kingdom",
+    "qsName": "Sheffield Hallam University",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "爱尔兰都柏林大学": {
+    "english": "University College Dublin",
+    "country": "Ireland",
+    "qsName": "University College Dublin",
+    "qsRank": "=100",
+    "qsRankValue": 100,
+    "how": "exact"
+  },
+  "Royal Melbourne Institute of technology": {
+    "english": "RMIT University",
+    "country": "Australia",
+    "qsName": "RMIT University",
+    "qsRank": "=119",
+    "qsRankValue": 119,
+    "how": "exact"
+  },
+  "Sorbonne University": {
+    "english": "Sorbonne University",
+    "country": "France",
+    "qsName": "Sorbonne University",
+    "qsRank": "73",
+    "qsRankValue": 73,
+    "how": "exact"
+  },
+  "PSB Academy": {
+    "english": "PSB Academy",
+    "country": "Singapore",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "James Cook University (Singapore Campus)": {
+    "english": "James Cook University",
+    "country": "Australia",
+    "qsName": "James Cook University",
+    "qsRank": "=438",
+    "qsRankValue": 438,
+    "how": "exact"
+  },
+  "澳大利亚科廷大学": {
+    "english": "Curtin University",
+    "country": "Australia",
+    "qsName": "Curtin University",
+    "qsRank": "189",
+    "qsRankValue": 189,
+    "how": "exact"
+  },
+  "The Hong Kong Polytechnic University": {
+    "english": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong SAR",
+    "qsName": "The Hong Kong Polytechnic University",
+    "qsRank": "50",
+    "qsRankValue": 50,
+    "how": "exact"
+  },
+  "University of Arts London": {
+    "english": "University of the Arts London",
+    "country": "United Kingdom",
+    "qsName": "University of the Arts London",
+    "qsRank": "851-900",
+    "qsRankValue": 851,
+    "how": "exact"
+  },
+  "威斯康星麦迪逊大学": {
+    "english": "University of Wisconsin-Madison",
+    "country": "United States",
+    "qsName": "University of Wisconsin-Madison",
+    "qsRank": "=131",
+    "qsRankValue": 131,
+    "how": "exact"
+  },
+  "加州大学尔湾分校": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "qsName": "University of California, Irvine",
+    "qsRank": "=252",
+    "qsRankValue": 252,
+    "how": "exact"
+  },
+  "Adelaide University": {
+    "english": "Adelaide University",
+    "country": "Australia",
+    "qsName": "Adelaide University",
+    "qsRank": "79",
+    "qsRankValue": 79,
+    "how": "exact"
+  },
+  "Canterbury Christ Church University": {
+    "english": "Canterbury Christ Church University",
+    "country": "United Kingdom",
+    "qsName": "Canterbury Christ Church University",
+    "qsRank": "1401+",
+    "qsRankValue": 1401,
+    "how": "exact"
+  },
+  "James Cook University": {
+    "english": "James Cook University",
+    "country": "Australia",
+    "qsName": "James Cook University",
+    "qsRank": "=438",
+    "qsRankValue": 438,
+    "how": "exact"
+  },
+  "厦门大学马来西亚校区": {
+    "english": "Xiamen University",
+    "country": "China (Mainland)",
+    "qsName": "Xiamen University",
+    "qsRank": "=303",
+    "qsRankValue": 303,
+    "how": "exact"
+  },
+  "科廷大学": {
+    "english": "Curtin University",
+    "country": "Australia",
+    "qsName": "Curtin University",
+    "qsRank": "189",
+    "qsRankValue": 189,
+    "how": "exact"
+  },
+  "北卡罗莱纳州立大学": {
+    "english": "North Carolina State University",
+    "country": "United States",
+    "qsName": "North Carolina State University",
+    "qsRank": "=320",
+    "qsRankValue": 320,
+    "how": "exact"
+  },
+  "The University of Warwick": {
+    "english": "University of Warwick",
+    "country": "United Kingdom",
+    "qsName": "The University of Warwick",
+    "qsRank": "=68",
+    "qsRankValue": 68,
+    "how": "exact"
+  },
+  "Royal Melbourne Institute of Technology University (RMIT)": {
+    "english": "RMIT University",
+    "country": "Australia",
+    "qsName": "RMIT University",
+    "qsRank": "=119",
+    "qsRankValue": 119,
+    "how": "exact"
+  },
+  "天普大学": {
+    "english": "Temple University",
+    "country": "United States",
+    "qsName": "Temple University",
+    "qsRank": "751-760",
+    "qsRankValue": 751,
+    "how": "exact"
+  },
+  "Royal Holloway, University of London": {
+    "english": "Royal Holloway, University of London",
+    "country": "United Kingdom",
+    "qsName": "Royal Holloway University of London",
+    "qsRank": "=485",
+    "qsRankValue": 485,
+    "how": "exact"
+  },
+  "Arcadia University": {
+    "english": "Arcadia University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "Dublin City University": {
+    "english": "Dublin City University",
+    "country": "Ireland",
+    "qsName": "Dublin City University",
+    "qsRank": "408",
+    "qsRankValue": 408,
+    "how": "exact"
+  },
+  "得克萨斯大学奥斯汀分校": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "qsName": "University of Texas at Austin",
+    "qsRank": "72",
+    "qsRankValue": 72,
+    "how": "exact"
+  },
+  "東洋大学": {
+    "english": "Toyo University",
+    "country": "Japan",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "泰莱大学": {
+    "english": "Taylor's University",
+    "country": "Malaysia",
+    "qsName": "Taylor's University",
+    "qsRank": "272",
+    "qsRankValue": 272,
+    "how": "exact"
+  },
+  "ucl": {
+    "english": "University College London",
+    "country": "United Kingdom",
+    "qsName": "UCL",
+    "qsRank": "=8",
+    "qsRankValue": 8,
+    "how": "exact"
+  },
+  "格罗宁根大学": {
+    "english": "University of Groningen",
+    "country": "Netherlands",
+    "qsName": "University of Groningen",
+    "qsRank": "157",
+    "qsRankValue": 157,
+    "how": "exact"
+  },
+  "罗切斯特理工": {
+    "english": "Rochester Institute of Technology",
+    "country": "United States",
+    "qsName": "Rochester Institute of Technology (RIT)",
+    "qsRank": "951-1000",
+    "qsRankValue": 951,
+    "how": "exact"
+  },
+  "University College Dublin": {
+    "english": "University College Dublin",
+    "country": "Ireland",
+    "qsName": "University College Dublin",
+    "qsRank": "=100",
+    "qsRankValue": 100,
+    "how": "exact"
+  },
+  "西安大略大学": {
+    "english": "Western University",
+    "country": "Canada",
+    "qsName": "Western University",
+    "qsRank": "=142",
+    "qsRankValue": 142,
+    "how": "exact"
+  },
+  "美国犹他州立大学": {
+    "english": "Utah State University",
+    "country": "United States",
+    "qsName": "Utah State University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "马来亚大学": {
+    "english": "Universiti Malaya",
+    "country": "Malaysia",
+    "qsName": "Universiti Malaya (UM)",
+    "qsRank": "56",
+    "qsRankValue": 56,
+    "how": "exact"
+  },
+  "华侨+乔治梅森": {
+    "english": "George Mason University",
+    "country": "United States",
+    "qsName": "George Mason University",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "James cook university (Singapore)": {
+    "english": "James Cook University",
+    "country": "Australia",
+    "qsName": "James Cook University",
+    "qsRank": "=438",
+    "qsRankValue": 438,
+    "how": "exact"
+  },
+  "University of York": {
+    "english": "University of York",
+    "country": "United Kingdom",
+    "qsName": "University of York",
+    "qsRank": "=158",
+    "qsRankValue": 158,
+    "how": "exact"
+  },
+  "澳门某大学": {
+    "english": null,
+    "country": "Macau SAR",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "卡迪夫大学": {
+    "english": "Cardiff University",
+    "country": "United Kingdom",
+    "qsName": "Cardiff University",
+    "qsRank": "=179",
+    "qsRankValue": 179,
+    "how": "exact"
+  },
+  "Yorkville University": {
+    "english": "Yorkville University",
+    "country": "Canada",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "兰卡斯特大学": {
+    "english": "Lancaster University",
+    "country": "United Kingdom",
+    "qsName": "Lancaster University",
+    "qsRank": "164",
+    "qsRankValue": 164,
+    "how": "exact"
+  },
+  "近畿大学": {
+    "english": "Kindai University",
+    "country": "Japan",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "伦敦艺术学院": {
+    "english": "University of the Arts London",
+    "country": "United Kingdom",
+    "qsName": "University of the Arts London",
+    "qsRank": "851-900",
+    "qsRankValue": 851,
+    "how": "exact"
+  },
+  "华北电力大学+曼彻斯特大学": {
+    "english": "University of Manchester",
+    "country": "United Kingdom",
+    "qsName": "The University of Manchester",
+    "qsRank": "=40",
+    "qsRankValue": 40,
+    "how": "exact"
+  },
+  "牛津大学": {
+    "english": "University of Oxford",
+    "country": "United Kingdom",
+    "qsName": "University of Oxford",
+    "qsRank": "4",
+    "qsRankValue": 4,
+    "how": "exact"
+  },
+  "日本关西大学": {
+    "english": "Kansai University",
+    "country": "Japan",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "Erasmus University Rotterdam": {
+    "english": "Erasmus University Rotterdam",
+    "country": "Netherlands",
+    "qsName": "Erasmus University Rotterdam",
+    "qsRank": "148",
+    "qsRankValue": 148,
+    "how": "exact"
+  },
+  "罗切斯特大学": {
+    "english": "University of Rochester",
+    "country": "United States",
+    "qsName": "University of Rochester",
+    "qsRank": "251",
+    "qsRankValue": 251,
+    "how": "exact"
+  },
+  "江南大学+莫纳什": {
+    "english": "Monash University",
+    "country": "Australia",
+    "qsName": "Monash University",
+    "qsRank": "31",
+    "qsRankValue": 31,
+    "how": "exact"
+  },
+  "广州商学院+贝尔尤维大学": {
+    "english": "Bellevue University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "伦敦大学皇家霍洛威学院": {
+    "english": "Royal Holloway, University of London",
+    "country": "United Kingdom",
+    "qsName": "Royal Holloway University of London",
+    "qsRank": "=485",
+    "qsRankValue": 485,
+    "how": "exact"
+  },
+  "犹太州立大学": {
+    "english": "Utah State University",
+    "country": "United States",
+    "qsName": "Utah State University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "圣安德鲁斯": {
+    "english": "University of St Andrews",
+    "country": "United Kingdom",
+    "qsName": "University of St Andrews",
+    "qsRank": "=115",
+    "qsRankValue": 115,
+    "how": "exact"
+  },
+  "法国SKEMA商学院": {
+    "english": "SKEMA Business School",
+    "country": "France",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "北京工商大学嘉华学院+北京大学": {
+    "english": null,
+    "country": "China (Mainland)",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "马来西亚泰莱大学": {
+    "english": "Taylor's University",
+    "country": "Malaysia",
+    "qsName": "Taylor's University",
+    "qsRank": "272",
+    "qsRankValue": 272,
+    "how": "exact"
+  },
+  "文藻外语大学": {
+    "english": "Wenzao Ursuline University of Languages",
+    "country": "Taiwan",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "西交利物浦": {
+    "english": "Xi'an Jiaotong-Liverpool University",
+    "country": "China (Mainland)",
+    "qsName": "Xi'an Jiaotong Liverpool University",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "伯明翰城市大学": {
+    "english": "Birmingham City University",
+    "country": "United Kingdom",
+    "qsName": "Birmingham City University",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "University of Manchester": {
+    "english": "University of Manchester",
+    "country": "United Kingdom",
+    "qsName": "The University of Manchester",
+    "qsRank": "=40",
+    "qsRankValue": 40,
+    "how": "exact"
+  },
+  "马来西亚泰来": {
+    "english": "Taylor's University",
+    "country": "Malaysia",
+    "qsName": "Taylor's University",
+    "qsRank": "272",
+    "qsRankValue": 272,
+    "how": "exact"
+  },
+  "日本明治大学": {
+    "english": "Meiji University",
+    "country": "Japan",
+    "qsName": "Meiji University",
+    "qsRank": "1401+",
+    "qsRankValue": 1401,
+    "how": "exact"
+  },
+  "华南农业+都柏林大学": {
+    "english": "University College Dublin",
+    "country": "Ireland",
+    "qsName": "University College Dublin",
+    "qsRank": "=100",
+    "qsRankValue": 100,
+    "how": "exact"
+  },
+  "汉阳大学": {
+    "english": "Hanyang University",
+    "country": "South Korea",
+    "qsName": "Hanyang University",
+    "qsRank": "155",
+    "qsRankValue": 155,
+    "how": "exact"
+  },
+  "欧洲大学": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "泰国博乐大学": {
+    "english": null,
+    "country": "Thailand",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "纽卡斯尔": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "加拿大西安大略大学": {
+    "english": "Western University",
+    "country": "Canada",
+    "qsName": "Western University",
+    "qsRank": "=142",
+    "qsRankValue": 142,
+    "how": "exact"
+  },
+  "美利坚大学": {
+    "english": "American University",
+    "country": "United States",
+    "qsName": "American University",
+    "qsRank": "=646",
+    "qsRankValue": 646,
+    "how": "exact"
+  },
+  "University of waterloo": {
+    "english": "University of Waterloo",
+    "country": "Canada",
+    "qsName": "University of Waterloo",
+    "qsRank": "=113",
+    "qsRankValue": 113,
+    "how": "exact"
+  },
+  "加利福尼亚大学圣塔芭芭拉分校": {
+    "english": "University of California, Santa Barbara",
+    "country": "United States",
+    "qsName": "University of California, Santa Barbara (UCSB)",
+    "qsRank": "173",
+    "qsRankValue": 173,
+    "how": "exact"
+  },
+  "University of Birmingham": {
+    "english": "University of Birmingham",
+    "country": "United Kingdom",
+    "qsName": "University of Birmingham",
+    "qsRank": "=68",
+    "qsRankValue": 68,
+    "how": "exact"
+  },
+  "印第安纳大学凯利商学院": {
+    "english": "Indiana University Bloomington",
+    "country": "United States",
+    "qsName": "Indiana University Bloomington",
+    "qsRank": "=360",
+    "qsRankValue": 360,
+    "how": "exact"
+  },
+  "布鲁克大学": {
+    "english": "Brock University",
+    "country": "Canada",
+    "qsName": "Brock University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "UIUC": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "qsName": "University of Illinois at Urbana-Champaign",
+    "qsRank": "74",
+    "qsRankValue": 74,
+    "how": "exact"
+  },
+  "Emlyon Business School": {
+    "english": "emlyon business school",
+    "country": "France",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "University of Central Florida": {
+    "english": "University of Central Florida",
+    "country": "United States",
+    "qsName": "University of Central Florida",
+    "qsRank": "731-740",
+    "qsRankValue": 731,
+    "how": "exact"
+  },
+  "Baylor University": {
+    "english": "Baylor University",
+    "country": "United States",
+    "qsName": "Baylor University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "泰国博仁大学": {
+    "english": "Dhurakij Pundit University",
+    "country": "Thailand",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "中国地质大学（武汉）+滑铁卢大学": {
+    "english": "University of Waterloo",
+    "country": "Canada",
+    "qsName": "University of Waterloo",
+    "qsRank": "=113",
+    "qsRankValue": 113,
+    "how": "exact"
+  },
+  "兰州财经大学+美国北亚利桑那大学 2+2": {
+    "english": "Northern Arizona University",
+    "country": "United States",
+    "qsName": "Northern Arizona University",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "exact"
+  },
+  "梅西大学": {
+    "english": "Massey University",
+    "country": "New Zealand",
+    "qsName": "Massey University",
+    "qsRank": "215",
+    "qsRankValue": 215,
+    "how": "exact"
+  },
+  "三一学院": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "格拉斯哥": {
+    "english": "University of Glasgow",
+    "country": "United Kingdom",
+    "qsName": "University of Glasgow",
+    "qsRank": "80",
+    "qsRankValue": 80,
+    "how": "exact"
+  },
+  "The University of Sunderland": {
+    "english": "University of Sunderland",
+    "country": "United Kingdom",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "assumption university": {
+    "english": "Assumption University",
+    "country": "Thailand",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "Mercy College": {
+    "english": "Mercy University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "隆德大学": {
+    "english": "Lund University",
+    "country": "Sweden",
+    "qsName": "Lund University",
+    "qsRank": "71",
+    "qsRankValue": 71,
+    "how": "exact"
+  },
+  "韩国中央大学": {
+    "english": "Chung-Ang University",
+    "country": "South Korea",
+    "qsName": "Chung-Ang University (CAU)",
+    "qsRank": "=432",
+    "qsRankValue": 432,
+    "how": "exact"
+  },
+  "加利福尼亚大学圣塔巴拉拉分校": {
+    "english": "University of California, Santa Barbara",
+    "country": "United States",
+    "qsName": "University of California, Santa Barbara (UCSB)",
+    "qsRank": "173",
+    "qsRankValue": 173,
+    "how": "exact"
+  },
+  "University of Ottawa": {
+    "english": "University of Ottawa",
+    "country": "Canada",
+    "qsName": "University of Ottawa",
+    "qsRank": "=228",
+    "qsRankValue": 228,
+    "how": "exact"
+  },
+  "UNSW": {
+    "english": "UNSW Sydney",
+    "country": "Australia",
+    "qsName": "The University of New South Wales (UNSW Sydney)",
+    "qsRank": "19",
+    "qsRankValue": 19,
+    "how": "exact"
+  },
+  "布达佩斯技术与经济大学": {
+    "english": "Budapest University of Technology and Economics",
+    "country": "Hungary",
+    "qsName": "Budapest University of Technology and Economics",
+    "qsRank": "751-760",
+    "qsRankValue": 751,
+    "how": "exact"
+  },
+  "诺丁汉大学": {
+    "english": "University of Nottingham",
+    "country": "United Kingdom",
+    "qsName": "University of Nottingham",
+    "qsRank": "=97",
+    "qsRankValue": 97,
+    "how": "exact"
+  },
+  "The Pennsylvania State University": {
+    "english": "The Pennsylvania State University",
+    "country": "United States",
+    "qsName": "Pennsylvania State University",
+    "qsRank": "=92",
+    "qsRankValue": 92,
+    "how": "exact"
+  },
+  "加本Top3": {
+    "english": null,
+    "country": "Canada",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "美本 Top 40": {
+    "english": null,
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "中央财经大学+伊利诺伊大学厄巴纳-香槟分校": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "qsName": "University of Illinois at Urbana-Champaign",
+    "qsRank": "74",
+    "qsRankValue": 74,
+    "how": "exact"
+  },
+  "特拉华大学": {
+    "english": "University of Delaware",
+    "country": "United States",
+    "qsName": "University of Delaware",
+    "qsRank": "=575",
+    "qsRankValue": 575,
+    "how": "exact"
+  },
+  "美本TOP40文理学院": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "博仁大学": {
+    "english": "Dhurakij Pundit University",
+    "country": "Thailand",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "Simon Fraser University": {
+    "english": "Simon Fraser University",
+    "country": "Canada",
+    "qsName": "Simon Fraser University",
+    "qsRank": "312",
+    "qsRankValue": 312,
+    "how": "exact"
+  },
+  "埃默里大学": {
+    "english": "Emory University",
+    "country": "United States",
+    "qsName": "Emory University",
+    "qsRank": "183",
+    "qsRankValue": 183,
+    "how": "exact"
+  },
+  "广东财经大学+西澳大学": {
+    "english": "The University of Western Australia",
+    "country": "Australia",
+    "qsName": "The University of Western Australia",
+    "qsRank": "=77",
+    "qsRankValue": 77,
+    "how": "exact"
+  },
+  "台湾东海大学": {
+    "english": "Tunghai University",
+    "country": "Taiwan",
+    "qsName": "Tunghai University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "渥太华大学": {
+    "english": "University of Ottawa",
+    "country": "Canada",
+    "qsName": "University of Ottawa",
+    "qsRank": "=228",
+    "qsRankValue": 228,
+    "how": "exact"
+  },
+  "九州大学": {
+    "english": "Kyushu University",
+    "country": "Japan",
+    "qsName": "Kyushu University",
+    "qsRank": "171",
+    "qsRankValue": 171,
+    "how": "exact"
+  },
+  "特伦特大学": {
+    "english": "Trent University",
+    "country": "Canada",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "辅仁大学": {
+    "english": "Fu Jen Catholic University",
+    "country": "Taiwan",
+    "qsName": "Fu Jen Catholic University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "成均馆大学": {
+    "english": "Sungkyunkwan University",
+    "country": "South Korea",
+    "qsName": "Sungkyunkwan University(SKKU)",
+    "qsRank": "108",
+    "qsRankValue": 108,
+    "how": "exact"
+  },
+  "北京师范大学珠海分校+墨尔本大学": {
+    "english": "The University of Melbourne",
+    "country": "Australia",
+    "qsName": "The University of Melbourne",
+    "qsRank": "=22",
+    "qsRankValue": 22,
+    "how": "exact"
+  },
+  "怀卡托大学": {
+    "english": "University of Waikato",
+    "country": "New Zealand",
+    "qsName": "University of Waikato",
+    "qsRank": "=293",
+    "qsRankValue": 293,
+    "how": "exact"
+  },
+  "福尔曼大学": {
+    "english": "Furman University",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "圣玛丽大学": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "郑州大学+莫纳什大学": {
+    "english": "Monash University",
+    "country": "Australia",
+    "qsName": "Monash University",
+    "qsRank": "31",
+    "qsRankValue": 31,
+    "how": "exact"
+  },
+  "迈阿密大学牛津分校": {
+    "english": "Miami University",
+    "country": "United States",
+    "qsName": "Miami University",
+    "qsRank": "1201-1400",
+    "qsRankValue": 1201,
+    "how": "exact"
+  },
+  "波士顿大学+庆应义塾大学": {
+    "english": null,
+    "country": null,
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "新西兰怀卡托大学": {
+    "english": "University of Waikato",
+    "country": "New Zealand",
+    "qsName": "University of Waikato",
+    "qsRank": "=293",
+    "qsRankValue": 293,
+    "how": "exact"
+  },
+  "伦敦大学玛丽皇后学院": {
+    "english": "Queen Mary University of London",
+    "country": "United Kingdom",
+    "qsName": "Queen Mary University of London",
+    "qsRank": "103",
+    "qsRankValue": 103,
+    "how": "exact"
+  },
+  "上海外国语大学海外合作学院+新西兰怀卡托大学": {
+    "english": "University of Waikato",
+    "country": "New Zealand",
+    "qsName": "University of Waikato",
+    "qsRank": "=293",
+    "qsRankValue": 293,
+    "how": "exact"
+  },
+  "纽卡斯尔大学（澳洲）": {
+    "english": "University of Newcastle",
+    "country": "Australia",
+    "qsName": "The University of Newcastle, Australia (UON)",
+    "qsRank": "244",
+    "qsRankValue": 244,
+    "how": "chosen"
+  },
+  "澳门旅游大学": {
+    "english": "Macao University of Tourism",
+    "country": "Macau SAR",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "Macau University of Tourism": {
+    "english": "Macao University of Tourism",
+    "country": "Macau SAR",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "澳洲纽卡斯尔大学PSB新加坡分校": {
+    "english": "University of Newcastle",
+    "country": "Australia",
+    "qsName": "The University of Newcastle, Australia (UON)",
+    "qsRank": "244",
+    "qsRankValue": 244,
+    "how": "chosen"
+  },
+  "南伊利诺伊大学爱德华兹维尔": {
+    "english": "Southern Illinois University Edwardsville",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "拉彭兰塔-拉赫蒂理工大学": {
+    "english": "LUT University",
+    "country": "Finland",
+    "qsName": "Lappeenranta-Lahti University of Technology LUT",
+    "qsRank": "=390",
+    "qsRankValue": 390,
+    "how": "chosen"
+  },
+  "明尼苏达": {
+    "english": "University of Minnesota",
+    "country": "United States",
+    "qsName": "University of Minnesota Twin Cities",
+    "qsRank": "=255",
+    "qsRankValue": 255,
+    "how": "chosen"
+  },
+  "Umich": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "qsName": "University of Michigan-Ann Arbor",
+    "qsRank": "51",
+    "qsRankValue": 51,
+    "how": "chosen"
+  },
+  "pratt": {
+    "english": "Pratt Institute",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "三宝垄国立大学": {
+    "english": "Universitas Negeri Semarang",
+    "country": "Indonesia",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "金日成综合大学": {
+    "english": "Kim Il Sung University",
+    "country": "North Korea",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "北京师范大学-香港浸会大学联合国际学院": {
+    "english": "Beijing Normal-Hong Kong Baptist University",
+    "country": "China (Mainland)",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "keuka college": {
+    "english": "Keuka College",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "伯克利音乐学院": {
+    "english": "Berklee College of Music",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "河北工业大学+拉彭兰塔理工大学（1+3）": {
+    "english": "LUT University",
+    "country": "Finland",
+    "qsName": "Lappeenranta-Lahti University of Technology LUT",
+    "qsRank": "=390",
+    "qsRankValue": 390,
+    "how": "chosen"
+  },
+  "德国海德堡大学": {
+    "english": "Heidelberg University",
+    "country": "Germany",
+    "qsName": "Ruprecht-Karls-Universität Heidelberg",
+    "qsRank": "86",
+    "qsRankValue": 86,
+    "how": "chosen"
+  },
+  "University at Buffalo": {
+    "english": "University at Buffalo",
+    "country": "United States",
+    "qsName": "University at Buffalo SUNY",
+    "qsRank": "=416",
+    "qsRankValue": 416,
+    "how": "chosen"
+  },
+  "开姆尼茨工业大学（德国）": {
+    "english": "Chemnitz University of Technology",
+    "country": "Germany",
+    "qsName": "Technische Universität Chemnitz",
+    "qsRank": "1001-1200",
+    "qsRankValue": 1001,
+    "how": "chosen"
+  },
+  "里斯本大学学院": {
+    "english": "Iscte – University Institute of Lisbon",
+    "country": "Portugal",
+    "qsName": "ISCTE-IUL",
+    "qsRank": "851-900",
+    "qsRankValue": 851,
+    "how": "chosen"
+  },
+  "都柏林圣三一大学": {
+    "english": "Trinity College Dublin",
+    "country": "Ireland",
+    "qsName": "Trinity College Dublin, The University of Dublin",
+    "qsRank": "75",
+    "qsRankValue": 75,
+    "how": "chosen"
+  },
+  "广东金融学院+西阿拉巴马大学": {
+    "english": "University of West Alabama",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "瓦萨学院": {
+    "english": "Vassar College",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "纽约州立大学宾汉姆顿分校": {
+    "english": "Binghamton University, State University of New York",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "博洛尼亚大学": {
+    "english": "University of Bologna",
+    "country": "Italy",
+    "qsName": "Alma Mater Studiorum - University of Bologna",
+    "qsRank": "=123",
+    "qsRankValue": 123,
+    "how": "chosen"
+  },
+  "卡拉马祖学院": {
+    "english": "Kalamazoo College",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "惠顿学院": {
+    "english": "Wheaton College",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "威顿学院": {
+    "english": "Wheaton College",
+    "country": "United States",
+    "qsName": null,
+    "qsRank": null,
+    "qsRankValue": null,
+    "how": "none"
+  },
+  "柏林自由大学": {
+    "english": "Freie Universität Berlin",
+    "country": "Germany",
+    "qsName": "Freie Universitaet Berlin",
+    "qsRank": "=98",
+    "qsRankValue": 98,
+    "how": "chosen"
+  },
+  "四川大学+明尼苏达大学": {
+    "english": "University of Minnesota",
+    "country": "United States",
+    "qsName": "University of Minnesota Twin Cities",
+    "qsRank": "=255",
+    "qsRankValue": 255,
+    "how": "chosen"
+  },
+  "南洋理工大学": {
+    "english": "Nanyang Technological University",
+    "country": "Singapore",
+    "qsName": "Nanyang Technological University, Singapore (NTU)",
+    "qsRank": "12",
+    "qsRankValue": 12,
+    "how": "chosen"
+  }
+}

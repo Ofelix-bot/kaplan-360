@@ -1,0 +1,129 @@
+# university-of-salford https://www.salford.ac.uk
+robots sitemaps: https://www.salford.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.salford.ac.uk/sitemap.xml: 4 children (4 course-like)
+sitemaps read 5 · urls 6693 · master's-looking 854
+  210  www.salford.ac.uk/courses/undergraduate
+         https://www.salford.ac.uk/courses/undergraduate/dance
+         https://www.salford.ac.uk/courses/undergraduate/law
+         https://www.salford.ac.uk/courses/undergraduate/architecture
+         https://www.salford.ac.uk/courses/undergraduate/bsc-building-surveying
+  160  www.salford.ac.uk/news
+         https://www.salford.ac.uk/news/salford-fashion-graduate-lands-design-job-after-sending-safari-chic-down-the-runway
+         https://www.salford.ac.uk/news/graduate-bags-lead-role-in-american-docudrama
+         https://www.salford.ac.uk/news/journalism-graduate-hosts-bbc-radio-1-show
+         https://www.salford.ac.uk/news/mancunian-icon-and-inspiral-carpets-star-gives-masterclass-to-salford-music-students
+  125  www.salford.ac.uk/courses/postgraduate
+         https://www.salford.ac.uk/courses/postgraduate/creative-writing-innovation-and-experiment
+         https://www.salford.ac.uk/courses/postgraduate/dance-and-professional-practices
+         https://www.salford.ac.uk/courses/postgraduate/dance-performance-and-professional-practices-emergence
+         https://www.salford.ac.uk/courses/postgraduate/visual-communication
+   87  www.salford.ac.uk/international
+         https://www.salford.ac.uk/international/study-a-masters-degree-at-salford
+         https://www.salford.ac.uk/international/postgraduate-science-study-in-uk
+         https://www.salford.ac.uk/international/masters-in-public-health
+         https://www.salford.ac.uk/international/meet-kai-bim-masters-student
+   46  www.salford.ac.uk/graduation
+         https://www.salford.ac.uk/graduation/graduation-2020-double-celebrations-as-podiatry-award-nominee-graduates
+         https://www.salford.ac.uk/graduation/highlights-of-201920-the-graduate-working-to-make-salford-more-accessible
+         https://www.salford.ac.uk/graduation/graduation-2020-graduate-makes-the-final-round-at-nw-engineering-competition
+         https://www.salford.ac.uk/graduation/gerry-mason-engineering-excellence-scholars-graduate
+   25  www.salford.ac.uk/undergraduate
+         https://www.salford.ac.uk/undergraduate/apply
+         https://www.salford.ac.uk/undergraduate/open-days
+         https://www.salford.ac.uk/undergraduate/ive-applied-what-happens-next
+         https://www.salford.ac.uk/undergraduate/fees-and-funding
+   19  www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2023
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2023/ata-dirilgen
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2023/chiamka-ezeibe
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2023/chris-lenferna
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2023/dominic-lane
+   18  www.salford.ac.uk/school-health-society
+         https://www.salford.ac.uk/school-health-society/salford-graduate-goes-for-gold-at-tokyo-2021
+         https://www.salford.ac.uk/school-health-society/salford-graduate-appointed-as-consultant-for-new-itv-project
+         https://www.salford.ac.uk/school-health-society/salford-graduate-and-paralympic-champion-hannah-receives-obe
+         https://www.salford.ac.uk/school-health-society/occupational-therapy-a-graduate-story
+   17  www.salford.ac.uk/postgraduate/pathway-to-postgrad/meet-the-tutors-choose-your-subject-area
+         https://www.salford.ac.uk/postgraduate/pathway-to-postgrad/meet-the-tutors-choose-your-subject-area/meet-the-tutor-accounting-finance-and-fintech
+         https://www.salford.ac.uk/postgraduate/pathway-to-postgrad/meet-the-tutors-choose-your-subject-area/meet-the-tutor-aviation-and-transport
+         https://www.salford.ac.uk/postgraduate/pathway-to-postgrad/meet-the-tutors-choose-your-subject-area/meet-the-tutor-business-management-and-leadership
+         https://www.salford.ac.uk/postgraduate/pathway-to-postgrad/meet-the-tutors-choose-your-subject-area/meet-the-tutor-computing-ai-and-data
+   14  www.salford.ac.uk/school-of-science-engineering-and-environment
+         https://www.salford.ac.uk/school-of-science-engineering-and-environment/postgraduate-courses
+         https://www.salford.ac.uk/school-of-science-engineering-and-environment/undergraduate-courses
+         https://www.salford.ac.uk/school-of-science-engineering-and-environment/postgraduate-research-in-the-school-of-science-engineering-and-environment
+         https://www.salford.ac.uk/school-of-science-engineering-and-environment/master-environmental-management-with-postgraduate-study
+   13  www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2024
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2024/john-michael-kerford
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2024/ronald-campan
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2024/francesca-barker-smith
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2024/jessica-barnes
+   12  www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2025
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2025/courtney-sarsfield
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2025/daisy-jennings
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2025/ellis-wilson
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2025/evelyn-adesina
+   11  www.salford.ac.uk/postgraduate
+         https://www.salford.ac.uk/postgraduate/open-days
+         https://www.salford.ac.uk/postgraduate/ive-applied-what-happens-next
+         https://www.salford.ac.uk/postgraduate/events
+         https://www.salford.ac.uk/postgraduate/thanks-for-booking-your-place
+   11  www.salford.ac.uk/salford-business-school
+         https://www.salford.ac.uk/salford-business-school/undergraduate-courses-in-business-finance-and-law
+         https://www.salford.ac.uk/salford-business-school/postgraduate-courses-in-business-finance-and-technology
+         https://www.salford.ac.uk/salford-business-school/undergraduate-economics-finance-and-accounting-courses-at-salford
+         https://www.salford.ac.uk/salford-business-school/undergraduate-business-courses
+    9  www.salford.ac.uk/postgraduate-research
+         https://www.salford.ac.uk/postgraduate-research/fees
+         https://www.salford.ac.uk/postgraduate-research/case-studies
+         https://www.salford.ac.uk/postgraduate-research/research-events
+         https://www.salford.ac.uk/postgraduate-research/apply
+    9  www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2026
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2026/hannah-gibson
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2026/justine-geraghty
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2026/katya-shelmerdine
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2026/madalyn-eve-hamilton
+    9  www.salford.ac.uk/courses/postgraduate-researchdoctorate
+         https://www.salford.ac.uk/courses/postgraduate-researchdoctorate/business-management-and-law
+         https://www.salford.ac.uk/courses/postgraduate-researchdoctorate/professional-doctorate-health-and-social-care
+         https://www.salford.ac.uk/courses/postgraduate-researchdoctorate/acoustics-audio-postgraduate-research
+         https://www.salford.ac.uk/courses/postgraduate-researchdoctorate/robotics-and-systems-engineering
+    8  www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/salford-graduate-publishes-first-book-on-the-psychological-impact-of-warfare
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/fashion-design-graduate-becomes-favourite-with-football-clubs
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/undergraduate-courses
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/our-undergraduate-courses
+    6  www.salford.ac.uk/postgraduate-taught
+         https://www.salford.ac.uk/postgraduate-taught/how-to-apply
+         https://www.salford.ac.uk/postgraduate-taught/fees-and-funding
+         https://www.salford.ac.uk/postgraduate-taught/distance-learning
+         https://www.salford.ac.uk/postgraduate-taught/take-a-different-path
+    6  www.salford.ac.uk/undergraduate/your-offer-explained
+         https://www.salford.ac.uk/undergraduate/your-offer-explained/how-we-assess-undergraduate-applications
+         https://www.salford.ac.uk/undergraduate/your-offer-explained/conditional-and-unconditional-offers
+         https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers
+         https://www.salford.ac.uk/undergraduate/your-offer-explained/alternate-course-offers
+    5  www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2022
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2023
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2024
+         https://www.salford.ac.uk/salford-school-of-arts-media-and-creative-technology/awards-and-celebrations/ma-screen-acting-showcase-2025
+    4  www.salford.ac.uk/sustainability/education-for-sustainable-development
+         https://www.salford.ac.uk/sustainability/education-for-sustainable-development/ma-fashion-business-and-marketing
+         https://www.salford.ac.uk/sustainability/education-for-sustainable-development/msc-sustainable-air-transport
+         https://www.salford.ac.uk/sustainability/education-for-sustainable-development/ma-production-management-for-tv-film-and-digital-media
+         https://www.salford.ac.uk/sustainability/education-for-sustainable-development/msc-entrepreneurship-and-innovation
+    4  www.salford.ac.uk/undergraduate/open-days
+         https://www.salford.ac.uk/undergraduate/open-days/book-thank-you
+         https://www.salford.ac.uk/undergraduate/open-days/planning-your-open-day-12-december-2026
+         https://www.salford.ac.uk/undergraduate/open-days/planning-your-open-day-7-november-2026
+         https://www.salford.ac.uk/undergraduate/open-days/your-open-day-information-hub
+    4  www.salford.ac.uk/careers/career-planning/employability-journey
+         https://www.salford.ac.uk/careers/career-planning/employability-journey/undergraduate-year-one
+         https://www.salford.ac.uk/careers/career-planning/employability-journey/undergraduate-mid-programme
+         https://www.salford.ac.uk/careers/career-planning/employability-journey/undergraduate-final-year
+         https://www.salford.ac.uk/careers/career-planning/employability-journey/postgraduates
+    4  www.salford.ac.uk/postgraduate/pathway-to-postgrad
+         https://www.salford.ac.uk/postgraduate/pathway-to-postgrad/postgraduate-study-webinars
+         https://www.salford.ac.uk/postgraduate/pathway-to-postgrad/postgraduate-research-events
+         https://www.salford.ac.uk/postgraduate/pathway-to-postgrad/chat-with-a-postgraduate-officer
+         https://www.salford.ac.uk/postgraduate/pathway-to-postgrad/meet-the-tutors-choose-your-subject-area

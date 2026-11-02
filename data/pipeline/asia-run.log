@@ -1,0 +1,526 @@
+Discovering 19 of 235 universities…
+national-university-of-singapore         91 candidates · 0 sitemaps/listings · 91 urls · explicit list
+city-university-of-hong-kong             69 candidates · 0 sitemaps/listings · 69 urls · explicit list
+macao-polytechnic-university             13 candidates · 0 sitemaps/listings · 13 urls · explicit list
+hong-kong-baptist-university             49 candidates · 0 sitemaps/listings · 49 urls · explicit list
+university-of-macau                      47 candidates · 0 sitemaps/listings · 47 urls · explicit list
+education-university-of-hong-kong        42 candidates · 0 sitemaps/listings · 42 urls · explicit list
+hang-seng-university-of-hong-kong        29 candidates · 0 sitemaps/listings · 29 urls · explicit list
+lingnan-university-hong-kong             83 candidates · 0 sitemaps/listings · 83 urls · explicit list
+hong-kong-shue-yan-university            10 candidates · 0 sitemaps/listings · 10 urls · explicit list
+macau-university-of-science-and-technology   38 candidates · 0 sitemaps/listings · 38 urls · explicit list
+macao-university-of-tourism               7 candidates · 0 sitemaps/listings · 7 urls · explicit list
+hong-kong-metropolitan-university        30 candidates · 0 sitemaps/listings · 30 urls · explicit list
+kaplan-higher-education-academy          25 candidates · 0 sitemaps/listings · 25 urls · explicit list
+university-of-hong-kong                  93 candidates · 0 sitemaps/listings · 93 urls · explicit list
+chinese-university-of-hong-kong         150 candidates · 0 sitemaps/listings · 150 urls · explicit list
+hong-kong-university-of-science-and-technology   43 candidates · 0 sitemaps/listings · 43 urls · explicit list
+hong-kong-polytechnic-university        128 candidates · 0 sitemaps/listings · 128 urls · explicit list
+singapore-management-university          14 candidates · 1 sitemaps/listings · 185 urls
+nanyang-technological-university-singapore  113 candidates · 2 sitemaps/listings · 6354 urls · listing https://www.ntu.edu.sg/admissions/graduate/programme-listing?listingKeyword=&disciplines=all&programmelevels=all&programmetypes=all&page=1: 16 pages (end of list); listing https://www.ntu.edu.sg/business/admissions/graduate-studies: 1 pages (end of list)
+Candidates: 16424
+nanyang-technological-university-singapore 113 programmes · 113 pages · ok 113 · failed 0
+singapore-management-university        14 programmes · 14 pages · ok 14 · failed 0
+macao-polytechnic-university           13 programmes · 13 pages · ok 13 · failed 0
+hong-kong-shue-yan-university          10 programmes · 10 pages · ok 10 · failed 0
+education-university-of-hong-kong      30 programmes · 30 pages · ok 29 · failed 1
+lingnan-university-hong-kong           24 programmes · 46 pages · ok 46 · failed 0
+hong-kong-baptist-university           49 programmes · 49 pages · ok 49 · failed 0
+macao-university-of-tourism            7 programmes · 7 pages · ok 7 · failed 0
+macau-university-of-science-and-technology 38 programmes · 38 pages · ok 38 · failed 0
+chinese-university-of-hong-kong        150 programmes · 150 pages · ok 150 · failed 0
+hong-kong-university-of-science-and-technology 43 programmes · 43 pages · ok 43 · failed 0
+hong-kong-polytechnic-university       128 programmes · 128 pages · ok 128 · failed 0
+city-university-of-hong-kong           69 programmes · 69 pages · ok 69 · failed 0
+kaplan-higher-education-academy        25 programmes · 25 pages · ok 25 · failed 0
+university-of-macau                    47 programmes · 47 pages · ok 46 · failed 1
+hang-seng-university-of-hong-kong      29 programmes · 29 pages · ok 29 · failed 0
+hong-kong-metropolitan-university      30 programmes · 30 pages · ok 29 · failed 1
+university-of-hong-kong                93 programmes · 93 pages · ok 86 · failed 7
+national-university-of-singapore       84 programmes · 87 pages · ok 81 · failed 6
+Fetched 461, reused 544, failed 16
+Programme groups: 13274 · with a programme name: 12108 · taught master's in Kaplan's disciplines: 6797
+Claude fills missing fields for 481 programmes (claude-haiku-5-5)…
+national-uni Master of Science (Semiconductor Technology and  +0 kept, 0 dropped
+national-uni Master of Public Health                          +1 kept, 0 dropped
+national-uni MSc in Health Economics and Outcomes Research    +1 kept, 0 dropped
+national-uni Master of Economics                              +0 kept, 0 dropped
+national-uni MSc AI for Science                               +0 kept, 0 dropped
+national-uni Master of Science (MSc) in Robotics              +3 kept, 0 dropped
+national-uni Master of Communication                          +3 kept, 0 dropped
+national-uni Master of Psychology (Clinical)                  +3 kept, 1 dropped
+national-uni MSc (Project Management)                         +2 kept, 1 dropped
+national-uni Master in Public Policy - MPP                    +0 kept, 0 dropped
+national-uni Executive Master in AI and Digital Transformatio +2 kept, 1 dropped
+national-uni MSc (Artificial Intelligence & Innovation)       +2 kept, 1 dropped
+national-uni Master in Public Administration MPA              +0 kept, 0 dropped
+national-uni Master of Science (Critical Care Nursing)        +1 kept, 0 dropped
+national-uni Master of Clinical Mental Health and Psychothera +2 kept, 0 dropped
+nanyang-tech Nanyang MBA                                      +0 kept, 0 dropped
+nanyang-tech Master of Teaching                               +3 kept, 0 dropped
+nanyang-tech Master of Science in Applied Economics           +3 kept, 0 dropped
+nanyang-tech Master of Education (Art)                        +3 kept, 0 dropped
+nanyang-tech Master of Education (Drama)                      +3 kept, 0 dropped
+nanyang-tech Master in Management                             +3 kept, 1 dropped
+nanyang-tech MSc Accountancy                                  +2 kept, 0 dropped
+nanyang-tech Master of Arts in Linguistics                    +5 kept, 0 dropped
+nanyang-tech Master of Education (English)                    +3 kept, 0 dropped
+nanyang-tech Master of Education (Science)                    +3 kept, 0 dropped
+nanyang-tech Master of Science in Analytics                   +1 kept, 0 dropped
+nanyang-tech Master of Science in Finance                     +3 kept, 1 dropped
+nanyang-tech Master of Communication Studies (Research)       +1 kept, 1 dropped
+nanyang-tech Master of Science in Psychology                  +2 kept, 0 dropped
+nanyang-tech Master of Education (Mathematics)                +3 kept, 0 dropped
+nanyang-tech Master of Science in Accountancy                 +2 kept, 1 dropped
+nanyang-tech MSc Marketing Science                            +2 kept, 0 dropped
+nanyang-tech MSc Business Analytics                           +1 kept, 0 dropped
+nanyang-tech Master of Arts (Applied Psychology)              +2 kept, 0 dropped
+nanyang-tech Master of Media and Communication                +3 kept, 2 dropped
+nanyang-tech Master of Arts (Applied Linguistics)             +2 kept, 0 dropped
+nanyang-tech Master of Education (Malay Language)             +4 kept, 0 dropped
+nanyang-tech Master of Education (Early Childhood)            +2 kept, 1 dropped
+nanyang-tech Master of Arts (Humanities Education)            +3 kept, 0 dropped
+nanyang-tech Master of Education (Tamil Language)             +4 kept, 0 dropped
+nanyang-tech Master of Education (Chinese Language)           +3 kept, 0 dropped
+nanyang-tech Master of Arts (Educational Leadership)          +3 kept, 0 dropped
+nanyang-tech Master of Arts in AI Ethics and Society          +2 kept, 0 dropped
+nanyang-tech Master of Science in Signal Processing & Machine +3 kept, 1 dropped
+nanyang-tech Master of Science in Marketing Science           +1 kept, 1 dropped
+nanyang-tech Master of Education (Special Education)          +3 kept, 0 dropped
+nanyang-tech Master of Computing In Applied AI (MCAAI)        +1 kept, 1 dropped
+nanyang-tech Master of Science in Business Analytics          +4 kept, 1 dropped
+nanyang-tech Master of Science in Project Management          +2 kept, 1 dropped
+nanyang-tech Master of Science in Information Systems (MSIS)  +2 kept, 3 dropped
+nanyang-tech Master of Arts (Counselling and Guidance)        +3 kept, 0 dropped
+nanyang-tech Master of Public Administration (English)        +3 kept, 0 dropped
+nanyang-tech Master of Science in Knowledge Management (KM)   +3 kept, 2 dropped
+nanyang-tech Master of Science in Financial Technology        +1 kept, 0 dropped
+nanyang-tech Master of Education (High Ability Studies)       +3 kept, 0 dropped
+nanyang-tech Master of Arts (Research) | Arts and Education   +2 kept, 0 dropped
+nanyang-tech Master of Education (Educational Assessment)     +3 kept, 0 dropped
+nanyang-tech Master of Science in Data Science (MSDS)         +1 kept, 2 dropped
+nanyang-tech Master of Science in Asset & Wealth Management   +4 kept, 0 dropped
+nanyang-tech Master of Education (Developmental Psychology)   +3 kept, 0 dropped
+nanyang-tech Master of Education (Learning Sciences and Artif +3 kept, 0 dropped
+nanyang-tech Master of Science in Artificial Intelligence (MS +2 kept, 1 dropped
+nanyang-tech Master of Science (Exercise and Sport Studies)   +3 kept, 0 dropped
+nanyang-tech Master of Arts in Translation and Interpretation +3 kept, 0 dropped
+nanyang-tech Master of Science in Applied Materials Analytics +2 kept, 0 dropped
+nanyang-tech Master of Science in ​Computer Control & Automat +4 kept, 1 dropped
+nanyang-tech Master of Science in Managerial Economics (Engli +3 kept, 1 dropped
+nanyang-tech Master of Science in Actuarial and Risk Analytic +3 kept, 1 dropped
+nanyang-tech Master of Science (Robotics and Intelligent Syst +2 kept, 1 dropped
+nanyang-tech Master of Social Sciences in China and Global Go +4 kept, 0 dropped
+nanyang-tech Master of Arts in Global Cultural and Creative L +2 kept, 0 dropped
+nanyang-tech Master of Science in Enterprise Artificial Intel +2 kept, 1 dropped
+nanyang-tech Master of Science Technopreneurship and Innovati +1 kept, 0 dropped
+nanyang-tech Master of Arts (Teaching Chinese as an Internati +3 kept, 0 dropped
+nanyang-tech Master of Science in International Construction  +3 kept, 1 dropped
+nanyang-tech Master of Science in Cybersecurity (Applied Cybe +1 kept, 2 dropped
+nanyang-tech Master of Science in BioBusiness and BioEntrepre +3 kept, 0 dropped
+nanyang-tech Master of Science Technopreneurship and Innovati +2 kept, 0 dropped
+nanyang-tech Master of Arts in Professional Education (Traini +3 kept, 0 dropped
+nanyang-tech Master of Science in Cybersecurity (Applied Cryp +2 kept, 0 dropped
+singapore-ma MSc in Business AI (MBAI)                        +3 kept, 0 dropped
+singapore-ma Master of Science in Economics (MSE)             +4 kept, 0 dropped
+singapore-ma Master of Laws (LLM)                             +1 kept, 1 dropped
+singapore-ma Master of Science in Accounting (MSA)            +4 kept, 0 dropped
+singapore-ma MSc in Applied Finance (MAF)                     +4 kept, 0 dropped
+singapore-ma MSc in Wealth Management (MWM)                   +2 kept, 1 dropped
+singapore-ma MSc in Quantitative Finance (MQF)                +4 kept, 0 dropped
+singapore-ma Master of Science in Financial Economics (MSFE)  +3 kept, 0 dropped
+singapore-ma Master of IT in Business (MITB)                  +3 kept, 1 dropped
+singapore-ma Master of Business Administration (MBA)          +4 kept, 0 dropped
+singapore-ma Master Of Professional Accounting (MPA)          +4 kept, 0 dropped
+singapore-ma Master of Science in Entrepreneurship and Innova +3 kept, 0 dropped
+city-univers Master of Laws in Arbitration and Dispute Resolu +2 kept, 0 dropped
+singapore-ma Master of Data Science in Economics (MDSE)       +2 kept, 1 dropped
+city-univers Master of Laws                                   +3 kept, 0 dropped
+city-univers Master of Business Administration                +2 kept, 0 dropped
+city-univers MSc Business and Data Analytics                  +3 kept, 0 dropped
+city-univers MSc in FinTech and Digital Assets                +1 kept, 0 dropped
+city-univers MA Global Business Management                    +3 kept, 0 dropped
+city-univers MSc Marketing                                    +3 kept, 0 dropped
+city-univers MSc Financial Mathematics and Statistics         +2 kept, 0 dropped
+city-univers MSc Management and Innovation                    +4 kept, 0 dropped
+city-univers MA International Accounting                      +2 kept, 0 dropped
+city-univers MSc Professional Accounting and Corporate Govern +2 kept, 0 dropped
+city-univers MSc Data Science                                 +2 kept, 0 dropped
+city-univers MSc Accounting and Finance with AI and Fintech A +2 kept, 1 dropped
+city-univers MSc Artificial Intelligence for Sciences         +2 kept, 0 dropped
+city-univers MSc Biostatistics                                +1 kept, 1 dropped
+city-univers MSc Computer Science                             +1 kept, 0 dropped
+city-univers MA Creative Media                                +3 kept, 0 dropped
+city-univers MSc Artificial Intelligence                      +0 kept, 0 dropped
+city-univers MSc Cybersecurity                                +1 kept, 0 dropped
+city-univers MSc Business Information Systems (Management of  +0 kept, 0 dropped
+city-univers MSc Artificial Intelligence in Business          +3 kept, 0 dropped
+city-univers MSc Digital Transformation and Technological Inn +3 kept, 0 dropped
+city-univers MSc Business Information Systems (Financial and  +3 kept, 0 dropped
+city-univers MSc Finance                                      +3 kept, 0 dropped
+city-univers MSc AI-Driven Innovation                         +3 kept, 0 dropped
+city-univers MSc Applied Economics                            +3 kept, 0 dropped
+city-univers MA English Studies                               +1 kept, 0 dropped
+city-univers MSc Operations and Supply Chain Management       +3 kept, 0 dropped
+city-univers MA Communication and New Media                   +4 kept, 0 dropped
+city-univers MSc in Intelligent Construction and Project Mana +3 kept, 0 dropped
+city-univers MA Integrated Marketing Communication            +3 kept, 0 dropped
+city-univers MSocSc Cross Sectoral Leadership (Taught in Chin +2 kept, 0 dropped
+city-univers MA Language Studies                              +4 kept, 0 dropped
+city-univers MSocSc Counselling                               +4 kept, 0 dropped
+city-univers Master of Social Work                            +4 kept, 0 dropped
+city-univers MSocSc Psychology                                +3 kept, 0 dropped
+city-univers Master of Public Health                          +1 kept, 0 dropped
+city-univers MA Public Policy and Management                  +4 kept, 0 dropped
+hong-kong-ba Master of Education (MEd)                        +4 kept, 1 dropped
+hong-kong-ba Master of Social Work (MSW)                      +5 kept, 1 dropped
+hong-kong-ba Master of Arts (MA) in Communication             +4 kept, 1 dropped
+hong-kong-ba Master of Accountancy (MAcc)                     +4 kept, 1 dropped
+hong-kong-ba Master of Public Administration (MPA)            +4 kept, 1 dropped
+hong-kong-ba Master of Arts (MA) in Language Studies          +3 kept, 1 dropped
+hong-kong-ba Master of Business Administration (MBA)          +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in AI for Business       +4 kept, 1 dropped
+hong-kong-ba Master of Human Resources Management (MHRM)      +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Business Management   +3 kept, 1 dropped
+hong-kong-ba Master of Science in Family Office Management    +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Applied Economics     +2 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in AI and Digital Media  +4 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Mathematical Finance  +4 kept, 1 dropped
+hong-kong-ba Master of Social Sciences (MSocSc) in Psychology +3 kept, 1 dropped
+hong-kong-ba Master of Arts (MA) in Ethics and Public Affairs +4 kept, 1 dropped
+hong-kong-ba Master of Social Sciences (MSocSc) in Counsellin +5 kept, 1 dropped
+hong-kong-ba Master of Social Sciences (MSocSc) in Social Wor +5 kept, 1 dropped
+hong-kong-ba Master of Arts (MA) in International Journalism  +4 kept, 1 dropped
+hong-kong-ba Master of Social Sciences (MSocSc) in Media Mana +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Marketing for the Cre +4 kept, 0 dropped
+hong-kong-ba Master of Science (MSc) in Applied Accounting an +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Information Technolog +3 kept, 1 dropped
+hong-kong-ba Master of Arts (MA) in Translation and Bilingual +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Data Analytics and Bu +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Corporate Governance  +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Entrepreneurship and  +3 kept, 1 dropped
+hong-kong-ba Master of Arts (MA) in Producing for Film, Telev +4 kept, 1 dropped
+hong-kong-ba Master of Social Sciences (MSocSc) in Sport and  +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Data Analytics and Ar +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Environmental and Pub +3 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Operational Research  +4 kept, 1 dropped
+hong-kong-ba Master of Science (MSc) in Finance (FinTech and  +3 kept, 1 dropped
+university-o Master of Science in Finance                     +1 kept, 0 dropped
+hong-kong-ba Master of Science (MSc) in Personal Health Manag +3 kept, 1 dropped
+university-o Master of Science in Robotics and Autonomous Sys +0 kept, 0 dropped
+university-o Master of Science in Business Analytics          +2 kept, 1 dropped
+university-o Master of Science in Data Science                +1 kept, 0 dropped
+university-o Master of Science in Computer Science            +0 kept, 0 dropped
+university-o Master of Science in Financial Technology        +0 kept, 0 dropped
+university-o Master of Arts in English Studies                +1 kept, 0 dropped
+university-o Master of Science in Construction Project Manage +0 kept, 1 dropped
+university-o Master of Law in Law and Technology              +0 kept, 0 dropped
+university-o Master of Arts in Translation Studies            +1 kept, 0 dropped
+university-o Master of Science in Artificial Intelligence     +0 kept, 0 dropped
+university-o MSc in Smart Power Grid Talent in Grid + AI      +0 kept, 0 dropped
+university-o MSc in Data Science with Specialization in Smart +0 kept, 0 dropped
+university-o MSc in Data Science with Specialization in Finan +0 kept, 0 dropped
+university-o MSc in Data Science with Specialization in Marke +0 kept, 0 dropped
+university-o MSc in Data Science with Specialization in Compu +0 kept, 0 dropped
+university-o Master of Law in Macau Law and Practice          +0 kept, 0 dropped
+university-o MSc in Data Science with Specialization in Analy +0 kept, 0 dropped
+university-o MSc in Data Science with Specialization in Data  +0 kept, 0 dropped
+university-o Master of Law (Chinese Language)                 +0 kept, 0 dropped
+university-o Master of Arts in Teaching English to Speakers o +2 kept, 0 dropped
+university-o Master of Law (Portuguese Language)              +0 kept, 0 dropped
+university-o Master of Science in Artificial Intelligence and +3 kept, 0 dropped
+university-o Master of Law in International Business Law (Eng +1 kept, 0 dropped
+university-o Master of Law in European Union Law, Internation +0 kept, 0 dropped
+education-un Master of Arts in Education for Sustainability / +2 kept, 1 dropped
+education-un Master of Arts in Education for Sustainability / +2 kept, 1 dropped
+education-un Master of Arts in STEM Education / Medium of Ins +2 kept, 1 dropped
+education-un Master of Laws in National Security Law [LLM(NSL +1 kept, 1 dropped
+education-un Master of Global Management (Offering in 2027/28 +3 kept, 0 dropped
+education-un Master of Management (Offering in 2027/28)       +1 kept, 1 dropped
+education-un Master of Arts in E-Sports Management            +1 kept, 1 dropped
+education-un Master of Occupational Therapy [MOT]             +1 kept, 1 dropped
+education-un Master of Arts in Global Histories of Education  +2 kept, 0 dropped
+education-un Master of Arts in New Media and Social Media     +1 kept, 1 dropped
+education-un Master of Arts in Chinese Studies (Language Educ +1 kept, 0 dropped
+education-un Master of Arts in Mindfulness and Life Education +1 kept, 1 dropped
+education-un Master of Arts in Science and Robotics Education +2 kept, 1 dropped
+education-un Master of Arts in Digital Marketing and E-Commer +2 kept, 1 dropped
+education-un Master of Arts in Chinese Values-Based Leadershi +2 kept, 1 dropped
+education-un Master of Arts in Teaching English to Speakers o +1 kept, 0 dropped
+education-un Master of Arts in Comparative Education and Coll +3 kept, 0 dropped
+education-un Master of Arts in Digital Human Resource Managem +2 kept, 0 dropped
+education-un Master of Arts in Teaching Chinese as an Interna +1 kept, 0 dropped
+hang-seng-un Master of Science in Digital Innovation and Tech +0 kept, 0 dropped
+education-un Master of Arts in Belt and Road Business Communi +2 kept, 1 dropped
+hang-seng-un Master of Science in Global Supply Chain Managem +0 kept, 0 dropped
+hang-seng-un HSUHK - MA in English Language Teaching and Asse +0 kept, 0 dropped
+education-un Master of Arts in Tourism and Hospitality Manage +2 kept, 1 dropped
+hang-seng-un Master of Business Management                    +3 kept, 0 dropped
+hang-seng-un Master of Business Administration (in Chinese)   +2 kept, 0 dropped
+hang-seng-un Master of Arts in Art Business (MA-AB)           +1 kept, 1 dropped
+hang-seng-un Master of Science in Entrepreneurial Management  +2 kept, 0 dropped
+hang-seng-un Master of Arts in Entertainment Media Management +2 kept, 1 dropped
+hang-seng-un Master of Arts in Strategic Communication        +2 kept, 1 dropped
+hang-seng-un Master of Science in Global Strategic Management +3 kept, 0 dropped
+hang-seng-un Master of Science in Global Finance and FinTech  +3 kept, 0 dropped
+lingnan-univ Master of Cities and Governance (MCG)            +0 kept, 0 dropped
+lingnan-univ SGS HAM - Master of Science in Health Analytics  +0 kept, 0 dropped
+hang-seng-un Master of Science in International Corporate Gov +3 kept, 0 dropped
+lingnan-univ Master of Social Sciences in Comparative Public  +0 kept, 0 dropped
+lingnan-univ SGS MHSM - Master of Social Sciences in Health a +0 kept, 0 dropped
+lingnan-univ MA in Social Entrepreneurship and Innovation Man +0 kept, 0 dropped
+lingnan-univ Master of Arts in Translation Studies (TPg)      +2 kept, 1 dropped
+lingnan-univ SGS IHEM - Master of Arts in International Highe +0 kept, 0 dropped
+lingnan-univ Master of Accountancy                            +5 kept, 1 dropped
+lingnan-univ Master of Arts in Language, Communication, and T +2 kept, 1 dropped
+lingnan-univ MSc in Business Innovation and Entrepreneurship  +2 kept, 0 dropped
+lingnan-univ MSc in Arts Technology and Business              +0 kept, 5 dropped
+lingnan-univ MSc in Finance                                   +5 kept, 1 dropped
+lingnan-univ MSc in Marketing and International Business      +4 kept, 1 dropped
+lingnan-univ MSc in Risk, Insurance and Actuarial Analytics   +4 kept, 1 dropped
+lingnan-univ MSc in Human Resource & Organisational Managemen +4 kept, 1 dropped
+hong-kong-sh Master of Social Sciences in Psychology          +2 kept, 0 dropped
+hong-kong-sh Master of Social Work                            +2 kept, 0 dropped
+lingnan-univ MSc in eBusiness and Supply Chain Management     +4 kept, 1 dropped
+hong-kong-sh Master of Social Sciences in Counselling Psychol +0 kept, 0 dropped
+hong-kong-sh Master of Social Sciences in Play Therapy        +4 kept, 0 dropped
+hong-kong-sh Master of Science in Financial Technology Manage +2 kept, 1 dropped
+hong-kong-sh Master of Science in Marketing and Consumer Psyc +0 kept, 0 dropped
+hong-kong-sh Master of Social Sciences in Smart Cultural Tour +5 kept, 0 dropped
+hong-kong-sh Master of Science in Game Development and Manage +2 kept, 0 dropped
+hong-kong-sh Master of Arts in Chinese Language, Literature a +0 kept, 0 dropped
+macau-univer Master of Space Big Data Analytics Study Plan    +2 kept, 1 dropped
+macau-univer Master of Hotel Management Study Plan            +1 kept, 1 dropped
+hong-kong-sh Master of Social Sciences in Adversity and Traum +3 kept, 0 dropped
+macau-univer Master of Laws Study Plan                        +1 kept, 0 dropped
+macau-univer Master of Financial Crime and Regulation         +1 kept, 0 dropped
+macau-univer Master of Laws in Criminal Justice Study Plan    +1 kept, 0 dropped
+hong-kong-me Master of Business Administration                +3 kept, 1 dropped
+macau-univer Master of International Economic and Commercial  +1 kept, 1 dropped
+hong-kong-me Master of Corporate Governance and Compliance    +4 kept, 0 dropped
+hong-kong-me Master of Accountancy                            +2 kept, 0 dropped
+hong-kong-me Master of Professional Management in Wealth Mana +2 kept, 0 dropped
+hong-kong-me Master of Professional Management in Global Spor +0 kept, 0 dropped
+hong-kong-me Master of Arts in Bilingual Professional Transla +0 kept, 0 dropped
+hong-kong-me Master of Arts in Applied English Linguistics    +0 kept, 0 dropped
+hong-kong-me Master of Professional Management in Global Busi +3 kept, 0 dropped
+hong-kong-me Master of Language Studies in Chinese            +1 kept, 0 dropped
+hong-kong-me Master of Education in Teaching Chinese as an In +1 kept, 0 dropped
+hong-kong-me Master of Education in English Language Educatio +2 kept, 1 dropped
+hong-kong-me Master of Science in Communication Sciences and  +2 kept, 1 dropped
+hong-kong-me Master of Education in Educational Technology an +2 kept, 1 dropped
+hong-kong-me Master of Nursing with specialisation in Palliat +2 kept, 0 dropped
+hong-kong-me MSc in Cosmetic Technology and Management (MSCCT +2 kept, 0 dropped
+hong-kong-me MASc / MSc in Intelligent Construction and Build +3 kept, 0 dropped
+hong-kong-me Master of Computing                              +2 kept, 2 dropped
+kaplan-highe Master of Science (Management)                   +4 kept, 0 dropped
+kaplan-highe Master of Counselling                            +1 kept, 1 dropped
+kaplan-highe Master of Counselling                            +1 kept, 1 dropped
+kaplan-highe Master of Public Health                          +2 kept, 1 dropped
+kaplan-highe Master of Science in Psychology                  +2 kept, 1 dropped
+kaplan-highe Master of Science (Global Finance)               +3 kept, 0 dropped
+kaplan-highe Master of Professional Accounting                +2 kept, 1 dropped
+kaplan-highe Master of Business Administration                +2 kept, 0 dropped
+kaplan-highe Master of Science Data Analytics                 +3 kept, 0 dropped
+kaplan-highe Master of Education International Education      +1 kept, 1 dropped
+kaplan-highe Master of Business Administration                +2 kept, 1 dropped
+kaplan-highe Master of Laws in International Business Law     +3 kept, 0 dropped
+kaplan-highe Master of Education Digital Learning             +1 kept, 1 dropped
+kaplan-highe Master of Science Digital Marketing and Strategy +3 kept, 1 dropped
+kaplan-highe Master of Science Strategic Financial Management +3 kept, 1 dropped
+kaplan-highe Master of Science Strategic Supply Chain Managem +3 kept, 2 dropped
+kaplan-highe Master of Education Inclusive and Special Needs  +1 kept, 2 dropped
+kaplan-highe Master of Science Strategic Business Analytics   +3 kept, 1 dropped
+kaplan-highe Master of Science AI and Machine Learning        +3 kept, 0 dropped
+kaplan-highe Master of Science in Information Technology (Inf +3 kept, 0 dropped
+kaplan-highe Master of Science in IT (AI and Data Science)    +3 kept, 0 dropped
+kaplan-highe Master of Science in Healthcare Leadership and M +2 kept, 1 dropped
+university-o Master of Nursing                                +2 kept, 1 dropped
+university-o Master of Finance                                +1 kept, 0 dropped
+kaplan-highe Master of Science Cyber Security and Forensic In +1 kept, 2 dropped
+university-o Master of Common Law                             +2 kept, 1 dropped
+university-o Master of Education                              +2 kept, 2 dropped
+university-o Master of Economics                              +2 kept, 0 dropped
+university-o Master of Accounting                             +2 kept, 0 dropped
+university-o Master of Data Science                           +2 kept, 1 dropped
+university-o Master of Statistics                             +2 kept, 1 dropped
+university-o Master of Laws in Chinese Law                    +3 kept, 1 dropped
+university-o Master of Laws in Human Rights                   +2 kept, 1 dropped
+university-o Master of Journalism                             +4 kept, 1 dropped
+university-o Master of Governance and Policy                  +2 kept, 1 dropped
+university-o Master of Accounting Analytics                   +2 kept, 0 dropped
+university-o Master of Family Wealth Management               +4 kept, 0 dropped
+university-o Master of Arts in Applied Linguistics            +3 kept, 0 dropped
+university-o Master of Business Administration                +2 kept, 1 dropped
+university-o Master of Expressive Arts Therapy                +4 kept, 1 dropped
+university-o Master of Journalism - Documentary Filmmaking Sp +3 kept, 1 dropped
+university-o Master of Science in Innovation and Technology   +2 kept, 1 dropped
+university-o Master of Laws in Compliance and Regulation      +2 kept, 1 dropped
+university-o Master of International and Public Affairs       +2 kept, 1 dropped
+university-o Master of Science in Artificial Intelligence     +2 kept, 1 dropped
+university-o Master of Artificial Intelligence in Business    +1 kept, 0 dropped
+university-o Master of Laws in Corporate and Financial Law    +2 kept, 1 dropped
+university-o Master of Arts in the field of English Studies   +3 kept, 0 dropped
+university-o Master of Business Administration (International +2 kept, 0 dropped
+university-o Master of Laws (General or with Specialisation)  +2 kept, 1 dropped
+university-o Master of Laws in Arbitration and Dispute Resolu +2 kept, 1 dropped
+university-o Master of Arts in the field of AI, Ethics and So +3 kept, 0 dropped
+university-o Master of Psychological Medicine (Psychosis Stud +2 kept, 1 dropped
+university-o Master of Arts in the field of Creative Communic +3 kept, 0 dropped
+university-o Master of Science in Digital Management of Built +2 kept, 1 dropped
+university-o Master of Laws in Technology and Intellectual Pr +2 kept, 1 dropped
+university-o Master of Science in Financial Technology and Da +2 kept, 1 dropped
+university-o Master of Science in Construction Project Manage +2 kept, 1 dropped
+university-o Master of Science in Electronic Commerce and Int +2 kept, 1 dropped
+university-o Master of Arts in Teaching English to Speakers o +4 kept, 1 dropped
+university-o Master of Arts in Creative Artificial Intelligen +3 kept, 1 dropped
+university-o Master of Science in Computer Science (AI & Dece +2 kept, 1 dropped
+university-o Master of Science in Computer Science (General,  +2 kept, 1 dropped
+chinese-univ MA in Linguistics                                +1 kept, 1 dropped
+chinese-univ MA in Translation                                +2 kept, 1 dropped
+chinese-univ Master of Laws in AI Law                         +3 kept, 1 dropped
+chinese-univ MSc in Robotics                                  +1 kept, 1 dropped
+chinese-univ Master of Nursing                                +1 kept, 1 dropped
+chinese-univ Master of Education                              +3 kept, 1 dropped
+chinese-univ Master of Laws in Common Law                     +3 kept, 1 dropped
+chinese-univ MBA                                              +3 kept, 1 dropped
+chinese-univ MA in Cultural Management                        +1 kept, 1 dropped
+chinese-univ MA in Journalism                                 +1 kept, 1 dropped
+chinese-univ MA in Psychology                                 +1 kept, 1 dropped
+chinese-univ MSc in Economics                                 +2 kept, 1 dropped
+chinese-univ MSc in New Media                                 +1 kept, 1 dropped
+chinese-univ Master of Laws in Legal History                  +4 kept, 1 dropped
+chinese-univ MSc in Computer Science                          +1 kept, 0 dropped
+chinese-univ Master of Public Health                          +2 kept, 1 dropped
+chinese-univ MA in Social Policy                              +1 kept, 1 dropped
+chinese-univ Master of Social Work                            +2 kept, 1 dropped
+chinese-univ MBA in Finance                                   +2 kept, 1 dropped
+chinese-univ MSc in Finance                                   +2 kept, 1 dropped
+chinese-univ MSc in Mathematics Education                     +1 kept, 1 dropped
+chinese-univ MSc in Financial Technology                      +2 kept, 1 dropped
+chinese-univ Executive MBA                                    +2 kept, 1 dropped
+chinese-univ Master of Laws in Chinese Business Law           +1 kept, 1 dropped
+chinese-univ MSc in Marketing                                 +3 kept, 1 dropped
+chinese-univ MSc in Management                                +2 kept, 1 dropped
+chinese-univ MA in Global Communication                       +1 kept, 1 dropped
+chinese-univ MA in English Language Teaching                  +1 kept, 1 dropped
+chinese-univ MA in Early Childhood Education                  +2 kept, 1 dropped
+chinese-univ MSc in Real Estate                               +2 kept, 1 dropped
+chinese-univ MSc in Artificial Intelligence                   +1 kept, 1 dropped
+chinese-univ MA in Chinese Language Education                 +1 kept, 1 dropped
+chinese-univ MSc in Health Services Management                +2 kept, 1 dropped
+chinese-univ MSc in Obstetric and Midwifery Care              +0 kept, 2 dropped
+chinese-univ MA in English (Applied English Linguistics)      +1 kept, 1 dropped
+chinese-univ Master of Laws in International Economic Law     +1 kept, 1 dropped
+chinese-univ Master of Accountancy                            +2 kept, 1 dropped
+chinese-univ MSc in Epidemiology and Biostatistics            +2 kept, 1 dropped
+chinese-univ MA in School Guidance and Counselling            +1 kept, 1 dropped
+chinese-univ MSc in Artificial Intelligence for Science       +1 kept, 1 dropped
+chinese-univ MA in Social Service Management                  +2 kept, 1 dropped
+chinese-univ Master of Laws in Energy and Environmental Law   +1 kept, 1 dropped
+chinese-univ Executive MBA (Chinese)                          +2 kept, 1 dropped
+chinese-univ MSc in Business Analytics                        +2 kept, 1 dropped
+chinese-univ MA in School Improvement and Leadership          +1 kept, 1 dropped
+chinese-univ MA in Professional Educational Psychology        +1 kept, 1 dropped
+chinese-univ Master of Nursing Science (Pre-registration)     +1 kept, 1 dropped
+chinese-univ MSc in Sports Science and Physical Activity      +1 kept, 1 dropped
+chinese-univ MSc in Data Science and Business Statistics      +3 kept, 1 dropped
+chinese-univ MA in Chinese Linguistics and Language Acquisiti +1 kept, 1 dropped
+chinese-univ MSc in E-Commerce and Logistics Technologies     +0 kept, 2 dropped
+chinese-univ MSc in Family Business Management                +2 kept, 1 dropped
+chinese-univ MSc in Sports Business Management                +2 kept, 1 dropped
+chinese-univ MA in Teaching English to Speakers of Other Lang +4 kept, 1 dropped
+chinese-univ MSc in Risk Management Science and Data Analytic +1 kept, 1 dropped
+chinese-univ MSc in Advanced Studies in Statistics and Data S +1 kept, 1 dropped
+chinese-univ MSc in Sustainable Global Business               +2 kept, 1 dropped
+chinese-univ MSc in Leadership for Experience Economy         +2 kept, 2 dropped
+chinese-univ Master of Science in Global Wealth Management    +2 kept, 1 dropped
+chinese-univ MSc in Artificial Intelligence and Communication +2 kept, 1 dropped
+chinese-univ MA in Family Counselling and Family Education    +2 kept, 1 dropped
+chinese-univ MSc in Actuarial Science and Insurance Analytics +3 kept, 1 dropped
+chinese-univ Master of Science in Digital Economy and Artific +2 kept, 1 dropped
+chinese-univ Master of Education in Teaching in Key Subject A +3 kept, 1 dropped
+chinese-univ MBA in Technology and Innovation (offered in She +2 kept, 1 dropped
+chinese-univ MSc in Information Science and Technology Manage +1 kept, 0 dropped
+hong-kong-un Master of Arts in International Language Educati +2 kept, 1 dropped
+chinese-univ MSc in Information Science and Technology Manage +3 kept, 1 dropped
+hong-kong-un Master of Science in Artificial Intelligence     +1 kept, 1 dropped
+hong-kong-un Master of Science in Business Analytics          +1 kept, 1 dropped
+hong-kong-un Master of Science in Information Technology      +1 kept, 1 dropped
+hong-kong-un Master of Science in Global Operations           +1 kept, 1 dropped
+hong-kong-un Master of Science in AI and Entrepreneurship     +0 kept, 2 dropped
+hong-kong-un Master of Science in Data-Driven Modeling        +1 kept, 1 dropped
+hong-kong-un Master of Science in International Management    +2 kept, 0 dropped
+hong-kong-un Master of Science in Environmental Health and Sa +1 kept, 1 dropped
+hong-kong-un Master of Science in Information Systems Managem +1 kept, 1 dropped
+hong-kong-un Master of Science in Big Data Technology         +1 kept, 1 dropped
+hong-kong-un Master of Science in Technology Leadership and E +1 kept, 1 dropped
+hong-kong-un Master of Science in Accounting                  +1 kept, 1 dropped
+hong-kong-un Master of Science in Economics                   +0 kept, 2 dropped
+hong-kong-un Master of Science in Finance                     +1 kept, 1 dropped
+hong-kong-un Master of Science in Biomolecular Engineering an +1 kept, 1 dropped
+hong-kong-un Master of Science in Global Finance              +1 kept, 1 dropped
+hong-kong-un Master of Science in Intelligent Building Techno +1 kept, 1 dropped
+hong-kong-un Master of Science in Family Office and Family Bu +1 kept, 1 dropped
+hong-kong-un Master of Science in Information and Cyber Secur +1 kept, 1 dropped
+hong-kong-un Master of Science in Financial Mathematics       +1 kept, 1 dropped
+hong-kong-un Master of Science in Financial Technology        +1 kept, 1 dropped
+hong-kong-po Master of Nursing                                +2 kept, 1 dropped
+hong-kong-un Master of Science in Telecommunications          +1 kept, 1 dropped
+hong-kong-un Master of Science in Marketing                   +1 kept, 1 dropped
+hong-kong-po Master of Science in Industrial Logistics System +2 kept, 1 dropped
+hong-kong-po Master of Social Work                            +2 kept, 1 dropped
+hong-kong-po Master of Applied Psychology                     +2 kept, 1 dropped
+hong-kong-po Master of Science in Knowledge and Technology Ma +2 kept, 1 dropped
+hong-kong-po Master of Science in Global Hospitality Business +3 kept, 1 dropped
+hong-kong-po Master of Science in Nursing                     +2 kept, 0 dropped
+hong-kong-po Master of Science in Business Management         +3 kept, 1 dropped
+hong-kong-po Master of Science in Health Informatics          +2 kept, 1 dropped
+hong-kong-po Master of Corporate Governance                   +2 kept, 1 dropped
+hong-kong-po Master of Technology Entrepreneurship            +3 kept, 1 dropped
+hong-kong-po Master of Finance (Investment Management)        +2 kept, 1 dropped
+hong-kong-po Master of Finance (Corporate Finance)            +2 kept, 1 dropped
+hong-kong-po Master of Science in Accounting and Finance Anal +2 kept, 1 dropped
+hong-kong-po Master of Science in Business Analytics          +2 kept, 1 dropped
+hong-kong-po Master of Science in Economics                   +2 kept, 1 dropped
+hong-kong-po Master of Science in International Management an +2 kept, 1 dropped
+hong-kong-po Master of Science in Human Resource Management   +2 kept, 1 dropped
+hong-kong-po Master of Science in Accountancy                 error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+hong-kong-po Master of Science in Project Management          +2 kept, 1 dropped
+hong-kong-po Master of Science in Construction and Real Estat +2 kept, 1 dropped
+hong-kong-po Master of Science in Marketing Management        +2 kept, 1 dropped
+hong-kong-po Master of Science in Intelligent Construction    +2 kept, 1 dropped
+hong-kong-po Master of Science in Facility Management         +1 kept, 1 dropped
+hong-kong-po Master of Science in Global Business and Decisio +1 kept, 2 dropped
+hong-kong-po Master of Science in Operations Management       +2 kept, 1 dropped
+hong-kong-po Master of Science in Sports Technology and Manag +2 kept, 1 dropped
+hong-kong-po Master of Arts in Marriage and Family Therapy    +2 kept, 0 dropped
+hong-kong-po Master of Science in Vision Science and Innovati +1 kept, 2 dropped
+hong-kong-po Master of Arts in Mental Health                  +2 kept, 1 dropped
+hong-kong-po Master of Arts in Social Policy and Social Devel +3 kept, 0 dropped
+hong-kong-po Master of Applied Psychology (Diverse Learning N +2 kept, 1 dropped
+hong-kong-po Master of Arts in Guidance and Counselling       +2 kept, 1 dropped
+hong-kong-po Master of Science in Cybersecurity               +2 kept, 1 dropped
+hong-kong-po Master of Science in Agentic AI Systems          +2 kept, 1 dropped
+hong-kong-po Master of Science in Information Technology      +2 kept, 0 dropped
+hong-kong-po Master of Science in Data Science and Analytics  +2 kept, 1 dropped
+hong-kong-po Master of Science in Quantitative Finance and Fi +1 kept, 2 dropped
+hong-kong-po Master of Science in Mathematics for Artificial  +2 kept, 1 dropped
+hong-kong-po Master of Science in Actuarial and Investment Sc +2 kept, 1 dropped
+hong-kong-po Master of Science in Artificial Intelligence and +2 kept, 1 dropped
+hong-kong-po Master of Science in AI for Teaching English to  +3 kept, 1 dropped
+hong-kong-po Master of Arts in Chinese Linguistics            +3 kept, 1 dropped
+hong-kong-po Master of Arts in Bilingual Corporate Communicat +3 kept, 1 dropped
+hong-kong-po Master of Arts in Teaching Chinese as a Foreign  +3 kept, 0 dropped
+hong-kong-po Master of Science in Asset and Wealth Management +3 kept, 1 dropped
+hong-kong-po Master of Science/Postgraduate Diploma in Global +2 kept, 1 dropped
+hong-kong-po Master of Arts in Translation and Language Techn +5 kept, 1 dropped
+hong-kong-po Master of Arts in Global Communication and Event +3 kept, 1 dropped
+hong-kong-po Master of Science/Postgraduate Diploma in Supply +2 kept, 1 dropped
+hong-kong-po Master of Science in Generative AI and the Human +3 kept, 1 dropped
+hong-kong-po Master of Arts in English Studies for the Profes +4 kept, 0 dropped
+hong-kong-po 51069-OTF-OTP-ONF-ONP-MHF-MHP-MSF-MSP            +2 kept, 0 dropped
+hong-kong-po 09003-MCF-MCP-MEF-MEP-MLF-MLP-MNF-MNP-MMF-MMP-MS +2 kept, 0 dropped
+hong-kong-po Master of Science Scheme in Hospitality and Tour +1 kept, 2 dropped
+1 programmes failed; run again to retry them
+Tokens: input 4119909, output 244270 · cost ≈ US0.534 (Haiku 5.5: $0.10 / $0.50 per MTok)

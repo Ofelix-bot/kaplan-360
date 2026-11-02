@@ -1,0 +1,9 @@
+# mcmaster-university@1 https://www.mcmaster.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.mcmaster.ca/sitemap.xml: 6 children (6 course-like)
+sitemaps read 7 · urls 1433 · master's-looking 21
+   21  www.mcmaster.ca/tag
+         https://www.mcmaster.ca/tag/gallery-of-graduate-arts/
+         https://www.mcmaster.ca/tag/graduate-studies/
+         https://www.mcmaster.ca/tag/indigenous-undergraduate-summer-research-scholars/
+         https://www.mcmaster.ca/tag/indigenous-undergraduate-summer-research-scholarship/

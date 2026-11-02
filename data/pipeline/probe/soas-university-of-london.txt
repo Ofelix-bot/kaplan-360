@@ -1,0 +1,30 @@
+# soas-university-of-london https://www.soas.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.soas.ac.uk/sitemap.xml: 3 children (3 course-like)
+sitemaps read 4 · urls 5007 · master's-looking 211
+  144  www.soas.ac.uk/study/find-course
+         https://www.soas.ac.uk/study/find-course/msc-accounting-and-finance
+         https://www.soas.ac.uk/study/find-course/postgraduate-certificate-advanced-research-skills
+         https://www.soas.ac.uk/study/find-course/ma-african-studies
+         https://www.soas.ac.uk/study/find-course/ma-african-studies-and-intensive-swahili
+   43  www.soas.ac.uk/courseunits
+         https://www.soas.ac.uk/courseunits/jawi-and-malay-manuscript-tradition-masters
+         https://www.soas.ac.uk/courseunits/essay-writing-workshop-undergraduate-economics
+         https://www.soas.ac.uk/courseunits/mastering-nature-politics-science-and-technology-global-south
+         https://www.soas.ac.uk/courseunits/period-postgraduate-study-china
+   17  www.soas.ac.uk/about/news
+         https://www.soas.ac.uk/about/news/law-student-bana-itani-wins-targetjobs-undergraduate-year-awards-2022
+         https://www.soas.ac.uk/about/news/soas-student-nominated-future-chief-financial-officer-cfo-undergraduate
+         https://www.soas.ac.uk/about/news/curating-cultures-ma-students-showcase-new-exhibitions-wolfson-gallery
+         https://www.soas.ac.uk/about/news/ma-islamic-art-students-visit-brunei-gallery-exhibition-and-british-museum-ancient
+    3  www.soas.ac.uk/about
+         https://www.soas.ac.uk/about/mba-chidi-nmaju
+         https://www.soas.ac.uk/about/kexin-ma
+         https://www.soas.ac.uk/about/chen-ma
+    2  www.soas.ac.uk/study/find-course/msc
+         https://www.soas.ac.uk/study/find-course/msc/pgdip/pgcert-climate-change-and-development-online
+         https://www.soas.ac.uk/study/find-course/msc/pgdip/pgcert-sustainable-development-online
+    1  www.soas.ac.uk/about/news/school-law-postgraduate-taught-prizes-2019
+         https://www.soas.ac.uk/about/news/school-law-postgraduate-taught-prizes-2019/20
+    1  www.soas.ac.uk/courseunits/islamic-law-ma
+         https://www.soas.ac.uk/courseunits/islamic-law-ma/llm

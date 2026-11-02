@@ -1,0 +1,88 @@
+# university-of-roehampton-london https://www.roehampton.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1305 · master's-looking 271
+  105  www.roehampton.ac.uk/study/undergraduate-courses
+         https://www.roehampton.ac.uk/study/undergraduate-courses/zoology/
+         https://www.roehampton.ac.uk/study/undergraduate-courses/therapeutic-psychology-and-counselling/
+         https://www.roehampton.ac.uk/study/undergraduate-courses/sport-management/
+         https://www.roehampton.ac.uk/study/undergraduate-courses/sport-and-exercise-sciences/
+   76  www.roehampton.ac.uk/study/postgraduate-taught-courses
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/art-psychotherapy/
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/childrens-literature-distance-learning/
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/choreography/
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/international-master-in-dance-and-movement-as-practical-knowledge-and-heritage/
+   18  www.roehampton.ac.uk/study/postgraduate-taught-courses/pgce-secondary
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/pgce-secondary/pgce-secondary-art-and-design-specialism/
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/pgce-secondary/pgce-secondary-business-with-economics/
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/pgce-secondary/pgce-secondary-computing-specialism/
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/pgce-secondary/pgce-secondary-dance/
+   16  www.roehampton.ac.uk/study/open-days
+         https://www.roehampton.ac.uk/study/open-days/undergraduate-travel-bursary/
+         https://www.roehampton.ac.uk/study/open-days/undergraduate-anytime-open-day/
+         https://www.roehampton.ac.uk/study/open-days/postgraduate-anytime-open-day/
+         https://www.roehampton.ac.uk/study/open-days/undergraduate-on-demand-content/
+    8  www.roehampton.ac.uk/study/academic-areas/graduate-school
+         https://www.roehampton.ac.uk/study/academic-areas/graduate-school/fees-and-funding/
+         https://www.roehampton.ac.uk/study/academic-areas/graduate-school/degrees/
+         https://www.roehampton.ac.uk/study/academic-areas/graduate-school/research-degrees/
+         https://www.roehampton.ac.uk/study/academic-areas/graduate-school/senss/
+    4  www.roehampton.ac.uk/student-support/application-support/postgraduate-application-support
+         https://www.roehampton.ac.uk/student-support/application-support/postgraduate-application-support/postgraduate-entry-requirements/
+         https://www.roehampton.ac.uk/student-support/application-support/postgraduate-application-support/pgce-primary-entry-requirements/
+         https://www.roehampton.ac.uk/student-support/application-support/postgraduate-application-support/pgce-secondary-entry-requirements/
+         https://www.roehampton.ac.uk/student-support/application-support/postgraduate-application-support/gathered-field-application-process/
+    4  www.roehampton.ac.uk/student-support/application-support/undergraduate-application-support
+         https://www.roehampton.ac.uk/student-support/application-support/undergraduate-application-support/parents/
+         https://www.roehampton.ac.uk/student-support/application-support/undergraduate-application-support/undergraduate-general-entrance-requirements/
+         https://www.roehampton.ac.uk/student-support/application-support/undergraduate-application-support/primary-education-entry-requirements/
+         https://www.roehampton.ac.uk/student-support/application-support/undergraduate-application-support/how-to-accept-your-ucas-offer/
+    4  www.roehampton.ac.uk/study
+         https://www.roehampton.ac.uk/study/undergraduate-courses/
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/
+         https://www.roehampton.ac.uk/study/postgraduate-research-courses/
+         https://www.roehampton.ac.uk/study/postgraduate-study/
+    3  www.roehampton.ac.uk/news/2024/january
+         https://www.roehampton.ac.uk/news/2024/january/roehampton-graduate-and-governor-recognised-in-kings-new-year-honours/
+         https://www.roehampton.ac.uk/news/2024/january/roehampton-welcomes-the-first-cohort-of-msc-physiotherapy-students/
+         https://www.roehampton.ac.uk/news/2024/january/roehampton-launches-new-postgraduate-programme-in-engineering-project-management/
+    3  www.roehampton.ac.uk/study/postgraduate-research-courses
+         https://www.roehampton.ac.uk/study/postgraduate-research-courses/phd-professional-education/
+         https://www.roehampton.ac.uk/study/postgraduate-research-courses/dba/
+         https://www.roehampton.ac.uk/study/postgraduate-research-courses/doctor-of-education/
+    2  www.roehampton.ac.uk/study/fees-and-funding/home-postgraduate
+         https://www.roehampton.ac.uk/study/fees-and-funding/home-postgraduate/funding-and-scholarships/
+         https://www.roehampton.ac.uk/study/fees-and-funding/home-postgraduate/graduate-gateway-scholarship/
+    2  www.roehampton.ac.uk/study/fees-and-funding/home-undergraduate
+         https://www.roehampton.ac.uk/study/fees-and-funding/home-undergraduate/funding-and-scholarships/
+         https://www.roehampton.ac.uk/study/fees-and-funding/home-undergraduate/undergraduate-academic-excellence-scholarships/
+    2  www.roehampton.ac.uk/study/fees-and-funding/international-fees-and-financial-support
+         https://www.roehampton.ac.uk/study/fees-and-funding/international-fees-and-financial-support/postgraduate-scholarships/
+         https://www.roehampton.ac.uk/study/fees-and-funding/international-fees-and-financial-support/undergraduate-scholarships/
+    2  www.roehampton.ac.uk/student-support/application-support
+         https://www.roehampton.ac.uk/student-support/application-support/undergraduate-application-support/
+         https://www.roehampton.ac.uk/student-support/application-support/postgraduate-application-support/
+    2  www.roehampton.ac.uk/study/short-courses-and-professional-development
+         https://www.roehampton.ac.uk/study/short-courses-and-professional-development/pre-sessional-international-masters-preparation/
+         https://www.roehampton.ac.uk/study/short-courses-and-professional-development/executive-mba-summer-school/
+    2  www.roehampton.ac.uk/study/fees-and-funding
+         https://www.roehampton.ac.uk/study/fees-and-funding/home-undergraduate/
+         https://www.roehampton.ac.uk/study/fees-and-funding/home-postgraduate/
+    2  www.roehampton.ac.uk/alumni
+         https://www.roehampton.ac.uk/alumni/new-graduates/
+         https://www.roehampton.ac.uk/alumni/postgraduate-fast-track/
+    1  www.roehampton.ac.uk/study/academic-areas/continuing-education
+         https://www.roehampton.ac.uk/study/academic-areas/continuing-education/extended-masters/
+    1  www.roehampton.ac.uk/news/2023/november
+         https://www.roehampton.ac.uk/news/2023/november/roehamptons-dr-sue-reeves-releases-her-new-book-mastering-your-dissertation/
+    1  www.roehampton.ac.uk/news/2023/august
+         https://www.roehampton.ac.uk/news/2023/august/roehampton-ranked-top-10-in-uk-for-postgraduate-student-satisfaction/
+    1  www.roehampton.ac.uk/news/2023/february
+         https://www.roehampton.ac.uk/news/2023/february/over-1300-roehampton-graduates-awarded-their-degrees-at-the-january-graduation/
+    1  www.roehampton.ac.uk/news/2022/august
+         https://www.roehampton.ac.uk/news/2022/august/university-of-roehampton-london-ranked-top-10-in-uk-for-postgraduate-student-satisfaction/
+    1  www.roehampton.ac.uk/study/postgraduate-taught-courses/ecology-evolution-and-behaviour
+         https://www.roehampton.ac.uk/study/postgraduate-taught-courses/ecology-evolution-and-behaviour/potential-supervisors/
+    1  www.roehampton.ac.uk/news/2024/july
+         https://www.roehampton.ac.uk/news/2024/july/nss-2024-roehampton-top-ten-in-england-8th-for-undergraduate-student-satisfaction/
+    1  www.roehampton.ac.uk/news/2024/november
+         https://www.roehampton.ac.uk/news/2024/november/msc-physiotherapy-students-champion-health-promotion-during-physical-activity-week/

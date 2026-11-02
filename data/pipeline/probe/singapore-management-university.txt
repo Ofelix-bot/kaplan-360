@@ -1,0 +1,7 @@
+# singapore-management-university https://www.smu.edu.sg
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 141 · master's-looking 2
+    1  www.smu.edu.sg/about/international-advisory-councils/news
+         https://www.smu.edu.sg/about/international-advisory-councils/news/mba-study-mission-bangkok
+    1  www.smu.edu.sg/education/postgraduates
+         https://www.smu.edu.sg/education/postgraduates/call-proposals-july-2025

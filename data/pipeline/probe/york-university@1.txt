@@ -1,0 +1,139 @@
+# york-university@1 https://www.yorku.ca
+robots sitemaps: https://www.yorku.ca/sitemap_index.xml https://www.yorku.ca/sitemap_index.xml?lang=en https://www.yorku.ca/digitalexperiencehub/sitemap_index.xml?lang=en https://www.yorku.ca/about/sitemap_index.xml?lang=en https://www.yorku.ca/aifprojects/sitemap_index.xml?lang=en https://www.yorku.ca/vptl/sitemap_index.xml?lang=en https://www.yorku.ca/unit/cpa/sitemap_index.xml?lang=en https://www.yorku.ca/edu/sitemap_index.xml?lang=en https://www.yorku.ca/health/sitemap_index.xml?lang=en https://www.yorku.ca/science/sitemap_index.xml?lang=en https://www.yorku.ca/partnerships/sitemap_index.xml?lang=en https://www.yorku.ca/president/sitemap_index.xml?lang=en https://www.yorku.ca/scld/sitemap_index.xml?lang=en https://www.yorku.ca/dfa/sitemap_index.xml?lang=en https://www.yorku.ca/study/sitemap_index.xml?lang=en https://www.yorku.ca/laps/sitemap_index.xml?lang=en https://www.yorku.ca/facilities/sitemap_index.xml?lang=en https://www.yorku.ca/unit/gcrp/sitemap_index.xml?lang=en https://www.yorku.ca/foodservices/sitemap_index.xml?lang=en https://www.yorku.ca/transportation/sitemap_index.xml?lang=en https://www.yorku.ca/housing/sitemap_index.xml?lang=en https://www.yorku.ca/science/biology/sitemap_index.xml?lang=en https://www.yorku.ca/science/mathstats/sitemap_index.xml?lang=en https://www.yorku.ca/riskmanagement/sitemap_index.xml?lang=en https://www.yorku.ca/alumniandfriends/sitemap_index.xml?lang=en https://www.yorku.ca/c4/sitemap_index.xml?lang=en https://www.yorku.ca/global-engagement/sitemap_index.xml?lang=en https://www.yorku.ca/finance/sitemap_index.xml?lang=en https://www.yorku.ca/safety/sitemap_index.xml?lang=en https://www.yorku.ca/cvr/sitemap_index.xml?lang=en https://www.yorku.ca/ssrp/sitemap_index.xml?lang=en https://www.yorku.ca/orientation/sitemap_index.xml?lang=en https://www.yorku.ca/labour/sitemap_index.xml?lang=en https://www.yorku.ca/secretariat/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/futurestudents/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/futurestudents/discover/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/biology/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/businesseconomics/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/canadianstudies/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/communications/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/economics/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/bed/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/englishstudies/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/frenchstudies/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/genderwomensstudies/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/history/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/internationalstudies/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/businessinternational/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/linguisticslanguagestudies/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/mathematics/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/philosophy/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/politicalscience/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/psychology/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/sexualitystudies/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/sociology/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/spanish-and-latin-american-cultures-and-societies/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/translation/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/undecidedmajor/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/certificates/sbpc/sitemap_index.xml?lang=en https://www.yorku.ca/glendon/certificates/publichistory/sitemap_index.xml?lang=en https://www.yorku.ca/laps-child/sitemap_index.xml?lang=en https://www.yorku.ca/health-child/sitemap_index.xml?lang=en https://www.yorku.ca/dighr/sitemap_index.xml?lang=en https://www.yorku.ca/science/physics/sitemap_index.xml?lang=en https://www.yorku.ca/science/chemistry/sitemap_index.xml?lang=en https://www.yorku.ca/laps/shrm/sitemap_index.xml?lang=en https://www.yorku.ca/laps/huma/sitemap_index.xml?lang=en https://www.yorku.ca/laps/sas/sitemap_index.xml?lang=en · crawl-delay: null · AI-agent groups: 0
+index https://www.yorku.ca/sitemap_index.xml: 4 children (1 course-like)
+index https://www.yorku.ca/sitemap_index.xml?lang=en: 4 children (1 course-like)
+index https://www.yorku.ca/digitalexperiencehub/sitemap_index.xml?lang=en: 7 children (1 course-like)
+index https://www.yorku.ca/about/sitemap_index.xml?lang=en: 2 children (1 course-like)
+index https://www.yorku.ca/aifprojects/sitemap_index.xml?lang=en: 5 children (1 course-like)
+index https://www.yorku.ca/vptl/sitemap_index.xml?lang=en: 3 children (1 course-like)
+index https://www.yorku.ca/unit/cpa/sitemap_index.xml?lang=en: 1 children (1 course-like)
+index https://www.yorku.ca/edu/sitemap_index.xml?lang=en: 7 children (1 course-like)
+index https://www.yorku.ca/health/sitemap_index.xml?lang=en: 7 children (1 course-like)
+index https://www.yorku.ca/science/sitemap_index.xml?lang=en: 10 children (1 course-like)
+index https://www.yorku.ca/partnerships/sitemap_index.xml?lang=en: 5 children (1 course-like)
+index https://www.yorku.ca/president/sitemap_index.xml?lang=en: 9 children (1 course-like)
+sitemap https://www.yorku.ca/scld/sitemap_index.xml?lang=en: robots robots.txt unreachable at https://students.yorku.ca
+index https://www.yorku.ca/dfa/sitemap_index.xml?lang=en: 5 children (1 course-like)
+index https://www.yorku.ca/study/sitemap_index.xml?lang=en: 3 children (3 course-like)
+index https://www.yorku.ca/laps/sitemap_index.xml?lang=en: 89 children (19 course-like)
+index https://www.yorku.ca/facilities/sitemap_index.xml?lang=en: 4 children (1 course-like)
+index https://www.yorku.ca/unit/gcrp/sitemap_index.xml?lang=en: 1 children (1 course-like)
+index https://www.yorku.ca/foodservices/sitemap_index.xml?lang=en: 16 children (2 course-like)
+index https://www.yorku.ca/transportation/sitemap_index.xml?lang=en: 3 children (1 course-like)
+index https://www.yorku.ca/housing/sitemap_index.xml?lang=en: 4 children (1 course-like)
+index https://www.yorku.ca/science/biology/sitemap_index.xml?lang=en: 9 children (7 course-like)
+index https://www.yorku.ca/science/mathstats/sitemap_index.xml?lang=en: 3 children (1 course-like)
+index https://www.yorku.ca/riskmanagement/sitemap_index.xml?lang=en: 5 children (1 course-like)
+index https://www.yorku.ca/alumniandfriends/sitemap_index.xml?lang=en: 13 children (2 course-like)
+index https://www.yorku.ca/c4/sitemap_index.xml?lang=en: 3 children (1 course-like)
+index https://www.yorku.ca/global-engagement/sitemap_index.xml?lang=en: 9 children (1 course-like)
+sitemaps read 80 · urls 3214 · master's-looking 184
+   23  www.yorku.ca/laps/program
+         https://www.yorku.ca/laps/program/graduate-program-in-economics/
+         https://www.yorku.ca/laps/program/graduate-program-in-english/
+         https://www.yorku.ca/laps/program/graduate-program-in-financial-accountability/
+         https://www.yorku.ca/laps/program/graduate-program-gender-feminist-womens-studies/
+   19  www.yorku.ca/science/programs/undergraduate-programs
+         https://www.yorku.ca/science/programs/undergraduate-programs/environmental-science/
+         https://www.yorku.ca/science/programs/undergraduate-programs/environmental-biology/
+         https://www.yorku.ca/science/programs/undergraduate-programs/space-science/
+         https://www.yorku.ca/science/programs/undergraduate-programs/first-year-science/
+   15  www.yorku.ca/edu/students/undergraduate-programs
+         https://www.yorku.ca/edu/students/undergraduate-programs/academic-petitions/
+         https://www.yorku.ca/edu/students/undergraduate-programs/community-practicum/
+         https://www.yorku.ca/edu/students/undergraduate-programs/degree-level-expectations/
+         https://www.yorku.ca/edu/students/undergraduate-programs/undergraduate-student-services-advising/
+   12  www.yorku.ca/aifprojects
+         https://www.yorku.ca/aifprojects/graduate-students-and-career-success-individualized-professional-skills-development/
+         https://www.yorku.ca/aifprojects/assessing-the-effectiveness-of-an-immersive-and-experiential-boot-camp-based-introduction-for-graduate-students-to-policy-making/
+         https://www.yorku.ca/aifprojects/peer-mentorship-program-for-graduate-student-teaching-assistants-in-engineering/
+         https://www.yorku.ca/aifprojects/better-recruitment-retention-and-undergraduate-learning-through-mechatronics-experiential-education/
+   12  www.yorku.ca/housing/keele-campus/p-keele-undergraduate
+         https://www.yorku.ca/housing/keele-campus/p-keele-undergraduate/residence-buildings/founders-residence/
+         https://www.yorku.ca/housing/keele-campus/p-keele-undergraduate/residence-buildings/stong-residence/
+         https://www.yorku.ca/housing/keele-campus/p-keele-undergraduate/residence-buildings/tatham-residence/
+         https://www.yorku.ca/housing/keele-campus/p-keele-undergraduate/residence-buildings/vanier-residence/
+   11  www.yorku.ca/edu/students/graduate-students
+         https://www.yorku.ca/edu/students/graduate-students/your-student-information-record/
+         https://www.yorku.ca/edu/students/graduate-students/research-ethics-registration-policies/
+         https://www.yorku.ca/edu/students/graduate-students/experiential-education-practicum/
+         https://www.yorku.ca/edu/students/graduate-students/degrees-diplomas/
+    9  www.yorku.ca/laps/graduate-degree-type
+         https://www.yorku.ca/laps/graduate-degree-type/doctor-of-philosophy-phd/
+         https://www.yorku.ca/laps/graduate-degree-type/juris-doctor-master-of-arts-jd-ma/
+         https://www.yorku.ca/laps/graduate-degree-type/master-of-arts-ma/
+         https://www.yorku.ca/laps/graduate-degree-type/master-of-disaster-emergency-management-mdem/
+    6  www.yorku.ca/housing/graduate-housing-york-apartments
+         https://www.yorku.ca/housing/graduate-housing-york-apartments/application-eligibility-offers/
+         https://www.yorku.ca/housing/graduate-housing-york-apartments/apartment-buildings-gallery-virtual-tours/
+         https://www.yorku.ca/housing/graduate-housing-york-apartments/passy-crescent-gallery/
+         https://www.yorku.ca/housing/graduate-housing-york-apartments/assiniboine-gallery/
+    6  www.yorku.ca/science/biology/undergraduate
+         https://www.yorku.ca/science/biology/undergraduate/courses/course-search/
+         https://www.yorku.ca/science/biology/undergraduate/student-resources/
+         https://www.yorku.ca/science/biology/undergraduate/change-of-major/
+         https://www.yorku.ca/science/biology/undergraduate/programs/
+    5  www.yorku.ca/edu/students/graduate-programs
+         https://www.yorku.ca/edu/students/graduate-programs/research-specializations/
+         https://www.yorku.ca/edu/students/graduate-programs/graduate-program-intro/
+         https://www.yorku.ca/edu/students/graduate-programs/specializations/
+         https://www.yorku.ca/edu/students/graduate-programs/doctor-of-philosophy-phd/
+    5  www.yorku.ca/edu/students
+         https://www.yorku.ca/edu/students/master-of-leadership-and-community-engagement-mlce/
+         https://www.yorku.ca/edu/students/master-of-education-urban-indigenous-education/
+         https://www.yorku.ca/edu/students/graduate-programs/
+         https://www.yorku.ca/edu/students/undergraduate-programs/
+    5  www.yorku.ca/laps/programs/undergraduate
+         https://www.yorku.ca/laps/programs/undergraduate/certificates/
+         https://www.yorku.ca/laps/programs/undergraduate/international-ba/advantage/
+         https://www.yorku.ca/laps/programs/undergraduate/international-ba/
+         https://www.yorku.ca/laps/programs/undergraduate/undeclared-majors/yu-explore-program/
+    4  www.yorku.ca/edu
+         https://www.yorku.ca/edu/graduate-programs-introduction/
+         https://www.yorku.ca/edu/master-of-education-med-demo/
+         https://www.yorku.ca/edu/graduate-diploma-coordinators/
+         https://www.yorku.ca/edu/undergraduate-programs/
+    3  www.yorku.ca/health
+         https://www.yorku.ca/health/graduate-degrees/
+         https://www.yorku.ca/health/graduate-student-conference-travel-funds-guidelines/
+         https://www.yorku.ca/health/graduate-student-short-course-and-workshop-funds-guidelines/
+    3  www.yorku.ca/science/py-community-area/funding-opportunities
+         https://www.yorku.ca/science/py-community-area/funding-opportunities/cihr-strategic-masters-award/
+         https://www.yorku.ca/science/py-community-area/funding-opportunities/vanier-canada-graduate-scholarships/
+         https://www.yorku.ca/science/py-community-area/funding-opportunities/ccs-research-training-awards-masters-2026/
+    3  www.yorku.ca/laps/placement-course
+         https://www.yorku.ca/laps/placement-course/master-of-social-work-practicum/
+         https://www.yorku.ca/laps/placement-course/placement-option-ma/
+         https://www.yorku.ca/laps/placement-course/master-of-social-work-practicum-2/
+    3  www.yorku.ca/housing
+         https://www.yorku.ca/housing/student-property-and-liability-insurance-program-undergraduate-residences/
+         https://www.yorku.ca/housing/undergraduate-residence-room-inventory-and-condition-report/
+         https://www.yorku.ca/housing/undergraduate-move-in-map/
+    3  www.yorku.ca/housing/keele-campus/c-keele-undergraduate
+         https://www.yorku.ca/housing/keele-campus/c-keele-undergraduate/faq/
+         https://www.yorku.ca/housing/keele-campus/c-keele-undergraduate/selection-placement/
+         https://www.yorku.ca/housing/keele-campus/c-keele-undergraduate/moving/
+    3  www.yorku.ca/housing/keele-campus
+         https://www.yorku.ca/housing/keele-campus/p-keele-undergraduate/
+         https://www.yorku.ca/housing/keele-campus/graduate-students-housing/
+         https://www.yorku.ca/housing/keele-campus/c-keele-undergraduate/
+    3  www.yorku.ca/science/biology/help
+         https://www.yorku.ca/science/biology/help/undergraduate-faq/
+         https://www.yorku.ca/science/biology/help/undergraduate-advising/
+         https://www.yorku.ca/science/biology/help/undergraduate-advising/comparing-programs-and-choosing-courses/
+    3  www.yorku.ca/science/biology/helppage
+         https://www.yorku.ca/science/biology/helppage/i-think-i-am-ready-to-graduate/
+         https://www.yorku.ca/science/biology/helppage/what-are-my-career-options-after-i-graduate/
+         https://www.yorku.ca/science/biology/helppage/i-am-interested-in-research-undergraduate-students/
+    2  www.yorku.ca/health/faculty-governance
+         https://www.yorku.ca/health/faculty-governance/undergraduate-curriculum-committee-ucc/
+         https://www.yorku.ca/health/faculty-governance/graduate-committee/
+    2  www.yorku.ca/health/current-students/undergraduate-certificates-graduate-diplomas
+         https://www.yorku.ca/health/current-students/undergraduate-certificates-graduate-diplomas/certificate-in-aging/
+         https://www.yorku.ca/health/current-students/undergraduate-certificates-graduate-diplomas/digital-health-certificate/
+    2  www.yorku.ca/science
+         https://www.yorku.ca/science/science-schulich-pathway-to-master-of-management-mmgt-program/
+         https://www.yorku.ca/science/programs-undergraduate-programs-data-science/
+    2  www.yorku.ca/science/teaching-and-learning
+         https://www.yorku.ca/science/teaching-and-learning/undergraduate-resources/
+         https://www.yorku.ca/science/teaching-and-learning/graduate-resources/

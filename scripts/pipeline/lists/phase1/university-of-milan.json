@@ -1,0 +1,13 @@
+{
+ "source": "UniMi master programme catalogue https://www.unimi.it/en/education/masters-degree-programmes, kept language English only (browser: plain fetch gets 403) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.unimi.it/en/education/master-programme/artificial-intelligence-science-and-technology",
+  "https://www.unimi.it/en/education/master-programme/data-science-economics-and-health",
+  "https://www.unimi.it/en/education/master-programme/finance-and-economics-mef",
+  "https://www.unimi.it/en/education/master-programme/human-centered-artificial-intelligence",
+  "https://www.unimi.it/en/education/master-programme/law-and-sustainable-development",
+  "https://www.unimi.it/en/education/master-programme/management-human-resources-people-data-and-intelligent-technologies",
+  "https://www.unimi.it/en/education/master-programme/management-innovation-and-entrepreneurship-mie"
+ ]
+}

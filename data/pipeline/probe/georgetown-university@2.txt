@@ -1,0 +1,68 @@
+# georgetown-university@2 https://grad.georgetown.edu
+robots sitemaps: https://grad.georgetown.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://grad.georgetown.edu/sitemap_index.xml: 6 children (1 course-like)
+sitemaps read 7 · urls 764 · master's-looking 136
+   74  grad.georgetown.edu/tag
+         https://grad.georgetown.edu/tag/biomedical-graduate-education/
+         https://grad.georgetown.edu/tag/executive-masters/
+         https://grad.georgetown.edu/tag/executive-masters-in-clinical-quality-safety-and-leadership/
+         https://grad.georgetown.edu/tag/executive-masters-in-global-sports-operation-and-strategy/
+    9  grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/prog-req-inst-endorse
+         https://grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/prog-req-inst-endorse/ddra/
+         https://grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/prog-req-inst-endorse/nrsa/
+         https://grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/prog-req-inst-endorse/beinecke/
+         https://grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/prog-req-inst-endorse/arcs/
+    8  grad.georgetown.edu/gsas-events/graduate-student-awards-ceremony/graduate-student-awards-categories-2
+         https://grad.georgetown.edu/gsas-events/graduate-student-awards-ceremony/graduate-student-awards-categories-2/2025-graduate-student-awards/
+         https://grad.georgetown.edu/gsas-events/graduate-student-awards-ceremony/graduate-student-awards-categories-2/2024-graduate-student-awards/
+         https://grad.georgetown.edu/gsas-events/graduate-student-awards-ceremony/graduate-student-awards-categories-2/2020-graduate-student-awards/
+         https://grad.georgetown.edu/gsas-events/graduate-student-awards-ceremony/graduate-student-awards-categories-2/2019-2/
+    3  grad.georgetown.edu/graduate-student-welcome-week
+         https://grad.georgetown.edu/graduate-student-welcome-week/welcome-week-events/
+         https://grad.georgetown.edu/graduate-student-welcome-week/
+         https://grad.georgetown.edu/graduate-student-welcome-week/2025-welcome-week-events/
+    2  grad.georgetown.edu/gsas-events/graduate-student-awards-ceremony
+         https://grad.georgetown.edu/gsas-events/graduate-student-awards-ceremony/graduate-student-awards-categories-2/
+         https://grad.georgetown.edu/gsas-events/graduate-student-awards-ceremony/2026-graduate-student-awards/
+    2  grad.georgetown.edu/fellowships-and-awards
+         https://grad.georgetown.edu/fellowships-and-awards/patrick-healy-graduate-fellowship/
+         https://grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/
+    2  grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students
+         https://grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/external-funding-for-masters-students/
+         https://grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/prog-req-inst-endorse/
+    1  grad.georgetown.edu/2022-graduate-student-awards
+         https://grad.georgetown.edu/2022-graduate-student-awards/
+    1  grad.georgetown.edu/opportunities-and-resources-for-displaced-federal-workers-and-contractors-parent
+         https://grad.georgetown.edu/opportunities-and-resources-for-displaced-federal-workers-and-contractors-parent/tuition-discounts-certificates-masters/
+    1  grad.georgetown.edu/financial-support
+         https://grad.georgetown.edu/financial-support/tuition-scholarship-for-georgetown-undergraduates-and-alumni/
+    1  grad.georgetown.edu/gsas-events
+         https://grad.georgetown.edu/gsas-events/graduate-student-awards-ceremony/
+    1  grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/external-funding-for-masters-students
+         https://grad.georgetown.edu/fellowships-and-awards/external-funding-opportunities-for-graduate-students/external-funding-for-masters-students/cosmos-scholars/
+    1  grad.georgetown.edu/people
+         https://grad.georgetown.edu/people/graduate-admissions/
+    1  grad.georgetown.edu/financial-support/merit-based-financial-aid
+         https://grad.georgetown.edu/financial-support/merit-based-financial-aid/masters-stipends/
+    1  grad.georgetown.edu/academics/current-students
+         https://grad.georgetown.edu/academics/current-students/how-to-graduate/
+    1  grad.georgetown.edu/university-committee-on-graduate-studies
+         https://grad.georgetown.edu/university-committee-on-graduate-studies/
+    1  grad.georgetown.edu/2023/05/03
+         https://grad.georgetown.edu/2023/05/03/brian-greene-theoretical-physicist-2023-graduate-school-commencement-speaker/
+    1  grad.georgetown.edu/2023/09/05
+         https://grad.georgetown.edu/2023/09/05/georgetown-bryce-harlow-fellows-working-graduate-students/
+    1  grad.georgetown.edu/2023/07/26
+         https://grad.georgetown.edu/2023/07/26/graduate-school-yellow-ribbon-program-expansion-2023/
+    1  grad.georgetown.edu/2024/12/12
+         https://grad.georgetown.edu/2024/12/12/2024-a-year-of-moments-that-mattered-in-a-multifaceted-graduate-student-community/
+    1  grad.georgetown.edu/2026/02/25
+         https://grad.georgetown.edu/2026/02/25/masters-students-curate-art-exhibition/
+    1  grad.georgetown.edu/2022/05/13
+         https://grad.georgetown.edu/2022/05/13/2022-graduate-school-arts-sciences-commencement-speaker-environmental-justice/
+    1  grad.georgetown.edu/2023/03/28
+         https://grad.georgetown.edu/2023/03/28/eight-decades-of-women-trailblazers-who-made-history-graduate-school/
+    1  grad.georgetown.edu/2023/05/08
+         https://grad.georgetown.edu/2023/05/08/find-the-joy-two-graduating-ma-student-reflections/
+    1  grad.georgetown.edu/2023/09/26
+         https://grad.georgetown.edu/2023/09/26/two-graduate-students-awarded-herbert-roback-scholarship/

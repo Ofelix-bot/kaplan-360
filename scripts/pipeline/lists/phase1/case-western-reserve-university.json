@@ -1,0 +1,28 @@
+{
+ "source": "graduate studies degree list https://case.edu/gradstudies/prospective-students/degree-programs-offered + Weatherhead, Nursing, Social Work, Law programme lists (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://case.edu/weatherhead/academics/mba-programs/mba",
+  "https://case.edu/weatherhead/academics/mba-programs/executive-mba",
+  "https://case.edu/weatherhead/academics/specialty-masters-programs/master-accountancy",
+  "https://case.edu/weatherhead/academics/specialty-masters-programs/master-business-analytics-and-intelligence",
+  "https://case.edu/weatherhead/academics/specialty-masters-programs/master-finance",
+  "https://case.edu/weatherhead/academics/specialty-masters-programs/master-leadership-and-organizational-change",
+  "https://case.edu/weatherhead/academics/specialty-masters-programs/master-supply-chain-management",
+  "https://case.edu/nursing/programs/msn",
+  "https://case.edu/socialwork/academics/master-social-work-msw/campus-master-social-work-msw",
+  "https://case.edu/socialwork/academics/master-nonprofit-organizations-mno",
+  "https://case.edu/law/academics/llm-programs/llm-internationally-educated-students/llm-criminal-justice-and-international-criminal-law",
+  "https://case.edu/law/academics/llm-programs/llm-internationally-educated-students/llm-intellectual-property-law",
+  "https://case.edu/law/academics/llm-programs/llm-internationally-educated-students/llm-international-business-law",
+  "https://case.edu/law/academics/llm-programs/llm-internationally-educated-students/llm-us-global-legal-studies",
+  "https://mathstats.case.edu/master-of-science-in-statistics/",
+  "https://case.edu/engineering/computer-data-sciences/academics/graduate/master-science-computer-science",
+  "https://case.edu/engineering/computer-data-sciences/academics/graduate/master-science-data-science",
+  "https://case.edu/medicine/pqhs/education/biostatistics-epidemiology/ms-biostatistics",
+  "https://case.edu/medicine/pqhs/education/biomedical-health-informatics/ms-biomedical-health-informatics",
+  "https://case.edu/medicine/pqhs/education/public-health/master-public-health",
+  "https://case.edu/medicine/nutrition/education/public-health-nutrition-programs/ms-public-health-nutrition",
+  "https://case.edu/medicine/genetics/graduate-programs/genetic-counseling-training-program"
+ ]
+}

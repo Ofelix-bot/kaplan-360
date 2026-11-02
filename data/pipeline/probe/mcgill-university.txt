@@ -1,0 +1,145 @@
+# mcgill-university https://www.mcgill.ca
+robots sitemaps: https://www.mcgill.ca/root/sitemap-index.xml https://www.mcgill.ca/sitemap.xml · crawl-delay: 5 · AI-agent groups: 0
+index https://www.mcgill.ca/root/sitemap-index.xml: 686 children (23 course-like)
+sitemap https://www.mcgill.ca/study/2009-2010/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2010-2011/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2011-2012/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2012-2013/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2013-2014/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2014-2015/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2015-2016/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2016-2017/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2017-2018/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2018-2019/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2019-2020/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2020-2021/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2021-2022/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2022-2023/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2023-2024/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://www.mcgill.ca/study/2024-2025/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemaps read 80 · urls 8310 · master's-looking 606
+   54  www.mcgill.ca/ahcs/people-contacts/current-graduate-students
+         https://www.mcgill.ca/ahcs/people-contacts/current-graduate-students/current-phd-students/sonja-solomun
+         https://www.mcgill.ca/ahcs/people-contacts/current-graduate-students/current-phd-students/clinton-glenn
+         https://www.mcgill.ca/ahcs/people-contacts/current-graduate-students/current-phd-students/andy-stuhl
+         https://www.mcgill.ca/ahcs/people-contacts/current-graduate-students/current-phd-students/chanelle-lalonde
+   53  www.mcgill.ca/ahcs/courses/past-courses
+         https://www.mcgill.ca/ahcs/courses/past-courses/courses-2022-2023/undergraduate-courses-communication-studies-2022-2023
+         https://www.mcgill.ca/ahcs/courses/past-courses/courses-2022-2023/graduate-courses-art-history-2022-2023
+         https://www.mcgill.ca/ahcs/courses/past-courses/courses-2022-2023/graduate-courses-communication-studies-2022-2023
+         https://www.mcgill.ca/ahcs/courses/past-courses/courses-2013-2014/undergraduate-ah
+   26  www.mcgill.ca/architecture/programs/post-professional-master-architecture-retrospective
+         https://www.mcgill.ca/architecture/programs/post-professional-master-architecture-retrospective/housing-cultural-landscapes-and-urban-design
+         https://www.mcgill.ca/architecture/programs/post-professional-master-architecture-retrospective/housing-cultural-landscapes-and-urban-design/urban-design-and-housing-2009-2020
+         https://www.mcgill.ca/architecture/programs/post-professional-master-architecture-retrospective/housing-cultural-landscapes-and-urban-design/minimum-cost-housing-1971-2009
+         https://www.mcgill.ca/architecture/programs/post-professional-master-architecture-retrospective/housing-cultural-landscapes-and-urban-design/affordable-homes-1989-2009
+   21  www.mcgill.ca/mastercardfdn-scholars/fr/propos-du-programme
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/propos-du-programme/lexperience-du-programme-de-bourses
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/propos-du-programme/ressources-lintention-des-titulaires-de-bourses
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/propos-du-programme/nos-valeurs
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/propos-du-programme/notre-equipe
+   21  www.mcgill.ca/biochemistry/graduate-studies/current-students
+         https://www.mcgill.ca/biochemistry/graduate-studies/current-students/regulations-guidelines
+         https://www.mcgill.ca/biochemistry/graduate-studies/current-students/graduate-advisory-committee-gac
+         https://www.mcgill.ca/biochemistry/graduate-studies/current-students/fundingopportunities/graduate-research-enhancement-travel-award-great
+         https://www.mcgill.ca/biochemistry/graduate-studies/current-students/timeline-chart
+   16  www.mcgill.ca/mastercardfdn-scholars/article
+         https://www.mcgill.ca/mastercardfdn-scholars/article/dobson-cup-winner-ibrahim-kasujja-competition-experience
+         https://www.mcgill.ca/mastercardfdn-scholars/article/onyinyechi-emilia-ohawuiro-valuable-impact-dobson-cup-competition-and-skills-learned
+         https://www.mcgill.ca/mastercardfdn-scholars/article/henry-nwachukwu-passion-be-change-agent-and-entrepreneurial-spirit
+         https://www.mcgill.ca/mastercardfdn-scholars/article/scholar-profile-hope-zimba
+   15  www.mcgill.ca/ahcs/graduate
+         https://www.mcgill.ca/ahcs/graduate/gsa
+         https://www.mcgill.ca/ahcs/graduate/alumni
+         https://www.mcgill.ca/ahcs/graduate/ahgradprograms
+         https://www.mcgill.ca/ahcs/graduate/csgradprograms
+   13  www.mcgill.ca/biochemistry/graduate-studies/phd-oral-defences
+         https://www.mcgill.ca/biochemistry/graduate-studies/phd-oral-defences/chemicalbiology/curriculum/pharmacology
+         https://www.mcgill.ca/biochemistry/graduate-studies/phd-oral-defences/chemicalbiology/curriculum/chemistry
+         https://www.mcgill.ca/biochemistry/graduate-studies/phd-oral-defences/bioinformatics/curriculum
+         https://www.mcgill.ca/biochemistry/graduate-studies/phd-oral-defences/chemicalbiology/seminars
+   12  www.mcgill.ca/biology/undergraduate/undergraduate-concentrations-courses
+         https://www.mcgill.ca/biology/undergraduate/undergraduate-concentrations-courses/freshman-courses
+         https://www.mcgill.ca/biology/undergraduate/undergraduate-concentrations-courses/nbb-courses
+         https://www.mcgill.ca/biology/undergraduate/undergraduate-concentrations-courses/mcdb-courses
+         https://www.mcgill.ca/biology/undergraduate/undergraduate-concentrations-courses/ceeb-courses
+   11  www.mcgill.ca/mastercardfdn-scholars/fr/article
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/article/les-valeurs-des-titulaires-de-bourses-de-la-fondation-mastercard-selon-ndey-yassin-camara
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/article/lapprentissage-pratique-pour-les-jeunes-dans-le-cadre-de-projets
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/article/limportance-inestimable-des-competences-acquises-grace-au-concours-de-la-coupe-dobson-le-temoignage
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/article/lexperience-dun-laureat-de-la-coupe-dobson-le-temoignage-dibrahim
+   10  www.mcgill.ca/anatomy/undergraduate
+         https://www.mcgill.ca/anatomy/undergraduate/applying
+         https://www.mcgill.ca/anatomy/undergraduate/programs
+         https://www.mcgill.ca/anatomy/undergraduate/research
+         https://www.mcgill.ca/anatomy/undergraduate/study-abroad
+   10  www.mcgill.ca/anatomy/graduate/current-students-1
+         https://www.mcgill.ca/anatomy/graduate/current-students-1/masters
+         https://www.mcgill.ca/anatomy/graduate/current-students-1/doctorate
+         https://www.mcgill.ca/anatomy/graduate/current-students-1/supervision
+         https://www.mcgill.ca/anatomy/graduate/current-students-1/masters/fast-track-phd
+    9  www.mcgill.ca/mastercardfdn-scholars/about/meet
+         https://www.mcgill.ca/mastercardfdn-scholars/about/meet/sarah-kalisa
+         https://www.mcgill.ca/mastercardfdn-scholars/about/meet/stephanie-babb
+         https://www.mcgill.ca/mastercardfdn-scholars/about/meet/eliana-charlebois-gomez
+         https://www.mcgill.ca/mastercardfdn-scholars/about/meet/chukwuamaka-oguejiofor
+    9  www.mcgill.ca/anthropology/undergraduate
+         https://www.mcgill.ca/anthropology/undergraduate/forms
+         https://www.mcgill.ca/anthropology/undergraduate/student-resources
+         https://www.mcgill.ca/anthropology/undergraduate/internships
+         https://www.mcgill.ca/anthropology/undergraduate/joint-honours
+    9  www.mcgill.ca/arts-internships/channels/event
+         https://www.mcgill.ca/arts-internships/channels/event/aria-undergraduate-research-event-daynight-326594
+         https://www.mcgill.ca/arts-internships/channels/event/arts-undergraduate-research-internship-awards-aria-information-session-326598
+         https://www.mcgill.ca/arts-internships/channels/event/arts-undergraduate-research-internship-awards-aria-information-session-349207
+         https://www.mcgill.ca/arts-internships/channels/event/annual-faculty-arts-undergraduate-research-aria-event-349209
+    9  www.mcgill.ca/bbme/programs/masters-non-thesis
+         https://www.mcgill.ca/bbme/programs/masters-non-thesis/who-can-apply
+         https://www.mcgill.ca/bbme/programs/masters-non-thesis/how-apply
+         https://www.mcgill.ca/bbme/programs/masters-non-thesis/about-masters-non-thesis-program
+         https://www.mcgill.ca/bbme/programs/masters-non-thesis/about-masters-non-thesis-program/biomanufacturing-graduate-internship
+    8  www.mcgill.ca/architecture/channels/news
+         https://www.mcgill.ca/architecture/channels/news/francois-leblanc-awarded-sshrc-joseph-armand-bombardier-canada-graduate-scholarship-22
+         https://www.mcgill.ca/architecture/channels/news/two-recent-graduates-win-burnham-prize-competition-227066
+         https://www.mcgill.ca/architecture/channels/news/recent-graduate-marie-eve-lamarre-awarded-lojic-prize-national-assembly-236970
+         https://www.mcgill.ca/architecture/channels/news/amale-andraos-named-dean-columbia%E2%80%99s-graduate-school-architecture-planning-and-preserva
+    8  www.mcgill.ca/arts/article
+         https://www.mcgill.ca/arts/article/new-graduate-certificate-cybersecurity
+         https://www.mcgill.ca/arts/article/diving-undergraduate-research
+         https://www.mcgill.ca/arts/article/master-public-policy-students-visit-parliament-hill
+         https://www.mcgill.ca/arts/article/new-master-information-studies-fellowship-black-students
+    8  www.mcgill.ca/biology/graduate/current-graduate-students
+         https://www.mcgill.ca/biology/graduate/current-graduate-students/graduate-funding-0/awards-scholarships
+         https://www.mcgill.ca/biology/graduate/current-graduate-students/teaching-assistant-handbook
+         https://www.mcgill.ca/biology/graduate/current-graduate-students/forms
+         https://www.mcgill.ca/biology/graduate/current-graduate-students/faqs
+    8  www.mcgill.ca/biology/undergraduate
+         https://www.mcgill.ca/biology/undergraduate/undergraduate-studies-faq
+         https://www.mcgill.ca/biology/undergraduate/why-biology
+         https://www.mcgill.ca/biology/undergraduate/bsc-msc-thesis-track
+         https://www.mcgill.ca/biology/undergraduate/additional-course-information-bluebook
+    8  www.mcgill.ca/biology/graduate
+         https://www.mcgill.ca/biology/graduate/graduate-courses
+         https://www.mcgill.ca/biology/graduate/master-science-msc
+         https://www.mcgill.ca/biology/graduate/doctor-philosophy-phd
+         https://www.mcgill.ca/biology/graduate/specialized-options-biology
+    7  www.mcgill.ca/mastercardfdn-scholars
+         https://www.mcgill.ca/mastercardfdn-scholars/
+         https://www.mcgill.ca/mastercardfdn-scholars/apply
+         https://www.mcgill.ca/mastercardfdn-scholars/events
+         https://www.mcgill.ca/mastercardfdn-scholars/features
+    7  www.mcgill.ca/ahcs/channels/event
+         https://www.mcgill.ca/ahcs/channels/event/canvas-undergraduate-colloquium-267260
+         https://www.mcgill.ca/ahcs/channels/event/call-papers-potentials-ecocriticism-ahcs-graduate-symposium-291071
+         https://www.mcgill.ca/ahcs/channels/event/potentials-ecocriticisms-ahcs-graduate-student-symposium-293049
+         https://www.mcgill.ca/ahcs/channels/event/postponed-speaker-series-containment-intimacy-interdiscipinary-graduate-symposium-303689
+    7  www.mcgill.ca/anatomy/graduate
+         https://www.mcgill.ca/anatomy/graduate/applying
+         https://www.mcgill.ca/anatomy/graduate/funding
+         https://www.mcgill.ca/anatomy/graduate/forms-guidelines
+         https://www.mcgill.ca/anatomy/graduate/contact-resources
+    6  www.mcgill.ca/mastercardfdn-scholars/fr
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/nous-joindre
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/nouvelles-et-evenements
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/candidatures
+         https://www.mcgill.ca/mastercardfdn-scholars/fr/temoignages-de-boursieres-et-boursiers

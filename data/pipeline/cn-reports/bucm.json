@@ -1,0 +1,45 @@
+{
+  "id": "bucm",
+  "status": "read",
+  "university": "北京中医药大学",
+  "universityEn": "Beijing University of Chinese Medicine",
+  "tier": "211",
+  "url": "https://jy.bucm.edu.cn/uploadfile/v3/front/default/upload_file_63953.pdf",
+  "title": null,
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 147,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": "2022届",
+      "count": 37,
+      "pct": 1.14,
+      "quote": "我校 2022 届毕业生中有 37 人选择出国出境留学，出国出境留学率为 1.14%"
+    },
+    {
+      "group": "博士生",
+      "cohort": "2022届",
+      "count": 0,
+      "pct": 0,
+      "quote": "博士毕业生出国出境留学 0 人"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": "2022届",
+      "count": 10,
+      "pct": null,
+      "quote": "留学目的地排名前两位的国家（地区）分别为英国（10 人）、香港（8 人）"
+    }
+  ],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [
+    "abroad 本科生",
+    "abroad 硕士生",
+    "region 中国香港"
+  ],
+  "checked": "2026-10-21"
+}

@@ -1,0 +1,4 @@
+# university-of-illinois-at-urbana-champaign@1 https://illinois.edu
+robots sitemaps: https://illinois.edu/sitemaps.xml · crawl-delay: null · AI-agent groups: 0
+index https://illinois.edu/sitemaps.xml: 3 children (1 course-like)
+sitemaps read 4 · urls 23 · master's-looking 0

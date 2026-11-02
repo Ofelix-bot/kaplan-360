@@ -1,0 +1,3 @@
+# stanford-university@2 https://gradadmissions.stanford.edu
+robots sitemaps: (none) · crawl-delay: 30 · AI-agent groups: 0
+sitemaps read 1 · urls 40 · master's-looking 0

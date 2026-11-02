@@ -1,0 +1,9 @@
+{
+ "source": "All study programs list https://www.uni-stuttgart.de/en/study/study-programs/ (each entry shows its teaching language); kept master's taught in English only (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.uni-stuttgart.de/en/study/study-programs/Computer-Science-M.Sc.-00001/",
+  "https://www.uni-stuttgart.de/en/study/study-programs/Information-Technology-INFOTECH-M.Sc./",
+  "https://www.uni-stuttgart.de/en/study/master-programs/computational-linguistics-m.sc./"
+ ]
+}

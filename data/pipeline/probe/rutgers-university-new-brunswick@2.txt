@@ -1,0 +1,4 @@
+# rutgers-university-new-brunswick@2 https://grad.rutgers.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemap https://grad.rutgers.edu/sitemap.xml: http HTTP 404
+sitemaps read 1 · urls 0 · master's-looking 0

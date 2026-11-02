@@ -1,0 +1,38 @@
+# linkoping-university https://liu.se
+robots sitemaps: https://liu.se/sitemap · crawl-delay: null · AI-agent groups: 0
+index https://liu.se/sitemap: 1 children (0 course-like)
+sitemaps read 2 · urls 22480 · master's-looking 113
+   44  liu.se/artikel
+         https://liu.se/artikel/masterprofil-produktionsledning
+         https://liu.se/artikel/masterprogrammet-i-medicinsk-vetenskap-inriktning-e-halsa
+         https://liu.se/artikel/annaholm-kog-vet-master
+         https://liu.se/artikel/grund-och-masterutbildningar-vid-tekniska-hogskolan
+   25  liu.se/nyhet
+         https://liu.se/nyhet/liu-startar-nationell-pilot-pa-masterniva-inom-forsvarsinnovation-med-stod-av-forsvarshogskolan
+         https://liu.se/nyhet/tva-nya-masterprogram-i-varldsledande-materialvetenskap
+         https://liu.se/nyhet/microsoft-gastar-masterprogrammet-i-digitaliserat-byggande
+         https://liu.se/nyhet/masterprogram-ger-verktyg-till-en-halso-och-sjukvard-i-forandring
+   15  liu.se/en/research/graduate-school-in-energy-systems
+         https://liu.se/en/research/graduate-school-in-energy-systems/massive-urban-missions
+         https://liu.se/en/research/graduate-school-in-energy-systems/capacity-for-assessment-of-socio-economic-implications
+         https://liu.se/en/research/graduate-school-in-energy-systems/the-importance-of-physical-and-socio-political-factors-for-wind-power-deployment
+         https://liu.se/en/research/graduate-school-in-energy-systems/the-role-of-hydrogen-in-sweden-energy-system
+   12  liu.se/en/article
+         https://liu.se/en/article/masters-entry-requirements
+         https://liu.se/en/article/master-specialisation-engineering-design-and-product-development
+         https://liu.se/en/article/master-specialisation-mechatronics
+         https://liu.se/en/article/master-specialisation-applied-mechanics
+   11  liu.se/en/news-item
+         https://liu.se/en/news-item/two-new-master-s-programmes-in-world-leading-materials-science
+         https://liu.se/en/news-item/master-student-rewarded-for-research-on-traffic-flow-using-artificial-intelligence
+         https://liu.se/en/news-item/forsta-masterkullen-i-hallbar-design
+         https://liu.se/en/news-item/masterprogram-strategisk-samhallsplanering
+    4  liu.se/en/research
+         https://liu.se/en/research/graduate-school-in-energy-systems
+         https://liu.se/en/research/the-swedish-research-councils-graduate-school-in-migration-and-integration
+         https://liu.se/en/research/graduate-school-in-health-professions-education
+         https://liu.se/en/research/graduate-school-in-computer-science-cugs
+    1  liu.se/en/education
+         https://liu.se/en/education/master-s-studies-close-to-business-world
+    1  liu.se/en/organisation/liu
+         https://liu.se/en/organisation/liu/ifm/graduate-courses-at-ifm

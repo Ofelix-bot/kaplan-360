@@ -1,0 +1,24 @@
+{
+  "dataset": "S$ exchange rates, end of month (Monetary Authority of Singapore)",
+  "source": "https://eservices.mas.gov.sg/Statistics/msb/ExchangeRates.aspx",
+  "publisher": "Monetary Authority of Singapore",
+  "period": "Sep 2026",
+  "retrievedAt": "2026-10-19",
+  "note": "S$ per 1 unit of each currency; MAS publishes some per 100 units, divided here. Used only to show fees in S$ as an approximation.",
+  "rates": {
+    "EUR": 1.4483,
+    "GBP": 1.6904,
+    "USD": 1.278,
+    "AUD": 0.8907,
+    "CAD": 0.9001,
+    "CNY": 0.1906,
+    "HKD": 0.1629,
+    "JPY": 0.008147,
+    "KRW": 0.000943,
+    "MYR": 0.3133,
+    "TWD": 0.040068,
+    "NZD": 0.7213,
+    "CHF": 1.5316,
+    "SGD": 1
+  }
+}

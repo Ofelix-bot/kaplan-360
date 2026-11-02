@@ -1,0 +1,4 @@
+# liverpool-john-moores-university https://www.ljmu.ac.uk
+robots sitemaps: https://ljmu.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 1
+sitemap https://ljmu.ac.uk/sitemap.xml: robots disallowed by robots.txt: /sitemap.xml
+sitemaps read 1 · urls 0 · master's-looking 0

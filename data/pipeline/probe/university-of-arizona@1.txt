@@ -1,0 +1,23 @@
+# university-of-arizona@1 https://www.arizona.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 868 · master's-looking 41
+   30  www.arizona.edu/degree-search/majors
+         https://www.arizona.edu/degree-search/majors/accounting-ma
+         https://www.arizona.edu/degree-search/majors/american-indian-studies-ma
+         https://www.arizona.edu/degree-search/majors/anthropology-ma
+         https://www.arizona.edu/degree-search/majors/applied-intercultural-arts-research-ma
+    5  www.arizona.edu/admissions/undergraduate
+         https://www.arizona.edu/admissions/undergraduate/first-year
+         https://www.arizona.edu/admissions/undergraduate/transfer
+         https://www.arizona.edu/admissions/undergraduate/international
+         https://www.arizona.edu/admissions/undergraduate/tuition-aid
+    3  www.arizona.edu/admissions
+         https://www.arizona.edu/admissions/undergraduate
+         https://www.arizona.edu/admissions/graduate
+         https://www.arizona.edu/admissions/western-undergraduate-exchange-wue
+    1  www.arizona.edu/admissions/undergraduate/first-year
+         https://www.arizona.edu/admissions/undergraduate/first-year/merit-scholarships
+    1  www.arizona.edu/admissions/undergraduate/transfer
+         https://www.arizona.edu/admissions/undergraduate/transfer/merit-scholarships
+    1  www.arizona.edu/admissions/undergraduate/admitted-students
+         https://www.arizona.edu/admissions/undergraduate/admitted-students/events-tours

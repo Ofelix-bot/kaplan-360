@@ -1,0 +1,3 @@
+# university-of-calgary@1 https://www.ucalgary.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1 · master's-looking 0

@@ -1,0 +1,40 @@
+# pennsylvania-state-university@1 https://www.psu.edu
+robots sitemaps: https://www.psu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 1
+sitemaps read 1 · urls 330 · master's-looking 63
+   21  www.psu.edu/academics/undergraduate/majors
+         https://www.psu.edu/academics/undergraduate/majors/associates-degree-radiology-technician-program
+         https://www.psu.edu/academics/undergraduate/majors/physical-therapist-assistant-pta-program
+         https://www.psu.edu/academics/undergraduate/majors/occupational-therapy-assistant-ota-program
+         https://www.psu.edu/academics/undergraduate/majors/pathways/business-careers
+   16  www.psu.edu/admission/undergraduate/explore
+         https://www.psu.edu/admission/undergraduate/explore/athletics-recreation
+         https://www.psu.edu/admission/undergraduate/explore/visit-penn-state
+         https://www.psu.edu/admission/undergraduate/explore/visit-penn-state/national-transfer-week-university-park
+         https://www.psu.edu/admission/undergraduate/explore/diversity-belonging/admissions-strategic-partnerships
+    7  www.psu.edu/admission/undergraduate
+         https://www.psu.edu/admission/undergraduate/sms-terms-and-conditions
+         https://www.psu.edu/admission/undergraduate/tour-guides
+         https://www.psu.edu/admission/undergraduate/contact
+         https://www.psu.edu/admission/undergraduate/tuition-costs
+    7  www.psu.edu/admission/undergraduate/credit
+         https://www.psu.edu/admission/undergraduate/credit/military-experience
+         https://www.psu.edu/admission/undergraduate/credit/credit-by-validation
+         https://www.psu.edu/admission/undergraduate/credit/dsst-credit
+         https://www.psu.edu/admission/undergraduate/credit/clep-credits
+    4  www.psu.edu/admission/undergraduate/how-to-apply
+         https://www.psu.edu/admission/undergraduate/how-to-apply/adult-military-students
+         https://www.psu.edu/admission/undergraduate/how-to-apply/transfer-students
+         https://www.psu.edu/admission/undergraduate/how-to-apply/international-students
+         https://www.psu.edu/admission/undergraduate/how-to-apply/first-year-students
+    3  www.psu.edu/academics/undergraduate
+         https://www.psu.edu/academics/undergraduate/online-learning
+         https://www.psu.edu/academics/undergraduate/honors-programs
+         https://www.psu.edu/academics/undergraduate/majors
+    2  www.psu.edu/academics
+         https://www.psu.edu/academics/graduate
+         https://www.psu.edu/academics/undergraduate
+    2  www.psu.edu/admission
+         https://www.psu.edu/admission/undergraduate
+         https://www.psu.edu/admission/graduate
+    1  www.psu.edu/costs-aid/types-of-aid/loans
+         https://www.psu.edu/costs-aid/types-of-aid/loans/federal-direct-loans/federal-direct-graduate-plus-loan/how-to-apply-for-a-graduate-plus-loan

@@ -1,0 +1,27 @@
+{
+ "source": "Graduate School programs list https://www.stonybrook.edu/grad/academics/programs.html matched to department pages via the www.stonybrook.edu sitemap (the catalog sets Crawl-delay 120 s, so catalog pages are not used) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.stonybrook.edu/business/graduate/mba-programs/general.html",
+  "https://www.stonybrook.edu/business/graduate/mba-programs/finance.html",
+  "https://www.stonybrook.edu/business/graduate/mba-programs/hcm.html",
+  "https://www.stonybrook.edu/business/graduate/mba-programs/innovation.html",
+  "https://www.stonybrook.edu/business/graduate/mba-programs/marketing.html",
+  "https://www.stonybrook.edu/business/graduate/mba-programs/operations.html",
+  "https://www.stonybrook.edu/business/graduate/mba-programs/stem.html",
+  "https://www.stonybrook.edu/business/graduate/ms-programs/accounting-analytics.html",
+  "https://www.stonybrook.edu/business/graduate/ms-programs/business-analytics-intelligence.html",
+  "https://www.stonybrook.edu/business/graduate/ms-programs/finance.html",
+  "https://www.stonybrook.edu/business/graduate/ms-programs/technology-management.html",
+  "https://www.stonybrook.edu/hrm/programs/masters.html",
+  "https://www.stonybrook.edu/higher-education-administration/curriculum/full-time-masters.html",
+  "https://www.stonybrook.edu/socj/graduate/ms-journalism.html",
+  "https://www.stonybrook.edu/socj/graduate/ms-science-communication.html",
+  "https://www.stonybrook.edu/ams/academics/graduate/data-science.html",
+  "https://www.stonybrook.edu/ams/academics/graduate/statistics.html",
+  "https://www.stonybrook.edu/ams/academics/graduate/quantitative-finance.html",
+  "https://www.stonybrook.edu/psychology/graduate/masters-program.html",
+  "https://publichealth.stonybrookmedicine.edu/mph",
+  "https://socialwelfare.stonybrookmedicine.edu/academics/msw"
+ ]
+}

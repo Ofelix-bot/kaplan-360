@@ -1,0 +1,1266 @@
+{
+  "https://msba.nus.edu.sg/about/master-of-science-in-business-analytics-msba": {
+    "name": "Master of Science in Business Analytics",
+    "source": "national-university-of-singapore"
+  },
+  "https://www.stat.nus.edu.sg/education/graduate/msc-in-statistics/prospective-students": {
+    "name": "MSc in Statistics",
+    "source": "national-university-of-singapore"
+  },
+  "https://www.stat.nus.edu.sg/education/graduate/msc-in-data-science-for-sustainability/prospective-students": {
+    "name": "MSc in Data Science for Sustainability",
+    "source": "national-university-of-singapore"
+  },
+  "https://www.mpu.edu.mo/esca/en/master_ei.php": {
+    "name": "Master of Science in Environmental Intelligence",
+    "source": "macao-polytechnic-university"
+  },
+  "https://www.mpu.edu.mo/esca/en/master_sti.php": {
+    "name": "Master of Science in Sports Technology and Innovation",
+    "source": "macao-polytechnic-university"
+  },
+  "https://mpusite.mpu.edu.mo/esce/en/master_mba.php": {
+    "name": "Master of Business Administration",
+    "source": "macao-polytechnic-university"
+  },
+  "https://mpusite.mpu.edu.mo/esa/en/master_iarts.php": {
+    "name": "Master of Interdisciplinary Arts",
+    "source": "macao-polytechnic-university"
+  },
+  "https://mpusite.mpu.edu.mo/esce/en/master_fda.php": {
+    "name": "Master of Science in Finance with Data Analytics",
+    "source": "macao-polytechnic-university"
+  },
+  "https://mpusite.mpu.edu.mo/eschs/en/master_mpa.php": {
+    "name": "Master of Public Administration",
+    "source": "macao-polytechnic-university"
+  },
+  "https://mpusite.mpu.edu.mo/eschs/en/master_edcce.php": {
+    "name": "Master of Education (Cultural Communication and Education)",
+    "source": "macao-polytechnic-university"
+  },
+  "https://mpusite.mpu.edu.mo/eslt/en/master_cpti.php": {
+    "name": "Master of Chinese-Portuguese Translation and Interpreting",
+    "source": "macao-polytechnic-university"
+  },
+  "https://www.mpu.edu.mo/esca/en/master_sbdit_2324.php": {
+    "name": "Master of Science in Big Data and Internet of Things",
+    "source": "macao-polytechnic-university"
+  },
+  "https://mpusite.mpu.edu.mo/escsd/en/master_sn_2324.php": {
+    "name": "Master of Science in Nursing",
+    "source": "macao-polytechnic-university"
+  },
+  "https://mpusite.mpu.edu.mo/esce/en/master_bagm_2324.php": {
+    "name": "Master of Business Administration in Gaming Management",
+    "source": "macao-polytechnic-university"
+  },
+  "https://econ.fss.um.edu.mo/master": {
+    "name": "Master of Social Sciences in Economics",
+    "source": "university-of-macau"
+  },
+  "https://mpusite.mpu.edu.mo/escsd/en/master_sspe_2324.php": {
+    "name": "Master of Science in Sports and Physical Education",
+    "source": "macao-polytechnic-university"
+  },
+  "https://iaibs.um.edu.mo/m-s-in-cognitive-neuroscience": {
+    "name": "Master of Science in Cognitive Neuroscience",
+    "source": "university-of-macau"
+  },
+  "https://www.um.edu.mo/fss/psychology/master.html": {
+    "name": "Master of Social Sciences in Clinical Psychology",
+    "source": "university-of-macau"
+  },
+  "https://soc.fss.um.edu.mo/postgraduate-study/master-programme": {
+    "name": "Master of Social Sciences in Criminology and Criminal Justice",
+    "source": "university-of-macau"
+  },
+  "https://stfl.hsu.edu.hk/en/programme-objectives-master-in-translation-business-legal-matbl": {
+    "name": "MA in Translation (Business and Legal)",
+    "source": "hang-seng-university-of-hong-kong"
+  },
+  "https://stfl.hsu.edu.hk/en/programmes/master-of-arts-in-translation-business-and-legal-ma-tbl/programme-objectives": {
+    "name": "Master of Arts in Translation (Business and Legal)",
+    "source": "hang-seng-university-of-hong-kong"
+  },
+  "https://stfl.hsu.edu.hk/en/programmes/master-of-arts-in-translation-computer-aided-translation-ma-tcat/programme-objectives": {
+    "name": "Master of Arts in Translation (Computer-Aided Translation)",
+    "source": "hang-seng-university-of-hong-kong"
+  },
+  "https://www.must.edu.mo/en/fmd/programme/master-of-nursing/study-plan": {
+    "name": "Master of Nursing",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/msb/programme/masters-degree-programme/csom": {
+    "name": "Master of Supply Chain Management",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/msb/programme/masters-degree-programme/msba": {
+    "name": "Master of Science in Business Analytics",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/fmd/programme/master-of-public-health/study-plan": {
+    "name": "Master of Public Health",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/msb/programme/masters-degree-programme/mscm": {
+    "name": "Master of Supply Chain Management",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/fhtm/programme/masters-degree-programme/study-plan": {
+    "name": "Master of International Tourism Management",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/msb/programme/masters-degree-programme/master-science-finance": {
+    "name": "Master of Science in Finance",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/fc/programme/masters-degree-programme/master-of-pharmacology": {
+    "name": "Master of Pharmacology in Traditional Chinese Medicine",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/msb/programme/masters-degree-programme/master-management-studies": {
+    "name": "Master of Management Studies",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/uic/programme/masters/foreign-language-studies/study-plan": {
+    "name": "Master of Arts in Foreign Language Studies",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/uic/programme/masters/international-chinese-education/study-plan": {
+    "name": "Master of Teaching Chinese as a Foreign Language",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/msb/programme/masters-degree-programme/master-science-accounting": {
+    "name": "Master of Science in Accounting",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/msb/programme/masters-degree-programme/master-public-administration/study-plan": {
+    "name": "Master of Public Administration",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/fc/programme/masters-degree-programme/master-integrated-chinese-western-clinical-medicine": {
+    "name": "Master of Integrated Traditional Chinese & Western Clinical Medicine",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://www.must.edu.mo/en/msb/programme/masters-degree-programme/master-business-administration/study-plan": {
+    "name": "Master of Business Administration",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://portal.hku.hk/tpg-admissions/programme-details?programme=master-of-science-in-computer-science-(general,-cyber-security,-financial-computing-and-multimedia-computing-streams),-with-delta-x-fellowship-cds&mode=0": {
+    "name": "Master of Science in Computer Science (General, Cyber Security, Financial Computing and Multimedia Computing Streams), with Delta X Fellowship",
+    "source": "university-of-hong-kong"
+  },
+  "https://www.polyu.edu.hk/study/pg/tpg/2027/54072-ft-pt": {
+    "name": "Master of Arts in School and Community Psychology",
+    "source": "hong-kong-polytechnic-university"
+  },
+  "https://www.monash.edu/study/courses/find-a-course/journalism-a6008": {
+    "name": "Master of Journalism",
+    "source": "monash-university"
+  },
+  "https://www.monash.edu/study/courses/find-a-course/international-relations-a6010": {
+    "name": "Master of International Relations",
+    "source": "monash-university"
+  },
+  "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B008": {
+    "name": "Master of Accounting",
+    "source": "university-college-dublin"
+  },
+  "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B209": {
+    "name": "Masters in Common Law",
+    "source": "university-college-dublin"
+  },
+  "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W585": {
+    "name": "Master of Social Science",
+    "source": "university-college-dublin"
+  },
+  "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X065": {
+    "name": "Master of Public Health",
+    "source": "university-college-dublin"
+  },
+  "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z197": {
+    "name": "Master of Fine Arts",
+    "source": "university-college-dublin"
+  },
+  "https://www.manchester.ac.uk/study/masters/courses/list/08175/mclin-res-clinical-research": {
+    "name": "Master of Clinical Research",
+    "source": "university-of-manchester"
+  },
+  "https://www.birmingham.ac.uk/study/postgraduate/subjects/medicine-courses/health-data-science-j-bji-msc": {
+    "name": "Health Data Science (Jinan-Birmingham Joint Institute) MSc",
+    "source": "university-of-birmingham"
+  },
+  "https://www.unsw.edu.au/law-justice/study/postgraduate/international-law": {
+    "name": "Master of Laws",
+    "source": "university-of-new-south-wales"
+  },
+  "https://www.unsw.edu.au/law-justice/study/postgraduate/human-rights-law-and-policy": {
+    "name": "Master of Laws",
+    "source": "university-of-new-south-wales"
+  },
+  "https://www.unsw.edu.au/law-justice/study/postgraduate/criminal-justice-and-criminology": {
+    "name": "Master of Laws",
+    "source": "university-of-new-south-wales"
+  },
+  "https://www.ucc.ie/en/ckx01": {
+    "name": "Master of Dental Public Health",
+    "source": "university-college-cork"
+  },
+  "https://www.brookes.ac.uk/courses/postgraduate/digital-media-production": {
+    "name": "MSc Digital Media Production",
+    "source": "oxford-brookes-university"
+  },
+  "https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/mengsc-integrated-circuit-design": {
+    "name": "MEngSc in Integrated Circuit Design",
+    "source": "maynooth-university"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/event-management": {
+    "name": "Master of Science in Event Management",
+    "source": "technological-university-dublin"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/digital-marketing": {
+    "name": "Master of Science in Digital and Content Marketing",
+    "source": "technological-university-dublin"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/hospitality-management": {
+    "name": "Master of Science in Hospitality Management",
+    "source": "technological-university-dublin"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/accounting-international": {
+    "name": "Master of Business Studies in Accounting (International)",
+    "source": "technological-university-dublin"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/human-resource-management": {
+    "name": "Master of Science in Human Resource Management",
+    "source": "technological-university-dublin"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/food-safety-management-pt": {
+    "name": "Master of Science in Sustainable Food Safety Management",
+    "source": "technological-university-dublin"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/food-safety-management-ft": {
+    "name": "Master of Science in Sustainable Food Safety Management",
+    "source": "technological-university-dublin"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/management-tu421-fulltime": {
+    "name": "Master of Science in Management",
+    "source": "technological-university-dublin"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/human-centered-artificial-intelligence-tu471-full-time": {
+    "name": "Master of Science in Computing in Human Centered Artificial Intelligence",
+    "source": "technological-university-dublin"
+  },
+  "https://www.tudublin.ie/study/postgraduate/courses/computing-with-sustainable-cloud-computing-tu437-full-time": {
+    "name": "Master of Science in Computing with Sustainable Cloud Computing",
+    "source": "technological-university-dublin"
+  },
+  "https://bulletin.stanford.edu/programs/FILM-MFA": {
+    "name": "Master of Fine Arts in Documentary Film",
+    "source": "stanford-university"
+  },
+  "https://bulletin.stanford.edu/programs/ARTP-MFA": {
+    "name": "Master of Fine Arts",
+    "source": "stanford-university"
+  },
+  "https://catalog.upenn.edu/graduate/programs/health-care-innovation-mhci": {
+    "name": "Master of Health Care Innovation",
+    "source": "university-of-pennsylvania"
+  },
+  "https://bulletins.nyu.edu/graduate/public-service/programs/urban-planning-mup": {
+    "name": "Master of Urban Planning",
+    "source": "new-york-university"
+  },
+  "https://gradschool.duke.edu/academics/programs-degrees/population-health-sciences-ms": {
+    "name": "Master of Science in Population Health Sciences",
+    "source": "duke-university"
+  },
+  "https://catalog.illinois.edu/graduate/faa/dance-mfa": {
+    "name": "Master of Fine Arts in Dance",
+    "source": "university-of-illinois-at-urbana-champaign"
+  },
+  "https://catalog.illinois.edu/graduate/faa/urban-planning-mup": {
+    "name": "Master of Urban Planning in Urban Planning",
+    "source": "university-of-illinois-at-urbana-champaign"
+  },
+  "https://catalog.illinois.edu/graduate/faa/landscape-architecture-mla": {
+    "name": "Master of Landscape Architecture in Landscape Architecture",
+    "source": "university-of-illinois-at-urbana-champaign"
+  },
+  "https://catalog.illinois.edu/graduate/engineering/computer-science-mcs": {
+    "name": "Master of Computer Science in Computer Science",
+    "source": "university-of-illinois-at-urbana-champaign"
+  },
+  "https://catalog.illinois.edu/graduate/engineering/materials-engineering-meng": {
+    "name": "Master of Engineering in Materials Engineering",
+    "source": "university-of-illinois-at-urbana-champaign"
+  },
+  "https://catalog.illinois.edu/graduate/engineering/mechanical-engineering-meng": {
+    "name": "Master of Engineering in Mechanical Engineering",
+    "source": "university-of-illinois-at-urbana-champaign"
+  },
+  "https://catalog.illinois.edu/graduate/engineering/electrical-computer-engineering-meng": {
+    "name": "Master of Engineering in Electrical & Computer Engineering",
+    "source": "university-of-illinois-at-urbana-champaign"
+  },
+  "https://www.purdue.edu/online/program/ms-in-international-agribusiness": {
+    "name": "Master of Science in Agricultural Economics",
+    "source": "purdue-university"
+  },
+  "https://guide.wisc.edu/graduate/music/music-education-mm": {
+    "name": "Master of Music: Education",
+    "source": "university-of-wisconsin-madison"
+  },
+  "https://www.ucdavis.edu/graduate-programs/nursing-masters-entry-program-nursing": {
+    "name": "Master of Science in Nursing",
+    "source": "university-of-california-davis"
+  },
+  "https://catalogue.uci.edu//thepaulmerageschoolofbusiness/businessanalytics_master": {
+    "name": "Master of Science in Business Analytics",
+    "source": "university-of-california-irvine"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/curriculum-instruction-edci/elementary-middle-school-noncert-med": {
+    "name": "Elementary-Middle School Education, Master of Education (M.Ed.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/community-planning-behavioral-health-cpmb/community-planning-behavioral-health-mcp-mph": {
+    "name": "Community Planning and Behavioral/Community Health, Master of Community Planning and Master of Public Health, (dual degree) (M.C.P. and M.P.H.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/communityplanning-realestatedevelopment-cpdv/communityplanning-realestatedevelopment-mcp-mred": {
+    "name": "Master of Community Planning and Master of Real Estate Development (dual degree) (M.C.P. and M.R.E.D.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/community-planning-environmental-health-cpmi/community-planning-environmental-health-mcp-mph": {
+    "name": "Master of Community Planning and Master of Public Health",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/community-planning-health-administration-cpha/community-planning-health-administration-mcp-mha": {
+    "name": "Community Planning and Health Administration, Master of Community Planning and Master of Health Administration, (dual degree) (M.C.P. and M.H.A.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/historic-preservation-landscape-architecture-hpla/historic-preservation-landscape-architecture-mhp-mla": {
+    "name": "Historic Preservation and Landscape Architecture, Master of Historic Preservation and Master of Landscape Architecture (dual degree), (M.H.P. and M.L.A.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/community-planning-information-management-cpim/community-planning-information-management-mcp-mim": {
+    "name": "Community Planning and Information Management, Master of Community Planning and Master of Information Management (dual degree) (M.C.P. and M.I.M.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/community-planning-historic-preservation-cphp/community-planning-historic-preservation-dual-degree-mcp-mhp": {
+    "name": "Community Planning and Historic Preservation, Master of Community Planning and Master of Historic Preservation (dual degree) (M.C.P. and M.H.P.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/community-planning-health-policy-analysis-cpae/community-planning-health-policy-analysis-mcp-mph": {
+    "name": "Community Planning and Health Policy Analysis and Evaluation, Master of Community Planning and Master of Public Health (dual degree) (M.C.P. and M.P.H.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/community-planning-public-health-practice-policy-cppp/community-planning-public-health-practice-policy-mcp-mph": {
+    "name": "Community Planning and Public Health Practice and Policy, Master of Community Planning and Master of Public Health, (dual degree) (M.C.P. and M.P.H.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/public-policy-sustainable-development-conservation-biology-ppcn/public-policy-sustainable-development-conservation-biology-dual-degree-mpp-ms": {
+    "name": "Public Policy and Sustainable Development & Conservation Biology, Master of Public Policy and Master of Science (dual degree) (M.P.P. and M.S.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/landscape-architecture-community-planning-lacp/landscape-architecture-community-planning-dual-degree-mla-mcp": {
+    "name": "Landscape Architecture and Community Planning, Master of Landscape Architecture and Master of Community Planning (dual degree) (M.L.A. and M.C.P.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://academiccatalog.umd.edu/graduate/programs/business-administration-real-estate-development-mbre/business-administration-real-estate-development-dual-degree-mba-mred": {
+    "name": "Business Administration and Real Estate Development, Master of Business Administration and Master of Real Estate Development (dual degree) (M.B.A. and M.R.E.D.)",
+    "source": "university-of-maryland-college-park"
+  },
+  "https://www.umass.edu/graduate/academics/med-elementary-teacher-education": {
+    "name": "MEd in elementary teacher education",
+    "source": "university-of-massachusetts-amherst"
+  },
+  "https://bulletin.georgetown.edu/programs/project-management-mps": {
+    "name": "Master of Professional Studies in Project Management",
+    "source": "georgetown-university"
+  },
+  "https://bulletin.georgetown.edu/programs/journalism-mps": {
+    "name": "Master of Professional Studies in Journalism",
+    "source": "georgetown-university"
+  },
+  "https://bulletin.georgetown.edu/programs/urban-regional-planning-mps": {
+    "name": "Master of Professional Studies in Urban & Regional Planning",
+    "source": "georgetown-university"
+  },
+  "https://bulletin.georgetown.edu/programs/emergency-disaster-management-mps": {
+    "name": "Master of Professional Studies in Emergency & Disaster Management",
+    "source": "georgetown-university"
+  },
+  "https://bulletin.georgetown.edu/programs/public-relations-corporate-communications-mps": {
+    "name": "Master of Professional Studies in Public Relations and Corporate Communications",
+    "source": "georgetown-university"
+  },
+  "https://graduate.northeastern.edu/programs/mps-analytics-cps": {
+    "name": "Master of Professional Studies in Analytics",
+    "source": "northeastern-university"
+  },
+  "https://graduate.northeastern.edu/programs/mps-applied-logistics/master-of-professional-studies-in-applied-logistics-boston": {
+    "name": "Master of Professional Studies in Applied Logistics",
+    "source": "northeastern-university"
+  },
+  "https://graduate.northeastern.edu/programs/mps-applied-ai/master-of-professional-studies-in-applied-ai-toronto": {
+    "name": "Master of Professional Studies in Applied AI",
+    "source": "northeastern-university"
+  },
+  "https://graduate.northeastern.edu/programs/mps-applied-logistics/master-of-professional-studies-in-applied-logistics-toronto": {
+    "name": "Master of Professional Studies in Applied Logistics",
+    "source": "northeastern-university"
+  },
+  "https://graduate.northeastern.edu/programs/mps-applied-logistics/master-of-professional-studies-in-applied-logistics-online": {
+    "name": "Master of Professional Studies in Applied Logistics",
+    "source": "northeastern-university"
+  },
+  "https://catalogue.uottawa.ca/en/graduate/master-arts-education": {
+    "name": "Master of Arts Education",
+    "source": "university-of-ottawa"
+  },
+  "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/nursing-mn-course": {
+    "name": "Master of Nursing",
+    "source": "university-of-calgary"
+  },
+  "https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/landscape-architecture-mla-course": {
+    "name": "Master of Landscape Architecture",
+    "source": "university-of-calgary"
+  },
+  "https://www.must.edu.mo/en/msb/programme/masters-degree-programme/mae": {
+    "name": "Master of Applied Economics",
+    "source": "macau-university-of-science-and-technology"
+  },
+  "https://rmi.nus.edu.sg/mfe-program": {
+    "name": "Master of Science in Financial Engineering",
+    "source": "national-university-of-singapore"
+  },
+  "https://www.tliap.nus.edu.sg/education": {
+    "name": "Master of Science in Supply Chain Management",
+    "source": "national-university-of-singapore"
+  },
+  "https://prog-crs.hkust.edu.hk/pgprog/2027-28/pgd-ma-sosc": {
+    "name": "Master of Arts in Social Science",
+    "source": "hong-kong-university-of-science-and-technology"
+  },
+  "https://prog-crs.hkust.edu.hk/pgprog/2027-28/pgd-msc-evem": {
+    "name": "Master of Science in Environmental Engineering and Management",
+    "source": "hong-kong-university-of-science-and-technology"
+  },
+  "https://fof.cityu.edu.mo/en/list-15/12": {
+    "name": "Master of Science in Finance",
+    "source": "city-university-of-macau"
+  },
+  "https://iropc.cityu.edu.mo/Application2": {
+    "name": "Master of International Relations and Governance Programme",
+    "source": "city-university-of-macau"
+  },
+  "https://hls.harvard.edu/graduate-program/ll-m-program": {
+    "name": "LL.M. (Master of Laws)",
+    "source": "harvard-university"
+  },
+  "https://extension.harvard.edu/academics/programs/psychology-graduate-program": {
+    "name": "Master of Liberal Arts (ALM) in Extension Studies in the field of Psychology",
+    "source": "harvard-university"
+  },
+  "https://extension.harvard.edu/academics/programs/cybersecurity-graduate-program": {
+    "name": "Master of Liberal Arts (ALM) in Extension Studies in the field of Cybersecurity",
+    "source": "harvard-university"
+  },
+  "https://gradcatalog.ufl.edu/graduate/colleges-departments/business/management/international": {
+    "name": "Master of International Business",
+    "source": "university-of-florida"
+  },
+  "https://gradcatalog.ufl.edu/graduate/colleges-departments/business/finance-insurance-real-estate/real-estate": {
+    "name": "Master of Science in Real Estate",
+    "source": "university-of-florida"
+  },
+  "https://gradcatalog.ufl.edu/graduate/colleges-departments/engineering/engineering-education/applied-data-science": {
+    "name": "Master of Science with a major in Applied Data Science",
+    "source": "university-of-florida"
+  },
+  "https://gradcatalog.ufl.edu/graduate/colleges-departments/business/finance-insurance-real-estate/entrepreneurship": {
+    "name": "Master of Science in Entrepreneurship",
+    "source": "university-of-florida"
+  },
+  "https://gradcatalog.ufl.edu/graduate/colleges-departments/design-construction-planning/construction-management/sustainable": {
+    "name": "Master of Science in Construction Management",
+    "source": "university-of-florida"
+  },
+  "https://gradcatalog.ufl.edu/graduate/colleges-departments/design-construction-planning/urban-regional-planning/urban-analytics": {
+    "name": "Master of Science (M.S.) with a major in Urban Analytics",
+    "source": "university-of-florida"
+  },
+  "https://gradcatalog.ufl.edu/graduate/colleges-departments/public-health-professions/services-research-management-policy/health-administration": {
+    "name": "Master of Health Administration",
+    "source": "university-of-florida"
+  },
+  "https://gradcatalog.ufl.edu/graduate/colleges-departments/health-human-performance/tourism-hospitality-event-management/tourism-hospitality-event-management": {
+    "name": "Master of Science with a major in Tourism, Hospitality and Event Management",
+    "source": "university-of-florida"
+  },
+  "https://www.sas.rochester.edu/lin/graduate/ms-comp-ling.html": {
+    "name": "Master of Science in Computational Linguistics",
+    "source": "university-of-rochester"
+  },
+  "https://www.urmc.rochester.edu/education/graduate/masters-degrees/genetic-counseling.aspx": {
+    "name": "Master of Science in Genetic Counseling",
+    "source": "university-of-rochester"
+  },
+  "https://ghp.ntu.edu.tw/credit/master_degree": {
+    "name": "Master of Science in Global Health",
+    "source": "national-taiwan-university"
+  },
+  "https://gmba.ntu.edu.tw/en/applying/requirements_and_components": {
+    "name": "Global MBA",
+    "source": "national-taiwan-university"
+  },
+  "https://publichealth.cornell.edu": {
+    "name": "Master of Public Health",
+    "source": "cornell-university"
+  },
+  "https://computerscience.emory.edu/graduate-ms/admissions/econ_ai.html": {
+    "name": "Master of Science in Artificial Intelligence and Economics",
+    "source": "emory-university"
+  },
+  "https://www.nursing.emory.edu/degrees-programs/nursing/adult-gerontology-primary-care-nurse-practitioner": {
+    "name": "Master of Science in Nursing (MSN) Adult Gerontology Primary Care",
+    "source": "emory-university"
+  },
+  "https://mot.umn.edu": {
+    "name": "Master of Science in Management of Technology",
+    "source": "university-of-minnesota-twin-cities"
+  },
+  "https://peabody.vanderbilt.edu/academics/masters-programs/education-policy-mpp": {
+    "name": "Master of Public Policy in Education Policy",
+    "source": "vanderbilt-university"
+  },
+  "https://catalog.vt.edu/graduate/degree-programs/information-technology-mit": {
+    "name": "Master of Information Technology",
+    "source": "virginia-polytechnic-institute-and-state-university"
+  },
+  "https://catalog.uic.edu/gcat/colleges-schools/education/youth-dev": {
+    "name": "MEd in Youth Development",
+    "source": "university-of-illinois-at-chicago"
+  },
+  "https://catalog.uic.edu/gcat/colleges-schools/education/early-child-ed": {
+    "name": "Master of Education in Early Childhood Education",
+    "source": "university-of-illinois-at-chicago"
+  },
+  "https://catalog.uic.edu/gcat/colleges-schools/business-administration/aaib": {
+    "name": "Master of Science in Analytics and Artificial Intelligence in Business",
+    "source": "university-of-illinois-at-chicago"
+  },
+  "https://catalog.uic.edu/gcat/colleges-schools/education/urban-higher-education": {
+    "name": "MEd in Urban Higher Education",
+    "source": "university-of-illinois-at-chicago"
+  },
+  "https://catalog.uic.edu/gcat/colleges-schools/education/language-literacies-learning": {
+    "name": "MEd in Language, Literacies, and Learning",
+    "source": "university-of-illinois-at-chicago"
+  },
+  "https://catalog.uic.edu/gcat/colleges-schools/urban-planning-public-affairs/public-policy": {
+    "name": "Master of Public Policy",
+    "source": "university-of-illinois-at-chicago"
+  },
+  "https://catalog.uic.edu/gcat/colleges-schools/business-administration/human-resource-management": {
+    "name": "MS in Human Resource Management",
+    "source": "university-of-illinois-at-chicago"
+  },
+  "https://catalog.uic.edu/gcat/colleges-schools/urban-planning-public-affairs/civic-analytics": {
+    "name": "Master of Science in Civic Analytics",
+    "source": "university-of-illinois-at-chicago"
+  },
+  "https://www.buffalo.edu/grad/programs/data-sciences-and-applications-mps.html": {
+    "name": "Master of Professional Studies in Data Sciences and Applications",
+    "source": "university-at-buffalo-suny"
+  },
+  "https://pps.fisip.unpad.ac.id/magister-administrasi-publik-2": {
+    "name": "Master of Public Administration",
+    "source": "universitas-padjadjaran"
+  },
+  "https://sps.columbia.edu/academics/masters/applied-analytics": {
+    "name": "Master of Science in Applied Analytics",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/sports-management": {
+    "name": "Master of Science in Sports Management",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/actuarial-science": {
+    "name": "Master of Science in Actuarial Science",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/wealth-management": {
+    "name": "Master of Professional Studies in Wealth Management",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/project-management": {
+    "name": "Master of Science in Project Management",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/insurance-management": {
+    "name": "Master of Professional Studies in Insurance Management",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/political-analytics": {
+    "name": "Master of Science in Political Analytics",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/technology-management": {
+    "name": "Master of Science in Technology Management",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/human-capital-management": {
+    "name": "Master of Science in Human Capital Management",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/enterprise-risk-management": {
+    "name": "Master of Science in Enterprise Risk Management",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/construction-administration": {
+    "name": "Master of Science in Construction Administration",
+    "source": "columbia-university"
+  },
+  "https://www.tc.columbia.edu/curriculum-and-teaching/literacy-specialist": {
+    "name": "Master of Arts",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/information-knowledge-strategy-ikns": {
+    "name": "Master of Science in Information & Knowledge Strategy",
+    "source": "columbia-university"
+  },
+  "https://sps.columbia.edu/academics/masters/negotiation-and-conflict-resolution": {
+    "name": "Master of Science in Negotiation and Conflict Resolution",
+    "source": "columbia-university"
+  },
+  "https://tcmp.engin.umich.edu/programs-m-s-e-cem": {
+    "name": "Master of Science in Engineering (M.S.E.) in Construction Engineering and Management (CEM)",
+    "source": "university-of-michigan-ann-arbor"
+  },
+  "https://www.kines.umich.edu/academics/graduate-programs/ms-sport-management": {
+    "name": "Master of Science in Sport Management",
+    "source": "university-of-michigan-ann-arbor"
+  },
+  "https://marsal.umich.edu/academics-admissions/degrees/masters/postsecondary-science-education-0": {
+    "name": "Master of Science in Postsecondary Science Education",
+    "source": "university-of-michigan-ann-arbor"
+  },
+  "https://marsal.umich.edu/academics-admissions/degrees/masters/educational-leadership-and-policy": {
+    "name": "Master of Arts in Educational Leadership and Policy",
+    "source": "university-of-michigan-ann-arbor"
+  },
+  "https://eds.ucsd.edu/graduate/masters/multiple-subject.html": {
+    "name": "Master of Education degree and credential program",
+    "source": "university-of-california-san-diego"
+  },
+  "https://eds.ucsd.edu/graduate/masters/single-subject.html": {
+    "name": "Master of Education",
+    "source": "university-of-california-san-diego"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/taxation": {
+    "name": "Master of Taxation",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/finance-smeal": {
+    "name": "Master of Finance",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/public-policy": {
+    "name": "Master of Public Policy",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/communications": {
+    "name": "Master of Arts in Communications",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/accounting-smeal": {
+    "name": "Master of Accounting in Accounting (M.Acc.)",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/computer-science": {
+    "name": "Master of Science in Computer Science",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/accounting-behrend": {
+    "name": "Master of Professional Accounting",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/accounting-capital": {
+    "name": "Master of Professional Accounting",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/business-analytics": {
+    "name": "Master of Business Analytics",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/project-management": {
+    "name": "Master of Project Management",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/information-systems": {
+    "name": "Master of Science in Information Systems",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/teaching-curriculum": {
+    "name": "Master of Education (M.Ed.)",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/software-engineering": {
+    "name": "Master of Software Engineering",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/leadership-development": {
+    "name": "Master of Leadership Development",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/accounting-great-valley": {
+    "name": "Master of Professional Accounting",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/supply-chain-management": {
+    "name": "Master of Supply Chain Management",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/computer-science-great-valley": {
+    "name": "Master of Computer Science (M.C.S.)",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/business-administration-behrend": {
+    "name": "Master of Business Administration",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/engineering-management-capital": {
+    "name": "Master of Engineering Management",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/quality-manufacturing-management": {
+    "name": "Master of Manufacturing Management",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/global-economic-business-relations": {
+    "name": "Master of Science in Global Economic and Business Relations",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/business-administration-great-valley": {
+    "name": "Master of Business Administration (M.B.A.)",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/business-administration-intercollege": {
+    "name": "Master of Business Administration (M.B.A.)",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/human-resources-employment-relations": {
+    "name": "Master of Science in Human Resources and Employment Relations",
+    "source": "pennsylvania-state-university"
+  },
+  "https://bulletins.psu.edu/graduate/programs/majors/engineering-management-great-valley": {
+    "name": "Master of Engineering Management",
+    "source": "pennsylvania-state-university"
+  },
+  "https://ed.unc.edu/program/school-counseling": {
+    "name": "Master of Education in School Counseling",
+    "source": "university-of-north-carolina-chapel-hill"
+  },
+  "https://ed.unc.edu/program/educational-innovation-technology-and-entrepreneurship": {
+    "name": "Master of Arts in Educational Innovation, Technology, and Entrepreneurship",
+    "source": "university-of-north-carolina-chapel-hill"
+  },
+  "https://degrees.asu.edu/masters-phd/major/ASU00/LSPMGMPM/project-management-mpm": {
+    "name": "Master of Project Management",
+    "source": "arizona-state-university"
+  },
+  "https://degrees.asu.edu/masters-phd/major/ASU00/CSMCOMMMC/mass-communication-mmc": {
+    "name": "Master of Mass Communication",
+    "source": "arizona-state-university"
+  },
+  "https://degrees.asu.edu/masters-phd/major/ASU00/NUHCINNMHI/healthcare-innovation-mhi": {
+    "name": "Master of Health Care Innovation",
+    "source": "arizona-state-university"
+  },
+  "https://degrees.asu.edu/masters-phd/major/ASU00/BADAYMHSM/health-sector-management-mhsm": {
+    "name": "Master of Health Sector Management",
+    "source": "arizona-state-university"
+  },
+  "https://degrees.asu.edu/masters-phd/major/ASU00/NHIHMIHM/international-health-management-mihm": {
+    "name": "Master of International Health Management",
+    "source": "arizona-state-university"
+  },
+  "https://degrees.asu.edu/masters-phd/major/ASU00/TBGLSMGLS/global-leadership-and-strategy-mgls": {
+    "name": "Master of Global Leadership and Strategy",
+    "source": "arizona-state-university"
+  },
+  "https://degrees.asu.edu/masters-phd/major/ASU00/PPNPSMNS/nonprofit-leadership-and-management-mnlm": {
+    "name": "Master of Nonprofit Leadership and Management",
+    "source": "arizona-state-university"
+  },
+  "https://degrees.asu.edu/masters-phd/major/ASU00/PPPSLAMPSL/public-safety-leadership-and-administration-mpsla": {
+    "name": "Master of Public Safety Leadership and Administration",
+    "source": "arizona-state-university"
+  },
+  "https://degrees.asu.edu/masters-phd/major/ASU00/PPPSEMMPSL/public-safety-leadership-and-administration-ems---mobile-integrated-health-care-mpsla": {
+    "name": "Master of Public Safety Leadership and Administration",
+    "source": "arizona-state-university"
+  },
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=TM-MTM-0": {
+    "name": "Master of Technology Management",
+    "source": "university-of-california-santa-barbara"
+  },
+  "https://www.commerce.virginia.edu/ms-mit": {
+    "name": "Master of Science in the Management of Information Technology",
+    "source": "university-of-virginia"
+  },
+  "https://www.icre.pitt.edu/MS_HPEdu/index.html": {
+    "name": "Master of Science in Health Professions Education",
+    "source": "university-of-pittsburgh"
+  },
+  "https://www.socialwork.pitt.edu/academics/masters-degree-social-work-msw": {
+    "name": "Master of Social Work",
+    "source": "university-of-pittsburgh"
+  },
+  "https://gsapp.rutgers.edu/academic-programs/applied-department/cmhc": {
+    "name": "Master of Applied Psychology - Clinical Mental Health Counseling",
+    "source": "rutgers-university-new-brunswick"
+  },
+  "https://asegrad.tufts.edu/program/economics-masters": {
+    "name": "Master of Science in Economics",
+    "source": "tufts-university"
+  },
+  "https://graduatestudies.publichealth.med.miami.edu/academic-programs/masters-degrees/ms-biostatistics-program-plan/index.html": {
+    "name": "Master of Science in Biostatistics",
+    "source": "university-of-miami"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=37": {
+    "name": "Master of Science (MSc)",
+    "source": "western-university"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=55": {
+    "name": "Master of Financial Economics",
+    "source": "western-university"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=42": {
+    "name": "Master of Arts (MA)",
+    "source": "western-university"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=106": {
+    "name": "Master of Nursing (MN)",
+    "source": "western-university"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=117": {
+    "name": "Master of Professional Education (MPEd)",
+    "source": "western-university"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=131": {
+    "name": "Master of Public Administration (MPA)",
+    "source": "western-university"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=139": {
+    "name": "Master of Social Work (MSW)",
+    "source": "western-university"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=272": {
+    "name": "Master of Data Analytics",
+    "source": "western-university"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=263": {
+    "name": "Master of Media in Journalism and Communication",
+    "source": "western-university"
+  },
+  "https://grad.uwo.ca/admissions/program.cfm?p=304": {
+    "name": "Master of Management (MM)",
+    "source": "western-university"
+  },
+  "https://gs.mcmaster.ca/program/ehealth": {
+    "name": "eHealth (MSc)",
+    "source": "mcmaster-university"
+  },
+  "https://gs.mcmaster.ca/program/finance": {
+    "name": "Finance (MFin)",
+    "source": "mcmaster-university"
+  },
+  "https://gs.mcmaster.ca/program/psychotherapy": {
+    "name": "Psychotherapy (MSc)",
+    "source": "mcmaster-university"
+  },
+  "https://gs.mcmaster.ca/program/economic-policy": {
+    "name": "Economic Policy (MA)",
+    "source": "mcmaster-university"
+  },
+  "https://gs.mcmaster.ca/program/public-health": {
+    "name": "Public Health (MPH)",
+    "source": "mcmaster-university"
+  },
+  "https://gs.mcmaster.ca/program/ai-and-analytics": {
+    "name": "Master of Management in AI and Analytics",
+    "source": "mcmaster-university"
+  },
+  "https://gs.mcmaster.ca/program/health-science-education": {
+    "name": "Health Science Education (MSc)",
+    "source": "mcmaster-university"
+  },
+  "https://gs.mcmaster.ca/program/communication-and-new-media": {
+    "name": "Communication and New Media (MA)",
+    "source": "mcmaster-university"
+  },
+  "https://www.dal.ca/study/programs/graduate-professional/nursing-mn.html": {
+    "name": "Master of Nursing",
+    "source": "dalhousie-university"
+  },
+  "https://www.dal.ca/study/programs/graduate-professional/management-mm.html": {
+    "name": "Master of Management",
+    "source": "dalhousie-university"
+  },
+  "https://www.dal.ca/study/programs/graduate-professional/digital-innovation-mdi.html": {
+    "name": "Master of Digital Innovation",
+    "source": "dalhousie-university"
+  },
+  "https://www.dal.ca/study/programs/graduate-professional/development-economics-mde.html": {
+    "name": "Master of Development Economics",
+    "source": "dalhousie-university"
+  },
+  "https://feb.ui.ac.id/en/graduate-program-in-accounting": {
+    "name": "Master of Science in Accounting",
+    "source": "universitas-indonesia"
+  },
+  "https://www.dal.ca/study/programs/graduate-professional/health-administration-mha.html": {
+    "name": "Master of Health Administration",
+    "source": "dalhousie-university"
+  },
+  "https://feb.ui.ac.id/en/graduate-program-in-management": {
+    "name": "Master of Science in Management",
+    "source": "universitas-indonesia"
+  },
+  "https://marketing.cbs.chula.ac.th/en/prospectus/master-in-branding-and-marketing-eng/admission": {
+    "name": "Master in Branding and Marketing",
+    "source": "chulalongkorn-university"
+  },
+  "https://ghrm.nsysu.edu.tw/p/412-1249-83.php?Lang=en": {
+    "name": "Global Human Resource Management English MBA Program",
+    "source": "national-sun-yat-sen-university"
+  },
+  "https://www.uwb.edu/education/graduate": {
+    "name": "Master of Education (M.Ed.)",
+    "source": "university-of-washington"
+  },
+  "https://commlead.uw.edu/academics/mcdm": {
+    "name": "Master of Communication in Digital Media",
+    "source": "university-of-washington"
+  },
+  "https://education.uw.edu/academics/program/u-act": {
+    "name": "Master in Teaching (M.I.T.)",
+    "source": "university-of-washington"
+  },
+  "https://www.genetic-counseling-masters.uw.edu": {
+    "name": "Master of Science in Genetic Counseling",
+    "source": "university-of-washington"
+  },
+  "https://education.uw.edu/academics/program/danforth": {
+    "name": "Master of Education (M.Ed.)",
+    "source": "university-of-washington"
+  },
+  "https://education.uw.edu/academics/program/secondary-teacher-education": {
+    "name": "Master in Teaching (M.I.T.)",
+    "source": "university-of-washington"
+  },
+  "https://education.uw.edu/academics/program/elementary-teacher-education": {
+    "name": "Master in Teaching (M.I.T.)",
+    "source": "university-of-washington"
+  },
+  "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/software-engineering": {
+    "name": "MS in Software Engineering",
+    "source": "purdue-university"
+  },
+  "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/engineering-management": {
+    "name": "Master of Engineering Management",
+    "source": "purdue-university"
+  },
+  "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/business-and-technology": {
+    "name": "Master of Business and Technology",
+    "source": "purdue-university"
+  },
+  "https://www.purdue.edu/academics/ogsps/admissions/gradrequirements/westlafayette/cybersecurity-and-trusted-systems": {
+    "name": "Master of Science in Cybersecurity and Trusted Systems",
+    "source": "purdue-university"
+  },
+  "https://www.cs.usc.edu/academic-programs/masters/data-science": {
+    "name": "Master of Science in Computer Science (Data Science)",
+    "source": "university-of-southern-california"
+  },
+  "https://www.cs.usc.edu/academic-programs/masters/game-development": {
+    "name": "Master of Science in Computer Science (Game Development)",
+    "source": "university-of-southern-california"
+  },
+  "https://www.cs.usc.edu/academic-programs/masters/intelligent-robotics": {
+    "name": "Master of Science in Computer Science (Intelligent Robotics)",
+    "source": "university-of-southern-california"
+  },
+  "https://www.cs.usc.edu/academic-programs/masters/computer-networks": {
+    "name": "Master of Science in Computer Science (Computer Networks)",
+    "source": "university-of-southern-california"
+  },
+  "https://www.cs.usc.edu/academic-programs/masters/software-engineering": {
+    "name": "Master of Science in Computer Science (Software Engineering)",
+    "source": "university-of-southern-california"
+  },
+  "https://www.cs.usc.edu/academic-programs/masters/artificial-intelligence": {
+    "name": "Master of Science in Computer Science (Artificial Intelligence)",
+    "source": "university-of-southern-california"
+  },
+  "https://www.cs.usc.edu/academic-programs/masters/computer-security": {
+    "name": "Master of Science in Computer Science (Computer Security)",
+    "source": "university-of-southern-california"
+  },
+  "https://www.cs.usc.edu/academic-programs/masters/computer-science-general": {
+    "name": "Master of Science in Computer Science",
+    "source": "university-of-southern-california"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/finance": {
+    "name": "Master of Finance",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/marketing": {
+    "name": "Master of Marketing",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/accounting": {
+    "name": "Master of Accounting",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/management": {
+    "name": "Master of Management",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/business-analytics": {
+    "name": "Master of Business Analytics",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/conference-interpreting": {
+    "name": "Master of Conference Interpreting",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/artificial-intelligence": {
+    "name": "Master of Management in Artificial Intelligence",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/financial-accountability": {
+    "name": "Master of Financial Accountability",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/supply-chain-management": {
+    "name": "Master of Supply Chain Management",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/leadership-community-engagement": {
+    "name": "Master of Leadership and Community Engagement (MLCE)",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/real-estate-infrastructure": {
+    "name": "Master of Real Estate & Infrastructure",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/disaster-and-emergency-management": {
+    "name": "Master of Disaster & Emergency Management",
+    "source": "york-university"
+  },
+  "https://futurestudents.yorku.ca/graduate/programs/public-policy-administration-and-law": {
+    "name": "Master of Public Policy, Administration and Law",
+    "source": "york-university"
+  },
+  "https://grad.usask.ca/programs/economics.php": {
+    "name": "Master of Arts (M.A.)",
+    "source": "university-of-saskatchewan"
+  },
+  "https://grad.usask.ca/programs/accounting.php": {
+    "name": "Master of Professional Accounting",
+    "source": "university-of-saskatchewan"
+  },
+  "https://grad.usask.ca/programs/law.php": {
+    "name": "Master of Laws (LL.M.)",
+    "source": "university-of-saskatchewan"
+  },
+  "https://grad.usask.ca/programs/public-administration.php": {
+    "name": "Master of Public Administration",
+    "source": "university-of-saskatchewan"
+  },
+  "https://grad.usask.ca/programs/educational-technology-design.php": {
+    "name": "Master of Education in Educational Technology and Design",
+    "source": "university-of-saskatchewan"
+  },
+  "https://www.uam.es/uam/en/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video": {
+    "name": "Master in Deep Learning for Audio and Visual Artificial Intelligence",
+    "source": "universidad-autonoma-de-madrid"
+  },
+  "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?id=10.24&fmt=detail": {
+    "name": "Master in Formal Methods in Computer Science",
+    "source": "universidad-politecnica-de-madrid"
+  },
+  "https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/statistics.html": {
+    "name": "Master of Science ETH in Statistics",
+    "source": "eth-zurich-swiss-federal-institute-of-technology"
+  },
+  "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/data-science.html": {
+    "name": "Master of Science ETH in Data Science",
+    "source": "eth-zurich-swiss-federal-institute-of-technology"
+  },
+  "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/cyber-security.html": {
+    "name": "Master of Science ETH Zürich – EPF Lausanne in Computer Science Major in Cyber Security",
+    "source": "eth-zurich-swiss-federal-institute-of-technology"
+  },
+  "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html": {
+    "name": "Master of Science ETH in Computer Science",
+    "source": "eth-zurich-swiss-federal-institute-of-technology"
+  },
+  "https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/quantitative-finance.html": {
+    "name": "Master of Science UZH ETH in Quantitative Finance",
+    "source": "eth-zurich-swiss-federal-institute-of-technology"
+  },
+  "https://www.epfl.ch/education/master/programs/sustainable-management-and-technology": {
+    "name": "Master of Science in Sustainable Management and Technology",
+    "source": "epfl"
+  },
+  "https://www.epfl.ch/education/master/programs/management-technology-and-entrepreneurship": {
+    "name": "Master of Science in Management, Technology and Entrepreneurship",
+    "source": "epfl"
+  },
+  "https://dauphine.psl.eu/en/training/masters-degrees/finance/masters-year-1-financial-markets-203": {
+    "name": "Master of Science Financial Markets",
+    "source": "universite-psl"
+  },
+  "https://programmes.polytechnique.edu/en/master-all-msct-programs/economics-data-analytics-and-corporate-finance/economics-data-analytics": {
+    "name": "Economics, Data Analytics and Corporate Finance Master of Science and Technology",
+    "source": "institut-polytechnique-de-paris"
+  },
+  "https://www.som.lmu.de/en/studies/study-offer/master-international-triple-degree/index.html": {
+    "name": "Master of Science in Management - International Triple Degree",
+    "source": "ludwig-maximilians-universitat-munchen"
+  },
+  "https://sciences.sorbonne-universite.fr/en/masters/master-computer-science/qi": {
+    "name": "Master of Computer Science - Quantum Information (IQ)",
+    "source": "sorbonne-university"
+  },
+  "https://sciences.sorbonne-universite.fr/en/study/degree-seeking/masters/master-computer-science/digital-international-program-digit": {
+    "name": "Master of Computer Science - DIGIT: International program",
+    "source": "sorbonne-university"
+  },
+  "https://www.uni-heidelberg.de/en/study/all-subjects/international-health/international-health-master-continuing-education": {
+    "name": "Master of Science in International Health",
+    "source": "ruprecht-karls-universitat-heidelberg"
+  },
+  "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/management-engineering": {
+    "name": "Master of Science in Management Engineering",
+    "source": "politecnico-di-milano"
+  },
+  "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/cyber-risk-strategy-and-governance": {
+    "name": "Master of Science in Cyber Risk Strategy and Governance",
+    "source": "politecnico-di-milano"
+  },
+  "https://www.sle.kit.edu/english/vorstudium/master-computer-science.php": {
+    "name": "Computer Science M.Sc.",
+    "source": "kit-karlsruhe-institute-of-technology"
+  },
+  "https://www.sle.kit.edu/english/vorstudium/master-computational-data-science.php": {
+    "name": "Computational and Data Science M.Sc.",
+    "source": "kit-karlsruhe-institute-of-technology"
+  },
+  "https://www.uu.nl/en/masters/data-science": {
+    "name": "Research Master's in Data Science",
+    "source": "utrecht-university"
+  },
+  "https://www.uu.nl/en/masters/european-criminal-justice-global-context": {
+    "name": "LLM in European Criminal Justice in a Global Context",
+    "source": "utrecht-university"
+  },
+  "https://masters.au.dk/technologybasedbusinessdevelopment": {
+    "name": "Master of Science in Engineering - Technology-Based Business Development",
+    "source": "aarhus-university"
+  },
+  "https://dmi.unibas.ch/en/studies/computer-science/masters": {
+    "name": "Master of Science in Computer Science",
+    "source": "university-of-basel"
+  },
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1713942448": {
+    "name": "Master of Science in Data Science and Artificial Intelligence",
+    "source": "universitat-hamburg"
+  },
+  "https://www.eeg.uminho.pt/en/study/mestrados/Pages/finance.aspx": {
+    "name": "Master in Finance",
+    "source": "university-of-minho"
+  },
+  "https://www.eeg.uminho.pt/en/study/mestrados/Pages/business-and-management.aspx": {
+    "name": "Master in Business and Management",
+    "source": "university-of-minho"
+  },
+  "https://www.uu.se/en/study/programme/masters-programme-transformative-game-design": {
+    "name": "Master of Arts",
+    "source": "uppsala-university"
+  },
+  "https://vu.nl/en/education/master/marketing": {
+    "name": "MSc Marketing",
+    "source": "vrije-universiteit-amsterdam"
+  },
+  "https://www.ru.nl/en/education/masters/international-business": {
+    "name": "Master of Science, specialisation of Business Administration",
+    "source": "radboud-university"
+  },
+  "https://www.ru.nl/en/education/masters/corporate-finance-and-control": {
+    "name": "Master of Science, specialisation of Economics",
+    "source": "radboud-university"
+  },
+  "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-management": {
+    "name": "Master of Science in Management",
+    "source": "vrije-universiteit-brussel"
+  },
+  "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-international-business": {
+    "name": "Master of Science in International Business",
+    "source": "vrije-universiteit-brussel"
+  },
+  "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-business-engineering-business-technology": {
+    "name": "Master of Science in Business & Technology",
+    "source": "vrije-universiteit-brussel"
+  },
+  "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-communication-studies-journalism-media-in-europe": {
+    "name": "Master of Communication Studies: Journalism and Media in Europe",
+    "source": "vrije-universiteit-brussel"
+  },
+  "https://u-paris.fr/language/en/master-in-public-health-comparative-effectiveness-in-research-2nd-year": {
+    "name": "Master in Public Health – Comparative Effectiveness in Research",
+    "source": "universite-de-paris"
+  },
+  "https://www.uibk.ac.at/en/programmes/ma-media-society-and-communication": {
+    "name": "Master of Arts",
+    "source": "universitat-innsbruck"
+  },
+  "https://www.uni-muenster.de/ZSB/study_guide/zeigefach_en.php?nr=1276": {
+    "name": "Master of Laws (LL.M.)",
+    "source": "westfalische-wilhelms-universitat-munster"
+  },
+  "https://www.ilf-frankfurt.de/llm-international-finance-1": {
+    "name": "Master of Laws in International Banking, Securities and Finance",
+    "source": "goethe-university-frankfurt-am-main"
+  },
+  "https://www.uni-frankfurt.de/en/studium/studiengaenge/quantitative-accounting-economics-finance-marketing-master": {
+    "name": "Master of Science in the fields of Quantitative Accounting, Quantitative Economics, Quantitative Finance, and Quantitative Marketing",
+    "source": "goethe-university-frankfurt-am-main"
+  },
+  "https://portale.unipv.it/it/didattica/corsi-di-laurea/corsi-di-laurea-magistrale/world-politics-and-international-relations": {
+    "name": "Master in World politics and international relations",
+    "source": "universita-degli-studi-di-pavia"
+  },
+  "https://epp.vse.cz": {
+    "name": "Master of Economics and Public Policy",
+    "source": "prague-university-of-economics-and-business"
+  },
+  "https://www.uu.nl/en/masters/economics-and-data-analysis": {
+    "name": "Master's programme in Economics and Data Analysis",
+    "source": "utrecht-university"
+  },
+  "https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme": {
+    "name": "Master's Programme in Data Science",
+    "source": "university-of-helsinki"
+  },
+  "https://www.tuwien.at/en/studies/studies/master-programmes/informatics/data-science": {
+    "name": "Master of Science",
+    "source": "technische-universitat-wien"
+  }
+}

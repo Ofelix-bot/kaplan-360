@@ -1,0 +1,129 @@
+# university-of-groningen https://www.rug.nl
+robots sitemaps: https://www.rug.nl/sitemaps/publicSitemapIndex.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.rug.nl/sitemaps/publicSitemapIndex.xml: 2 children (0 course-like)
+sitemaps read 3 · urls 74666 · master's-looking 2824
+  753  www.rug.nl/fse/education/welcome-packages
+         https://www.rug.nl/fse/education/welcome-packages/msc/msc-ai/arriving/
+         https://www.rug.nl/fse/education/welcome-packages/msc/msc-ai/arriving/do-s-and-don-ts-at-fse
+         https://www.rug.nl/fse/education/welcome-packages/msc/msc-ai/arriving/facilities
+         https://www.rug.nl/fse/education/welcome-packages/msc/msc-ai/arriving/finding-your-way-around-campus
+  254  www.rug.nl/masters
+         https://www.rug.nl/masters/
+         https://www.rug.nl/masters/accountancy-and-controlling/
+         https://www.rug.nl/masters/accountancy-profile-parttime/
+         https://www.rug.nl/masters/accountancy-profile/
+  205  www.rug.nl/rechten/education/english-taught-programmes
+         https://www.rug.nl/rechten/education/english-taught-programmes/aanvraag-annulering-intekening-scriptie
+         https://www.rug.nl/rechten/education/english-taught-programmes/aanvraag-goedkeuring-summer-schools-en-bip
+         https://www.rug.nl/rechten/education/english-taught-programmes/aanvraag-tentamenvoorzieningen
+         https://www.rug.nl/rechten/education/english-taught-programmes/admitted-students
+  129  www.rug.nl/rechten/studiegids/master
+         https://www.rug.nl/rechten/studiegids/master/english-taught-llm/
+         https://www.rug.nl/rechten/studiegids/master/english-taught-llm/advice-and-support/
+         https://www.rug.nl/rechten/studiegids/master/english-taught-llm/advice-and-support/confidential-adviser
+         https://www.rug.nl/rechten/studiegids/master/english-taught-llm/advice-and-support/special-circumstances
+   60  www.rug.nl/research/zernike/education
+         https://www.rug.nl/research/zernike/education/master-programs
+         https://www.rug.nl/research/zernike/education/topmasternanoscience/
+         https://www.rug.nl/research/zernike/education/topmasternanoscience/20-years-of-nanoscience
+         https://www.rug.nl/research/zernike/education/topmasternanoscience/application-and-admission
+   54  www.rug.nl/rechten/studiegids/premaster
+         https://www.rug.nl/rechten/studiegids/premaster/english-taught-pre-llms/
+         https://www.rug.nl/rechten/studiegids/premaster/english-taught-pre-llms/advice-and-support/
+         https://www.rug.nl/rechten/studiegids/premaster/english-taught-pre-llms/advice-and-support/career-support
+         https://www.rug.nl/rechten/studiegids/premaster/english-taught-pre-llms/advice-and-support/confidential-adviser
+   48  www.rug.nl/rechten/onderwijs/praktische-informatie
+         https://www.rug.nl/rechten/onderwijs/praktische-informatie/jouw-studiekeuze/blog-juridische-bestuurskunde/alumnus-mark-beukers-over-het-combineren-van-twee-masters-in-deze-blog-deelt-alumnus-mark-beuke
+         https://www.rug.nl/rechten/onderwijs/praktische-informatie/jouw-studiekeuze/blog-juridische-bestuurskunde/christian-louwerse-over-het-doorstromen-naar-de-master-juridische-bestuurskunde
+         https://www.rug.nl/rechten/onderwijs/praktische-informatie/jouw-studiekeuze/blog-juridische-bestuurskunde/civiel-effect-in-de-master-juridische-bestuurskunde
+         https://www.rug.nl/rechten/onderwijs/praktische-informatie/jouw-studiekeuze/blog-juridische-bestuurskunde/combineren-masters-juridische-bestuurskunde-staats-en-bestuursrecht
+   35  www.rug.nl/rcs/news/events
+         https://www.rug.nl/rcs/news/events/121121masterclass
+         https://www.rug.nl/rcs/news/events/130116masterclass
+         https://www.rug.nl/rcs/news/events/2013/faculty-research-colloquium_-masterclass-by-heidi-campbell
+         https://www.rug.nl/rcs/news/events/2013/master-your-talent
+   31  www.rug.nl/fse/education/admission-and-application
+         https://www.rug.nl/fse/education/admission-and-application/apply-msc/
+         https://www.rug.nl/fse/education/admission-and-application/apply-msc/language-requirements-msc
+         https://www.rug.nl/fse/education/admission-and-application/apply-msc/msc-admissions/application-form
+         https://www.rug.nl/fse/education/admission-and-application/apply-msc/msc-admissions/contact
+   31  www.rug.nl/research/gradschool-behavioural-and-social-sciences/research-master
+         https://www.rug.nl/research/gradschool-behavioural-and-social-sciences/research-master/academic-staff-
+         https://www.rug.nl/research/gradschool-behavioural-and-social-sciences/research-master/blog/
+         https://www.rug.nl/research/gradschool-behavioural-and-social-sciences/research-master/blog/contribution-ethic-as-a-mechanism-of-environmental-spillover-effects
+         https://www.rug.nl/research/gradschool-behavioural-and-social-sciences/research-master/blog/do-you-know-yourself-understanding-identity-fragmentation-in-dissociative-identity-disorder
+   30  www.rug.nl/education/master/international-students
+         https://www.rug.nl/education/master/international-students/broadening-and-expanding/
+         https://www.rug.nl/education/master/international-students/broadening-and-expanding/studying-abroad
+         https://www.rug.nl/education/master/international-students/financial-matters/
+         https://www.rug.nl/education/master/international-students/financial-matters/holland-scholarship/
+   30  www.rug.nl/frw/education/related
+         https://www.rug.nl/frw/education/related/application-master-degree
+         https://www.rug.nl/frw/education/related/human-geography-remastered/
+         https://www.rug.nl/frw/education/related/human-geography-remastered/an-effective-community-driven-sustainable-resource-management-actions-in-simeto-valley-italy
+         https://www.rug.nl/frw/education/related/human-geography-remastered/beyond-neoliberal-housing-in-amsterdam-a-tale-of-tactics-tenure-and-territorialization
+   30  www.rug.nl/fse/education/programmes
+         https://www.rug.nl/fse/education/programmes/honours/htsm/faq/master-study
+         https://www.rug.nl/fse/education/programmes/honours/htsm/faq/top-master
+         https://www.rug.nl/fse/education/programmes/master-programmes
+         https://www.rug.nl/fse/education/programmes/post-master/
+   29  www.rug.nl/education/master/master-tomorrow
+         https://www.rug.nl/education/master/master-tomorrow/blog/
+         https://www.rug.nl/education/master/master-tomorrow/blog/the-unexpected-joys-of-studying-at-leeuwarden
+         https://www.rug.nl/education/master/master-tomorrow/our-stories/
+         https://www.rug.nl/education/master/master-tomorrow/our-stories/aarti
+   28  www.rug.nl/let/studeren-bij-ons/master-neerlandistiek
+         https://www.rug.nl/let/studeren-bij-ons/master-neerlandistiek/beroepsprofiel-aede-de-jong
+         https://www.rug.nl/let/studeren-bij-ons/master-neerlandistiek/beroepsprofiel-douwe-wilts
+         https://www.rug.nl/let/studeren-bij-ons/master-neerlandistiek/het-literaire-bedrijf-is-opener-dan-ik-dacht
+         https://www.rug.nl/let/studeren-bij-ons/master-neerlandistiek/het-vak-nederlands-is-sterk-op-de-beroepspraktijk-gericht
+   27  www.rug.nl/education/master/nederlandse-studenten
+         https://www.rug.nl/education/master/nederlandse-studenten/begeleiding-en-advies/
+         https://www.rug.nl/education/master/nederlandse-studenten/begeleiding-en-advies/career-and-advice
+         https://www.rug.nl/education/master/nederlandse-studenten/begeleiding-en-advies/ssc
+         https://www.rug.nl/education/master/nederlandse-studenten/begeleiding-en-advies/studieadviseurs
+   25  www.rug.nl/cf/campus-fryslan/bloggen
+         https://www.rug.nl/cf/campus-fryslan/bloggen/a-day-in-my-life-as-a-campus-fryslan-master-student
+         https://www.rug.nl/cf/campus-fryslan/bloggen/a-day-in-the-life-llm-governance-law-in-digital-society-22-04-2020
+         https://www.rug.nl/cf/campus-fryslan/bloggen/a-day-in-the-life-of-an-llm-governance-and-law-in-a-digital-society-student-15-10-2020
+         https://www.rug.nl/cf/campus-fryslan/bloggen/alumni-perspectives-annika-s-journey-through-msc-sustainable-entrepreneurship
+   23  www.rug.nl/feb/education/study-programmes
+         https://www.rug.nl/feb/education/study-programmes/master
+         https://www.rug.nl/feb/education/study-programmes/pre-msc/
+         https://www.rug.nl/feb/education/study-programmes/pre-msc/accountancyandcontrolling
+         https://www.rug.nl/feb/education/study-programmes/pre-msc/application-oas
+   23  www.rug.nl/research/bernoulli/calendar
+         https://www.rug.nl/research/bernoulli/calendar/2026/25-08-2026-master-thesis-presentation-matisse-colombon
+         https://www.rug.nl/research/bernoulli/calendar/2026/25-08-2026-master-thesis-presentation-transformer
+         https://www.rug.nl/research/bernoulli/calendar/colloquia/mathematics-colloquia-oriented/2017/danilo-pellin-msc-stochastic-modelling-of-dynamical-systems-in-biology
+         https://www.rug.nl/research/bernoulli/calendar/colloquia/mathematics-colloquia-oriented/2017/extra-colloquium-mathematics-hassan-pazira-msc
+   22  www.rug.nl/education/student-blog
+         https://www.rug.nl/education/student-blog/3-basic-skills-to-master-in-your-first-year-01-09-2020
+         https://www.rug.nl/education/student-blog/7-signs-you-are-a-masters-student-28-02-2020
+         https://www.rug.nl/education/student-blog/a-day-in-the-life-of-a-masters-student-20-11-2019
+         https://www.rug.nl/education/student-blog/a-day-in-the-life-of-a-msc-sustainable-entrepreneurship-student-18-12-2019
+   21  www.rug.nl/business-school/executive-masters/emfc
+         https://www.rug.nl/business-school/executive-masters/emfc/aanmelding-en-toelating
+         https://www.rug.nl/business-school/executive-masters/emfc/carriere
+         https://www.rug.nl/business-school/executive-masters/emfc/contact
+         https://www.rug.nl/business-school/executive-masters/emfc/deelnemers-docenten/alie-heemskerk
+   21  www.rug.nl/let/studeren-bij-ons/irio
+         https://www.rug.nl/let/studeren-bij-ons/irio/admission-and-application-guide-for-the-master-international-relations
+         https://www.rug.nl/let/studeren-bij-ons/irio/admission-and-application-guide-master-international-relations
+         https://www.rug.nl/let/studeren-bij-ons/irio/enrolment-courses-master
+         https://www.rug.nl/let/studeren-bij-ons/irio/pre-master_s-programme
+   17  www.rug.nl/feb/education/future-proof-education
+         https://www.rug.nl/feb/education/future-proof-education/un-sdgs/msc-accountancy-and-controlling
+         https://www.rug.nl/feb/education/future-proof-education/un-sdgs/msc-business-administration-change-management
+         https://www.rug.nl/feb/education/future-proof-education/un-sdgs/msc-business-administration-health
+         https://www.rug.nl/feb/education/future-proof-education/un-sdgs/msc-business-administration-management-accounting-and-control
+   17  www.rug.nl/feb/education/introduction
+         https://www.rug.nl/feb/education/introduction/bsc-msc-dd/
+         https://www.rug.nl/feb/education/introduction/bsc-msc-dd/check-schedule
+         https://www.rug.nl/feb/education/introduction/bsc-msc-dd/connect-to-your-fellow-students
+         https://www.rug.nl/feb/education/introduction/bsc-msc-dd/events/get-started-webinar
+   17  www.rug.nl/let/studeren-bij-ons/master
+         https://www.rug.nl/let/studeren-bij-ons/master/aanmelding-en-inschrijving/
+         https://www.rug.nl/let/studeren-bij-ons/master/aanmelding-en-inschrijving/een-master-na-het-hbo
+         https://www.rug.nl/let/studeren-bij-ons/master/aanmelding-en-inschrijving/language-requirements-ma
+         https://www.rug.nl/let/studeren-bij-ons/master/contactformulier-ma-ambassadeurs

@@ -1,0 +1,57 @@
+# brown-university@1 https://www.brown.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 4798 · master's-looking 122
+   96  www.brown.edu/undergraduate-programs
+         https://www.brown.edu/undergraduate-programs/international-and-public-affairs-ab
+         https://www.brown.edu/undergraduate-programs/economics-ab
+         https://www.brown.edu/undergraduate-programs/data-fluency-certificate
+         https://www.brown.edu/undergraduate-programs/entrepreneurship-certificate
+    3  www.brown.edu/academics/undergraduate
+         https://www.brown.edu/academics/undergraduate/open-curriculum
+         https://www.brown.edu/academics/undergraduate/special-programs
+         https://www.brown.edu/academics/undergraduate/advising
+    2  www.brown.edu/academics
+         https://www.brown.edu/academics/undergraduate
+         https://www.brown.edu/academics/graduate
+    1  www.brown.edu/admission
+         https://www.brown.edu/admission/graduate
+    1  www.brown.edu/news
+         https://www.brown.edu/news/undergraduate-research
+    1  www.brown.edu/undergraduate-students
+         https://www.brown.edu/undergraduate-students
+    1  www.brown.edu/graduate-students
+         https://www.brown.edu/graduate-students
+    1  www.brown.edu/news/2017-10-05
+         https://www.brown.edu/news/2017-10-05/graduate-school
+    1  www.brown.edu/news/2016-03-16
+         https://www.brown.edu/news/2016-03-16/biomasters
+    1  www.brown.edu/news/2020-06-10
+         https://www.brown.edu/news/2020-06-10/open-graduate
+    1  www.brown.edu/news/2024-05-07
+         https://www.brown.edu/news/2024-05-07/graduate-speakers
+    1  www.brown.edu/news/2025-03-13
+         https://www.brown.edu/news/2025-03-13/masters-sustainable-energy
+    1  www.brown.edu/news/2025-05-08
+         https://www.brown.edu/news/2025-05-08/graduate-speakers
+    1  www.brown.edu/news/2025-06-03
+         https://www.brown.edu/news/2025-06-03/graduate-school-dean
+    1  www.brown.edu/news/2025-06-13
+         https://www.brown.edu/news/2025-06-13/masters-degrees
+    1  www.brown.edu/news/2025-09-04
+         https://www.brown.edu/news/2025-09-04/hay-library-undergraduate-research-fellowship
+    1  www.brown.edu/news/2025-09-15
+         https://www.brown.edu/news/2025-09-15/masters-degree-business-analytics
+    1  www.brown.edu/news/2025-11-11
+         https://www.brown.edu/news/2025-11-11/yellow-ribbon-graduate-cisneros
+    1  www.brown.edu/news/2025-12-29
+         https://www.brown.edu/news/2025-12-29/graduate-school-dean-david-lindstrom
+    1  www.brown.edu/experience
+         https://www.brown.edu/experience/undergraduate-programs
+    1  www.brown.edu/news/2026-04-23
+         https://www.brown.edu/news/2026-04-23/graduate-speakers-commencement
+    1  www.brown.edu/news/2026-05-01
+         https://www.brown.edu/news/2026-05-01/yo-yo-ma-brown
+    1  www.brown.edu/news/2026-05-04
+         https://www.brown.edu/news/2026-05-04/online-master-public-policy
+    1  www.brown.edu/undergraduateconcentrations
+         https://www.brown.edu/undergraduateconcentrations/independent-concentration

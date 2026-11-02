@@ -1,0 +1,16 @@
+{
+ "source": "University of Tartu sitemap /en/curriculum/ pages, checked against the study-programmes finder https://ut.ee/en/study-programmes (Master's, English, not online; configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://ut.ee/en/curriculum/actuarial-and-financial-engineering",
+  "https://ut.ee/en/curriculum/computer-science",
+  "https://ut.ee/en/curriculum/software-engineering",
+  "https://ut.ee/en/curriculum/robotics-and-computer-engineering",
+  "https://ut.ee/en/curriculum/innovation-and-technology-management",
+  "https://ut.ee/en/curriculum/entrepreneurship-economic-policymaking",
+  "https://ut.ee/en/curriculum/international-law-and-human-rights",
+  "https://ut.ee/en/curriculum/international-relations-and-regional-studies",
+  "https://ut.ee/en/curriculum/politics-and-governance-digital-age",
+  "https://ut.ee/en/curriculum/wellness-and-spa-service-design-and-management"
+ ]
+}

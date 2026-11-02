@@ -1,0 +1,71 @@
+{
+  "id": "nju",
+  "status": "read",
+  "university": "南京大学",
+  "universityEn": "Nanjing University",
+  "tier": "985",
+  "url": "https://xxgk.nju.edu.cn/_upload/article/files/c3/3d/7db317f4492891731ca2cb93c1f6/6e650824-5b84-48eb-bc7e-a62121fefaa0.pdf",
+  "title": "南京大学2025届毕业生就业质量报告",
+  "year": 2025,
+  "cohort": "2025届",
+  "pages": 8,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": null,
+      "pct": 87.69,
+      "quote": "出国（境）深造院校层次创新高，87.69%被哈佛大学、牛津大学、斯坦福大学、剑桥大学等 QS 排名前 100 的高校录取"
+    }
+  ],
+  "regions": [],
+  "ranked": [
+    {
+      "band": "QS 排名前 100",
+      "cohort": null,
+      "count": null,
+      "pct": 87.69,
+      "quote": "87.69%被哈佛大学、牛津大学、斯坦福大学、剑桥大学等 QS 排名前 100 的高校录取"
+    }
+  ],
+  "destinations": [
+    {
+      "nameZh": "哈佛大学",
+      "nameEn": "Harvard University",
+      "count": null,
+      "group": null,
+      "list": null,
+      "quote": "87.69%被哈佛大学、牛津大学、斯坦福大学、剑桥大学等 QS 排名前 100 的高校录取",
+      "institutionId": "harvard-university"
+    },
+    {
+      "nameZh": "牛津大学",
+      "nameEn": "University of Oxford",
+      "count": null,
+      "group": null,
+      "list": null,
+      "quote": "哈佛大学、牛津大学、斯坦福大学、剑桥大学等 QS 排名前 100 的高校录取",
+      "institutionId": "university-of-oxford"
+    },
+    {
+      "nameZh": "斯坦福大学",
+      "nameEn": "Stanford University",
+      "count": null,
+      "group": null,
+      "list": null,
+      "quote": "牛津大学、斯坦福大学、剑桥大学等 QS 排名前 100 的高校录取",
+      "institutionId": "stanford-university"
+    },
+    {
+      "nameZh": "剑桥大学",
+      "nameEn": "University of Cambridge",
+      "count": null,
+      "group": null,
+      "list": null,
+      "quote": "斯坦福大学、剑桥大学等 QS 排名前 100 的高校录取",
+      "institutionId": "university-of-cambridge"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-21"
+}

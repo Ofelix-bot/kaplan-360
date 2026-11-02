@@ -1,0 +1,71 @@
+# yale-university@2 https://gsas.yale.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 470 · master's-looking 81
+   26  gsas.yale.edu/about/news-announcements
+         http://gsas.yale.edu/about/news-announcements/graduate-school-host-diploma-ceremony-may-19
+         http://gsas.yale.edu/about/news-announcements/yale-university-art-gallery-elementary-school-children-and-yale-graduate-students-learn-together
+         http://gsas.yale.edu/about/news-announcements/graduate-school-hosts-21st-annual-bouchet-conference-graduate-education
+         http://gsas.yale.edu/about/news-announcements/phd-student-awarded-jane-street-graduate-research-fellowship
+    8  gsas.yale.edu/resources/graduate-financial-aid
+         http://gsas.yale.edu/resources/graduate-financial-aid/tax-information
+         http://gsas.yale.edu/resources/graduate-financial-aid/summer-funding-resources-phd-students
+         http://gsas.yale.edu/resources/graduate-financial-aid/student-employment
+         http://gsas.yale.edu/resources/graduate-financial-aid/loans
+    7  gsas.yale.edu/admissions/phdmasters-application-process
+         http://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers
+         http://gsas.yale.edu/admissions/phdmasters-application-process/guidance-international-students
+         http://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements
+         http://gsas.yale.edu/admissions/phdmasters-application-process/tuition-funding-living-costs
+    5  gsas.yale.edu/admissions/phdmasters-application-process/admissions-frequently-asked-questions
+         http://gsas.yale.edu/admissions/phdmasters-application-process/admissions-frequently-asked-questions/application-faqs
+         http://gsas.yale.edu/admissions/phdmasters-application-process/admissions-frequently-asked-questions/admission-decision-faqs
+         http://gsas.yale.edu/admissions/phdmasters-application-process/admissions-frequently-asked-questions/letter-recommendation-faqs
+         http://gsas.yale.edu/admissions/phdmasters-application-process/admissions-frequently-asked-questions/standardized-test-faqs
+    4  gsas.yale.edu/resources
+         http://gsas.yale.edu/resources/office-graduate-student-engagement-development-ogsed
+         http://gsas.yale.edu/resources/graduate-financial-aid
+         http://gsas.yale.edu/resources/graduate-student-life-and-community
+         http://gsas.yale.edu/resources/withdrawing-graduate-school
+    3  gsas.yale.edu/graduate-financial-support-fellowships
+         http://gsas.yale.edu/graduate-financial-support-fellowships/funding-phd-students
+         http://gsas.yale.edu/graduate-financial-support-fellowships/funding-masters-students
+         http://gsas.yale.edu/graduate-financial-support-fellowships/satisfactory-academic-progress-policy-federal-financial-aid-recipients
+    2  gsas.yale.edu/graduate-financial-aid-office
+         http://gsas.yale.edu/graduate-financial-aid-office/tuition
+         http://gsas.yale.edu/graduate-financial-aid-office/graduate-student-tuition-matching-program
+    1  gsas.yale.edu/programs-of-study
+         http://gsas.yale.edu/programs-of-study/summer-undergraduate-research-fellowship-program
+    1  gsas.yale.edu/admissions
+         http://gsas.yale.edu/admissions/phdmasters-application-process
+    1  gsas.yale.edu/resources/mcdougal-graduate-student-services-hub
+         http://gsas.yale.edu/resources/mcdougal-graduate-student-services-hub/health-wellness
+    1  gsas.yale.edu/john-morton-blum-fellowship-graduate-research-american-history-and-culture
+         http://gsas.yale.edu/john-morton-blum-fellowship-graduate-research-american-history-and-culture
+    1  gsas.yale.edu/about/awards-prizes
+         http://gsas.yale.edu/about/awards-prizes/graduate-mentor-awards-faculty
+    1  gsas.yale.edu/resources/external-fellowships-awards
+         http://gsas.yale.edu/resources/external-fellowships-awards/nsf-graduate-research-fellowship-program
+    1  gsas.yale.edu/director-graduate-studies-dgs
+         http://gsas.yale.edu/director-graduate-studies-dgs
+    1  gsas.yale.edu/mcdougal-graduate-student-center
+         http://gsas.yale.edu/mcdougal-graduate-student-center
+    1  gsas.yale.edu/teaching-fellow-program
+         http://gsas.yale.edu/teaching-fellow-program/international-students-and-graduate-teaching
+    1  gsas.yale.edu/office-graduate-student-engagement-and-development-fellows-program
+         http://gsas.yale.edu/office-graduate-student-engagement-and-development-fellows-program
+    1  gsas.yale.edu/edward-alexander-bouchet-graduate-honor-society
+         http://gsas.yale.edu/edward-alexander-bouchet-graduate-honor-society
+    1  gsas.yale.edu/resources/interdisciplinary-academic-opportunities
+         http://gsas.yale.edu/resources/interdisciplinary-academic-opportunities/alternative-en-route-ma-or-ms
+    1  gsas.yale.edu/annual-yale-bouchet-conference-graduate-education
+         http://gsas.yale.edu/annual-yale-bouchet-conference-graduate-education
+    1  gsas.yale.edu/gsas-graduate-student-professional-development
+         http://gsas.yale.edu/gsas-graduate-student-professional-development
+    1  gsas.yale.edu/duke-graduate-summer-academy-2024
+         http://gsas.yale.edu/duke-graduate-summer-academy-2024
+    1  gsas.yale.edu/eli-day-mcdougal-center-alumni-fund-hosts-engaging-event-graduate-students
+         http://gsas.yale.edu/eli-day-mcdougal-center-alumni-fund-hosts-engaging-event-graduate-students
+    1  gsas.yale.edu/december-2024-doctoral-students-graduate-distinction
+         http://gsas.yale.edu/december-2024-doctoral-students-graduate-distinction
+    1  gsas.yale.edu/substantial-funding-increase-benefit-science-and-engineering-graduate-students
+         http://gsas.yale.edu/substantial-funding-increase-benefit-science-and-engineering-graduate-students

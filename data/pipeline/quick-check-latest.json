@@ -1,0 +1,2259 @@
+{
+  "checked": "2026-11-02",
+  "results": [
+    {
+      "url": "https://admissions.hkmu.edu.hk/tpg/",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "hong-kong-metropolitan-university-application-deadline-2026-05-31-2026-autumn-term-admission-for-non-local-applicants-requirin",
+          "field": "date"
+        }
+      ]
+    },
+    {
+      "url": "https://portal.hku.hk/tpg-admissions/events",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-hong-kong-event-2026-10-21-hku-business-school-masters-programmes-see-you-in-asia",
+          "field": "format"
+        },
+        {
+          "id": "university-of-hong-kong-event-2026-10-27-hku-business-school-masters-programmes-admissions-webinars-r",
+          "field": "format"
+        }
+      ]
+    },
+    {
+      "url": "https://search.murdoch.edu.au/?tab=scholarships",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "murdoch-university-scholarship-george-alexander-foundation-scholarship",
+          "field": "value"
+        },
+        {
+          "id": "murdoch-university-scholarship-george-alexander-foundation-scholarship",
+          "field": "eligibility"
+        },
+        {
+          "id": "murdoch-university-scholarship-george-alexander-foundation-scholarship",
+          "field": "deadline"
+        },
+        {
+          "id": "murdoch-university-scholarship-james-tf-chong-memorial-scholarship",
+          "field": "value"
+        },
+        {
+          "id": "murdoch-university-scholarship-james-tf-chong-memorial-scholarship",
+          "field": "eligibility"
+        },
+        {
+          "id": "murdoch-university-scholarship-james-tf-chong-memorial-scholarship",
+          "field": "deadline"
+        }
+      ]
+    },
+    {
+      "url": "https://study.uq.edu.au/events",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-queensland-event-2026-10-21-your-next-academic-journey",
+          "field": "date"
+        },
+        {
+          "id": "university-of-queensland-event-2026-10-22-master-of-teaching-information-webinar",
+          "field": "date"
+        },
+        {
+          "id": "university-of-queensland-event-2026-10-22-mba-information-event",
+          "field": "date"
+        },
+        {
+          "id": "university-of-queensland-event-2026-10-22-mba-information-event",
+          "field": "format"
+        },
+        {
+          "id": "university-of-queensland-event-2026-10-27-master-of-finance-and-investment-management-information-webi",
+          "field": "date"
+        },
+        {
+          "id": "university-of-queensland-event-2026-10-29-master-of-mental-health-information-webinar",
+          "field": "date"
+        }
+      ]
+    },
+    {
+      "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-warwick-event-2026-10-22-wbs-at-qs-discover-master-s-connect-athens-greece",
+          "field": "date"
+        },
+        {
+          "id": "university-of-warwick-event-2026-10-22-wbs-at-qs-discover-master-s-connect-athens-greece",
+          "field": "format"
+        },
+        {
+          "id": "university-of-warwick-event-2026-10-27-postgraduate-admissions-at-warwick",
+          "field": "date"
+        },
+        {
+          "id": "university-of-warwick-event-2026-10-29-postgraduate-admissions-at-warwick",
+          "field": "date"
+        }
+      ]
+    },
+    {
+      "url": "https://www.aston.ac.uk/international/scholarships",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "aston-university-scholarship-international-community-scholarship-postgraduate",
+          "field": "value"
+        },
+        {
+          "id": "aston-university-scholarship-international-community-scholarship-postgraduate",
+          "field": "intake"
+        },
+        {
+          "id": "aston-university-scholarship-sir-adrian-cadbury-chancellor-s-scholarship-10-000",
+          "field": "intake"
+        }
+      ]
+    },
+    {
+      "url": "https://www.aston.ac.uk/open-days/postgraduate",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "aston-university-event-2026-11-28-postgraduate-open-day",
+          "field": "format"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/think-big-development/",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-bristol-scholarship-think-big-development-programme",
+          "field": "value"
+        },
+        {
+          "id": "university-of-bristol-scholarship-think-big-development-programme",
+          "field": "eligibility"
+        },
+        {
+          "id": "university-of-bristol-scholarship-think-big-development-programme",
+          "field": "international"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/think-big-for-researchers/",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-bristol-deadline-think-big-scholarship",
+          "field": "deadline"
+        },
+        {
+          "id": "university-of-bristol-deadline-think-big-scholarship",
+          "field": "intake"
+        },
+        {
+          "id": "university-of-bristol-scholarship-think-big-about-research",
+          "field": "intake"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bristol.ac.uk/students/support/finances/scholarships/great-scholarships/",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-bristol-scholarship-great-scholarships-2026",
+          "field": "deadline"
+        },
+        {
+          "id": "university-of-bristol-scholarship-great-scholarships-2026",
+          "field": "eligibility"
+        },
+        {
+          "id": "university-of-bristol-scholarship-great-scholarships-2026",
+          "field": "intake"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bristol.ac.uk/students/support/finances/scholarships/think-big-scholarships/",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-bristol-deadline-deadline",
+          "field": "deadline"
+        },
+        {
+          "id": "university-of-bristol-deadline-deadline",
+          "field": "eligibility"
+        },
+        {
+          "id": "university-of-bristol-scholarship-think-big-scholarships-for-international-students",
+          "field": "eligibility"
+        },
+        {
+          "id": "university-of-bristol-scholarship-think-big-scholarships-for-international-students",
+          "field": "intake"
+        },
+        {
+          "id": "university-of-bristol-scholarship-think-big-scholarships-for-international-students",
+          "field": "deadline"
+        }
+      ]
+    },
+    {
+      "url": "https://www.bristol.ac.uk/students/support/finances/scholarships/wong-pakshong-bursary/",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-bristol-deadline-how-to-apply",
+          "field": "deadline"
+        },
+        {
+          "id": "university-of-bristol-deadline-how-to-apply",
+          "field": "intake"
+        },
+        {
+          "id": "university-of-bristol-deadline-how-to-apply",
+          "field": "eligibility"
+        },
+        {
+          "id": "university-of-bristol-scholarship-michael-wong-pakshong-bursary",
+          "field": "value"
+        },
+        {
+          "id": "university-of-bristol-scholarship-michael-wong-pakshong-bursary",
+          "field": "intake"
+        },
+        {
+          "id": "university-of-bristol-scholarship-michael-wong-pakshong-bursary",
+          "field": "deadline"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cityu.edu.hk/en/pg/news-and-events/information-session",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "city-university-of-hong-kong-event-2026-10-29-cityuhk-pcll-information-session-2027-28-admission",
+          "field": "date"
+        },
+        {
+          "id": "city-university-of-hong-kong-event-2026-10-29-cityuhk-pcll-information-session-2027-28-admission",
+          "field": "format"
+        }
+      ]
+    },
+    {
+      "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "imperial-college-london-event-2026-10-24-masters-open-day",
+          "field": "date"
+        },
+        {
+          "id": "imperial-college-london-event-2026-12-09-msc-in-management-mim-information-session",
+          "field": "date"
+        },
+        {
+          "id": "imperial-college-london-event-2026-12-18-masters-drop-in-application-clinic",
+          "field": "date"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-communication-in-communicatio",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-data-analytics-in-business-in",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-communication-in-digital-comm",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-communication-in-strategic-co",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-hospitality-touri",
+          "field": "date"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "kaplan-event-2026-10-21-northumbria-university-bachelor-of-science-honours-preview",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-21-northumbria-university-bachelor-of-science-honours-preview",
+          "field": "format"
+        },
+        {
+          "id": "kaplan-event-2026-10-21-monash-university-master-of-counselling",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-21-monash-university-master-of-counselling",
+          "field": "format"
+        },
+        {
+          "id": "kaplan-event-2026-10-21-university-college-dublin-bachelor-of-business-hons",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-21-university-college-dublin-bachelor-of-business-hons",
+          "field": "format"
+        },
+        {
+          "id": "kaplan-event-2026-10-22-birmingham-city-university-it-programmes-preview-talk",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-22-birmingham-city-university-it-programmes-preview-talk",
+          "field": "format"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-communication-in-tou",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-psychology-in-psychological-s",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-communication-science-busines",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-management-single",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-business-law-sing",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-information-technology-in-cyb",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-information-technology-in-gam",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-marketing-single-",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-international-bus",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-human-resources-m",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-accounting-single",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-banking-finance-s",
+          "field": "date"
+        }
+      ]
+    },
+    {
+      "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=2",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "kaplan-event-2026-10-22-northumbria-university-bachelor-of-arts-honours-mass-communi",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-22-university-of-portsmouth-bachelor-of-science-honours-informa",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-22-murdoch-university-master-s-and-graduate-certificate-program",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-information-technology-in-art",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-information-technology-in-art",
+          "field": "format"
+        },
+        {
+          "id": "kaplan-event-2026-10-27-university-of-portsmouth-bachelor-of-arts-honours-in-account",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-27-university-of-portsmouth-bachelor-of-arts-honours-in-account",
+          "field": "format"
+        },
+        {
+          "id": "kaplan-event-2026-10-27-northumbria-university-bachelor-of-arts-honours-in-guidance-",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-27-northumbria-university-bachelor-of-arts-honours-childhood-an",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-27-birmingham-city-university-bachelor-of-laws-honours-top-up",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-10-28-monash-university-bachelor-of-education-in-early-childhood-t",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-11-03-birmingham-city-university-bachelor-of-arts-honours-programm",
+          "field": "date"
+        },
+        {
+          "id": "kaplan-event-2026-11-03-birmingham-city-university-bachelor-of-arts-honours-programm",
+          "field": "format"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/ESRC-Studentships",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "london-school-of-economics-and-political-science-scholarship-scholarship-amount",
+          "field": "value"
+        },
+        {
+          "id": "london-school-of-economics-and-political-science-scholarship-scholarship-amount",
+          "field": "international"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/pgt-application-overview",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "london-school-of-economics-and-political-science-deadline-deadlines",
+          "field": "value"
+        },
+        {
+          "id": "london-school-of-economics-and-political-science-deadline-deadlines",
+          "field": "deadline"
+        },
+        {
+          "id": "london-school-of-economics-and-political-science-deadline-deadlines",
+          "field": "intake"
+        }
+      ]
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/secure/graduate-support-scheme",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "london-school-of-economics-and-political-science-scholarship-graduate-support-scheme",
+          "field": "deadline"
+        },
+        {
+          "id": "london-school-of-economics-and-political-science-scholarship-graduate-support-scheme",
+          "field": "intake"
+        }
+      ]
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/great-scholarships/",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-manchester-scholarship-great-scholarships-2026",
+          "field": "value"
+        },
+        {
+          "id": "university-of-manchester-scholarship-great-scholarships-2026",
+          "field": "deadline"
+        },
+        {
+          "id": "university-of-manchester-scholarship-great-scholarships-2026",
+          "field": "eligibility"
+        },
+        {
+          "id": "university-of-manchester-scholarship-great-scholarships-2026",
+          "field": "international"
+        },
+        {
+          "id": "university-of-manchester-scholarship-great-scholarships-2026",
+          "field": "intake"
+        }
+      ]
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/masters/fees-and-funding/masters-student-funding/equity-merit-scholarships/",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-manchester-deadline-application-timeline-for-2027-28",
+          "field": "intake"
+        },
+        {
+          "id": "university-of-manchester-deadline-application-timeline-for-2027-28",
+          "field": "eligibility"
+        },
+        {
+          "id": "university-of-manchester-scholarship-equity-and-merit-scholarships-for-international-master-s-stu",
+          "field": "deadline"
+        },
+        {
+          "id": "university-of-manchester-scholarship-equity-and-merit-scholarships-for-international-master-s-stu",
+          "field": "intake"
+        }
+      ]
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/international/northumbria-international-events/",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "northumbria-university-at-newcastle-event-2026-10-28-choosing-a-course-at-university",
+          "field": "date"
+        },
+        {
+          "id": "northumbria-university-at-newcastle-event-2026-11-18-applying-to-uk-universities",
+          "field": "date"
+        }
+      ]
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/visit-northumbria/university-open-days/",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "northumbria-university-at-newcastle-event-2026-10-29-postgraduate-lounge",
+          "field": "date"
+        },
+        {
+          "id": "northumbria-university-at-newcastle-event-2026-10-29-postgraduate-lounge",
+          "field": "format"
+        }
+      ]
+    },
+    {
+      "url": "https://www.port.ac.uk/study/open-days",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-portsmouth-event-2026-10-24-undergraduate-open-days-2026",
+          "field": "date"
+        }
+      ]
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/academic-merit-scholarship-central-asia-mongolia",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "rmit-university-scholarship-academic-merit-scholarship-for-central-asia-and-mongolia",
+          "field": "intake"
+        }
+      ]
+    },
+    {
+      "url": "https://www.scholarships.unsw.edu.au/",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-new-south-wales-deadline-westpac-future-leaders-scholarship",
+          "field": "value"
+        },
+        {
+          "id": "university-of-new-south-wales-deadline-westpac-future-leaders-scholarship",
+          "field": "deadline"
+        }
+      ]
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-said",
+      "group": "benefits",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "university-of-southampton-scholarship-sa-d-foundation-scholarships",
+          "field": "intake"
+        }
+      ]
+    },
+    {
+      "url": "https://www.trumba.com/events-calendar/smu/events/smu_lkcsb_mm_infosess",
+      "group": "dates",
+      "status": "changed",
+      "missing": [
+        {
+          "id": "singapore-management-university-event-2026-10-22-smu-coffee-session-in-raffles-quay",
+          "field": "date"
+        },
+        {
+          "id": "singapore-management-university-event-2026-10-22-smu-coffee-session-in-raffles-quay",
+          "field": "format"
+        },
+        {
+          "id": "singapore-management-university-event-2026-10-22-smu-mim-virtual-ama-meet-the-academic-director-admissions-te",
+          "field": "date"
+        },
+        {
+          "id": "singapore-management-university-event-2026-10-22-smu-mim-virtual-ama-meet-the-academic-director-admissions-te",
+          "field": "format"
+        },
+        {
+          "id": "singapore-management-university-event-2026-10-23-smu-master-s-fast-track",
+          "field": "date"
+        },
+        {
+          "id": "singapore-management-university-event-2026-10-23-smu-master-s-fast-track",
+          "field": "format"
+        },
+        {
+          "id": "singapore-management-university-event-2026-10-28-smu-ho-chi-minh-city-coffee-session",
+          "field": "date"
+        },
+        {
+          "id": "singapore-management-university-event-2026-10-28-smu-ho-chi-minh-city-coffee-session",
+          "field": "format"
+        },
+        {
+          "id": "singapore-management-university-event-2026-10-30-smu-seoul-coffee-session",
+          "field": "date"
+        },
+        {
+          "id": "singapore-management-university-event-2026-10-30-smu-seoul-coffee-session",
+          "field": "format"
+        }
+      ]
+    },
+    {
+      "url": "https://ar.hkbu.edu.hk/tpg-admissions/programmes",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://bus.hkbu.edu.hk/news-events/upcoming-events/2026/TPg-Online-Info-Session.html",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://fass.nus.edu.sg/graduate/coursework-programmes/application-process-gradcoursework/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://fytgs.hkust.edu.hk/events/hkust-information-session-mphil-phd-studies-0",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://grs.um.edu.mo/index.php/prospective-students/master-postgraduate-certificate-diploma-programmes",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://grs.um.edu.mo/index.php/prospective-students/master-postgraduate-certificate-diploma-programmes/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://gs.hsu.edu.hk/en/programmes-on-offer/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://law.nus.edu.sg/prospective-students/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://masters.nus.edu.sg/events-all",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://mscadmissions.engg.hku.hk/application/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://mscstrategy.nus.edu.sg/admissions/application-process/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://portal.hku.hk/tpg-admissions/applying",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/about-us/student-financial-support-data",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/education-beyond-borders-postgraduate",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/scholarships-and-student-funding/prospective-postgraduates/funding-for-uk-students/university-of",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/about",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/about/use-con",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/about/what-we-do",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/budgeting-support",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/budgeting-support/blackbullion",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/financial-support",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/financial-support/all-students",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/financial-support/childcare-fund",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/financial-support/disputes-appeals-and-fraudulent-applications",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/financial-support/emergency-fund",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/financial-support/nursing-students",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/financial-support/student-participation-grant",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/alumni-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/e-learning",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/international",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/money-management",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/pre-sessional-english-programme-graduate-scholarsh",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/the-alternative-guide-to-postgraduate-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/the-mastercard-foundation-scholars",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/tuition-fees",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/uk-eu",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/uk-eu/humanities",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/uk-eu/humanities/cross-disciplinary",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/uk-eu/university-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/postgraduate/uk-eu/university-scholarships/college-studentships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/student-funding/sponsorship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-graduate",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-graduate-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-pathway-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-international-excellence-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-international-high-achievers-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://science.hkust.edu.hk/events/hkust-virtual-information-week-postgraduate-studies",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/fees-and-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/fees-and-funding/eu-students",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/additional-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/meet-our-scholarship-winners",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/fees-and-funding/scholarships/postgraduate",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/fees-and-funding/tuition-fees",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/international/singapore",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/postgraduate/deadlines",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/postgraduate/taught/funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://sheffield.ac.uk/postgraduate/visit/open-day",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://warwick.ac.uk/services/dc/jointphd/eutopia_scholarship/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://warwick.ac.uk/services/dc/schols_fund/applicants/competitions/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://warwick.ac.uk/services/dc/schols_fund/applicants/researchcouncilfunding/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://warwick.ac.uk/study/scholarships-and-bursaries/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.aston.ac.uk/aston-business-school/aston-mba/mba-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.aston.ac.uk/international/scholarships/ferguson",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.aston.ac.uk/international/scholarships/women-in-stem",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.aston.ac.uk/postgraduate/webinar-series",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.bcu.ac.uk/international/bcu-in-your-country/singapore",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.bcu.ac.uk/international/bcu-in-your-country/singapore",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.bcu.ac.uk/international/fees-costs-and-scholarships/pg-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/international/countries/singapore.html",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/international/fees-finance/scholarships/application-guidance/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.bristol.ac.uk/students/support/finances/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.cityu.edu.hk/en/pg/taught-postgraduate-programmes/faq",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.comp.nus.edu.sg/graduate/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.gla.ac.uk/international/country/singapore/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.gla.ac.uk/postgraduate/feesandfunding/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.gla.ac.uk/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.gla.ac.uk/scholarships/alumnidiscount/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.gla.ac.uk/scholarships/wideningparticipation/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.gs.cuhk.edu.hk/admissions/how-to-apply",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/about/global/singapore/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/students/fees-and-funding/managing-your-money/living-costs/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/imperial-inspires-scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/living-costs/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/other-funding-sources/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/other-funding-sources/charities-trusts/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/other-funding-sources/disabled-students-allowance-dsa/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/other-funding-sources/external-scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/asean-uk-sage/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/daad-scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/international-scholarship-collaborations/great---imperial-college-london-scholarship/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/presidential-scholarships-black-heritage-students/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/grants-scholarships/sanctuary/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-taught/tuition-fees/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/scholarships-search/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/equivalent-or-lower-qualifications-elq/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/fee-status/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/how-to-pay/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/student-visa-money/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/help-centre/funding-and-scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/research/funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/events/virtual-open-events",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/fees-and-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/fees-and-funding/student-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/fees-and-funding/tuition-fees",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.law.cuhk.edu.hk/app/cuhk-law-postgraduate-information-day-2026/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/international-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/international-scholarships-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/masters-scholarships-bursaries/doc/funding-latin-american-students",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/pg-virtual-open-day",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/pgopenday",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/research-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/scholarship/7/sanctuary-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/scholarship/9/leeds-alumni-discount",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.leeds.ac.uk/scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/access-to-education",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/anniversary-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/Department-or-programme-specific-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/Donor-funded-awards-for-Home-fee-status-students",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/lse-csc-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/LSE-Excellence-Scholarship?entryId=2319c173-7bdc-45d3-9a69-d12fd54340d7&nodeId=e2e64854-5d30-44fa-a289-a5ef76104f3e",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/lse-masters-awards",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/pgt-country-a-c",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/pgt-country-d-k",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/pgt-country-l-q",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/pgt-country-r-z",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.lse.ac.uk/study-at-lse/Graduate/fees-and-funding/programme-related-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/international/country-specific-information/singapore/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/global-futures-scholarship/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/humanitarian-scholarship/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/international/finance-and-scholarships/funding/women-in-stem-scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/masters/fees-and-funding/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/masters/meet-us/masters-information-sessions/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/postgraduate-research/funding/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/international-study-grants",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/achieving-potential-indigenous-support-scholarships-8002",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/Achieving-Potential-Support-Scholarship-8001",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-hardship-scholarship-8003",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-humanitarian-scholarship-7004",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-indigenous-pathway-4060z",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/Monash-Kickstart-Scholarship-8000",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-relocation-scholarship-7002",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/monash-resident-scholarships-7003",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/Sir-John-Monash-Scholarships-for-Distinction-7201",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/Sir-John-Monash-Scholarships-for-Excellence-7200",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.murdoch.edu.au/events",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.murdoch.edu.au/study/international-students/studying-at-murdoch/fees-and-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.must.edu.mo/en/sgs/admission/master",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/about-us/alumni-association/giving-to-northumbria/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/business-services/engage-with-us/degree-apprenticeships/fees-funding-and-the-levy/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/international/northumbria-and-your-country/asia/singapore/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/international-fees-funding/international-masters-fees/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/international-fees-funding/international-masters-funding/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/international-fees-funding/international-money-matters/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/money-matters/online-payments/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/pg-fees-funding/2026-27-alumni-discount/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/pg-fees-funding/bar-scholarship-2627/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/pg-fees-funding/hachette-ma-publishing-scholarship-2627/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/pg-fees-funding/kans-and-kandy-charitable-trust-scholarships-2627/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/pg-fees-funding/mott-macdonald-postgraduate-scholarship-2627/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/pg-fees-funding/the-barden-scholarship-2627/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/pg-fees-funding/the-institute-postgraduate-scholarships-2627/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/pg-fees-funding/the-robson-laidler-scholarship-2627/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/pg-fees-funding/wubbleyou-postgraduate-scholarship-2627/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/graduate/cwadmissionguide",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/INSTEP",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/npgs",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/pga",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ntu.edu.sg/business/admissions/graduate-studies",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/pg/news/now-open-apply-2027-taught-postgraduate-programmes",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/pg/news/polyu-taught-postgraduate-programmes-applications-open-202728",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.polyu.edu.hk/study/pg/taught-postgraduate/subject-based-admission-tpg",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.port.ac.uk/postgraduate-virtual-event",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.port.ac.uk/study/international-students/funding/scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.port.ac.uk/study/international-students/how-to-apply/application-deadlines",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.port.ac.uk/study/international-students/meet-us",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.port.ac.uk/study/international-students/your-country/singapore",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.port.ac.uk/study/masters-and-postgraduate-taught/fees-and-funding/scholarships-and-bursaries",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/academic-merit-scholarship-africa",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/academic-merit-scholarship-southeast-asia",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/australia-awards-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/china-scholarship-council-rmit-joint-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/cobl-academic-merit-scholarships-for-vietnam",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/colfuturo-rmit-university-joint-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/colfuturo-rmit-up-joint-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/college-of-design-and-social-context-student-bursary",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/english-pathway-bursary",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/fast-track-university-pathway-academic-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/fiderh-rmit-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/foundation-academic-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/funed-rmit-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/future-leaders-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/guatefuturo-rmit-university-joint-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/hondufuturo-rmit-university-joint-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/medibank-china-atar-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/medibank-excellence-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/medibank-high-achiever-international-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/medibank-student-success-grant",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/mora-rmit-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/pathway-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/postgraduate-pathway-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/school-of-education-academic-merit-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/scholarships/international-scholarships/sponsorships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.rmit.edu.au/study-with-us/international-students/singapore-enquire",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.scholarships.unsw.edu.au/2027-unsw-equity-scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.scholarships.unsw.edu.au/scholarships/search",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.scholarships.unsw.edu.au/unsw-scholarships-asylum-seekers-and-refugee-students-commencing-term-1-2027",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.smurfitschool.ie/admissions/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/international/meet-us-in-your-country",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/open-days/postgraduate",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/fee-status",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/international/scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/postgraduate",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/postgraduate/scholarships",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/postgraduate/scholarships/inclusive-futures",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/arts-humanities-deans-global",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/business-postgraduate-uk",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/china-excellence",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/engineering-physical-science-global",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/environmental-life-science-deans-global",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/equitable",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/global-excellence",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/great-scholarships-indonesia",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/history-patricia-mather-helen-patterson",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/india-excellence",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/medicine-deans-global",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/nigeria-excellence",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/nihr-insight-programme",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-commonwealth-masters",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-great-nigeria",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/philosophy-david-humphris-norman",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/sanctuary",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/scholarships-great-usa",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/search",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/social-science-deans-global",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/social-science-law-deans-global",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/sparck-ai-scholarship",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/postgraduate-research/funding",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/about-us.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/australian-government-research-training-program.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/domestic.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/international.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/international/bachelors-honours/faculty.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/international/bachelors-honours/general.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/international/postgraduate-coursework/faculty.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/international/postgraduate-coursework/general.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/international/postgraduate-research/faculty.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/international/postgraduate-research/general.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/prizes-awards.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/scholarships/search.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.sydney.edu.au/students/australia-awards.html",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.tcd.ie/e3/education/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.tcd.ie/study/country/singapore/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.tcd.ie/study/international/country/singapore/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.tcd.ie/study/international/events/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.tcd.ie/study/international/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.tcd.ie/study/international/scholarships/index.php",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.tcd.ie/study/international/scholarships/postgraduate/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.tcd.ie/study/postgraduate/scholarships-funding/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.tcd.ie/study/postgraduate/scholarships-funding/index.php",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/meet-us/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/?c2=Graduate",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/bolashaqscholarship/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/funed/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/globalexcellencescholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/governmentofirelandscholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/lpdp/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/thaischolarship/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/scholarships/ucdifyscholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucd.ie/global/study-at-ucd/singapore/",
+      "group": "dates",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/allied-health-courses",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/funding-students-postgraduate-research-courses",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/funding-students-postgraduate-taught-courses",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/funding-students-teacher-training-courses",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/mbbs-bsc-intercalation",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/medicine-mbbs-and-allied-health-courses",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/medicine-mbbs-bsc",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/riba-part-1-and-riba-part-2",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/scholarships-finder",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://www.ucl.ac.uk/scholarships/us-student-financial-aid-ucl",
+      "group": "benefits",
+      "status": "confirmed"
+    },
+    {
+      "url": "https://mpusite.mpu.edu.mo/admission_overseas/en/pg_admission_rules.php",
+      "group": "dates",
+      "status": "unread",
+      "detail": "blocked HTTP 403 (not bypassed)"
+    },
+    {
+      "url": "https://mpusite.mpu.edu.mo/postgraduate/en/master_list.php",
+      "group": "dates",
+      "status": "unread",
+      "detail": "blocked HTTP 403 (not bypassed)"
+    },
+    {
+      "url": "https://www.hkmu.edu.hk/distance-learning-infoday/",
+      "group": "dates",
+      "status": "unread",
+      "detail": "blocked HTTP 403 (not bypassed)"
+    },
+    {
+      "url": "https://www.scholarships.unsw.edu.au/westpac-future-leaders-scholarship",
+      "group": "benefits",
+      "status": "unread",
+      "detail": "blocked HTTP 403 (not bypassed)"
+    },
+    {
+      "url": "https://www.southampton.ac.uk/study/fees-funding/scholarships/ma-holocaust-scholarships",
+      "group": "benefits",
+      "status": "unread",
+      "detail": "blocked HTTP 403 (not bypassed)"
+    },
+    {
+      "url": "https://www.tcd.ie/courses/postgraduate/apply/closing-dates/",
+      "group": "dates",
+      "status": "unread",
+      "detail": "http HTTP 404"
+    },
+    {
+      "url": "https://www.utm.edu.mo/shm/en/programmes/postgraduate-programmes/index.html",
+      "group": "dates",
+      "status": "unread",
+      "detail": "robots robots.txt unreachable at https://www.utm.edu.mo"
+    }
+  ]
+}

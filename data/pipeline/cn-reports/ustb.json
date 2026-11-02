@@ -1,0 +1,65 @@
+{
+  "id": "ustb",
+  "status": "read",
+  "university": "北京科技大学",
+  "universityEn": "University of Science and Technology Beijing",
+  "tier": "211",
+  "url": "http://xxgk.ustb.edu.cn/attach/file/xinxigongkaimulu/jiaoxuezhiliang/biyeshengdeguimo/2024-12-11/6fbb610cef078792a2762ec7c49eaf40.pdf",
+  "title": null,
+  "year": 2023,
+  "cohort": "2023届",
+  "pages": 13,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": 216,
+      "pct": 6.36,
+      "quote": "2 0 2 3 届 共 有 2 1 6 名 本 科 毕 业 生 选 择 出 国（境）深 造，占 本 科 生 总 数 的 6 . 3 6 %"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": null,
+      "count": null,
+      "pct": 29.17,
+      "quote": "选择去英国深造的毕业生人数最多，占出国（境）深造总人数的29.17%"
+    }
+  ],
+  "ranked": [],
+  "destinations": [
+    {
+      "nameZh": "伦敦大学学院",
+      "nameEn": "University College London",
+      "count": null,
+      "group": null,
+      "list": null,
+      "quote": "毕业生出国（境）深造的目标高校包括伦敦大学学院、香港中文大学、南洋理工大学等世界知名高校",
+      "institutionId": "ucl"
+    },
+    {
+      "nameZh": "香港中文大学",
+      "nameEn": "The Chinese University of Hong Kong",
+      "count": null,
+      "group": null,
+      "list": null,
+      "quote": "毕业生出国（境）深造的目标高校包括伦敦大学学院、香港中文大学、南洋理工大学等世界知名高校",
+      "institutionId": "chinese-university-of-hong-kong"
+    },
+    {
+      "nameZh": "南洋理工大学",
+      "nameEn": "Nanyang Technological University",
+      "count": null,
+      "group": null,
+      "list": null,
+      "quote": "毕业生出国（境）深造的目标高校包括伦敦大学学院、香港中文大学、南洋理工大学等世界知名高校",
+      "institutionId": "nanyang-technological-university-singapore"
+    }
+  ],
+  "dropped": [
+    "region 中国香港",
+    "region 美国"
+  ],
+  "checked": "2026-10-21"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "xmu",
+  "status": "read",
+  "university": "厦门大学",
+  "universityEn": "Xiamen University",
+  "tier": "985",
+  "url": "https://gk.xmu.edu.cn/virtual_attach_file.vsb?afc=bUmTE7MzCDUNn2oezvPnz9anmv4L4vyDM47YnNUYM7lPLmC0gihFp2hmCIa0n1yan1ybL1hknzvZLzrVn7UYoRNDMRG4o77sL4vsMzlioR6FM7C4M8nVoznFM467nmL4gjfNQmOeo4xjqYhXptQ0g47aMm70L4lZMz-Jqdhnx&oid=1831381815&tid=1061&nid=35852&e=.pdf",
+  "title": "厦门大学2024届毕业生就业质量年度报告",
+  "year": 2024,
+  "cohort": "2024届",
+  "pages": 37,
+  "abroad": [],
+  "regions": [
+    {
+      "region": "中国香港",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 32,
+      "quote": "2024 届毕业生境外留学主要流向国家/地区为中国香港和英国，分别占境外留学总人数的 32.0%和 24.7%"
+    },
+    {
+      "region": "英国",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 24.7,
+      "quote": "2024 届毕业生境外留学主要流向国家/地区为中国香港和英国，分别占境外留学总人数的 32.0%和 24.7%"
+    },
+    {
+      "region": "美国",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 13,
+      "quote": "其次是美国（13.0%）"
+    },
+    {
+      "region": "新加坡",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 8.6,
+      "quote": "新加坡（8.6%）"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 7.2,
+      "quote": "澳大利亚（7.2%）"
+    },
+    {
+      "region": "法国",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 2.2,
+      "quote": "法国（2.2%）"
+    },
+    {
+      "region": "日本",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 2.2,
+      "quote": "日本（2.2%）"
+    },
+    {
+      "region": "德国",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 2,
+      "quote": "德国（2.0%）"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "《泰晤士报高等教育》2025 年世界大学排名前 100",
+      "cohort": "2024届",
+      "count": 499,
+      "pct": 70,
+      "quote": "《泰晤士报高等教育》2025 年世界大学排名前 100 国（境）外高校中，2024 届毕业生留学人数达 499 人，占境外留学总人数的 70.0%。"
+    }
+  ],
+  "destinations": [
+    {
+      "nameZh": "牛津大学",
+      "nameEn": "University of Oxford",
+      "count": 1,
+      "group": "本科生",
+      "list": "表 2-2 2024 届毕业生赴世界排名前 100 高校深造人数",
+      "quote": "1 牛津大学 University of Oxford 英国 1 1 0 0",
+      "institutionId": "university-of-oxford"
+    },
+    {
+      "nameZh": "加州理工学院",
+      "nameEn": "California Institute of Technology",
+      "count": 1,
+      "group": "硕士生",
+      "list": "表 2-2 2024 届毕业生赴世界排名前 100 高校深造人数",
+      "quote": "7 加州理工学院 California Institute of Technology 美国 1 0 1 0",
+      "institutionId": "california-institute-of-technology"
+    },
+    {
+      "nameZh": "加利福尼亚大学伯克利分校",
+      "nameEn": "University of California, Berkeley",
+      "count": 2,
+      "group": "本科生",
+      "list": "表 2-2 2024 届毕业生赴世界排名前 100 高校深造人数",
+      "quote": "8 加利福尼亚大学 伯克利分校 University of California，Berkeley 美国 2 2 0 0",
+      "institutionId": "university-of-california-berkeley"
+    },
+    {
+      "nameZh": "帝国理工学院",
+      "nameEn": "Imperial College London",
+      "count": 4,
+      "group": "本科生",
+      "list": "表 2-2 2024 届毕业生赴世界排名前 100 高校深造人数",
+      "quote": "9 帝国理工学院 Imperial College London 英国 4 4 0 0",
+      "institutionId": "imperial-college-london"
+    },
+    {
+      "nameZh": "苏黎世联邦理工学院",
+      "nameEn": "Swiss Federal Institute of Technology Zurich",
+      "count": 1,
+      "group": "博士生",
+      "list": "表 2-2 2024 届毕业生赴世界排名前 100 高校深造人数",
+      "quote": "11 苏黎世联邦理工学院 Swiss Federal Institute of Technology Zurich 瑞士 1 0 0 1",
+      "institutionId": "swiss-federal-institute-of-technology-zurich"
+    },
+    {
+      "nameZh": "芝加哥大学",
+      "nameEn": "The University of Chicago",
+      "count": 3,
+      "group": "本科生",
+      "list": "表 2-2 2024 届毕业生赴世界排名前 100 高校深造人数",
+      "quote": "14 芝加哥大学 The University of Chicago 美国 3 3 0 0",
+      "institutionId": "university-of-chicago"
+    },
+    {
+      "nameZh": "宾夕法尼亚大学",
+      "nameEn": "University of Pennsylvania",
+      "count": 1,
+      "group": "本科生",
+      "list": "表 2-2 2024 届毕业生赴世界排名前 100 高校深造人数",
+      "quote": "14 宾夕法尼亚大学 University of Pennsylvania 美国 1 1 0 0",
+      "institutionId": "university-of-pennsylvania"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-21"
+}

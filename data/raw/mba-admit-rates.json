@@ -1,0 +1,30 @@
+{
+  "dataset": "Full-time MBA acceptance rates, fall 2025 entry",
+  "source": "School-reported figures in U.S. News & World Report 2026 Best Business Schools data, tabulated by Poets&Quants",
+  "url": "https://poetsandquants.com/2026/08/02/acceptance-rates-yield-apps-at-the-top-100-u-s-mba-programs-for-2026/",
+  "checked": "2026-11-02",
+  "note": "Full-time programmes only; part-time, evening, weekend, executive and one-year variants are not listed and keep the model's own reading.",
+  "schools": [
+    { "school": "Harvard Business School", "institutionId": "harvard-university", "acceptRate": 0.112, "acceptRatePrev": 0.112, "applications": 9409, "enrolled": 943, "yield": 0.8947, "programmeIds": ["harvard-university-mba"] },
+    { "school": "Stanford GSB", "institutionId": "stanford-university", "acceptRate": 0.068, "acceptRatePrev": 0.068, "applications": 7259, "enrolled": 434, "yield": 0.8785, "programmeIds": ["stanford-university-business-administration-mba"] },
+    { "school": "Wharton", "institutionId": "university-of-pennsylvania", "acceptRate": 0.186, "acceptRatePrev": 0.205, "applications": 7613, "enrolled": 888, "yield": 0.6271, "programmeIds": "university-of-pennsylvania-*-mba" },
+    { "school": "MIT Sloan", "institutionId": "massachusetts-institute-of-technology", "acceptRate": 0.188, "acceptRatePrev": 0.141, "applications": 5654, "enrolled": 450, "yield": 0.4245, "programmeIds": ["massachusetts-institute-of-technology-mit-sloan-traditional-mba-program"] },
+    { "school": "Chicago Booth", "institutionId": "university-of-chicago", "acceptRate": 0.273, "acceptRatePrev": 0.287, "applications": 5876, "enrolled": 695, "yield": 0.4333, "programmeIds": ["university-of-chicago-master-of-business-administration"] },
+    { "school": "Columbia Business School", "institutionId": "columbia-university", "acceptRate": 0.257, "acceptRatePrev": 0.209, "applications": 7123, "enrolled": 804, "yield": 0.4389, "programmeIds": ["columbia-university-mba"] },
+    { "school": "Dartmouth Tuck", "institutionId": "dartmouth-college", "acceptRate": 0.283, "acceptRatePrev": 0.312, "applications": 3267, "enrolled": 304, "yield": 0.329, "programmeIds": ["dartmouth-college-the-tuck-mba-at-dartmouth"] },
+    { "school": "Virginia Darden", "institutionId": "university-of-virginia", "acceptRate": 0.307, "acceptRatePrev": 0.339, "applications": 3452, "enrolled": 361, "yield": 0.3402, "programmeIds": ["university-of-virginia-mba"] },
+    { "school": "NYU Stern", "institutionId": "new-york-university", "acceptRate": 0.236, "acceptRatePrev": 0.251, "applications": 4933, "enrolled": 336, "yield": 0.2892, "programmeIds": ["new-york-university-general-management-mba"] },
+    { "school": "Cornell Johnson", "institutionId": "cornell-university", "acceptRate": 0.293, "acceptRatePrev": 0.281, "applications": 2972, "enrolled": 276, "yield": 0.3169, "programmeIds": ["cornell-university-cornell-mba"] },
+    { "school": "Michigan Ross", "institutionId": "university-of-michigan-ann-arbor", "acceptRate": 0.302, "acceptRatePrev": 0.289, "applications": 3932, "enrolled": 379, "yield": 0.319, "programmeIds": ["university-of-michigan-ann-arbor-mba"] },
+    { "school": "UCLA Anderson", "institutionId": "university-of-california-los-angeles", "acceptRate": 0.31, "acceptRatePrev": 0.307, "applications": 3064, "enrolled": 307, "yield": 0.3232, "programmeIds": ["university-of-california-los-angeles-management-mba"] },
+    { "school": "Texas McCombs", "institutionId": "university-of-texas-at-austin", "acceptRate": 0.327, "acceptRatePrev": 0.379, "applications": 2274, "enrolled": 235, "yield": 0.3159, "programmeIds": ["university-of-texas-at-austin-mba"] },
+    { "school": "Berkeley Haas", "institutionId": "university-of-california-berkeley", "acceptRate": 0.214, "acceptRatePrev": 0.253, "applications": 3442, "enrolled": 273, "yield": 0.3699, "programmeIds": ["university-of-california-berkeley-business-administration-mba", "university-of-california-berkeley-business-administration-law-mba-jd", "university-of-california-berkeley-business-administration-law-mba-jd-hastings", "university-of-california-berkeley-business-administration-health-policy-and-management-mba-mph"] },
+    { "school": "Carnegie Mellon Tepper", "institutionId": "carnegie-mellon-university", "acceptRate": 0.243, "acceptRatePrev": 0.266, "applications": 2056, "enrolled": 144, "yield": 0.288, "programmeIds": ["carnegie-mellon-university-master-of-business-administration-mba"] },
+    { "school": "Yale SOM", "institutionId": "yale-university", "acceptRate": 0.285, "acceptRatePrev": 0.273, "applications": 3793, "enrolled": 367, "yield": 0.3392, "programmeIds": ["yale-university-mba"] },
+    { "school": "WashU Olin", "institutionId": "washington-university-in-st-louis", "acceptRate": 0.178, "acceptRatePrev": 0.183, "applications": 2161, "enrolled": 95, "yield": 0.2468, "programmeIds": ["washington-university-in-st-louis-business-administration-full-time-mba"] },
+    { "school": "Emory Goizueta", "institutionId": "emory-university", "acceptRate": 0.332, "acceptRatePrev": 0.368, "applications": 1356, "enrolled": 128, "yield": 0.2844, "programmeIds": ["emory-university-two-year-mba"] },
+    { "school": "USC Marshall", "institutionId": "university-of-southern-california", "acceptRate": 0.314, "acceptRatePrev": 0.231, "applications": 1914, "enrolled": 176, "yield": 0.2933, "programmeIds": ["university-of-southern-california-mba-ftmba"] },
+    { "school": "Georgetown McDonough", "institutionId": "georgetown-university", "acceptRate": 0.644, "acceptRatePrev": 0.603, "applications": 1617, "enrolled": 248, "yield": 0.238, "programmeIds": ["georgetown-university-business-administration-mba"] },
+    { "school": "Rice Jones", "institutionId": "rice-university", "acceptRate": 0.342, "acceptRatePrev": 0.343, "applications": 1315, "enrolled": 137, "yield": 0.3044, "programmeIds": ["rice-university-mba"] }
+  ]
+}

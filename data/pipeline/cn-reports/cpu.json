@@ -1,0 +1,184 @@
+{
+  "id": "cpu",
+  "status": "read",
+  "university": "中国药科大学",
+  "universityEn": "China Pharmaceutical University",
+  "tier": "211",
+  "url": "https://zjc.cpu.edu.cn/_upload/article/files/7b/02/d1cc577a411dbd7c0578697bd3af/5423fa37-2441-4f1c-826e-292e475a943e.pdf",
+  "title": "中国药科大学2023届毕业生就业质量报告",
+  "year": 2023,
+  "cohort": "2023届",
+  "pages": 27,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": "2023届",
+      "count": null,
+      "pct": 6.65,
+      "quote": "出国（出境） 深造 - 1.01 6.65 -"
+    },
+    {
+      "group": "全体",
+      "cohort": "2022届",
+      "count": 164,
+      "pct": null,
+      "quote": "我校 2023 届毕业生出国（出境）学生人数较 2022 届同比增加 21.34%（164）"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": null,
+      "count": 81,
+      "pct": 40.7,
+      "quote": "1 英国 81 40.70%"
+    },
+    {
+      "region": "美国",
+      "cohort": null,
+      "count": 36,
+      "pct": 18.09,
+      "quote": "2 美国 36 18.09%"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": null,
+      "count": 19,
+      "pct": 9.55,
+      "quote": "3 澳大利亚 19 9.55%"
+    },
+    {
+      "region": "中国香港",
+      "cohort": null,
+      "count": 15,
+      "pct": 7.54,
+      "quote": "4 中国香港 15 7.54%"
+    },
+    {
+      "region": "日本",
+      "cohort": null,
+      "count": 10,
+      "pct": 5.03,
+      "quote": "5 日本 10 5.03%"
+    },
+    {
+      "region": "新加坡",
+      "cohort": null,
+      "count": 10,
+      "pct": 5.03,
+      "quote": "6 新加坡 10 5.03%"
+    },
+    {
+      "region": "瑞典",
+      "cohort": null,
+      "count": 7,
+      "pct": 3.52,
+      "quote": "7 瑞典 7 3.52%"
+    },
+    {
+      "region": "丹麦",
+      "cohort": null,
+      "count": 5,
+      "pct": 2.51,
+      "quote": "8 丹麦 5 2.51%"
+    }
+  ],
+  "ranked": [],
+  "destinations": [
+    {
+      "nameZh": "爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": 15,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "1 爱丁堡大学 15",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "帝国理工学院",
+      "nameEn": "Imperial College London",
+      "count": 11,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "2 帝国理工学院 11",
+      "institutionId": "imperial-college-london"
+    },
+    {
+      "nameZh": "伦敦大学学院",
+      "nameEn": "University College London",
+      "count": 11,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "3 伦敦大学学院 11",
+      "institutionId": "ucl"
+    },
+    {
+      "nameZh": "伦敦国王学院",
+      "nameEn": "King's College London",
+      "count": 10,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "4 伦敦国王学院 10",
+      "institutionId": "king-s-college-london"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": 9,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "5 新加坡国立大学 9",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "密歇根大学",
+      "nameEn": "University of Michigan",
+      "count": 8,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "6 密歇根大学 8",
+      "institutionId": "university-of-michigan"
+    },
+    {
+      "nameZh": "莫纳什大学",
+      "nameEn": "Monash University",
+      "count": 8,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "7 莫纳什大学 8",
+      "institutionId": "monash-university"
+    },
+    {
+      "nameZh": "格拉斯哥大学",
+      "nameEn": "University of Glasgow",
+      "count": 7,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "8 格拉斯哥大学 7",
+      "institutionId": "university-of-glasgow"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "University of Hong Kong",
+      "count": 7,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "9 香港大学 7",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "卡罗林斯卡学院",
+      "nameEn": "Karolinska Institutet",
+      "count": 6,
+      "group": "本科生",
+      "list": "表 1-6 2023 届本科生毕业生出国（出境）深造主要院校",
+      "quote": "10 卡罗林斯卡学院 6",
+      "institutionId": null
+    }
+  ],
+  "dropped": [
+    "abroad 全体",
+    "abroad 本科生"
+  ],
+  "checked": "2026-10-22"
+}

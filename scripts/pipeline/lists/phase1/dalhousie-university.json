@@ -1,0 +1,20 @@
+{
+  "source": "Dalhousie program finder data https://www.dal.ca/study/programs/_jcr_content/root/maincontent/main/programfinder.model.json (graduate-professional pages; online/part-time-for-professionals and research-only left out) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.dal.ca/study/programs/graduate-professional/applied-computer-science-macsc.html",
+    "https://www.dal.ca/study/programs/graduate-professional/computer-science-mcsc.html",
+    "https://www.dal.ca/study/programs/graduate-professional/development-economics-mde.html",
+    "https://www.dal.ca/study/programs/graduate-professional/digital-innovation-mdi.html",
+    "https://www.dal.ca/study/programs/graduate-professional/health-administration-mha.html",
+    "https://www.dal.ca/study/programs/graduate-professional/internetworking-meng.html",
+    "https://www.dal.ca/study/programs/graduate-professional/journalism-mj.html",
+    "https://www.dal.ca/study/programs/graduate-professional/law-llm.html",
+    "https://www.dal.ca/study/programs/graduate-professional/nursing-mn.html",
+    "https://www.dal.ca/study/programs/graduate-professional/economics-ma.html",
+    "https://www.dal.ca/study/programs/graduate-professional/public-administration-mpa.html",
+    "https://www.dal.ca/study/programs/graduate-professional/statistics-msc.html",
+    "https://www.dal.ca/study/programs/graduate-professional/business-administration-mba-corporate-residency.html",
+    "https://www.dal.ca/study/programs/graduate-professional/management-mm.html"
+  ]
+}

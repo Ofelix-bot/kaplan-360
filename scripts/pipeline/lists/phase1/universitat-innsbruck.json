@@ -1,0 +1,15 @@
+{
+ "source": "Innsbruck study programmes list https://www.uibk.ac.at/en/programmes/, in-scope masters with 'Language: English' on the programme page (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.uibk.ac.at/en/programmes/ma-banking-and-finance/",
+  "https://www.uibk.ac.at/en/programmes/ma-computer-science/",
+  "https://www.uibk.ac.at/en/programmes/ma-digital-society-social-innovation-and-global-citizenship/",
+  "https://www.uibk.ac.at/en/programmes/ma-information-systems/",
+  "https://www.uibk.ac.at/en/programmes/ma-international-management/",
+  "https://www.uibk.ac.at/en/programmes/ma-marketing-and-branding/",
+  "https://www.uibk.ac.at/en/programmes/ma-media-society-and-communication/",
+  "https://www.uibk.ac.at/en/programmes/ma-software-engineering/",
+  "https://www.uibk.ac.at/en/programmes/ma-strategic-management-and-innovation/"
+ ]
+}

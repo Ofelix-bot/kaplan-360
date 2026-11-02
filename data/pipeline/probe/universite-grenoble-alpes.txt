@@ -1,0 +1,34 @@
+# universite-grenoble-alpes https://formations.univ-grenoble-alpes.fr
+robots sitemaps: https://formations.univ-grenoble-alpes.fr/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 25653 · master's-looking 10467
+ 9098  formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB
+         https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/diplome-d-etat-d-architecte-dea-KCYUKHBU.html
+         https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-arts-lettres-et-civilisations-IBC5U816.html
+         https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-arts-lettres-et-civilisations-IBC5U816/parcours-litterature-critique-et-creation-IBC63S7V.html
+         https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB/master-arts-lettres-et-civilisations-IBC5U816/parcours-litterature-critique-et-creation-IBC63S7V/ue-culture-contemporaine-et-patrimoine-KOKC7ZO2.html
+ 1356  formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB
+         https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/depublie-diplome-de-sciences-po-grenoble-parcours-gouvernance-regionale-KD63V9KK.html
+         https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/diplome-d-etat-d-architecte-dea-KCYUKHBU.html
+         https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/dpea-design-et-innovation-pour-l-architecture-KCYIVLX3.html
+         https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB/master-biodiversite-ecologie-evolution-IAQKP5IC.html
+    2  formations.univ-grenoble-alpes.fr/fr/catalogue-2021
+         https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/cmi-cursus-master-en-ingenierie-CMI.html
+         https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/master-XB.html
+    2  formations.univ-grenoble-alpes.fr/fr/catalogue-2021/cmi-cursus-master-en-ingenierie-CMI
+         https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/cmi-cursus-master-en-ingenierie-CMI/cmi-biotherapie-bioproduction-et-ingenierie-diagnostique-MIZR7OJ5.html
+         https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/cmi-cursus-master-en-ingenierie-CMI/cmi-ia-ingenierie-et-sante-MIZSQ4VZ.html
+    2  formations.univ-grenoble-alpes.fr/en/index/programs
+         https://formations.univ-grenoble-alpes.fr/en/index/programs/undergraduate.html
+         https://formations.univ-grenoble-alpes.fr/en/index/programs/graduate.html
+    2  formations.univ-grenoble-alpes.fr/en/catalog/programs
+         https://formations.univ-grenoble-alpes.fr/en/catalog/programs/undergraduate.html
+         https://formations.univ-grenoble-alpes.fr/en/catalog/programs/graduate.html
+    2  formations.univ-grenoble-alpes.fr/en/catalog-2021/master-s-degree-XB
+         https://formations.univ-grenoble-alpes.fr/en/catalog-2021/master-s-degree-XB/master-in-marketing-and-sales-IDIV7Q1Y.html
+         https://formations.univ-grenoble-alpes.fr/en/catalog-2021/master-s-degree-XB/master-in-marketing-and-sales-IDIV7Q1Y/advanced-research-in-marketing-2nd-year-IYE6R2CZ.html
+    1  formations.univ-grenoble-alpes.fr/fr/recherche
+         https://formations.univ-grenoble-alpes.fr/fr/recherche/diplome-master.html
+    1  formations.univ-grenoble-alpes.fr/fr/offre-de-formation
+         https://formations.univ-grenoble-alpes.fr/fr/offre-de-formation/master-XB.html
+    1  formations.univ-grenoble-alpes.fr/en/catalog-2021
+         https://formations.univ-grenoble-alpes.fr/en/catalog-2021/master-s-degree-XB.html

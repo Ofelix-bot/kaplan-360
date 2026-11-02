@@ -1,0 +1,105 @@
+=== city-university-of-hong-kong https://www.cityu.edu.hk
+https://www.cityu.edu.hk/sitemap.xml urlset 28977
+http://www.cityu.edu.hk/media/press-release/2007/01/19/korea-week-07-opening-ceremony-cum-briefing-korean-studies-programmes
+http://www.cityu.edu.hk/media/press-release/2007/01/21/reminder-korea-week-07-opening-ceremony-cum-briefing-korean-studies-programmes
+http://www.cityu.edu.hk/media/press-release/2007/02/01/student-ambassador-inauguration-ceremony-and-sharing-session
+http://www.cityu.edu.hk/media/press-release/2007/02/02/chinese-ambassador-highlights-hong-kongs-role-sino-canadian-relations
+http://www.cityu.edu.hk/media/press-release/2007/02/02/cityu-student-ambassadors-programme-nurtures-students-become-all-rounded
+http://www.cityu.edu.hk/media/press-release/2007/03/21/meetmediacityucandidatemasterphilosophyappliedmathematicsmrliangxiangdongwinnerfullscholarshipsmitus
+http://www.cityu.edu.hk/media/press-release/2007/05/29/cityu-embarks-major-initiative-raise-teaching-and-learning-quality
+http://www.cityu.edu.hk/media/press-release/2007/06/15/appreciationmasterpieceschinesepaintingandcalligraphyjintangsongandyuandynastiespalacemuseumlectures
+http://www.cityu.edu.hk/media/press-release/2007/09/06/cityus-school-law-initiates-hong-kongs-first-credit-bearing-mainland-placement-programme-students
+http://www.cityu.edu.hk/media/press-release/2007/09/23/cityus-project-based-outreach-programme-inspires-creativity
+http://www.cityu.edu.hk/media/press-release/2007/10/14/cityu-business-students-excel-young-leadership-development-programme
+http://www.cityu.edu.hk/media/press-release/2007/10/14/global-legal-education-and-awareness-programme
+http://www.cityu.edu.hk/media/press-release/2007/10/15/cityu-launches-global-legal-education-and-awareness-programme
+http://www.cityu.edu.hk/media/press-release/2007/10/30/cityu-gallery-presents-masterpieces-hon-chi-fun
+http://www.cityu.edu.hk/media/press-release/2007/11/10/student-sharing-dj-internship-programme
+http://www.cityu.edu.hk/media/press-release/2008/02/20/cityu-offers-llm-programme-mainland-judges
+http://www.cityu.edu.hk/media/press-release/2008/02/21/cityucollaboratesprcssupremecourtandnationaljudgescollegetoofferllmprogrammemainlandjudges
+http://www.cityu.edu.hk/media/press-release/2008/03/10/cityu-and-unctad-launch-joint-international-dispute-settlement-programme
+http://www.cityu.edu.hk/media/press-release/2008/05/06/cityu-faculty-business-emba-ceo-forum
+http://www.cityu.edu.hk/media/press-release/2008/06/17/student-ambassadors-tackle-mental-health-issue
+http://www.cityu.edu.hk/media/press-release/2008/11/12/cityu-restructures-postgraduate-law-certificate-programme
+http://www.cityu.edu.hk/media/press-release/2009/01/21/inauguration-master-laws-llm-programme-chinese-judges
+http://www.cityu.edu.hk/media/press-release/2009/03/27/generous-donation-supports-cityus-senior-mainland-judge-programme
+http://www.cityu.edu.hk/media/press-release/2009/03/27/generous-donation-supports-cityus-senior-mainland-judge-programme-0
+=== hong-kong-baptist-university https://gs.hkbu.edu.hk
+fail https://gs.hkbu.edu.hk/sitemap.xml HTTP 404
+
+=== lingnan-university-hong-kong https://www.ln.edu.hk
+fail https://www.ln.edu.hk/sitemap.xml HTTP 404
+
+=== education-university-of-hong-kong https://www.eduhk.hk
+C:\Users\12514\Desktop\kaplan_360++v201\scripts\topups\sitemap-urls.ts:9
+  if (robots === "unreachable") throw new Error("robots.txt unreachable");
+                                      ^
+
+Error: robots.txt unreachable
+    at main (C:\Users\12514\Desktop\kaplan_360++v201\scripts\topups\sitemap-urls.ts:9:39)
+
+Node.js v24.21.0
+=== hong-kong-metropolitan-university https://www.hkmu.edu.hk
+fail https://www.hkmu.edu.hk/sitemap.xml HTTP 403 (not bypassed)
+
+=== hong-kong-shue-yan-university https://www.hksyu.edu
+fail https://www.hksyu.edu/sitemap.xml HTTP 404
+
+=== hang-seng-university-of-hong-kong https://www.hsu.edu.hk
+https://www.hsu.edu.hk/sitemap.xml urlset 500
+https://www.hsu.edu.hk/en/academic-programmes/
+https://www.hsu.edu.hk/en/academic-programmes/postgraduate/
+https://www.hsu.edu.hk/en/academic-programmes/undergraduate/
+https://www.hsu.edu.hk/en/academic-programmes/undergraduate/as/
+https://www.hsu.edu.hk/en/academic-programmes/undergraduate/bjc/
+https://www.hsu.edu.hk/en/academic-programmes/undergraduate/cci/
+https://www.hsu.edu.hk/en/academic-programmes/undergraduate/cmct/
+https://www.hsu.edu.hk/en/academic-programmes/undergraduate/eng/
+https://www.hsu.edu.hk/en/campus-life/past-arts-at-hsmc-programmes-and-activities/
+https://www.hsu.edu.hk/en/independent-accreditation-panel-meeting-for-bachelor-of-business-administration-honours-in-economics-programme/
+https://www.hsu.edu.hk/en/independent-accreditation-panel-meeting-for-executive-master-of-science-in-insurance-programme/
+https://www.hsu.edu.hk/en/learning-programme-re-accreditation-for-bachelor-of-management-science-and-information-management-honours-and-bachelor-of-science-honours-in-data-science-and-business-intelligence-completed/
+https://www.hsu.edu.hk/en/master-of-science-in-entrepreneurial-management-information-session-2019-2020/
+https://www.hsu.edu.hk/hk/academic-programmes/
+https://www.hsu.edu.hk/hk/academic-programmes/postgraduate/
+https://www.hsu.edu.hk/hk/academic-programmes/undergraduate/
+https://www.hsu.edu.hk/hk/academic-programmes/undergraduate/as/
+https://www.hsu.edu.hk/hk/academic-programmes/undergraduate/bjc/
+https://www.hsu.edu.hk/hk/academic-programmes/undergraduate/cci/
+https://www.hsu.edu.hk/hk/academic-programmes/undergraduate/cmct/
+https://www.hsu.edu.hk/hk/academic-programmes/undergraduate/eng/
+https://www.hsu.edu.hk/hk/master-of-science-in-entrepreneurial-management-information-session-2019-2020/
+https://www.hsu.edu.hk/wp-content/uploads/2019/01/MSc-EM-Pamphlet-Jan-2019.pdf
+=== university-of-macau https://grad.um.edu.mo
+C:\Users\12514\Desktop\kaplan_360++v201\scripts\topups\sitemap-urls.ts:9
+  if (robots === "unreachable") throw new Error("robots.txt unreachable");
+                                      ^
+
+Error: robots.txt unreachable
+    at main (C:\Users\12514\Desktop\kaplan_360++v201\scripts\topups\sitemap-urls.ts:9:39)
+
+Node.js v24.21.0
+=== macau-university-of-science-and-technology https://www.must.edu.mo
+fail https://www.must.edu.mo/sitemap.xml HTTP 404
+
+=== macao-polytechnic-university https://www.mpu.edu.mo
+C:\Users\12514\Desktop\kaplan_360++v201\scripts\topups\sitemap-urls.ts:9
+  if (robots === "unreachable") throw new Error("robots.txt unreachable");
+                                      ^
+
+Error: robots.txt unreachable
+    at main (C:\Users\12514\Desktop\kaplan_360++v201\scripts\topups\sitemap-urls.ts:9:39)
+
+Node.js v24.21.0
+=== macao-university-of-tourism https://www.utm.edu.mo
+https://www.utm.edu.mo/sitemap urlset 0
+
+=== national-university-of-singapore https://nusgs.nus.edu.sg
+https://nusgs.nus.edu.sg/sitemap_index.xml index 1
+https://nusgs.nus.edu.sg/page-sitemap.xml urlset 66
+https://nusgs.nus.edu.sg/edit-programmes-from-your-faculty/
+https://nusgs.nus.edu.sg/graduate-assistantship-programme-info/
+https://nusgs.nus.edu.sg/graduate-assistantship-programme/
+https://nusgs.nus.edu.sg/important-announcement-on-postgraduate-admissions-at-nus/
+https://nusgs.nus.edu.sg/nus-ki-exchange-programme/
+https://nusgs.nus.edu.sg/programmes/

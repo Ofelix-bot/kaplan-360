@@ -1,0 +1,132 @@
+​
+Netlify Build                                                 
+────────────────────────────────────────────────────────────────
+​
+❯ Version
+  @netlify/build 37.0.0
+​
+❯ Flags
+  accountId: 6ab9aea9b5c516e091324be0
+  dry: false
+​
+❯ Current directory
+  C:\Users\12514\Desktop\kaplan_360++v201
+​
+❯ Config file
+  C:\Users\12514\Desktop\kaplan_360++v201\netlify.toml
+​
+❯ Context
+  production
+​
+❯ Using Next.js Runtime - v5.16.2
+​
+build.command from netlify.toml                               
+────────────────────────────────────────────────────────────────
+​
+$ npm run build
+
+> kaplan-360pp-v201@0.1.0 build
+> next build
+
+▲ Next.js 16.4.2 (Turbopack)
+- Environments: .env.local
+✓ Running next.config.ts took 21ms
+- Cache Components enabled
+- Partial Prefetching enabled
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 1542ms
+  Running TypeScript ...
+  Finished TypeScript in 9.4s ...
+  Collecting page data using 9 workers ...
+  Generating static pages using 9 workers (0/18) ...
+  Generating static pages using 9 workers (4/18) 
+  Generating static pages using 9 workers (8/18) 
+  Generating static pages using 9 workers (13/18) 
+✓ Generating static pages using 9 workers (18/18) in 8.3s
+  Finalizing page optimization ...
+
+Route (app)                            Revalidate  Expire
+┌ ○ /                                          1h      1d
+├ ○ /_not-found
+├   /careers/[slug]
+│ ├ ◐ /careers/[slug]
+│ ├ ○ /careers/data-analyst-scientist          1h      1d
+│ ├ ○ /careers/ai-ml-engineer                  1h      1d
+│ └ ◐ [+8 more paths]
+├ ○ /pathway
+├ ○ /profile
+└ ○ /results
+
+
+○  (Static)             prerendered as static content
+◐  (Partial Prerender)  prerendered as static HTML with dynamic server-streamed content
+
+​
+(build.command completed in 24.5s)
+​
+Functions bundling                                            
+────────────────────────────────────────────────────────────────
+​
+Packaging Functions from .netlify\functions-internal directory:
+ - ___netlify-server-handler\___netlify-server-handler.mjs
+​
+​
+(Functions bundling completed in 1m 2.1s)
+​
+Plugin "@netlify/plugin-nextjs" failed                        
+────────────────────────────────────────────────────────────────
+​
+  Error message
+  Error: Failed publishing static content
+​
+  Plugin details
+  Package:        @netlify/plugin-nextjs
+  Version:        5.16.2
+  Repository:     git+https://github.com/opennextjs/opennextjs-netlify.git
+  npm link:       https://www.npmjs.com/package/@netlify/plugin-nextjs
+  Report issues:  https://github.com/opennextjs/opennextjs-netlify/issues
+​
+  Error location
+  In "onPostBuild" event in "@netlify/plugin-nextjs" from undefined
+​
+  Resolved config
+  build:
+    command: npm run build
+    commandOrigin: config
+    environment:
+      - NODE_VERSION
+      - NEXT_TELEMETRY_DISABLED
+    publish: C:\Users\12514\Desktop\kaplan_360++v201\.next
+    publishOrigin: config
+  headers:
+    - for: /*
+      values:
+        X-Robots-Tag: noindex, nofollow
+    - for: /_next/static/*
+      values:
+        Cache-Control: public, max-age=31536000, immutable
+  headersOrigin: inline
+  plugins:
+    - inputs: {}
+      origin: default
+      package: "@netlify/plugin-nextjs"
+  redirects:
+    - from: /_next/image
+      query:
+        q: :quality
+        url: :url
+        w: :width
+      status: 200
+      to: /.netlify/images?url=:url&w=:width&q=:quality
+    - from: /_ipx/*
+      query:
+        q: :quality
+        url: :url
+        w: :width
+      status: 200
+      to: /.netlify/images?url=:url&w=:width&q=:quality
+    - from: /_next/image
+      status: 200
+      to: /.netlify/images
+  redirectsOrigin: inline

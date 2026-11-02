@@ -1,0 +1,59 @@
+# universiti-teknologi-malaysia https://admission.utm.my
+robots sitemaps: https://admission.utm.my/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://admission.utm.my/wp-sitemap.xml: 9 children (2 course-like)
+sitemaps read 10 · urls 524 · master's-looking 253
+  220  admission.utm.my/programmes
+         https://admission.utm.my/programmes/master-of-philosophy-field-of-research-architecture/
+         https://admission.utm.my/programmes/master-of-philosophy-field-of-research-landscape-architecture/
+         https://admission.utm.my/programmes/master-of-philosophy-field-of-research-urban-and-regional-planning/
+         https://admission.utm.my/programmes/master-of-philosophy-field-of-research-transportation-planning/
+    3  admission.utm.my/level
+         https://admission.utm.my/level/postgraduate-research/
+         https://admission.utm.my/level/postgraduate-coursework/
+         https://admission.utm.my/level/undergraduate/
+    1  admission.utm.my/malaysian-postgraduate-study
+         https://admission.utm.my/malaysian-postgraduate-study/
+    1  admission.utm.my/postgraduate-school-of-biomedical-engineering-health-science
+         https://admission.utm.my/postgraduate-school-of-biomedical-engineering-health-science/
+    1  admission.utm.my/postgraduate-school-of-civil-engineering
+         https://admission.utm.my/postgraduate-school-of-civil-engineering/
+    1  admission.utm.my/postgraduate-school-of-chemical-energy-engineering
+         https://admission.utm.my/postgraduate-school-of-chemical-energy-engineering/
+    1  admission.utm.my/postgraduate-school-of-computing
+         https://admission.utm.my/postgraduate-school-of-computing/
+    1  admission.utm.my/postgraduate-school-of-electrical-engineering
+         https://admission.utm.my/postgraduate-school-of-electrical-engineering/
+    1  admission.utm.my/postgraduate-school-of-education
+         https://admission.utm.my/postgraduate-school-of-education/
+    1  admission.utm.my/international-postgraduate-study
+         https://admission.utm.my/international-postgraduate-study/
+    1  admission.utm.my/int-postgraduate-islamic-civilisation-academic
+         https://admission.utm.my/int-postgraduate-islamic-civilisation-academic/
+    1  admission.utm.my/int-postgraduate-language-academy
+         https://admission.utm.my/int-postgraduate-language-academy/
+    1  admission.utm.my/int-postgraduate-school-of-biomedical-engineering-health-science
+         https://admission.utm.my/int-postgraduate-school-of-biomedical-engineering-health-science/
+    1  admission.utm.my/int-postgraduate-school-of-chemical-energy-engineering
+         https://admission.utm.my/int-postgraduate-school-of-chemical-energy-engineering/
+    1  admission.utm.my/int-postgraduate-school-of-civil-engineering
+         https://admission.utm.my/int-postgraduate-school-of-civil-engineering/
+    1  admission.utm.my/int-postgraduate-school-of-computing
+         https://admission.utm.my/int-postgraduate-school-of-computing/
+    1  admission.utm.my/int-postgraduate-school-of-education
+         https://admission.utm.my/int-postgraduate-school-of-education/
+    1  admission.utm.my/int-postgraduate-school-of-electrical-engineering
+         https://admission.utm.my/int-postgraduate-school-of-electrical-engineering/
+    1  admission.utm.my/int-postgraduate-school-of-hrd-psycohology
+         https://admission.utm.my/int-postgraduate-school-of-hrd-psycohology/
+    1  admission.utm.my/undergraduate-malaysian
+         https://admission.utm.my/undergraduate-malaysian/
+    1  admission.utm.my/undergraduate-international
+         https://admission.utm.my/undergraduate-international/
+    1  admission.utm.my/programme-offered-for-postgraduate
+         https://admission.utm.my/programme-offered-for-postgraduate/
+    1  admission.utm.my/postgraduate-entry-requirements
+         https://admission.utm.my/postgraduate-entry-requirements/
+    1  admission.utm.my/postgraduate-verification-letter
+         https://admission.utm.my/postgraduate-verification-letter/
+    1  admission.utm.my/undergraduate-verification-letter
+         https://admission.utm.my/undergraduate-verification-letter/

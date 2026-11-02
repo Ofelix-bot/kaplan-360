@@ -1,0 +1,9 @@
+{
+  "notes": [
+    "Corrections shown on the site before the next database load (lib/data/results.ts applies them); data/raw/programmes.json already carries them."
+  ],
+  "names": {
+    "hong-kong-polytechnic-university-09003-mcf-mcp-mef-mep-mlf-mlp-mnf-mnp-mmf-mmp-msf-msp-mtf-mtp-mpf-mpp": "Master of Science Scheme in Artificial Intelligence for the Professions",
+    "hong-kong-polytechnic-university-51069-otf-otp-onf-onp-mhf-mhp-msf-msp": "Master of Science in Advanced Occupational Therapy"
+  }
+}

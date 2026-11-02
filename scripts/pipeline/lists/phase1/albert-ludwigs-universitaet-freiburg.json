@@ -1,0 +1,10 @@
+{
+ "source": "Degree programme finder https://uni-freiburg.de/en/studies/degree-programmes/ (list renders by script: browser; programme pages are plain HTML); kept master's whose 'Language of instruction' is English or allows the full degree in English (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://uni-freiburg.de/en/studies/degree-programmes/degree-programme/174/",
+  "https://uni-freiburg.de/en/studies/degree-programmes/degree-programme/181/",
+  "https://uni-freiburg.de/en/studies/degree-programmes/degree-programme/768/",
+  "https://uni-freiburg.de/en/studies/degree-programmes/degree-programme/776/"
+ ]
+}

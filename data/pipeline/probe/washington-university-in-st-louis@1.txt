@@ -1,0 +1,17 @@
+# washington-university-in-st-louis@1 https://wustl.edu
+robots sitemaps: https://washu.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://washu.edu/sitemap_index.xml: 11 children (2 course-like)
+sitemaps read 12 · urls 901 · master's-looking 31
+   23  washu.edu/policies
+         https://washu.edu/policies/alcohol-policy-for-undergraduate-student-events/
+         https://washu.edu/policies/provost-graduate-and-professional-school-policies/
+         https://washu.edu/policies/alcohol-policy-for-graduate-student-events/
+         https://washu.edu/policies/mckelvey-school-of-engineering-graduate-and-professional-school-policies/
+    6  washu.edu/degrees_programs
+         https://washu.edu/degrees_programs/accelerated-masters-degree-program-b-a-m-a/
+         https://washu.edu/degrees_programs/business-administration-flex-mba/
+         https://washu.edu/degrees_programs/business-administration-full-time-mba/
+         https://washu.edu/degrees_programs/executive-mba-mumbai/
+    2  washu.edu/policies_categories
+         https://washu.edu/policies_categories/graduate-professional/
+         https://washu.edu/policies_categories/undergraduate/

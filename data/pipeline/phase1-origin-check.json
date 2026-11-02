@@ -1,0 +1,1506 @@
+[
+ {
+  "id": "massachusetts-institute-of-technology",
+  "o": "https://www.mit.edu",
+  "status": 200,
+  "final": "https://www.mit.edu/",
+  "title": "MIT - Massachusetts Institute of Technology",
+  "ok": true
+ },
+ {
+  "id": "massachusetts-institute-of-technology",
+  "o": "https://oge.mit.edu",
+  "status": 200,
+  "final": "https://oge.mit.edu/",
+  "title": "Office of Graduate Education",
+  "ok": false
+ },
+ {
+  "id": "harvard-university",
+  "o": "https://gsas.harvard.edu",
+  "status": 200,
+  "final": "https://gsas.harvard.edu/",
+  "title": "The Harvard Kenneth C. Griffin Graduate School of Arts and Sciences",
+  "ok": true
+ },
+ {
+  "id": "university-of-pennsylvania",
+  "o": "https://www.upenn.edu",
+  "status": 200,
+  "final": "https://www.upenn.edu/",
+  "title": "University of Pennsylvania",
+  "ok": true
+ },
+ {
+  "id": "stanford-university",
+  "o": "https://gradadmissions.stanford.edu",
+  "status": 200,
+  "final": "https://gradadmissions.stanford.edu/",
+  "title": "Graduate Admissions",
+  "ok": false
+ },
+ {
+  "id": "california-institute-of-technology",
+  "o": "https://www.caltech.edu",
+  "status": 200,
+  "final": "https://www.caltech.edu/",
+  "title": "Home - www.caltech.edu",
+  "ok": true
+ },
+ {
+  "id": "harvard-university",
+  "o": "https://www.harvard.edu",
+  "status": 200,
+  "final": "https://www.harvard.edu/",
+  "title": "Harvard University",
+  "ok": true
+ },
+ {
+  "id": "stanford-university",
+  "o": "https://www.stanford.edu",
+  "status": 200,
+  "final": "https://www.stanford.edu/",
+  "title": "Stanford University",
+  "ok": true
+ },
+ {
+  "id": "cornell-university",
+  "o": "https://gradschool.cornell.edu",
+  "status": 403,
+  "final": "https://gradschool.cornell.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "cornell-university",
+  "o": "https://www.cornell.edu",
+  "status": 200,
+  "final": "https://www.cornell.edu/",
+  "title": "Cornell University",
+  "ok": true
+ },
+ {
+  "id": "university-of-pennsylvania",
+  "o": "https://catalog.upenn.edu",
+  "status": 202,
+  "final": "https://catalog.upenn.edu/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "california-institute-of-technology",
+  "o": "https://www.gradoffice.caltech.edu",
+  "status": 200,
+  "final": "https://www.gradoffice.caltech.edu/",
+  "title": "Graduate Studies - Graduate Studies Office",
+  "ok": false
+ },
+ {
+  "id": "yale-university",
+  "o": "https://gsas.yale.edu",
+  "status": 200,
+  "final": "https://gsas.yale.edu/",
+  "title": "Homepage | Yale Graduate School of Arts and Sciences",
+  "ok": true
+ },
+ {
+  "id": "yale-university",
+  "o": "https://www.yale.edu",
+  "status": 200,
+  "final": "https://www.yale.edu/",
+  "title": "Yale University",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-berkeley",
+  "o": "https://www.berkeley.edu",
+  "status": 200,
+  "final": "https://www.berkeley.edu/",
+  "title": "University of California, Berkeley: Home",
+  "ok": true
+ },
+ {
+  "id": "johns-hopkins-university",
+  "o": "https://www.jhu.edu",
+  "status": 403,
+  "final": "https://www.jhu.edu/",
+  "title": "Attention Required! | Cloudflare",
+  "ok": false
+ },
+ {
+  "id": "university-of-chicago",
+  "o": "https://graduateadmissions.uchicago.edu",
+  "status": "ERR",
+  "final": "",
+  "title": "ENOTFOUND",
+  "ok": false
+ },
+ {
+  "id": "princeton-university",
+  "o": "https://gradschool.princeton.edu",
+  "status": 403,
+  "final": "https://gradschool.princeton.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "princeton-university",
+  "o": "https://www.princeton.edu",
+  "status": 403,
+  "final": "https://www.princeton.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "columbia-university",
+  "o": "https://gsas.columbia.edu",
+  "status": 403,
+  "final": "https://gsas.columbia.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "university-of-california-berkeley",
+  "o": "https://grad.berkeley.edu",
+  "status": 200,
+  "final": "https://grad.berkeley.edu/",
+  "title": "UC Berkeley Graduate Division",
+  "ok": true
+ },
+ {
+  "id": "columbia-university",
+  "o": "https://www.columbia.edu",
+  "status": 403,
+  "final": "https://www.columbia.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "johns-hopkins-university",
+  "o": "https://e-catalogue.jhu.edu",
+  "status": 200,
+  "final": "https://e-catalogue.jhu.edu/",
+  "title": "The Johns Hopkins University | Johns Hopkins University Academic Catalogue",
+  "ok": true
+ },
+ {
+  "id": "university-of-chicago",
+  "o": "https://www.uchicago.edu",
+  "status": 200,
+  "final": "https://www.uchicago.edu/",
+  "title": "The University of Chicago",
+  "ok": true
+ },
+ {
+  "id": "university-of-michigan-ann-arbor",
+  "o": "https://umich.edu",
+  "status": 403,
+  "final": "https://umich.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "northwestern-university",
+  "o": "https://www.northwestern.edu",
+  "status": 200,
+  "final": "https://www.northwestern.edu/",
+  "title": "Northwestern University",
+  "ok": true
+ },
+ {
+  "id": "university-of-michigan-ann-arbor",
+  "o": "https://rackham.umich.edu",
+  "status": 403,
+  "final": "https://rackham.umich.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "northwestern-university",
+  "o": "https://www.tgs.northwestern.edu",
+  "status": 200,
+  "final": "https://www.tgs.northwestern.edu/",
+  "title": "The Graduate School - Northwestern University",
+  "ok": true
+ },
+ {
+  "id": "new-york-university",
+  "o": "https://www.nyu.edu",
+  "status": 202,
+  "final": "https://www.nyu.edu/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "new-york-university",
+  "o": "https://gsas.nyu.edu",
+  "status": 202,
+  "final": "https://gsas.nyu.edu/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "university-of-california-los-angeles",
+  "o": "https://www.ucla.edu",
+  "status": 200,
+  "final": "https://www.ucla.edu/",
+  "title": "A World Leader in Education and Research Excellence | UCLA",
+  "ok": true
+ },
+ {
+  "id": "brown-university",
+  "o": "https://graduateschool.brown.edu",
+  "status": 200,
+  "final": "https://graduateschool.brown.edu/",
+  "title": "Graduate School | Brown University",
+  "ok": true
+ },
+ {
+  "id": "brown-university",
+  "o": "https://www.brown.edu",
+  "status": 200,
+  "final": "https://www.brown.edu/",
+  "title": "Brown University",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-los-angeles",
+  "o": "https://grad.ucla.edu",
+  "status": 200,
+  "final": "https://grad.ucla.edu/",
+  "title": "UCLA Graduate Programs",
+  "ok": true
+ },
+ {
+  "id": "carnegie-mellon-university",
+  "o": "https://www.cmu.edu",
+  "status": 200,
+  "final": "https://www.cmu.edu/",
+  "title": "Carnegie Mellon University | CMU",
+  "ok": true
+ },
+ {
+  "id": "duke-university",
+  "o": "https://duke.edu",
+  "status": 200,
+  "final": "https://www.duke.edu/",
+  "title": "Duke University - Fueled by creativity, informed by scholarship",
+  "ok": true
+ },
+ {
+  "id": "university-of-texas-at-austin",
+  "o": "https://www.utexas.edu",
+  "status": 200,
+  "final": "https://www.utexas.edu/",
+  "title": "The University of Texas at Austin",
+  "ok": true
+ },
+ {
+  "id": "pennsylvania-state-university",
+  "o": "https://www.psu.edu",
+  "status": 200,
+  "final": "https://www.psu.edu/",
+  "title": "The Pennsylvania State University | Penn State",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-san-diego",
+  "o": "https://ucsd.edu",
+  "status": 200,
+  "final": "https://ucsd.edu/",
+  "title": "University of California San Diego",
+  "ok": true
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign",
+  "o": "https://illinois.edu",
+  "status": 200,
+  "final": "https://illinois.edu/",
+  "title": "Illinois",
+  "ok": true
+ },
+ {
+  "id": "university-of-washington",
+  "o": "https://grad.uw.edu",
+  "status": 200,
+  "final": "https://grad.uw.edu/",
+  "title": "University of Washington Graduate School",
+  "ok": true
+ },
+ {
+  "id": "university-of-texas-at-austin",
+  "o": "https://gradschool.utexas.edu",
+  "status": 200,
+  "final": "https://graduate.utexas.edu/",
+  "title": "Home | Office of Graduate and Postdoctoral Studies",
+  "ok": false
+ },
+ {
+  "id": "university-of-california-san-diego",
+  "o": "https://grad.ucsd.edu",
+  "status": 200,
+  "final": "https://grad.ucsd.edu/",
+  "title": "Grad Ed &amp; Postdoc Affrs",
+  "ok": false
+ },
+ {
+  "id": "duke-university",
+  "o": "https://gradschool.duke.edu",
+  "status": 200,
+  "final": "https://gradschool.duke.edu/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "boston-university",
+  "o": "https://www.bu.edu",
+  "status": 200,
+  "final": "https://www.bu.edu/",
+  "title": "Homepage | Boston University",
+  "ok": true
+ },
+ {
+  "id": "university-of-illinois-at-urbana-champaign",
+  "o": "https://grad.illinois.edu",
+  "status": 200,
+  "final": "https://grad.illinois.edu/",
+  "title": "Homepage | Graduate College",
+  "ok": false
+ },
+ {
+  "id": "university-of-washington",
+  "o": "https://www.washington.edu",
+  "status": 200,
+  "final": "https://www.washington.edu/",
+  "title": "UW Homepage &#8211; University of Washington",
+  "ok": true
+ },
+ {
+  "id": "pennsylvania-state-university",
+  "o": "https://gradschool.psu.edu",
+  "status": 200,
+  "final": "https://gradschool.psu.edu/",
+  "title": "J. Jeffrey and Ann Marie Fox Graduate School at Penn State",
+  "ok": false
+ },
+ {
+  "id": "rice-university",
+  "o": "https://www.rice.edu",
+  "status": 200,
+  "final": "https://www.rice.edu/",
+  "title": "Rice University",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-davis",
+  "o": "https://grad.ucdavis.edu",
+  "status": 403,
+  "final": "https://grad.ucdavis.edu/",
+  "title": "Attention Required! | Cloudflare",
+  "ok": false
+ },
+ {
+  "id": "university-of-california-davis",
+  "o": "https://www.ucdavis.edu",
+  "status": 200,
+  "final": "https://www.ucdavis.edu/",
+  "title": "University of California, Davis | UC Davis | UC Davis",
+  "ok": true
+ },
+ {
+  "id": "georgia-institute-of-technology",
+  "o": "https://www.gatech.edu",
+  "status": 200,
+  "final": "https://www.gatech.edu/",
+  "title": "Georgia Institute of Technology",
+  "ok": true
+ },
+ {
+  "id": "university-of-southern-california",
+  "o": "https://www.usc.edu",
+  "status": 200,
+  "final": "https://www.usc.edu/",
+  "title": "University of Southern California",
+  "ok": true
+ },
+ {
+  "id": "university-of-wisconsin-madison",
+  "o": "https://www.wisc.edu",
+  "status": 200,
+  "final": "https://www.wisc.edu/",
+  "title": "University of Wisconsin–Madison",
+  "ok": true
+ },
+ {
+  "id": "rice-university",
+  "o": "https://graduate.rice.edu",
+  "status": 200,
+  "final": "https://graduate.rice.edu/",
+  "title": "Graduate and Postdoctoral Studies | Rice University",
+  "ok": true
+ },
+ {
+  "id": "university-of-southern-california",
+  "o": "https://gradadm.usc.edu",
+  "status": 200,
+  "final": "https://gradadm.usc.edu/",
+  "title": "Graduate Admission - Graduate Admission",
+  "ok": false
+ },
+ {
+  "id": "university-of-north-carolina-chapel-hill",
+  "o": "https://www.unc.edu",
+  "status": 200,
+  "final": "https://www.unc.edu/",
+  "title": "The University of North Carolina at Chapel Hill",
+  "ok": true
+ },
+ {
+  "id": "purdue-university",
+  "o": "https://www.purdue.edu",
+  "status": 200,
+  "final": "https://www.purdue.edu/",
+  "title": "Purdue University",
+  "ok": true
+ },
+ {
+  "id": "university-of-wisconsin-madison",
+  "o": "https://grad.wisc.edu",
+  "status": 200,
+  "final": "https://grad.wisc.edu/",
+  "title": "Graduate School &#8211; Graduate education at the University of Wisconsin–Madison &#8211; ",
+  "ok": true
+ },
+ {
+  "id": "georgia-institute-of-technology",
+  "o": "https://grad.gatech.edu",
+  "status": 200,
+  "final": "https://grad.gatech.edu/",
+  "title": "Graduate Education",
+  "ok": false
+ },
+ {
+  "id": "university-of-north-carolina-chapel-hill",
+  "o": "https://gradschool.unc.edu",
+  "status": 200,
+  "final": "https://gradschool.unc.edu/",
+  "title": "Home - Graduate School",
+  "ok": false
+ },
+ {
+  "id": "arizona-state-university",
+  "o": "https://www.asu.edu",
+  "status": 200,
+  "final": "https://www.asu.edu/",
+  "title": "ASU Homepage | Arizona State University",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-santa-barbara",
+  "o": "https://www.ucsb.edu",
+  "status": 200,
+  "final": "https://www.ucsb.edu/",
+  "title": "Home | UC Santa Barbara",
+  "ok": true
+ },
+ {
+  "id": "texas-a-and-m-university",
+  "o": "https://grad.tamu.edu",
+  "status": 404,
+  "final": "https://grad.tamu.edu/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "arizona-state-university",
+  "o": "https://degrees.asu.edu",
+  "status": 200,
+  "final": "https://degrees.asu.edu/",
+  "title": "Majors and Degree Programs | Arizona State University",
+  "ok": true
+ },
+ {
+  "id": "texas-a-and-m-university",
+  "o": "https://www.tamu.edu",
+  "status": 200,
+  "final": "https://www.tamu.edu/",
+  "title": "Texas A&amp;M University | Texas A&amp;M University",
+  "ok": true
+ },
+ {
+  "id": "michigan-state-university",
+  "o": "https://msu.edu",
+  "status": 200,
+  "final": "https://msu.edu/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "washington-university-in-st-louis",
+  "o": "https://wustl.edu",
+  "status": 200,
+  "final": "https://washu.edu/",
+  "title": "Home | WashU",
+  "ok": false
+ },
+ {
+  "id": "ohio-state-university",
+  "o": "https://www.osu.edu",
+  "status": 200,
+  "final": "https://www.osu.edu/",
+  "title": "Home | The Ohio State University",
+  "ok": true
+ },
+ {
+  "id": "emory-university",
+  "o": "https://www.emory.edu",
+  "status": 200,
+  "final": "https://www.emory.edu/",
+  "title": "Home | Emory University",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-santa-barbara",
+  "o": "https://www.graddiv.ucsb.edu",
+  "status": 200,
+  "final": "https://www.graddiv.ucsb.edu/",
+  "title": "Home | Graduate Division",
+  "ok": false
+ },
+ {
+  "id": "michigan-state-university",
+  "o": "https://grad.msu.edu",
+  "status": 200,
+  "final": "https://grad.msu.edu/",
+  "title": "The Graduate School",
+  "ok": false
+ },
+ {
+  "id": "ohio-state-university",
+  "o": "https://gradsch.osu.edu",
+  "status": 200,
+  "final": "https://gradsch.osu.edu/",
+  "title": "Graduate School at The Ohio State University",
+  "ok": true
+ },
+ {
+  "id": "university-of-minnesota-twin-cities",
+  "o": "https://twin-cities.umn.edu",
+  "status": 403,
+  "final": "https://twin-cities.umn.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "university-of-minnesota-twin-cities",
+  "o": "https://grad.umn.edu",
+  "status": 403,
+  "final": "https://grad.umn.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "university-of-maryland-college-park",
+  "o": "https://gradschool.umd.edu",
+  "status": 200,
+  "final": "https://gradschool.umd.edu/",
+  "title": "Home | The Graduate School",
+  "ok": false
+ },
+ {
+  "id": "university-of-massachusetts-amherst",
+  "o": "https://www.umass.edu",
+  "status": 403,
+  "final": "https://www.umass.edu/",
+  "title": "Attention Required! | Cloudflare",
+  "ok": false
+ },
+ {
+  "id": "university-of-florida",
+  "o": "https://www.ufl.edu",
+  "status": 200,
+  "final": "https://www.ufl.edu/",
+  "title": "Home | University of Florida",
+  "ok": true
+ },
+ {
+  "id": "vanderbilt-university",
+  "o": "https://www.vanderbilt.edu",
+  "status": 200,
+  "final": "https://www.vanderbilt.edu/",
+  "title": "Vanderbilt University",
+  "ok": true
+ },
+ {
+  "id": "university-of-maryland-college-park",
+  "o": "https://umd.edu",
+  "status": 200,
+  "final": "https://umd.edu/",
+  "title": "Tradition Never Graduates | University of Maryland",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-irvine",
+  "o": "https://uci.edu",
+  "status": 200,
+  "final": "https://uci.edu/",
+  "title": "UC Irvine",
+  "ok": true
+ },
+ {
+  "id": "university-of-rochester",
+  "o": "https://www.rochester.edu",
+  "status": 200,
+  "final": "https://www.rochester.edu/",
+  "title": "University of Rochester | Where Wonder Fuels Discovery",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-irvine",
+  "o": "https://grad.uci.edu",
+  "status": 200,
+  "final": "https://grad.uci.edu/",
+  "title": "Home Page - UC Irvine Graduate Division",
+  "ok": true
+ },
+ {
+  "id": "university-of-florida",
+  "o": "https://gradschool.ufl.edu",
+  "status": 200,
+  "final": "https://grad.ufl.edu/",
+  "title": "The Graduate School | University of Florida",
+  "ok": true
+ },
+ {
+  "id": "university-of-virginia",
+  "o": "https://graduate.as.virginia.edu",
+  "status": 200,
+  "final": "https://graduate.as.virginia.edu/",
+  "title": "Home | The Graduate School",
+  "ok": false
+ },
+ {
+  "id": "georgetown-university",
+  "o": "https://www.georgetown.edu",
+  "status": 200,
+  "final": "https://www.georgetown.edu/",
+  "title": "Georgetown University in Washington DC",
+  "ok": true
+ },
+ {
+  "id": "university-of-pittsburgh",
+  "o": "https://www.pitt.edu",
+  "status": 200,
+  "final": "https://www.pitt.edu/",
+  "title": "Home | University of Pittsburgh",
+  "ok": true
+ },
+ {
+  "id": "georgetown-university",
+  "o": "https://grad.georgetown.edu",
+  "status": 200,
+  "final": "https://grad.georgetown.edu/",
+  "title": "Ignite Your Future - Georgetown Graduate Studies",
+  "ok": true
+ },
+ {
+  "id": "dartmouth-college",
+  "o": "https://home.dartmouth.edu",
+  "status": 200,
+  "final": "https://home.dartmouth.edu/",
+  "title": "Dartmouth",
+  "ok": true
+ },
+ {
+  "id": "dartmouth-college",
+  "o": "https://graduate.dartmouth.edu",
+  "status": 200,
+  "final": "https://graduate.dartmouth.edu/",
+  "title": "Home | Guarini School of Graduate and Advanced Studies",
+  "ok": false
+ },
+ {
+  "id": "university-of-virginia",
+  "o": "https://www.virginia.edu",
+  "status": 200,
+  "final": "https://www.virginia.edu/",
+  "title": "The University of Virginia",
+  "ok": true
+ },
+ {
+  "id": "university-of-arizona",
+  "o": "https://www.arizona.edu",
+  "status": 200,
+  "final": "https://www.arizona.edu/",
+  "title": "University of Arizona in Tucson, AZ",
+  "ok": true
+ },
+ {
+  "id": "vanderbilt-university",
+  "o": "https://gradschool.vanderbilt.edu",
+  "status": 200,
+  "final": "https://gradschool.vanderbilt.edu/",
+  "title": "Graduate School | Vanderbilt University",
+  "ok": true
+ },
+ {
+  "id": "university-of-notre-dame",
+  "o": "https://graduateschool.nd.edu",
+  "status": 200,
+  "final": "https://graduateschool.nd.edu/",
+  "title": "The Graduate School | University of Notre Dame",
+  "ok": true
+ },
+ {
+  "id": "university-of-notre-dame",
+  "o": "https://www.nd.edu",
+  "status": 200,
+  "final": "https://www.nd.edu/",
+  "title": "University of Notre Dame",
+  "ok": true
+ },
+ {
+  "id": "university-of-arizona",
+  "o": "https://grad.arizona.edu",
+  "status": 200,
+  "final": "https://grad.arizona.edu/",
+  "title": "University of Arizona Graduate College",
+  "ok": true
+ },
+ {
+  "id": "rutgers-university-new-brunswick",
+  "o": "https://newbrunswick.rutgers.edu",
+  "status": 403,
+  "final": "https://newbrunswick.rutgers.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "rutgers-university-new-brunswick",
+  "o": "https://grad.rutgers.edu",
+  "status": 200,
+  "final": "https://grad.rutgers.edu/",
+  "title": "Home | Rutgers School of Graduate Studies",
+  "ok": true
+ },
+ {
+  "id": "tufts-university",
+  "o": "https://www.tufts.edu",
+  "status": 200,
+  "final": "https://www.tufts.edu/",
+  "title": "Tufts University",
+  "ok": true
+ },
+ {
+  "id": "north-carolina-state-university",
+  "o": "https://www.ncsu.edu",
+  "status": 202,
+  "final": "https://www.ncsu.edu/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "university-of-colorado-boulder",
+  "o": "https://www.colorado.edu",
+  "status": 200,
+  "final": "https://www.colorado.edu/",
+  "title": "Home | University of Colorado Boulder",
+  "ok": true
+ },
+ {
+  "id": "university-of-miami",
+  "o": "https://welcome.miami.edu",
+  "status": 200,
+  "final": "https://welcome.miami.edu/",
+  "title": "University of Miami",
+  "ok": true
+ },
+ {
+  "id": "indiana-university-bloomington",
+  "o": "https://graduate.indiana.edu",
+  "status": 200,
+  "final": "https://graduate.indiana.edu/",
+  "title": "Graduate School Bloomington: Indiana University Bloomington",
+  "ok": true
+ },
+ {
+  "id": "university-of-miami",
+  "o": "https://grad.miami.edu",
+  "status": 200,
+  "final": "https://www.grad.miami.edu/",
+  "title": "Graduate School | University of Miami",
+  "ok": true
+ },
+ {
+  "id": "indiana-university-bloomington",
+  "o": "https://bloomington.iu.edu",
+  "status": 200,
+  "final": "https://bloomington.iu.edu/",
+  "title": "Indiana University Bloomington | Academics, research, and impact",
+  "ok": true
+ },
+ {
+  "id": "case-western-reserve-university",
+  "o": "https://case.edu",
+  "status": 200,
+  "final": "https://case.edu/",
+  "title": "Case Western Reserve University: One of the nation&#x27;s best",
+  "ok": true
+ },
+ {
+  "id": "virginia-polytechnic-institute-and-state-university",
+  "o": "https://vt.edu",
+  "status": 200,
+  "final": "https://www.vt.edu/",
+  "title": "Home | Virginia Tech",
+  "ok": true
+ },
+ {
+  "id": "north-carolina-state-university",
+  "o": "https://grad.ncsu.edu",
+  "status": "ERR",
+  "final": "",
+  "title": "TimeoutError",
+  "ok": false
+ },
+ {
+  "id": "university-of-illinois-at-chicago",
+  "o": "https://grad.uic.edu",
+  "status": 200,
+  "final": "https://grad.uic.edu/",
+  "title": "Graduate College | University of Illinois Chicago",
+  "ok": true
+ },
+ {
+  "id": "george-washington-university",
+  "o": "https://graduate.admissions.gwu.edu",
+  "status": 403,
+  "final": "https://graduate.admissions.gwu.edu/",
+  "title": "Attention Required! | Cloudflare",
+  "ok": false
+ },
+ {
+  "id": "northeastern-university",
+  "o": "https://graduate.northeastern.edu",
+  "status": 200,
+  "final": "https://graduate.northeastern.edu/",
+  "title": "Northeastern University Graduate Programs",
+  "ok": true
+ },
+ {
+  "id": "george-washington-university",
+  "o": "https://www.gwu.edu",
+  "status": 403,
+  "final": "https://www.gwu.edu/",
+  "title": "Attention Required! | Cloudflare",
+  "ok": false
+ },
+ {
+  "id": "university-of-illinois-at-chicago",
+  "o": "https://www.uic.edu",
+  "status": "ERR",
+  "final": "",
+  "title": "UNABLE_TO_VERIFY_LEAF_SIGNATURE",
+  "ok": false
+ },
+ {
+  "id": "northeastern-university",
+  "o": "https://www.northeastern.edu",
+  "status": 200,
+  "final": "https://www.northeastern.edu/",
+  "title": "Home - Northeastern University",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-riverside",
+  "o": "https://www.ucr.edu",
+  "status": 200,
+  "final": "https://www.ucr.edu/",
+  "title": "UC Riverside / University of California, Riverside",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-santa-cruz",
+  "o": "https://www.ucsc.edu",
+  "status": 403,
+  "final": "https://www.ucsc.edu/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "university-of-california-riverside",
+  "o": "https://graduate.ucr.edu",
+  "status": 200,
+  "final": "https://graduate.ucr.edu/",
+  "title": "Graduate Division | Promoting Graduate Education",
+  "ok": false
+ },
+ {
+  "id": "virginia-polytechnic-institute-and-state-university",
+  "o": "https://graduateschool.vt.edu",
+  "status": 200,
+  "final": "https://graduateschool.vt.edu/",
+  "title": "Graduate School | Graduate School | Virginia Tech",
+  "ok": true
+ },
+ {
+  "id": "university-at-buffalo-suny",
+  "o": "https://www.buffalo.edu",
+  "status": 200,
+  "final": "https://www.buffalo.edu/",
+  "title": "Welcome to the University at Buffalo - University at Buffalo",
+  "ok": true
+ },
+ {
+  "id": "university-of-california-santa-cruz",
+  "o": "https://graddiv.ucsc.edu",
+  "status": 200,
+  "final": "https://graduate.ucsc.edu/",
+  "title": "Division of Graduate Studies &#8211; Graduate Research at UC Santa Cruz",
+  "ok": true
+ },
+ {
+  "id": "university-of-hong-kong",
+  "o": "https://www.hku.hk",
+  "status": 200,
+  "final": "https://www.hku.hk/",
+  "title": "index",
+  "ok": false
+ },
+ {
+  "id": "university-of-hong-kong",
+  "o": "https://www.tpg.hku.hk",
+  "status": "ERR",
+  "final": "",
+  "title": "ENOTFOUND",
+  "ok": false
+ },
+ {
+  "id": "chinese-university-of-hong-kong",
+  "o": "https://www.cuhk.edu.hk",
+  "status": 200,
+  "final": "https://www.cuhk.edu.hk/",
+  "title": "The Chinese University of Hong Kong",
+  "ok": true
+ },
+ {
+  "id": "city-university-of-hong-kong",
+  "o": "https://www.cityu.edu.hk",
+  "status": 200,
+  "final": "https://www.cityu.edu.hk/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "hong-kong-university-of-science-and-technology",
+  "o": "https://prog-crs.hkust.edu.hk",
+  "status": 200,
+  "final": "https://prog-crs.hkust.edu.hk/",
+  "title": "Program & Course Catalog",
+  "ok": false
+ },
+ {
+  "id": "hong-kong-baptist-university",
+  "o": "https://www.hkbu.edu.hk",
+  "status": 200,
+  "final": "https://www.hkbu.edu.hk/",
+  "title": "Hong Kong Baptist University – HKBU",
+  "ok": true
+ },
+ {
+  "id": "hong-kong-university-of-science-and-technology",
+  "o": "https://hkust.edu.hk",
+  "status": 200,
+  "final": "https://hkust.edu.hk/",
+  "title": "Best Universities in Hong Kong for Study - The University of HK",
+  "ok": true
+ },
+ {
+  "id": "chinese-university-of-hong-kong",
+  "o": "https://www.gs.cuhk.edu.hk",
+  "status": 200,
+  "final": "https://www.gs.cuhk.edu.hk/",
+  "title": "CUHK Graduate School",
+  "ok": true
+ },
+ {
+  "id": "stony-brook-university-state-university-of-new-york",
+  "o": "https://www.stonybrook.edu",
+  "status": 200,
+  "final": "https://www.stonybrook.edu/",
+  "title": "Stony Brook University | State University of New York | Stony Brook, NY",
+  "ok": true
+ },
+ {
+  "id": "university-of-connecticut",
+  "o": "https://grad.uconn.edu",
+  "status": 200,
+  "final": "https://grad.uconn.edu/",
+  "title": "The Graduate School | The Graduate School | University of Connecticut",
+  "ok": true
+ },
+ {
+  "id": "hong-kong-polytechnic-university",
+  "o": "https://www.polyu.edu.hk",
+  "status": 200,
+  "final": "https://www.polyu.edu.hk/",
+  "title": "Top Innovative World-Class University in Hong Kong | PolyU",
+  "ok": true
+ },
+ {
+  "id": "university-of-connecticut",
+  "o": "https://uconn.edu",
+  "status": 200,
+  "final": "https://uconn.edu/",
+  "title": "University of Connecticut",
+  "ok": true
+ },
+ {
+  "id": "education-university-of-hong-kong",
+  "o": "https://www.eduhk.hk",
+  "status": "ERR",
+  "final": "",
+  "title": "ERR_SSL_UNSAFE_LEGACY_RENEGOTIATION_DISABLED",
+  "ok": false
+ },
+ {
+  "id": "university-of-toronto",
+  "o": "https://www.sgs.utoronto.ca",
+  "status": 200,
+  "final": "https://www.sgs.utoronto.ca/",
+  "title": "School of Graduate Studies &#8211; University of Toronto",
+  "ok": true
+ },
+ {
+  "id": "university-of-toronto",
+  "o": "https://www.utoronto.ca",
+  "status": 403,
+  "final": "https://www.utoronto.ca/",
+  "title": "ERROR 403: The request could not be satisfied",
+  "ok": false
+ },
+ {
+  "id": "mcgill-university",
+  "o": "https://www.mcgill.ca",
+  "status": 200,
+  "final": "https://www.mcgill.ca/",
+  "title": "McGill University",
+  "ok": true
+ },
+ {
+  "id": "hong-kong-baptist-university",
+  "o": "https://gs.hkbu.edu.hk",
+  "status": 200,
+  "final": "https://gs.hkbu.edu.hk/",
+  "title": "Hong Kong Baptist University - Graduate School - HKBU",
+  "ok": true
+ },
+ {
+  "id": "university-of-british-columbia",
+  "o": "https://www.ubc.ca",
+  "status": 200,
+  "final": "https://www.ubc.ca/",
+  "title": "The University of British Columbia",
+  "ok": true
+ },
+ {
+  "id": "university-of-alberta",
+  "o": "https://www.ualberta.ca",
+  "status": 202,
+  "final": "https://www.ualberta.ca/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "university-of-waterloo",
+  "o": "https://uwaterloo.ca",
+  "status": 200,
+  "final": "https://uwaterloo.ca/",
+  "title": "Home | University of Waterloo",
+  "ok": true
+ },
+ {
+  "id": "western-university",
+  "o": "https://grad.uwo.ca",
+  "status": 200,
+  "final": "https://grad.uwo.ca/",
+  "title": "School of Graduate and Postdoctoral Studies - Western University",
+  "ok": true
+ },
+ {
+  "id": "universite-de-montreal",
+  "o": "https://www.umontreal.ca",
+  "status": 200,
+  "final": "https://www.umontreal.ca/",
+  "title": "Université de Montréal",
+  "ok": true
+ },
+ {
+  "id": "western-university",
+  "o": "https://www.uwo.ca",
+  "status": 200,
+  "final": "https://www.uwo.ca/",
+  "title": "Western University",
+  "ok": true
+ },
+ {
+  "id": "university-of-british-columbia",
+  "o": "https://www.grad.ubc.ca",
+  "status": 200,
+  "final": "https://www.grad.ubc.ca/",
+  "title": "UBC Grad School | Graduate Studies at The University of British Columbia, Vancouver, Canad",
+  "ok": true
+ },
+ {
+  "id": "dalhousie-university",
+  "o": "https://www.dal.ca",
+  "status": 200,
+  "final": "https://www.dal.ca/",
+  "title": "Dalhousie University",
+  "ok": true
+ },
+ {
+  "id": "queen-s-university-at-kingston",
+  "o": "https://www.queensu.ca",
+  "status": 200,
+  "final": "https://www.queensu.ca/",
+  "title": "Queen’s University Canada",
+  "ok": true
+ },
+ {
+  "id": "universite-de-montreal",
+  "o": "https://admission.umontreal.ca",
+  "status": 200,
+  "final": "https://admission.umontreal.ca/",
+  "title": "Admission - Université de Montréal",
+  "ok": true
+ },
+ {
+  "id": "university-of-ottawa",
+  "o": "https://www.uottawa.ca",
+  "status": 200,
+  "final": "https://www.uottawa.ca/en",
+  "title": "University of Ottawa | University of Ottawa",
+  "ok": true
+ },
+ {
+  "id": "university-of-calgary",
+  "o": "https://grad.ucalgary.ca",
+  "status": 200,
+  "final": "https://grad.ucalgary.ca/",
+  "title": "Faculty of Graduate Studies | University of Calgary",
+  "ok": true
+ },
+ {
+  "id": "mcmaster-university",
+  "o": "https://gs.mcmaster.ca",
+  "status": 200,
+  "final": "https://gs.mcmaster.ca/",
+  "title": "School of Graduate Studies",
+  "ok": false
+ },
+ {
+  "id": "university-of-victoria",
+  "o": "https://www.uvic.ca",
+  "status": 200,
+  "final": "https://www.uvic.ca/",
+  "title": "Home - University of Victoria",
+  "ok": true
+ },
+ {
+  "id": "simon-fraser-university",
+  "o": "https://www.sfu.ca",
+  "status": 200,
+  "final": "https://www.sfu.ca/",
+  "title": "Simon Fraser University",
+  "ok": true
+ },
+ {
+  "id": "university-of-calgary",
+  "o": "https://www.ucalgary.ca",
+  "status": 200,
+  "final": "https://www.ucalgary.ca/",
+  "title": "University of Calgary",
+  "ok": true
+ },
+ {
+  "id": "york-university",
+  "o": "https://futurestudents.yorku.ca",
+  "status": 200,
+  "final": "https://futurestudents.yorku.ca/",
+  "title": "Your Future Starts Here | Future Students | York University",
+  "ok": true
+ },
+ {
+  "id": "mcmaster-university",
+  "o": "https://www.mcmaster.ca",
+  "status": 200,
+  "final": "https://www.mcmaster.ca/",
+  "title": "McMaster: Benefits of Studying at an Ontario University",
+  "ok": true
+ },
+ {
+  "id": "york-university",
+  "o": "https://www.yorku.ca",
+  "status": 200,
+  "final": "https://www.yorku.ca/",
+  "title": "York University | Toronto, Canada",
+  "ok": true
+ },
+ {
+  "id": "university-of-otago",
+  "o": "https://www.otago.ac.nz",
+  "status": 403,
+  "final": "https://www.otago.ac.nz/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "university-of-canterbury",
+  "o": "https://www.canterbury.ac.nz",
+  "status": 200,
+  "final": "https://www.canterbury.ac.nz/",
+  "title": "Top 2 in NZ for employment outcomes | University of Canterbury",
+  "ok": true
+ },
+ {
+  "id": "victoria-university-of-wellington",
+  "o": "https://www.wgtn.ac.nz",
+  "status": 200,
+  "final": "https://www.wgtn.ac.nz/",
+  "title": "Te Herenga Waka—Victoria University of Wellington",
+  "ok": true
+ },
+ {
+  "id": "auckland-university-of-technology",
+  "o": "https://www.aut.ac.nz",
+  "status": 403,
+  "final": "https://www.aut.ac.nz/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "lincoln-university",
+  "o": "https://www.lincoln.ac.nz",
+  "status": 403,
+  "final": "https://www.lincoln.ac.nz/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "australian-national-university",
+  "o": "https://programsandcourses.anu.edu.au",
+  "status": 200,
+  "final": "https://programsandcourses.anu.edu.au/",
+  "title": "Programs and Courses - ANU",
+  "ok": true
+ },
+ {
+  "id": "university-of-saskatchewan",
+  "o": "https://admissions.usask.ca",
+  "status": 200,
+  "final": "https://admissions.usask.ca/",
+  "title": "Admissions | University of Saskatchewan",
+  "ok": true
+ },
+ {
+  "id": "university-of-saskatchewan",
+  "o": "https://www.usask.ca",
+  "status": 200,
+  "final": "https://www.usask.ca/",
+  "title": "University of Saskatchewan",
+  "ok": true
+ },
+ {
+  "id": "university-of-waikato",
+  "o": "https://www.waikato.ac.nz",
+  "status": 200,
+  "final": "https://www.waikato.ac.nz/",
+  "title": "Hamilton and Tauranga | University of Waikato",
+  "ok": true
+ },
+ {
+  "id": "university-of-auckland",
+  "o": "https://www.auckland.ac.nz",
+  "status": 200,
+  "final": "https://www.auckland.ac.nz/en.html",
+  "title": "Waipapa Taumata Rau – University of Auckland",
+  "ok": true
+ },
+ {
+  "id": "massey-university",
+  "o": "https://www.massey.ac.nz",
+  "status": 200,
+  "final": "https://www.massey.ac.nz/",
+  "title": "Massey University of New Zealand - Te Kunenga ki Pūrehuroa - Massey University",
+  "ok": true
+ },
+ {
+  "id": "concordia-university",
+  "o": "https://www.concordia.ca",
+  "status": 200,
+  "final": "https://www.concordia.ca/",
+  "title": "Concordia University",
+  "ok": true
+ },
+ {
+  "id": "macquarie-university",
+  "o": "https://www.mq.edu.au",
+  "status": 403,
+  "final": "https://www.mq.edu.au/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "curtin-university",
+  "o": "https://www.curtin.edu.au",
+  "status": 200,
+  "final": "https://www.curtin.edu.au/",
+  "title": "Curtin University | Make tomorrow better",
+  "ok": true
+ },
+ {
+  "id": "university-of-leicester",
+  "o": "https://le.ac.uk",
+  "status": 403,
+  "final": "https://le.ac.uk/",
+  "title": "Attention Required! | Cloudflare",
+  "ok": false
+ },
+ {
+  "id": "city-st-george-s-university-of-london",
+  "o": "https://www.citystgeorges.ac.uk",
+  "status": 403,
+  "final": "https://www.citystgeorges.ac.uk/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "university-of-strathclyde",
+  "o": "https://www.strath.ac.uk",
+  "status": 200,
+  "final": "https://www.strath.ac.uk/",
+  "title": "University of Strathclyde, Glasgow",
+  "ok": true
+ },
+ {
+  "id": "central-queensland-university",
+  "o": "https://www.cqu.edu.au",
+  "status": 200,
+  "final": "https://www.cqu.edu.au/",
+  "title": "CQUniversity",
+  "ok": true
+ },
+ {
+  "id": "university-of-southern-queensland",
+  "o": "https://www.unisq.edu.au",
+  "status": 200,
+  "final": "https://www.unisq.edu.au/",
+  "title": "University of Southern Queensland | UniSQ",
+  "ok": true
+ },
+ {
+  "id": "university-of-canberra",
+  "o": "https://www.canberra.edu.au",
+  "status": 200,
+  "final": "https://www.canberra.edu.au/",
+  "title": "University of Canberra",
+  "ok": true
+ },
+ {
+  "id": "university-of-nottingham",
+  "o": "https://www.nottingham.ac.uk",
+  "status": 200,
+  "final": "https://www.nottingham.ac.uk/",
+  "title": "University of Nottingham",
+  "ok": true
+ },
+ {
+  "id": "university-of-reading",
+  "o": "https://www.reading.ac.uk",
+  "status": 200,
+  "final": "https://www.reading.ac.uk/",
+  "title": "University of Reading",
+  "ok": true
+ },
+ {
+  "id": "university-of-western-australia",
+  "o": "https://www.uwa.edu.au",
+  "status": 200,
+  "final": "https://www.uwa.edu.au/home",
+  "title": "The University of Western Australia | UWA",
+  "ok": true
+ },
+ {
+  "id": "birkbeck-university-of-london",
+  "o": "https://www.bbk.ac.uk",
+  "status": 200,
+  "final": "https://www.bbk.ac.uk/",
+  "title": "Home - Birkbeck, University of London",
+  "ok": true
+ },
+ {
+  "id": "university-of-dundee",
+  "o": "https://www.dundee.ac.uk",
+  "status": 403,
+  "final": "https://www.dundee.ac.uk/",
+  "title": "Just a moment...",
+  "ok": false
+ },
+ {
+  "id": "national-university-of-singapore",
+  "o": "https://study.nus.edu.sg",
+  "status": 200,
+  "final": "https://study.nus.edu.sg/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "university-of-limerick",
+  "o": "https://www.ul.ie",
+  "status": 200,
+  "final": "https://www.ul.ie/",
+  "title": "University of Limerick",
+  "ok": true
+ },
+ {
+  "id": "royal-holloway-university-of-london",
+  "o": "https://www.royalholloway.ac.uk",
+  "status": 200,
+  "final": "https://www.royalholloway.ac.uk/",
+  "title": "Royal Holloway, University of London",
+  "ok": true
+ },
+ {
+  "id": "university-of-kent",
+  "o": "https://www.kent.ac.uk",
+  "status": 200,
+  "final": "https://www.kent.ac.uk/",
+  "title": "Welcome to Kent - University of Kent",
+  "ok": true
+ },
+ {
+  "id": "singapore-university-of-technology-and-design",
+  "o": "https://www.sutd.edu.sg",
+  "status": 200,
+  "final": "https://www.sutd.edu.sg/",
+  "title": "Singapore University of Technology and Design (SUTD)",
+  "ok": true
+ },
+ {
+  "id": "essex-university-of",
+  "o": "https://www.essex.ac.uk",
+  "status": 200,
+  "final": "https://www.essex.ac.uk/",
+  "title": "",
+  "ok": false
+ },
+ {
+  "id": "dublin-city-university",
+  "o": "https://www.dcu.ie",
+  "status": 200,
+  "final": "https://www.dcu.ie/",
+  "title": "Dublin City University | DCU",
+  "ok": true
+ }
+]

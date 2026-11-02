@@ -1,0 +1,20 @@
+{
+  "source": "ULB 'MA's in EN' search (programmes with English as language of instruction) https://www.ulb.be/en/masters-in-en, 6 result pages, plain fetch; focus pages used where the master's has English and French focuses; economics-only, engineering and out-of-scope programmes skipped (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.ulb.be/en/programme/ma-gest",
+    "https://www.ulb.be/en/programme/ma-inge",
+    "https://www.ulb.be/en/programme/ms-gest",
+    "https://www.ulb.be/en/programme/ms-fina",
+    "https://www.ulb.be/en/programme/ms-bgda",
+    "https://www.ulb.be/en/programme/ma-info",
+    "https://www.ulb.be/en/programme/m-irifs",
+    "https://www.ulb.be/en/programme/m-irifi",
+    "https://www.ulb.be/en/programme/m-secuc",
+    "https://www.ulb.be/en/programme/m-secum",
+    "https://www.ulb.be/en/programme/ma-stat",
+    "https://www.ulb.be/en/programme/ms-stme",
+    "https://www.ulb.be/en/programme/ms-dint",
+    "https://www.ulb.be/en/programme/ms-dreu"
+  ]
+}

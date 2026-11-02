@@ -1,0 +1,19 @@
+{
+  "source": "ulisboa.pt blocks even the browser (403); configured from the schools' own sites: ISEG master's list https://www.iseg.ulisboa.pt/en/to-study-2/masters-2/ (English-named /en/study/masters/ programmes are English-taught; Portuguese-named ones are taught in Portuguese and skipped) and Lisbon School of Law https://www.fd.ulisboa.pt/courses/ (LLM in AI regulation, full teaching in English). Tecnico masters skipped: 'taught in Portuguese' (English only when internationals enrol). Plain fetch (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.iseg.ulisboa.pt/en/study/masters/accounting/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/actuarial-science/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/applied-econometrics-and-forecasting/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/applied-mathematics-for-economics-and-management/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/data-analytics-for-business/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/finance/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/industrial-management-operations-and-sustainability/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/innovation-and-research-for-sustainability/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/management/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/management-information-systems/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/math-finance/",
+    "https://www.iseg.ulisboa.pt/en/study/masters/monetary-and-financial-economics/",
+    "https://www.fd.ulisboa.pt/courses/llm-artificial-intelligence-and-its-regulation/"
+  ]
+}

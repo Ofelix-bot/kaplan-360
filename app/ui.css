@@ -1,0 +1,571 @@
+/*
+ * Tailwind CSS for the parts of the site built on shadcn/ui (Nova style, on Base UI): the /results
+ * workspace, the homepage and /move, the shared blocks (components/shared), /about, /declaration, /plan's road, /where-you-stand, /next-steps and /careers. The site's own stylesheet (globals.css) sits in the "site" layer; this file puts
+ * Tailwind's theme under it and a scoped base, components and utilities over it. So:
+ *   - the site's tokens (--muted, --accent, --border, --radius, --font-sans, --ease-out) keep their
+ *     values: shadcn's tokens here are named --ui-*, and most of them are the site's own colours;
+ *   - nothing here reaches the site's other pages: there is no preflight, the base rules apply only
+ *     inside .ui and shadcn's popups ([data-slot]), and utilities are generated from components/ui,
+ *     components/workspace, components/landing, components/shared, components/plan/road, components/stand, components/next-steps and components/careers alone (scripts/check-ui-css.mjs checks that none
+ *     shares a name with a class the site uses).
+ * Enter, exit and layout animation is Motion's (lib/motion.ts): no CSS animation library here.
+ * React Flow's base stylesheet (/next-steps' map) sits in the components layer: each of its rules is
+ * scoped to React Flow's own .react-flow classes (scripts/check-ui-css.mjs checks that too).
+ */
+@layer theme, site, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities) source(none);
+@import "@xyflow/react/dist/base.css" layer(components);
+
+@source "../components/ui";
+@source "../components/workspace";
+@source "../components/landing";
+@source "../components/shared";
+@source "../components/plan/road";
+@source "../components/stand";
+@source "../components/next-steps";
+@source "../components/careers";
+/* /profile (its floating button is styled in globals.css: it shows on pages without this file too). */
+@source "../components/profile";
+/* The Core Algorithm page (/algorithm). */
+@source "../components/algorithm";
+/* The Programme finder (/results): its own monochrome skin, data-finder below. */
+@source "../components/finder";
+/* For parents (/parents), on the finder's skin. */
+@source "../components/parents";
+/* The previous homepage sections, kept but unused: remove this line if they come back. */
+@source not "../components/landing/v1";
+/* The site's layout class; Tailwind would generate a utility of that name. */
+@source not inline("container");
+
+/* Variants for Base UI's state attributes (from shadcn/tailwind.css, shadcn@4.22.1). */
+@custom-variant data-open {
+  &:where([data-state="open"]),
+  &:where([data-open]:not([data-open="false"])) {
+    @slot;
+  }
+}
+
+@custom-variant data-closed {
+  &:where([data-state="closed"]),
+  &:where([data-closed]:not([data-closed="false"])) {
+    @slot;
+  }
+}
+
+@custom-variant data-checked {
+  &:where([data-state="checked"]),
+  &:where([data-checked]:not([data-checked="false"])) {
+    @slot;
+  }
+}
+
+@custom-variant data-unchecked {
+  &:where([data-state="unchecked"]),
+  &:where([data-unchecked]:not([data-unchecked="false"])) {
+    @slot;
+  }
+}
+
+@custom-variant data-selected {
+  &:where([data-selected="true"]) {
+    @slot;
+  }
+}
+
+@custom-variant data-disabled {
+  &:where([data-disabled="true"]),
+  &:where([data-disabled]:not([data-disabled="false"])) {
+    @slot;
+  }
+}
+
+@custom-variant data-active {
+  &:where([data-state="active"]),
+  &:where([data-active]:not([data-active="false"])) {
+    @slot;
+  }
+}
+
+@custom-variant data-horizontal {
+  &:where([data-orientation="horizontal"]) {
+    @slot;
+  }
+}
+
+@custom-variant data-vertical {
+  &:where([data-orientation="vertical"]) {
+    @slot;
+  }
+}
+
+/* Dark exactly when the site is: the system setting, unless data-theme says otherwise (globals.css). */
+@custom-variant dark {
+  @media (prefers-color-scheme: dark) {
+    &:where(:root:not([data-theme="light"]) *) {
+      @slot;
+    }
+  }
+  &:where(:root[data-theme="dark"] *) {
+    @slot;
+  }
+}
+
+@theme inline {
+  --font-sans: var(--font-archivo), "Noto Sans SC", system-ui, sans-serif;
+  --font-heading: var(--font-archivo), "Noto Sans SC", system-ui, sans-serif;
+  --color-background: var(--ui-background);
+  --color-foreground: var(--ui-foreground);
+  --color-card: var(--ui-card);
+  --color-card-foreground: var(--ui-card-foreground);
+  --color-popover: var(--ui-popover);
+  --color-popover-foreground: var(--ui-popover-foreground);
+  --color-primary: var(--ui-primary);
+  --color-primary-foreground: var(--ui-primary-foreground);
+  --color-secondary: var(--ui-secondary);
+  --color-secondary-foreground: var(--ui-secondary-foreground);
+  --color-muted: var(--ui-muted);
+  --color-muted-foreground: var(--ui-muted-foreground);
+  --color-accent: var(--ui-accent);
+  --color-accent-foreground: var(--ui-accent-foreground);
+  --color-destructive: var(--ui-destructive);
+  --color-border: var(--ui-border);
+  --color-input: var(--ui-input);
+  --color-ring: var(--ui-ring);
+  --color-success: var(--ui-success);
+  --color-info: var(--ui-info);
+  /* The site's Kaplan indigo and amber (globals.css), and its readable amber text colour. */
+  --color-brand: var(--brand);
+  --color-amber: var(--accent);
+  --color-amber-ink: var(--accent-ink);
+  --color-amber-text: var(--accent-text);
+  /* Admitted students' first degree, one colour each (the site's validated ramps). */
+  --color-mix-985: var(--mix-985);
+  --color-mix-211: var(--mix-211);
+  --color-mix-other: var(--mix-other);
+  --color-mix-qs50: var(--mix-qs50);
+  --color-mix-qs300: var(--mix-qs300);
+  --color-mix-qsRest: var(--mix-qsRest);
+  --radius-sm: calc(var(--ui-radius) * 0.6);
+  --radius-md: calc(var(--ui-radius) * 0.8);
+  --radius-lg: var(--ui-radius);
+  --radius-xl: calc(var(--ui-radius) * 1.4);
+  --radius-2xl: calc(var(--ui-radius) * 1.8);
+  --radius-3xl: calc(var(--ui-radius) * 2.2);
+  --radius-4xl: calc(var(--ui-radius) * 2.6);
+}
+
+@layer base {
+  /* shadcn's tokens, mostly the site's own colours so both themes stay in step. */
+  :root {
+    --ui-background: var(--bg);
+    --ui-foreground: var(--text);
+    --ui-card: var(--bg);
+    --ui-card-foreground: var(--text);
+    --ui-popover: var(--bg);
+    --ui-popover-foreground: var(--text);
+    --ui-primary: var(--brand);
+    --ui-primary-foreground: #ffffff;
+    --ui-secondary: #efedf8;
+    --ui-secondary-foreground: var(--brand);
+    --ui-muted: var(--surface);
+    --ui-muted-foreground: var(--muted);
+    --ui-accent: #efedf8;
+    --ui-accent-foreground: var(--text);
+    --ui-destructive: var(--danger);
+    --ui-border: var(--border);
+    --ui-input: #d9d5e8;
+    --ui-ring: #5b4fc4;
+    /* Status text and tints: the site's teal and violet ramps, at AA on white. */
+    --ui-success: #00705f;
+    --ui-info: #4b3fb3;
+    --ui-radius: 0.625rem;
+    /* The site header's height (globals.css .site-header .bar). */
+    --ui-header: 68px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ui-card: var(--surface);
+      --ui-popover: #1a1534;
+      --ui-primary: #b9adff;
+      --ui-primary-foreground: #16132b;
+      --ui-secondary: #241e45;
+      --ui-secondary-foreground: var(--text);
+      --ui-muted: #1a1534;
+      --ui-accent: #241e45;
+      --ui-input: #342d58;
+      --ui-ring: #8576e6;
+      --ui-success: #2fb39c;
+      --ui-info: #b9adff;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ui-card: var(--surface);
+    --ui-popover: #1a1534;
+    --ui-primary: #b9adff;
+    --ui-primary-foreground: #16132b;
+    --ui-secondary: #241e45;
+    --ui-secondary-foreground: var(--text);
+    --ui-muted: #1a1534;
+    --ui-accent: #241e45;
+    --ui-input: #342d58;
+    --ui-ring: #8576e6;
+    --ui-success: #2fb39c;
+    --ui-info: #b9adff;
+  }
+
+  /*
+   * /results' own skin (data-rs-skin: on its root, and on <html> while it is open so shadcn's popups
+   * get it too): a black or white canvas, glass surfaces, Kaplan purple for selection and focus.
+   * Only --ui-* and --rs-* are set here; the site's tokens and every other page are untouched.
+   * Every text colour is at AA (4.5:1) on the surfaces it sits on, every control outline at 3:1.
+   */
+  :root[data-rs-skin],
+  .ui[data-rs-skin] {
+    --rs-canvas: #fafafa;
+    --rs-panel: #ffffff;
+    --rs-raised: #f7f7f8;
+    --rs-raised-2: #ffffff;
+    --rs-line: #e5e7eb;                  /* gray-200 */
+    --rs-line-soft: rgb(229 231 235 / 0.6);
+    --rs-glass-tint: rgb(255 255 255 / 0.8);
+    --rs-popover: rgb(255 255 255 / 0.92);
+    --rs-text: #0b0b12;
+    --rs-text-muted: #52525b;            /* zinc-600 */
+    --rs-title-from: #0b0b12;
+    --rs-title-to: rgb(11 11 18 / 0.6);
+    --rs-cta: #0b0b12;
+    --rs-cta-fg: #ffffff;
+    --rs-pill-bg: rgb(243 244 246 / 0.6);
+    --rs-pill-border: #e5e7eb;
+    --rs-accent: #240f6e;                /* the site's --brand, Kaplan purple */
+    --rs-accent-fg: #ffffff;
+    --rs-glow-1: rgb(91 79 196 / 0.22);  /* #5b4fc4, the site's --chart-au */
+    --rs-glow-2: rgb(36 15 110 / 0.08);
+    --rs-shadow: 0 25px 50px -12px rgb(16 12 40 / 0.18);
+    /* The Safe / Match / Reach / Far bands (and check states: meets, below, unknown). */
+    --rs-safe: #00705f;
+    --rs-match: #240f6e;
+    --rs-reach: #a35700;
+    --rs-far: #b42318;
+    --rs-missing: #52525b;
+    --rs-not-eligible: #52525b;
+
+    /* Written once: each var() resolves where the dark --rs-* values apply too. */
+    --rs-glass: var(--rs-glass-tint);
+    --ui-background: var(--rs-canvas);
+    --ui-foreground: var(--rs-text);
+    --ui-card: var(--rs-panel);
+    --ui-card-foreground: var(--rs-text);
+    --ui-popover: var(--rs-popover);
+    --ui-popover-foreground: var(--rs-text);
+    --ui-primary: var(--rs-accent);
+    --ui-primary-foreground: var(--rs-accent-fg);
+    --ui-secondary: #f4f4f5;
+    --ui-secondary-foreground: var(--rs-text);
+    --ui-muted: #f4f4f5;
+    --ui-muted-foreground: var(--rs-text-muted);
+    --ui-accent: #edecf3;                /* the selection tint: #240f6e at 8% on white */
+    --ui-accent-foreground: var(--rs-text);
+    --ui-destructive: var(--rs-far);
+    --ui-border: var(--rs-line);
+    --ui-input: #858590;
+    --ui-ring: #240f6e;
+    --ui-success: var(--rs-safe);
+    --ui-info: #4b3fb3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"])[data-rs-skin],
+    :root:not([data-theme="light"]) .ui[data-rs-skin] {
+      --rs-canvas: #000000;
+      --rs-panel: #0a0a0c;
+      --rs-raised: #141417;
+      --rs-raised-2: #1c1c21;
+      --rs-line: #27272a;                  /* zinc-800: panel dividers */
+      --rs-line-soft: rgb(31 41 55 / 0.5); /* gray-800/50: frame, chrome, hero */
+      --rs-glass-tint: rgb(0 0 0 / 0.8);
+      --rs-popover: rgb(20 20 23 / 0.92);
+      --rs-text: #fafafa;
+      --rs-text-muted: #9ca3af;            /* gray-400 */
+      --rs-title-from: #ffffff;
+      --rs-title-to: rgb(255 255 255 / 0.6);
+      --rs-cta: #ffffff;
+      --rs-cta-fg: #000000;
+      --rs-pill-bg: rgb(31 41 55 / 0.5);   /* gray-800/50 */
+      --rs-pill-border: #374151;           /* gray-700 */
+      --rs-accent: #b9adff;                /* the dark --brand-ink: Kaplan purple on black */
+      --rs-accent-fg: #0b0b12;
+      --rs-glow-1: rgb(133 118 230 / 0.32); /* #8576e6, the site's dark --control */
+      --rs-glow-2: rgb(255 255 255 / 0.06);
+      --rs-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.8);
+      --rs-safe: #2fb39c;
+      --rs-match: #b9adff;
+      --rs-reach: #ffb547;
+      --rs-far: #ff8a7a;
+      --rs-missing: #9ca3af;
+      --rs-not-eligible: #9ca3af;
+
+      --ui-secondary: #1f1f24;
+      --ui-muted: #18181c;
+      --ui-accent: #262433;                /* #b9adff at 16% on the panel */
+      --ui-input: #71717a;
+      --ui-ring: #b9adff;
+      --ui-info: #b9adff;
+    }
+  }
+  :root[data-theme="dark"][data-rs-skin],
+  :root[data-theme="dark"] .ui[data-rs-skin] {
+    --rs-canvas: #000000;
+    --rs-panel: #0a0a0c;
+    --rs-raised: #141417;
+    --rs-raised-2: #1c1c21;
+    --rs-line: #27272a;                  /* zinc-800: panel dividers */
+    --rs-line-soft: rgb(31 41 55 / 0.5); /* gray-800/50: frame, chrome, hero */
+    --rs-glass-tint: rgb(0 0 0 / 0.8);
+    --rs-popover: rgb(20 20 23 / 0.92);
+    --rs-text: #fafafa;
+    --rs-text-muted: #9ca3af;            /* gray-400 */
+    --rs-title-from: #ffffff;
+    --rs-title-to: rgb(255 255 255 / 0.6);
+    --rs-cta: #ffffff;
+    --rs-cta-fg: #000000;
+    --rs-pill-bg: rgb(31 41 55 / 0.5);   /* gray-800/50 */
+    --rs-pill-border: #374151;           /* gray-700 */
+    --rs-accent: #b9adff;                /* the dark --brand-ink: Kaplan purple on black */
+    --rs-accent-fg: #0b0b12;
+    --rs-glow-1: rgb(133 118 230 / 0.32); /* #8576e6, the site's dark --control */
+    --rs-glow-2: rgb(255 255 255 / 0.06);
+    --rs-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.8);
+    --rs-safe: #2fb39c;
+    --rs-match: #b9adff;
+    --rs-reach: #ffb547;
+    --rs-far: #ff8a7a;
+    --rs-missing: #9ca3af;
+    --rs-not-eligible: #9ca3af;
+
+    --ui-secondary: #1f1f24;
+    --ui-muted: #18181c;
+    --ui-accent: #262433;                /* #b9adff at 16% on the panel */
+    --ui-input: #71717a;
+    --ui-ring: #b9adff;
+    --ui-info: #b9adff;
+  }
+  /*
+   * The Programme finder's skin (data-finder: on its root, and on <html> while it is open so popups get it):
+   * white cards on a near-white canvas, near-black ink and controls, blue for a requirement met and orange
+   * for a gap. Dark is the same tokens inverted. Inter for type (--font-inter, set on <html> with it).
+   */
+  :root[data-finder],
+  .ui[data-finder] {
+    --font-archivo: var(--font-inter);
+    --fd-canvas: #fafafa;
+    --fd-ink: #12111f;
+    --fd-met: #2448c7;
+    --fd-met-bg: #eef2fd;
+    --fd-gap: #c2410c;
+    --fd-gap-bg: #fff3eb;
+    --fd-none-bg: #f1f1f4;
+    --fd-dot-off: #e2e2e8;
+    /* Match rate bands (lib/admit-model.ts): under 30% red, 30–60% amber, above 60% green; text colours, AA on white. */
+    --fd-match-gap: #c62828;
+    --fd-match-range: #a35700;
+    --fd-match-strong: #1e7a44;
+    --ui-background: var(--fd-canvas);
+    --ui-foreground: var(--fd-ink);
+    --ui-card: #ffffff;
+    --ui-card-foreground: var(--fd-ink);
+    --ui-popover: #ffffff;
+    --ui-popover-foreground: var(--fd-ink);
+    --ui-primary: var(--fd-ink);
+    --ui-primary-foreground: #ffffff;
+    --ui-secondary: #f1f1f4;
+    --ui-secondary-foreground: var(--fd-ink);
+    --ui-muted: #f1f1f4;
+    --ui-muted-foreground: #5f5f6e;
+    --ui-accent: #f1f1f4;
+    --ui-accent-foreground: var(--fd-ink);
+    --ui-border: #e4e4e9;
+    --ui-input: #d4d4dc;
+    --ui-ring: var(--fd-ink);
+    --ui-info: var(--fd-met);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"])[data-finder],
+    :root:not([data-theme="light"]) .ui[data-finder] {
+      --fd-canvas: #09090c;
+      --fd-ink: #f4f4f6;
+      --fd-met: #9db4ff;
+      --fd-met-bg: #18203d;
+      --fd-gap: #ffab70;
+      --fd-gap-bg: #3a2312;
+      --fd-none-bg: #1d1d23;
+      --fd-dot-off: #2c2c34;
+      --fd-match-gap: #ff8a80;
+      --fd-match-range: #ffb547;
+      --fd-match-strong: #5fd38d;
+      --ui-card: #121216;
+      --ui-popover: #121216;
+      --ui-primary-foreground: #09090c;
+      --ui-secondary: #1d1d23;
+      --ui-muted: #1d1d23;
+      --ui-muted-foreground: #a3a3b0;
+      --ui-accent: #1d1d23;
+      --ui-border: #2a2a32;
+      --ui-input: #3a3a44;
+    }
+  }
+  :root[data-theme="dark"][data-finder],
+  :root[data-theme="dark"] .ui[data-finder] {
+    --fd-canvas: #09090c;
+    --fd-ink: #f4f4f6;
+    --fd-met: #9db4ff;
+    --fd-met-bg: #18203d;
+    --fd-gap: #ffab70;
+    --fd-gap-bg: #3a2312;
+    --fd-none-bg: #1d1d23;
+    --fd-dot-off: #2c2c34;
+    --fd-match-gap: #ff8a80;
+    --fd-match-range: #ffb547;
+    --fd-match-strong: #5fd38d;
+    --ui-card: #121216;
+    --ui-popover: #121216;
+    --ui-primary-foreground: #09090c;
+    --ui-secondary: #1d1d23;
+    --ui-muted: #1d1d23;
+    --ui-muted-foreground: #a3a3b0;
+    --ui-accent: #1d1d23;
+    --ui-border: #2a2a32;
+    --ui-input: #3a3a44;
+  }
+  .ui[data-finder] .font-heading,
+  :root[data-finder] [data-slot] .font-heading {
+    font-stretch: normal;
+  }
+
+  /* The frame's inside is the panel colour; the canvas stays outside it. */
+  .ui[data-rs-skin] [data-rs-frame] {
+    --ui-background: var(--rs-panel);
+  }
+  /* Glass popups: utilities set their colour, this adds the blur (no utility sets it). */
+  :root[data-rs-skin] :where([data-slot="popover-content"], [data-slot="select-content"], [data-slot="sheet-content"], [data-slot="preview-card-content"]) {
+    -webkit-backdrop-filter: blur(12px) saturate(150%);
+    backdrop-filter: blur(12px) saturate(150%);
+  }
+  /* No see-through surfaces for people who ask for that (the dark blocks set only the tints). */
+  @media (prefers-reduced-transparency: reduce) {
+    :root[data-rs-skin],
+    .ui[data-rs-skin] {
+      --ui-popover: var(--rs-panel);
+      --rs-glass: var(--rs-panel);
+    }
+  }
+
+  /* Tailwind's preflight, inside the workspace and shadcn's popups only. */
+  :where(.ui, .ui *, [data-slot], [data-slot] *),
+  :where(.ui, .ui *, [data-slot], [data-slot] *)::before,
+  :where(.ui, .ui *, [data-slot], [data-slot] *)::after,
+  :where(.ui, .ui *, [data-slot], [data-slot] *)::backdrop {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0 solid;
+    border-color: var(--color-border);
+    outline-color: color-mix(in oklab, var(--color-ring) 50%, transparent);
+  }
+  :where(.ui, [data-slot="popover-content"], [data-slot="select-content"], [data-slot="tooltip-content"], [data-slot="sheet-content"]) {
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+  }
+  :where(.ui, [data-slot]) :where(h1, h2, h3, h4, h5, h6) {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+  :where(.ui, [data-slot]) :where(ol, ul, menu) {
+    list-style: none;
+  }
+  :where(.ui, [data-slot]) :where(img, svg, video, canvas, audio, iframe, embed, object) {
+    display: block;
+    vertical-align: middle;
+  }
+  :where(.ui, [data-slot]) :where(img, video) {
+    max-width: 100%;
+    height: auto;
+  }
+  :where(.ui, [data-slot]) :where(button, input, select, optgroup, textarea) {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    border-radius: 0;
+    background-color: transparent;
+    opacity: 1;
+  }
+  :where(.ui, [data-slot]) :where(button, input:where([type="button"], [type="reset"], [type="submit"])) {
+    appearance: button;
+  }
+  :where(.ui, [data-slot]) :where(a) {
+    color: inherit;
+    text-decoration: inherit;
+  }
+  :where(.ui, [data-slot]) :where(b, strong) {
+    font-weight: bolder;
+  }
+  :where(.ui, [data-slot]) :where(small) {
+    font-size: 80%;
+  }
+  :where(.ui, [data-slot]) :where(table) {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+  :where(.ui, [data-slot]) :where(textarea) {
+    resize: vertical;
+  }
+  :where(.ui, [data-slot]) :where(input, textarea)::placeholder {
+    opacity: 1;
+    color: color-mix(in oklab, currentcolor 50%, transparent);
+  }
+  :where(.ui, [data-slot]) :where([hidden]:not([hidden="until-found"])) {
+    display: none !important;
+  }
+  /* Headings use Archivo's expanded width, as on the rest of the site. */
+  :where(.ui, [data-slot]) .font-heading {
+    font-stretch: var(--display-stretch);
+  }
+}
+
+/*
+ * The site's .container (globals.css) for content inside .ui: the scoped preflight above sits in a
+ * later layer than the site's styles and would reset that class's margin and padding.
+ */
+@utility home-wrap {
+  width: 100%;
+  max-width: var(--max);
+  margin-inline: auto;
+  padding-left: max(var(--gutter), env(safe-area-inset-left));
+  padding-right: max(var(--gutter), env(safe-area-inset-right));
+}
+
+/* /results' hero title: Archivo filled with a top-down gradient (the skin's --rs-title-*). */
+@utility rs-title {
+  background-image: linear-gradient(to bottom, var(--rs-title-from), var(--rs-title-from), var(--rs-title-to));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  @media (forced-colors: active) {
+    background: none;
+    color: CanvasText;
+  }
+}
+
+/* The soft light behind /results' workspace frame: CSS only, no image. */
+@utility rs-glow {
+  background:
+    radial-gradient(50% 50% at 50% 50%, var(--rs-glow-1), transparent 70%),
+    radial-gradient(70% 60% at 50% 40%, var(--rs-glow-2), transparent 75%);
+  filter: blur(48px);
+}

@@ -1,0 +1,57 @@
+  ✓ murdoch-bachelor-of-business-in-banking: 6 core, 3 quals, 2 fees, 1 grants
+  ✓ murdoch-bachelor-of-business-in-accounting: 9 core, 3 quals, 2 fees, 1 grants
+  ✓ murdoch-bachelor-of-business-in-finance: 7 core, 3 quals, 4 fees, 2 grants
+  ✓ murdoch-bachelor-of-business-in-business-law: 5 core, 3 quals, 4 fees, 2 grants
+  ✓ murdoch-bachelor-of-business-in-human-resources-management: 7 core, 3 quals, 2 fees, 1 grants
+  ✓ murdoch-bachelor-of-business-in-international-business: 6 core, 3 quals, 4 fees, 2 grants
+  ✓ murdoch-bachelor-of-business-in-management: 7 core, 3 quals, 2 fees, 2 grants
+  ✓ murdoch-bachelor-of-business-in-marketing: 7 core, 3 quals, 2 fees, 2 grants
+  ✓ murdoch-bachelor-of-business-in-hospitality-and-tourism-management: 5 core, 3 quals, 4 fees, 2 grants
+  ✓ murdoch-bachelor-of-communication-in-communication-and-media-studies: 8 core, 3 quals, 2 fees, 1 grants
+  ✓ murdoch-bachelor-of-communication-in-digital-communication: 8 core, 3 quals, 4 fees, 1 grants
+  ✓ murdoch-bachelor-of-communication-in-strategic-communication: 9 core, 3 quals, 2 fees, 1 grants
+  ✓ murdoch-bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems: 11 core, 3 quals, 4 fees, 2 grants
+  ✓ murdoch-bachelor-of-information-technology-in-business-information-systems: 11 core, 3 quals, 2 fees, 1 grants
+  ✓ murdoch-bachelor-of-information-technology-in-computer-science: 12 core, 3 quals, 2 fees, 1 grants
+  ✓ murdoch-bachelor-of-information-technology-in-cyber-security-and-forensics: 10 core, 3 quals, 2 fees, 2 grants
+  ✓ murdoch-bachelor-of-information-technology-in-games-design-and-development: 10 core, 3 quals, 2 fees, 1 grants
+  ✗ https://www.kaplan.com.sg/bachelors-degree/bachelor-of-data-analytics-in-data-science: http HTTP 404
+  ✓ murdoch-bachelor-of-data-analytics-in-business-intelligence: 11 core, 3 quals, 4 fees, 2 grants
+  ✗ https://www.kaplan.com.sg/bachelors-degree/bachelor-of-data-analytics-in-fintech: http HTTP 404
+  ✓ murdoch-bachelor-of-psychology-in-psychological-science: 12 core, 3 quals, 1 fees, 2 grants
+  ✓ murdoch-bachelor-of-criminology-in-criminal-behaviour: 11 core, 3 quals, 5 fees, 2 grants
+  ✓ northumbria-bsc-hons-global-business-management: 10 core, 8 quals, 2 fees, 1 grants
+  ✓ northumbria-bsc-hons-global-business-management-logistics-and-supply-chain: 10 core, 8 quals, 4 fees, 1 grants
+  ✓ northumbria-bsc-hons-global-business-management-human-resources: 10 core, 4 quals, 4 fees, 1 grants
+  ✓ northumbria-bsc-hons-international-tourism-hospitality-and-events: 11 core, 8 quals, 2 fees, 1 grants
+  ✓ northumbria-ba-hons-mass-communication-with-public-relations-top-up: 11 core, 9 quals, 3 fees, 1 grants
+  ✓ northumbria-ba-hons-in-childhood-and-early-years-studies-top-up: 11 core, 3 quals, 1 fees, 1 grants
+  ✗ https://www.kaplan.com.sg/bachelors-degree/bachelor-of-science-honours-psychology-clinical-psychology-top-up: blocked HTTP 403 (not bypassed)
+  ✓ northumbria-ba-hons-in-guidance-and-counselling-top-up: 11 core, 3 quals, 1 fees, 1 grants
+  ✓ northumbria-bachelor-of-science-nursing-top-up-for-registered-nurses: 8 core, 2 quals, 1 fees, 1 grants
+  ✓ bcu-ba-hons-business-administration-top-up: 6 core, 3 quals, 1 fees, 1 grants
+  ✓ bcu-ba-hons-international-marketing-top-up: 6 core, 3 quals, 1 fees, 1 grants
+  ✓ bcu-ba-hons-in-international-business-top-up: 6 core, 3 quals, 1 fees, 1 grants
+  ✓ bcu-ba-with-honours-digital-marketing-top-up: 3 core, 3 quals, 1 fees, 1 grants
+  ✓ bcu-bsc-with-honours-construction-management-top-up: 5 core, 2 quals, 1 fees, 1 grants
+  ✓ bcu-bachelor-of-laws-honours-top-up: 11 core, 2 quals, 1 fees, 1 grants
+  ✓ bcu-bsc-with-honours-computer-science-global-top-up: 6 core, 3 quals, 1 fees, 2 grants
+  ✓ bcu-bsc-with-honours-computer-science-with-artificial-intelligence-global-top-up: 6 core, 3 quals, 1 fees, 2 grants
+  ✓ bcu-bsc-with-honours-cyber-security-global-top-up: 6 core, 3 quals, 1 fees, 1 grants
+  ✓ bcu-bsc-with-honours-digital-forensics-global-top-up: 6 core, 3 quals, 1 fees, 1 grants
+  ✓ portsmouth-ba-hons-in-accountancy-and-financial-management-top-up: 8 core, 3 quals, 2 fees, 1 grants
+  ✓ portsmouth-bsc-hons-computer-science-top-up: 11 core, 3 quals, 2 fees, 1 grants
+  ✓ portsmouth-bsc-hons-cyber-security-and-forensic-computing-top-up: 10 core, 3 quals, 2 fees, 2 grants
+  ✓ portsmouth-bsc-hons-data-science-and-analytics-top-up: 10 core, 3 quals, 2 fees, 2 grants
+  ✓ portsmouth-bsc-with-honours-in-psychology-top-up: 11 core, 6 quals, 2 fees, 1 grants
+  ✓ ucd-bachelor-of-business-studies-honours-business-analytics-top-up: 12 core, 4 quals, 3 fees, 1 grants
+  ✓ ucd-bachelor-of-business-studies-honours-digital-business-top-up: 12 core, 4 quals, 3 fees, 1 grants
+  ✓ ucd-bachelor-of-business-studies-honours-fintech-top-up: 12 core, 4 quals, 2 fees, 1 grants
+  ✓ ucd-bachelor-of-business-studies-honours-finance-top-up: 12 core, 4 quals, 2 fees, 1 grants
+  ✓ ucd-bachelor-of-business-studies-honours-human-resource-management-top-up: 12 core, 4 quals, 3 fees, 1 grants
+  ✓ ucd-bachelor-of-business-studies-honours-logistics-and-supply-chain-management-top-up: 12 core, 4 quals, 2 fees, 1 grants
+  ✓ ucd-bachelor-of-business-studies-honours-management-top-up: 12 core, 4 quals, 3 fees, 1 grants
+  ✓ ucd-bachelor-of-business-studies-honours-marketing-top-up: 12 core, 4 quals, 2 fees, 1 grants
+  ✓ ucd-bachelor-of-business-studies-honours-project-management-top-up: 12 core, 4 quals, 2 fees, 1 grants
+  ✓ monash-bachelor-of-education-in-early-childhood-top-up: 5 core, 3 quals, 2 fees, 1 grants
+53 programmes, 3 failures, 12 dropped fields · tokens in 559330 out 70082

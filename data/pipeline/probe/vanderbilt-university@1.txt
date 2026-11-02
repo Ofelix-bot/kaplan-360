@@ -1,0 +1,6 @@
+# vanderbilt-university@1 https://www.vanderbilt.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.vanderbilt.edu/sitemap.xml: 1 children (1 course-like)
+sitemaps read 2 · urls 78 · master's-looking 1
+    1  www.vanderbilt.edu/admissions
+         https://www.vanderbilt.edu/admissions/graduate-professional-school-admissions/

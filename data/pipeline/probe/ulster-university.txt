@@ -1,0 +1,129 @@
+# ulster-university https://www.ulster.ac.uk
+robots sitemaps: https://www.ulster.ac.uk/Sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.ulster.ac.uk/Sitemap.xml: 35 children (6 course-like)
+sitemaps read 36 · urls 15780 · master's-looking 862
+   39  www.ulster.ac.uk/study/part-time/undergraduate
+         https://www.ulster.ac.uk/study/part-time/undergraduate/part-time-undergraduate-subjects/social-work-and-community-youth-work
+         https://www.ulster.ac.uk/study/part-time/undergraduate/part-time-undergraduate-subjects/accounting
+         https://www.ulster.ac.uk/study/part-time/undergraduate/part-time-undergraduate-subjects/architecture-and-the-built-environment
+         https://www.ulster.ac.uk/study/part-time/undergraduate/part-time-undergraduate-subjects/art
+   33  www.ulster.ac.uk/programme
+         https://www.ulster.ac.uk/programme/undergraduate-art-and-design-foundation-year-45600-bachelor-of-arts-with-honours
+         https://www.ulster.ac.uk/programme/undergraduate-art-and-design-foundation-year-41425-bachelor-of-arts-with-honours
+         https://www.ulster.ac.uk/programme/undergraduate-law-with-computing-45208-bachelor-of-laws-with-honours
+         https://www.ulster.ac.uk/programme/undergraduate-law-with-computing-40729-bachelor-of-laws-with-honours
+   32  www.ulster.ac.uk/study/postgraduate/courses
+         https://www.ulster.ac.uk/study/postgraduate/courses/january-starts/arts-and-humanities-postgrad-courses
+         https://www.ulster.ac.uk/study/postgraduate/courses/january-starts
+         https://www.ulster.ac.uk/study/postgraduate/courses/january-starts/medicine,-health-and-biomedical-science-postgrad-courses
+         https://www.ulster.ac.uk/study/postgraduate/courses/january-starts/law-postgrad-courses
+   27  www.ulster.ac.uk/study/undergraduate/undergraduate-subjects
+         https://www.ulster.ac.uk/study/undergraduate/undergraduate-subjects/english-irish-linguistics-liberal-arts
+         https://www.ulster.ac.uk/study/undergraduate/undergraduate-subjects/biology-biomedical-sciences
+         https://www.ulster.ac.uk/study/undergraduate/undergraduate-subjects/business-management-leadership-and-marketing
+         https://www.ulster.ac.uk/study/undergraduate/undergraduate-subjects/communication-and-media
+   24  www.ulster.ac.uk/study/postgraduate/open-days
+         https://www.ulster.ac.uk/study/postgraduate/open-days/2026-postgraduate-information-events/nw-depth-realising-our-digital-potential-conference
+         https://www.ulster.ac.uk/study/postgraduate/open-days/2026-postgraduate-information-events/pgce-post-primary-meet-the-tutors
+         https://www.ulster.ac.uk/study/postgraduate/open-days/2026-postgraduate-information-events/pgce-post-primary-information-session-coleraine
+         https://www.ulster.ac.uk/study/postgraduate/open-days/2026-postgraduate-information-events/pgce-post-primary-information-session-dld
+   20  www.ulster.ac.uk/alumniandsupporters/updates/other
+         https://www.ulster.ac.uk/alumniandsupporters/updates/other/ulster-university-graduate,-aoife-harvey,-weaving-her-way-to-the-top-of-nis-fashion-scene
+         https://www.ulster.ac.uk/alumniandsupporters/updates/other/ulster-graduate-colin-williams-discusses-need-for-stronger-links-between-education-and-industry
+         https://www.ulster.ac.uk/alumniandsupporters/updates/other/graduate-in-the-spotlight-featuring-spark
+         https://www.ulster.ac.uk/alumniandsupporters/updates/other/reach-your-career-goals-with-discounted-postgraduate-study-options
+   20  www.ulster.ac.uk/student/employability/graduates
+         https://www.ulster.ac.uk/student/employability/graduates/opportunities/jobs
+         https://www.ulster.ac.uk/student/employability/graduates/opportunities
+         https://www.ulster.ac.uk/student/employability/graduates/apply-and-compete/create/linkedin
+         https://www.ulster.ac.uk/student/employability/graduates/graduate-outcomes
+   20  www.ulster.ac.uk/study/undergraduate/events
+         https://www.ulster.ac.uk/study/undergraduate/events/2026/discover-geography,-environmental-sciences-and-marine-science-at-ulster-university
+         https://www.ulster.ac.uk/study/undergraduate/events/2026/mbbs-medicine-webinar-june-2026
+         https://www.ulster.ac.uk/study/undergraduate/events/2026/live-webinar-study-at-ulster,-for-saudi-arabian-students
+         https://www.ulster.ac.uk/study/undergraduate/events/2026/live-webinar-study-at-ulster,-for-kuwaiti-students
+   20  www.ulster.ac.uk/news/2017/july
+         https://www.ulster.ac.uk/news/2017/july/local-martial-art-champion-graduates-from-uister-university
+         https://www.ulster.ac.uk/news/2017/july/ulster-university-graduate-has-her-eye-on-the-ball
+         https://www.ulster.ac.uk/news/2017/july/ulster-university-engineering-students-graduate
+         https://www.ulster.ac.uk/news/2017/july/aspiring-young-film-maker-one-of-the-first-to-graduate-from-ulster-universitys-new-cinematic-arts-course
+   19  www.ulster.ac.uk/study/short-courses/postgraduate-subjects
+         https://www.ulster.ac.uk/study/short-courses/postgraduate-subjects/law
+         https://www.ulster.ac.uk/study/short-courses/postgraduate-subjects/sport
+         https://www.ulster.ac.uk/study/short-courses/postgraduate-subjects/peace-and-conflict-studies
+         https://www.ulster.ac.uk/study/short-courses/postgraduate-subjects/psychology
+   14  www.ulster.ac.uk/study/undergraduate
+         https://www.ulster.ac.uk/study/undergraduate/applicant-events
+         https://www.ulster.ac.uk/study/undergraduate/open-days
+         https://www.ulster.ac.uk/study/undergraduate/associate-students
+         https://www.ulster.ac.uk/study/undergraduate/advice-centre
+   14  www.ulster.ac.uk/student/employability/graduate-award
+         https://www.ulster.ac.uk/student/employability/graduate-award/activities/subject-specific/activities-for-nursing-students
+         https://www.ulster.ac.uk/student/employability/graduate-award/activities/employability-activities
+         https://www.ulster.ac.uk/student/employability/graduate-award/activities/student-success-centre
+         https://www.ulster.ac.uk/student/employability/graduate-award/activities/easc-programme
+   14  www.ulster.ac.uk/news/2018/july
+         https://www.ulster.ac.uk/news/2018/july/honorary-graduate-the-very-reverend-dr-william-morton
+         https://www.ulster.ac.uk/news/2018/july/honorary-graduate-the-very-reverend-john-owen-mann
+         https://www.ulster.ac.uk/news/2018/july/honorary-graduate-dr-dermot-diamond
+         https://www.ulster.ac.uk/news/2018/july/honorary-graduate-dr-ingrid-surgenor
+   13  www.ulster.ac.uk/alumniandsupporters/allstate-student-and-graduate-awards/graduate-of-the-year-award-winners
+         https://www.ulster.ac.uk/alumniandsupporters/allstate-student-and-graduate-awards/graduate-of-the-year-award-winners/damian-coyle-mbe-2022-distinguished-graduate-of-the-year-award-winner
+         https://www.ulster.ac.uk/alumniandsupporters/allstate-student-and-graduate-awards/graduate-of-the-year-award-winners/samuel-pollock-2023-distinguished-graduate-of-the-year-award-winner
+         https://www.ulster.ac.uk/alumniandsupporters/allstate-student-and-graduate-awards/graduate-of-the-year-award-winners/distinguished-graduate-2
+         https://www.ulster.ac.uk/alumniandsupporters/allstate-student-and-graduate-awards/graduate-of-the-year-award-winners/award-winners2
+   13  www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2016
+         https://www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2016/lady-brenda-hale
+         https://www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2016/dr-stephen-spinelli
+         https://www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2016/sister-mary-turley
+         https://www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2016/josef-joe-schmidt
+   13  www.ulster.ac.uk/news/2020/december
+         https://www.ulster.ac.uk/news/2020/december/phd-graduate-praises-ulster-university-for-career-development
+         https://www.ulster.ac.uk/news/2020/december/disability-advocate-overcomes-health-issues-to-graduate-with-phd-from-ulster-university
+         https://www.ulster.ac.uk/news/2020/december/international-phd-graduate-relishes-his-experience-at-magee
+         https://www.ulster.ac.uk/news/2020/december/ulster-international-event-management-graduate-goes-global
+   12  www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2025
+         https://www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2025/graduates-in-the-spotlight-march-2025
+         https://www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2025/graduates-in-the-spotlight-december-2025
+         https://www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2025/graduates-in-the-spotlight-november-2025
+         https://www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2025/graduates-in-the-spotlight-october-2025
+   12  www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2013
+         https://www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2013/dr-daniel-m-rooney
+         https://www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2013/inez-mccormack
+         https://www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2013/dr-joe-sloan
+         https://www.ulster.ac.uk/alumniandsupporters/honorary-graduates/2013/dr-john-fay
+   12  www.ulster.ac.uk/news/2021/july
+         https://www.ulster.ac.uk/news/2021/july/ulster-phd-graduate-shines-spotlight-on-portrayal-of-mental-health-and-suicide-in-filmmaking
+         https://www.ulster.ac.uk/news/2021/july/ulster-university-student-overcomes-cancer-to-graduate-with-first-class-honours
+         https://www.ulster.ac.uk/news/2021/july/ulster-universitys-edge-excel-student-of-the-year-graduates-with-an-accolade-of-achievements
+         https://www.ulster.ac.uk/news/2021/july/ulster-graduate-inspired-by-sons-heart-condition-to-pursue-a-career-in-cardiac-physiology
+   11  www.ulster.ac.uk/doctoralcollege/postgraduate-research
+         https://www.ulster.ac.uk/doctoralcollege/postgraduate-research/competition
+         https://www.ulster.ac.uk/doctoralcollege/postgraduate-research/self-funded-and-private-sponsor
+         https://www.ulster.ac.uk/doctoralcollege/postgraduate-research/doctoral-partnerships
+         https://www.ulster.ac.uk/doctoralcollege/postgraduate-research/mres
+   10  www.ulster.ac.uk/news/2019/july
+         https://www.ulster.ac.uk/news/2019/july/earn-as-you-learn-first-higher-level-apprentices-in-applied-pharmaceutical-sciences-graduate-from-ulster-university
+         https://www.ulster.ac.uk/news/2019/july/all-ireland-champion-graduates-from-ulster-university
+         https://www.ulster.ac.uk/news/2019/july/ulster-university-graduates-recognised-with-librarianship-excellence-award
+         https://www.ulster.ac.uk/news/2019/july/honorary-graduate-suren-gupta
+    9  www.ulster.ac.uk/study/prospectus
+         https://www.ulster.ac.uk/study/prospectus/postgraduate-prospectus
+         https://www.ulster.ac.uk/study/prospectus/download-undergraduate-prospectus-for-202728
+         https://www.ulster.ac.uk/study/prospectus/download-gb-undergraduate-prospectus-for-202728
+         https://www.ulster.ac.uk/study/prospectus/download-roi-undergraduate-prospectus-for-202728
+    9  www.ulster.ac.uk/study/postgraduate
+         https://www.ulster.ac.uk/study/postgraduate/open-days
+         https://www.ulster.ac.uk/study/postgraduate/support-for-businesses
+         https://www.ulster.ac.uk/study/postgraduate/conversion-courses
+         https://www.ulster.ac.uk/study/postgraduate/graduates
+    9  www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2026
+         https://www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2026/graduates-in-the-spotlight-september-2026
+         https://www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2026/graduates-in-the-spotlight-august-2026
+         https://www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2026/graduates-in-the-spotlight-july-2026
+         https://www.ulster.ac.uk/alumniandsupporters/in-the-spotlight/2026/graduates-in-the-spotlight-june-2026
+    9  www.ulster.ac.uk/doctoralcollege/postgraduate-research/apply
+         https://www.ulster.ac.uk/doctoralcollege/postgraduate-research/apply/how-to
+         https://www.ulster.ac.uk/doctoralcollege/postgraduate-research/apply/re-admission
+         https://www.ulster.ac.uk/doctoralcollege/postgraduate-research/apply/exchange
+         https://www.ulster.ac.uk/doctoralcollege/postgraduate-research/apply/international-students

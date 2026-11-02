@@ -1,0 +1,8 @@
+# university-of-victoria@1 https://www.uvic.ca
+robots sitemaps: https://www.uvic.ca/sitemapindex.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.uvic.ca/sitemapindex.xml: 7 children (0 course-like)
+sitemap https://www.uvic.ca/research/sitemap.xml: http HTTP 404
+sitemap https://www.uvic.ca/news/sitemap.xml: http HTTP 404
+sitemap https://www.uvic.ca/news/rss-current-stories.xml: http HTTP 404
+sitemap https://web.uvic.ca/sitemap.calendar.xml: blocked HTTP 403 (not bypassed)
+sitemaps read 8 · urls 417 · master's-looking 0

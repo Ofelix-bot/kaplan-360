@@ -1,0 +1,17 @@
+# ucsi-university https://www.ucsiuniversity.edu.my
+robots sitemaps: https://www.ucsiuniversity.edu.my/sitemap.xml · crawl-delay: 10 · AI-agent groups: 0
+sitemaps read 1 · urls 282 · master's-looking 49
+   42  www.ucsiuniversity.edu.my/programmes
+         https://www.ucsiuniversity.edu.my/programmes/master-science-pharmaceutical-sciences
+         https://www.ucsiuniversity.edu.my/programmes/master-philosophy-built-environment
+         https://www.ucsiuniversity.edu.my/programmes/master-science-mathematical-sciences
+         https://www.ucsiuniversity.edu.my/programmes/master-science-computer-science
+    5  www.ucsiuniversity.edu.my/postgraduate
+         https://www.ucsiuniversity.edu.my/postgraduate/graduate-research-assistant-gra-opportunities
+         https://www.ucsiuniversity.edu.my/postgraduate/contact-us
+         https://www.ucsiuniversity.edu.my/postgraduate/about-us-2
+         https://www.ucsiuniversity.edu.my/postgraduate/postgraduate-testimonial
+    1  www.ucsiuniversity.edu.my/postgraduate-student-publications
+         https://www.ucsiuniversity.edu.my/postgraduate-student-publications
+    1  www.ucsiuniversity.edu.my/graduate-attributes
+         https://www.ucsiuniversity.edu.my/graduate-attributes

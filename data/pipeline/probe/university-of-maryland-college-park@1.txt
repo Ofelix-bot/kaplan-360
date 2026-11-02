@@ -1,0 +1,4 @@
+# university-of-maryland-college-park@1 https://umd.edu
+robots sitemaps: https://umd.edu/sitemaps-1-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://umd.edu/sitemaps-1-sitemap.xml: 11 children (6 course-like)
+sitemaps read 12 · urls 68 · master's-looking 0

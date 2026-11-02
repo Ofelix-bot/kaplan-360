@@ -1,0 +1,3776 @@
+{
+  "澳门大学": {
+    "english": "University of Macau",
+    "country": "Macau SAR",
+    "institutionId": "university-of-macau",
+    "how": "exact"
+  },
+  "格拉斯哥大学": {
+    "english": "University of Glasgow",
+    "country": "United Kingdom",
+    "institutionId": "university-of-glasgow",
+    "how": "exact"
+  },
+  "布里斯托大学": {
+    "english": "University of Bristol",
+    "country": "United Kingdom",
+    "institutionId": "university-of-bristol",
+    "how": "exact"
+  },
+  "利兹大学": {
+    "english": "University of Leeds",
+    "country": "United Kingdom",
+    "institutionId": "university-of-leeds",
+    "how": "exact"
+  },
+  "华威大学": {
+    "english": "University of Warwick",
+    "country": "United Kingdom",
+    "institutionId": "university-of-warwick",
+    "how": "exact"
+  },
+  "莫纳什大学": {
+    "english": "Monash University",
+    "country": "Australia",
+    "institutionId": "monash-university",
+    "how": "exact"
+  },
+  "悉尼大学": {
+    "english": "The University of Sydney",
+    "country": "Australia",
+    "institutionId": "university-of-sydney",
+    "how": "exact"
+  },
+  "南安普顿大学": {
+    "english": "University of Southampton",
+    "country": "United Kingdom",
+    "institutionId": "university-of-southampton",
+    "how": "exact"
+  },
+  "谢菲尔德大学": {
+    "english": "The University of Sheffield",
+    "country": "United Kingdom",
+    "institutionId": "university-of-sheffield",
+    "how": "exact"
+  },
+  "诺丁汉大学": {
+    "english": "University of Nottingham",
+    "country": "United Kingdom",
+    "institutionId": "university-of-nottingham",
+    "how": "exact"
+  },
+  "阿德莱德大学": {
+    "english": "The University of Adelaide",
+    "country": "Australia",
+    "institutionId": "adelaide-university",
+    "how": "exact"
+  },
+  "昆士兰大学": {
+    "english": "The University of Queensland",
+    "country": "Australia",
+    "institutionId": "university-of-queensland",
+    "how": "exact"
+  },
+  "爱丁堡大学": {
+    "english": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "institutionId": "university-of-edinburgh",
+    "how": "exact"
+  },
+  "墨尔本大学": {
+    "english": "The University of Melbourne",
+    "country": "Australia",
+    "institutionId": "university-of-melbourne",
+    "how": "exact"
+  },
+  "伯明翰大学": {
+    "english": "University of Birmingham",
+    "country": "United Kingdom",
+    "institutionId": "university-of-birmingham",
+    "how": "exact"
+  },
+  "香港科技大学（广州）": {
+    "english": "The Hong Kong University of Science and Technology (Guangzhou)",
+    "country": "China (Mainland)",
+    "institutionId": "hong-kong-university-of-science-and-technology",
+    "how": "exact"
+  },
+  "马来西亚理科大学": {
+    "english": "Universiti Sains Malaysia",
+    "country": "Malaysia",
+    "institutionId": null,
+    "how": "none"
+  },
+  "纽约大学": {
+    "english": "New York University",
+    "country": "United States",
+    "institutionId": "new-york-university",
+    "how": "exact"
+  },
+  "澳大利亚国立大学": {
+    "english": "The Australian National University",
+    "country": "Australia",
+    "institutionId": "australian-national-university",
+    "how": "exact"
+  },
+  "新南威尔士大学": {
+    "english": "UNSW Sydney",
+    "country": "Australia",
+    "institutionId": "university-of-new-south-wales",
+    "how": "exact"
+  },
+  "伦敦大学玛丽皇后学院": {
+    "english": "Queen Mary University of London",
+    "country": "United Kingdom",
+    "institutionId": "queen-mary-university-of-london",
+    "how": "exact"
+  },
+  "香港城市大学（东莞）": {
+    "english": "City University of Hong Kong (Dongguan)",
+    "country": "China (Mainland)",
+    "institutionId": "city-university-of-hong-kong",
+    "how": "exact"
+  },
+  "悉尼科技大学": {
+    "english": "University of Technology Sydney",
+    "country": "Australia",
+    "institutionId": "university-of-technology-sydney",
+    "how": "exact"
+  },
+  "巴斯大学": {
+    "english": "University of Bath",
+    "country": "United Kingdom",
+    "institutionId": "university-of-bath",
+    "how": "exact"
+  },
+  "杜克大学": {
+    "english": "Duke University",
+    "country": "United States",
+    "institutionId": "duke-university",
+    "how": "exact"
+  },
+  "伦敦大学学院": {
+    "english": "University College London",
+    "country": "United Kingdom",
+    "institutionId": "ucl",
+    "how": "exact"
+  },
+  "波士顿大学": {
+    "english": "Boston University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "马来亚大学": {
+    "english": "Universiti Malaya",
+    "country": "Malaysia",
+    "institutionId": null,
+    "how": "none"
+  },
+  "西澳大学": {
+    "english": "The University of Western Australia",
+    "country": "Australia",
+    "institutionId": "university-of-western-australia",
+    "how": "exact"
+  },
+  "哥伦比亚大学": {
+    "english": "Columbia University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "伦敦大学国王学院": {
+    "english": "King's College London",
+    "country": "United Kingdom",
+    "institutionId": "king-s-college-london",
+    "how": "exact"
+  },
+  "杜伦大学": {
+    "english": "Durham University",
+    "country": "United Kingdom",
+    "institutionId": "durham-university",
+    "how": "exact"
+  },
+  "曼彻斯特大学": {
+    "english": "The University of Manchester",
+    "country": "United Kingdom",
+    "institutionId": "university-of-manchester",
+    "how": "exact"
+  },
+  "伦敦政治经济学院": {
+    "english": "The London School of Economics and Political Science",
+    "country": "United Kingdom",
+    "institutionId": "london-school-of-economics-and-political-science",
+    "how": "exact"
+  },
+  "利物浦大学": {
+    "english": "University of Liverpool",
+    "country": "United Kingdom",
+    "institutionId": "university-of-liverpool",
+    "how": "exact"
+  },
+  "约翰霍普金斯大学": {
+    "english": "Johns Hopkins University",
+    "country": "United States",
+    "institutionId": "johns-hopkins-university",
+    "how": "exact"
+  },
+  "马来西亚国立大学": {
+    "english": "Universiti Kebangsaan Malaysia",
+    "country": "Malaysia",
+    "institutionId": null,
+    "how": "none"
+  },
+  "西北大学（美国）": {
+    "english": "Northwestern University",
+    "country": "United States",
+    "institutionId": "northwestern-university",
+    "how": "exact"
+  },
+  "帝国理工学院": {
+    "english": "Imperial College London",
+    "country": "United Kingdom",
+    "institutionId": "imperial-college-london",
+    "how": "exact"
+  },
+  "澳门理工大学": {
+    "english": "Macao Polytechnic University",
+    "country": "Macau SAR",
+    "institutionId": "macao-polytechnic-university",
+    "how": "exact"
+  },
+  "康奈尔大学": {
+    "english": "Cornell University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "加州大学伯克利分校": {
+    "english": "University of California, Berkeley",
+    "country": "United States",
+    "institutionId": "university-of-california-berkeley",
+    "how": "exact"
+  },
+  "澳门城市大学": {
+    "english": "City University of Macau",
+    "country": "Macau SAR",
+    "institutionId": "city-university-of-macau",
+    "how": "exact"
+  },
+  "伦敦大学亚非学院": {
+    "english": "SOAS University of London",
+    "country": "United Kingdom",
+    "institutionId": "soas-university-of-london",
+    "how": "exact"
+  },
+  "埃克塞特大学": {
+    "english": "University of Exeter",
+    "country": "United Kingdom",
+    "institutionId": "university-of-exeter",
+    "how": "exact"
+  },
+  "都柏林圣三一大学": {
+    "english": "Trinity College Dublin",
+    "country": "Ireland",
+    "institutionId": "trinity-college-dublin-the-university-of-dublin",
+    "how": "exact"
+  },
+  "马来西亚理工大学": {
+    "english": "Universiti Teknologi Malaysia",
+    "country": "Malaysia",
+    "institutionId": null,
+    "how": "none"
+  },
+  "加州大学欧文分校": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "institutionId": "university-of-california-irvine",
+    "how": "exact"
+  },
+  "莱顿大学": {
+    "english": "Leiden University",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "阿姆斯特丹大学": {
+    "english": "University of Amsterdam",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "伊利诺伊大学香槟分校": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "institutionId": "university-of-illinois-at-urbana-champaign",
+    "how": "exact"
+  },
+  "贝尔法斯特女王大学": {
+    "english": "Queen's University Belfast",
+    "country": "United Kingdom",
+    "institutionId": "queen-s-university-belfast",
+    "how": "exact"
+  },
+  "芝加哥大学": {
+    "english": "The University of Chicago",
+    "country": "United States",
+    "institutionId": "university-of-chicago",
+    "how": "exact"
+  },
+  "宾夕法尼亚大学": {
+    "english": "University of Pennsylvania",
+    "country": "United States",
+    "institutionId": "university-of-pennsylvania",
+    "how": "exact"
+  },
+  "东北大学（美国）": {
+    "english": "Northeastern University",
+    "country": "United States",
+    "institutionId": "northeastern-university",
+    "how": "exact"
+  },
+  "加州大学洛杉矶分校": {
+    "english": "University of California, Los Angeles",
+    "country": "United States",
+    "institutionId": "university-of-california-los-angeles",
+    "how": "exact"
+  },
+  "密歇根大学安娜堡分校": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "隆德大学": {
+    "english": "Lund University",
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "剑桥大学": {
+    "english": "University of Cambridge",
+    "country": "United Kingdom",
+    "institutionId": "university-of-cambridge",
+    "how": "exact"
+  },
+  "澳门科技大学": {
+    "english": "Macau University of Science and Technology",
+    "country": "Macau SAR",
+    "institutionId": "macau-university-of-science-and-technology",
+    "how": "exact"
+  },
+  "弗吉尼亚理工大学": {
+    "english": "Virginia Tech",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "圣路易斯华盛顿大学": {
+    "english": "Washington University in St. Louis",
+    "country": "United States",
+    "institutionId": "washington-university-in-st-louis",
+    "how": "exact"
+  },
+  "牛津大学": {
+    "english": "University of Oxford",
+    "country": "United Kingdom",
+    "institutionId": "university-of-oxford",
+    "how": "exact"
+  },
+  "慕尼黑工业大学": {
+    "english": "Technical University of Munich",
+    "country": "Germany",
+    "institutionId": null,
+    "how": "none"
+  },
+  "纽卡斯尔大学（英国）": {
+    "english": "Newcastle University",
+    "country": "United Kingdom",
+    "institutionId": "newcastle-university",
+    "how": "exact"
+  },
+  "卡内基梅隆大学": {
+    "english": "Carnegie Mellon University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "慕尼黑工业大学亚洲分校": {
+    "english": "TUM Asia",
+    "country": "Singapore",
+    "institutionId": null,
+    "how": "none"
+  },
+  "耶鲁大学": {
+    "english": "Yale University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "加州大学戴维斯分校": {
+    "english": "University of California, Davis",
+    "country": "United States",
+    "institutionId": "university-of-california-davis",
+    "how": "exact"
+  },
+  "雷丁大学": {
+    "english": "University of Reading",
+    "country": "United Kingdom",
+    "institutionId": "university-of-reading",
+    "how": "exact"
+  },
+  "佐治亚理工学院": {
+    "english": "Georgia Institute of Technology",
+    "country": "United States",
+    "institutionId": "georgia-institute-of-technology",
+    "how": "exact"
+  },
+  "弗吉尼亚大学": {
+    "english": "University of Virginia",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "莱斯大学": {
+    "english": "Rice University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "乔治城大学": {
+    "english": "Georgetown University",
+    "country": "United States",
+    "institutionId": "georgetown-university",
+    "how": "exact"
+  },
+  "拉夫堡大学": {
+    "english": "Loughborough University",
+    "country": "United Kingdom",
+    "institutionId": "loughborough-university",
+    "how": "exact"
+  },
+  "范德堡大学": {
+    "english": "Vanderbilt University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "佩珀代因大学": {
+    "english": "Pepperdine University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "西北大学（美国）应用经济学(中大)与社会与经济政策(西北大学": {
+    "english": "Northwestern University",
+    "country": "United States",
+    "institutionId": "northwestern-university",
+    "how": "exact"
+  },
+  "都柏林大学": {
+    "english": "University College Dublin",
+    "country": "Ireland",
+    "institutionId": "university-college-dublin",
+    "how": "exact"
+  },
+  "兰卡斯特大学": {
+    "english": "Lancaster University",
+    "country": "United Kingdom",
+    "institutionId": "lancaster-university",
+    "how": "exact"
+  },
+  "约克大学（英国）": {
+    "english": "University of York",
+    "country": "United Kingdom",
+    "institutionId": "university-of-york",
+    "how": "exact"
+  },
+  "萨塞克斯大学": {
+    "english": "University of Sussex",
+    "country": "United Kingdom",
+    "institutionId": "university-of-sussex",
+    "how": "exact"
+  },
+  "科廷大学": {
+    "english": "Curtin University",
+    "country": "Australia",
+    "institutionId": "curtin-university",
+    "how": "exact"
+  },
+  "瓦格宁根大学": {
+    "english": "Wageningen University & Research",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "马来西亚博特拉大学": {
+    "english": "Universiti Putra Malaysia",
+    "country": "Malaysia",
+    "institutionId": null,
+    "how": "none"
+  },
+  "威斯康星大学麦迪逊分校": {
+    "english": "University of Wisconsin-Madison",
+    "country": "United States",
+    "institutionId": "university-of-wisconsin-madison",
+    "how": "exact"
+  },
+  "卡迪夫大学": {
+    "english": "Cardiff University",
+    "country": "United Kingdom",
+    "institutionId": "cardiff-university",
+    "how": "exact"
+  },
+  "佛罗里达大学": {
+    "english": "University of Florida",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "哈佛大学": {
+    "english": "Harvard University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "罗切斯特大学": {
+    "english": "University of Rochester",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "马里兰大学帕克分校": {
+    "english": "University of Maryland, College Park",
+    "country": "United States",
+    "institutionId": "university-of-maryland-college-park",
+    "how": "exact"
+  },
+  "阿伯丁大学": {
+    "english": "University of Aberdeen",
+    "country": "United Kingdom",
+    "institutionId": "university-of-aberdeen",
+    "how": "exact"
+  },
+  "萨里大学": {
+    "english": "University of Surrey",
+    "country": "United Kingdom",
+    "institutionId": "university-of-surrey",
+    "how": "exact"
+  },
+  "皇家墨尔本理工大学": {
+    "english": "RMIT University",
+    "country": "Australia",
+    "institutionId": "rmit-university",
+    "how": "exact"
+  },
+  "思克莱德大学": {
+    "english": "University of Strathclyde",
+    "country": "United Kingdom",
+    "institutionId": "university-of-strathclyde",
+    "how": "exact"
+  },
+  "威斯敏斯特大学": {
+    "english": "University of Westminster",
+    "country": "United Kingdom",
+    "institutionId": "university-of-westminster",
+    "how": "exact"
+  },
+  "伦敦大学学院（国际）": {
+    "english": null,
+    "country": null,
+    "institutionId": null,
+    "how": "none"
+  },
+  "凯斯西储大学": {
+    "english": "Case Western Reserve University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "布兰迪斯大学": {
+    "english": "Brandeis University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "克兰菲尔德大学": {
+    "english": "Cranfield University",
+    "country": "United Kingdom",
+    "institutionId": "cranfield-university",
+    "how": "exact"
+  },
+  "纽卡斯尔大学（澳大利亚）": {
+    "english": "The University of Newcastle",
+    "country": "Australia",
+    "institutionId": "university-of-newcastle-australia",
+    "how": "exact"
+  },
+  "斯德哥尔摩大学": {
+    "english": "Stockholm University",
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "普渡大学西拉法叶分校": {
+    "english": "Purdue University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "圣安德鲁斯大学": {
+    "english": "University of St Andrews",
+    "country": "United Kingdom",
+    "institutionId": "university-of-st-andrews",
+    "how": "exact"
+  },
+  "莱斯特大学": {
+    "english": "University of Leicester",
+    "country": "United Kingdom",
+    "institutionId": "university-of-leicester",
+    "how": "exact"
+  },
+  "诺丁汉特伦特大学": {
+    "english": "Nottingham Trent University",
+    "country": "United Kingdom",
+    "institutionId": "nottingham-trent-university",
+    "how": "exact"
+  },
+  "密歇根大学": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "匹兹堡大学": {
+    "english": "University of Pittsburgh",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "巴黎政治学院": {
+    "english": "Sciences Po",
+    "country": "France",
+    "institutionId": null,
+    "how": "none"
+  },
+  "里海大学": {
+    "english": "Lehigh University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "亚利桑那大学": {
+    "english": "The University of Arizona",
+    "country": "United States",
+    "institutionId": "university-of-arizona",
+    "how": "exact"
+  },
+  "维克森林大学": {
+    "english": "Wake Forest University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "创意艺术大学": {
+    "english": "University for the Creative Arts",
+    "country": "United Kingdom",
+    "institutionId": null,
+    "how": "none"
+  },
+  "斯坦福大学": {
+    "english": "Stanford University",
+    "country": "United States",
+    "institutionId": "stanford-university",
+    "how": "exact"
+  },
+  "伦敦大学金史密斯学院": {
+    "english": "Goldsmiths, University of London",
+    "country": "United Kingdom",
+    "institutionId": "goldsmiths-university-of-london",
+    "how": "exact"
+  },
+  "诺森比亚大学": {
+    "english": "Northumbria University",
+    "country": "United Kingdom",
+    "institutionId": "northumbria-university-at-newcastle",
+    "how": "exact"
+  },
+  "赫瑞瓦特大学": {
+    "english": "Heriot-Watt University",
+    "country": "United Kingdom",
+    "institutionId": "heriot-watt-university",
+    "how": "exact"
+  },
+  "肯特大学": {
+    "english": "University of Kent",
+    "country": "United Kingdom",
+    "institutionId": "university-of-kent",
+    "how": "exact"
+  },
+  "邓迪大学": {
+    "english": "University of Dundee",
+    "country": "United Kingdom",
+    "institutionId": null,
+    "how": "none"
+  },
+  "阿斯顿大学": {
+    "english": "Aston University",
+    "country": "United Kingdom",
+    "institutionId": "aston-university",
+    "how": "exact"
+  },
+  "考文垂大学": {
+    "english": "Coventry University",
+    "country": "United Kingdom",
+    "institutionId": "coventry-university",
+    "how": "exact"
+  },
+  "福特汉姆大学": {
+    "english": "Fordham University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "苏黎世联邦理工大学": {
+    "english": "ETH Zurich",
+    "country": "Switzerland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "雪城大学": {
+    "english": "Syracuse University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "圣塔克拉拉大学": {
+    "english": "Santa Clara University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "迈阿密大学": {
+    "english": "University of Miami",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "埃塞克斯大学": {
+    "english": "University of Essex",
+    "country": "United Kingdom",
+    "institutionId": null,
+    "how": "none"
+  },
+  "科罗拉多大学波德分校": {
+    "english": "University of Colorado Boulder",
+    "country": "United States",
+    "institutionId": "university-of-colorado-boulder",
+    "how": "exact"
+  },
+  "东安格利亚大学": {
+    "english": "University of East Anglia",
+    "country": "United Kingdom",
+    "institutionId": "university-of-east-anglia",
+    "how": "exact"
+  },
+  "旧金山大学": {
+    "english": "University of San Francisco",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "洛桑联邦理工学院": {
+    "english": "EPFL",
+    "country": "Switzerland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "克拉克大学": {
+    "english": "Clark University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "麻省理工学院": {
+    "english": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "institutionId": "massachusetts-institute-of-technology",
+    "how": "exact"
+  },
+  "杜兰大学": {
+    "english": "Tulane University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "德州农工大学": {
+    "english": "Texas A&M University",
+    "country": "United States",
+    "institutionId": "texas-a-and-m-university",
+    "how": "exact"
+  },
+  "伦敦大学皇家霍洛威学院": {
+    "english": "Royal Holloway, University of London",
+    "country": "United Kingdom",
+    "institutionId": "royal-holloway-university-of-london",
+    "how": "exact"
+  },
+  "南卫理公会大学": {
+    "english": "Southern Methodist University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "明尼苏达大学双城分校": {
+    "english": "University of Minnesota Twin Cities",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "纽约州立大学石溪分校": {
+    "english": "Stony Brook University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北卡罗来纳州立大学罗利分校": {
+    "english": "North Carolina State University",
+    "country": "United States",
+    "institutionId": "north-carolina-state-university",
+    "how": "exact"
+  },
+  "美利坚大学": {
+    "english": "American University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "埃默里大学": {
+    "english": "Emory University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "本特利大学": {
+    "english": "Bentley University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "丹佛大学": {
+    "english": "University of Denver",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "塔夫斯大学": {
+    "english": "Tufts University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "威斯康星麦迪逊分校": {
+    "english": "University of Wisconsin–Madison",
+    "country": "United States",
+    "institutionId": "university-of-wisconsin-madison",
+    "how": "exact"
+  },
+  "康涅狄格大学": {
+    "english": "University of Connecticut",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "德州农工大学土木大学": {
+    "english": null,
+    "country": null,
+    "institutionId": null,
+    "how": "none"
+  },
+  "宾汉姆顿大学": {
+    "english": "Binghamton University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "福德汉姆大学": {
+    "english": "Fordham University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "德雷赛尔大学": {
+    "english": "Drexel University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "香港教育学院": {
+    "english": "The Education University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "institutionId": "education-university-of-hong-kong",
+    "how": "exact"
+  },
+  "EPFL": {
+    "english": "EPFL",
+    "country": "Switzerland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "MIT": {
+    "english": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "institutionId": "massachusetts-institute-of-technology",
+    "how": "exact"
+  },
+  "清华大学": {
+    "english": "Tsinghua University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "MBZUAI": {
+    "english": "Mohamed bin Zayed University of Artificial Intelligence",
+    "country": "United Arab Emirates",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中山大学": {
+    "english": "Sun Yat-sen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国传媒大学": {
+    "english": "Communication University of China",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华大学环境暑期学校": {
+    "english": "Tsinghua University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Imperial College London": {
+    "english": "Imperial College London",
+    "country": "United Kingdom",
+    "institutionId": "imperial-college-london",
+    "how": "exact"
+  },
+  "University of Edinburgh": {
+    "english": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "institutionId": "university-of-edinburgh",
+    "how": "exact"
+  },
+  "University of Michigan": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Northwestern University": {
+    "english": "Northwestern University",
+    "country": "United States",
+    "institutionId": "northwestern-university",
+    "how": "exact"
+  },
+  "Johns Hopkins University": {
+    "english": "Johns Hopkins University",
+    "country": "United States",
+    "institutionId": "johns-hopkins-university",
+    "how": "exact"
+  },
+  "上海交通大学微纳电子学系": {
+    "english": "Shanghai Jiao Tong University Department of Micro/Nano Electronics",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "CMU": {
+    "english": "Carnegie Mellon University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Rice": {
+    "english": "Rice University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UCI": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "institutionId": "university-of-california-irvine",
+    "how": "exact"
+  },
+  "NEU": {
+    "english": "Northeastern University",
+    "country": "United States",
+    "institutionId": "northeastern-university",
+    "how": "exact"
+  },
+  "Brown": {
+    "english": "Brown University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "NYU Tandon": {
+    "english": "NYU Tandon School of Engineering",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Columbia": {
+    "english": "Columbia University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "NWU": {
+    "english": "Northwestern University",
+    "country": "United States",
+    "institutionId": "northwestern-university",
+    "how": "exact"
+  },
+  "复旦大学": {
+    "english": "Fudan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Columbia University": {
+    "english": "Columbia University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Imperial College": {
+    "english": "Imperial College London",
+    "country": "United Kingdom",
+    "institutionId": "imperial-college-london",
+    "how": "exact"
+  },
+  "The University of Manchester": {
+    "english": "The University of Manchester",
+    "country": "United Kingdom",
+    "institutionId": "university-of-manchester",
+    "how": "exact"
+  },
+  "University College London": {
+    "english": "University College London",
+    "country": "United Kingdom",
+    "institutionId": "ucl",
+    "how": "exact"
+  },
+  "Hong Kong University of Science and Technology": {
+    "english": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong SAR",
+    "institutionId": "hong-kong-university-of-science-and-technology",
+    "how": "exact"
+  },
+  "Lund University": {
+    "english": "Lund University",
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Technical University of Denmark": {
+    "english": "Technical University of Denmark",
+    "country": "Denmark",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Tel Aviv University": {
+    "english": "Tel Aviv University",
+    "country": "Israel",
+    "institutionId": null,
+    "how": "none"
+  },
+  "John Hopkins University": {
+    "english": "Johns Hopkins University",
+    "country": "United States",
+    "institutionId": "johns-hopkins-university",
+    "how": "exact"
+  },
+  "UIUC": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "institutionId": "university-of-illinois-at-urbana-champaign",
+    "how": "exact"
+  },
+  "Georgia Tech": {
+    "english": "Georgia Institute of Technology",
+    "country": "United States",
+    "institutionId": "georgia-institute-of-technology",
+    "how": "exact"
+  },
+  "Pennsylvania": {
+    "english": null,
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Wisconsin-Madison": {
+    "english": "University of Wisconsin-Madison",
+    "country": "United States",
+    "institutionId": "university-of-wisconsin-madison",
+    "how": "exact"
+  },
+  "University of Massachusetts Amherst": {
+    "english": "University of Massachusetts Amherst",
+    "country": "United States",
+    "institutionId": "university-of-massachusetts-amherst",
+    "how": "exact"
+  },
+  "Gatech": {
+    "english": "Georgia Institute of Technology",
+    "country": "United States",
+    "institutionId": "georgia-institute-of-technology",
+    "how": "exact"
+  },
+  "UPenn": {
+    "english": "University of Pennsylvania",
+    "country": "United States",
+    "institutionId": "university-of-pennsylvania",
+    "how": "exact"
+  },
+  "U of Rochester": {
+    "english": "University of Rochester",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学": {
+    "english": "Peking University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "上海交通大学": {
+    "english": "Shanghai Jiao Tong University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京师范大学": {
+    "english": "Beijing Normal University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "深圳大学": {
+    "english": "Shenzhen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Tokyo University": {
+    "english": "The University of Tokyo",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Carnegie Mellon University": {
+    "english": "Carnegie Mellon University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国科学院大学-信息工程学院": {
+    "english": null,
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Boston University": {
+    "english": "Boston University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Duke": {
+    "english": "Duke University",
+    "country": "United States",
+    "institutionId": "duke-university",
+    "how": "exact"
+  },
+  "University of Pennsylvania": {
+    "english": "University of Pennsylvania",
+    "country": "United States",
+    "institutionId": "university-of-pennsylvania",
+    "how": "exact"
+  },
+  "Northwestern university": {
+    "english": "Northwestern University",
+    "country": "United States",
+    "institutionId": "northwestern-university",
+    "how": "exact"
+  },
+  "University of Minnesota": {
+    "english": "University of Minnesota",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Purdue University": {
+    "english": "Purdue University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Yale": {
+    "english": "Yale University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Umich": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Illinois at Urbana-Champaign": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "institutionId": "university-of-illinois-at-urbana-champaign",
+    "how": "exact"
+  },
+  "Georgia Institute of Technology": {
+    "english": "Georgia Institute of Technology",
+    "country": "United States",
+    "institutionId": "georgia-institute-of-technology",
+    "how": "exact"
+  },
+  "University of Notre Dame": {
+    "english": "University of Notre Dame",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Purdue University - West Lafayette": {
+    "english": "Purdue University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Maryland, College Park": {
+    "english": "University of Maryland, College Park",
+    "country": "United States",
+    "institutionId": "university-of-maryland-college-park",
+    "how": "exact"
+  },
+  "University of Illinois Urbana Champaign": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "institutionId": "university-of-illinois-at-urbana-champaign",
+    "how": "exact"
+  },
+  "Duke University": {
+    "english": "Duke University",
+    "country": "United States",
+    "institutionId": "duke-university",
+    "how": "exact"
+  },
+  "University of California-Irvine": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "institutionId": "university-of-california-irvine",
+    "how": "exact"
+  },
+  "University of Michigan Ann Arbor": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UCLA": {
+    "english": "University of California, Los Angeles",
+    "country": "United States",
+    "institutionId": "university-of-california-los-angeles",
+    "how": "exact"
+  },
+  "UCB": {
+    "english": "University of California, Berkeley",
+    "country": "United States",
+    "institutionId": "university-of-california-berkeley",
+    "how": "exact"
+  },
+  "University of Pittsburgh": {
+    "english": "University of Pittsburgh",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "American University": {
+    "english": "American University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Northeastern University": {
+    "english": "Northeastern University",
+    "country": "United States",
+    "institutionId": "northeastern-university",
+    "how": "exact"
+  },
+  "New York University": {
+    "english": "New York University",
+    "country": "United States",
+    "institutionId": "new-york-university",
+    "how": "exact"
+  },
+  "Cornell University": {
+    "english": "Cornell University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Stanford": {
+    "english": "Stanford University",
+    "country": "United States",
+    "institutionId": "stanford-university",
+    "how": "exact"
+  },
+  "Rice University": {
+    "english": "Rice University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "NUS": {
+    "english": "National University of Singapore",
+    "country": "Singapore",
+    "institutionId": "national-university-of-singapore",
+    "how": "exact"
+  },
+  "UQ": {
+    "english": "The University of Queensland",
+    "country": "Australia",
+    "institutionId": "university-of-queensland",
+    "how": "exact"
+  },
+  "UCPH": {
+    "english": "University of Copenhagen",
+    "country": "Denmark",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Florida": {
+    "english": "University of Florida",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "The University of Tokyo": {
+    "english": "The University of Tokyo",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Nagoya University": {
+    "english": "Nagoya University",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Copenhagen": {
+    "english": "University of Copenhagen",
+    "country": "Denmark",
+    "institutionId": null,
+    "how": "none"
+  },
+  "WUSTL": {
+    "english": "Washington University in St. Louis",
+    "country": "United States",
+    "institutionId": "washington-university-in-st-louis",
+    "how": "exact"
+  },
+  "UR": {
+    "english": "University of Rochester",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "WFU": {
+    "english": "Wake Forest University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "HKU": {
+    "english": "The University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "institutionId": "university-of-hong-kong",
+    "how": "exact"
+  },
+  "University of Amsterdam": {
+    "english": "University of Amsterdam",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Utrecht University": {
+    "english": "Utrecht University",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Aarhus University": {
+    "english": "Aarhus University",
+    "country": "Denmark",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Uppsala University": {
+    "english": "Uppsala University",
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Stockholm University": {
+    "english": "Stockholm University",
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Helsinki": {
+    "english": "University of Helsinki",
+    "country": "Finland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Manchester": {
+    "english": "The University of Manchester",
+    "country": "United Kingdom",
+    "institutionId": "university-of-manchester",
+    "how": "exact"
+  },
+  "Penn": {
+    "english": "University of Pennsylvania",
+    "country": "United States",
+    "institutionId": "university-of-pennsylvania",
+    "how": "exact"
+  },
+  "Northwestern": {
+    "english": "Northwestern University",
+    "country": "United States",
+    "institutionId": "northwestern-university",
+    "how": "exact"
+  },
+  "CUHK": {
+    "english": "The Chinese University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "institutionId": "chinese-university-of-hong-kong",
+    "how": "exact"
+  },
+  "HKUST": {
+    "english": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong SAR",
+    "institutionId": "hong-kong-university-of-science-and-technology",
+    "how": "exact"
+  },
+  "NTU": {
+    "english": "Nanyang Technological University",
+    "country": "Singapore",
+    "institutionId": "nanyang-technological-university-singapore",
+    "how": "exact"
+  },
+  "HEC Paris": {
+    "english": "HEC Paris",
+    "country": "France",
+    "institutionId": null,
+    "how": "none"
+  },
+  "JHU": {
+    "english": "Johns Hopkins University",
+    "country": "United States",
+    "institutionId": "johns-hopkins-university",
+    "how": "exact"
+  },
+  "UW Madison": {
+    "english": "University of Wisconsin-Madison",
+    "country": "United States",
+    "institutionId": "university-of-wisconsin-madison",
+    "how": "exact"
+  },
+  "National University of Singapore": {
+    "english": "National University of Singapore",
+    "country": "Singapore",
+    "institutionId": "national-university-of-singapore",
+    "how": "exact"
+  },
+  "CU Boulder": {
+    "english": "University of Colorado Boulder",
+    "country": "United States",
+    "institutionId": "university-of-colorado-boulder",
+    "how": "exact"
+  },
+  "Cornell": {
+    "english": "Cornell University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "McGill": {
+    "english": "McGill University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UMich": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "NYU": {
+    "english": "New York University",
+    "country": "United States",
+    "institutionId": "new-york-university",
+    "how": "exact"
+  },
+  "瑞典卡罗琳斯卡医学院和瑞典皇家理工的合作硕士项目": {
+    "english": null,
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "London School of Economics and Political Science": {
+    "english": "London School of Economics and Political Science",
+    "country": "United Kingdom",
+    "institutionId": "london-school-of-economics-and-political-science",
+    "how": "exact"
+  },
+  "The University of Edinburgh": {
+    "english": "The University of Edinburgh",
+    "country": "United Kingdom",
+    "institutionId": "university-of-edinburgh",
+    "how": "exact"
+  },
+  "The University of Warwick": {
+    "english": "The University of Warwick",
+    "country": "United Kingdom",
+    "institutionId": "university-of-warwick",
+    "how": "exact"
+  },
+  "Washington in St. Louis": {
+    "english": "Washington University in St. Louis",
+    "country": "United States",
+    "institutionId": "washington-university-in-st-louis",
+    "how": "exact"
+  },
+  "Notre Dame University": {
+    "english": "University of Notre Dame",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Stony Brook University": {
+    "english": "Stony Brook University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "U-Tokyo": {
+    "english": "The University of Tokyo",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UVa": {
+    "english": "University of Virginia",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UBC": {
+    "english": "The University of British Columbia",
+    "country": "Canada",
+    "institutionId": "university-of-british-columbia",
+    "how": "exact"
+  },
+  "University of Toronto": {
+    "english": "University of Toronto",
+    "country": "Canada",
+    "institutionId": "university-of-toronto",
+    "how": "exact"
+  },
+  "UC Irvine": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "institutionId": "university-of-california-irvine",
+    "how": "exact"
+  },
+  "Brown University": {
+    "english": "Brown University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南大 CS": {
+    "english": "Nanjing University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "东南 palm": {
+    "english": "Southeast University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "厦门 mac": {
+    "english": "Xiamen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "人大信院": {
+    "english": "Renmin University of China",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "同济专硕 cs": {
+    "english": "Tongji University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "复旦专硕 cs": {
+    "english": "Fudan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南大 cs": {
+    "english": "Nanjing University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "ETH Zurich": {
+    "english": "ETH Zurich",
+    "country": "Switzerland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "TUDelft + ETHz + RWTH (IDEA League)": {
+    "english": null,
+    "country": null,
+    "institutionId": null,
+    "how": "none"
+  },
+  "Notre Dame": {
+    "english": "University of Notre Dame",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UChicago": {
+    "english": "The University of Chicago",
+    "country": "United States",
+    "institutionId": "university-of-chicago",
+    "how": "exact"
+  },
+  "GaTech": {
+    "english": "Georgia Institute of Technology",
+    "country": "United States",
+    "institutionId": "georgia-institute-of-technology",
+    "how": "exact"
+  },
+  "University of California, Berkeley": {
+    "english": "University of California, Berkeley",
+    "country": "United States",
+    "institutionId": "university-of-california-berkeley",
+    "how": "exact"
+  },
+  "Harvard University": {
+    "english": "Harvard University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Washington University in St. Louis": {
+    "english": "Washington University in St. Louis",
+    "country": "United States",
+    "institutionId": "washington-university-in-st-louis",
+    "how": "exact"
+  },
+  "UC Los Angeles": {
+    "english": "University of California, Los Angeles",
+    "country": "United States",
+    "institutionId": "university-of-california-los-angeles",
+    "how": "exact"
+  },
+  "Brandeis University": {
+    "english": "Brandeis University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南京大学": {
+    "english": "Nanjing University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Georgetown": {
+    "english": "Georgetown University",
+    "country": "United States",
+    "institutionId": "georgetown-university",
+    "how": "exact"
+  },
+  "NYU Shanghai&Stern": {
+    "english": "NYU Shanghai",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UMich Ann Arbor": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "苏黎世联邦理工学院": {
+    "english": "ETH Zurich",
+    "country": "Switzerland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "KCL": {
+    "english": "King's College London",
+    "country": "United Kingdom",
+    "institutionId": "king-s-college-london",
+    "how": "exact"
+  },
+  "Glasgow": {
+    "english": "University of Glasgow",
+    "country": "United Kingdom",
+    "institutionId": "university-of-glasgow",
+    "how": "exact"
+  },
+  "Bristol": {
+    "english": "University of Bristol",
+    "country": "United Kingdom",
+    "institutionId": "university-of-bristol",
+    "how": "exact"
+  },
+  "UCL": {
+    "english": "University College London",
+    "country": "United Kingdom",
+    "institutionId": "ucl",
+    "how": "exact"
+  },
+  "HKUST(GZ)": {
+    "english": "The Hong Kong University of Science and Technology (Guangzhou)",
+    "country": "China (Mainland)",
+    "institutionId": "hong-kong-university-of-science-and-technology",
+    "how": "exact"
+  },
+  "U Florida": {
+    "english": "University of Florida",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UC Berkeley": {
+    "english": "University of California, Berkeley",
+    "country": "United States",
+    "institutionId": "university-of-california-berkeley",
+    "how": "exact"
+  },
+  "U Michigan": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Maryland": {
+    "english": "University of Maryland, College Park",
+    "country": "United States",
+    "institutionId": "university-of-maryland-college-park",
+    "how": "exact"
+  },
+  "UWMadison": {
+    "english": "University of Wisconsin–Madison",
+    "country": "United States",
+    "institutionId": "university-of-wisconsin-madison",
+    "how": "exact"
+  },
+  "UMass": {
+    "english": "University of Massachusetts Amherst",
+    "country": "United States",
+    "institutionId": "university-of-massachusetts-amherst",
+    "how": "exact"
+  },
+  "UCDavis": {
+    "english": "University of California, Davis",
+    "country": "United States",
+    "institutionId": "university-of-california-davis",
+    "how": "exact"
+  },
+  "Wiliam & Mary": {
+    "english": "William & Mary",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "IUB": {
+    "english": "Indiana University Bloomington",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "苏黎世联邦理工学院（ETH Zürich）": {
+    "english": "ETH Zurich",
+    "country": "Switzerland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "密歇根大学安娜堡分校（UMich Ann Arbor）": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "宾夕法尼亚大学（UPenn）": {
+    "english": "University of Pennsylvania",
+    "country": "United States",
+    "institutionId": "university-of-pennsylvania",
+    "how": "exact"
+  },
+  "加州大学伯克利分校（UC Berkeley）": {
+    "english": "University of California, Berkeley",
+    "country": "United States",
+    "institutionId": "university-of-california-berkeley",
+    "how": "exact"
+  },
+  "康奈尔大学（Cornell）": {
+    "english": "Cornell University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "卡耐基梅隆大学（CMU）": {
+    "english": "Carnegie Mellon University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "西北大学（NU）": {
+    "english": "Northwestern University",
+    "country": "United States",
+    "institutionId": "northwestern-university",
+    "how": "exact"
+  },
+  "麻省理工学院（MIT）": {
+    "english": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "institutionId": "massachusetts-institute-of-technology",
+    "how": "exact"
+  },
+  "佐治亚理工学院（Gatech）": {
+    "english": "Georgia Institute of Technology",
+    "country": "United States",
+    "institutionId": "georgia-institute-of-technology",
+    "how": "exact"
+  },
+  "约翰霍普金斯大学（JHU）": {
+    "english": "Johns Hopkins University",
+    "country": "United States",
+    "institutionId": "johns-hopkins-university",
+    "how": "exact"
+  },
+  "多伦多大学（UofT）": {
+    "english": "University of Toronto",
+    "country": "Canada",
+    "institutionId": "university-of-toronto",
+    "how": "exact"
+  },
+  "哥伦比亚大学（Columbia）": {
+    "english": "Columbia University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "杜克大学（Duke）": {
+    "english": "Duke University",
+    "country": "United States",
+    "institutionId": "duke-university",
+    "how": "exact"
+  },
+  "伊利诺伊大学香槟分校(UIUC)": {
+    "english": "University of Illinois Urbana-Champaign",
+    "country": "United States",
+    "institutionId": "university-of-illinois-at-urbana-champaign",
+    "how": "exact"
+  },
+  "东北大学(NEU)": {
+    "english": "Northeastern University",
+    "country": "United States",
+    "institutionId": "northeastern-university",
+    "how": "exact"
+  },
+  "卡耐基梅隆大学(CMU)": {
+    "english": "Carnegie Mellon University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UMD": {
+    "english": "University of Maryland, College Park",
+    "country": "United States",
+    "institutionId": "university-of-maryland-college-park",
+    "how": "exact"
+  },
+  "UConn": {
+    "english": "University of Connecticut",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Fordham": {
+    "english": "Fordham University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "BU": {
+    "english": "Boston University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "City University of Hong Kong": {
+    "english": "City University of Hong Kong",
+    "country": "Hong Kong SAR",
+    "institutionId": "city-university-of-hong-kong",
+    "how": "exact"
+  },
+  "New York University Tandon": {
+    "english": "NYU Tandon School of Engineering",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Carnegie Mellon University(Silicon Valley)": {
+    "english": "Carnegie Mellon University Silicon Valley",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of California Irvine": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "institutionId": "university-of-california-irvine",
+    "how": "exact"
+  },
+  "University of California Davis": {
+    "english": "University of California, Davis",
+    "country": "United States",
+    "institutionId": "university-of-california-davis",
+    "how": "exact"
+  },
+  "Texas A&M University": {
+    "english": "Texas A&M University",
+    "country": "United States",
+    "institutionId": "texas-a-and-m-university",
+    "how": "exact"
+  },
+  "University of Rochester": {
+    "english": "University of Rochester",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UVA": {
+    "english": "University of Virginia",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Auburn": {
+    "english": "Auburn University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "TAMU": {
+    "english": "Texas A&M University",
+    "country": "United States",
+    "institutionId": "texas-a-and-m-university",
+    "how": "exact"
+  },
+  "加州大学伯克利（UC Berkeley）": {
+    "english": "University of California, Berkeley",
+    "country": "United States",
+    "institutionId": "university-of-california-berkeley",
+    "how": "exact"
+  },
+  "麻省理工大学（MIT）": {
+    "english": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "institutionId": "massachusetts-institute-of-technology",
+    "how": "exact"
+  },
+  "斯坦福大学（Stanford）": {
+    "english": "Stanford University",
+    "country": "United States",
+    "institutionId": "stanford-university",
+    "how": "exact"
+  },
+  "密歇根大学安娜堡（UMich）": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "佐治亚理工大学（GaTech）": {
+    "english": "Georgia Institute of Technology",
+    "country": "United States",
+    "institutionId": "georgia-institute-of-technology",
+    "how": "exact"
+  },
+  "同济大学": {
+    "english": "Tongji University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "约翰斯·霍普金斯大学": {
+    "english": "Johns Hopkins University",
+    "country": "United States",
+    "institutionId": "johns-hopkins-university",
+    "how": "exact"
+  },
+  "卡耐基梅隆大学": {
+    "english": "Carnegie Mellon University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Upenn": {
+    "english": "University of Pennsylvania",
+    "country": "United States",
+    "institutionId": "university-of-pennsylvania",
+    "how": "exact"
+  },
+  "华盛顿大学圣路易斯分校": {
+    "english": "Washington University in St. Louis",
+    "country": "United States",
+    "institutionId": "washington-university-in-st-louis",
+    "how": "exact"
+  },
+  "加州大学尔湾分校": {
+    "english": "University of California, Irvine",
+    "country": "United States",
+    "institutionId": "university-of-california-irvine",
+    "how": "exact"
+  },
+  "东北大学": {
+    "english": "Northeastern University",
+    "country": "United States",
+    "institutionId": "northeastern-university",
+    "how": "exact"
+  },
+  "西北大学": {
+    "english": "Northwestern University",
+    "country": "United States",
+    "institutionId": "northwestern-university",
+    "how": "exact"
+  },
+  "科罗拉多大学博尔德分校": {
+    "english": "University of Colorado Boulder",
+    "country": "United States",
+    "institutionId": "university-of-colorado-boulder",
+    "how": "exact"
+  },
+  "普渡大学": {
+    "english": "Purdue University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "密西根大学": {
+    "english": "University of Michigan",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "东京大学-IME-EEIS": {
+    "english": "The University of Tokyo",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "SBU": {
+    "english": "Stony Brook University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Utah": {
+    "english": "University of Utah",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Connecticut": {
+    "english": "University of Connecticut",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "布朗大学": {
+    "english": "Brown University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "佐治亚理工大学": {
+    "english": "Georgia Institute of Technology",
+    "country": "United States",
+    "institutionId": "georgia-institute-of-technology",
+    "how": "exact"
+  },
+  "马普所": {
+    "english": "Max Planck Society",
+    "country": "Germany",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Aalto": {
+    "english": "Aalto University",
+    "country": "Finland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "EIT 项目": {
+    "english": null,
+    "country": null,
+    "institutionId": null,
+    "how": "none"
+  },
+  "Polimi": {
+    "english": "Politecnico di Milano",
+    "country": "Italy",
+    "institutionId": null,
+    "how": "none"
+  },
+  "湖南大学": {
+    "english": "Hunan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "苏州大学": {
+    "english": "Soochow University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "上海科技大学": {
+    "english": "ShanghaiTech University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "浙大软院": {
+    "english": "Zhejiang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "厦门大学": {
+    "english": "Xiamen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "山东大学": {
+    "english": "Shandong University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国人民大学": {
+    "english": "Renmin University of China",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "武汉大学": {
+    "english": "Wuhan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "浙江大学": {
+    "english": "Zhejiang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "湖南师范大学": {
+    "english": "Hunan Normal University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国海洋大学": {
+    "english": "Ocean University of China",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "江南大学": {
+    "english": "Jiangnan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "天津大学": {
+    "english": "Tianjin University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "浙大华大研究所": {
+    "english": "Zhejiang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北航计": {
+    "english": "Beihang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "华师计": {
+    "english": null,
+    "country": null,
+    "institutionId": null,
+    "how": "none"
+  },
+  "天大": {
+    "english": "Tianjin University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "厦大信院": {
+    "english": "Xiamen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北航计院": {
+    "english": "Beihang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北航软院": {
+    "english": "Beihang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "华师计院": {
+    "english": null,
+    "country": null,
+    "institutionId": null,
+    "how": "none"
+  },
+  "厦门大学信息学院": {
+    "english": "Xiamen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "港科大广州丨微电子": {
+    "english": "The Hong Kong University of Science and Technology (Guangzhou)",
+    "country": "China (Mainland)",
+    "institutionId": "hong-kong-university-of-science-and-technology",
+    "how": "exact"
+  },
+  "上科大&计算所联培(系统方向)": {
+    "english": "ShanghaiTech University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南京大学计算机学院": {
+    "english": "Nanjing University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "四川大学 计算机学院": {
+    "english": "Sichuan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "深圳大学 计算机与软件学院": {
+    "english": "Shenzhen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南京大学 软件学院": {
+    "english": "Nanjing University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南京大学 智能软件与工程学院": {
+    "english": "Nanjing University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "上海科技大学 SIST": {
+    "english": "ShanghaiTech University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中山大学 计算机学院": {
+    "english": "Sun Yat-sen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "浙江大学 软件学院": {
+    "english": "Zhejiang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中山大学 软件学院": {
+    "english": "Sun Yat-sen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "东南大学 计算机学院": {
+    "english": "Southeast University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南京大学 软/苏软": {
+    "english": "Nanjing University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "厦门大学 信息学院": {
+    "english": "Xiamen University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "香港中文大学（深圳）": {
+    "english": "The Chinese University of Hong Kong, Shenzhen",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "香港岭南大学": {
+    "english": "Lingnan University",
+    "country": "Hong Kong SAR",
+    "institutionId": "lingnan-university-hong-kong",
+    "how": "chosen"
+  },
+  "马来西亚莫纳什大学": {
+    "english": "Monash University Malaysia",
+    "country": "Malaysia",
+    "institutionId": null,
+    "how": "none"
+  },
+  "伦敦商学院": {
+    "english": "London Business School",
+    "country": "United Kingdom",
+    "institutionId": null,
+    "how": "none"
+  },
+  "宁波诺丁汉大学": {
+    "english": "University of Nottingham Ningbo China",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北师香港浸会大学": {
+    "english": "Beijing Normal-Hong Kong Baptist University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "西交利物浦大学": {
+    "english": "Xi'an Jiaotong-Liverpool University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "加州大学圣地亚哥分校": {
+    "english": "University of California San Diego",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南加州大学": {
+    "english": "University of Southern California",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "皇家理工学院": {
+    "english": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "科廷大学新加坡校区": {
+    "english": "Curtin University Singapore",
+    "country": "Singapore",
+    "institutionId": null,
+    "how": "none"
+  },
+  "华盛顿大学": {
+    "english": "University of Washington",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "波士顿学院": {
+    "english": "Boston College",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "代尔夫特理工大学": {
+    "english": "Delft University of Technology",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "香港珠海学院": {
+    "english": "Chu Hai College of Higher Education",
+    "country": "Hong Kong SAR",
+    "institutionId": null,
+    "how": "none"
+  },
+  "俄亥俄州立大学": {
+    "english": "The Ohio State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "乔治华盛顿大学": {
+    "english": "The George Washington University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "德克萨斯大学奥斯汀分校": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "斯蒂文斯理工学院": {
+    "english": "Stevens Institute of Technology",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "罗格斯大学": {
+    "english": "Rutgers, The State University of New Jersey",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "埃因霍芬理工大学": {
+    "english": "Eindhoven University of Technology",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "宾夕法尼亚州立大学": {
+    "english": "The Pennsylvania State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "马来西亚蒙纳士大学": {
+    "english": "Monash University Malaysia",
+    "country": "Malaysia",
+    "institutionId": null,
+    "how": "none"
+  },
+  "加州大学圣塔芭芭拉分校": {
+    "english": "University of California, Santa Barbara",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "亚利桑那州立大学": {
+    "english": "Arizona State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北卡罗来纳大学教堂山分校": {
+    "english": "The University of North Carolina at Chapel Hill",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "里昂商学院": {
+    "english": "emlyon business school",
+    "country": "France",
+    "institutionId": null,
+    "how": "none"
+  },
+  "伦敦艺术大学": {
+    "english": "University of the Arts London",
+    "country": "United Kingdom",
+    "institutionId": null,
+    "how": "none"
+  },
+  "佐治亚大学": {
+    "english": "University of Georgia",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "伦敦大学城市学院": {
+    "english": "City St George's, University of London",
+    "country": "United Kingdom",
+    "institutionId": null,
+    "how": "none"
+  },
+  "欧洲高等商学院": {
+    "english": "ESCP Business School",
+    "country": "France",
+    "institutionId": null,
+    "how": "none"
+  },
+  "佐治亚州立大学": {
+    "english": "Georgia State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "密歇根州立大学": {
+    "english": "Michigan State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "伍斯特理工学院": {
+    "english": "Worcester Polytechnic Institute",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "德州大学达拉斯分校": {
+    "english": "The University of Texas at Dallas",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "伦斯勒理工学院": {
+    "english": "Rensselaer Polytechnic Institute",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "德州大学奥斯汀分校": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学工学院": {
+    "english": "Peking University College of Engineering",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "哈尔滨工业大学（深圳）": {
+    "english": "Harbin Institute of Technology, Shenzhen",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南方科技大学": {
+    "english": "Southern University of Science and Technology",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北大汇丰": {
+    "english": "Peking University HSBC Business School",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学城市与环境学院": {
+    "english": "Peking University College of Urban and Environmental Sciences",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学环境科学与工程学院": {
+    "english": "Peking University College of Environmental Sciences and Engineering",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华大学深圳研究生院": {
+    "english": "Tsinghua Shenzhen International Graduate School",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华大学集成电路学院": {
+    "english": "Tsinghua University School of Integrated Circuits",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中科大微电子学院": {
+    "english": "University of Science and Technology of China School of Microelectronics",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "复旦大学微电子学院": {
+    "english": "Fudan University School of Microelectronics",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "NYU Courant": {
+    "english": "Courant Institute of Mathematical Sciences, New York University",
+    "country": "United States",
+    "institutionId": "new-york-university",
+    "how": "chosen"
+  },
+  "UCSD": {
+    "english": "University of California San Diego",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UT Austin": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "USC": {
+    "english": "University of Southern California",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UNC": {
+    "english": "The University of North Carolina at Chapel Hill",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "西北工业大学": {
+    "english": "Northwestern Polytechnical University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Delft University of Technology": {
+    "english": "Delft University of Technology",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Technische Universiteit Delft": {
+    "english": "Delft University of Technology",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "KTH Royal Institute of Technology": {
+    "english": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "协和医学院": {
+    "english": "Peking Union Medical College",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "上海交通大学医学院": {
+    "english": "Shanghai Jiao Tong University School of Medicine",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学基础医学院": {
+    "english": "School of Basic Medical Sciences, Peking University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学生命科学院": {
+    "english": "School of Life Sciences, Peking University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "浙江大学生命科学院": {
+    "english": "College of Life Sciences, Zhejiang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "浙江大学医学院": {
+    "english": "Zhejiang University School of Medicine",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南京大学医学院": {
+    "english": "Medical School of Nanjing University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "复旦大学基础医学院": {
+    "english": "School of Basic Medical Sciences, Fudan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "上海财经大学": {
+    "english": "Shanghai University of Finance and Economics",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "华中科技大学": {
+    "english": "Huazhong University of Science and Technology",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学光华管理学院": {
+    "english": "Guanghua School of Management, Peking University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华大学经济管理学院": {
+    "english": "School of Economics and Management, Tsinghua University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华五道口": {
+    "english": "PBC School of Finance, Tsinghua University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "复旦泛海": {
+    "english": "Fanhai International School of Finance, Fudan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "人大财金": {
+    "english": "School of Finance, Renmin University of China",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南方科技大学深港微电子学院": {
+    "english": "School of Microelectronics, Southern University of Science and Technology",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国科学院大学-微电子学院": {
+    "english": "School of Integrated Circuits, University of Chinese Academy of Sciences",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华大学-微纳电子系": {
+    "english": "School of Integrated Circuits, Tsinghua University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学-信息科学学院": {
+    "english": "School of Electronics Engineering and Computer Science, Peking University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "复旦大学-微电子学院": {
+    "english": "School of Microelectronics, Fudan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "上海交通大学-微电子学院": {
+    "english": "School of Integrated Circuits, Shanghai Jiao Tong University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学深研院-信息工程学院": {
+    "english": "School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学深圳研究生院-信息工程学院": {
+    "english": "School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "东南大学-微电子学院": {
+    "english": "School of Integrated Circuits, Southeast University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "华中科技大学-光学与电子信息学院": {
+    "english": "School of Optical and Electronic Information, Huazhong University of Science and Technology",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北大深信工": {
+    "english": "School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华微电子": {
+    "english": "School of Integrated Circuits, Tsinghua University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北大信科": {
+    "english": "School of Electronics Engineering and Computer Science, Peking University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "复旦微电子": {
+    "english": "School of Microelectronics, Fudan University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "上交微电子": {
+    "english": "School of Integrated Circuits, Shanghai Jiao Tong University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "东南大学微电子": {
+    "english": "School of Integrated Circuits, Southeast University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学汇丰商学院": {
+    "english": "Peking University HSBC Business School",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北京大学国际法学院": {
+    "english": "Peking University School of Transnational Law",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Washington": {
+    "english": "University of Washington",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of California San Diego": {
+    "english": "University of California San Diego",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Texas at Austin": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华大学深圳国际研究生院": {
+    "english": "Tsinghua Shenzhen International Graduate School",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Southern California": {
+    "english": "University of Southern California",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of California-San Diego": {
+    "english": "University of California San Diego",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Austin": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UCSB": {
+    "english": "University of California, Santa Barbara",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UW-Seattle": {
+    "english": "University of Washington",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of North Carolina of Chapel Hill": {
+    "english": "The University of North Carolina at Chapel Hill",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "央财金院": {
+    "english": "School of Finance, Central University of Finance and Economics",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "央财信院": {
+    "english": "School of Information, Central University of Finance and Economics",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "港中深": {
+    "english": "The Chinese University of Hong Kong, Shenzhen",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UC Santa Barbara": {
+    "english": "University of California, Santa Barbara",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UC Santa Cruz": {
+    "english": "University of California, Santa Cruz",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Washington, Seattle": {
+    "english": "University of Washington",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "KTH": {
+    "english": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "BC": {
+    "english": "Boston College",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "CUHKSZ": {
+    "english": "The Chinese University of Hong Kong, Shenzhen",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UT-Austin": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "浙江大学软件学院": {
+    "english": "School of Software Technology, Zhejiang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华伯克利学院": {
+    "english": "Tsinghua-Berkeley Shenzhen Institute",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "CUHK(Shenzhen)": {
+    "english": "The Chinese University of Hong Kong, Shenzhen",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Rutgers University": {
+    "english": "Rutgers, The State University of New Jersey",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清深 AI/CS": {
+    "english": "Tsinghua Shenzhen International Graduate School",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "杭高院": {
+    "english": "Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中科大 10 系": {
+    "english": "University of Science and Technology of China",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "浙软": {
+    "english": "School of Software Technology, Zhejiang University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UC San Francisco": {
+    "english": "University of California, San Francisco",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Baylor College of Medicine": {
+    "english": "Baylor College of Medicine",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国科学技术大学": {
+    "english": "University of Science and Technology of China",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UW Seattle": {
+    "english": "University of Washington",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Baruch": {
+    "english": "Baruch College, The City University of New York",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "瑞典皇家理工": {
+    "english": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "institutionId": null,
+    "how": "none"
+  },
+  "KAUST": {
+    "english": "King Abdullah University of Science and Technology",
+    "country": "Saudi Arabia",
+    "institutionId": null,
+    "how": "none"
+  },
+  "CUHK(SZ)": {
+    "english": "The Chinese University of Hong Kong, Shenzhen",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Penn State": {
+    "english": "The Pennsylvania State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "U Washington": {
+    "english": "University of Washington",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UTAustin": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UWseattle": {
+    "english": "University of Washington",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "VT": {
+    "english": "Virginia Polytechnic Institute and State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UCRiverside": {
+    "english": "University of California, Riverside",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "代尔夫特理工大学 (TU Delft)": {
+    "english": "Delft University of Technology",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "洛桑联邦理工学院（EPFL）": {
+    "english": "École Polytechnique Fédérale de Lausanne",
+    "country": "Switzerland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "加州大学圣地亚哥分校（UC San Diego）": {
+    "english": "University of California San Diego",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南加州大学(USC)": {
+    "english": "University of Southern California",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "GWU": {
+    "english": "The George Washington University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Rutgers": {
+    "english": "Rutgers, The State University of New Jersey",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "RPI": {
+    "english": "Rensselaer Polytechnic Institute",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Washington(Tacoma)": {
+    "english": "University of Washington Tacoma",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Northeastern University(Silicon Valley)": {
+    "english": "Northeastern University – Silicon Valley",
+    "country": "United States",
+    "institutionId": "northeastern-university",
+    "how": "chosen"
+  },
+  "Rensselaer Polytechnic Institute": {
+    "english": "Rensselaer Polytechnic Institute",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "ASU": {
+    "english": "Arizona State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "TTIC": {
+    "english": "Toyota Technological Institute at Chicago",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "NJIT": {
+    "english": "New Jersey Institute of Technology",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "RIT": {
+    "english": "Rochester Institute of Technology",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UAlbany": {
+    "english": "University at Albany, State University of New York",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UT Dallas": {
+    "english": "The University of Texas at Dallas",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "华盛顿大学西雅图（UW Seattle）": {
+    "english": "University of Washington",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "清华大学深研院": {
+    "english": "Tsinghua Shenzhen International Graduate School, Tsinghua University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "加州大学圣迭戈分校": {
+    "english": "University of California, San Diego",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Caltech": {
+    "english": "California Institute of Technology",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "梅奥诊所": {
+    "english": "Mayo Clinic College of Medicine and Science",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "宾州州立大学": {
+    "english": "The Pennsylvania State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Ohio State University": {
+    "english": "The Ohio State University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Georgia": {
+    "english": "University of Georgia",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "TUDelft": {
+    "english": "Delft University of Technology",
+    "country": "Netherlands",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国科学院深圳先进技术研究院-数字所": {
+    "english": "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "哈工大威海": {
+    "english": "Harbin Institute of Technology, Weihai",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "大连理工大学": {
+    "english": "Dalian University of Technology",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南京理工大学": {
+    "english": "Nanjing University of Science and Technology",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "西南政法大学": {
+    "english": "Southwest University of Political Science and Law",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国政法大学": {
+    "english": "China University of Political Science and Law",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中南大学": {
+    "english": "Central South University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "华东政法大学": {
+    "english": "East China University of Political Science and Law",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "华南理工大学": {
+    "english": "South China University of Technology",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国科学院大学中丹学院": {
+    "english": "University of Chinese Academy of Sciences",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中国农业研究院": {
+    "english": "Chinese Academy of Agricultural Sciences",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北卡罗来纳大学教堂山分校（UNC）": {
+    "english": "The University of North Carolina at Chapel Hill",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "国科大信工": {
+    "english": "University of Chinese Academy of Sciences",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "哈工威": {
+    "english": "Harbin Institute of Technology, Weihai",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "中科大–苏州高等研究院": {
+    "english": "University of Science and Technology of China",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "华东师大 数据工程学院": {
+    "english": "East China Normal University",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "国防科大 计算机学院": {
+    "english": "National University of Defense Technology",
+    "country": "China (Mainland)",
+    "institutionId": null,
+    "how": "none"
+  },
+  "多伦多大学": {
+    "english": "University of Toronto",
+    "country": "Canada",
+    "institutionId": "university-of-toronto",
+    "how": "exact"
+  },
+  "英属哥伦比亚大学": {
+    "english": "The University of British Columbia",
+    "country": "Canada",
+    "institutionId": "university-of-british-columbia",
+    "how": "exact"
+  },
+  "罗彻斯特大学（罗切斯特大学）": {
+    "english": "University of Rochester",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "纽芬兰纪念大学": {
+    "english": "Memorial University of Newfoundland",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "萨省大学": {
+    "english": "University of Saskatchewan",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "莱斯布里奇大学": {
+    "english": "University of Lethbridge",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "卡尔加里大学": {
+    "english": "University of Calgary",
+    "country": "Canada",
+    "institutionId": "university-of-calgary",
+    "how": "exact"
+  },
+  "卡普顿大学": {
+    "english": "Cape Breton University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "温莎大学": {
+    "english": "University of Windsor",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "圣玛丽大学": {
+    "english": "Saint Mary's University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "阿尔伯塔大学": {
+    "english": "University of Alberta",
+    "country": "Canada",
+    "institutionId": "university-of-alberta",
+    "how": "exact"
+  },
+  "约克大学": {
+    "english": null,
+    "country": null,
+    "institutionId": null,
+    "how": "none"
+  },
+  "UNB": {
+    "english": "University of New Brunswick",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "纽约理工大学-温哥华分校": {
+    "english": "New York Institute of Technology - Vancouver",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "比索大学（Bishop's University）": {
+    "english": "Bishop's University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "米兰理工大学": {
+    "english": "Politecnico di Milano",
+    "country": "Italy",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Nanyang Technological University": {
+    "english": "Nanyang Technological University",
+    "country": "Singapore",
+    "institutionId": "nanyang-technological-university-singapore",
+    "how": "exact"
+  },
+  "University of Pepperine": {
+    "english": "Pepperdine University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "京都大学": {
+    "english": "Kyoto University",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "滑铁卢大学": {
+    "english": "University of Waterloo",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "麦克马斯特大学": {
+    "english": "McMaster University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "康考迪亚大学": {
+    "english": "Concordia University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "渥太华大学": {
+    "english": "University of Ottawa",
+    "country": "Canada",
+    "institutionId": "university-of-ottawa",
+    "how": "exact"
+  },
+  "日内瓦大学": {
+    "english": "University of Geneva",
+    "country": "Switzerland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "麦吉尔大学": {
+    "english": "McGill University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "卡尔顿大学": {
+    "english": "Carleton University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "北海道大学": {
+    "english": "Hokkaido University",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "九州大学": {
+    "english": "Kyushu University",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "MUN": {
+    "english": "Memorial University of Newfoundland",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Pepperdine University": {
+    "english": "Pepperdine University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "迪肯大学": {
+    "english": "Deakin University",
+    "country": "Australia",
+    "institutionId": "deakin-university",
+    "how": "exact"
+  },
+  "名古屋大学": {
+    "english": "Nagoya University",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "汤姆逊河大学": {
+    "english": "Thompson Rivers University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "加利福尼亚大学洛杉矶分校（University of California, Los Angeles，UCLA）": {
+    "english": "University of California, Los Angeles",
+    "country": "United States",
+    "institutionId": "university-of-california-los-angeles",
+    "how": "exact"
+  },
+  "广岛大学": {
+    "english": "Hiroshima University",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "温哥华岛大学": {
+    "english": "Vancouver Island University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "塔芙斯大学": {
+    "english": "Tufts University",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "特拉华大学": {
+    "english": "University of Delaware",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "胡安卡洛斯国王大学": {
+    "english": "Universidad Rey Juan Carlos",
+    "country": "Spain",
+    "institutionId": null,
+    "how": "none"
+  },
+  "RMIT皇家墨尔本理工大学": {
+    "english": "RMIT University",
+    "country": "Australia",
+    "institutionId": "rmit-university",
+    "how": "exact"
+  },
+  "劳伦森大学": {
+    "english": "Laurentian University",
+    "country": "Canada",
+    "institutionId": null,
+    "how": "none"
+  },
+  "苏黎世大学": {
+    "english": "University of Zurich",
+    "country": "Switzerland",
+    "institutionId": null,
+    "how": "none"
+  },
+  "UNSW": {
+    "english": "UNSW Sydney",
+    "country": "Australia",
+    "institutionId": "university-of-new-south-wales",
+    "how": "exact"
+  },
+  "大阪大学": {
+    "english": "Osaka University",
+    "country": "Japan",
+    "institutionId": null,
+    "how": "none"
+  },
+  "慕尼黑工业大学（Technische Universität München，TUM）": {
+    "english": "Technical University of Munich",
+    "country": "Germany",
+    "institutionId": null,
+    "how": "none"
+  },
+  "不列颠哥伦比亚大学": {
+    "english": "The University of British Columbia",
+    "country": "Canada",
+    "institutionId": "university-of-british-columbia",
+    "how": "exact"
+  },
+  "高丽大学": {
+    "english": "Korea University",
+    "country": "South Korea",
+    "institutionId": null,
+    "how": "none"
+  },
+  "蒙纳士大学": {
+    "english": "Monash University",
+    "country": "Australia",
+    "institutionId": "monash-university",
+    "how": "exact"
+  },
+  "杜伊斯堡艾森大学": {
+    "english": "University of Duisburg-Essen",
+    "country": "Germany",
+    "institutionId": null,
+    "how": "none"
+  },
+  "哥廷根大学": {
+    "english": "University of Göttingen",
+    "country": "Germany",
+    "institutionId": null,
+    "how": "none"
+  },
+  "朱拉隆功大学": {
+    "english": "Chulalongkorn University",
+    "country": "Thailand",
+    "institutionId": null,
+    "how": "none"
+  },
+  "巴塞罗那自治大学": {
+    "english": "Universitat Autònoma de Barcelona",
+    "country": "Spain",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Texas–Austin 德克萨斯大学奥斯汀分校": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "University of Texas–Austin": {
+    "english": "The University of Texas at Austin",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "哈尔科夫国立师范大学": {
+    "english": "H.S. Skovoroda Kharkiv National Pedagogical University",
+    "country": "Ukraine",
+    "institutionId": null,
+    "how": "none"
+  },
+  "Columbia University in the City of New York（哥伦比亚大学）": {
+    "english": "Columbia University in the City of New York",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  },
+  "白俄罗斯国立大学": {
+    "english": "Belarusian State University",
+    "country": "Belarus",
+    "institutionId": null,
+    "how": "none"
+  },
+  "ESSEC Business School": {
+    "english": "ESSEC Business School",
+    "country": "France",
+    "institutionId": null,
+    "how": "none"
+  },
+  "南加州大学（University of Southern California, USC）": {
+    "english": "University of Southern California",
+    "country": "United States",
+    "institutionId": null,
+    "how": "none"
+  }
+}

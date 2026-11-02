@@ -1,0 +1,24 @@
+{
+ "source": "Graduate Catalog degree programs https://catalog.vt.edu/graduate/degree-programs/ (rendered in browser; site answers 202 to scripted clients) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://catalog.vt.edu/graduate/degree-programs/accounting-information-systems/",
+  "https://catalog.vt.edu/graduate/degree-programs/building-construction-science-management-ms/",
+  "https://catalog.vt.edu/graduate/degree-programs/business/",
+  "https://catalog.vt.edu/graduate/degree-programs/business-administration/",
+  "https://catalog.vt.edu/graduate/degree-programs/communication-ma/",
+  "https://catalog.vt.edu/graduate/degree-programs/computer-science-applications/",
+  "https://catalog.vt.edu/graduate/degree-programs/data-science-ms/",
+  "https://catalog.vt.edu/graduate/degree-programs/economics/",
+  "https://catalog.vt.edu/graduate/degree-programs/education-career-technical-education/",
+  "https://catalog.vt.edu/graduate/degree-programs/education-counselor-education/",
+  "https://catalog.vt.edu/graduate/degree-programs/education-curriculum-instruction/",
+  "https://catalog.vt.edu/graduate/degree-programs/educational-leadership-policy-studies/",
+  "https://catalog.vt.edu/graduate/degree-programs/higher-education/",
+  "https://catalog.vt.edu/graduate/degree-programs/information-technology-mit/",
+  "https://catalog.vt.edu/graduate/degree-programs/public-administration-public-affairs/",
+  "https://catalog.vt.edu/graduate/degree-programs/public-health-mph/",
+  "https://catalog.vt.edu/graduate/degree-programs/reading-literacy-education-ma/",
+  "https://catalog.vt.edu/graduate/degree-programs/statistics/"
+ ]
+}

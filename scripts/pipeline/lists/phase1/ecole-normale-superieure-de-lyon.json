@@ -1,0 +1,7 @@
+{
+  "source": "ENS de Lyon Masters list https://www.ens-lyon.fr/en/studies/academic-programs/masters-2022-2026 (plain fetch; each page states 'Language of teaching'; only in-scope programme 100% in English kept) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.ens-lyon.fr/en/studies/academic-programs/masters-2022-2026/computer-science-concepts-and-applications"
+  ]
+}

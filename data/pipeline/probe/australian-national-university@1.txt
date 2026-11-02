@@ -1,0 +1,3 @@
+# australian-national-university@1 https://programsandcourses.anu.edu.au
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 1
+sitemaps read 1 · urls 0 · master's-looking 0

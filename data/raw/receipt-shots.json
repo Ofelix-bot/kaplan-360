@@ -1,0 +1,650 @@
+{
+ "note": "Homepage receipts checked against their live pages by scripts/receipts/capture.ts. status found = the quote is on the page word for word (spacing and quote marks aside); file = a photo of it there, highlighted.",
+ "shots": [
+  {
+   "id": "acca-faq",
+   "url": "https://www.accaglobal.com/gb/en/help/exemptions.html",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/acca-faq.jpg",
+   "width": 1522,
+   "height": 768
+  },
+  {
+   "id": "acca-murdoch",
+   "url": "https://www.accaglobal.com/gb/en/help/exemptions-calculator.html",
+   "checked": "2026-11-02",
+   "status": "not-found",
+   "detail": "the quote isn't on the page as written"
+  },
+  {
+   "id": "aston-kaplan",
+   "url": "https://www.kaplan.com.sg/postgraduate-degree/master-of-science-strategic-financial-management",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/aston-kaplan.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "au-2025-salary",
+   "url": "https://www.swda.gov.sg/home/newsroom/employment-outcomes-for-private-education-institution-graduates-remain-stable-in-2024-2025",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/au-2025-salary.jpg",
+   "width": 2160,
+   "height": 340
+  },
+  {
+   "id": "aws-ccp",
+   "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/aws-ccp.jpg",
+   "width": 1298,
+   "height": 340
+  },
+  {
+   "id": "c2-diploma",
+   "url": "https://www.mom.gov.sg/faq/compass/how-do-peis-qualify-for-compass-c2-criteria",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/c2-diploma.jpg",
+   "width": 1356,
+   "height": 340
+  },
+  {
+   "id": "c2-pei",
+   "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "detail": "on the page, but not visible to photograph"
+  },
+  {
+   "id": "c2-top100",
+   "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "detail": "on the page, but not visible to photograph"
+  },
+  {
+   "id": "cfa-policy",
+   "url": "https://www.cfainstitute.org/programs/cfa-program/policies",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/cfa-policy.jpg",
+   "width": 1510,
+   "height": 362
+  },
+  {
+   "id": "compass-40",
+   "url": "https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/compass-40.jpg",
+   "width": 1356,
+   "height": 800
+  },
+  {
+   "id": "cpa-au-murdoch",
+   "url": "https://apps.cpaaustralia.com.au/accredited-course-details/?id=0deb02f3-f70d-f111-8407-000d3a6af085",
+   "checked": "2026-11-02",
+   "status": "not-found",
+   "detail": "the quote isn't on the page as written"
+  },
+  {
+   "id": "cscse-list-nus",
+   "url": "http://yxcx.cscse.edu.cn/rzyxmd",
+   "checked": "2026-11-02",
+   "status": "robots",
+   "detail": "robots.txt unreachable"
+  },
+  {
+   "id": "cscse-scope-hk",
+   "url": "https://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/qtxx/2026042823585825550/index.html",
+   "checked": "2026-11-02",
+   "status": "robots",
+   "detail": "robots.txt unreachable"
+  },
+  {
+   "id": "dhaliwal-eight-months",
+   "url": "https://napier-repository.worktribe.com/OutputFile/3050955",
+   "checked": "2026-11-02",
+   "status": "blocked",
+   "detail": "HTTP 403 (not bypassed)"
+  },
+  {
+   "id": "dhaliwal-parents",
+   "url": "https://napier-repository.worktribe.com/OutputFile/3050955",
+   "checked": "2026-11-02",
+   "status": "blocked",
+   "detail": "HTTP 403 (not bypassed)"
+  },
+  {
+   "id": "dhaliwal-pushed",
+   "url": "https://napier-repository.worktribe.com/OutputFile/3050955",
+   "checked": "2026-11-02",
+   "status": "blocked",
+   "detail": "HTTP 403 (not bypassed)"
+  },
+  {
+   "id": "dhaliwal-recall",
+   "url": "https://napier-repository.worktribe.com/OutputFile/3050955",
+   "checked": "2026-11-02",
+   "status": "blocked",
+   "detail": "HTTP 403 (not bypassed)"
+  },
+  {
+   "id": "edinburgh",
+   "url": "https://study.ed.ac.uk/programmes/regions/singapore",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/edinburgh.jpg",
+   "width": 2038,
+   "height": 340
+  },
+  {
+   "id": "ep-2027",
+   "url": "https://www.mom.gov.sg/-/media/mom/documents/press-releases/2026/factsheet-on-foreign-workforce-policies-03032026.pdf",
+   "checked": "2026-11-02",
+   "status": "found",
+   "detail": "PDF text"
+  },
+  {
+   "id": "ges-salary",
+   "url": "https://www.swda.gov.sg/home/newsroom/employment-outcomes-for-private-education-institution-graduates-remain-stable-in-2024-2025",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/ges-salary.jpg",
+   "width": 2160,
+   "height": 340
+  },
+  {
+   "id": "hea-hdeg-employed",
+   "url": "https://hea.ie/statistics/graduate-outcomes/key-findings-go-2024/",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/hea-hdeg-employed.jpg",
+   "width": 1296,
+   "height": 428
+  },
+  {
+   "id": "hea-pgt-employed",
+   "url": "https://hea.ie/statistics/graduate-outcomes/key-findings-go-2024/",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/hea-pgt-employed.jpg",
+   "width": 1296,
+   "height": 482
+  },
+  {
+   "id": "hkbu-january",
+   "url": "https://ar.hkbu.edu.hk/tpg-admissions/programmes/master-of-science-msc-in-entrepreneurship-and-global-marketing",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/hkbu-january.jpg",
+   "width": 2480,
+   "height": 340
+  },
+  {
+   "id": "hkust-fina-duration",
+   "url": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-fina",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/hkust-fina-duration.jpg",
+   "width": 2480,
+   "height": 340
+  },
+  {
+   "id": "hkust-fina-entry",
+   "url": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-fina",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/hkust-fina-entry.jpg",
+   "width": 2474,
+   "height": 340
+  },
+  {
+   "id": "hkust-fina-fee",
+   "url": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-fina",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/hkust-fina-fee.jpg",
+   "width": 2480,
+   "height": 340
+  },
+  {
+   "id": "hkust-fina-modes",
+   "url": "https://prog-crs.hkust.edu.hk/pgprog/2027-28/msc-fina",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/hkust-fina-modes.jpg",
+   "width": 2480,
+   "height": 340
+  },
+  {
+   "id": "ihl-list",
+   "url": "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list_ihl",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/ihl-list.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "ihl-list-nus",
+   "url": "https://www.ica.gov.sg/reside/LTVP/apply/graduate-from-an-institute-of-higher-learning-seeking-employment-in-singapore/list_ihl",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/ihl-list-nus.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "ihl-ltvp-1yr",
+   "url": "https://ask.gov.sg/ica/questions/clos83fvp01ht5k0w2hqby2ji",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/ihl-ltvp-1yr.jpg",
+   "width": 1716,
+   "height": 340
+  },
+  {
+   "id": "immd-iang-eligibility",
+   "url": "https://www.immd.gov.hk/eng/services/visas/IANG.html",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/immd-iang-eligibility.jpg",
+   "width": 2248,
+   "height": 340
+  },
+  {
+   "id": "immd-iang-fulltime",
+   "url": "https://www.immd.gov.hk/eng/faq/non-local-graduates-return-employment-arrangement.html",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/immd-iang-fulltime.jpg",
+   "width": 2356,
+   "height": 340
+  },
+  {
+   "id": "immd-iang-hkust",
+   "url": "https://www.immd.gov.hk/pdforms/ID(E)991.pdf",
+   "checked": "2026-11-02",
+   "status": "found",
+   "detail": "PDF text"
+  },
+  {
+   "id": "immd-iang-stay",
+   "url": "https://www.immd.gov.hk/eng/services/visas/IANG.html",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/immd-iang-stay.jpg",
+   "width": 2152,
+   "height": 376
+  },
+  {
+   "id": "isca-murdoch",
+   "url": "https://www.isca.org.sg/qualifications/scaq/foundation-programme",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/isca-murdoch.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "isca-pp",
+   "url": "https://isca.org.sg/scaq/professional-programme",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/isca-pp.jpg",
+   "width": 1850,
+   "height": 340
+  },
+  {
+   "id": "kaplan-ges-2024-25",
+   "url": "https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/graduate-employment-survey/2024-2025",
+   "checked": "2026-11-02",
+   "status": "not-found",
+   "detail": "the quote isn't on the page as written"
+  },
+  {
+   "id": "kaplan-grads-100k",
+   "url": "https://www.kaplan.com.sg/media-centre-media-releases/kaplan-singapore-commemorates-historic-milestone-crossing-100000",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/kaplan-grads-100k.jpg",
+   "width": 2080,
+   "height": 400
+  },
+  {
+   "id": "kaplan-grads-114k",
+   "url": "https://www.kaplan.com.sg/about-us-who-we-are-about-kaplan-singapore",
+   "checked": "2026-11-02",
+   "status": "not-found",
+   "detail": "the quote isn't on the page as written"
+  },
+  {
+   "id": "khea",
+   "url": "https://regional.kaplan.com.sg/scholarships",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/khea.jpg",
+   "width": 2480,
+   "height": 340
+  },
+  {
+   "id": "mom-jid25-in-demand",
+   "url": "https://stats.mom.gov.sg/iMAS_Infographics/mrsd-Jobs-in-Demand-2025.pdf",
+   "checked": "2026-11-02",
+   "status": "found",
+   "detail": "PDF text"
+  },
+  {
+   "id": "mom-jv25-ai-tools",
+   "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0320-job-vacancies-report-2025",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/mom-jv25-ai-tools.jpg",
+   "width": 1356,
+   "height": 800
+  },
+  {
+   "id": "mom-jv25-core-skills",
+   "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0320-job-vacancies-report-2025",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/mom-jv25-core-skills.jpg",
+   "width": 1422,
+   "height": 800
+  },
+  {
+   "id": "mom-jv25-hard-to-fill",
+   "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0320-job-vacancies-report-2025",
+   "checked": "2026-11-02",
+   "status": "not-found",
+   "detail": "the quote isn't on the page as written"
+  },
+  {
+   "id": "mom-jv25-skills-over-quals",
+   "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0320-job-vacancies-report-2025",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/mom-jv25-skills-over-quals.jpg",
+   "width": 1416,
+   "height": 800
+  },
+  {
+   "id": "mom-ows-auditor",
+   "url": "https://stats.mom.gov.sg/iMAS_Tables1/Wages/Wages_2025/mrsd_2025Wages_table1.xlsx",
+   "checked": "2026-11-02",
+   "status": "error",
+   "detail": "page.goto: Download is starting"
+  },
+  {
+   "id": "mom-ows-data-scientist",
+   "url": "https://stats.mom.gov.sg/iMAS_Tables1/Wages/Wages_2025/mrsd_2025Wages_table1.xlsx",
+   "checked": "2026-11-02",
+   "status": "error",
+   "detail": "page.goto: Download is starting"
+  },
+  {
+   "id": "mom-ows-software-developer",
+   "url": "https://stats.mom.gov.sg/iMAS_Tables1/Wages/Wages_2025/mrsd_2025Wages_table1.xlsx",
+   "checked": "2026-11-02",
+   "status": "error",
+   "detail": "page.goto: Download is starting"
+  },
+  {
+   "id": "mom-pass-expires",
+   "url": "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/mom-pass-expires.jpg",
+   "width": 1382,
+   "height": 340
+  },
+  {
+   "id": "monash-entry",
+   "url": "https://www.monash.edu/study/courses/find-a-course/banking-and-finance-b6004?international=true",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/monash-entry.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "monash-fee",
+   "url": "https://www.monash.edu/study/courses/find-a-course/banking-and-finance-b6004?international=true",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/monash-fee.jpg",
+   "width": 1854,
+   "height": 800
+  },
+  {
+   "id": "monash-intakes",
+   "url": "https://www.monash.edu/study/courses/find-a-course/banking-and-finance-b6004?international=true",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/monash-intakes.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "murdoch",
+   "url": "https://www.murdoch.edu.au/study/courses/postgraduate/m1273",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/murdoch.jpg",
+   "width": 2480,
+   "height": 340
+  },
+  {
+   "id": "nus-mim-duration",
+   "url": "https://mim.nus.edu.sg/faqs/",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/nus-mim-duration.jpg",
+   "width": 2480,
+   "height": 340
+  },
+  {
+   "id": "nus-mim-entry",
+   "url": "https://mim.nus.edu.sg/admissions/admission-requirements/",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/nus-mim-entry.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "nus-mim-fee",
+   "url": "https://mim.nus.edu.sg/fees-finances/programme-fees/",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/nus-mim-fee.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "nus-qs-2027",
+   "url": "https://www.topuniversities.com/universities/national-university-singapore-nus",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/nus-qs-2027.jpg",
+   "width": 1782,
+   "height": 340
+  },
+  {
+   "id": "qilt-pgc-salary",
+   "url": "https://www.qilt.edu.au/docs/default-source/default-document-library/2025-gos-national-report.pdf",
+   "checked": "2026-11-02",
+   "status": "found",
+   "detail": "PDF text"
+  },
+  {
+   "id": "qs-2027-bristol",
+   "url": "https://www.topuniversities.com/universities/university-bristol",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/qs-2027-bristol.jpg",
+   "width": 1788,
+   "height": 340
+  },
+  {
+   "id": "qs-2027-monash",
+   "url": "https://qs-topuniversities.cn/en/universities/monash-university",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/qs-2027-monash.jpg",
+   "width": 2316,
+   "height": 340
+  },
+  {
+   "id": "qs-2027-ucd",
+   "url": "https://qs-topuniversities.cn/en/universities/university-college-dublin",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/qs-2027-ucd.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "sfw-audit-associate",
+   "url": "https://file.go.gov.sg/jobsandskills-skillsfuture-skills-framework-dataset.xlsx",
+   "checked": "2026-11-02",
+   "status": "error",
+   "detail": "page.goto: Download is starting"
+  },
+  {
+   "id": "sfw-audit-associate-data",
+   "url": "https://file.go.gov.sg/jobsandskills-skillsfuture-skills-framework-dataset.xlsx",
+   "checked": "2026-11-02",
+   "status": "error",
+   "detail": "page.goto: Download is starting"
+  },
+  {
+   "id": "ssg-pei-course-2024",
+   "url": "https://isomer-user-content.by.gov.sg/41/4f26526a-a750-4dee-82d5-00bec4ef0e11/2024%20Private%20Education%20Sector%20Overview.pdf",
+   "checked": "2026-11-02",
+   "status": "found",
+   "detail": "PDF text"
+  },
+  {
+   "id": "ssg-pei-intake-2024",
+   "url": "https://isomer-user-content.by.gov.sg/41/4f26526a-a750-4dee-82d5-00bec4ef0e11/2024%20Private%20Education%20Sector%20Overview.pdf",
+   "checked": "2026-11-02",
+   "status": "not-found",
+   "detail": "quote not in the PDF's text"
+  },
+  {
+   "id": "stp-apply",
+   "url": "https://www.ica.gov.sg/pass/studentpass/pei",
+   "checked": "2026-11-02",
+   "status": "error",
+   "detail": "HTTP 404"
+  },
+  {
+   "id": "stp-cancel",
+   "url": "https://www.ica.gov.sg/reside/STP/cancel",
+   "checked": "2026-11-02",
+   "status": "not-found",
+   "detail": "the quote isn't on the page as written"
+  },
+  {
+   "id": "stp-end-visit",
+   "url": "https://ask.gov.sg/ica/questions/cm68kbm9k02jb956ehfcuw0cr",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/stp-end-visit.jpg",
+   "width": 1718,
+   "height": 340
+  },
+  {
+   "id": "stp-new-course",
+   "url": "https://www.ica.gov.sg/pass/studentpass/pei",
+   "checked": "2026-11-02",
+   "status": "error",
+   "detail": "HTTP 404"
+  },
+  {
+   "id": "swda-ges-secured",
+   "url": "https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/graduate-employment-survey/2024-2025",
+   "checked": "2026-11-02",
+   "status": "not-found",
+   "detail": "the quote isn't on the page as written"
+  },
+  {
+   "id": "ucd-mgmt-duration",
+   "url": "https://www.kaplan.com.sg/postgraduate-degree/master-of-science-management",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/ucd-mgmt-duration.jpg",
+   "width": 1280,
+   "height": 800
+  },
+  {
+   "id": "ucd-mgmt-entry",
+   "url": "https://www.kaplan.com.sg/postgraduate-degree/master-of-science-management",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/ucd-mgmt-entry.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "ucd-mgmt-fee",
+   "url": "https://www.kaplan.com.sg/postgraduate-degree/master-of-science-management",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/ucd-mgmt-fee.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "visit-89",
+   "url": "https://ask.gov.sg/ica/questions/clos83fvp01ht5k0w2hqby2ji",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/visit-89.jpg",
+   "width": 1632,
+   "height": 392
+  },
+  {
+   "id": "work-hours",
+   "url": "https://www.mom.gov.sg/passes-and-permits/work-pass-exemption-for-foreign-students",
+   "checked": "2026-11-02",
+   "status": "found",
+   "opened": true,
+   "file": "/receipts/work-hours.jpg",
+   "width": 1280,
+   "height": 340
+  },
+  {
+   "id": "work-pq",
+   "url": "https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2021/0802-written-answer-by-minister-for-manpower-on-foreigners-on-student-pass-doing-part-time-work",
+   "checked": "2026-11-02",
+   "status": "found",
+   "file": "/receipts/work-pq.jpg",
+   "width": 1452,
+   "height": 340
+  }
+ ]
+}

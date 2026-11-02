@@ -1,0 +1,101 @@
+# university-of-oulu https://www.oulu.fi
+robots sitemaps: https://www.oulu.fi/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.oulu.fi/sitemap.xml: 6 children (0 course-like)
+index https://www.oulu.fi/news-and-events/sitemap.xml: 7 children (7 course-like)
+index https://www.oulu.fi/researchers/sitemap.xml: 3 children (3 course-like)
+index https://www.oulu.fi/theses/sitemap.xml: 3 children (3 course-like)
+sitemaps read 20 · urls 25972 · master's-looking 267
+  102  www.oulu.fi/en/news
+         https://www.oulu.fi/en/news/new-masters-programme-epidemiology-and-biomedical-data-science-combines-medical-and-data-sciences-1
+         https://www.oulu.fi/en/news/call-for-masters-thesis-scholarships-2020-2021
+         https://www.oulu.fi/en/news/new-online-course-for-masters-students-and-doctoral-students
+         https://www.oulu.fi/en/news/new-masters-programme-epidemiology-and-biomedical-data-science-combines-medical-and-data-sciences
+   39  www.oulu.fi/en/research/graduate-school
+         https://www.oulu.fi/en/research/graduate-school/for-new-doctoral-researchers
+         https://www.oulu.fi/en/research/graduate-school/supervision-and-support-doctoral-researcher
+         https://www.oulu.fi/en/research/graduate-school/final-stages-doctoral-degree
+         https://www.oulu.fi/en/research/graduate-school/thesis-requirements-and-doctoral-studies
+   33  www.oulu.fi/fi/uutiset
+         https://www.oulu.fi/fi/uutiset/jatkava-opiskelija-muista-ilmoittautua-lukuvuodelle-2020-21-ma-1492020-mennessa
+         https://www.oulu.fi/fi/uutiset/fm-opintojen-aloitustilaisuus-ma-149-muista-ilmoittautua
+         https://www.oulu.fi/fi/uutiset/call-for-masters-thesis-scholarships-2020-2021
+         https://www.oulu.fi/fi/uutiset/call-for-masters-thesis-scholarships-2021-2022
+   24  www.oulu.fi/en/apply
+         https://www.oulu.fi/en/apply/masters-biomedical-engineering
+         https://www.oulu.fi/en/apply/masters-electronics
+         https://www.oulu.fi/en/apply/masters-education-for-global-futures-and-leadership
+         https://www.oulu.fi/en/apply/masters-learning-education-and-technology
+   12  www.oulu.fi/fi/martti-ahtisaari-instituutti/uutiset
+         https://www.oulu.fi/fi/martti-ahtisaari-instituutti/uutiset/liikkeenjohdon-koulutus-juhlisti-executive-mba-ja-master-safetytm-ohjelmista-valmistuneita
+         https://www.oulu.fi/fi/martti-ahtisaari-instituutti/uutiset/executive-mba-ohjelman-vierailu-lyonissa-ranskassa
+         https://www.oulu.fi/fi/martti-ahtisaari-instituutti/uutiset/paljon-onnea-executive-mba
+         https://www.oulu.fi/fi/martti-ahtisaari-instituutti/uutiset/oulun-yliopiston-executive-mba-ohjelman-30-vuotisjuhlassa-palkittiin-vastuullisen-liikkeenjohdon
+    6  www.oulu.fi/en/apply/unioulu-ambassador-blog
+         https://www.oulu.fi/en/apply/unioulu-ambassador-blog/masters-chemistry-sustainable-processes-and-materials-how-it-aligns-my-future-career
+         https://www.oulu.fi/en/apply/unioulu-ambassador-blog/epidemiology-and-biomedical-data-science-masters-degree-ahead-its-time
+         https://www.oulu.fi/en/apply/unioulu-ambassador-blog/masters-cse-why-should-you-choose-artificial-intelligence-track
+         https://www.oulu.fi/en/apply/unioulu-ambassador-blog/masters-biochemistry-and-molecular-medicine-it-rewarding
+    6  www.oulu.fi/en/events
+         https://www.oulu.fi/en/events/how-make-cities-more-attractive-for-graduated-students-oulu-bochum-panel-discussion
+         https://www.oulu.fi/en/events/how-get-started-your-masters-thesis
+         https://www.oulu.fi/en/events/mastering-metal-fatigue
+         https://www.oulu.fi/en/events/launch-event-for-nature-masterclasses
+    6  www.oulu.fi/en/theses
+         https://www.oulu.fi/en/theses/agents-change-rehabilitation-study-work-based-learning-masters-degree-programme-university-applied
+         https://www.oulu.fi/en/theses/you-need-master-well-basics-only-engineering-students-view-mathematics-built-experiences-upper
+         https://www.oulu.fi/en/theses/interprofessional-education-during-undergraduate-medical-and-health-care-studies
+         https://www.oulu.fi/en/theses/flexible-precision-regulatory-precision-master-planning-advance-climate-targets
+    5  www.oulu.fi/en/for-students/thesis-and-graduation
+         https://www.oulu.fi/en/for-students/thesis-and-graduation/graduation-masters-degree/graduation-masters-degree
+         https://www.oulu.fi/en/for-students/thesis-and-graduation/graduation-masters-degree/masters-thesis
+         https://www.oulu.fi/en/for-students/thesis-and-graduation/bachelors-degree/finnish-bachelors-graduate-survey
+         https://www.oulu.fi/en/for-students/thesis-and-graduation/graduation-masters-degree
+    4  www.oulu.fi/en/apply/how-apply
+         https://www.oulu.fi/en/apply/how-apply/applying-masters-programmes/language-requirements-for-masters-degrees
+         https://www.oulu.fi/en/apply/how-apply/applying-masters-programmes/deadlines
+         https://www.oulu.fi/en/apply/how-apply/applying-masters-programmes/gmatgre-test-results
+         https://www.oulu.fi/en/apply/how-apply/applying-masters-programmes
+    4  www.oulu.fi/en/martti-ahtisaari-institute/news
+         https://www.oulu.fi/en/martti-ahtisaari-institute/news/business-analytics-most-popular-international-masters-programme
+         https://www.oulu.fi/en/martti-ahtisaari-institute/news/enhancing-global-innovation-msc-collaboration-em-lyon-business-school-continues
+         https://www.oulu.fi/en/martti-ahtisaari-institute/news/executive-mba-and-master-safety-graduates-celebrated-oulu
+         https://www.oulu.fi/en/martti-ahtisaari-institute/news/emlyon-collaboration-expands-students-two-international-masters-programmes-study-oulu-spring-2027
+    4  www.oulu.fi/en/projects
+         https://www.oulu.fi/en/projects/dhm-digital-health-module-postgraduate-higher-education
+         https://www.oulu.fi/en/projects/dronemaster
+         https://www.oulu.fi/en/projects/reboot-skills-masterclasses
+         https://www.oulu.fi/en/projects/emjm-promise-erasmus-mundus-joint-master-sustainable-mineral-and-metal-processing-engineering
+    3  www.oulu.fi/fi/martti-ahtisaari-instituutti/koulutus
+         https://www.oulu.fi/fi/martti-ahtisaari-instituutti/koulutus/master-safety
+         https://www.oulu.fi/fi/martti-ahtisaari-instituutti/koulutus/emba/executive-mba-oulu
+         https://www.oulu.fi/fi/martti-ahtisaari-instituutti/koulutus/master-safety/johtamiskoulutusta-tyohyvinvointi-ja-turvallisuusosaamiseen
+    3  www.oulu.fi/fi/tapahtumat
+         https://www.oulu.fi/fi/tapahtumat/ikaantyvien-hyvinvointi-oulussa-tule-kertomaan-ajatuksesi-ma-2452021-yliopiston-pop-upiin
+         https://www.oulu.fi/fi/tapahtumat/nature-masterclasses-lanseeraustapahtuma
+         https://www.oulu.fi/fi/tapahtumat/workshop-time-management-mastery-for-doctoral-researchers
+    3  www.oulu.fi/en/education-search
+         https://www.oulu.fi/en/education-search/nature-masterclasses
+         https://www.oulu.fi/en/education-search/mastering-academic-writing
+         https://www.oulu.fi/en/education-search/next-generation-search-llm-conversational-ai-and-query-prediction
+    3  www.oulu.fi/fi/koulutushaku
+         https://www.oulu.fi/fi/koulutushaku/nature-masterclasses
+         https://www.oulu.fi/fi/koulutushaku/mastering-academic-writing
+         https://www.oulu.fi/fi/koulutushaku/next-generation-search-llm-conversational-ai-and-query-prediction
+    1  www.oulu.fi/en/for-students/after-graduation
+         https://www.oulu.fi/en/for-students/after-graduation/graduates-working-life
+    1  www.oulu.fi/en/research
+         https://www.oulu.fi/en/research/graduate-school
+    1  www.oulu.fi/en/data-privacy
+         https://www.oulu.fi/en/data-privacy/data-privacy-notice-graduate-early-stage-career-monitoring-surveys
+    1  www.oulu.fi/en/for-students/unioulu-ambassadors
+         https://www.oulu.fi/en/for-students/unioulu-ambassadors/best-place-master-learning-sciences
+    1  www.oulu.fi/en
+         https://www.oulu.fi/en/international-masters-programmes-mining-and-geosciences
+    1  www.oulu.fi/en/blogs/kerttu-saalasti-institute-blog
+         https://www.oulu.fi/en/blogs/kerttu-saalasti-institute-blog/mastering-intricacies-communication-through-practice
+    1  www.oulu.fi/en/blogs/exploring-resilience
+         https://www.oulu.fi/en/blogs/exploring-resilience/what-oulu-taught-me-about-curriculum-and-its-blind-spots
+    1  www.oulu.fi/fi/projektit
+         https://www.oulu.fi/fi/projektit/dronemaster
+    1  www.oulu.fi/en/research-groups
+         https://www.oulu.fi/en/research-groups/health-information-mastering-him-ouluabo

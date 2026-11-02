@@ -1,0 +1,127 @@
+# brunel-university-london https://www.brunel.ac.uk
+robots sitemaps: https://www.brunel.ac.uk/sitemap-index.xml https://www.brunel.ac.uk/sitemap.xml https://www.brunel.ac.uk/sitemap-new.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.brunel.ac.uk/sitemap-index.xml: 2 children (0 course-like)
+sitemaps read 3 · urls 10741 · master's-looking 565
+  134  www.brunel.ac.uk/study/courses
+         https://www.brunel.ac.uk/study/courses/accounting-and-business-management-msc
+         https://www.brunel.ac.uk/study/courses/advanced-chemical-engineering-hydrogen-and-low-carbon-technologies-msc
+         https://www.brunel.ac.uk/study/courses/advanced-clinical-practice-cardiovascular-health-pgcert-pgdip-and-msc
+         https://www.brunel.ac.uk/study/courses/advanced-clinical-practice-critical-care-pgcert-pgdip-and-msc
+   90  www.brunel.ac.uk/iambrunel
+         https://www.brunel.ac.uk/iambrunel/a-graduate-career-in-cyber-security
+         https://www.brunel.ac.uk/iambrunel/a-maths-graduates-advice-to-new-students
+         https://www.brunel.ac.uk/iambrunel/alumna-reflects-on-her-graduate-career-plans
+         https://www.brunel.ac.uk/iambrunel/alumnus-returns-to-placement-company-as-a-graduate-industrial-engineer
+   23  www.brunel.ac.uk/news-and-events/news/articles
+         https://www.brunel.ac.uk/news-and-events/news/articles/British-Council-awards-Brunel-graduate-for-outstanding-international-achievements
+         https://www.brunel.ac.uk/news-and-events/news/articles/Brunel-among-top-10-UK-universities-for-boosting-graduate-salaries
+         https://www.brunel.ac.uk/news-and-events/news/articles/Brunel-Education-graduates-are-top-UK-earners
+         https://www.brunel.ac.uk/news-and-events/news/articles/Brunel-graduates-award-next-generation-of-design-talent
+   17  www.brunel.ac.uk/student-professional-development/entrepreneur-hub/news-and-events
+         https://www.brunel.ac.uk/student-professional-development/entrepreneur-hub/news-and-events/news/Brunel-graduate-entrepreneur-collaborates-with-NHS-to-transform-stroke-rehabilitation
+         https://www.brunel.ac.uk/student-professional-development/entrepreneur-hub/news-and-events/news/Brunel-Graduate-Entrepreneur-Makes-Forbes-Spotlight-with-Innovative-Scent-Technology
+         https://www.brunel.ac.uk/student-professional-development/entrepreneur-hub/news-and-events/news/Brunel-graduate-entrepreneur-raises-6-million-to-keep-transforming-the-healthcare-sector-for-children
+         https://www.brunel.ac.uk/student-professional-development/entrepreneur-hub/news-and-events/news/Brunel-graduate-entrepreneur-raises-over-8.5M-to-scale-his-technology-focused-on-turning-waste-into-energy
+   15  www.brunel.ac.uk/study/postgraduate-study/graduate-school
+         https://www.brunel.ac.uk/study/postgraduate-study/graduate-school/Support-for-doctoral-researchers
+         https://www.brunel.ac.uk/study/postgraduate-study/graduate-school/Support-for-doctoral-supervisors-and-researcher-development-advisors
+         https://www.brunel.ac.uk/study/postgraduate-study/graduate-school/news-and-events
+         https://www.brunel.ac.uk/study/postgraduate-study/graduate-school/news-and-events/events
+   13  www.brunel.ac.uk/news-and-events/events/2023
+         https://www.brunel.ac.uk/news-and-events/events/2023/Arts-Humanities-Graduate-Showcase
+         https://www.brunel.ac.uk/news-and-events/events/2023/hive-masterclass-launch-june-2023
+         https://www.brunel.ac.uk/news-and-events/events/2023/Business-Workshop-Self-mastery-and-self-leadership-as-tools-for-business-success
+         https://www.brunel.ac.uk/news-and-events/events/2023/Master-the-business-fundamentals-to-unlock-opportunities-in-your-business
+   12  www.brunel.ac.uk/about/brunel-public-policy/news-and-events
+         https://www.brunel.ac.uk/about/brunel-public-policy/news-and-events/events/Join-UPEN-Masterclass-Public-Speaking-for-a-Policy-Audience
+         https://www.brunel.ac.uk/about/brunel-public-policy/news-and-events/events/Masterclass-Writing-for-Policy-and-Building-your-Online-Profile
+         https://www.brunel.ac.uk/about/brunel-public-policy/news-and-events/events/OIT-policy-masterclass-for-early-career-researchers
+         https://www.brunel.ac.uk/about/brunel-public-policy/news-and-events/events/Public-Policy-Masterclass
+   10  www.brunel.ac.uk/news-and-events/events/2025
+         https://www.brunel.ac.uk/news-and-events/events/2025/Made-in-Brunel-REMASTERED-End-of-Year-Showcase
+         https://www.brunel.ac.uk/news-and-events/events/2025/webinar-mba-march-2025
+         https://www.brunel.ac.uk/news-and-events/events/2025/postgraduate-open-day-mar-2025
+         https://www.brunel.ac.uk/news-and-events/events/2025/postgraduate-open-day-mar-2026
+    9  www.brunel.ac.uk/study/undergraduate-fees-and-funding/scholarships
+         https://www.brunel.ac.uk/study/undergraduate-fees-and-funding/scholarships/Brunel-Family-Discount-Terms-and-Conditions-201920
+         https://www.brunel.ac.uk/study/undergraduate-fees-and-funding/scholarships/Unpaid-Placement-Bursary-Terms-and-Conditions-courses-commencing-201920
+         https://www.brunel.ac.uk/study/undergraduate-fees-and-funding/scholarships/Brunel-Sanctuary-Scholarship-Terms-and-Conditions
+         https://www.brunel.ac.uk/study/undergraduate-fees-and-funding/scholarships/local-boroughs-scholarship
+    8  www.brunel.ac.uk/business/Business-Partnerships/Co-Innovate
+         https://www.brunel.ac.uk/business/Business-Partnerships/Co-Innovate/news-and-events/Events/2017/Social-Media-PR-Masterclass
+         https://www.brunel.ac.uk/business/Business-Partnerships/Co-Innovate/news-and-events/Events/2018/Maximising-Innovation-with-Intellectual-Property-Free-IP-Audit-Masterclass
+         https://www.brunel.ac.uk/business/Business-Partnerships/Co-Innovate/news-and-events/Events/2022/Innovation-Masterclass-Series-by-Professor-Rob-Holdway
+         https://www.brunel.ac.uk/business/Business-Partnerships/Co-Innovate/news-and-events/News/articles/Brunel-Graduate-receives-20000
+    7  www.brunel.ac.uk/business-school/news-and-events/news
+         https://www.brunel.ac.uk/business-school/news-and-events/news/Brunel-MBA-Maintains-its-Tier-One-Position-in-CEO-Magazines-MBA-Rankings
+         https://www.brunel.ac.uk/business-school/news-and-events/news/Celebrating-the-10th-Anniversary-of-the-ground-breaking-MSc-in-Corporate-Brand-Management
+         https://www.brunel.ac.uk/business-school/news-and-events/news/Kim-Cohen-addresses-Brunel-Business-Schools-MBA-students
+         https://www.brunel.ac.uk/business-school/news-and-events/news/Masterclass-by-Jack-Keenan-to-BBS
+    7  www.brunel.ac.uk/law/news-and-events/news
+         https://www.brunel.ac.uk/law/news-and-events/news/Brunels-LLM-and-EUIPO-Traineeship
+         https://www.brunel.ac.uk/law/news-and-events/news/Brunel-Graduate-Discount-offers-a-15-fee-reduction-for-all-Brunel-alumni
+         https://www.brunel.ac.uk/law/news-and-events/news/Brunel-Law-School-Launches-an-Exciting-New-LLM-Programme
+         https://www.brunel.ac.uk/law/news-and-events/news/Law-school-graduate-voted-as-new-Students-Union-president
+    7  www.brunel.ac.uk/study/postgraduate-fees-and-funding
+         https://www.brunel.ac.uk/study/postgraduate-fees-and-funding/postgraduate-masters-loan
+         https://www.brunel.ac.uk/study/postgraduate-fees-and-funding/fees
+         https://www.brunel.ac.uk/study/postgraduate-fees-and-funding/funding
+         https://www.brunel.ac.uk/study/postgraduate-fees-and-funding/scholarships
+    6  www.brunel.ac.uk/news-and-events/events/2022
+         https://www.brunel.ac.uk/news-and-events/events/2022/Arts-and-Humanities-Graduate-Showcase-2022
+         https://www.brunel.ac.uk/news-and-events/events/2022/Innovation-Masterclass
+         https://www.brunel.ac.uk/news-and-events/events/2022/MA-in-Art-Psychotherapy-and-NHS-partnership-launch-Hybrid-event
+         https://www.brunel.ac.uk/news-and-events/events/2022/social-media-QA-art-psychotherapy-MA
+    6  www.brunel.ac.uk/study/applicants/undergraduate-courses-how-to-apply
+         https://www.brunel.ac.uk/study/applicants/undergraduate-courses-how-to-apply/brunel-design-school-portfolio-advice
+         https://www.brunel.ac.uk/study/applicants/undergraduate-courses-how-to-apply/late-applications
+         https://www.brunel.ac.uk/study/applicants/undergraduate-courses-how-to-apply/how-to-apply-through-ucas
+         https://www.brunel.ac.uk/study/applicants/undergraduate-courses-how-to-apply/key-dates-and-deadlines-for-your-diary
+    6  www.brunel.ac.uk/study
+         https://www.brunel.ac.uk/study/undergraduate-study
+         https://www.brunel.ac.uk/study/postgraduate-degree-structure
+         https://www.brunel.ac.uk/study/postgraduate-study
+         https://www.brunel.ac.uk/study/undergraduate-fees-and-funding
+    6  www.brunel.ac.uk/study/undergraduate-fees-and-funding
+         https://www.brunel.ac.uk/study/undergraduate-fees-and-funding/fees-and-funding-for-clearing-students
+         https://www.brunel.ac.uk/study/undergraduate-fees-and-funding/scholarships
+         https://www.brunel.ac.uk/study/undergraduate-fees-and-funding/degree-costs
+         https://www.brunel.ac.uk/study/undergraduate-fees-and-funding/grants-and-loans
+    6  www.brunel.ac.uk/study/postgraduate-fees-and-funding/scholarships
+         https://www.brunel.ac.uk/study/postgraduate-fees-and-funding/scholarships/Postgraduate-Care-leaver-Bursary-201819
+         https://www.brunel.ac.uk/study/postgraduate-fees-and-funding/scholarships/MBA-Scholarship-Full-time-Part-time
+         https://www.brunel.ac.uk/study/postgraduate-fees-and-funding/scholarships/NSIRC-Scholarships-Terms-and-Conditions
+         https://www.brunel.ac.uk/study/postgraduate-fees-and-funding/scholarships/postgraduate-academic-excellence-scholarship
+    5  www.brunel.ac.uk/news-and-events/events/2021
+         https://www.brunel.ac.uk/news-and-events/events/2021/online-events/Webinar-The-Brunel-MBA-Information
+         https://www.brunel.ac.uk/news-and-events/events/2021/Undergraduate-Open-Day-Oct-21
+         https://www.brunel.ac.uk/news-and-events/events/2021/Webinar-Brunel-Online-postgraduate-health-programmes-September-2021
+         https://www.brunel.ac.uk/news-and-events/events/2021/Webinar-Postgraduate-Law
+    5  www.brunel.ac.uk/scholarships
+         https://www.brunel.ac.uk/scholarships/brunel-graduate-discount
+         https://www.brunel.ac.uk/scholarships/eu-undergraduate-discount
+         https://www.brunel.ac.uk/scholarships/mba-scholarship-full-time-part-time
+         https://www.brunel.ac.uk/scholarships/postgraduate-academic-excellence-scholarship
+    4  www.brunel.ac.uk/alumni/News-and-events/News
+         https://www.brunel.ac.uk/alumni/News-and-events/News/Articles/2012-and-older/Find-the-right-graduate-to-boost-your-business
+         https://www.brunel.ac.uk/alumni/News-and-events/News/Articles/2013/Helping-Business-School-graduates-into-work
+         https://www.brunel.ac.uk/alumni/News-and-events/News/Articles/2013/London-MBA-News
+         https://www.brunel.ac.uk/alumni/News-and-events/News/Articles/2014/Design-Masters-2025
+    4  www.brunel.ac.uk/business-school/brunel-mba-in-london
+         https://www.brunel.ac.uk/business-school/brunel-mba-in-london/modes-of-study
+         https://www.brunel.ac.uk/business-school/brunel-mba-in-london/mba-pathways
+         https://www.brunel.ac.uk/business-school/brunel-mba-in-london/our-staff
+         https://www.brunel.ac.uk/business-school/brunel-mba-in-london/scholarships-and-fees
+    4  www.brunel.ac.uk/study/applicants
+         https://www.brunel.ac.uk/study/applicants/postgraduate-courses-after-you-have-applied
+         https://www.brunel.ac.uk/study/applicants/postgraduate-courses-how-to-apply
+         https://www.brunel.ac.uk/study/applicants/undergraduate-courses-after-you-have-applied
+         https://www.brunel.ac.uk/study/applicants/undergraduate-courses-how-to-apply
+    3  www.brunel.ac.uk/brunel-design-school/news-and-events/news
+         https://www.brunel.ac.uk/brunel-design-school/news-and-events/news/Acclaimed-brand-thinker-and-writer-Marty-Neumeier-inspires-Brunel-Design-Masters-students.
+         https://www.brunel.ac.uk/brunel-design-school/news-and-events/news/Another-inspiring-masterclass-with-branding-guru-Marty-Neumeier
+         https://www.brunel.ac.uk/brunel-design-school/news-and-events/news/Masters-Design-Futures-Module-featured-in-newdesign-magazine
+    3  www.brunel.ac.uk/student-professional-development/work-placements/PG-employers
+         https://www.brunel.ac.uk/student-professional-development/work-placements/PG-employers/Postgraduate-placements-April-start
+         https://www.brunel.ac.uk/student-professional-development/work-placements/PG-employers/Postgraduate-placements-June-start
+         https://www.brunel.ac.uk/student-professional-development/work-placements/PG-employers/Postgraduate-placements-September-start

@@ -1,0 +1,27 @@
+{
+ "source": "business.cornell.edu programme finder (masters + MBA), tech.cornell.edu masters list, bowers.cornell.edu degree list, law and ILR degree pages (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://business.cornell.edu/programs/mba/",
+  "https://business.cornell.edu/programs/cems/",
+  "https://business.cornell.edu/programs/msba/",
+  "https://business.cornell.edu/programs/mmh/",
+  "https://business.cornell.edu/programs/masters-in-accounting/",
+  "https://business.cornell.edu/programs/mps-aem/",
+  "https://business.cornell.edu/programs/mps-management/",
+  "https://business.cornell.edu/programs/mps-re/",
+  "https://business.cornell.edu/programs/emba-americas/",
+  "https://business.cornell.edu/programs/emba-nyc/",
+  "https://business.cornell.edu/programs/emba-healthcare-leadership/",
+  "https://business.cornell.edu/programs/emmh/",
+  "https://tech.cornell.edu/programs/masters-programs/johnson-cornell-tech-mba/",
+  "https://tech.cornell.edu/programs/masters-programs/jacobs-technion-cornell-dual-ms-connective-media/",
+  "https://tech.cornell.edu/programs/masters-programs/master-of-laws-llm/",
+  "https://www.lawschool.cornell.edu/academics/degree-programs/general-llm-program/",
+  "https://www.ilr.cornell.edu/programs/graduate-degree-programs/master-industrial-and-labor-relations-milr",
+  "https://www.ilr.cornell.edu/programs/graduate-degree-programs/emhrm",
+  "https://publichealth.cornell.edu/",
+  "https://www.cs.cornell.edu/master-science-computer-science",
+  "https://stat.cornell.edu/master-professional-studies-applied-statistics"
+ ]
+}

@@ -1,0 +1,128 @@
+# technological-university-dublin https://www.tudublin.ie
+robots sitemaps: https://www.tudublin.ie/sitemap-en.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 12496 · master's-looking 1266
+  219  www.tudublin.ie/study/undergraduate/courses
+         https://www.tudublin.ie/study/undergraduate/courses/electrical-services---energy-management-(tu802)/
+         https://www.tudublin.ie/study/undergraduate/courses/engineering-software-tu808/
+         https://www.tudublin.ie/study/undergraduate/courses/computing-tu860/
+         https://www.tudublin.ie/study/undergraduate/courses/photography-tu976/
+  173  www.tudublin.ie/explore/faculties-and-schools/arts-humanities
+         https://www.tudublin.ie/explore/faculties-and-schools/arts-humanities/research/postgraduate-researchers/marta-siermantowska.php
+         https://www.tudublin.ie/explore/faculties-and-schools/arts-humanities/schools/school-of-media/research/phd-research-masters/current-research-students/adrian-smyth.php
+         https://www.tudublin.ie/explore/faculties-and-schools/arts-humanities/research/postgraduate-researchers/sandra-oman-farren.php
+         https://www.tudublin.ie/explore/faculties-and-schools/arts-humanities/research/postgraduate-researchers/rachel-duffy.php
+  156  www.tudublin.ie/study/postgraduate/courses
+         https://www.tudublin.ie/study/postgraduate/courses/-leadership-innovation-and-technology-tu333-part-time/
+         https://www.tudublin.ie/study/postgraduate/courses/data-analytics-sport-ft/
+         https://www.tudublin.ie/study/postgraduate/courses/building-performance-energy-eff-in-design3/
+         https://www.tudublin.ie/study/postgraduate/courses/public-relations/
+   89  www.tudublin.ie/research-innovation/research/discover-our-research
+         https://www.tudublin.ie/research-innovation/research/discover-our-research/research-centres/centre-for-psychology-education--emotional-intelligence/people/postgraduate-researchers/eadaoin-ryan.php
+         https://www.tudublin.ie/research-innovation/research/discover-our-research/research-centres/towards-people-oriented-technology/people/postgraduate-researchers/yousef-sultan-.php
+         https://www.tudublin.ie/research-innovation/research/discover-our-research/research-centres/csinc/people/postgraduate-research-students/frances-sheridan.php
+         https://www.tudublin.ie/research-innovation/research/discover-our-research/research-centres/centre-for-psychology-education--emotional-intelligence/people/postgraduate-researchers/
+   88  www.tudublin.ie/explore/faculties-and-schools/business
+         https://www.tudublin.ie/explore/faculties-and-schools/business/business-technology-retail-supply-chain/news/archive/the-maria-wallace-foundation---msc-in-fashion-buying--management-scholarship-2024.php
+         https://www.tudublin.ie/explore/faculties-and-schools/business/accounting-economics-and-finance/study/postgraduate/
+         https://www.tudublin.ie/explore/faculties-and-schools/business/business-technology-retail-supply-chain/news/archive/2025-scholarship-for-msc-fashion-buying-and-management-.php
+         https://www.tudublin.ie/explore/faculties-and-schools/business/management-people-and-organisations/people/school-management-team/ann-masterson.php
+   68  www.tudublin.ie/study/undergraduate/cao
+         https://www.tudublin.ie/study/undergraduate/cao/courses/architecture-built-environment/
+         https://www.tudublin.ie/study/undergraduate/cao/entry-routes/other-entry-routes/
+         https://www.tudublin.ie/study/undergraduate/cao/progression/
+         https://www.tudublin.ie/study/undergraduate/cao/about-us/notable-alumni/
+   68  www.tudublin.ie/study/undergraduate/bachelor-of-arts
+         https://www.tudublin.ie/study/undergraduate/bachelor-of-arts/minors/architecture-technology--environment/
+         https://www.tudublin.ie/study/undergraduate/bachelor-of-arts/majors/visual-culture-studies/
+         https://www.tudublin.ie/study/undergraduate/bachelor-of-arts/minors/spanish/
+         https://www.tudublin.ie/study/undergraduate/bachelor-of-arts/faqs/
+   60  www.tudublin.ie/research-innovation/research/postgraduate-research
+         https://www.tudublin.ie/research-innovation/research/postgraduate-research/prospective-students/find-a-project/
+         https://www.tudublin.ie/research-innovation/research/postgraduate-research/prospective-students/research-projects/predictive-reliability-models/
+         https://www.tudublin.ie/research-innovation/research/postgraduate-research/prospective-students/research-projects/social-media--influencers/
+         https://www.tudublin.ie/research-innovation/research/postgraduate-research/prospective-students/research-projects/knowledge-management-and-the-nature-of-university-industry-relationships/
+   45  www.tudublin.ie/explore/faculties-and-schools/engineering-built-environment
+         https://www.tudublin.ie/explore/faculties-and-schools/engineering-built-environment/architecture-building-and-environment/research/phd-research-masters/
+         https://www.tudublin.ie/explore/faculties-and-schools/engineering-built-environment/architecture-building-and-environment/news/riai-environmental-accreditation-for-graduates-of-tu412-413-and-414.php
+         https://www.tudublin.ie/explore/faculties-and-schools/engineering-built-environment/architecture-building-and-environment/news/tu-dublin-postgraduate-research-one-in-five-limerick-towns-are-transport-deprived.php
+         https://www.tudublin.ie/explore/faculties-and-schools/engineering-built-environment/architecture-building-and-environment/research/phd-research-masters/phd-research/
+   26  www.tudublin.ie/explore/about-the-university/sustainability
+         https://www.tudublin.ie/explore/about-the-university/sustainability/about/news-and-events/news-archive/sustainability-graduate-spotlight---derek-oman.php
+         https://www.tudublin.ie/explore/about-the-university/sustainability/about/news-and-events/news-archive/tu-dublin-architecture-graduates-exhibit-at-the-18th-biennale-architettura-2023.php
+         https://www.tudublin.ie/explore/about-the-university/sustainability/about/news-and-events/news-archive/sustainability-graduate-spotlight---ciaran-nevin.php
+         https://www.tudublin.ie/explore/about-the-university/sustainability/about/news-and-events/news-archive/n-tutorr-edi-masterclass-24-january-2024.php
+   21  www.tudublin.ie/explore/faculties-and-schools/sciences-health
+         https://www.tudublin.ie/explore/faculties-and-schools/sciences-health/food-science--environmental-health-grangegorman/news/tu869-graduate.php
+         https://www.tudublin.ie/explore/faculties-and-schools/sciences-health/physics-clinical-and-optometric-sciences/news/clinical-measurement-graduates---irish-society-of-clinical-neurophysiology.php
+         https://www.tudublin.ie/explore/faculties-and-schools/sciences-health/food-science--environmental-health-grangegorman/news/winners-announced-at-the-15th-annual-tu-dublin-graduate-research-symposium.php
+         https://www.tudublin.ie/explore/faculties-and-schools/sciences-health/food-science--environmental-health-grangegorman/news/tu-dublin-pharmacy-technician-studies-programme-showcases-student-and-graduate-excellence-at-national-conference.php
+   21  www.tudublin.ie/study/postgraduate
+         https://www.tudublin.ie/study/postgraduate/engineering/
+         https://www.tudublin.ie/study/postgraduate/business/
+         https://www.tudublin.ie/study/postgraduate/social-sciences--education/
+         https://www.tudublin.ie/study/postgraduate/find-a-postgraduate-course/
+   18  www.tudublin.ie/explore/news/archive-2023
+         https://www.tudublin.ie/explore/news/archive-2023/tu-dublin-art-design-and-media-graduate-exhibition-2023.php
+         https://www.tudublin.ie/explore/news/archive-2023/tu-dublin-media-graduate-crowned-rte-dancing-with-the-stars-champion.php
+         https://www.tudublin.ie/explore/news/archive-2023/tu-dublin-students-and-graduates-triumph-at-worldskills-ireland-2023.php
+         https://www.tudublin.ie/explore/news/archive-2023/tu-dublin-architecture-graduates-exhibit-at-the-18th-biennale-architettura-2023.php
+   15  www.tudublin.ie/explore/faculties-and-schools/computing-digital-data
+         https://www.tudublin.ie/explore/faculties-and-schools/computing-digital-data/school-of-computer-science/news--events/congratulations-to-msc-students-on-their-team-project-research-paper-.php
+         https://www.tudublin.ie/explore/faculties-and-schools/computing-digital-data/mathematics-and-statistics/study/postgraduate/
+         https://www.tudublin.ie/explore/faculties-and-schools/computing-digital-data/mathematics-and-statistics/news/welcome-to-our-new-first-year-undergraduates-studying-tu874-mathematical-sciences.php
+         https://www.tudublin.ie/explore/faculties-and-schools/computing-digital-data/mathematics-and-statistics/news/celebrations-for-our-mathematics-graduates-at-the-october-conferring.php
+   14  www.tudublin.ie/study/international/how-to-apply
+         https://www.tudublin.ie/study/international/how-to-apply/undergraduate-courses/
+         https://www.tudublin.ie/study/international/how-to-apply/entry-requirements/undergraduate-entry-requirements/europe/
+         https://www.tudublin.ie/study/international/how-to-apply/entry-requirements/postgraduate-entry-requirements/usa-canada/
+         https://www.tudublin.ie/study/international/how-to-apply/postgraduate-courses/
+   14  www.tudublin.ie/explore/news
+         https://www.tudublin.ie/explore/news/tu-dublin-graduates-eligible-to-vote-in-new-seanad-higher-education-constituency.php
+         https://www.tudublin.ie/explore/news/tu-dublin-graduate-cormac-comerford-selected-for-milano-cortina-2026-winter-olympics.php
+         https://www.tudublin.ie/explore/news/tu-dublin-visual-communications-graduate-john-kelly-nominated-for-oscar.php
+         https://www.tudublin.ie/explore/news/calling-all-tu-dublin-students-submit-your-research-to-the-2026-global-undergraduate-awards.php
+   14  www.tudublin.ie/for-students/career-development-centre/students-and-graduates
+         https://www.tudublin.ie/for-students/career-development-centre/students-and-graduates/cvs-letters-applications/
+         https://www.tudublin.ie/for-students/career-development-centre/students-and-graduates/my-qualifications---what-next/
+         https://www.tudublin.ie/for-students/career-development-centre/students-and-graduates/career-decision-making/researching-further-study-options/
+         https://www.tudublin.ie/for-students/career-development-centre/students-and-graduates/career-decision-making/profiling-for-success/
+   13  www.tudublin.ie/explore/news/archive-2024
+         https://www.tudublin.ie/explore/news/archive-2024/tu-dublin-gradx-2024-showcases-individual-collective-identities-of-creative-arts-mechanical-engineering-and-media-graduates.php
+         https://www.tudublin.ie/explore/news/archive-2024/celebrating-enterprise-irelands-new-frontiers-tu-dublin-graduates-and-students-on-the-thirty-under-30-list-seven-entrepreneurs-making-waves-in-business.php
+         https://www.tudublin.ie/explore/news/archive-2024/tu-dublins-ann-masterson-appointed-to-national-skills-council.php
+         https://www.tudublin.ie/explore/news/archive-2024/explore-your-postgraduate-options-at-tu-dublins-drop-in-sessions.php
+   12  www.tudublin.ie/explore/about-the-university/academic-affairs
+         https://www.tudublin.ie/explore/about-the-university/academic-affairs/ntutorr/news-and-events/digital-transformation-masterclass---21st-february.php
+         https://www.tudublin.ie/explore/about-the-university/academic-affairs/ntutorr/news-and-events/udl-masterclass-thurs-24th-oct--1230pm-online.php
+         https://www.tudublin.ie/explore/about-the-university/academic-affairs/ntutorr/news-and-events/edi-masterclass-thurs-26th-september-at-1230-online.php
+         https://www.tudublin.ie/explore/about-the-university/academic-affairs/ntutorr/news-and-events/education-for-sustainable-development-masterclass.php
+   12  www.tudublin.ie/explore/news/2026-archive
+         https://www.tudublin.ie/explore/news/2026-archive/calling-all-tu-dublin-students-submit-your-research-to-the-2026-global-undergraduate-awards.php
+         https://www.tudublin.ie/explore/news/2026-archive/tu-dublin-fine-art-graduate-vicky-ochala-wins-prestigious-rds-taylor-art-trust-award.php
+         https://www.tudublin.ie/explore/news/2026-archive/tu-dublin-graduate-cormac-comerford-selected-for-milano-cortina-2026-winter-olympics.php
+         https://www.tudublin.ie/explore/news/2026-archive/tu-dublin-visual-communications-graduate-john-kelly-nominated-for-oscar.php
+   11  www.tudublin.ie/explore/news/archive-2022
+         https://www.tudublin.ie/explore/news/archive-2022/love-your-career-graduate-programmes--what-they-are-and-how-to-find-them.php
+         https://www.tudublin.ie/explore/news/archive-2022/a-career-event-for-final-year-and-postgraduate-students---monday-23-may-2022.php
+         https://www.tudublin.ie/explore/news/archive-2022/applications-now-open-for-human-centred-ai-masters-programme-at-tu-dublin.php
+         https://www.tudublin.ie/explore/news/archive-2022/launch-of-tu-dublin-school-of-media-graduate-showcase-2022---thursday-2-june-.php
+   11  www.tudublin.ie/explore/news/archive-2021
+         https://www.tudublin.ie/explore/news/archive-2021/how-is-covid-19-affecting-graduate-employability.php
+         https://www.tudublin.ie/explore/news/archive-2021/tu-dublin-postgraduate-business-virtual-open-day--friday-3-december-2021.php
+         https://www.tudublin.ie/explore/news/archive-2021/end-of-year-graduate-creative-arts--design-exhibition-launches-thursday-3-june.php
+         https://www.tudublin.ie/explore/news/archive-2021/tu-dublin-graduate-business-school--wins-two-inbusiness-recognition-awards-.php
+   11  www.tudublin.ie/explore/news/archive-2020
+         https://www.tudublin.ie/explore/news/archive-2020/tu-dublin-offers-full-scholarship-for-msc-in-digital-marketing.php
+         https://www.tudublin.ie/explore/news/archive-2020/-science-undergraduate-research-experience-conference-2020.php
+         https://www.tudublin.ie/explore/news/archive-2020/tu-dublin-celebrates-its-first-data-centre-operations-and-management-bsc-graduates.php
+         https://www.tudublin.ie/explore/news/archive-2020/tu-dublin-executive-mba-open-evening.php
+   10  www.tudublin.ie/study/postgraduate/webinars
+         https://www.tudublin.ie/study/postgraduate/webinars/architecture--built-environment/
+         https://www.tudublin.ie/study/postgraduate/webinars/computing-digital--data/
+         https://www.tudublin.ie/study/postgraduate/webinars/science--health/
+         https://www.tudublin.ie/study/postgraduate/webinars/culinary-hospitality--tourism/
+    9  www.tudublin.ie/study/postgraduate/contact-us
+         https://www.tudublin.ie/study/postgraduate/contact-us/tracy-corrigan.php
+         https://www.tudublin.ie/study/postgraduate/contact-us/andrea.php
+         https://www.tudublin.ie/study/postgraduate/contact-us/carol-meehan.php
+         https://www.tudublin.ie/study/postgraduate/contact-us/luis-alberto.php

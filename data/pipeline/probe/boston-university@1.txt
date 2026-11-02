@@ -1,0 +1,120 @@
+# boston-university@1 https://www.bu.edu
+robots sitemaps: (none) · crawl-delay: 15 · AI-agent groups: 0
+index https://www.bu.edu/sitemap.xml: 37 children (1 course-like)
+sitemaps read 38 · urls 27836 · master's-looking 164
+   14  www.bu.edu/articles/2020
+         https://www.bu.edu/articles/2020/bu-medical-students-to-graduate-early-to-help-hospitals/
+         https://www.bu.edu/articles/2020/remote-in-person-hybrid-teaching-graduate-professional-programs/
+         https://www.bu.edu/articles/2020/jon-santiago-bmc-doctor-ma-state-representative/
+         https://www.bu.edu/articles/2020/bu-advances-in-us-news-graduate-rankings/
+   11  www.bu.edu/articles/2016
+         https://www.bu.edu/articles/2016/boston-university-bioscience-academy-graduates/
+         https://www.bu.edu/articles/2016/college-of-fine-arts-undergraduate-student-composers/
+         https://www.bu.edu/articles/2016/advice-to-graduates/
+         https://www.bu.edu/articles/2016/the-best-job-market-in-years-awaits-graduates/
+   11  www.bu.edu/articles/2017
+         https://www.bu.edu/articles/2017/mastering-boston-slang/
+         https://www.bu.edu/articles/2017/josephine-halvorson-helms-cfa-graduate-painting-program/
+         https://www.bu.edu/articles/2017/new-graduate-affairs-chief-daniel-lee-kleinman/
+         https://www.bu.edu/articles/2017/grammy-nomination-mastering/
+   11  www.bu.edu/articles/2021
+         https://www.bu.edu/articles/2021/applications-up-for-bu-graduate-programs-leading-to-socially-conscious-helper-careers/
+         https://www.bu.edu/articles/2021/january-2021-graduates-will-participate-in-may-16-live-commencement/
+         https://www.bu.edu/articles/2021/lakedra-pam-obgyn-stars-on-gsns-master-minds/
+         https://www.bu.edu/articles/2021/questroms-new-online-mba-a-hit/
+   10  www.bu.edu/articles/2023
+         https://www.bu.edu/articles/2023/bus-newbury-center-hosts-sixth-annual-first-gen-graduate-symposium/
+         https://www.bu.edu/articles/2023/meet-three-inspiring-masters-students-from-the-class-of-2023/
+         https://www.bu.edu/articles/2023/cfa-graduates-honored-kahn-awards/
+         https://www.bu.edu/articles/2023/supreme-court-justice-ketanji-brown-jackson-speaks-to-2023-bu-law-graduates/
+   10  www.bu.edu/articles/2024
+         https://www.bu.edu/articles/2024/undergraduate-academic-advising-awards-winners/
+         https://www.bu.edu/articles/2024/bu-graduate-students-are-set-to-strike/
+         https://www.bu.edu/articles/2024/identical-triplets-graduate-together/
+         https://www.bu.edu/articles/2024/three-inspiring-bu-graduates-give-back/
+    8  www.bu.edu/articles/2006
+         https://www.bu.edu/articles/2006/class-of-2006-graduates-at-133rd-commencement/
+         https://www.bu.edu/articles/2006/beckman-scholars-among-bus-best-and-brightest-undergraduate-researchers-2/
+         https://www.bu.edu/articles/2006/biostatistics-this-hot-field-is-attracting-undergraduates-2/
+         https://www.bu.edu/articles/2006/bu-academy-headmaster-to-resign/
+    8  www.bu.edu/articles/2007
+         https://www.bu.edu/articles/2007/undergraduates-honored-for-risk-taking-in-research/
+         https://www.bu.edu/articles/2007/masters-of-the-maestro/
+         https://www.bu.edu/articles/2007/grs-grad-student-awarded-merck-graduate-fellowship/
+         https://www.bu.edu/articles/2007/after-expansion-citylab-graduates-first-class-of-boston-residents/
+    8  www.bu.edu/articles/2022
+         https://www.bu.edu/articles/2022/bu-graduate-programs-advance-in-2023-us-news-rankings/
+         https://www.bu.edu/articles/2022/online-mba-biggest-experiment-in-questroms-history-a-success/
+         https://www.bu.edu/articles/2022/ist-staffer-albrik-avanessian-earns-masters-degree-at-62/
+         https://www.bu.edu/articles/2022/first-lavender-ceremony-celebrates-lgbtq-graduates/
+    7  www.bu.edu/articles/2005
+         https://www.bu.edu/articles/2005/library-research-initiative-assesses-undergraduate-skills/
+         https://www.bu.edu/articles/2005/biostatistics-this-hot-field-is-attracting-undergraduates/
+         https://www.bu.edu/articles/2005/met-provides-10-community-college-graduates-academic-scholarships/
+         https://www.bu.edu/articles/2005/beckman-scholars-among-bus-best-and-brightest-undergraduate-researchers/
+    6  www.bu.edu/articles/2025
+         https://www.bu.edu/articles/2025/boston-ballet-dancer-to-mba-student/
+         https://www.bu.edu/articles/2025/bu-graduate-schools-rise-in-2025-us-news-rankings/
+         https://www.bu.edu/articles/2025/toastmasters-public-speaking-club/
+         https://www.bu.edu/articles/2025/mother-daughter-graduates/
+    6  www.bu.edu/articles/2026
+         https://www.bu.edu/articles/2026/com-launches-its-first-fully-online-masters-degree/
+         https://www.bu.edu/articles/2026/awards-undergraduate-graduate-student-employees/
+         https://www.bu.edu/articles/2026/graduate-students-commencement-profile/
+         https://www.bu.edu/articles/2026/online-mba-business-program-questrom/
+    5  www.bu.edu/articles/2012
+         https://www.bu.edu/articles/2012/advice-to-graduates-keep-on-playing/
+         https://www.bu.edu/articles/2012/google-eric-schmidt-to-graduates-be-the-adorer-of-life/
+         https://www.bu.edu/articles/2012/ma-raineys-black-bottom/
+         https://www.bu.edu/articles/2012/smg-among-top-undergraduate-business-programs/
+    5  www.bu.edu/articles/2018
+         https://www.bu.edu/articles/2018/com-filmmakers-take-on-metoo-in-graduate-thesis-film/
+         https://www.bu.edu/articles/2018/mba-students-visit-mfa/
+         https://www.bu.edu/articles/2018/2018-undergraduate-academic-advising-award-winners-named/
+         https://www.bu.edu/articles/2018/chopped-finalists-mission-to-master-dessert/
+    5  www.bu.edu/articles/2019
+         https://www.bu.edu/articles/2019/alex-leo-graduate-bu/
+         https://www.bu.edu/articles/2019/ann-mckee-urges-med-graduates-speak-up/
+         https://www.bu.edu/articles/2019/questrom-to-offer-online-mba-with-edx-in-2020/
+         https://www.bu.edu/articles/2019/bu-advances-in-graduate-school-rankings/
+    4  www.bu.edu/articles/2014
+         https://www.bu.edu/articles/2014/seinfelds-costanza-gives-master-class-in-acting-at-cfa/
+         https://www.bu.edu/articles/2014/governor-deval-patrick-to-address-bu-graduates/
+         https://www.bu.edu/articles/2014/808-gallery-plays-host-to-undergraduate-showcase/
+         https://www.bu.edu/articles/2014/masterpieces-of-menace-regret/
+    4  www.bu.edu/articles/2009
+         https://www.bu.edu/articles/2009/biologist-named-associate-provost-for-graduate-medical-sciences/
+         https://www.bu.edu/articles/2009/summer-masters/
+         https://www.bu.edu/articles/2009/from-freshman-to-masters-in-five-years/
+         https://www.bu.edu/articles/2009/concerts-and-master-classes-part-of-visiting-pianist-series/
+    4  www.bu.edu/articles/2015
+         https://www.bu.edu/articles/2015/romeo-vs-juliet-cambridge-ma/
+         https://www.bu.edu/articles/2015/learning-from-the-masters/
+         https://www.bu.edu/articles/2015/shaping-undergraduate-general-education-at-bu/
+         https://www.bu.edu/articles/2015/open-house-will-show-off-graduate-study-programs/
+    3  www.bu.edu/articles/2008
+         https://www.bu.edu/articles/2008/european-film-master-says-keep-it-contradictory/
+         https://www.bu.edu/articles/2008/whats-wrong-with-undergraduate-education/
+         https://www.bu.edu/articles/2008/beltway-expert-to-direct-laws-graduate-tax-program/
+    3  www.bu.edu/articles/2010
+         https://www.bu.edu/articles/2010/mastering-fine-art/
+         https://www.bu.edu/articles/2010/a-new-vision-for-undergraduate-education/
+         https://www.bu.edu/articles/2010/mba-ethics-oath-draws-handful-of-gsm-signers/
+    3  www.bu.edu/articles/2013
+         https://www.bu.edu/articles/2013/dream-with-eyes-open-baccalaureate-speaker-tells-graduates/
+         https://www.bu.edu/articles/2013/mayor-signs-off-on-bu-master-plan/
+         https://www.bu.edu/articles/2013/recalling-a-master-of-crime-fiction/
+    3  www.bu.edu/today/close-ups/2015
+         https://www.bu.edu/today/close-ups/2015/master-class-with-ben-heppner/
+         https://www.bu.edu/today/close-ups/2015/culinary-arts-master-class/
+         https://www.bu.edu/today/close-ups/2015/graduate-professional-open-house/
+    3  www.bu.edu/tag
+         https://www.bu.edu/tag/graduate-students/
+         https://www.bu.edu/tag/mba/
+         https://www.bu.edu/tag/undergraduate-research/
+    2  www.bu.edu/today/close-ups/2013
+         https://www.bu.edu/today/close-ups/2013/msc-study-lounge/
+         https://www.bu.edu/today/close-ups/2013/piano-masterpiece/
+    2  www.bu.edu/today/close-ups/2019
+         https://www.bu.edu/today/close-ups/2019/undergraduate-academic-advising-award-winners/
+         https://www.bu.edu/today/close-ups/2019/an-operatic-master-class/

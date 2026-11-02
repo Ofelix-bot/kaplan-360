@@ -1,0 +1,23 @@
+# lund-university https://www.lunduniversity.lu.se
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 2241 · master's-looking 19
+    7  www.lunduniversity.lu.se/calendar
+         https://www.lunduniversity.lu.se/calendar/vernissage-visiting-masters-students-malmo-art-academy
+         https://www.lunduniversity.lu.se/calendar/webinar-completing-your-application-masters-studies
+         https://www.lunduniversity.lu.se/calendar/webinar-completing-your-application-masters-studies-0
+         https://www.lunduniversity.lu.se/calendar/visiting-masters-students-malmo-art-academy
+    7  www.lunduniversity.lu.se/article
+         https://www.lunduniversity.lu.se/article/scholarship-winner-graduates-and-closes-circle
+         https://www.lunduniversity.lu.se/article/watch-masters-students-come-nutritious-chocolate-flavored-bean-spread
+         https://www.lunduniversity.lu.se/article/two-joint-masters-programmes-engineering-are-labelled-success-stories
+         https://www.lunduniversity.lu.se/article/masters-international-strategic-management-ranked-among-worlds-best
+    1  www.lunduniversity.lu.se/bachelors-masters-information-session
+         https://www.lunduniversity.lu.se/bachelors-masters-information-session
+    1  www.lunduniversity.lu.se/what-vlad-says-about-masters-linguistics
+         https://www.lunduniversity.lu.se/what-vlad-says-about-masters-linguistics
+    1  www.lunduniversity.lu.se/study/study-opportunities-lund-university
+         https://www.lunduniversity.lu.se/study/study-opportunities-lund-university/masters-degree-studies
+    1  www.lunduniversity.lu.se/study/connect-us-about-studies/online
+         https://www.lunduniversity.lu.se/study/connect-us-about-studies/online/contact-us-regarding-bachelors-and-masters-studies
+    1  www.lunduniversity.lu.se/about-university/contact-us
+         https://www.lunduniversity.lu.se/about-university/contact-us/employers-recruit-our-students-and-graduates

@@ -1,0 +1,95 @@
+# michigan-state-university@2 https://grad.msu.edu
+robots sitemaps: https://grad.msu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 499 · master's-looking 105
+   15  grad.msu.edu/news-and-events/events/2026
+         https://grad.msu.edu/news-and-events/events/2026/01/ai-and-graduate-education
+         https://grad.msu.edu/news-and-events/events/2026/01/graduate-school-write-in
+         https://grad.msu.edu/news-and-events/events/2026/02/a-million-dollar-suitcase---the-dilemma-of-ai-in-undergraduate-education
+         https://grad.msu.edu/news-and-events/events/2026/02/graduate-school-write-in
+   10  grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/teaching-communities-and-fellowships
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/teaching-communities-and-fellowships/bailey-scholars-program-fellows
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/teaching-communities-and-fellowships/fast
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/teaching-communities-and-fellowships/great-fellows
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/teaching-communities-and-fellowships/iit
+    9  grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/certification-in-college-teaching
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/certification-in-college-teaching/cct-requirements
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/certification-in-college-teaching/cct-institute
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/certification-in-college-teaching/cct-mentored-teaching-project
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/certification-in-college-teaching/e-portfolio
+    6  grad.msu.edu/diversity-and-community/graduate-school-office-of-well-being
+         https://grad.msu.edu/diversity-and-community/graduate-school-office-of-well-being/about
+         https://grad.msu.edu/diversity-and-community/graduate-school-office-of-well-being/community-support-spaces
+         https://grad.msu.edu/diversity-and-community/graduate-school-office-of-well-being/grow-workshops
+         https://grad.msu.edu/diversity-and-community/graduate-school-office-of-well-being/leadership-collective
+    6  grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/graduate-teaching-assistant-preparation
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/certification-in-college-teaching
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/international-gtas
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching/meet-the-team
+    5  grad.msu.edu/professional-development/graduate-career-development
+         https://grad.msu.edu/professional-development/graduate-career-development/career-advising
+         https://grad.msu.edu/professional-development/graduate-career-development/career-programs
+         https://grad.msu.edu/professional-development/graduate-career-development/faqs
+         https://grad.msu.edu/professional-development/graduate-career-development/professional-development-subscriptions
+    5  grad.msu.edu/academics/policies-and-procedures
+         https://grad.msu.edu/academics/policies-and-procedures/graduate-school-approved-faculty-on-committees
+         https://grad.msu.edu/academics/policies-and-procedures/graduate-transfer-credit-time-limit-waivers
+         https://grad.msu.edu/academics/policies-and-procedures/guidelines-for-graduate-student-mentoring-and-advising
+         https://grad.msu.edu/academics/policies-and-procedures/major-code-changes-at-the-graduate-level
+    4  grad.msu.edu/diversity-and-community/community-programs/office-of-research-engagement-and-scholar-development
+         https://grad.msu.edu/diversity-and-community/community-programs/office-of-research-engagement-and-scholar-development/graduate-research-fellowship-program-workshop-series
+         https://grad.msu.edu/diversity-and-community/community-programs/office-of-research-engagement-and-scholar-development/graduate-student-success-conference
+         https://grad.msu.edu/diversity-and-community/community-programs/office-of-research-engagement-and-scholar-development/graduate-student-success-conference/conference-event-schedule
+         https://grad.msu.edu/diversity-and-community/community-programs/office-of-research-engagement-and-scholar-development/graduate-student-success-conference/workshop-descriptions
+    3  grad.msu.edu/about-the-graduate-school
+         https://grad.msu.edu/about-the-graduate-school
+         https://grad.msu.edu/about-the-graduate-school/directory
+         https://grad.msu.edu/about-the-graduate-school/governance
+    3  grad.msu.edu/about-the-graduate-school/directory/r
+         https://grad.msu.edu/about-the-graduate-school/directory/r/chad-randall
+         https://grad.msu.edu/about-the-graduate-school/directory/r/julie-rojewski
+         https://grad.msu.edu/about-the-graduate-school/directory/r/mikala-rioux
+    3  grad.msu.edu/about-the-graduate-school/directory/t
+         https://grad.msu.edu/about-the-graduate-school/directory/t/steven-thomas
+         https://grad.msu.edu/about-the-graduate-school/directory/t/kirsten-tollefson
+         https://grad.msu.edu/about-the-graduate-school/directory/t/eric-torng
+    3  grad.msu.edu/news-and-events/events/2025
+         https://grad.msu.edu/news-and-events/events/2025/10/graduate-school-write-in
+         https://grad.msu.edu/news-and-events/events/2025/10/navigating-the-masters
+         https://grad.msu.edu/news-and-events/events/2025/11/graduate-school-write-in
+    2  grad.msu.edu/professional-development
+         https://grad.msu.edu/professional-development/graduate-career-development
+         https://grad.msu.edu/professional-development/graduate-educator-advancement-and-teaching
+    2  grad.msu.edu/diversity-and-community/community-programs
+         https://grad.msu.edu/diversity-and-community/community-programs/edward-bouchet-graduate-honor-society
+         https://grad.msu.edu/diversity-and-community/community-programs/academic-achievement-graduate-assistantships
+    2  grad.msu.edu/about-the-graduate-school/governance
+         https://grad.msu.edu/about-the-graduate-school/governance/summary-of-ucgs-matrix-of-responsibilities
+         https://grad.msu.edu/about-the-graduate-school/governance/ucgs-subcommittee-duties
+    2  grad.msu.edu/funding/assistantships
+         https://grad.msu.edu/funding/assistantships/academic-achievement-graduate-assistantships
+         https://grad.msu.edu/funding/assistantships/graduate-teaching-assistantships
+    2  grad.msu.edu/funding/funding-list
+         https://grad.msu.edu/funding/funding-list/liu-graduate-award
+         https://grad.msu.edu/funding/funding-list/thomas-graduate-fellowship
+    2  grad.msu.edu/diversity-and-community/community-programs/edward-bouchet-graduate-honor-society
+         https://grad.msu.edu/diversity-and-community/community-programs/edward-bouchet-graduate-honor-society/bouchet-inductees
+         https://grad.msu.edu/diversity-and-community/community-programs/edward-bouchet-graduate-honor-society/curtis-patton-essay
+    2  grad.msu.edu/about-the-graduate-school/directory/c
+         https://grad.msu.edu/about-the-graduate-school/directory/c/rique-campa
+         https://grad.msu.edu/about-the-graduate-school/directory/c/terah-chambers
+    2  grad.msu.edu/about-the-graduate-school/directory/d
+         https://grad.msu.edu/about-the-graduate-school/directory/d/melissa-del-rio
+         https://grad.msu.edu/about-the-graduate-school/directory/d/pero-dagbovie
+    2  grad.msu.edu/about-the-graduate-school/directory/m
+         https://grad.msu.edu/about-the-graduate-school/directory/m/aida-montalvo
+         https://grad.msu.edu/about-the-graduate-school/directory/m/megumi-moore
+    2  grad.msu.edu/news-and-events/news/2026
+         https://grad.msu.edu/news-and-events/news/2026/02/2026-27-circle-graduate-fellowship-call-for-applications
+         https://grad.msu.edu/news-and-events/news/2026/07/hiring---graduate-assistant---content-development
+    1  grad.msu.edu/diversity-and-community
+         https://grad.msu.edu/diversity-and-community/graduate-school-office-of-well-being
+    1  grad.msu.edu/mentoring
+         https://grad.msu.edu/mentoring/msu-guidelines-for-graduate-student-mentoring-and-advising
+    1  grad.msu.edu/diversity-and-community/graduate-school-office-of-well-being/leadership-collective
+         https://grad.msu.edu/diversity-and-community/graduate-school-office-of-well-being/leadership-collective/leadership-fellows-program

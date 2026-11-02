@@ -1,0 +1,128 @@
+# cranfield-university https://www.cranfield.ac.uk
+robots sitemaps: https://www.cranfield.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 6401 · master's-looking 538
+   89  www.cranfield.ac.uk/courses/taught
+         https://www.cranfield.ac.uk/courses/taught/a-to-z
+         https://www.cranfield.ac.uk/courses/taught/advanced-digital-forensic-professional-apprenticeship
+         https://www.cranfield.ac.uk/courses/taught/advanced-gis-and-remote-sensing
+         https://www.cranfield.ac.uk/courses/taught/advanced-lightweight-and-composite-structures
+   44  www.cranfield.ac.uk/som/press
+         https://www.cranfield.ac.uk/som/press/30-club-mba-scholarship-to-develop-women-leaders
+         https://www.cranfield.ac.uk/som/press/barclays-and-cranfield-lead-the-way-with-first-uk-bank-masters-apprenticeship
+         https://www.cranfield.ac.uk/som/press/cranfield-and-grant-thornton-launch-new-management-and-leadership-msc
+         https://www.cranfield.ac.uk/som/press/cranfield-climbs-high-in-mba-entrepreneurship-ranking
+   16  www.cranfield.ac.uk/som/masters-courses/management
+         https://www.cranfield.ac.uk/som/masters-courses/management/core
+         https://www.cranfield.ac.uk/som/masters-courses/management/specialism-management
+         https://www.cranfield.ac.uk/som/masters-courses/management/specialism-sustainability
+         https://www.cranfield.ac.uk/som/masters-courses/management/specialism-entrepreneurship
+   13  www.cranfield.ac.uk/som/masters-courses
+         https://www.cranfield.ac.uk/som/masters-courses/banking-economics-and-finance
+         https://www.cranfield.ac.uk/som/masters-courses/business-data-analytics
+         https://www.cranfield.ac.uk/som/masters-courses/finance
+         https://www.cranfield.ac.uk/som/masters-courses/logistics-and-supply-chain-management
+   13  www.cranfield.ac.uk/som/cranfield-mba-programmes/mba-full-time
+         https://www.cranfield.ac.uk/som/cranfield-mba-programmes/mba-full-time/core
+         https://www.cranfield.ac.uk/som/cranfield-mba-programmes/mba-full-time/elective
+         https://www.cranfield.ac.uk/som/cranfield-mba-programmes/mba-full-time/student-internships
+         https://www.cranfield.ac.uk/som/cranfield-mba-programmes/mba-full-time/faqs
+   12  www.cranfield.ac.uk/som/cranfield-mba-programmes
+         https://www.cranfield.ac.uk/som/cranfield-mba-programmes/mba-full-time
+         https://www.cranfield.ac.uk/som/cranfield-mba-programmes/executive-mba
+         https://www.cranfield.ac.uk/som/cranfield-mba-programmes/old-executive-mba
+         https://www.cranfield.ac.uk/som/cranfield-mba-programmes/mba-double-degree
+   12  www.cranfield.ac.uk/funding/funding-opportunities
+         https://www.cranfield.ac.uk/funding/funding-opportunities/british-federation-of-women-graduates-bfwg
+         https://www.cranfield.ac.uk/funding/funding-opportunities/butterfield-postgraduate-environment-scholarship
+         https://www.cranfield.ac.uk/funding/funding-opportunities/funds-for-women-graduates
+         https://www.cranfield.ac.uk/funding/funding-opportunities/igem-postgraduate-masters-scholarship
+   11  www.cranfield.ac.uk/som/events
+         https://www.cranfield.ac.uk/som/events/mba-careers-event
+         https://www.cranfield.ac.uk/som/events/graduate-programme-virtual-careers-fair-2021
+         https://www.cranfield.ac.uk/som/events/executive-logistics-and-supply-chain-management-msc-online-webinar
+         https://www.cranfield.ac.uk/som/events/explore-the-cranfield-mba-from-the-silverstone-racing-paddocks
+   11  www.cranfield.ac.uk/press/news-2021
+         https://www.cranfield.ac.uk/press/news-2021/cranfield-executive-development-partners-with-jobmaster-to-deliver-executive-education-in-egypt
+         https://www.cranfield.ac.uk/press/news-2021/cranfield-school-of-management-mba-programme-named-in-uk-top-five
+         https://www.cranfield.ac.uk/press/news-2021/cranfield-doctoral-graduates-win-research-fellowships-to-kickstart-academic-careers
+         https://www.cranfield.ac.uk/press/news-2021/dual-accreditation-provides-professional-qualification-for-defence-and-security-graduates
+    9  www.cranfield.ac.uk/som/events/mba-careers-event
+         https://www.cranfield.ac.uk/som/events/mba-careers-event/day-1
+         https://www.cranfield.ac.uk/som/events/mba-careers-event/day-1/1
+         https://www.cranfield.ac.uk/som/events/mba-careers-event/day-1/2
+         https://www.cranfield.ac.uk/som/events/mba-careers-event/day-2-wednesday-27-july
+    9  www.cranfield.ac.uk/som/masters-courses/management-and-entrepreneurship
+         https://www.cranfield.ac.uk/som/masters-courses/management-and-entrepreneurship/core
+         https://www.cranfield.ac.uk/som/masters-courses/management-and-entrepreneurship/course-activities
+         https://www.cranfield.ac.uk/som/masters-courses/management-and-entrepreneurship/course-activities/cambridge-trip
+         https://www.cranfield.ac.uk/som/masters-courses/management-and-entrepreneurship/course-activities/wednesday-business-enterprise-talks
+    8  www.cranfield.ac.uk/alumni/involved/cranfield-alumni-awards
+         https://www.cranfield.ac.uk/alumni/involved/cranfield-alumni-awards/manufacturing-and-materials-alumni-awards/excellence-in-achievement-award-for-recent-manufacturing-and-materials-graduates
+         https://www.cranfield.ac.uk/alumni/involved/cranfield-alumni-awards/aerospace-and-aviation-alumni-awards/excellence-in-achievement-award-for-recent-aerospace-graduates
+         https://www.cranfield.ac.uk/alumni/involved/cranfield-alumni-awards/aerospace-and-aviation-alumni-awards/excellence-in-achievement-award-for-recent-aviation-graduates
+         https://www.cranfield.ac.uk/alumni/involved/cranfield-alumni-awards/water-energy-and-environment-alumni-awards/excellence-in-achievement-award-for-recent-energy-and-sustainability-graduates
+    8  www.cranfield.ac.uk/study/taught-degrees/fees-and-funding
+         https://www.cranfield.ac.uk/study/taught-degrees/fees-and-funding/research-tuition-fees-2025
+         https://www.cranfield.ac.uk/study/taught-degrees/fees-and-funding/research-tuition-fees-2026
+         https://www.cranfield.ac.uk/study/taught-degrees/fees-and-funding/taught-tuition-fees-2025
+         https://www.cranfield.ac.uk/study/taught-degrees/fees-and-funding/taught-tuition-fees-2026
+    7  www.cranfield.ac.uk/som/masters-courses/management-and-corporate-sustainability
+         https://www.cranfield.ac.uk/som/masters-courses/management-and-corporate-sustainability/core
+         https://www.cranfield.ac.uk/som/masters-courses/management-and-corporate-sustainability/course-activities
+         https://www.cranfield.ac.uk/som/masters-courses/management-and-corporate-sustainability/course-activities/game-of-life
+         https://www.cranfield.ac.uk/som/masters-courses/management-and-corporate-sustainability/course-activities/edie-sustainability-leaders-forum
+    6  www.cranfield.ac.uk/som/events/alumni
+         https://www.cranfield.ac.uk/som/events/alumni/andrew-cross-mba-1993-career-talk
+         https://www.cranfield.ac.uk/som/events/alumni/andrew-cross-mba-1993-career-talk/dates
+         https://www.cranfield.ac.uk/som/events/alumni/how-my-cranfield-mba-saved-my-business-with-cliff-barry
+         https://www.cranfield.ac.uk/som/events/alumni/how-my-cranfield-mba-saved-my-business-with-cliff-barry/dates
+    6  www.cranfield.ac.uk/som/executive-development/online-executive-programmes
+         https://www.cranfield.ac.uk/som/executive-development/online-executive-programmes/economics-and-finance-postgraduate-award-online
+         https://www.cranfield.ac.uk/som/executive-development/online-executive-programmes/leadership-and-organisational-behaviour-postgraduate-award-online
+         https://www.cranfield.ac.uk/som/executive-development/online-executive-programmes/organisational-transformation-and-design-postgraduate-award-online
+         https://www.cranfield.ac.uk/som/executive-development/online-executive-programmes/procurement-and-supply-chain-management-postgraduate-award-online
+    6  www.cranfield.ac.uk/som/masters-courses/logistics-and-supply-chain-management
+         https://www.cranfield.ac.uk/som/masters-courses/logistics-and-supply-chain-management/core
+         https://www.cranfield.ac.uk/som/masters-courses/logistics-and-supply-chain-management/elective
+         https://www.cranfield.ac.uk/som/masters-courses/logistics-and-supply-chain-management/student-projects-for-supply-chain-students
+         https://www.cranfield.ac.uk/som/masters-courses/logistics-and-supply-chain-management/course-activities
+    6  www.cranfield.ac.uk/courses/taught/sustainability
+         https://www.cranfield.ac.uk/courses/taught/sustainability/core
+         https://www.cranfield.ac.uk/courses/taught/sustainability/student-experiences
+         https://www.cranfield.ac.uk/courses/taught/sustainability/cranfield-changemaker-community
+         https://www.cranfield.ac.uk/courses/taught/sustainability/leadership-education-for-sustainability
+    6  www.cranfield.ac.uk/events/events-2025
+         https://www.cranfield.ac.uk/events/events-2025/postgrad-live-london-2025
+         https://www.cranfield.ac.uk/events/events-2025/postgrad-live-london
+         https://www.cranfield.ac.uk/events/events-2025/graduate-careers-fair-2025
+         https://www.cranfield.ac.uk/events/events-2025/postgrad-live-sheffield
+    6  www.cranfield.ac.uk/press/news-2025
+         https://www.cranfield.ac.uk/press/news-2025/cranfield-soars-in-poets-quants-latest-mba-rankings
+         https://www.cranfield.ac.uk/press/news-2025/cranfield-school-of-managements-full-time-mba-shines-in-2025-financial-times-global-ranking
+         https://www.cranfield.ac.uk/press/news-2025/cranfields-graduate-employability-highly-rated-in-new-ranking
+         https://www.cranfield.ac.uk/press/news-2025/cranfield-university-finance-msc-ranked-top-10-in-the-uk
+    6  www.cranfield.ac.uk/press/news-2024
+         https://www.cranfield.ac.uk/press/news-2024/cranfield-school-of-managements-full-time-mba-climbs-in-global-financial-times-ranking
+         https://www.cranfield.ac.uk/press/news-2024/new-mba-scholarship-in-honour-of-professor-joe-nellis-cbe
+         https://www.cranfield.ac.uk/press/news-2024/cranfield-universitys-msc-in-management-has-the-best-international-student-experience-in-the-uk
+         https://www.cranfield.ac.uk/press/news-2024/latest-bloomberg-ranking-recognises-cranfields-mba-excellence
+    6  www.cranfield.ac.uk/research/phd
+         https://www.cranfield.ac.uk/research/phd/msc-by-research-aerospace
+         https://www.cranfield.ac.uk/research/phd/cds-msc-by-research-archaeology
+         https://www.cranfield.ac.uk/research/phd/cds-msc-by-research-defence-and-security
+         https://www.cranfield.ac.uk/research/phd/msc-by-research-energy-and-sustainability
+    6  www.cranfield.ac.uk/study/taught-degrees
+         https://www.cranfield.ac.uk/study/taught-degrees/academic-services-thank-you-for-your-enquiry-at-an-event
+         https://www.cranfield.ac.uk/study/taught-degrees/arrivals-and-registration
+         https://www.cranfield.ac.uk/study/taught-degrees/fees-and-funding
+         https://www.cranfield.ac.uk/study/taught-degrees/taught-degrees-at-cranfield
+    5  www.cranfield.ac.uk/som/masters-courses/strategic-marketing
+         https://www.cranfield.ac.uk/som/masters-courses/strategic-marketing/core
+         https://www.cranfield.ac.uk/som/masters-courses/strategic-marketing/elective
+         https://www.cranfield.ac.uk/som/masters-courses/strategic-marketing/marketing-consulting-project-module
+         https://www.cranfield.ac.uk/som/masters-courses/strategic-marketing/why-we-love-john-lewis-at-christmas-the-psychology-behind-festive-adverts
+    5  www.cranfield.ac.uk/som/masters-courses-part-time
+         https://www.cranfield.ac.uk/som/masters-courses-part-time/logistics-and-supply-chain-management-executive
+         https://www.cranfield.ac.uk/som/masters-courses-part-time/marketing-and-leadership
+         https://www.cranfield.ac.uk/som/masters-courses-part-time/sustainable-and-digital-banking-retail
+         https://www.cranfield.ac.uk/som/masters-courses-part-time/management-and-leadership

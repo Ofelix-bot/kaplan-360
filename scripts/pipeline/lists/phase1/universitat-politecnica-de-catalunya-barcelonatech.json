@@ -1,0 +1,16 @@
+{
+  "source": "UPC master's list https://www.upc.edu/en/masters ; in-scope programme pages kept only where 'Language of instruction' is English and delivery is face-to-face (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.upc.edu/en/masters/artificial-intelligence",
+    "https://www.upc.edu/en/masters/data-science",
+    "https://www.upc.edu/en/masters/cybersecurity",
+    "https://www.upc.edu/en/masters/innovation-and-research-in-informatics-miri",
+    "https://www.upc.edu/en/masters/erasmus-mundus-data-engineering-and-artificial-intelligence-deai",
+    "https://www.upc.edu/en/masters/machine-learning-and-cybersecurity-for-internet-connected-systems",
+    "https://www.upc.edu/en/masters/artificial-intelligence-for-connected-industries-ai4ci",
+    "https://www.upc.edu/en/masters/computer-vision",
+    "https://www.upc.edu/en/masters/automatic-control-and-robotics",
+    "https://www.upc.edu/en/masters/structural-analysis-of-monuments-and-historical-constructions-sahc"
+  ]
+}

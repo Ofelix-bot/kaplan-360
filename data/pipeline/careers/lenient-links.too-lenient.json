@@ -1,0 +1,1608 @@
+{
+ "model": "claude-opus-5-5",
+ "built": "2026-11-02",
+ "entries": [
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-accounting",
+   "industry_id": "accountancy",
+   "links": [
+    {
+     "module": "Accounting",
+     "skills": [
+      "Accounting Standards",
+      "Accounting and Tax Systems",
+      "Financial Reporting",
+      "Financial Transactions",
+      "Transactional Accounting",
+      "Financial Closing",
+      "Financial Statements Analysis",
+      "Internal Controls",
+      "Cost Management",
+      "Business Acumen"
+     ]
+    },
+    {
+     "module": "Accounting Theory and Accountability",
+     "skills": [
+      "Accounting Standards",
+      "Financial Reporting",
+      "Financial Reporting Quality",
+      "Governance",
+      "Professional and Business Ethics",
+      "Professional Standards",
+      "Environment and Social Governance",
+      "Sustainability Reporting",
+      "Climate Reporting",
+      "Stakeholder Management",
+      "Greenhouse Gas Accounting"
+     ]
+    },
+    {
+     "module": "Auditing",
+     "skills": [
+      "Audit Compliance",
+      "Audit Frameworks",
+      "Auditing and Assurance Standards",
+      "Auditor Independence",
+      "Due Professional Care",
+      "Engagement Execution",
+      "Engagement Quality Control",
+      "Evidence Management",
+      "Internal Controls",
+      "Professional Scepticism and Judgment",
+      "Professional Standards",
+      "Professional and Business Ethics",
+      "Risk Assessment",
+      "Fraud Detection and Prevention",
+      "Fraud Risk Management",
+      "Internal Audit Engagement Execution",
+      "Internal Audit Engagement Planning",
+      "Financial Reporting Quality",
+      "Regulatory Compliance",
+      "Business Risk Assessment",
+      "Sustainability Assurance"
+     ]
+    },
+    {
+     "module": "Company Law",
+     "skills": [
+      "Corporate and Business Law",
+      "Governance",
+      "Regulatory Compliance",
+      "Restructuring Insolvency Advisory",
+      "Debt Restructuring",
+      "Capital Raising",
+      "Financial Crime Laws and Regulations",
+      "Risk Compliance and Governance",
+      "Professional and Business Ethics",
+      "Litigation Support"
+     ]
+    },
+    {
+     "module": "Contemporary Financial Accounting",
+     "skills": [
+      "Accounting Standards",
+      "Financial Reporting",
+      "Financial Reporting Quality",
+      "Group Accounting and Consolidation",
+      "Financial Statements Analysis",
+      "Financial Transactions",
+      "Transactional Accounting",
+      "Financial Closing",
+      "Valuation",
+      "Sustainability Reporting",
+      "Climate Reporting"
+     ]
+    },
+    {
+     "module": "Corporate Finance",
+     "skills": [
+      "Capital Expenditure and Investment Evaluation",
+      "Capital Raising",
+      "Cash Flow Management",
+      "Financial Analysis",
+      "Financial Management",
+      "Financial Modelling",
+      "Treasury Management",
+      "Valuation",
+      "Valuation Approaches and Methodologies",
+      "Valuation Research and Analysis",
+      "Valuation of Different Classes of Interest",
+      "Debt Restructuring",
+      "Project Feasibility",
+      "Risk Management",
+      "Management Decision Making",
+      "Financial Statements Analysis",
+      "Business Acumen",
+      "Transaction Due Diligence",
+      "Post-deal Integration Management"
+     ]
+    },
+    {
+     "module": "Management Accounting",
+     "skills": [
+      "Cost Management",
+      "Performance Management",
+      "Management Decision Making",
+      "Business Planning",
+      "Financial Management",
+      "Finance Business Partnering",
+      "Benchmarking",
+      "Capital Expenditure and Investment Evaluation",
+      "Financial Analysis",
+      "Business Acumen",
+      "Internal Controls",
+      "Cash Flow Management",
+      "Business Process Analysis"
+     ]
+    },
+    {
+     "module": "Taxation",
+     "skills": [
+      "Tax Computation",
+      "Tax Compliance",
+      "Taxation Laws",
+      "Tax Implications",
+      "Tax Advisory",
+      "Tax Risk Management",
+      "Transfer Pricing",
+      "Tax Controversy Management",
+      "Accounting and Tax Systems",
+      "Regulatory Compliance"
+     ]
+    },
+    {
+     "module": "Technology and Accounting Processes",
+     "skills": [
+      "Accounting and Tax Systems",
+      "Business Process Analysis",
+      "Digital Technology Adoption and Innovation",
+      "Digital Technology Environment Scanning",
+      "Internal Controls",
+      "Data Governance",
+      "Cyber Security",
+      "Infocomm Security and Data Privacy",
+      "Data Analytics",
+      "Transactional Accounting",
+      "Financial Transactions",
+      "Business Innovation and Improvement",
+      "Systems Thinking",
+      "Forensic Data Analytics"
+     ]
+    },
+    {
+     "module": "AI in the Workplace",
+     "skills": [
+      "Digital Technology Adoption and Innovation",
+      "Digital Technology Environment Scanning",
+      "Business Innovation and Improvement",
+      "Data Governance",
+      "Infocomm Security and Data Privacy",
+      "Professional and Business Ethics",
+      "Data Analytics",
+      "Systems Thinking",
+      "Business Process Analysis"
+     ]
+    },
+    {
+     "module": "Communication Skills for Undergraduate Study",
+     "skills": [
+      "Stakeholder Management",
+      "Information Gathering and Analysis",
+      "Data Storytelling and Visualisation"
+     ]
+    },
+    {
+     "module": "Consulting and Freelancing",
+     "skills": [
+      "Business Development",
+      "Business Negotiation",
+      "Business Planning",
+      "Stakeholder Management",
+      "Project Management",
+      "Project Execution and Control",
+      "Business Acumen",
+      "Conflict Management",
+      "Market Research and Analysis",
+      "Professional and Business Ethics",
+      "Engagement Execution",
+      "Risk Advisory",
+      "Business Environment Analysis",
+      "Information Gathering and Analysis",
+      "Finance Business Partnering"
+     ]
+    },
+    {
+     "module": "The Search for Everything: Data Analytics and Storytelling",
+     "skills": [
+      "Data Analytics",
+      "Data Storytelling and Visualisation",
+      "Information Gathering and Analysis",
+      "Programming and Coding",
+      "Data Governance",
+      "Risk Analytics",
+      "Market Research and Analysis",
+      "Systems Thinking"
+     ]
+    }
+   ],
+   "usage": {
+    "input": 1943,
+    "output": 1758
+   }
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-accounting",
+   "industry_id": "financial-services",
+   "links": [
+    {
+     "module": "Accounting",
+     "skills": [
+      "Financial Reporting",
+      "Financial Statements Review",
+      "Financial Transactions",
+      "Cash Flow Reporting",
+      "Financial Analysis",
+      "Budgeting",
+      "Asset and Liability Management"
+     ]
+    },
+    {
+     "module": "Accounting Theory and Accountability",
+     "skills": [
+      "Financial Reporting",
+      "Corporate Governance",
+      "Ethical Culture",
+      "Environment and Social Governance",
+      "Sustainability Reporting",
+      "Stakeholder Management",
+      "Impact Indicators, Measurement and Reporting",
+      "Regulatory Compliance",
+      "Qualitative Analysis"
+     ]
+    },
+    {
+     "module": "Auditing",
+     "skills": [
+      "Financial Statements Review",
+      "Fraud Risk Management",
+      "Regulatory Compliance",
+      "Risk Management",
+      "Business Risk Assessment",
+      "Corporate Governance",
+      "Quality Assurance",
+      "Compliance Mindset Development",
+      "Operational Risk Management",
+      "Risk and Compliance Reporting",
+      "Ethical Culture",
+      "Monitoring and Surveillance"
+     ]
+    },
+    {
+     "module": "Company Law",
+     "skills": [
+      "Corporate and Business Law Application",
+      "Corporate Governance",
+      "Regulatory Compliance",
+      "Regulatory and Legal Advisory",
+      "Legal Drafting and Writing",
+      "Mergers and Acquisitions Management",
+      "Compliance Mindset Development"
+     ]
+    },
+    {
+     "module": "Contemporary Financial Accounting",
+     "skills": [
+      "Financial Reporting",
+      "Financial Statements Review",
+      "Cash Flow Reporting",
+      "Financial Analysis",
+      "Financial Transactions",
+      "Valuation",
+      "Mergers and Acquisitions Management",
+      "Asset and Liability Management",
+      "Sustainability Reporting"
+     ]
+    },
+    {
+     "module": "Corporate Finance",
+     "skills": [
+      "Budgeting",
+      "Capital Expenditure and Investment Evaluation",
+      "Capital Management",
+      "Valuation",
+      "Financial Analysis",
+      "Financial Modelling",
+      "Mergers and Acquisitions Management",
+      "Treasury Management",
+      "Cash Flow Reporting",
+      "Risk Management",
+      "Behavioural Finance",
+      "Asset and Liability Management",
+      "Portfolio and Investment Risk Management"
+     ]
+    },
+    {
+     "module": "Management Accounting",
+     "skills": [
+      "Budgeting",
+      "Business Performance Management",
+      "Capital Expenditure and Investment Evaluation",
+      "Pricing Strategy",
+      "Financial Analysis",
+      "Business Planning",
+      "Benchmarking",
+      "Price Verification and Profit Analysis",
+      "Strategy Planning",
+      "Continuous Improvement Management"
+     ]
+    },
+    {
+     "module": "Taxation",
+     "skills": [
+      "Regulatory Compliance",
+      "Regulatory and Legal Advisory",
+      "Corporate and Business Law Application",
+      "Personal Finance Advisory",
+      "Wealth Planning Administration",
+      "Financial Transactions"
+     ]
+    },
+    {
+     "module": "Technology and Accounting Processes",
+     "skills": [
+      "Technology Application",
+      "Business Process Re-engineering",
+      "Data Collection and Analysis",
+      "Data Governance",
+      "Cybersecurity",
+      "Emerging Technology Synthesis",
+      "Financial Transactions",
+      "Business Requirements Mapping",
+      "Software Configuration",
+      "Information Technology Application Support and Monitoring",
+      "Data Analytics and Computational Modelling"
+     ]
+    },
+    {
+     "module": "AI in the Workplace",
+     "skills": [
+      "Emerging Technology Synthesis",
+      "Technology Application",
+      "Change Management",
+      "Innovation Management",
+      "Data Governance",
+      "Ethical Culture",
+      "Business Process Re-engineering",
+      "Learning and Development"
+     ]
+    },
+    {
+     "module": "Communication Skills for Undergraduate Study",
+     "skills": [
+      "Research and Information Synthesis",
+      "Stakeholder Management",
+      "Learning and Development",
+      "Qualitative Analysis"
+     ]
+    },
+    {
+     "module": "Consulting and Freelancing",
+     "skills": [
+      "Business Needs Analysis",
+      "Business Opportunities Development",
+      "Proposal Management",
+      "Business Negotiation",
+      "Networking",
+      "Customer Relationship Management",
+      "Project Management",
+      "Stakeholder Management",
+      "Business Planning",
+      "Contract and Vendor Management",
+      "Account Management",
+      "Customer Acquisition Management",
+      "Pricing Strategy",
+      "Product Marketing and Branding",
+      "Partnership Management",
+      "Business Requirements Mapping"
+     ]
+    },
+    {
+     "module": "The Search for Everything: Data Analytics and Storytelling",
+     "skills": [
+      "Data Storytelling and Visualisation",
+      "Data Collection and Analysis",
+      "Data Analytics and Computational Modelling",
+      "Data Mining and Modelling",
+      "Research and Information Synthesis",
+      "Qualitative Analysis",
+      "Market Research and Analysis",
+      "Customer Behaviour Analysis"
+     ]
+    }
+   ],
+   "usage": {
+    "input": 2299,
+    "output": 1473
+   }
+  },
+  {
+   "programme_id": "bcu-bsc-with-honours-computer-science-global-top-up",
+   "industry_id": "infocomm-technology",
+   "links": [
+    {
+     "module": "Artificial Intelligence and Machine Learning",
+     "skills": [
+      "Artificial Intelligence Application in Product Development",
+      "Computational Modelling",
+      "Computer Vision Technology",
+      "Data Analytics",
+      "Data Engineering",
+      "Data Ethics",
+      "Intelligent Reasoning",
+      "Pattern Recognition Systems",
+      "Self-Learning Systems",
+      "Text Analytics and Processing",
+      "Data Visualisation",
+      "Emerging Technology Synthesis",
+      "Applications Development",
+      "Research"
+     ]
+    },
+    {
+     "module": "Cloud Computing",
+     "skills": [
+      "Cloud Computing",
+      "Infrastructure Deployment",
+      "Infrastructure Design",
+      "Infrastructure Support",
+      "Continuous Integration and Continuous Deployment",
+      "Solution Architecture",
+      "Systems Design",
+      "System Integration",
+      "Applications Integration",
+      "Data Centre Facilities Management",
+      "Network Configuration",
+      "Networking",
+      "Network Security",
+      "Security Architecture",
+      "Business Continuity",
+      "Disaster Recovery Management",
+      "Data Migration",
+      "Database Administration",
+      "Service Level Management",
+      "Software Configuration",
+      "Applications Development",
+      "Emerging Technology Synthesis"
+     ]
+    },
+    {
+     "module": "Consultancy and IT Management",
+     "skills": [
+      "IT Governance",
+      "IT Strategy",
+      "IT Standards",
+      "IT Asset Management",
+      "Account Management",
+      "Business Needs Analysis",
+      "Business Requirements Mapping",
+      "Business Environment Analysis",
+      "Business Negotiation",
+      "Business Development",
+      "Business Innovation",
+      "Business Risk Management",
+      "Business Performance Management",
+      "Business Agility",
+      "Budgeting",
+      "Change Management",
+      "Contract Management",
+      "Partnership Management",
+      "Procurement",
+      "Vendor Management",
+      "Project Management",
+      "Stakeholder Management",
+      "Strategy Planning",
+      "Strategy Implementation",
+      "Risk Compliance and Governance",
+      "Audit and Compliance",
+      "Service Level Management",
+      "Process Improvement and Optimisation",
+      "Systems Thinking",
+      "Technical Sales Support",
+      "Manpower Planning",
+      "People and Performance Management",
+      "Performance Management",
+      "Solution Architecture",
+      "Agile Software Development",
+      "Data Strategy",
+      "Data Governance",
+      "Quality Standards",
+      "Emerging Technology Synthesis"
+     ]
+    },
+    {
+     "module": "Mobile and Wearable Application Development",
+     "skills": [
+      "Applications Development",
+      "Applications Integration",
+      "Applications Support and Enhancement",
+      "Software Design",
+      "Software Testing",
+      "Software Configuration",
+      "User Interface Design",
+      "User Experience Design",
+      "User Testing and Usability Testing",
+      "Embedded Systems Interface Design",
+      "Embedded Systems Programming",
+      "Embedded Systems Integration",
+      "Agile Software Development",
+      "Systems Design",
+      "Test Planning",
+      "Quality Assurance",
+      "Data Design",
+      "Emerging Technology Synthesis",
+      "Design Concepts Generation"
+     ]
+    },
+    {
+     "module": "Research Methods in Computing",
+     "skills": [
+      "Research",
+      "Data Analytics",
+      "Data Ethics",
+      "Data Visualisation",
+      "Data Visualisation and Storyboarding",
+      "Computational Modelling",
+      "Market Research",
+      "Emerging Technology Synthesis",
+      "Systems Thinking",
+      "Text Analytics and Processing",
+      "User Testing and Usability Testing"
+     ]
+    },
+    {
+     "module": "User Experience Design",
+     "skills": [
+      "User Experience Design",
+      "User Interface Design",
+      "User Testing and Usability Testing",
+      "Design Thinking Practice",
+      "Design Concepts Generation",
+      "Customer Behaviour Analysis",
+      "Customer Experience Management",
+      "Consumer Intelligence Analysis",
+      "Narrative Design in Product Development",
+      "Business Needs Analysis",
+      "Business Requirements Mapping",
+      "Research",
+      "Market Research",
+      "Software Design",
+      "Applications Development",
+      "Data Visualisation and Storyboarding",
+      "Product Management",
+      "Stakeholder Management",
+      "Content Management",
+      "Embedded Systems Interface Design"
+     ]
+    }
+   ],
+   "usage": {
+    "input": 2037,
+    "output": 1240
+   }
+  },
+  {
+   "programme_id": "bcu-bsc-with-honours-computer-science-global-top-up",
+   "industry_id": "media",
+   "links": [
+    {
+     "module": "Artificial Intelligence and Machine Learning",
+     "skills": [
+      "Data Analytics",
+      "Game Artificial Intelligence Development",
+      "Data Visualisation",
+      "Customer Behaviour Analysis",
+      "Application Development"
+     ]
+    },
+    {
+     "module": "Cloud Computing",
+     "skills": [
+      "Content Delivery Network Operations",
+      "Database Administration",
+      "Network Configuration",
+      "Network Administration and Maintenance",
+      "Game Server Programming",
+      "Application Development",
+      "Media Data Management"
+     ]
+    },
+    {
+     "module": "Consultancy and IT Management",
+     "skills": [
+      "Project Management",
+      "Account Management",
+      "Business Development",
+      "Business Negotiation",
+      "Contract and Vendor Management",
+      "Partnership Management",
+      "Market Evaluation",
+      "Customer Experience Management"
+     ]
+    },
+    {
+     "module": "Mobile and Wearable Application Development",
+     "skills": [
+      "Application Development",
+      "User Interface Design",
+      "User Experience Design",
+      "Customisation and Localisation",
+      "Game Porting"
+     ]
+    },
+    {
+     "module": "Research Methods in Computing",
+     "skills": [
+      "Research",
+      "Data Analytics",
+      "Market Research",
+      "Data Visualisation"
+     ]
+    },
+    {
+     "module": "User Experience Design",
+     "skills": [
+      "User Experience Design",
+      "User Interface Design",
+      "Customer Experience Management",
+      "Customer Behaviour Analysis",
+      "Storyboarding",
+      "Concept Creation",
+      "Game User Interface Development",
+      "Research"
+     ]
+    }
+   ],
+   "usage": {
+    "input": 1714,
+    "output": 461
+   }
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-finance-top-up",
+   "industry_id": "accountancy",
+   "links": [
+    {
+     "module": "Corporate and Competitive Strategy",
+     "skills": [
+      "Benchmarking",
+      "Business Acumen",
+      "Business Development",
+      "Business Environment Analysis",
+      "Business Innovation and Improvement",
+      "Business Planning",
+      "Business Risk Assessment",
+      "Management Decision Making",
+      "Market Research and Analysis",
+      "Performance Management",
+      "Stakeholder Management",
+      "Systems Thinking",
+      "Post-deal Integration Management",
+      "Governance",
+      "Digital Technology Environment Scanning",
+      "Project Feasibility"
+     ]
+    },
+    {
+     "module": "Introduction to Finance",
+     "skills": [
+      "Business Acumen",
+      "Capital Expenditure and Investment Evaluation",
+      "Cash Flow Management",
+      "Financial Analysis",
+      "Financial Management",
+      "Financial Statements Analysis",
+      "Valuation",
+      "Valuation Approaches and Methodologies",
+      "Risk Assessment",
+      "Capital Raising",
+      "Financial Transactions"
+     ]
+    },
+    {
+     "module": "Digital Business",
+     "skills": [
+      "Business Acumen",
+      "Business Development",
+      "Business Innovation and Improvement",
+      "Business Process Analysis",
+      "Digital Technology Adoption and Innovation",
+      "Digital Technology Environment Scanning",
+      "Data Analytics",
+      "Cyber Security",
+      "Infocomm Security and Data Privacy",
+      "Data Governance",
+      "Business Environment Analysis",
+      "Business Planning",
+      "Systems Thinking"
+     ]
+    },
+    {
+     "module": "Economics and Global Market Innovations",
+     "skills": [
+      "Macroeconomic Analysis",
+      "Business Environment Analysis",
+      "Business Acumen",
+      "Business Innovation and Improvement",
+      "Market Research and Analysis",
+      "Management Decision Making",
+      "Information Gathering and Analysis",
+      "Environment and Social Governance"
+     ]
+    },
+    {
+     "module": "The Future of Organisations and Work",
+     "skills": [
+      "Business Innovation and Improvement",
+      "Digital Technology Adoption and Innovation",
+      "Digital Technology Environment Scanning",
+      "Performance Management",
+      "Stakeholder Management",
+      "Systems Thinking",
+      "Business Environment Analysis",
+      "Governance",
+      "Environment and Social Governance",
+      "Professional and Business Ethics"
+     ]
+    },
+    {
+     "module": "Managing People at Work",
+     "skills": [
+      "Conflict Management",
+      "Performance Management",
+      "Stakeholder Management",
+      "Business Negotiation",
+      "Management Decision Making",
+      "Professional and Business Ethics"
+     ]
+    },
+    {
+     "module": "Marketing in a Digital Era",
+     "skills": [
+      "Market Research and Analysis",
+      "Business Development",
+      "Data Analytics",
+      "Data Storytelling and Visualisation",
+      "Digital Technology Adoption and Innovation",
+      "Business Acumen",
+      "Information Gathering and Analysis",
+      "Stakeholder Management",
+      "Business Planning"
+     ]
+    },
+    {
+     "module": "Operations Management",
+     "skills": [
+      "Business Process Analysis",
+      "Cost Management",
+      "Performance Management",
+      "Benchmarking",
+      "Project Management",
+      "Project Execution and Control",
+      "Business Continuity Management",
+      "Business Innovation and Improvement",
+      "Systems Thinking",
+      "Management Decision Making",
+      "Data Analytics",
+      "Risk Management"
+     ]
+    },
+    {
+     "module": "Corporate Finance",
+     "skills": [
+      "Capital Expenditure and Investment Evaluation",
+      "Capital Raising",
+      "Cash Flow Management",
+      "Financial Analysis",
+      "Financial Management",
+      "Financial Modelling",
+      "Valuation",
+      "Valuation Approaches and Methodologies",
+      "Valuation Research and Analysis",
+      "Valuation of Different Classes of Interest",
+      "Treasury Management",
+      "Project Feasibility",
+      "Debt Restructuring",
+      "Transaction Due Diligence",
+      "Financial Statements Analysis",
+      "Management Decision Making",
+      "Risk Assessment",
+      "Business Planning",
+      "Governance",
+      "Finance Business Partnering"
+     ]
+    },
+    {
+     "module": "Derivative Securities",
+     "skills": [
+      "Financial Modelling",
+      "Valuation",
+      "Valuation Approaches and Methodologies",
+      "Risk Management",
+      "Risk Analytics",
+      "Treasury Management",
+      "Financial Transactions",
+      "Financial Analysis",
+      "Risk Assessment",
+      "Data Analytics"
+     ]
+    },
+    {
+     "module": "Finance and Financial Institutions",
+     "skills": [
+      "Capital Raising",
+      "Financial Management",
+      "Macroeconomic Analysis",
+      "Regulatory Compliance",
+      "Risk Management",
+      "Treasury Management",
+      "Financial Transactions",
+      "Financial Crime Laws and Regulations",
+      "Risk Compliance and Governance",
+      "Governance",
+      "Business Environment Analysis",
+      "Enterprise Risk Management",
+      "Regulatory Risk Assessment"
+     ]
+    },
+    {
+     "module": "Investment and Portfolio Management",
+     "skills": [
+      "Capital Expenditure and Investment Evaluation",
+      "Financial Analysis",
+      "Financial Modelling",
+      "Risk Analytics",
+      "Risk Management",
+      "Risk Appetite and Goals Setting",
+      "Valuation",
+      "Valuation Approaches and Methodologies",
+      "Valuation Research and Analysis",
+      "Financial Statements Analysis",
+      "Data Analytics",
+      "Treasury Management",
+      "Benchmarking",
+      "Performance Management",
+      "Macroeconomic Analysis",
+      "Risk Assessment"
+     ]
+    },
+    {
+     "module": "Accounting, Reporting and Analysis",
+     "skills": [
+      "Accounting Standards",
+      "Accounting and Tax Systems",
+      "Financial Reporting",
+      "Financial Reporting Quality",
+      "Financial Statements Analysis",
+      "Financial Analysis",
+      "Financial Closing",
+      "Financial Transactions",
+      "Transactional Accounting",
+      "Group Accounting and Consolidation",
+      "Cost Management",
+      "Internal Controls",
+      "Cash Flow Management",
+      "Sustainability Reporting",
+      "Climate Reporting",
+      "Professional Standards",
+      "Tax Implications",
+      "Performance Management",
+      "Management Decision Making"
+     ]
+    },
+    {
+     "module": "Professional Business Competencies",
+     "skills": [
+      "Business Acumen",
+      "Business Negotiation",
+      "Stakeholder Management",
+      "Conflict Management",
+      "Data Storytelling and Visualisation",
+      "Professional and Business Ethics",
+      "Professional Standards",
+      "Management Decision Making",
+      "Information Gathering and Analysis",
+      "Systems Thinking",
+      "Project Management",
+      "Professional Scepticism and Judgment",
+      "Due Professional Care"
+     ]
+    }
+   ],
+   "usage": {
+    "input": 1959,
+    "output": 1932
+   }
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-finance-top-up",
+   "industry_id": "financial-services",
+   "links": [
+    {
+     "module": "Corporate and Competitive Strategy",
+     "skills": [
+      "Strategy Planning",
+      "Business Environment Analysis",
+      "Business Planning",
+      "Benchmarking",
+      "Business Opportunities Development",
+      "Business Performance Management",
+      "Mergers and Acquisitions Management",
+      "Innovation Management",
+      "Scenario Planning and Analysis",
+      "Pricing Strategy",
+      "Market Research and Analysis",
+      "Partnership Management",
+      "Disruption Management",
+      "Change Management",
+      "Business Risk Assessment",
+      "Stakeholder Management"
+     ]
+    },
+    {
+     "module": "Introduction to Finance",
+     "skills": [
+      "Financial Analysis",
+      "Valuation",
+      "Capital Expenditure and Investment Evaluation",
+      "Budgeting",
+      "Financial Transactions",
+      "Personal Finance Advisory",
+      "Financial Modelling",
+      "Risk Management",
+      "Capital Management",
+      "Cash Flow Reporting",
+      "Portfolio and Investment Risk Management"
+     ]
+    },
+    {
+     "module": "Digital Business",
+     "skills": [
+      "Technology Application",
+      "Emerging Technology Synthesis",
+      "Digital Marketing",
+      "Business Process Re-engineering",
+      "Innovation Management",
+      "Business Opportunities Development",
+      "Disruption Management",
+      "Customer Experience Management",
+      "User Experience Design",
+      "Data Collection and Analysis",
+      "Cybersecurity",
+      "Data Governance",
+      "Strategy Planning",
+      "Channel Management",
+      "Business Needs Analysis",
+      "Business Requirements Mapping",
+      "Change Management"
+     ]
+    },
+    {
+     "module": "Economics and Global Market Innovations",
+     "skills": [
+      "Demand and Supply Analysis",
+      "Business Environment Analysis",
+      "Innovation Management",
+      "Market Research and Analysis",
+      "Pricing Strategy",
+      "Emerging Technology Synthesis",
+      "Disruption Management",
+      "Market Profiling",
+      "Business Opportunities Development",
+      "Climate Change Management",
+      "Carbon Markets and Decarbonisation Strategies Management",
+      "Trade Finance Management",
+      "Scenario Planning and Analysis"
+     ]
+    },
+    {
+     "module": "The Future of Organisations and Work",
+     "skills": [
+      "Change Management",
+      "Disruption Management",
+      "Emerging Technology Synthesis",
+      "Innovation Management",
+      "Learning and Development",
+      "Stakeholder Management",
+      "Business Environment Analysis",
+      "Ethical Culture",
+      "Technology Application",
+      "Strategy Planning",
+      "Business Process Re-engineering",
+      "Scenario Planning and Analysis",
+      "Corporate Governance",
+      "Environment and Social Governance"
+     ]
+    },
+    {
+     "module": "Managing People at Work",
+     "skills": [
+      "Stakeholder Management",
+      "Conflict Management",
+      "Change Management",
+      "Learning and Development",
+      "Ethical Culture",
+      "Business Negotiation",
+      "Networking",
+      "Business Performance Management",
+      "Crisis Management",
+      "Corporate Governance"
+     ]
+    },
+    {
+     "module": "Marketing in a Digital Era",
+     "skills": [
+      "Digital Marketing",
+      "Customer Behaviour Analysis",
+      "Market Research and Analysis",
+      "Market Profiling",
+      "Product Marketing and Branding",
+      "Pricing Strategy",
+      "Channel Management",
+      "Customer Acquisition Management",
+      "Customer Experience Management",
+      "Customer Relationship Management",
+      "Sales Strategy",
+      "Data Collection and Analysis",
+      "Data Storytelling and Visualisation",
+      "Product Design and Development",
+      "Product Management",
+      "User Experience Design",
+      "Account Management",
+      "Business Opportunities Development",
+      "Sales Target Management",
+      "Data Mining and Modelling"
+     ]
+    },
+    {
+     "module": "Operations Management",
+     "skills": [
+      "Continuous Improvement Management",
+      "Quality Assurance",
+      "Business Process Re-engineering",
+      "Demand and Supply Analysis",
+      "Project Management",
+      "Standard Operating Procedures Development",
+      "Business Performance Management",
+      "Contract and Vendor Management",
+      "Business Continuity Planning",
+      "Operational Risk Management",
+      "Data Analytics and Computational Modelling",
+      "Benchmarking",
+      "Scenario Planning and Analysis",
+      "Service Challenges",
+      "Product Design and Development",
+      "Business Planning",
+      "Data Collection and Analysis"
+     ]
+    },
+    {
+     "module": "Corporate Finance",
+     "skills": [
+      "Budgeting",
+      "Capital Expenditure and Investment Evaluation",
+      "Capital Management",
+      "Valuation",
+      "Financial Analysis",
+      "Financial Modelling",
+      "Mergers and Acquisitions Management",
+      "Cash Flow Reporting",
+      "Treasury Management",
+      "Corporate Governance",
+      "Risk Management",
+      "Business Risk Assessment",
+      "Asset and Liability Management",
+      "Deal Syndication and Arrangement",
+      "Book Building",
+      "Transaction Documentation for Prospectus Development",
+      "Financial Statements Review",
+      "Scenario Planning and Analysis",
+      "Business Planning",
+      "Underwriting Process",
+      "Behavioural Finance"
+     ]
+    },
+    {
+     "module": "Derivative Securities",
+     "skills": [
+      "Valuation",
+      "Market Risk Management",
+      "Risk Management",
+      "Financial Modelling",
+      "Trading Management",
+      "Portfolio and Investment Risk Management",
+      "Risk Analytics",
+      "Collateral Management",
+      "Treasury Management",
+      "Financial Transactions",
+      "Price Verification and Profit Analysis",
+      "Data Analytics and Computational Modelling",
+      "Asset and Liability Management",
+      "Credit Risk Management",
+      "Electronic Trading System Management",
+      "Trade Processing, Fund Settlement and Treasury Transaction Processing",
+      "Scenario Planning and Analysis",
+      "Market Specialisation"
+     ]
+    },
+    {
+     "module": "Finance and Financial Institutions",
+     "skills": [
+      "Asset and Liability Management",
+      "Capital Management",
+      "Credit Assessment",
+      "Credit Risk Management",
+      "Market Risk Management",
+      "Operational Risk Management",
+      "Regulatory Compliance",
+      "Risk Management",
+      "Treasury Management",
+      "Financial Transactions",
+      "Trade Finance Management",
+      "Business Environment Analysis",
+      "Corporate Governance",
+      "Regulatory Risk Assessment",
+      "Underwriting Process",
+      "Deal Syndication and Arrangement",
+      "Market Specialisation",
+      "Compliance Mindset Development",
+      "Risk Appetite and Goals Setting",
+      "Fraud Risk Management",
+      "Collateral Management",
+      "Sustainable Lending Instruments Structuring",
+      "Product Advisory"
+     ]
+    },
+    {
+     "module": "Investment and Portfolio Management",
+     "skills": [
+      "Portfolio and Investment Risk Management",
+      "Valuation",
+      "Attribution Analysis",
+      "Behavioural Finance",
+      "Client Investment Suitability",
+      "Financial Analysis",
+      "Financial Modelling",
+      "Market Risk Management",
+      "Risk Analytics",
+      "Technical Analysis",
+      "Sustainable Investment Management",
+      "Personal Finance Advisory",
+      "Wealth Planning Administration",
+      "Benchmarking",
+      "Risk Appetite and Goals Setting",
+      "Trading Management",
+      "Fund Accounting",
+      "Data Analytics and Computational Modelling",
+      "Product Advisory",
+      "Capital Expenditure and Investment Evaluation",
+      "Asset and Liability Management",
+      "Market Specialisation",
+      "Environment and Social Governance",
+      "Research and Information Synthesis"
+     ]
+    },
+    {
+     "module": "Accounting, Reporting and Analysis",
+     "skills": [
+      "Financial Reporting",
+      "Financial Statements Review",
+      "Financial Analysis",
+      "Cash Flow Reporting",
+      "Budgeting",
+      "Fund Accounting",
+      "Financial Transactions",
+      "Corporate Governance",
+      "Regulatory Compliance",
+      "Sustainability Reporting",
+      "Valuation",
+      "Business Performance Management",
+      "Fraud Risk Management",
+      "Price Verification and Profit Analysis",
+      "Credit Assessment",
+      "Impact Indicators, Measurement and Reporting",
+      "Risk and Compliance Reporting",
+      "Taxonomy Application"
+     ]
+    },
+    {
+     "module": "Professional Business Competencies",
+     "skills": [
+      "Business Negotiation",
+      "Networking",
+      "Stakeholder Management",
+      "Conflict Management",
+      "Data Storytelling and Visualisation",
+      "Ethical Culture",
+      "Project Management",
+      "Proposal Management",
+      "Learning and Development",
+      "Research and Information Synthesis",
+      "Qualitative Analysis",
+      "Legal Drafting and Writing",
+      "Customer Relationship Management",
+      "Business Needs Analysis",
+      "Partnership Management",
+      "Compliance Mindset Development"
+     ]
+    }
+   ],
+   "usage": {
+    "input": 2315,
+    "output": 2554
+   }
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-finance-top-up",
+   "industry_id": "infocomm-technology",
+   "links": [
+    {
+     "module": "Corporate and Competitive Strategy",
+     "skills": [
+      "Strategy Planning",
+      "Strategy Implementation",
+      "Business Environment Analysis",
+      "Business Innovation",
+      "Business Development",
+      "Business Performance Management",
+      "Market Trend Analysis",
+      "Partnership Management",
+      "Business Risk Management",
+      "Business Agility",
+      "Pricing Strategy",
+      "Systems Thinking",
+      "Change Management",
+      "Stakeholder Management"
+     ]
+    },
+    {
+     "module": "Introduction to Finance",
+     "skills": [
+      "Budgeting",
+      "Business Risk Management",
+      "Business Performance Management",
+      "Data Analytics"
+     ]
+    },
+    {
+     "module": "Digital Business",
+     "skills": [
+      "Business Innovation",
+      "IT Strategy",
+      "Emerging Technology Synthesis",
+      "Business Agility",
+      "Cloud Computing",
+      "Data Strategy",
+      "Customer Experience Management",
+      "Business Development",
+      "Business Needs Analysis",
+      "Strategy Planning",
+      "Media Platforms Management",
+      "Sales Channel Management",
+      "Product Management",
+      "Design Thinking Practice",
+      "Change Management"
+     ]
+    },
+    {
+     "module": "Economics and Global Market Innovations",
+     "skills": [
+      "Business Environment Analysis",
+      "Market Trend Analysis",
+      "Demand Analysis",
+      "Business Innovation",
+      "Pricing Strategy",
+      "Emerging Technology Synthesis",
+      "Research",
+      "Data Analytics"
+     ]
+    },
+    {
+     "module": "The Future of Organisations and Work",
+     "skills": [
+      "Change Management",
+      "Business Agility",
+      "Manpower Planning",
+      "Learning and Development",
+      "Emerging Technology Synthesis",
+      "People and Performance Management",
+      "Business Innovation",
+      "Systems Thinking",
+      "Data Ethics"
+     ]
+    },
+    {
+     "module": "Managing People at Work",
+     "skills": [
+      "People and Performance Management",
+      "Performance Management",
+      "Stakeholder Management",
+      "Learning and Development",
+      "Manpower Planning",
+      "Change Management",
+      "Business Negotiation",
+      "Crisis Management"
+     ]
+    },
+    {
+     "module": "Marketing in a Digital Era",
+     "skills": [
+      "Marketing Strategy",
+      "Integrated Marketing",
+      "Marketing Campaign Management",
+      "Marketing Communications Plan Development",
+      "Marketing Mix Management",
+      "Brand Management",
+      "Market Research",
+      "Consumer Intelligence Analysis",
+      "Customer Behaviour Analysis",
+      "Customer Experience Management",
+      "Media Platforms Management",
+      "Media Strategy Development",
+      "Content Management",
+      "Pricing Strategy",
+      "Sales Channel Management",
+      "Data Analytics",
+      "Market Trend Analysis",
+      "Product Management",
+      "Account Management"
+     ]
+    },
+    {
+     "module": "Operations Management",
+     "skills": [
+      "Process Improvement and Optimisation",
+      "Quality Assurance",
+      "Quality Standards",
+      "Procurement",
+      "Vendor Management",
+      "Demand Analysis",
+      "Project Management",
+      "Service Level Management",
+      "Business Performance Management",
+      "Business Continuity",
+      "Systems Thinking",
+      "Computational Modelling",
+      "Process Validation",
+      "Contract Management"
+     ]
+    },
+    {
+     "module": "Corporate Finance",
+     "skills": [
+      "Budgeting",
+      "Business Risk Management",
+      "Business Performance Management",
+      "Strategy Planning",
+      "Computational Modelling",
+      "Data Analytics",
+      "Business Development"
+     ]
+    },
+    {
+     "module": "Derivative Securities",
+     "skills": [
+      "Business Risk Management",
+      "Computational Modelling",
+      "Pricing Strategy",
+      "Data Analytics",
+      "Risk Compliance and Governance"
+     ]
+    },
+    {
+     "module": "Finance and Financial Institutions",
+     "skills": [
+      "Business Risk Management",
+      "Risk Compliance and Governance",
+      "Audit and Compliance",
+      "Business Environment Analysis",
+      "Market Trend Analysis"
+     ]
+    },
+    {
+     "module": "Investment and Portfolio Management",
+     "skills": [
+      "Business Risk Management",
+      "Data Analytics",
+      "Computational Modelling",
+      "Market Trend Analysis",
+      "Research",
+      "Business Performance Management"
+     ]
+    },
+    {
+     "module": "Accounting, Reporting and Analysis",
+     "skills": [
+      "Budgeting",
+      "Audit and Compliance",
+      "Business Performance Management",
+      "Data Analytics",
+      "Risk Compliance and Governance",
+      "Internal Controls in Product Development",
+      "Data Visualisation"
+     ]
+    },
+    {
+     "module": "Professional Business Competencies",
+     "skills": [
+      "Stakeholder Management",
+      "Business Negotiation",
+      "Project Management",
+      "Data Visualisation and Storyboarding",
+      "Research",
+      "Business Needs Analysis",
+      "Design Thinking Practice",
+      "Learning and Development",
+      "Systems Thinking",
+      "Data Analytics",
+      "Problem Management"
+     ]
+    }
+   ],
+   "usage": {
+    "input": 2123,
+    "output": 1402
+   }
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-accounting",
+   "industry_id": "infocomm-technology",
+   "links": [
+    {
+     "module": "Accounting",
+     "skills": [
+      "Budgeting",
+      "Business Performance Management",
+      "Audit and Compliance",
+      "Data Analytics"
+     ]
+    },
+    {
+     "module": "Accounting Theory and Accountability",
+     "skills": [
+      "Audit and Compliance",
+      "Risk Compliance and Governance",
+      "Stakeholder Management",
+      "Research",
+      "Business Performance Management"
+     ]
+    },
+    {
+     "module": "Auditing",
+     "skills": [
+      "Audit and Compliance",
+      "Risk Compliance and Governance",
+      "Business Risk Management",
+      "Quality Assurance",
+      "Internal Controls in Product Development",
+      "IT Governance"
+     ]
+    },
+    {
+     "module": "Company Law",
+     "skills": [
+      "Risk Compliance and Governance",
+      "Contract Management",
+      "Audit and Compliance",
+      "Stakeholder Management"
+     ]
+    },
+    {
+     "module": "Contemporary Financial Accounting",
+     "skills": [
+      "Audit and Compliance",
+      "Business Performance Management",
+      "Risk Compliance and Governance",
+      "Data Analytics"
+     ]
+    },
+    {
+     "module": "Corporate Finance",
+     "skills": [
+      "Budgeting",
+      "Business Risk Management",
+      "Business Performance Management",
+      "Strategy Planning",
+      "Computational Modelling",
+      "Business Environment Analysis"
+     ]
+    },
+    {
+     "module": "Management Accounting",
+     "skills": [
+      "Budgeting",
+      "Business Performance Management",
+      "Performance Management",
+      "Pricing Strategy",
+      "Strategy Planning",
+      "Process Improvement and Optimisation",
+      "Data Analytics"
+     ]
+    },
+    {
+     "module": "Taxation",
+     "skills": [
+      "Audit and Compliance",
+      "Risk Compliance and Governance",
+      "Budgeting"
+     ]
+    },
+    {
+     "module": "Technology and Accounting Processes",
+     "skills": [
+      "Process Improvement and Optimisation",
+      "Audit and Compliance",
+      "Data Analytics",
+      "Business Requirements Mapping",
+      "Emerging Technology Synthesis",
+      "IT Governance",
+      "Data Governance",
+      "Cloud Computing",
+      "Automation Management in Product Development"
+     ]
+    },
+    {
+     "module": "AI in the Workplace",
+     "skills": [
+      "Emerging Technology Synthesis",
+      "Data Ethics",
+      "Change Management",
+      "Business Innovation",
+      "Self-Learning Systems",
+      "Intelligent Reasoning",
+      "Artificial Intelligence Application in Product Development",
+      "Automation Management in Product Development"
+     ]
+    },
+    {
+     "module": "Communication Skills for Undergraduate Study",
+     "skills": [
+      "Research",
+      "Stakeholder Management",
+      "Content Management"
+     ]
+    },
+    {
+     "module": "Consulting and Freelancing",
+     "skills": [
+      "Business Development",
+      "Business Needs Analysis",
+      "Stakeholder Management",
+      "Business Negotiation",
+      "Account Management",
+      "Project Management",
+      "Contract Management",
+      "Pricing Strategy",
+      "Partnership Management",
+      "Problem Management"
+     ]
+    },
+    {
+     "module": "The Search for Everything: Data Analytics and Storytelling",
+     "skills": [
+      "Data Analytics",
+      "Data Visualisation",
+      "Data Visualisation and Storyboarding",
+      "Research",
+      "Data Ethics",
+      "Text Analytics and Processing"
+     ]
+    }
+   ],
+   "usage": {
+    "input": 2107,
+    "output": 963
+   }
+  }
+ ]
+}

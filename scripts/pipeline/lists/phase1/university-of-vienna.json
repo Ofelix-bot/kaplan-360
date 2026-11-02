@@ -1,0 +1,13 @@
+{
+ "source": "Master's programmes list https://studieren.univie.ac.at/en/find-your-degree-programme/masters-programmes; each programme page's 'Language' field checked, English-only kept (German / German and English dropped) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://studieren.univie.ac.at/en/find-you-degree-programme/masters-programmes/banking-and-finance-masters-programme",
+  "https://studieren.univie.ac.at/en/find-you-degree-programme/masters-programmes/communication-science-masters-programme",
+  "https://studieren.univie.ac.at/en/find-your-degree-programme/masters-programmes/business-analytics-masters-programme",
+  "https://studieren.univie.ac.at/en/find-your-degree-programme/masters-programmes/computer-science-masters-programme",
+  "https://studieren.univie.ac.at/en/find-your-degree-programme/masters-programmes/data-science-masters-programme",
+  "https://studieren.univie.ac.at/en/find-your-degree-programme/masters-programmes/media-informatics-masters-programme",
+  "https://studieren.univie.ac.at/en/find-your-degree-programme/masters-programmes/research-in-economics-and-finance-masters-programme"
+ ]
+}

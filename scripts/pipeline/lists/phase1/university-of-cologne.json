@@ -1,0 +1,12 @@
+{
+ "source": "WiSo Faculty master list https://wiso.uni-koeln.de/en/studies/master + UCBS https://business-school.uni-koeln.de/en; English-only programmes (central A-Z on studieninteressierte.uni-koeln.de is disallowed by robots.txt) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://wiso.uni-koeln.de/en/studies/master/master-international-management-cems-mim",
+  "https://wiso.uni-koeln.de/en/studies/master/master-business-administration",
+  "https://wiso.uni-koeln.de/en/studies/master/master-business-analytics-econometrics",
+  "https://wiso.uni-koeln.de/en/studies/master/master-sociology/master-social-and-economic-psychology",
+  "https://business-school.uni-koeln.de/en/master-baai",
+  "https://business-school.uni-koeln.de/en/executive-mba-part-time"
+ ]
+}

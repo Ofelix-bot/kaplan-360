@@ -1,0 +1,215 @@
+{
+  "aston-university": [
+    {
+      "url": "https://www.aston.ac.uk/international/english-language-requirements",
+      "sentences": [
+        "Tests must be taken within the last 2 years from the start date of the course you are applying to study at Aston University."
+      ]
+    }
+  ],
+  "murdoch-university": [],
+  "birmingham-city-university": [
+    {
+      "url": "https://www.bcu.ac.uk/student-info/welcome/english-language-and-literature-ba-hons",
+      "sentences": []
+    },
+    {
+      "url": "https://www.bcu.ac.uk/international/your-application/english-language-and-english-tests",
+      "sentences": []
+    },
+    {
+      "url": "https://www.bcu.ac.uk/research/excellent-research/ref-2014/english-language-and-literature",
+      "sentences": []
+    }
+  ],
+  "northumbria-university-at-newcastle": [
+    {
+      "url": "https://www.northumbria.ac.uk/about-us/academic-departments/humanities/research/english-research/english-language-and-linguistics/postgraduate-research-in-linguistics/",
+      "sentences": []
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/international/english-language-centre/",
+      "sentences": []
+    },
+    {
+      "url": "https://www.northumbria.ac.uk/research/research-areas/english-language-and-literature/",
+      "sentences": []
+    }
+  ],
+  "university-of-portsmouth": [
+    {
+      "url": "https://www.port.ac.uk/study/international-students/english-language-requirements",
+      "sentences": []
+    },
+    {
+      "url": "https://www.port.ac.uk/research/research-excellence-framework/ref-2021/english-language-and-literature",
+      "sentences": []
+    }
+  ],
+  "imperial-college-london": [
+    {
+      "url": "https://www.imperial.ac.uk/study/apply/english-language/",
+      "sentences": [
+        "*Test scores are only considered valid if taken within 2 years of the intended course start date.",
+        "*Test scores are only considered valid if taken within two years of the intended course start date."
+      ]
+    },
+    {
+      "url": "https://www.imperial.ac.uk/study/apply/english-language/english-language-exemption/",
+      "sentences": []
+    }
+  ],
+  "monash-university": [],
+  "university-of-manchester": [
+    {
+      "url": "https://www.manchester.ac.uk/study/international/admissions/language-requirements/",
+      "sentences": [
+        "If required to offer an acceptable English language test (see below), please note that unless explicitly stated otherwise on this webpage, acceptable English language tests (such as IELTS, TOEFL, Pearson and Trinity ISE etc) are deemed to be valid for two years after the test date, and must be valid",
+        "Please note that IELTS, Pearson and Trinity ISE are only valid for two years after the test date.",
+        "Please note that IELTS, Pearson, TOEFL and ISE are only valid for two years after the test date."
+      ]
+    },
+    {
+      "url": "https://www.manchester.ac.uk/study/international/why-manchester/student-support/english-language-courses/",
+      "sentences": []
+    }
+  ],
+  "university-of-edinburgh": [
+    {
+      "url": "https://registryservices.ed.ac.uk/immigration/applying-for-visa/student-visa/requirements/english-language",
+      "sentences": []
+    },
+    {
+      "url": "https://registryservices.ed.ac.uk/academic-services/students/code-of-practice/other-support-and-information/student-support-services/english-language-education",
+      "sentences": []
+    }
+  ],
+  "king-s-college-london": [
+    {
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements",
+      "sentences": [
+        "The tests listed below are valid if they have been taken within two years of the start date of your chosen programme.",
+        "if your programme starts in September 2027, the test must be dated within two years of 1st September 2027."
+      ]
+    },
+    {
+      "url": "https://www.kcl.ac.uk/summer/society/english-language-culture",
+      "sentences": []
+    },
+    {
+      "url": "https://www.kcl.ac.uk/short-courses/pre-university-english-language-culture-session-3",
+      "sentences": []
+    }
+  ],
+  "london-school-of-economics-and-political-science": [],
+  "university-of-leeds": [
+    {
+      "url": "https://www.leeds.ac.uk/language-centre/doc/english-language-certificates",
+      "sentences": [
+        "We cannot accept results from an IELTS test that is over two years old at the start date of the course you intend to study.",
+        "We cannot accept results from a test that is over two years old at the start date of the course you intend to study.",
+        "We cannot accept results from these tests that are over two years old at the start date of the course you intend to study.",
+        "We cannot accept results from this test that are over two years old at the start date of the course you intend to study."
+      ]
+    },
+    {
+      "url": "https://www.leeds.ac.uk/international-exchange-and-study-abroad/doc/language-requirements",
+      "sentences": []
+    },
+    {
+      "url": "https://www.leeds.ac.uk/international-exchange-and-study-abroad-applying-modules/doc/language-requirements",
+      "sentences": []
+    }
+  ],
+  "university-of-bristol": [
+    {
+      "url": "https://www.bristol.ac.uk/study/language-requirements/",
+      "sentences": [
+        "English language proficiency tests should be obtained within two years of the start date of your programme or course."
+      ]
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/postgraduate/english-language-profiles/",
+      "sentences": []
+    },
+    {
+      "url": "https://www.bristol.ac.uk/study/postgraduate/english-language-profiles/profile-a/",
+      "sentences": []
+    }
+  ],
+  "university-of-glasgow": [],
+  "university-of-sheffield": [
+    {
+      "url": "https://sheffield.ac.uk/postgraduate/english-language",
+      "sentences": [
+        "An approved English language test at CEFR B1 or above, taken in the two years preceding the start date of the degree/diploma",
+        "The pre-sessional course should be completed no more than two years before the start date of the degree course.",
+        "The Pre-Masters should be completed no more than two years before the start date of the degree course.",
+        "If you are presenting one of the tests listed in this section, it should have been completed no more than two years before the start date of your Sheffield course."
+      ]
+    },
+    {
+      "url": "https://sheffield.ac.uk/postgraduate/english-language/mnesc",
+      "sentences": []
+    },
+    {
+      "url": "https://sheffield.ac.uk/postgraduate/phd/apply/english-language",
+      "sentences": []
+    }
+  ],
+  "university-of-southampton": [
+    {
+      "url": "https://www.southampton.ac.uk/international/english-language-requirements",
+      "sentences": [
+        "awarded within 2 years of your course start date",
+        "Degrees completed within 2 years of your course start date",
+        "We define recent professional experience as at least 12 months of employment within the last 2 years."
+      ]
+    },
+    {
+      "url": "https://www.southampton.ac.uk/research/projects/english-language-teachers-in-china",
+      "sentences": []
+    },
+    {
+      "url": "https://www.southampton.ac.uk/uni-life/international/english-language-support.page",
+      "sentences": []
+    }
+  ],
+  "university-college-dublin": [],
+  "university-of-melbourne": [],
+  "university-of-queensland": [
+    {
+      "url": "https://scholarships.uq.edu.au/scholarship/uq-english-language-scholarship",
+      "sentences": []
+    }
+  ],
+  "rmit-university": [
+    {
+      "url": "https://www.rmit.edu.au/students/my-course/important-dates/2027/english-language",
+      "sentences": []
+    },
+    {
+      "url": "https://www.rmit.edu.au/study-with-us/levels-of-study/pre-university-study/english-language/pte",
+      "sentences": []
+    },
+    {
+      "url": "https://www.rmit.edu.au/students/my-course/enrolment/enrol-new-student/english-language-students",
+      "sentences": []
+    }
+  ],
+  "university-of-sydney": [],
+  "nanyang-technological-university-singapore": [],
+  "trinity-college-dublin-the-university-of-dublin": [],
+  "university-of-warwick": [],
+  "university-of-new-south-wales": [],
+  "ucl": [
+    {
+      "url": "https://www.ucl.ac.uk/teaching-learning/case-studies/2014/mar/using-teaching-innovation-grant-develop-english-language-apps",
+      "sentences": []
+    },
+    {
+      "url": "https://www.ucl.ac.uk/engage/case-studies/2021/aug/can-i-get-course-requires-grade-5-english-language-provide-i-achieve-achieved-aab",
+      "sentences": []
+    }
+  ]
+}

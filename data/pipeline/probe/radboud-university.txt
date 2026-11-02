@@ -1,0 +1,130 @@
+# radboud-university https://www.ru.nl
+robots sitemaps: https://www.ru.nl/sitemap.xml https://www.ru.nl/en/sitemap.xml · crawl-delay: 1 · AI-agent groups: 0
+index https://www.ru.nl/sitemap.xml: 4 children (4 course-like)
+index https://www.ru.nl/en/sitemap.xml: 4 children (4 course-like)
+sitemaps read 10 · urls 37496 · master's-looking 1909
+  731  www.ru.nl/en/education/masters
+         https://www.ru.nl/en/education/masters/creative-industries-and-cultural-management
+         https://www.ru.nl/en/education/masters/art-history
+         https://www.ru.nl/en/education/masters/tourism-and-heritage
+         https://www.ru.nl/en/education/masters/literature-and-society
+  222  www.ru.nl/opleidingen/masters
+         https://www.ru.nl/opleidingen/masters/creative-industries-and-cultural-management
+         https://www.ru.nl/opleidingen/masters/kunstgeschiedenis
+         https://www.ru.nl/opleidingen/masters/tourism-and-heritage
+         https://www.ru.nl/opleidingen/masters/literatuur-en-samenleving
+  111  www.ru.nl/en/education/pre-masters
+         https://www.ru.nl/en/education/pre-masters/pre-masters-dutch-as-a-second-language
+         https://www.ru.nl/en/education/pre-masters/pre-masters-language-and-speech-pathology
+         https://www.ru.nl/en/education/pre-masters/two-year-educational-pre-masters-dutch
+         https://www.ru.nl/en/education/pre-masters/pre-masters-literary-studies
+   61  www.ru.nl/opleidingen/pre-masters
+         https://www.ru.nl/opleidingen/pre-masters/pre-master-nederlands-als-tweede-taal
+         https://www.ru.nl/opleidingen/pre-masters/pre-master-taal-en-spraakpathologie
+         https://www.ru.nl/opleidingen/pre-masters/pre-master-tweejarige-educatieve-master-nederlands
+         https://www.ru.nl/opleidingen/pre-masters/pre-master-letterkunde
+   35  www.ru.nl/en/about-us/news
+         https://www.ru.nl/en/about-us/news/keuzegids-masters-2022-eleven-masters-programmes-score-above-average
+         https://www.ru.nl/en/about-us/news/admission-requirements-bachelors-to-masters
+         https://www.ru.nl/en/about-us/news/keuzegids-masters-2023-fifteen-masters-programmes-score-above-average
+         https://www.ru.nl/en/about-us/news/master-mathematics-in-keuzegids-2023
+   30  www.ru.nl/over-ons/nieuws
+         https://www.ru.nl/over-ons/nieuws/keuzegids-masters-2022-elf-masters-scoren-bovengemiddeld
+         https://www.ru.nl/over-ons/nieuws/versoepelde-toelatingsvoorwaarden-bachelor-naar-master
+         https://www.ru.nl/over-ons/nieuws/keuzegids-masters-2023-vijftien-masters-scoren-bovengemiddeld
+         https://www.ru.nl/over-ons/nieuws/grote-belangstelling-mkb-bedrijven-voor-masterclass-ai-for-business
+   20  www.ru.nl/over-ons/agenda
+         https://www.ru.nl/over-ons/agenda/master-open-dag
+         https://www.ru.nl/over-ons/agenda/master-meetup
+         https://www.ru.nl/over-ons/agenda/master-online-platform
+         https://www.ru.nl/over-ons/agenda/nsm-premaster-welcome-day
+   18  www.ru.nl/en/education/pre-masters-and-minors
+         https://www.ru.nl/en/education/pre-masters-and-minors/why-a-pre-masters
+         https://www.ru.nl/en/education/pre-masters-and-minors/why-a-minor
+         https://www.ru.nl/en/education/pre-masters-and-minors/from-applied-sciences-to-university/experiences
+         https://www.ru.nl/en/education/pre-masters-and-minors/why-a-minor/arts-minors/starting-year-2023-2024-and-earlier
+   16  www.ru.nl/en/about-us/events
+         https://www.ru.nl/en/about-us/events/masters-open-day
+         https://www.ru.nl/en/about-us/events/masters-meetup
+         https://www.ru.nl/en/about-us/events/masters-online-platform
+         https://www.ru.nl/en/about-us/events/nsm-pre-masters-welcome-day
+   14  www.ru.nl/opleidingen/pre-masters-en-minoren/waarom-een-minor
+         https://www.ru.nl/opleidingen/pre-masters-en-minoren/waarom-een-minor/minoren-faculteit-der-letteren/startjaar-2023-2024-en-eerder
+         https://www.ru.nl/opleidingen/pre-masters-en-minoren/waarom-een-minor/minoren-faculteit-der-letteren/startjaar-2023-2024-en-eerder/thematische-minoren
+         https://www.ru.nl/opleidingen/pre-masters-en-minoren/waarom-een-minor/minoren-faculteit-der-letteren/startjaar-2023-2024-en-eerder/overgangsregelingen
+         https://www.ru.nl/opleidingen/pre-masters-en-minoren/waarom-een-minor/minoren-faculteit-der-letteren/startjaar-2023-2024-en-eerder/denktank
+   12  www.ru.nl/en/education/application-and-admission
+         https://www.ru.nl/en/education/application-and-admission/application-procedure-masters/masters-international-previous-education
+         https://www.ru.nl/en/education/application-and-admission/application-procedure-masters/masters
+         https://www.ru.nl/en/education/application-and-admission/application-procedure-pre-masters-and-hbo-minors/pre-masters
+         https://www.ru.nl/en/education/application-and-admission/application-procedure-masters/masters-with-placement-procedure
+   12  www.ru.nl/en/donders-institute/staff-pages
+         https://www.ru.nl/en/donders-institute/staff-pages/graduate-school/training-opportunities
+         https://www.ru.nl/en/donders-institute/staff-pages/graduate-school/phd-council
+         https://www.ru.nl/en/donders-institute/staff-pages/graduate-school/certificate
+         https://www.ru.nl/en/donders-institute/staff-pages/graduate-school/checkpoints-and-portfolio
+   10  www.ru.nl/opleidingen/masters/cyber-security
+         https://www.ru.nl/opleidingen/masters/cyber-security/studieprogramma
+         https://www.ru.nl/opleidingen/masters/cyber-security/wat-kun-je-ermee
+         https://www.ru.nl/opleidingen/masters/cyber-security/contact
+         https://www.ru.nl/opleidingen/masters/cyber-security/toelating-en-inschrijving
+   10  www.ru.nl/opleidingen/masters/medicinal-chemistry
+         https://www.ru.nl/opleidingen/masters/medicinal-chemistry/studieprogramma
+         https://www.ru.nl/opleidingen/masters/medicinal-chemistry/wat-kun-je-ermee
+         https://www.ru.nl/opleidingen/masters/medicinal-chemistry/contact
+         https://www.ru.nl/opleidingen/masters/medicinal-chemistry/toelating-en-inschrijving
+   10  www.ru.nl/opleidingen/masters/physical-chemistry
+         https://www.ru.nl/opleidingen/masters/physical-chemistry/studieprogramma
+         https://www.ru.nl/opleidingen/masters/physical-chemistry/wat-kun-je-ermee
+         https://www.ru.nl/opleidingen/masters/physical-chemistry/contact
+         https://www.ru.nl/opleidingen/masters/physical-chemistry/toelating-en-inschrijving
+   10  www.ru.nl/opleidingen/masters/data-science-and-ai
+         https://www.ru.nl/opleidingen/masters/data-science-and-ai/studieprogramma
+         https://www.ru.nl/opleidingen/masters/data-science-and-ai/wat-kun-je-ermee
+         https://www.ru.nl/opleidingen/masters/data-science-and-ai/contact
+         https://www.ru.nl/opleidingen/masters/data-science-and-ai/toelating-en-inschrijving
+   10  www.ru.nl/opleidingen/masters/science-in-society
+         https://www.ru.nl/opleidingen/masters/science-in-society/voorlichting
+         https://www.ru.nl/opleidingen/masters/science-in-society/toelating-en-inschrijving
+         https://www.ru.nl/opleidingen/masters/science-in-society/contact
+         https://www.ru.nl/opleidingen/masters/science-in-society/wat-kun-je-ermee
+   10  www.ru.nl/opleidingen/masters/mathematics
+         https://www.ru.nl/opleidingen/masters/mathematics/voorlichting
+         https://www.ru.nl/opleidingen/masters/mathematics/toelating-en-inschrijving
+         https://www.ru.nl/opleidingen/masters/mathematics/contact
+         https://www.ru.nl/opleidingen/masters/mathematics/wat-kun-je-ermee
+   10  www.ru.nl/opleidingen/masters/software-science
+         https://www.ru.nl/opleidingen/masters/software-science/studieprogramma
+         https://www.ru.nl/opleidingen/masters/software-science/wat-kun-je-ermee
+         https://www.ru.nl/opleidingen/masters/software-science/contact
+         https://www.ru.nl/opleidingen/masters/software-science/toelatingseisen
+   10  www.ru.nl/opleidingen/masters/plant-and-animal-molecular-physiology
+         https://www.ru.nl/opleidingen/masters/plant-and-animal-molecular-physiology/voorlichting
+         https://www.ru.nl/opleidingen/masters/plant-and-animal-molecular-physiology/toelating-en-inschrijving
+         https://www.ru.nl/opleidingen/masters/plant-and-animal-molecular-physiology/contact
+         https://www.ru.nl/opleidingen/masters/plant-and-animal-molecular-physiology/wat-kun-je-ermee
+   10  www.ru.nl/opleidingen/masters/neurobiology
+         https://www.ru.nl/opleidingen/masters/neurobiology/studieprogramma
+         https://www.ru.nl/opleidingen/masters/neurobiology/wat-kun-je-ermee
+         https://www.ru.nl/opleidingen/masters/neurobiology/contact
+         https://www.ru.nl/opleidingen/masters/neurobiology/toelatingseisen
+   10  www.ru.nl/opleidingen/masters/conservation-and-restoration-ecology
+         https://www.ru.nl/opleidingen/masters/conservation-and-restoration-ecology/studieprogramma
+         https://www.ru.nl/opleidingen/masters/conservation-and-restoration-ecology/wat-kun-je-ermee
+         https://www.ru.nl/opleidingen/masters/conservation-and-restoration-ecology/contact
+         https://www.ru.nl/opleidingen/masters/conservation-and-restoration-ecology/toelating-en-inschrijving
+   10  www.ru.nl/opleidingen/masters/molecular-chemistry
+         https://www.ru.nl/opleidingen/masters/molecular-chemistry/studieprogramma
+         https://www.ru.nl/opleidingen/masters/molecular-chemistry/wat-kun-je-ermee
+         https://www.ru.nl/opleidingen/masters/molecular-chemistry/contact
+         https://www.ru.nl/opleidingen/masters/molecular-chemistry/toelating-en-inschrijving
+   10  www.ru.nl/opleidingen/masters/environment-sustainability
+         https://www.ru.nl/opleidingen/masters/environment-sustainability/collegegeld
+         https://www.ru.nl/opleidingen/masters/environment-sustainability/studieprogramma
+         https://www.ru.nl/opleidingen/masters/environment-sustainability/wat-kun-je-ermee
+         https://www.ru.nl/opleidingen/masters/environment-sustainability/contact
+   10  www.ru.nl/opleidingen/masters/human-biology
+         https://www.ru.nl/opleidingen/masters/human-biology/waarom-deze-studie
+         https://www.ru.nl/opleidingen/masters/human-biology/collegegeld
+         https://www.ru.nl/opleidingen/masters/human-biology/studieprogramma
+         https://www.ru.nl/opleidingen/masters/human-biology/wat-kun-je-ermee

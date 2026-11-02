@@ -1,0 +1,195 @@
+{
+  "id": "ustc",
+  "status": "read",
+  "university": "中国科学技术大学",
+  "universityEn": "University of Science and Technology of China",
+  "tier": "985",
+  "url": "https://xxgk.ustc.edu.cn/_upload/article/files/23/21/febae82b440984ff54db2c2a2ee5/728fb44c-7a28-4723-b0ef-97c4523146c2.pdf",
+  "title": "2023届毕业生就业质量年度报告",
+  "year": 2023,
+  "cohort": "2023届",
+  "pages": 13,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": 248,
+      "pct": 13.8,
+      "quote": "出国（境）留学共 248 人，占比 13.8%"
+    },
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": 248,
+      "pct": 13.9,
+      "quote": "出国(境)留学共 248 人，占本科毕业生总人数的 13.9%"
+    },
+    {
+      "group": "硕士生",
+      "cohort": null,
+      "count": 79,
+      "pct": 2,
+      "quote": "出国（境） 248 13.8% 79 2.0% 47 3.5% 374 5.3%"
+    },
+    {
+      "group": "博士生",
+      "cohort": null,
+      "count": 47,
+      "pct": 3.5,
+      "quote": "出国（境） 248 13.8% 79 2.0% 47 3.5% 374 5.3%"
+    },
+    {
+      "group": "硕士生",
+      "cohort": null,
+      "count": 126,
+      "pct": 2.4,
+      "quote": "研究生出国(境)留学共 126 人，占毕业研究生总人数的 2.4%"
+    }
+  ],
+  "regions": [
+    {
+      "region": "德国",
+      "cohort": null,
+      "count": 16,
+      "pct": null,
+      "quote": "德国 16"
+    },
+    {
+      "region": "英国",
+      "cohort": null,
+      "count": 12,
+      "pct": null,
+      "quote": "英国 12"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": null,
+      "count": 11,
+      "pct": null,
+      "quote": "澳大利亚 11"
+    },
+    {
+      "region": "日本",
+      "cohort": null,
+      "count": 10,
+      "pct": null,
+      "quote": "日本 10"
+    },
+    {
+      "region": "瑞士",
+      "cohort": null,
+      "count": 8,
+      "pct": null,
+      "quote": "瑞士 8"
+    },
+    {
+      "region": "荷兰",
+      "cohort": null,
+      "count": 7,
+      "pct": null,
+      "quote": "荷兰 7"
+    },
+    {
+      "region": "加拿大",
+      "cohort": null,
+      "count": 7,
+      "pct": null,
+      "quote": "加拿大 7"
+    },
+    {
+      "region": "中国澳门",
+      "cohort": null,
+      "count": 5,
+      "pct": null,
+      "quote": "中国澳门 5"
+    },
+    {
+      "region": "瑞典",
+      "cohort": null,
+      "count": 4,
+      "pct": null,
+      "quote": "瑞典 4"
+    },
+    {
+      "region": "沙特阿拉伯",
+      "cohort": null,
+      "count": 4,
+      "pct": null,
+      "quote": "沙特阿拉伯 4"
+    },
+    {
+      "region": "丹麦",
+      "cohort": null,
+      "count": 2,
+      "pct": null,
+      "quote": "丹麦 2"
+    },
+    {
+      "region": "比利时",
+      "cohort": null,
+      "count": 1,
+      "pct": null,
+      "quote": "比利时 1"
+    },
+    {
+      "region": "芬兰",
+      "cohort": null,
+      "count": 1,
+      "pct": null,
+      "quote": "芬兰 1"
+    },
+    {
+      "region": "韩国",
+      "cohort": null,
+      "count": 1,
+      "pct": null,
+      "quote": "韩国 1"
+    },
+    {
+      "region": "葡萄牙",
+      "cohort": null,
+      "count": 1,
+      "pct": null,
+      "quote": "葡萄牙 1"
+    },
+    {
+      "region": "西班牙",
+      "cohort": null,
+      "count": 1,
+      "pct": null,
+      "quote": "西班牙 1"
+    },
+    {
+      "region": "以色列",
+      "cohort": null,
+      "count": 1,
+      "pct": null,
+      "quote": "以色列 1"
+    },
+    {
+      "region": "意大利",
+      "cohort": null,
+      "count": 1,
+      "pct": null,
+      "quote": "意大利 1"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "全球排名前100位的大学（2024泰晤士世界大学排名）",
+      "cohort": null,
+      "count": 1208,
+      "pct": 89.3,
+      "quote": "共有 1208 名本科毕业生赴全球排名前 100 位的大学深造（2024 泰晤士世界大学排名），占国内外深造本科毕业生的 89.3%"
+    }
+  ],
+  "destinations": [],
+  "dropped": [
+    "abroad 全体",
+    "region 美国",
+    "region 中国香港",
+    "region 法国",
+    "region 新加坡"
+  ],
+  "checked": "2026-10-21"
+}

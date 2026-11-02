@@ -1,0 +1,544 @@
+{
+  "note": "Openings in Singapore on each employer's own careers site, by career. Titles are kept for checking only; the site shows employer names and counts.",
+  "checks": [
+    {
+      "career": "supply-chain-logistics-manager",
+      "employer": "apple",
+      "url": "https://jobs.apple.com/en-sg/search?search=supply%20chain&location=singapore-SGP",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 9,
+      "titles": [
+        "AppleCare Technologies Project Manager",
+        "Operations Business Analyst Intern, Operations and Supply Chain (6 Month) - Singapore",
+        "Pacific Operations Intern, Operations and Supply Chain (6-Month) - Singapore",
+        "Material Data Management Analyst",
+        "Supply Demand Planner, Retail Fulfilment Operations",
+        "Regional DC Project Manager (12 Months Contract)",
+        "Regional Supply Demand Planner (12 Months Contract)",
+        "Regional Supply/Demand Planner",
+        "Channel Fulfillment Analyst(12 Months Contract)"
+      ]
+    },
+    {
+      "career": "software-engineer",
+      "employer": "amazon",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=software%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Software Developer Intern, Field Innovation, Security Search and Observability (SSO)"
+      ]
+    },
+    {
+      "career": "financial-analyst-fintech",
+      "employer": "standard-chartered",
+      "url": "https://jobs.standardchartered.com/search/?q=financial%20analyst&locationsearch=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "financial-analyst-fintech",
+      "employer": "barclays",
+      "url": "https://search.jobs.barclays/search-jobs/financial%20analyst/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "data-analyst-scientist",
+      "employer": "google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=data%20analyst&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 3,
+      "titles": [
+        "Workspace Trust and Safety Engineering Analyst",
+        "Principal Analyst, Google Threat Intelligence, Mandiant",
+        "Data Science and Analytics Specialist"
+      ]
+    },
+    {
+      "career": "software-engineer",
+      "employer": "apple",
+      "url": "https://jobs.apple.com/en-sg/search?search=software%20engineer&location=singapore-SGP",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 4,
+      "titles": [
+        "Senior Software Engineer, Cloud Services Engineering",
+        "Senior AI Backend Software Engineer, Digital Channel",
+        "Software Quality/Test Engineer, Emerging Technology",
+        "Software Development Engineering Manager"
+      ]
+    },
+    {
+      "career": "ai-ml-engineer",
+      "employer": "microsoft",
+      "url": "https://jobs.careers.microsoft.com/global/en/search?q=machine%20learning%20engineer&lc=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "cybersecurity-analyst",
+      "employer": "standard-chartered",
+      "url": "https://jobs.standardchartered.com/search/?q=cyber%20security&locationsearch=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "cybersecurity-analyst",
+      "employer": "barclays",
+      "url": "https://search.jobs.barclays/search-jobs/cyber%20security/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "ai-ml-engineer",
+      "employer": "apple",
+      "url": "https://jobs.apple.com/en-sg/search?search=machine%20learning%20engineer&location=singapore-SGP",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Machine Learning Engineer Manager - APAC",
+        "Machine Learning Engineer, Strategic Data Solutions"
+      ]
+    },
+    {
+      "career": "ai-ml-engineer",
+      "employer": "amazon",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=machine%20learning%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "data-analyst-scientist",
+      "employer": "standard-chartered",
+      "url": "https://jobs.standardchartered.com/search/?q=data%20analyst&locationsearch=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Head, Data Management Capabilities Enablement, CIB"
+      ]
+    },
+    {
+      "career": "ai-ml-engineer",
+      "employer": "google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=machine%20learning%20engineer&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 6,
+      "titles": [
+        "Staff Software Engineer, Machine Learning, TPU Workload Optimization",
+        "Senior Software Engineer, Machine Learning, TPU Workload Optimization",
+        "Research Scientist, AI Safety and Security",
+        "Staff Research Scientist, AI Alignment",
+        "Senior Research Scientist, AI Safety and Security",
+        "Senior Staff Tech Lead Manager, TPU Workload Onboarding and Optimization"
+      ]
+    },
+    {
+      "career": "software-engineer",
+      "employer": "standard-chartered",
+      "url": "https://jobs.standardchartered.com/search/?q=software%20engineer&locationsearch=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 3,
+      "titles": [
+        "Global Head, Software Engineering",
+        "Senior Software Engineer Distributed Systems (Singapore / China)",
+        "Principal Software Engineer Distributed Systems (Singapore / China)"
+      ]
+    },
+    {
+      "career": "data-analyst-scientist",
+      "employer": "amazon",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=data%20analyst&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Commissioning Program Analyst Intern, Data Center Capacity Delivery APJC",
+        "Program Manager Intern"
+      ]
+    },
+    {
+      "career": "software-engineer",
+      "employer": "microsoft",
+      "url": "https://jobs.careers.microsoft.com/global/en/search?q=software%20engineer&lc=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "data-analyst-scientist",
+      "employer": "dbs",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=data%20analyst",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "communications-pr",
+      "employer": "standard-chartered",
+      "url": "https://jobs.standardchartered.com/search/?q=communications&locationsearch=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Senior Advisor, Ecosystem Programmes and Partnerships"
+      ]
+    },
+    {
+      "career": "ai-ml-engineer",
+      "employer": "dbs",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=machine%20learning%20engineer",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "AVP, AI Engineer, Global Financial Market Technology, Group Technology"
+      ]
+    },
+    {
+      "career": "cybersecurity-analyst",
+      "employer": "microsoft",
+      "url": "https://jobs.careers.microsoft.com/global/en/search?q=cyber%20security&lc=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "supply-chain-logistics-manager",
+      "employer": "procter-gamble",
+      "url": "https://www.pgcareers.com/global/en/search-results?keywords=supply%20chain&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "cybersecurity-analyst",
+      "employer": "dbs",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=cyber%20security",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 12,
+      "titles": [
+        "VP/AVP, Quantum Cryptographic Engineer, Information Security Services, Group Technology",
+        "Sr. Assoc, Non-Human Identity Security Engineer, Information Security Services, Group Technology",
+        "ED, Cybersecurity Governance, Risk & Compliance Head, Information Security Services, Group Technology",
+        "AVP, Cyberark Engineer, Information Security Services, Group Technology",
+        "SA, Cyberark Operations Engineer, Information Security Services, Group Technology",
+        "SA/Assoc, Cyber Security Technology Support, Information Security Services, Group Technology",
+        "AVP, Non-Human Identity Security Engineer, Information Security Services, Group Technology",
+        "Associate, Access Management Developer, Information Security Services, Group Technology",
+        "Assoc, Non-Human Identity Security Technology Support, Information Security Services, Group Technology",
+        "Associate, Specialist, IT Securities Operations Services, Technology & Operations",
+        "AVP/SA, Security Regulatory and Compliance Lead, Information Security Services, Group Technology",
+        "VP/AVP, Cybersecurity Governance & Compliance Lead, Information Security Services, Group Technology"
+      ]
+    },
+    {
+      "career": "supply-chain-logistics-manager",
+      "employer": "amazon",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=supply%20chain&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Supply Chain Manager Intern, AWS Cloud Logistics"
+      ]
+    },
+    {
+      "career": "cybersecurity-analyst",
+      "employer": "amazon",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=cyber%20security&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Security Consultant, Global Proserve Security"
+      ]
+    },
+    {
+      "career": "digital-marketing-manager",
+      "employer": "procter-gamble",
+      "url": "https://www.pgcareers.com/global/en/search-results?keywords=digital%20marketing&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "financial-analyst-fintech",
+      "employer": "dbs",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=financial%20analyst",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "software-engineer",
+      "employer": "google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=software%20engineer&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 20,
+      "titles": [
+        "Senior Software Engineer, Cloud and Third Party Platform Security",
+        "Staff Software Engineer, Machine Learning, TPU Workload Optimization",
+        "Senior Software Engineer, Machine Learning, TPU Workload Optimization",
+        "Senior Software Engineer, Mobile (iOS)",
+        "Software Engineer, Content Safety, Core",
+        "Senior Software Engineer, Safe Coding",
+        "Senior Software Engineer, Google Pay, Growth and Communications",
+        "Software Engineer, Google Ads Team",
+        "Senior Software Engineer, Ask Google Pay",
+        "Software Engineer, Safe Coding",
+        "Staff Software Engineer, Information Security Engineering",
+        "Software Engineer III, Full Stack, Enterprise Data Protection",
+        "Software Engineer, Google Pay, Server",
+        "Software Engineer, Content Safety",
+        "Software Engineer, Finance and Growth Platform, Payments",
+        "Software Engineer, Android App Security, Content Abuse",
+        "Software Engineer, Payments Security",
+        "Senior Software Engineer, Consumer Payments, Growth",
+        "Senior Software Engineer, Cloud Networking (Mandarin, English)",
+        "Software Engineer, Google Pay, Growth and Communications"
+      ]
+    },
+    {
+      "career": "digital-marketing-manager",
+      "employer": "amazon",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=digital%20marketing&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Partner Marketing Manager ( Subscriptions ), Amazon Fuse and MBD",
+        "Head of APJ Marketing, Strategic Customer and Partner Marketing"
+      ]
+    },
+    {
+      "career": "data-analyst-scientist",
+      "employer": "microsoft",
+      "url": "https://jobs.careers.microsoft.com/global/en/search?q=data%20analyst&lc=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "supply-chain-logistics-manager",
+      "employer": "micron",
+      "url": "https://careers.micron.com/careers?query=supply%20chain&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 9,
+      "titles": [
+        "Sr. Supply Manager, AT Supply Management- Capital",
+        "SENIOR MANAGER, Assembly & Test Supply Management",
+        "SR ATSM NETWORK SUPPLY MANAGER II",
+        "Global FG Capacity and Project Analyst",
+        "Sr Logistics Analyst",
+        "logistics analyst 3",
+        "Director, ATTP Inventory & Central NPM",
+        "Logistics Analyst",
+        "Planning Assistant"
+      ]
+    },
+    {
+      "career": "digital-marketing-manager",
+      "employer": "google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=digital%20marketing&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Social Insights and Measurement Strategist"
+      ]
+    },
+    {
+      "career": "financial-analyst-fintech",
+      "employer": "procter-gamble",
+      "url": "https://www.pgcareers.com/global/en/search-results?keywords=financial%20analyst&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "cybersecurity-analyst",
+      "employer": "google",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=cyber%20security&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 8,
+      "titles": [
+        "Cyber Security Instructor, Mandiant, Google Cloud",
+        "Information Security Engineer, Early Career, Product Security",
+        "Staff Information Security Engineer, Product Security",
+        "Customer Engineer, AI Security, Google Cloud",
+        "Staff Software Engineer, Information Security Engineering",
+        "Investigator, APAC",
+        "Security Engineer, Third Party Security Diligence",
+        "Senior Security Engineer, Enterprise SaaS Security"
+      ]
+    },
+    {
+      "career": "registered-nurse",
+      "employer": "singhealth",
+      "url": "https://careers.singhealth.com.sg/search/?q=staff%20nurse",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 12,
+      "titles": [
+        "Senior Staff Nurse",
+        "Staff Nurse",
+        "Senior Staff Nurse (Specialty)",
+        "Senior / Staff Nurse",
+        "Senior Staff Nurse (Ambulatory)",
+        "Staff Nurse (Inpatient)",
+        "Senior Staff Nurse (OT)",
+        "Senior/ Staff Nurse (Department of Diagnostic & Interventional Imaging)",
+        "Senior/ Staff Nurse",
+        "Staff Nurse (Day Ward)",
+        "Senior/Staff Nurse (OT)",
+        "Staff Nurse, Dept of Child Development (Contract)"
+      ]
+    },
+    {
+      "career": "counsellor-psychology-associate",
+      "employer": "singhealth",
+      "url": "https://careers.singhealth.com.sg/search/?q=counsellor",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Clinical Psychologist (Psychological Medicine)"
+      ]
+    },
+    {
+      "career": "data-analyst-scientist",
+      "employer": "micron",
+      "url": "https://careers.micron.com/careers?query=data%20analyst&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 4,
+      "titles": [
+        "Staff Data Scientist, Global Operations Intelligence, SMAI",
+        "Intern, Photo Manufacturing Data Analytics and AI",
+        "SMAI Senior Data Scientist",
+        "Senior Business Intelligence Analyst"
+      ]
+    },
+    {
+      "career": "data-analyst-scientist",
+      "employer": "msd",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=data%20analyst&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "software-engineer",
+      "employer": "micron",
+      "url": "https://careers.micron.com/careers?query=software%20engineer&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "ENGINEER - PROBE SOFTWARE & ANALYTICAL"
+      ]
+    },
+    {
+      "career": "supply-chain-logistics-manager",
+      "employer": "msd",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=supply%20chain&location=Singapore",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "software-engineer",
+      "employer": "dbs",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=software%20engineer",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "digital-marketing-manager",
+      "employer": "dbs",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=digital%20marketing",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "SVP/VP, AdTech Lead, Performance Marketing Platforms, Group Marketing & Communications"
+      ]
+    },
+    {
+      "career": "communications-pr",
+      "employer": "dbs",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=communications",
+      "checkedAt": "2026-10-18",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "career": "registered-nurse",
+      "employer": "nhg",
+      "url": "https://careers.nhghealth.com.sg/search/?q=staff%20nurse",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 8,
+      "titles": [
+        "Staff Nurse",
+        "Senior Staff Nurse I",
+        "TTSH_Staff Nurse / Sr Staff Nurse (Emergency Department)_2-years Contract",
+        "Staff Nurse, NurseFirst (Contract till 31 Aug 2027)",
+        "Senior/Staff Nurse (Care@Nursing Home)",
+        "Staff Nurse / Senior Staff Nurse (Chronic Disease Management)",
+        "WH_Senior/Staff Nurse (OT)",
+        "WH_Senior Staff Nurse I (Invasive Cardiac Lab)"
+      ]
+    },
+    {
+      "career": "counsellor-psychology-associate",
+      "employer": "nhg",
+      "url": "https://careers.nhghealth.com.sg/search/?q=counsellor",
+      "checkedAt": "2026-10-18",
+      "status": "ok",
+      "openings": 3,
+      "titles": [
+        "National Mental Health Helpline Counsellor",
+        "Nurse Counsellor",
+        "Counsellor (1-year contract)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "dataset": "graduate-employment-outcomes",
+  "retrievedAt": "2026-10-18",
+  "notes": [
+    "Raw records for the homepage Outcomes section. Every value is quoted from its source; nothing is estimated.",
+    "SkillsFuture Singapore (SSG) merged with Workforce Singapore into the Skills and Workforce Development Agency (SWDA); ssg.gov.sg links now redirect to swda.gov.sg.",
+    "From PEI GES 2024/2025, 'Secured Employment' (employed + accepted an offer starting later + starting a business) replaced 'Employed' as the headline rate. 'Currently Employed' is the series comparable with earlier years' 'Employed'.",
+    "The AU group changes over time: NUS, NTU, SMU, SUSS (2021, 2023); + SUTD (2024); + SUTD, SIT (2025).",
+    "No official survey publishes employment outcomes for private-institution diploma graduates (PEI GES covers full-time bachelor's external degree programmes only)."
+  ],
+  "sources": {
+    "swda-pei-2024-25": {
+      "name": "SWDA, Private Education Institution Graduate Employment Survey 2024/2025",
+      "url": "https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/graduate-employment-survey/2024-2025",
+      "published": "2026-04-08",
+      "kind": "official"
+    },
+    "swda-pei-2024-25-news": {
+      "name": "SWDA newsroom, Employment outcomes for PEI graduates remain stable in 2024/2025",
+      "url": "https://www.swda.gov.sg/home/newsroom/employment-outcomes-for-private-education-institution-graduates-remain-stable-in-2024-2025",
+      "kind": "official"
+    },
+    "swda-pei-2023-24": {
+      "name": "SSG/SWDA, Private Education Institution Graduate Employment Survey 2023/2024",
+      "url": "https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/graduate-employment-survey/2023-2024",
+      "kind": "official"
+    },
+    "swda-pei-2022-23": {
+      "name": "SSG/SWDA, Private Education Institution Graduate Employment Survey 2022/2023",
+      "url": "https://www.swda.gov.sg/home/skills-career-resources/private-education-resources/graduate-employment-survey/2022-2023",
+      "kind": "official",
+      "caution": "The page's Table 3 (list of participating PEIs) repeats numbers from Table 2 against different institutions. Only Table 1 and Table 2 are used."
+    },
+    "swda-pei-2020-21-news": {
+      "name": "SSG/SWDA newsroom, About 1 in 2 PEI graduates in full-time permanent employment months after graduation (PEI GES 2020/2021)",
+      "url": "https://www.swda.gov.sg/home/newsroom/about-1-in-2-pei-graduates-in-full-time-permanent-employment-months-after-graduation",
+      "kind": "official"
+    },
+    "moe-jauges-2025": {
+      "name": "MOE, Graduate Employment Survey 2025 (joint web publication, NUS, NTU, SMU, SUTD, SIT, SUSS)",
+      "url": "https://www.moe.gov.sg/api/media/b26f8eed-8a89-47e3-b82f-c2c239786342/Joint-Web-Publication-GES-2025.pdf",
+      "published": "2026-03-05",
+      "kind": "official"
+    },
+    "hea-go-2024": {
+      "name": "Higher Education Authority (Ireland), Graduate Outcomes 2024 Key Findings",
+      "url": "https://hea.ie/statistics/graduate-outcomes/key-findings-go-2024/",
+      "kind": "official"
+    },
+    "qilt-gos-2025": {
+      "name": "QILT, 2025 Graduate Outcomes Survey National Report (June 2026)",
+      "url": "https://www.qilt.edu.au/docs/default-source/default-document-library/2025-gos-national-report.pdf",
+      "kind": "official"
+    },
+    "the-hesa-2023-24": {
+      "name": "Times Higher Education, Drop in graduate employment 'a cooling, not a collapse' (reporting HESA Graduate Outcomes 2023/24)",
+      "url": "https://www.timeshighereducation.com/news/drop-graduate-employment-cooling-not-collapse",
+      "kind": "secondary"
+    },
+    "hesa-sb275": {
+      "name": "HESA/Jisc, Higher Education Graduate Outcomes Statistics: UK, 2023/24 (SB275)",
+      "url": "https://www.hesa.ac.uk/news/04-06-2026/sb275-higher-education-graduate-outcomes-statistics",
+      "kind": "official",
+      "caution": "Returned a Cloudflare browser challenge (HTTP 403) to automated requests on 2026-10-18. Not worked around; figures must be checked by hand in a browser."
+    },
+    "vulcanpost-pei-2025": {
+      "name": "Vulcan Post, Singapore private uni graduate employment 2025",
+      "url": "https://vulcanpost.com/910576/singapore-private-uni-graduate-employment-2025/",
+      "kind": "media"
+    },
+    "hro-pei-2025": {
+      "name": "Human Resources Online, Median pay of private education graduates in Singapore maintained at S$3,500 in 2024/2025",
+      "url": "https://www.humanresourcesonline.net/median-pay-of-private-education-graduates-in-singapore-maintained-at-s-3-500-in-2024-2025",
+      "kind": "media"
+    },
+    "suss-jauges-2025": {
+      "name": "SUSS media release, More support for graduates in seeking employment as employment outcomes dip (JAUGES 2025)",
+      "url": "https://www.suss.edu.sg/about-suss/media-centres/media-releases/more-support-for-graduates-in-seeking-employment-as-employment-outcomes-dip",
+      "kind": "official-institution"
+    }
+  },
+  "records": [
+    {
+      "id": "sg-pei-2024-25-salary",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2024/2025",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 3500,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25",
+      "verbatimQuote": "The median gross monthly salary for PEI fresh graduates in full-time permanent employment remained stable at $3,500.",
+      "crossChecks": [
+        "swda-pei-2024-25-news",
+        "hro-pei-2025"
+      ]
+    },
+    {
+      "id": "sg-pei-2024-25-secured",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2024/2025",
+      "metric": "secured-employment-rate",
+      "value": 78.9,
+      "unit": "%",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25",
+      "verbatimQuote": "Secured Employment 78.6% 78.9% 88.9% 93.1%",
+      "crossChecks": [
+        "swda-pei-2024-25-news",
+        "vulcanpost-pei-2025"
+      ]
+    },
+    {
+      "id": "sg-pei-2024-25-current",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2024/2025",
+      "metric": "currently-employed-rate",
+      "value": 75.9,
+      "unit": "%",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25",
+      "verbatimQuote": "Currently Employed 74.8% 75.9% 83.4% 90.7%"
+    },
+    {
+      "id": "sg-pei-2024-25-ftp",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2024/2025",
+      "metric": "full-time-permanent-rate",
+      "value": 46.9,
+      "unit": "%",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25",
+      "verbatimQuote": "In Full-Time Permanent (FTP) Employment 46.4% 46.9% 74.4% 66.2%",
+      "crossChecks": [
+        "vulcanpost-pei-2025"
+      ]
+    },
+    {
+      "id": "sg-au-2025-salary",
+      "region": "Singapore",
+      "group": "au-degree",
+      "cohort": "2025",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 4500,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25-news",
+      "verbatimQuote": "The median gross monthly salary of AU fresh graduates was $4,500, while the median gross monthly salary for post-National Service polytechnic graduates was $3,137 in 2025.",
+      "crossChecks": [
+        "suss-jauges-2025"
+      ]
+    },
+    {
+      "id": "sg-au-2025-secured",
+      "region": "Singapore",
+      "group": "au-degree",
+      "cohort": "2025",
+      "metric": "secured-employment-rate",
+      "value": 88.9,
+      "unit": "%",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25",
+      "verbatimQuote": "Secured Employment 78.6% 78.9% 88.9% 93.1%",
+      "crossChecks": [
+        "suss-jauges-2025"
+      ]
+    },
+    {
+      "id": "sg-au-2025-ftp",
+      "region": "Singapore",
+      "group": "au-degree",
+      "cohort": "2025",
+      "metric": "full-time-permanent-rate",
+      "value": 74.4,
+      "unit": "%",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25",
+      "verbatimQuote": "In Full-Time Permanent (FTP) Employment 46.4% 46.9% 74.4% 66.2%"
+    },
+    {
+      "id": "sg-poly-2025-salary",
+      "region": "Singapore",
+      "group": "poly-diploma-post-ns",
+      "cohort": "2025",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 3137,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25-news",
+      "verbatimQuote": "the median gross monthly salary for post-National Service polytechnic graduates was $3,137 in 2025."
+    },
+    {
+      "id": "sg-poly-2025-secured",
+      "region": "Singapore",
+      "group": "poly-diploma-post-ns",
+      "cohort": "2025",
+      "metric": "secured-employment-rate",
+      "value": 93.1,
+      "unit": "%",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25",
+      "verbatimQuote": "Secured Employment 78.6% 78.9% 88.9% 93.1%"
+    },
+    {
+      "id": "sg-poly-2025-ftp",
+      "region": "Singapore",
+      "group": "poly-diploma-post-ns",
+      "cohort": "2025",
+      "metric": "full-time-permanent-rate",
+      "value": 66.2,
+      "unit": "%",
+      "windowMonths": 6,
+      "source": "swda-pei-2024-25",
+      "verbatimQuote": "In Full-Time Permanent (FTP) Employment 46.4% 46.9% 74.4% 66.2%"
+    },
+    {
+      "id": "sg-pei-2023-24-salary",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2023/2024",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 3500,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2023-24",
+      "verbatimQuote": "Median Gross Monthly Salary (Full-Time Permanent Employment) $3,400 $3,500 $4,500 $3,000"
+    },
+    {
+      "id": "sg-pei-2023-24-employed",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2023/2024",
+      "metric": "currently-employed-rate",
+      "value": 74.8,
+      "unit": "%",
+      "windowMonths": 6,
+      "source": "swda-pei-2023-24",
+      "verbatimQuote": "Employed 83.2% 74.8% 87.1% 91.4%",
+      "notes": "Reported as 'Employed' in the 2023/2024 release; the 2024/2025 release re-states 2023/2024 as 78.6% 'Secured Employment' and 74.8% 'Currently Employed'."
+    },
+    {
+      "id": "sg-au-2024-salary",
+      "region": "Singapore",
+      "group": "au-degree",
+      "cohort": "2024",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 4500,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2023-24",
+      "verbatimQuote": "Median Gross Monthly Salary (Full-Time Permanent Employment) $3,400 $3,500 $4,500 $3,000"
+    },
+    {
+      "id": "sg-au-2024-ftp",
+      "region": "Singapore",
+      "group": "au-degree",
+      "cohort": "2024",
+      "metric": "full-time-permanent-rate",
+      "value": 79.5,
+      "unit": "%",
+      "windowMonths": 6,
+      "source": "swda-pei-2023-24",
+      "verbatimQuote": "In Full-Time Permanent Employment 58.7% 46.4% 79.5% 65.2%",
+      "notes": "A media summary of JAUGES 2025 gives 79.4% for AU 2024 full-time permanent employment; the official SWDA table says 79.5%."
+    },
+    {
+      "id": "sg-poly-2024-salary",
+      "region": "Singapore",
+      "group": "poly-diploma-post-ns",
+      "cohort": "2024",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 3000,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2023-24",
+      "verbatimQuote": "Median Gross Monthly Salary (Full-Time Permanent Employment) $3,400 $3,500 $4,500 $3,000"
+    },
+    {
+      "id": "sg-pei-2022-23-salary",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2022/2023",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 3400,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2022-23",
+      "verbatimQuote": "Median Gross Monthly Salary (Full-Time Permanent Employment) $3,200 $3,400 $4,313 $2,963"
+    },
+    {
+      "id": "sg-pei-2021-22-salary",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2021/2022",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 3200,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2022-23",
+      "verbatimQuote": "Median Gross Monthly Salary (Full-Time Permanent Employment) $3,200 $3,400 $4,313 $2,963",
+      "notes": "No matching AU 2022 figure was found in the SWDA tables; this cohort is not paired in the chart."
+    },
+    {
+      "id": "sg-au-2023-salary",
+      "region": "Singapore",
+      "group": "au-degree",
+      "cohort": "2023",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 4313,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2022-23",
+      "verbatimQuote": "Median Gross Monthly Salary (Full-Time Permanent Employment) $3,200 $3,400 $4,313 $2,963"
+    },
+    {
+      "id": "sg-poly-2023-salary",
+      "region": "Singapore",
+      "group": "poly-diploma-post-ns",
+      "cohort": "2023",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 2963,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2022-23",
+      "verbatimQuote": "Median Gross Monthly Salary (Full-Time Permanent Employment) $3,200 $3,400 $4,313 $2,963"
+    },
+    {
+      "id": "sg-pei-2020-21-salary",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2020/2021",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 2989,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2020-21-news",
+      "verbatimQuote": "the median gross monthly salary of PEI fresh graduates in full-time permanent employment was $2,989, compared to $3,800 for AU fresh graduates and $2,614 for post-National Service polytechnic graduates."
+    },
+    {
+      "id": "sg-au-2021-salary",
+      "region": "Singapore",
+      "group": "au-degree",
+      "cohort": "2021",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 3800,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2020-21-news",
+      "verbatimQuote": "the median gross monthly salary of PEI fresh graduates in full-time permanent employment was $2,989, compared to $3,800 for AU fresh graduates and $2,614 for post-National Service polytechnic graduates."
+    },
+    {
+      "id": "sg-poly-2021-salary",
+      "region": "Singapore",
+      "group": "poly-diploma-post-ns",
+      "cohort": "2021",
+      "metric": "median-gross-monthly-salary-ftp",
+      "value": 2614,
+      "unit": "SGD/month",
+      "windowMonths": 6,
+      "source": "swda-pei-2020-21-news",
+      "verbatimQuote": "the median gross monthly salary of PEI fresh graduates in full-time permanent employment was $2,989, compared to $3,800 for AU fresh graduates and $2,614 for post-National Service polytechnic graduates."
+    },
+    {
+      "id": "sg-pei-diploma",
+      "region": "Singapore",
+      "group": "pei-diploma",
+      "cohort": null,
+      "metric": null,
+      "value": null,
+      "unit": null,
+      "source": "swda-pei-2024-25",
+      "verbatimQuote": "Skills & Workforce Development Agency (SWDA) conducts the annual Private Education Institution (PEI) Graduate Employment Survey (GES) to survey employment outcomes of fresh graduates from full-time Bachelor's level External Degree Programmes (EDPs) offered by PEIs in Singapore.",
+      "notes": "No official data for private diploma graduates. Shown on the page as 'No official data published'."
+    },
+    {
+      "id": "sg-pei-cluster-2024-25",
+      "region": "Singapore",
+      "group": "pei-degree",
+      "cohort": "2024/2025",
+      "metric": "median-gross-monthly-salary-ftp-by-cluster",
+      "unit": "SGD/month",
+      "source": "swda-pei-2024-25",
+      "values": {
+        "Arts, Design & Media": 3100,
+        "Business": 3500,
+        "Engineering": 3900,
+        "Health Sciences": 3935,
+        "Humanities & Social Sciences": 3500,
+        "Information & Digital Technologies": 3900
+      },
+      "verbatimQuote": "Business 81.8% 82.8% 77.6% 79.1% 50.1% 48.1% $3,483 $3,500 Engineering 70.2% 74.2% 68.1% 71.9% 55.3% 49.4% $3,500^ $3,900 Health Sciences^ 94.4% 94.1% 77.8% 94.1% 66.7% 76.5% $4,000 $3,935 Humanities & Social Sciences 79.4% 81.6% 76.5% 78.5% 39.8% 44.1% $3,500 $3,500 Information & Digital Technologies 70.0% 67.7% 66.4% 65.8% 43.4% 45.2% $4,080 $3,900",
+      "notes": "^ marks small samples in the source. Arts, Design & Media $3,100 is marked ^."
+    },
+    {
+      "id": "sg-au-cluster-2025",
+      "region": "Singapore",
+      "group": "au-degree",
+      "cohort": "2025",
+      "metric": "median-gross-monthly-salary-ftp-by-cluster",
+      "unit": "SGD/month",
+      "source": "moe-jauges-2025",
+      "values": {
+        "Arts, Design & Media": 3840,
+        "Business": 4400,
+        "Engineering": 4600,
+        "Health Sciences": 4050,
+        "Humanities & Social Sciences": 4350,
+        "Information & Digital Technologies": 5500,
+        "Sciences": 4200,
+        "Built Environment": 4268
+      },
+      "verbatimQuote": "Business 95.7% 93.7% 91.2% 93.0% 90.7% 87.0% 87.6% 83.8% 77.8% $4,000 $4,350 $4,400 ... Information & Digital Technologies 93.1% 90.8% 88.4% 89.7% 86.5% 84.2% 87.6% 82.7% 78.3% $5,500 $5,500 $5,500"
+    },
+    {
+      "id": "sg-kaplan-2024-25",
+      "region": "Singapore",
+      "group": "pei-institution",
+      "institution": "Kaplan Higher Education Academy",
+      "cohort": "2024/2025",
+      "metric": "institution-outcomes",
+      "source": "swda-pei-2024-25",
+      "values": {
+        "securedEmployment": 77.3,
+        "currentlyEmployed": 73.5,
+        "fullTimePermanent": 43.2,
+        "medianSalary": 3400,
+        "responseRate": 64.9,
+        "respondentsInLabourForce": 264
+      },
+      "verbatimQuote": "3 KAPLAN HIGHER EDUCATION ACADEMY 77.3% 73.5% 43.2% $3,400 64.9% 264",
+      "showOnPage": true,
+      "notes": "Institution-level row for Kaplan Higher Education Academy (Kaplan Singapore). Shown on the homepage as the headline employment figure (owner decision, 2026-10-18)."
+    },
+    {
+      "id": "sg-kaplan-2023-24",
+      "region": "Singapore",
+      "group": "pei-institution",
+      "institution": "Kaplan Higher Education Academy",
+      "cohort": "2023/2024",
+      "metric": "institution-outcomes",
+      "source": "swda-pei-2023-24",
+      "values": {
+        "employed": 67.9,
+        "fullTimePermanent": 41.1,
+        "medianSalary": 3000,
+        "responseRate": 39.6,
+        "respondentsInLabourForce": 287
+      },
+      "verbatimQuote": "5 KAPLAN HIGHER EDUCATION ACADEMY 67.9% 41.1% $3,000 39.6% 287",
+      "showOnPage": true,
+      "notes": "Institution-level row for Kaplan Higher Education Academy (Kaplan Singapore). Shown on the homepage as the headline employment figure (owner decision, 2026-10-18)."
+    },
+    {
+      "id": "sg-kaplan-2022-23",
+      "region": "Singapore",
+      "group": "pei-institution",
+      "institution": "Kaplan Higher Education Academy",
+      "cohort": "2022/2023",
+      "metric": "institution-outcomes",
+      "source": "swda-pei-2022-23",
+      "values": {
+        "employed": 81,
+        "fullTimePermanent": 52.8,
+        "medianSalary": 3000,
+        "responseRate": 41.5,
+        "respondentsInLabourForce": 326
+      },
+      "verbatimQuote": "4 KAPLAN HIGHER EDUCATION ACADEMY 81.0% 52.8% $3,000 41.5% 326",
+      "showOnPage": true,
+      "notes": "Institution-level row for Kaplan Higher Education Academy (Kaplan Singapore). Shown on the homepage as the headline employment figure (owner decision, 2026-10-18)."
+    },
+    {
+      "id": "ie-hdeg-2024-employed",
+      "region": "Ireland",
+      "group": "undergraduate-honours",
+      "cohort": "Class of 2024",
+      "metric": "employed-rate",
+      "value": 74.9,
+      "unit": "%",
+      "windowMonths": 9,
+      "source": "hea-go-2024",
+      "verbatimQuote": "Just under three-quarters of 2024 graduates are employed nine months after graduation (74.9%), down slightly from 75.7% (Class of 2023) and 77.1% (Class of 2022).",
+      "notes": "17.0% of this group were in further study, which lowers the employed share."
+    },
+    {
+      "id": "ie-pgt-2024-employed",
+      "region": "Ireland",
+      "group": "postgraduate-taught",
+      "cohort": "Class of 2024",
+      "metric": "employed-rate",
+      "value": 86.6,
+      "unit": "%",
+      "windowMonths": 9,
+      "source": "hea-go-2024",
+      "verbatimQuote": "86.6% of 2024 Postgraduate Taught Graduates were in employment nine months after graduation, up from 84.6% (2023 Graduates) but down from 89.3% (Class of 2022)."
+    },
+    {
+      "id": "ie-intl-2024-employed",
+      "region": "Ireland",
+      "group": "international-all-levels",
+      "cohort": "Class of 2024",
+      "metric": "employed-rate",
+      "value": 76.6,
+      "unit": "%",
+      "windowMonths": 9,
+      "source": "hea-go-2024",
+      "verbatimQuote": "In 2024, 76.6% of Internationally Domiciled graduates were in employment nine months after graduation, up slightly from 74.6% in 2023."
+    },
+    {
+      "id": "ie-pgt-2024-salary-band",
+      "region": "Ireland",
+      "group": "postgraduate-taught",
+      "cohort": "Class of 2024",
+      "metric": "share-earning-over-40k-eur",
+      "value": 62.4,
+      "unit": "%",
+      "windowMonths": 9,
+      "source": "hea-go-2024",
+      "verbatimQuote": "62.4% of Postgraduate Taught who were willing to declare their salary earn more than €40,000 per annum.",
+      "notes": "HEA publishes salary bands, not medians. Undergraduate honours: 31.5% earn more than €40,000."
+    },
+    {
+      "id": "au-ug-2025-ft-employment",
+      "region": "Australia",
+      "group": "undergraduate-domestic",
+      "cohort": "2025",
+      "metric": "full-time-employment-rate",
+      "value": 75.4,
+      "unit": "%",
+      "windowMonths": 5,
+      "source": "qilt-gos-2025",
+      "verbatimQuote": "Figure ii / Full-time employment rate, 2016-25 ... 74.0% 75.4%",
+      "notes": "Domestic graduates only; surveyed 4 to 6 months after completion. QILT warns 2025 rates carry upward pressure of about 3.5-4.5 points for undergraduates from a methodology change."
+    },
+    {
+      "id": "au-ug-2025-salary",
+      "region": "Australia",
+      "group": "undergraduate-domestic",
+      "cohort": "2025",
+      "metric": "median-annual-salary-ft",
+      "value": 77000,
+      "unit": "AUD/year",
+      "windowMonths": 5,
+      "source": "qilt-gos-2025",
+      "verbatimQuote": "In 2025, the median salary for undergraduates was $77,000, compared to $104,700 for postgraduate coursework graduates and $109,100 for postgraduate research graduates."
+    },
+    {
+      "id": "au-pgc-2025-salary",
+      "region": "Australia",
+      "group": "postgraduate-coursework-domestic",
+      "cohort": "2025",
+      "metric": "median-annual-salary-ft",
+      "value": 104700,
+      "unit": "AUD/year",
+      "windowMonths": 5,
+      "source": "qilt-gos-2025",
+      "verbatimQuote": "In 2025, the median salary for undergraduates was $77,000, compared to $104,700 for postgraduate coursework graduates and $109,100 for postgraduate research graduates.",
+      "notes": "Postgraduate coursework graduates are older on average and more often already in work, which the report says partly explains the gap."
+    },
+    {
+      "id": "uk-fd-2023-24-salary",
+      "region": "United Kingdom",
+      "group": "first-degree",
+      "cohort": "2023/24",
+      "metric": "median-annual-salary-ft",
+      "value": 30000,
+      "unit": "GBP/year",
+      "windowMonths": 15,
+      "source": "the-hesa-2023-24",
+      "verbatimQuote": "The Higher Education Statistics Agency (Hesa) graduate outcomes data released on 4 June show an increase in the overall median salary.",
+      "verification": "secondary-only",
+      "showOnPage": false,
+      "notes": "Value from media coverage of HESA SB275; the HESA page could not be fetched automatically. Not shown until checked against hesa-sb275."
+    }
+  ]
+}

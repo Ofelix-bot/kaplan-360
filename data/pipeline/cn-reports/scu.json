@@ -1,0 +1,428 @@
+{
+  "id": "scu",
+  "status": "read",
+  "university": "四川大学",
+  "universityEn": "Sichuan University",
+  "tier": "985",
+  "url": "https://jy.scu.edu.cn/data/mcit_editor/20220517/%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A62021%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E8%B4%A8%E9%87%8F%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf",
+  "title": null,
+  "year": 2021,
+  "cohort": "2021届",
+  "pages": 51,
+  "abroad": [],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 25.15,
+      "quote": "英国（25.15%）"
+    },
+    {
+      "region": "美国",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 20.76,
+      "quote": "美国（20.76%）"
+    },
+    {
+      "region": "中国香港",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 15.44,
+      "quote": "中国香港（15.44%）"
+    },
+    {
+      "region": "日本",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 10.74,
+      "quote": "日本（10.74%）"
+    },
+    {
+      "region": "新加坡",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 8.69,
+      "quote": "新加坡（8.69%）"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 4.09,
+      "quote": "澳大利亚（4.09%）"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "QS 世界大学排名前50",
+      "cohort": "2021届",
+      "count": 462,
+      "pct": 47.24,
+      "quote": "赴 QS 世界大学排名前 50 名高校的毕业生 462 人，占比 47.24%"
+    },
+    {
+      "band": "QS 世界大学排名前50（本科生）",
+      "cohort": "2021届",
+      "count": 450,
+      "pct": 49.72,
+      "quote": "其中本科毕业生 450 人，占本科出国（境）留学深造总人数的 49.72%"
+    },
+    {
+      "band": "QS 世界大学排名前100",
+      "cohort": "2021届",
+      "count": 664,
+      "pct": 67.89,
+      "quote": "赴 QS 世界大学排名前 100 名高校的毕业生 664 人，占比 67.89%"
+    },
+    {
+      "band": "QS 世界大学排名前100（本科生）",
+      "cohort": "2021届",
+      "count": 637,
+      "pct": 70.39,
+      "quote": "其中本科毕业生 637 人，占本科出国（境）留学深造总人数的 70.39%"
+    }
+  ],
+  "destinations": [
+    {
+      "nameZh": "麻省理工学院",
+      "nameEn": "Massachusetts Institute of Technology",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "1 麻省理工学院 1",
+      "institutionId": "massachusetts-institute-of-technology"
+    },
+    {
+      "nameZh": "牛津大学",
+      "nameEn": "University of Oxford",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "2 牛津大学 2",
+      "institutionId": "university-of-oxford"
+    },
+    {
+      "nameZh": "剑桥大学",
+      "nameEn": "University of Cambridge",
+      "count": 3,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "3 剑桥大学 3",
+      "institutionId": "university-of-cambridge"
+    },
+    {
+      "nameZh": "斯坦福大学",
+      "nameEn": "Stanford University",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "3 斯坦福大学 2",
+      "institutionId": "stanford-university"
+    },
+    {
+      "nameZh": "哈佛大学",
+      "nameEn": "Harvard University",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "5 哈佛大学 2",
+      "institutionId": "harvard-university"
+    },
+    {
+      "nameZh": "帝国理工学院",
+      "nameEn": "Imperial College London",
+      "count": 13,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "7 帝国理工学院 13",
+      "institutionId": "imperial-college-london"
+    },
+    {
+      "nameZh": "伦敦大学学院",
+      "nameEn": "University College London",
+      "count": 29,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "8 伦敦大学学院 29",
+      "institutionId": "ucl"
+    },
+    {
+      "nameZh": "芝加哥大学",
+      "nameEn": "University of Chicago",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "10 芝加哥大学 1",
+      "institutionId": "university-of-chicago"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": 44,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "11 新加坡国立大学 44",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "南洋理工大学",
+      "nameEn": "Nanyang Technological University",
+      "count": 33,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "12 南洋理工大学 33",
+      "institutionId": "nanyang-technological-university-singapore"
+    },
+    {
+      "nameZh": "宾夕法尼亚大学",
+      "nameEn": "University of Pennsylvania",
+      "count": 12,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "13 宾夕法尼亚大学 12",
+      "institutionId": "university-of-pennsylvania"
+    },
+    {
+      "nameZh": "爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": 22,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "16 爱丁堡大学 22",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "哥伦比亚大学",
+      "nameEn": "Columbia University",
+      "count": 14,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "19 哥伦比亚大学 14",
+      "institutionId": "columbia-university"
+    },
+    {
+      "nameZh": "康奈尔大学",
+      "nameEn": "Cornell University",
+      "count": 8,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "21 康奈尔大学 8",
+      "institutionId": "cornell-university"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "University of Hong Kong",
+      "count": 31,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "22 香港大学 31",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "东京大学",
+      "nameEn": "University of Tokyo",
+      "count": 13,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "23 东京大学 13",
+      "institutionId": "university-of-tokyo"
+    },
+    {
+      "nameZh": "密歇根大学安娜堡分校",
+      "nameEn": "University of Michigan–Ann Arbor",
+      "count": 12,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "23 密歇根大学安娜堡分校 12",
+      "institutionId": "university-of-michigan-ann-arbor"
+    },
+    {
+      "nameZh": "约翰霍普金斯大学",
+      "nameEn": "Johns Hopkins University",
+      "count": 9,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "25 约翰霍普金斯大学 9",
+      "institutionId": "johns-hopkins-university"
+    },
+    {
+      "nameZh": "多伦多大学",
+      "nameEn": "University of Toronto",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "26 多伦多大学 1",
+      "institutionId": "university-of-toronto"
+    },
+    {
+      "nameZh": "麦吉尔大学",
+      "nameEn": "McGill University",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "27 麦吉尔大学 1",
+      "institutionId": "mcgill-university"
+    },
+    {
+      "nameZh": "曼彻斯特大学",
+      "nameEn": "University of Manchester",
+      "count": 24,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "27 曼彻斯特大学 24",
+      "institutionId": "university-of-manchester"
+    },
+    {
+      "nameZh": "西北大学",
+      "nameEn": "Northwestern University",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "30 西北大学 1",
+      "institutionId": "northwestern-university"
+    },
+    {
+      "nameZh": "加州大学伯克利分校",
+      "nameEn": "University of California, Berkeley",
+      "count": 6,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "32 加州大学伯克利分校 6",
+      "institutionId": "university-of-california-berkeley"
+    },
+    {
+      "nameZh": "京都大学",
+      "nameEn": "Kyoto University",
+      "count": 7,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "33 京都大学 7",
+      "institutionId": "kyoto-university"
+    },
+    {
+      "nameZh": "香港科技大学",
+      "nameEn": "Hong Kong University of Science and Technology",
+      "count": 35,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "34 香港科技大学 35",
+      "institutionId": "hong-kong-university-of-science-and-technology"
+    },
+    {
+      "nameZh": "伦敦大学国王学院",
+      "nameEn": "King's College London",
+      "count": 22,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "35 伦敦大学国王学院 22",
+      "institutionId": "king-s-college-london"
+    },
+    {
+      "nameZh": "墨尔本大学",
+      "nameEn": "University of Melbourne",
+      "count": 5,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "37 墨尔本大学 5",
+      "institutionId": "university-of-melbourne"
+    },
+    {
+      "nameZh": "悉尼大学",
+      "nameEn": "University of Sydney",
+      "count": 17,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "38 悉尼大学 17",
+      "institutionId": "university-of-sydney"
+    },
+    {
+      "nameZh": "香港中文大学",
+      "nameEn": "Chinese University of Hong Kong",
+      "count": 47,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "39 香港中文大学 47",
+      "institutionId": "chinese-university-of-hong-kong"
+    },
+    {
+      "nameZh": "加州大学洛杉矶分校",
+      "nameEn": "University of California, Los Angeles",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "40 加州大学洛杉矶分校 2",
+      "institutionId": "university-of-california-los-angeles"
+    },
+    {
+      "nameZh": "纽约大学",
+      "nameEn": "New York University",
+      "count": 11,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "42 纽约大学 11",
+      "institutionId": "new-york-university"
+    },
+    {
+      "nameZh": "新南威尔士大学",
+      "nameEn": "University of New South Wales",
+      "count": 7,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "43 新南威尔士大学 7",
+      "institutionId": "university-of-new-south-wales"
+    },
+    {
+      "nameZh": "英属哥伦比亚大学",
+      "nameEn": "University of British Columbia",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "46 英属哥伦比亚大学 1",
+      "institutionId": "university-of-british-columbia"
+    },
+    {
+      "nameZh": "昆士兰大学",
+      "nameEn": "University of Queensland",
+      "count": 6,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "47 昆士兰大学 6",
+      "institutionId": "university-of-queensland"
+    },
+    {
+      "nameZh": "加州大学圣地亚哥分校",
+      "nameEn": "University of California, San Diego",
+      "count": 4,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "48 加州大学圣地亚哥分校 4",
+      "institutionId": "university-of-california-san-diego"
+    },
+    {
+      "nameZh": "伦敦政治经济学院",
+      "nameEn": "London School of Economics and Political Science",
+      "count": 5,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "49 伦敦政治经济学院 5",
+      "institutionId": "london-school-of-economics-and-political-science"
+    },
+    {
+      "nameZh": "慕尼黑工业大学",
+      "nameEn": "Technical University of Munich",
+      "count": 9,
+      "group": "全体",
+      "list": "表 1- 13 2021 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "50 慕尼黑工业大学 9",
+      "institutionId": "technical-university-of-munich"
+    }
+  ],
+  "dropped": [
+    "abroad 全体",
+    "abroad 本科生",
+    "abroad 硕士生"
+  ],
+  "checked": "2026-10-21"
+}

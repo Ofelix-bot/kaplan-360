@@ -1,0 +1,4 @@
+# university-of-florida@1 https://www.ufl.edu
+robots sitemaps: https://www.ufl.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.ufl.edu/sitemap_index.xml: 1 children (1 course-like)
+sitemaps read 2 · urls 22 · master's-looking 0

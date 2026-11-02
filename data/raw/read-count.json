@@ -1,0 +1,18 @@
+{
+  "note": "Every read behind Kaplan 360++, counted from the records on disk: each page fetch and each API call counts, a page read twice counts twice; a read two records both report counts once. A floor: the pipeline's fetch log keeps only the latest fetch of a URL. Not counted: failed fetches, robots.txt, page assets, our own site, web searches, visitors' AI requests.",
+  "builtAt": "2026-11-02",
+  "first": "2026-10-18",
+  "latest": "2026-11-02",
+  "pages": {
+    "pipeline": 28832,
+    "sitemaps": 500,
+    "other": 4351,
+    "total": 33683
+  },
+  "api": {
+    "claude": 45900,
+    "openData": 904,
+    "total": 46804
+  },
+  "total": 80487
+}

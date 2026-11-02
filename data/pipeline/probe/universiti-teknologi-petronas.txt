@@ -1,0 +1,50 @@
+# universiti-teknologi-petronas https://www.utp.edu.my
+robots sitemaps: https://www.utp.edu.my/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.utp.edu.my/sitemap_index.xml: 8 children (2 course-like)
+sitemaps read 9 · urls 229 · master's-looking 84
+   46  www.utp.edu.my/study/postgraduate/programme
+         https://www.utp.edu.my/study/postgraduate/programme/msc-by-research-chemical-engineering/
+         https://www.utp.edu.my/study/postgraduate/programme/msc-in-industrial-environmental-engineering/
+         https://www.utp.edu.my/study/postgraduate/programme/msc-in-drilling-engineering/
+         https://www.utp.edu.my/study/postgraduate/programme/msc-in-asset-management-maintenance/
+   14  www.utp.edu.my/study/undergraduate/programme
+         https://www.utp.edu.my/study/undergraduate/programme/bachelor-of-science-hons-in-applied-chemistry/
+         https://www.utp.edu.my/study/undergraduate/programme/bachelor-in-business-management-hons/
+         https://www.utp.edu.my/study/undergraduate/programme/bachelor-of-computer-science-hons/
+         https://www.utp.edu.my/study/undergraduate/programme/bachelor-of-civil-engineering-with-honours/
+    4  www.utp.edu.my/admissions/postgraduate/local
+         https://www.utp.edu.my/admissions/postgraduate/local/faq/
+         https://www.utp.edu.my/admissions/postgraduate/local/entry-requirements/
+         https://www.utp.edu.my/admissions/postgraduate/local/fee/
+         https://www.utp.edu.my/admissions/postgraduate/local/how-to-apply/
+    4  www.utp.edu.my/admissions/undergraduate/local
+         https://www.utp.edu.my/admissions/undergraduate/local/entry-requirement/
+         https://www.utp.edu.my/admissions/undergraduate/local/faq/
+         https://www.utp.edu.my/admissions/undergraduate/local/how-to-apply/
+         https://www.utp.edu.my/admissions/undergraduate/local/fees/
+    3  www.utp.edu.my/admissions/postgraduate/international
+         https://www.utp.edu.my/admissions/postgraduate/international/entry-requirements/
+         https://www.utp.edu.my/admissions/postgraduate/international/fee/
+         https://www.utp.edu.my/admissions/postgraduate/international/how-to-apply/
+    3  www.utp.edu.my/admissions/undergraduate/international
+         https://www.utp.edu.my/admissions/undergraduate/international/how-to-apply/
+         https://www.utp.edu.my/admissions/undergraduate/international/entry-requirements/
+         https://www.utp.edu.my/admissions/undergraduate/international/fee/
+    2  www.utp.edu.my/admissions
+         https://www.utp.edu.my/admissions/undergraduate/
+         https://www.utp.edu.my/admissions/postgraduate/
+    2  www.utp.edu.my/study
+         https://www.utp.edu.my/study/undergraduate/
+         https://www.utp.edu.my/study/postgraduate/
+    1  www.utp.edu.my/master-template-2-vendor
+         https://www.utp.edu.my/master-template-2-vendor/
+    1  www.utp.edu.my/master-template-1
+         https://www.utp.edu.my/master-template-1/
+    1  www.utp.edu.my/master-template-1-vendor
+         https://www.utp.edu.my/master-template-1-vendor/
+    1  www.utp.edu.my/master-template-1-vendor-2
+         https://www.utp.edu.my/master-template-1-vendor-2/
+    1  www.utp.edu.my/study/undergraduate/department-of-chemical-engineering
+         https://www.utp.edu.my/study/undergraduate/department-of-chemical-engineering/people-facilities/
+    1  www.utp.edu.my/master-template-2
+         https://www.utp.edu.my/master-template-2/

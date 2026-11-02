@@ -1,0 +1,1521 @@
+{
+ "dataset": "Kaplan Singapore programmes (diplomas and partner bachelor's degrees)",
+ "builtAt": "2026-10-18",
+ "sources": {
+  "kaplan-website": {
+   "name": "kaplan.com.sg programme listings and partner pages",
+   "url": "https://www.kaplan.com.sg/academic-levels/diplomas-courses",
+   "checkedAt": "2026-10-18"
+  },
+  "kaplan-ded-2026-03-09-cn": {
+   "name": "Kaplan Degree Enrolment Day deck (Chinese), 9 March 2026",
+   "file": "data/raw/kaplan-degree-enrolment-day-2026-03.json"
+  }
+ },
+ "notes": [
+  "Murdoch also offers many double-major combinations (Kaplan: \"over 200 degree options\"). They are not listed one by one: a student picks two single majors. Families and direct-entry pathways are in the deck file (murdochDoubleMajors, murdochDirectEntry).",
+  "studentPass: true = open to international students on a Student's Pass (deck p.15 lists Murdoch, UCD, Northumbria and Portsmouth). false = not listed for Student's Pass holders in the deck. Diplomas: not stated per programme.",
+  "awardingBodyVerified: false = the diploma page names no awarding body; assumed Kaplan Higher Education Academy.",
+  "The official 2026 programme and module list PDF linked from /programme-directory returned 404 on 2026-10-18, so the counts could not be checked against it.",
+  "Four Foundation Diplomas (pre-diploma) are not included."
+ ],
+ "disciplines": {
+  "business": "Business & management",
+  "it": "IT & computing",
+  "accounting-finance": "Accounting & finance",
+  "psychology-counselling": "Psychology & counselling",
+  "marketing": "Marketing",
+  "communication": "Communication & media",
+  "ai-data": "AI & data",
+  "law-criminology": "Law & criminology",
+  "hospitality-tourism": "Hospitality & tourism",
+  "education": "Education",
+  "healthcare-nursing": "Healthcare & nursing",
+  "construction": "Construction & built environment",
+  "sports-science": "Sports science"
+ },
+ "counts": {
+  "total": 94,
+  "byLevel": {
+   "advanced-diploma": 1,
+   "bachelor-advanced-standing": 22,
+   "bachelor-direct-honours": 4,
+   "diploma": 37,
+   "top-up": 30
+  },
+  "byDiscipline": {
+   "accounting-finance": 12,
+   "ai-data": 5,
+   "business": 24,
+   "communication": 6,
+   "construction": 1,
+   "education": 2,
+   "healthcare-nursing": 2,
+   "hospitality-tourism": 4,
+   "it": 14,
+   "law-criminology": 5,
+   "marketing": 8,
+   "psychology-counselling": 10,
+   "sports-science": 1
+  }
+ },
+ "programmes": [
+  {
+   "id": "kaplan-diploma-in-accounting-and-finance",
+   "name": "Diploma in Accounting and Finance (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "accounting-finance",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-accounting-and-finance",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-accounting-and-finance-e-learning",
+   "name": "Diploma in Accounting and Finance (E-Learning)",
+   "level": "diploma",
+   "discipline": "accounting-finance",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-accounting-and-finance-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-finance-and-banking",
+   "name": "Diploma in Finance and Banking (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "accounting-finance",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-finance-and-banking",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-finance-and-banking-e-learning",
+   "name": "Diploma in Finance and Banking (E-Learning)",
+   "level": "diploma",
+   "discipline": "accounting-finance",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-finance-and-banking-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-finance-and-business-analytics",
+   "name": "Diploma in Finance and Business Analytics (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "accounting-finance",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-finance-and-business-analytics",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-fintech",
+   "name": "Diploma in Fintech",
+   "level": "diploma",
+   "discipline": "accounting-finance",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-fintech",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-artificial-intelligence-and-data-science",
+   "name": "Diploma in Artificial Intelligence and Data Science (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "ai-data",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-artificial-intelligence-and-data-science",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-advanced-diploma-in-management",
+   "name": "Advanced Diploma in Management",
+   "level": "advanced-diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": true,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/advanced-diploma-in-management",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-business-analytics",
+   "name": "Diploma in Business Analytics",
+   "level": "diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-business-analytics",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-business-management",
+   "name": "Diploma in Business Management",
+   "level": "diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": true,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-business-management",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-business-management-e-learning",
+   "name": "Diploma in Business Management (E-Learning)",
+   "level": "diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-business-management-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-business-management-general-studies",
+   "name": "Diploma in Business Management (General Studies)",
+   "level": "diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-business-management-general-studies",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-business-management-general-studies-e-learning",
+   "name": "Diploma in Business Management (General Studies) (E-Learning)",
+   "level": "diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-business-management-general-studies-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-digital-marketing",
+   "name": "Diploma in Digital Marketing",
+   "level": "diploma",
+   "discipline": "marketing",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-digital-marketing",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-digital-marketing-and-analytics",
+   "name": "Diploma in Digital Marketing and Analytics (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "marketing",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-digital-marketing-and-analytics",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-human-resources-and-management",
+   "name": "Diploma in Human Resources and Management (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-human-resources-and-management",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-human-resources-and-management-e-learning",
+   "name": "Diploma in Human Resources and Management (E-Learning)",
+   "level": "diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-human-resources-and-management-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-logistics-and-supply-chain-management",
+   "name": "Diploma in Logistics and Supply Chain Management (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-logistics-and-supply-chain-management",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-logistics-and-supply-chain-management-e-learning",
+   "name": "Diploma in Logistics and Supply Chain Management (E-Learning)",
+   "level": "diploma",
+   "discipline": "business",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-logistics-and-supply-chain-management-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-marketing-and-management",
+   "name": "Diploma in Marketing and Management (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "marketing",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-marketing-and-management",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-marketing-and-management-e-learning",
+   "name": "Diploma in Marketing and Management (E-Learning)",
+   "level": "diploma",
+   "discipline": "marketing",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-marketing-and-management-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-mass-communication",
+   "name": "Diploma in Mass Communication",
+   "level": "diploma",
+   "discipline": "communication",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-mass-communication",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-media-communication-and-digital-marketing",
+   "name": "Diploma in Media Communication and Digital Marketing (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "communication",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-media-communication-and-digital-marketing",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-counselling",
+   "name": "Diploma in Counselling",
+   "level": "diploma",
+   "discipline": "psychology-counselling",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-counselling",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-counselling-and-social-services",
+   "name": "Diploma in Counselling and Social Services (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "psychology-counselling",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-counselling-and-social-services",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-psychology",
+   "name": "Diploma in Psychology",
+   "level": "diploma",
+   "discipline": "psychology-counselling",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-psychology",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-psychology-and-counselling",
+   "name": "Diploma in Psychology and Counselling (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "psychology-counselling",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-psychology-and-counselling",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-psychology-and-criminology",
+   "name": "Diploma in Psychology and Criminology (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "psychology-counselling",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-psychology-and-criminology",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-psychology-e-learning",
+   "name": "Diploma in Psychology (E-Learning)",
+   "level": "diploma",
+   "discipline": "psychology-counselling",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-psychology-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-health-services-and-management",
+   "name": "Diploma in Health Services and Management (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "healthcare-nursing",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-health-services-and-management",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-hospitality-and-tourism-management",
+   "name": "Diploma in Hospitality and Tourism Management (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "hospitality-tourism",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-hospitality-and-tourism-management",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-hospitality-and-tourism-management-e-learning",
+   "name": "Diploma in Hospitality and Tourism Management (E-Learning)",
+   "level": "diploma",
+   "discipline": "hospitality-tourism",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-hospitality-and-tourism-management-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-cyber-forensics-and-computer-science",
+   "name": "Diploma in Cyber Forensics and Computer Science (Double Specialisation)",
+   "level": "diploma",
+   "discipline": "it",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-cyber-forensics-and-computer-science",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-information-technology",
+   "name": "Diploma in Information Technology",
+   "level": "diploma",
+   "discipline": "it",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-information-technology",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-information-technology-e-learning",
+   "name": "Diploma in Information Technology (E-Learning)",
+   "level": "diploma",
+   "discipline": "it",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": "e-learning",
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-information-technology-e-learning",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-criminology",
+   "name": "Diploma in Criminology",
+   "level": "diploma",
+   "discipline": "law-criminology",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-criminology",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-legal-studies",
+   "name": "Diploma in Legal Studies",
+   "level": "diploma",
+   "discipline": "law-criminology",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-legal-studies",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "kaplan-diploma-in-sports-and-exercise-sports",
+   "name": "Diploma in Sports & Exercise Science",
+   "level": "diploma",
+   "discipline": "sports-science",
+   "awardingBody": "Kaplan Higher Education Academy",
+   "awardingBodyVerified": false,
+   "university": null,
+   "studentPass": null,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/diploma/diploma-in-sports-and-exercise-sports",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-accounting",
+   "name": "Bachelor of Business in Accounting",
+   "level": "bachelor-advanced-standing",
+   "discipline": "accounting-finance",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-banking",
+   "name": "Bachelor of Business in Banking",
+   "level": "bachelor-advanced-standing",
+   "discipline": "accounting-finance",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-finance",
+   "name": "Bachelor of Business in Finance",
+   "level": "bachelor-advanced-standing",
+   "discipline": "accounting-finance",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-business-law",
+   "name": "Bachelor of Business in Business Law",
+   "level": "bachelor-advanced-standing",
+   "discipline": "law-criminology",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-human-resources-management",
+   "name": "Bachelor of Business in Human Resources Management",
+   "level": "bachelor-advanced-standing",
+   "discipline": "business",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-international-business",
+   "name": "Bachelor of Business in International Business",
+   "level": "bachelor-advanced-standing",
+   "discipline": "business",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-management",
+   "name": "Bachelor of Business in Management",
+   "level": "bachelor-advanced-standing",
+   "discipline": "business",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-marketing",
+   "name": "Bachelor of Business in Marketing",
+   "level": "bachelor-advanced-standing",
+   "discipline": "marketing",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-hospitality-and-tourism-management",
+   "name": "Bachelor of Business in Hospitality and Tourism Management",
+   "level": "bachelor-advanced-standing",
+   "discipline": "hospitality-tourism",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-communication-in-communication-and-media-studies",
+   "name": "Bachelor of Communication in Communication and Media Studies",
+   "level": "bachelor-advanced-standing",
+   "discipline": "communication",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-communication-in-digital-communication",
+   "name": "Bachelor of Communication in Digital Communication",
+   "level": "bachelor-advanced-standing",
+   "discipline": "communication",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-communication-in-strategic-communication",
+   "name": "Bachelor of Communication in Strategic Communication",
+   "level": "bachelor-advanced-standing",
+   "discipline": "communication",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems",
+   "name": "Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems",
+   "level": "bachelor-advanced-standing",
+   "discipline": "it",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-business-information-systems",
+   "name": "Bachelor of Information Technology in Business Information Systems",
+   "level": "bachelor-advanced-standing",
+   "discipline": "it",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-computer-science",
+   "name": "Bachelor of Information Technology in Computer Science",
+   "level": "bachelor-advanced-standing",
+   "discipline": "it",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-cyber-security-and-forensics",
+   "name": "Bachelor of Information Technology in Cyber Security and Forensics",
+   "level": "bachelor-advanced-standing",
+   "discipline": "it",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-games-design-and-development",
+   "name": "Bachelor of Information Technology in Games Design and Development",
+   "level": "bachelor-advanced-standing",
+   "discipline": "it",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-data-analytics-in-business-intelligence",
+   "name": "Bachelor of Data Analytics in Business Intelligence",
+   "level": "bachelor-advanced-standing",
+   "discipline": "ai-data",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-data-analytics-in-data-science",
+   "name": "Bachelor of Data Analytics in Data Science",
+   "level": "bachelor-advanced-standing",
+   "discipline": "ai-data",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-data-analytics-in-fintech-minor-in-information-security-systems",
+   "name": "Bachelor of Data Analytics in FinTech (Minor in Information Security Systems)",
+   "level": "bachelor-advanced-standing",
+   "discipline": "ai-data",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-psychology-in-psychological-science",
+   "name": "Bachelor of Psychology in Psychological Science",
+   "level": "bachelor-advanced-standing",
+   "discipline": "psychology-counselling",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "murdoch-bachelor-of-criminology-in-criminal-behaviour",
+   "name": "Bachelor of Criminology in Criminal Behaviour",
+   "level": "bachelor-advanced-standing",
+   "discipline": "law-criminology",
+   "awardingBody": "Murdoch University",
+   "awardingBodyVerified": true,
+   "university": "Murdoch University",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/murdoch-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "northumbria-bsc-hons-global-business-management",
+   "name": "BSc (Hons) Global Business Management",
+   "level": "bachelor-direct-honours",
+   "discipline": "business",
+   "awardingBody": "Northumbria University at Newcastle",
+   "awardingBodyVerified": true,
+   "university": "Northumbria University at Newcastle",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/northumbria-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "northumbria-bsc-hons-global-business-management-logistics-and-supply-chain",
+   "name": "BSc (Hons) Global Business Management (Logistics and Supply Chain)",
+   "level": "bachelor-direct-honours",
+   "discipline": "business",
+   "awardingBody": "Northumbria University at Newcastle",
+   "awardingBodyVerified": true,
+   "university": "Northumbria University at Newcastle",
+   "studentPass": true,
+   "mode": null,
+   "offeredThisIntake": false,
+   "sourceUrl": "https://www.kaplan.com.sg/university/northumbria-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "northumbria-bsc-hons-global-business-management-human-resources",
+   "name": "BSc (Hons) Global Business Management (Human Resources)",
+   "level": "bachelor-direct-honours",
+   "discipline": "business",
+   "awardingBody": "Northumbria University at Newcastle",
+   "awardingBodyVerified": true,
+   "university": "Northumbria University at Newcastle",
+   "studentPass": true,
+   "mode": null,
+   "offeredThisIntake": false,
+   "sourceUrl": "https://www.kaplan.com.sg/university/northumbria-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "northumbria-bsc-hons-international-tourism-hospitality-and-events",
+   "name": "BSc (Hons) International Tourism, Hospitality and Events",
+   "level": "bachelor-direct-honours",
+   "discipline": "hospitality-tourism",
+   "awardingBody": "Northumbria University at Newcastle",
+   "awardingBodyVerified": true,
+   "university": "Northumbria University at Newcastle",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/northumbria-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "northumbria-ba-hons-mass-communication-with-public-relations-top-up",
+   "name": "BA (Hons) Mass Communication with Public Relations (Top-up)",
+   "level": "top-up",
+   "discipline": "communication",
+   "awardingBody": "Northumbria University at Newcastle",
+   "awardingBodyVerified": true,
+   "university": "Northumbria University at Newcastle",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/northumbria-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "northumbria-ba-hons-in-childhood-and-early-years-studies-top-up",
+   "name": "BA (Hons) in Childhood and Early Years Studies (Top-up)",
+   "level": "top-up",
+   "discipline": "education",
+   "awardingBody": "Northumbria University at Newcastle",
+   "awardingBodyVerified": true,
+   "university": "Northumbria University at Newcastle",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/northumbria-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "northumbria-ba-hons-in-guidance-and-counselling-top-up",
+   "name": "BA (Hons) in Guidance and Counselling (Top-up)",
+   "level": "top-up",
+   "discipline": "psychology-counselling",
+   "awardingBody": "Northumbria University at Newcastle",
+   "awardingBodyVerified": true,
+   "university": "Northumbria University at Newcastle",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/northumbria-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "northumbria-bsc-hons-in-psychology-clinical-psychology-top-up",
+   "name": "BSc (Hons) in Psychology (Clinical Psychology) (Top-up)",
+   "level": "top-up",
+   "discipline": "psychology-counselling",
+   "awardingBody": "Northumbria University at Newcastle",
+   "awardingBodyVerified": true,
+   "university": "Northumbria University at Newcastle",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/northumbria-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "northumbria-bachelor-of-science-nursing-top-up-for-registered-nurses",
+   "name": "Bachelor of Science Nursing (Top-up) for Registered Nurses",
+   "level": "top-up",
+   "discipline": "healthcare-nursing",
+   "awardingBody": "Northumbria University at Newcastle",
+   "awardingBodyVerified": true,
+   "university": "Northumbria University at Newcastle",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/northumbria-university",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "bcu-ba-hons-business-administration-top-up",
+   "name": "BA (Hons) Business Administration (Top-up)",
+   "level": "top-up",
+   "discipline": "business",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "bcu-ba-hons-international-marketing-top-up",
+   "name": "BA (Hons) International Marketing (Top-up)",
+   "level": "top-up",
+   "discipline": "marketing",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "bcu-ba-hons-in-international-business-top-up",
+   "name": "BA (Hons) in International Business (Top-up)",
+   "level": "top-up",
+   "discipline": "business",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "bcu-ba-with-honours-digital-marketing-top-up",
+   "name": "BA with Honours Digital Marketing (Top-up)",
+   "level": "top-up",
+   "discipline": "marketing",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "bcu-bsc-with-honours-construction-management-top-up",
+   "name": "BSc with Honours Construction Management (Top-up)",
+   "level": "top-up",
+   "discipline": "construction",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "bcu-bachelor-of-laws-honours-top-up",
+   "name": "Bachelor of Laws (Honours) (Top-up)",
+   "level": "top-up",
+   "discipline": "law-criminology",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "bcu-bsc-with-honours-computer-science-global-top-up",
+   "name": "BSc with Honours Computer Science (Global) (Top-up)",
+   "level": "top-up",
+   "discipline": "it",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "bcu-bsc-with-honours-computer-science-with-artificial-intelligence-global-top-up",
+   "name": "BSc with Honours Computer Science with Artificial Intelligence (Global) (Top-up)",
+   "level": "top-up",
+   "discipline": "it",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "bcu-bsc-with-honours-cyber-security-global-top-up",
+   "name": "BSc with Honours Cyber Security (Global) (Top-up)",
+   "level": "top-up",
+   "discipline": "it",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "bcu-bsc-with-honours-digital-forensics-global-top-up",
+   "name": "BSc with Honours Digital Forensics (Global) (Top-up)",
+   "level": "top-up",
+   "discipline": "it",
+   "awardingBody": "Birmingham City University",
+   "awardingBodyVerified": true,
+   "university": "Birmingham City University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/birmingham-city-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  },
+  {
+   "id": "portsmouth-ba-hons-in-accountancy-and-financial-management-top-up",
+   "name": "BA (Hons) in Accountancy and Financial Management (Top-up)",
+   "level": "top-up",
+   "discipline": "accounting-finance",
+   "awardingBody": "University of Portsmouth",
+   "awardingBodyVerified": true,
+   "university": "University of Portsmouth",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-portsmouth",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "portsmouth-bsc-hons-computer-science-top-up",
+   "name": "BSc (Hons) Computer Science (Top-up)",
+   "level": "top-up",
+   "discipline": "it",
+   "awardingBody": "University of Portsmouth",
+   "awardingBodyVerified": true,
+   "university": "University of Portsmouth",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-portsmouth",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "portsmouth-bsc-hons-cyber-security-and-forensic-computing-top-up",
+   "name": "BSc (Hons) Cyber Security and Forensic Computing (Top-up)",
+   "level": "top-up",
+   "discipline": "it",
+   "awardingBody": "University of Portsmouth",
+   "awardingBodyVerified": true,
+   "university": "University of Portsmouth",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-portsmouth",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "portsmouth-bsc-hons-data-science-and-analytics-top-up",
+   "name": "BSc (Hons) Data Science and Analytics (Top-up)",
+   "level": "top-up",
+   "discipline": "ai-data",
+   "awardingBody": "University of Portsmouth",
+   "awardingBodyVerified": true,
+   "university": "University of Portsmouth",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-portsmouth",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "portsmouth-bsc-with-honours-in-psychology-top-up",
+   "name": "BSc with Honours in Psychology (Top-up)",
+   "level": "top-up",
+   "discipline": "psychology-counselling",
+   "awardingBody": "University of Portsmouth",
+   "awardingBodyVerified": true,
+   "university": "University of Portsmouth",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-portsmouth",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "ucd-bachelor-of-business-studies-honours-business-analytics-top-up",
+   "name": "Bachelor of Business Studies (Honours) (Business Analytics) (Top-up)",
+   "level": "top-up",
+   "discipline": "business",
+   "awardingBody": "University College Dublin",
+   "awardingBodyVerified": true,
+   "university": "University College Dublin",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-college-dublin",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "ucd-bachelor-of-business-studies-honours-digital-business-top-up",
+   "name": "Bachelor of Business Studies (Honours) (Digital Business) (Top-up)",
+   "level": "top-up",
+   "discipline": "business",
+   "awardingBody": "University College Dublin",
+   "awardingBodyVerified": true,
+   "university": "University College Dublin",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-college-dublin",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "ucd-bachelor-of-business-studies-honours-fintech-top-up",
+   "name": "Bachelor of Business Studies (Honours) (FinTech) (Top-up)",
+   "level": "top-up",
+   "discipline": "accounting-finance",
+   "awardingBody": "University College Dublin",
+   "awardingBodyVerified": true,
+   "university": "University College Dublin",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-college-dublin",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "ucd-bachelor-of-business-studies-honours-finance-top-up",
+   "name": "Bachelor of Business Studies (Honours) (Finance) (Top-up)",
+   "level": "top-up",
+   "discipline": "accounting-finance",
+   "awardingBody": "University College Dublin",
+   "awardingBodyVerified": true,
+   "university": "University College Dublin",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-college-dublin",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "ucd-bachelor-of-business-studies-honours-human-resource-management-top-up",
+   "name": "Bachelor of Business Studies (Honours) (Human Resource Management) (Top-up)",
+   "level": "top-up",
+   "discipline": "business",
+   "awardingBody": "University College Dublin",
+   "awardingBodyVerified": true,
+   "university": "University College Dublin",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-college-dublin",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "ucd-bachelor-of-business-studies-honours-logistics-and-supply-chain-management-top-up",
+   "name": "Bachelor of Business Studies (Honours) (Logistics and Supply Chain Management) (Top-up)",
+   "level": "top-up",
+   "discipline": "business",
+   "awardingBody": "University College Dublin",
+   "awardingBodyVerified": true,
+   "university": "University College Dublin",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-college-dublin",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "ucd-bachelor-of-business-studies-honours-management-top-up",
+   "name": "Bachelor of Business Studies (Honours) (Management) (Top-up)",
+   "level": "top-up",
+   "discipline": "business",
+   "awardingBody": "University College Dublin",
+   "awardingBodyVerified": true,
+   "university": "University College Dublin",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-college-dublin",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "ucd-bachelor-of-business-studies-honours-marketing-top-up",
+   "name": "Bachelor of Business Studies (Honours) (Marketing) (Top-up)",
+   "level": "top-up",
+   "discipline": "marketing",
+   "awardingBody": "University College Dublin",
+   "awardingBodyVerified": true,
+   "university": "University College Dublin",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-college-dublin",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "ucd-bachelor-of-business-studies-honours-project-management-top-up",
+   "name": "Bachelor of Business Studies (Honours) (Project Management) (Top-up)",
+   "level": "top-up",
+   "discipline": "business",
+   "awardingBody": "University College Dublin",
+   "awardingBodyVerified": true,
+   "university": "University College Dublin",
+   "studentPass": true,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/university-college-dublin",
+   "sources": [
+    "kaplan-website",
+    "kaplan-ded-2026-03-09-cn"
+   ]
+  },
+  {
+   "id": "monash-bachelor-of-education-in-early-childhood-top-up",
+   "name": "Bachelor of Education in Early Childhood (Top-up)",
+   "level": "top-up",
+   "discipline": "education",
+   "awardingBody": "Monash University",
+   "awardingBodyVerified": true,
+   "university": "Monash University",
+   "studentPass": false,
+   "mode": null,
+   "sourceUrl": "https://www.kaplan.com.sg/university/monash-university",
+   "sources": [
+    "kaplan-website"
+   ]
+  }
+ ]
+}

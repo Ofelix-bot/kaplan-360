@@ -1,0 +1,17 @@
+{
+  "source": "Université Paris-Saclay 'Master's programmes taught in English' https://www.universite-paris-saclay.fr/en/education/masters-programmes-taught-english (plain fetch; M1 page used as the entry page where the English track has one, M2 page only where the English track starts at M2) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.universite-paris-saclay.fr/en/education/master/computer-science/m1-artificial-intelligence",
+    "https://www.universite-paris-saclay.fr/en/education/master/computer-science/m1-data-knowledge-and-hybrid-artificial-intelligence-dkai",
+    "https://www.universite-paris-saclay.fr/en/education/master/computer-science/distributed-parallel-and-quantum-computing-m1-dipaq",
+    "https://www.universite-paris-saclay.fr/en/education/master/computer-science/m1-human-computer-interaction",
+    "https://www.universite-paris-saclay.fr/en/education/master/computer-science/m2-quantum-mathematics-and-computer-science",
+    "https://www.universite-paris-saclay.fr/en/education/master/strategic-management/m1-international-business-and-sustainability-mibs",
+    "https://www.universite-paris-saclay.fr/en/education/master/human-movement-sport-sciences-adapted-physical-activity-and-health/m1-paeh-physical-activity-exercise-and-health",
+    "https://www.universite-paris-saclay.fr/en/education/master/human-movement-sport-sciences-training-and-optimization-sports-performance-tosp/m1-sport-sciences-health-and-performance",
+    "https://www.universite-paris-saclay.fr/en/education/master/human-movement-sport-sciences-sport-management/m2-sport-leisure-and-event-management",
+    "https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-multimedia-networking",
+    "https://www.universite-paris-saclay.fr/en/education/master/energy/m2-advanced-materials-structure-and-energy-sustainable-construction"
+  ]
+}

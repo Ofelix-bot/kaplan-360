@@ -1,0 +1,283 @@
+{
+  "id": "lzu",
+  "status": "read",
+  "university": "兰州大学",
+  "universityEn": "Lanzhou University",
+  "tier": "985",
+  "url": "https://xxgk.lzu.edu.cn/xxgknew/upload/files/20241129/6133295b6f0f4dcabd93feeea52f08d5.pdf",
+  "title": "兰州大学2021年毕业生就业质量报告",
+  "year": 2021,
+  "cohort": "2021届",
+  "pages": 55,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": "2021届",
+      "count": 198,
+      "pct": 2.33,
+      "quote": "出国（境）198 人，占 2.33%"
+    },
+    {
+      "group": "本科生",
+      "cohort": "2021届",
+      "count": 156,
+      "pct": 3.33,
+      "quote": "本科出国（境）156 人，占本科生的 3.33%"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 25.25,
+      "quote": "毕业生出国（境）主要流向了英国和中国香港，占比分别为 25.25%、17.17%"
+    },
+    {
+      "region": "中国香港",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 17.17,
+      "quote": "毕业生出国（境）主要流向了英国和中国香港，占比分别为 25.25%、17.17%"
+    },
+    {
+      "region": "美国",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 9.6,
+      "quote": "其余占比较高的有美国（9.60%）"
+    },
+    {
+      "region": "日本",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 5.56,
+      "quote": "日本（5.56%）"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 3.54,
+      "quote": "澳大利亚（3.54%）"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "QS 世界排名前 100",
+      "cohort": "2021届",
+      "count": 128,
+      "pct": 58.59,
+      "quote": "有 128 名赴 QS 世界排名前 100 高校继续深造，占境外留学总人数的 58.59%"
+    },
+    {
+      "band": "QS 世界排名前 50",
+      "cohort": "2021届",
+      "count": 70,
+      "pct": 35.35,
+      "quote": "赴 QS 世界排名前 50 高校深造的人数为 70 人，占境外留学总人数的 35.35%"
+    }
+  ],
+  "destinations": [
+    {
+      "nameZh": "牛津大学",
+      "nameEn": "University of Oxford",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "2 牛津大学 1",
+      "institutionId": "university-of-oxford"
+    },
+    {
+      "nameZh": "剑桥大学",
+      "nameEn": "University of Cambridge",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "3 剑桥大学 1",
+      "institutionId": "university-of-cambridge"
+    },
+    {
+      "nameZh": "伦敦大学学院",
+      "nameEn": "University College London",
+      "count": 3,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "8 伦敦大学学院 3",
+      "institutionId": "ucl"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": 5,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "11 新加坡国立大学 5",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "南洋理工大学",
+      "nameEn": "Nanyang Technological University",
+      "count": 5,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "12 南洋理工大学 5",
+      "institutionId": "nanyang-technological-university-singapore"
+    },
+    {
+      "nameZh": "宾夕法尼亚大学",
+      "nameEn": "University of Pennsylvania",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "13 宾夕法尼亚大学 1",
+      "institutionId": "university-of-pennsylvania"
+    },
+    {
+      "nameZh": "爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": 6,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "16 爱丁堡大学 6",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "哥伦比亚大学",
+      "nameEn": "Columbia University",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "19 哥伦比亚大学 1",
+      "institutionId": "columbia-university"
+    },
+    {
+      "nameZh": "康奈尔大学",
+      "nameEn": "Cornell University",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "21 康奈尔大学 1",
+      "institutionId": "cornell-university"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "University of Hong Kong",
+      "count": 11,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "22 香港大学 11",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "约翰霍普金斯大学",
+      "nameEn": "Johns Hopkins University",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "25 约翰霍普金斯大学 1",
+      "institutionId": "johns-hopkins-university"
+    },
+    {
+      "nameZh": "麦吉尔大学",
+      "nameEn": "McGill University",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "27 麦吉尔大学 1",
+      "institutionId": "mcgill-university"
+    },
+    {
+      "nameZh": "曼彻斯特大学",
+      "nameEn": "University of Manchester",
+      "count": 3,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "27 曼彻斯特大学 3",
+      "institutionId": "university-of-manchester"
+    },
+    {
+      "nameZh": "京都大学",
+      "nameEn": "Kyoto University",
+      "count": 4,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "33 京都大学 4",
+      "institutionId": "kyoto-university"
+    },
+    {
+      "nameZh": "香港科技大学",
+      "nameEn": "Hong Kong University of Science and Technology",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "34 香港科技大学 1",
+      "institutionId": "hong-kong-university-of-science-and-technology"
+    },
+    {
+      "nameZh": "伦敦大学国王学院",
+      "nameEn": "King's College London",
+      "count": 5,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "35 伦敦大学国王学院 5",
+      "institutionId": "king-s-college-london"
+    },
+    {
+      "nameZh": "悉尼大学",
+      "nameEn": "University of Sydney",
+      "count": 3,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "38 悉尼大学 3",
+      "institutionId": "university-of-sydney"
+    },
+    {
+      "nameZh": "香港中文大学",
+      "nameEn": "The Chinese University of Hong Kong",
+      "count": 11,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "39 香港中文大学 11",
+      "institutionId": "chinese-university-of-hong-kong"
+    },
+    {
+      "nameZh": "纽约大学",
+      "nameEn": "New York University",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "42 纽约大学 1",
+      "institutionId": "new-york-university"
+    },
+    {
+      "nameZh": "英属哥伦比亚大学",
+      "nameEn": "University of British Columbia",
+      "count": 2,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "46 英属哥伦比亚大学 2",
+      "institutionId": "university-of-british-columbia"
+    },
+    {
+      "nameZh": "昆士兰大学",
+      "nameEn": "University of Queensland",
+      "count": 1,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "47 昆士兰大学 1",
+      "institutionId": "university-of-queensland"
+    },
+    {
+      "nameZh": "伦敦政治经济学院",
+      "nameEn": "London School of Economics and Political Science",
+      "count": 2,
+      "group": null,
+      "list": "图表 1-33 2021 届毕业生赴 QS 世界大学前 50 名境外高校深造情况",
+      "quote": "49 伦敦政治经济学院 2",
+      "institutionId": "london-school-of-economics-and-political-science"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-21"
+}

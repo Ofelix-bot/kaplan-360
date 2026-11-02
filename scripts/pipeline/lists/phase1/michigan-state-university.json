@@ -1,0 +1,33 @@
+{
+ "source": "college programme listings rendered in browser: Broad /masters, College of Education master's filter (online-only dropped), ComArtSci graduate, HRLR; School of Criminal Justice master's are online-only (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://broad.msu.edu/masters/mba/",
+  "https://broad.msu.edu/masters/executive-mba/",
+  "https://broad.msu.edu/masters/accounting/",
+  "https://broad.msu.edu/masters/accounting-data-analytics/",
+  "https://broad.msu.edu/masters/business-data-science-analytics/",
+  "https://broad.msu.edu/masters/finance/",
+  "https://broad.msu.edu/masters/financial-planning-wealth-management/",
+  "https://broad.msu.edu/masters/healthcare-management",
+  "https://broad.msu.edu/masters/management-strategy-and-leadership",
+  "https://broad.msu.edu/masters/marketing-research/",
+  "https://broad.msu.edu/masters/professional-accounting-analytics/",
+  "https://broad.msu.edu/masters/supply-chain-management",
+  "https://broad.msu.edu/masters/financial-technology/",
+  "https://hrlr.msu.edu/degrees/mhrlr/index.html",
+  "https://comartsci.msu.edu/academics/academic-departments/advertising-public-relations/graduate/master-arts-advertising-and",
+  "https://comartsci.msu.edu/academics/academic-departments/communication/graduate/master-arts-communication",
+  "https://comartsci.msu.edu/hrcma",
+  "https://comartsci.msu.edu/academics/academic-departments/default/graduate/master-arts-international-digital-advertising-and",
+  "https://comartsci.msu.edu/academics/academic-departments/journalism/graduate/master-arts-journalism",
+  "https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/master-arts-media-and-information",
+  "https://comartsci.msu.edu/academics/academic-departments/media-information/graduate/master-science-user-experience",
+  "https://education.msu.edu/cepse/maaba",
+  "https://education.msu.edu/cepse/clinical-mental-health-counseling",
+  "https://education.msu.edu/kin/kinesiology-ms",
+  "https://education.msu.edu/ead/k12/masters",
+  "https://education.msu.edu/cepse/rehab",
+  "https://education.msu.edu/ead/hale/masters-student-affairs"
+ ]
+}

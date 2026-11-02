@@ -1,0 +1,4 @@
+# hong-kong-university-of-science-and-technology@2 https://prog-crs.hkust.edu.hk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemap https://prog-crs.hkust.edu.hk/sitemap.xml: http HTTP 404
+sitemaps read 1 · urls 0 · master's-looking 0

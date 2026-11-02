@@ -1,0 +1,86 @@
+{
+  "dataset": "University-wide degree-type rules for master's entry for a degree studied in Singapore, for the Competitiveness Index's degree-type gate (lib/stand/rules.ts degreeTypeRule), with each university's rule for the awarding country beside it",
+  "checked": "2026-10-25",
+  "notes": [
+    "Only rows whose quote was re-fetched and confirmed verbatim in the 2026-10-25 verification pass (77 sources re-fetched). Each is the university's Singapore page: these universities do not say whether a degree awarded by an Australian university and taught in Singapore is read on their Singapore or their Australia row, and the gate reads it on the Singapore row, where the student studied.",
+    "Left out: St Andrews, Sheffield and Exeter (four-year wording, not re-checked or worded as a norm), Edinburgh (keyed to the awarding institution: its Australia page accepts a high-scoring three-year bachelor's), Bath (a closed list of Singapore universities, not a degree-type rule).",
+    "byAwardingCountry (checked 2026-10-26 on the same pages): the university's own row for the country that awards the degree. The gate keeps the Singapore reading; where the awarding country's row gives a different result, the programme's detail says so. rule \"any\": a bachelor's of any length or type is named there (grades aside); \"honours\": an honours degree is named. Left out: King's College London's Ireland row (\"Bachelor and Master's degrees from the Republic of Ireland are considered equivalent to their counterparts in the UK.\", no degree type of its own) and every UK row (UK degrees are read as home degrees, no country row)."
+  ],
+  "rules": [
+    {
+      "institutionId": "imperial-college-london",
+      "university": "Imperial College London",
+      "rule": "four-year",
+      "quote": "To be considered for admission to a Master's e.g. MSc, MRes, MBA, etc, applicants should hold a four year Bachelor's degree with a minimum of a Lower Second Class Honours.",
+      "url": "https://www.imperial.ac.uk/study/apply/postgraduate-taught/entry-requirements/accepted-qualifications/",
+      "byAwardingCountry": [
+        {
+          "country": "Australia",
+          "rule": "honours",
+          "quote": "To be considered for admission to a Master's e.g. MSc, MRes, MBA, etc, applicants should hold a Bachelor's degree, to Honours level, with a minimum of a Lower Second Class Honours.",
+          "url": "https://www.imperial.ac.uk/study/apply/postgraduate-taught/entry-requirements/accepted-qualifications/"
+        },
+        {
+          "country": "Ireland",
+          "rule": "honours",
+          "quote": "To be considered for admission to a Master's e.g. MSc, MRes, MBA, etc, applicants should hold a Bachelor's degree with a minimum of a Lower Second Class Honours from a mainstream university.",
+          "url": "https://www.imperial.ac.uk/study/apply/postgraduate-taught/entry-requirements/accepted-qualifications/"
+        },
+        {
+          "country": "United States",
+          "rule": "any",
+          "quote": "To be considered for admission to a Master's e.g. MSc, MRes, MBA etc, applicants should hold a Bachelor's degree. Our minimum requirement is based on the university's selectivity ranking so minimum grade requirements will range from 3.0 / 4.0 to 3.6 / 4.0 depending on the institution.",
+          "url": "https://www.imperial.ac.uk/study/apply/postgraduate-taught/entry-requirements/accepted-qualifications/"
+        }
+      ]
+    },
+    {
+      "institutionId": "king-s-college-london",
+      "university": "King's College London",
+      "rule": "honours",
+      "quote": "Applicants who have completed a Bachelor (Honours) degree in Singapore will need to demonstrate the following Cumulative Average Point (CAP) to be considered for a Postgraduate course at King's:",
+      "url": "https://www.kcl.ac.uk/study/postgraduate/apply/entry-requirements/international",
+      "byAwardingCountry": [
+        {
+          "country": "Australia",
+          "rule": "any",
+          "quote": "Applicants who have completed a three year Bachelor degree or four year Bachelor Honours degree from a recognised institution in Australia will need to demonstrate the following grades to be considered for a Postgraduate course at King's:",
+          "url": "https://www.kcl.ac.uk/study/postgraduate/apply/entry-requirements/international"
+        },
+        {
+          "country": "United States",
+          "rule": "any",
+          "quote": "Applicants who have completed a Bachelor degree from a recognised institution in the United States of America will need to demonstrate the following grades to be considered for a Postgraduate course at King's:",
+          "url": "https://www.kcl.ac.uk/study/postgraduate/apply/entry-requirements/international"
+        }
+      ]
+    },
+    {
+      "institutionId": "university-of-cambridge",
+      "university": "University of Cambridge",
+      "rule": "honours",
+      "quote": "Bachelor's degree (non-honours) only if from: - Singapore Management University (SMU) - Singapore University of Technology and Design (SUTD)",
+      "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/international-qualifications",
+      "byAwardingCountry": [
+        {
+          "country": "Australia",
+          "rule": "any",
+          "quote": "Bachelor (Hons) degree: 4 years - use all 4 years' grades 1 year (follows the main 3-year Bachelor degree) - use Honours year grades only … Bachelor degree without honours, 3 years",
+          "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/international-qualifications"
+        },
+        {
+          "country": "Ireland",
+          "rule": "honours",
+          "quote": "Bachelor's (Honours) degree … Bachelor's (Honours) degree from University College Dublin",
+          "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/international-qualifications"
+        },
+        {
+          "country": "United States",
+          "rule": "any",
+          "quote": "Bachelor’s degree / Honors Bachelor degree",
+          "url": "https://www.postgraduate.study.cam.ac.uk/apply/before/international-qualifications"
+        }
+      ]
+    }
+  ]
+}

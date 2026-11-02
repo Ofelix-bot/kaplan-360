@@ -1,0 +1,68 @@
+# universiti-brunei-darussalam https://ubd.edu.bn
+robots sitemaps: https://ubd.edu.bn/sitemap.xml https://ubd.edu.bn/sitemap.rss · crawl-delay: null · AI-agent groups: 0
+index https://ubd.edu.bn/sitemap.xml: 28 children (5 course-like)
+sitemaps read 30 · urls 2176 · master's-looking 85
+   17  ubd.edu.bn/programme
+         https://ubd.edu.bn/programme/master-by-coursework-paprsb-institute-of-health-science-ihs/
+         https://ubd.edu.bn/programme/master-of-health-science-by-research-paprsb-institute-of-health-science-ihs/
+         https://ubd.edu.bn/programme/master-by-research-school-of-business-economics-sbe-2/
+         https://ubd.edu.bn/programme/master-by-research-sultan-hassanal-bolkiah-institute-of-education-shbie/
+   12  ubd.edu.bn/admission/graduate/why-ubd
+         https://ubd.edu.bn/admission/graduate/why-ubd/living-in-brunei/accommodation/
+         https://ubd.edu.bn/admission/graduate/why-ubd/university-library/
+         https://ubd.edu.bn/admission/graduate/why-ubd/research-tracking/
+         https://ubd.edu.bn/admission/graduate/why-ubd/rankings/
+   12  ubd.edu.bn/admission/undergraduate/undergraduate-why-ubd
+         https://ubd.edu.bn/admission/undergraduate/undergraduate-why-ubd/gennext-degree-programme/undergraduate-fees-funding/
+         https://ubd.edu.bn/admission/undergraduate/undergraduate-why-ubd/gennext-degree-programme/undergraduate-degree-programmes/practicals-fieldwork-international-opportunities/
+         https://ubd.edu.bn/admission/undergraduate/undergraduate-why-ubd/gennext-degree-programme/undergraduate-degree-programmes/career/
+         https://ubd.edu.bn/admission/undergraduate/undergraduate-why-ubd/undergraduate-living-in-brunei/
+   12  ubd.edu.bn/faqs
+         https://ubd.edu.bn/faqs/how-do-i-know-if-im-eligible-to-apply-for-post-graduate-studies-in-ubd/
+         https://ubd.edu.bn/faqs/how-do-i-apply-for-graduate-studies-in-ubd/
+         https://ubd.edu.bn/faqs/when-do-the-application-for-phd-master-degree-opens/
+         https://ubd.edu.bn/faqs/i-have-not-met-the-entry-requirements-for-admission-to-undergraduate-programmes-what-are-my-options-then-2/
+    7  ubd.edu.bn/admission/graduate
+         https://ubd.edu.bn/admission/graduate/graduate-entry-requirements/
+         https://ubd.edu.bn/admission/graduate/graduate-fees-funding/
+         https://ubd.edu.bn/admission/graduate/programmes-offered-1/
+         https://ubd.edu.bn/admission/graduate/applying-to-ubd-graduate/
+    4  ubd.edu.bn/admission/undergraduate
+         https://ubd.edu.bn/admission/undergraduate/undergraduate-applying-ubd/
+         https://ubd.edu.bn/admission/undergraduate/entry-requirements/
+         https://ubd.edu.bn/admission/undergraduate/undergraduate-why-ubd/
+         https://ubd.edu.bn/admission/undergraduate/international-students-undergraduate/
+    4  ubd.edu.bn/event
+         https://ubd.edu.bn/event/ubd-entremasterclass/
+         https://ubd.edu.bn/event/sds-postgraduate-seminar/
+         https://ubd.edu.bn/event/paprsbihs-7th-graduate-research-day-2026-igniting-innovation-research-for-a-better-future/
+         https://ubd.edu.bn/event/ubd-innovfest-2025-career-pathways-for-graduates-securing-your-retirement-with-spk-for-self-employed/
+    2  ubd.edu.bn/admission
+         https://ubd.edu.bn/admission/undergraduate/
+         https://ubd.edu.bn/admission/graduate/
+    2  ubd.edu.bn/admission/graduate/graduate-fees-funding
+         https://ubd.edu.bn/admission/graduate/graduate-fees-funding/ugrs/
+         https://ubd.edu.bn/admission/graduate/graduate-fees-funding/ubd-bursary-award/
+    2  ubd.edu.bn/2026/08
+         https://ubd.edu.bn/2026/08/ubd-welcomes-first-batch-of-genbestari-undergraduates/
+         https://ubd.edu.bn/2026/08/ubd-celebrates-1181-graduates-at-38th-convocation-ceremony/
+    2  ubd.edu.bn/2023/08
+         https://ubd.edu.bn/2023/08/1149-graduates-feted-at-35th-ubd-convocation-ceremony/
+         https://ubd.edu.bn/2023/08/ubd-enhances-graduate-employability-through-successful-employer-engagement-workshop/
+    2  ubd.edu.bn/level
+         https://ubd.edu.bn/level/graduate/
+         https://ubd.edu.bn/level/undergraduate/
+    1  ubd.edu.bn/c3l/dph
+         https://ubd.edu.bn/c3l/dph/master-digital-public-health/
+    1  ubd.edu.bn/c3l
+         https://ubd.edu.bn/c3l/master-of-government/
+    1  ubd.edu.bn/2026/05
+         https://ubd.edu.bn/2026/05/coffee-with-vc-alumni-series-contiues-to-strenghten-alumni-engagement-and-industry-ready-graduates/
+    1  ubd.edu.bn/2025/08
+         https://ubd.edu.bn/2025/08/class-of-2025-ubd-celebrates-1177-graduates/
+    1  ubd.edu.bn/2024/08
+         https://ubd.edu.bn/2024/08/36th-ubd-convocation-ceremony-celebrates-1158-graduates/
+    1  ubd.edu.bn/2022/08
+         https://ubd.edu.bn/2022/08/ubd-celebrates-graduates-in-34th-convocation-ceremony/
+    1  ubd.edu.bn/faqs/category/academic-offices
+         https://ubd.edu.bn/faqs/category/academic-offices/graduate-studies-services/

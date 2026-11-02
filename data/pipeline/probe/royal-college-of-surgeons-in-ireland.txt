@@ -1,0 +1,127 @@
+# royal-college-of-surgeons-in-ireland https://www.rcsi.com
+robots sitemaps: https://www.rcsi.com/sitemap.xml https://www.rcsi.com/bahrain/sitemap.xml https://www.rcsi.com/dublin/sitemap.xml https://www.rcsi.com/leadership/sitemap.xml https://www.rcsi.com/people/sitemap.xml https://www.rcsi.com/surgery/sitemap.xml https://www.rcsi.com/online/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 7 · urls 2385 · master's-looking 392
+   65  www.rcsi.com/online/find-a-course/postgraduate-diploma
+         https://www.rcsi.com/online/find-a-course/postgraduate-diploma/a
+         https://www.rcsi.com/online/find-a-course/postgraduate-diploma/c
+         https://www.rcsi.com/online/find-a-course/postgraduate-diploma/e
+         https://www.rcsi.com/online/find-a-course/postgraduate-diploma/g
+   48  www.rcsi.com/online/find-a-course/masters
+         https://www.rcsi.com/online/find-a-course/masters/a
+         https://www.rcsi.com/online/find-a-course/masters/h
+         https://www.rcsi.com/online/find-a-course/masters/l
+         https://www.rcsi.com/online/find-a-course/masters/m
+   46  www.rcsi.com/online/find-a-course/postgraduate-certificate
+         https://www.rcsi.com/online/find-a-course/postgraduate-certificate/a
+         https://www.rcsi.com/online/find-a-course/postgraduate-certificate/b
+         https://www.rcsi.com/online/find-a-course/postgraduate-certificate/c
+         https://www.rcsi.com/online/find-a-course/postgraduate-certificate/d
+   40  www.rcsi.com/dublin/postgraduate/postgraduate-research
+         https://www.rcsi.com/dublin/postgraduate/postgraduate-research/researcher-development
+         https://www.rcsi.com/dublin/postgraduate/postgraduate-research/application-faqs
+         https://www.rcsi.com/dublin/postgraduate/postgraduate-research/student-stories
+         https://www.rcsi.com/dublin/postgraduate/postgraduate-research/doctor-of-medicine/course-details
+   27  www.rcsi.com/dublin/undergraduate/application-information
+         https://www.rcsi.com/dublin/undergraduate/application-information/finance
+         https://www.rcsi.com/dublin/undergraduate/application-information/policies
+         https://www.rcsi.com/dublin/undergraduate/application-information/scholarships
+         https://www.rcsi.com/dublin/undergraduate/application-information/access-and-disability
+   10  www.rcsi.com/dublin/student-life/undergraduate-essentials
+         https://www.rcsi.com/dublin/student-life/undergraduate-essentials/accommodation
+         https://www.rcsi.com/dublin/student-life/undergraduate-essentials/visa-and-immigration
+         https://www.rcsi.com/dublin/student-life/undergraduate-essentials/budgeting-and-banking
+         https://www.rcsi.com/dublin/student-life/undergraduate-essentials/health-insurance
+    9  www.rcsi.com/bahrain/undergraduate/application-information
+         https://www.rcsi.com/bahrain/undergraduate/application-information/policies
+         https://www.rcsi.com/bahrain/undergraduate/application-information/scholarships
+         https://www.rcsi.com/bahrain/undergraduate/application-information/access-and-disability
+         https://www.rcsi.com/bahrain/undergraduate/application-information/how-to-apply
+    9  www.rcsi.com/bahrain/student-life/undergraduate-essentials
+         https://www.rcsi.com/bahrain/student-life/undergraduate-essentials/accommodation
+         https://www.rcsi.com/bahrain/student-life/undergraduate-essentials/visa-and-immigration
+         https://www.rcsi.com/bahrain/student-life/undergraduate-essentials/budgeting-and-banking
+         https://www.rcsi.com/bahrain/student-life/undergraduate-essentials/medical-screening
+    8  www.rcsi.com/dublin/about/faculty-of-medicine-and-health-sciences
+         https://www.rcsi.com/dublin/about/faculty-of-medicine-and-health-sciences/school-of-postgraduate-studies
+         https://www.rcsi.com/dublin/about/faculty-of-medicine-and-health-sciences/graduate-school-of-healthcare-management
+         https://www.rcsi.com/dublin/about/faculty-of-medicine-and-health-sciences/school-of-postgraduate-studies/our-people
+         https://www.rcsi.com/dublin/about/faculty-of-medicine-and-health-sciences/graduate-school-of-healthcare-management/teaching-and-education
+    7  www.rcsi.com/bahrain/undergraduate
+         https://www.rcsi.com/bahrain/undergraduate/medicine
+         https://www.rcsi.com/bahrain/undergraduate/medical-commencement-programme
+         https://www.rcsi.com/bahrain/undergraduate/undergraduate-nursing
+         https://www.rcsi.com/bahrain/undergraduate/simulation
+    7  www.rcsi.com/dublin/undergraduate/meet-rcsi
+         https://www.rcsi.com/dublin/undergraduate/meet-rcsi/webinars
+         https://www.rcsi.com/dublin/undergraduate/meet-rcsi/meet-rcsi-off-campus
+         https://www.rcsi.com/dublin/undergraduate/meet-rcsi/student-experience-tours
+         https://www.rcsi.com/dublin/undergraduate/meet-rcsi/undergraduate-open-day
+    6  www.rcsi.com/bahrain/undergraduate/medicine
+         https://www.rcsi.com/bahrain/undergraduate/medicine/why-rcsi-bahrain
+         https://www.rcsi.com/bahrain/undergraduate/medicine/programme-details
+         https://www.rcsi.com/bahrain/undergraduate/medicine/your-future
+         https://www.rcsi.com/bahrain/undergraduate/medicine/entry-requirements
+    6  www.rcsi.com/bahrain/undergraduate/medical-commencement-programme
+         https://www.rcsi.com/bahrain/undergraduate/medical-commencement-programme/why-rcsi-bahrain
+         https://www.rcsi.com/bahrain/undergraduate/medical-commencement-programme/programme-details
+         https://www.rcsi.com/bahrain/undergraduate/medical-commencement-programme/your-future
+         https://www.rcsi.com/bahrain/undergraduate/medical-commencement-programme/entry-requirements
+    6  www.rcsi.com/bahrain/undergraduate/undergraduate-nursing
+         https://www.rcsi.com/bahrain/undergraduate/undergraduate-nursing/why-rcsi-bahrain
+         https://www.rcsi.com/bahrain/undergraduate/undergraduate-nursing/programme-details
+         https://www.rcsi.com/bahrain/undergraduate/undergraduate-nursing/your-future
+         https://www.rcsi.com/bahrain/undergraduate/undergraduate-nursing/entry-requirements
+    6  www.rcsi.com/dublin/undergraduate/advanced-therapeutic-technologies
+         https://www.rcsi.com/dublin/undergraduate/advanced-therapeutic-technologies/why-rcsi-dublin
+         https://www.rcsi.com/dublin/undergraduate/advanced-therapeutic-technologies/course-details
+         https://www.rcsi.com/dublin/undergraduate/advanced-therapeutic-technologies/your-future
+         https://www.rcsi.com/dublin/undergraduate/advanced-therapeutic-technologies/entry-requirements
+    6  www.rcsi.com/dublin/undergraduate/dentistry
+         https://www.rcsi.com/dublin/undergraduate/dentistry/why-rcsi-dublin
+         https://www.rcsi.com/dublin/undergraduate/dentistry/course-details
+         https://www.rcsi.com/dublin/undergraduate/dentistry/your-future
+         https://www.rcsi.com/dublin/undergraduate/dentistry/entry-requirements
+    6  www.rcsi.com/dublin/undergraduate/gem
+         https://www.rcsi.com/dublin/undergraduate/gem/why-rcsi-dublin
+         https://www.rcsi.com/dublin/undergraduate/gem/course-details
+         https://www.rcsi.com/dublin/undergraduate/gem/your-future
+         https://www.rcsi.com/dublin/undergraduate/gem/entry-requirements
+    6  www.rcsi.com/dublin/undergraduate/medicine
+         https://www.rcsi.com/dublin/undergraduate/medicine/why-rcsi-dublin
+         https://www.rcsi.com/dublin/undergraduate/medicine/course-details
+         https://www.rcsi.com/dublin/undergraduate/medicine/your-future
+         https://www.rcsi.com/dublin/undergraduate/medicine/entry-requirements
+    6  www.rcsi.com/dublin/undergraduate/pharmacy
+         https://www.rcsi.com/dublin/undergraduate/pharmacy/why-rcsi-dublin
+         https://www.rcsi.com/dublin/undergraduate/pharmacy/course-details
+         https://www.rcsi.com/dublin/undergraduate/pharmacy/your-future
+         https://www.rcsi.com/dublin/undergraduate/pharmacy/entry-requirements
+    6  www.rcsi.com/dublin/undergraduate/physiotherapy
+         https://www.rcsi.com/dublin/undergraduate/physiotherapy/why-rcsi-dublin
+         https://www.rcsi.com/dublin/undergraduate/physiotherapy/course-details
+         https://www.rcsi.com/dublin/undergraduate/physiotherapy/your-future
+         https://www.rcsi.com/dublin/undergraduate/physiotherapy/entry-requirements
+    5  www.rcsi.com/bahrain/undergraduate/meet-rcsi
+         https://www.rcsi.com/bahrain/undergraduate/meet-rcsi/future-doctors
+         https://www.rcsi.com/bahrain/undergraduate/meet-rcsi/rcsi-school-visits
+         https://www.rcsi.com/bahrain/undergraduate/meet-rcsi/future-nurses
+         https://www.rcsi.com/bahrain/undergraduate/meet-rcsi/book-a-tour
+    5  www.rcsi.com/bahrain/postgraduate/msc-in-nursing
+         https://www.rcsi.com/bahrain/postgraduate/msc-in-nursing/why-rcsi-bahrain
+         https://www.rcsi.com/bahrain/postgraduate/msc-in-nursing/programme-details
+         https://www.rcsi.com/bahrain/postgraduate/msc-in-nursing/entry-requirements
+         https://www.rcsi.com/bahrain/postgraduate/msc-in-nursing/fees
+    4  www.rcsi.com/bahrain/undergraduate/simulation
+         https://www.rcsi.com/bahrain/undergraduate/simulation/simulation-patient-unit
+         https://www.rcsi.com/bahrain/undergraduate/simulation/procedural-skills
+         https://www.rcsi.com/bahrain/undergraduate/simulation/immersive-simulation
+         https://www.rcsi.com/bahrain/undergraduate/simulation/student-related-activities
+    4  www.rcsi.com/dublin/undergraduate
+         https://www.rcsi.com/dublin/undergraduate/why-rcsi
+         https://www.rcsi.com/dublin/undergraduate/register-your-interest
+         https://www.rcsi.com/dublin/undergraduate/meet-rcsi
+         https://www.rcsi.com/dublin/undergraduate/application-information
+    3  www.rcsi.com/alumni/association-of-medical-and-dental-graduates
+         https://www.rcsi.com/alumni/association-of-medical-and-dental-graduates/committee
+         https://www.rcsi.com/alumni/association-of-medical-and-dental-graduates/distinguished-graduate-award
+         https://www.rcsi.com/alumni/association-of-medical-and-dental-graduates/events

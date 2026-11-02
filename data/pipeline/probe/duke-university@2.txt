@@ -1,0 +1,92 @@
+# duke-university@2 https://gradschool.duke.edu
+robots sitemaps: https://gradschool.duke.edu/sitemap/sitemap-0.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 3214 · master's-looking 506
+  176  gradschool.duke.edu/event
+         https://gradschool.duke.edu/event/what-can-i-do-graduate-degree-identifying-my-transferable-skills/
+         https://gradschool.duke.edu/event/key-connections-professional-development-workshop-masters-students/
+         https://gradschool.duke.edu/event/preparing-phd-applications-workshop-masters-students/
+         https://gradschool.duke.edu/event/mentoring-and-graduate-student-success-gs-71602/
+  139  gradschool.duke.edu/about/news
+         https://gradschool.duke.edu/about/news/graduate-school-shows-appreciation-students-week-workshops-festivities/
+         https://gradschool.duke.edu/about/news/two-graduate-alumni-chosen-lead-furman-wharton/
+         https://gradschool.duke.edu/about/news/graduate-school-receives-75-million-endow-fellowships/
+         https://gradschool.duke.edu/about/news/ida-stephens-owens-named-first-recipient-graduate-school-distinguished-alumni-award/
+   59  gradschool.duke.edu/about/statistics
+         https://gradschool.duke.edu/about/statistics/all-departments-phd-and-masters-admissions-and-enrollment-statistics/
+         https://gradschool.duke.edu/about/statistics/all-departments-master-s-admissions-and-enrollment-statistics/
+         https://gradschool.duke.edu/about/statistics/all-departments-master-s-career-outcomes-statistics/
+         https://gradschool.duke.edu/about/statistics/analytical-political-economy-master-s-admissions-and-enrollment-statistics/
+   24  gradschool.duke.edu/story
+         https://gradschool.duke.edu/story/graduate-students-help-afghan-family-start-new-life/
+         https://gradschool.duke.edu/story/graduate-education-through-human-lens/
+         https://gradschool.duke.edu/story/graduate-school-history-spotlight-teaching-how-teach/
+         https://gradschool.duke.edu/story/graduate-school-history-spotlight-early-years/
+   18  gradschool.duke.edu/professional-development/blog
+         https://gradschool.duke.edu/professional-development/blog/graduate-students-talk-about-their-mooc-experiences/
+         https://gradschool.duke.edu/professional-development/blog/golden-rule-graduate-school/
+         https://gradschool.duke.edu/professional-development/blog/new-graduate-bass-teaching-fellowships/
+         https://gradschool.duke.edu/professional-development/blog/start-earlier-advice-certificate-college-teaching-graduates/
+   10  gradschool.duke.edu/financial-support/find-funding
+         https://gradschool.duke.edu/financial-support/find-funding/graduate-school-administrative-intern-university-center-exemplary-mentoring/
+         https://gradschool.duke.edu/financial-support/find-funding/graduate-school-administrative-internships/
+         https://gradschool.duke.edu/financial-support/find-funding/julian-price-graduate-fellowship-humanities-and-history/
+         https://gradschool.duke.edu/financial-support/find-funding/lottie-applewhite-award-graduate-liberal-studies/
+   10  gradschool.duke.edu/academics/programs-degrees
+         https://gradschool.duke.edu/academics/programs-degrees/graduate-liberal-studies/
+         https://gradschool.duke.edu/academics/programs-degrees/economics-masters/
+         https://gradschool.duke.edu/academics/programs-degrees/history-ma/
+         https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science/
+    7  gradschool.duke.edu/professional-development/programs/masters-students-resources
+         https://gradschool.duke.edu/professional-development/programs/masters-students-resources/past-workshops-masters-students/
+         https://gradschool.duke.edu/professional-development/programs/masters-students-resources/past-workshops/2016-2017-workshops/
+         https://gradschool.duke.edu/professional-development/programs/masters-students-resources/past-workshops/2017-2018-workshops/
+         https://gradschool.duke.edu/professional-development/programs/masters-students-resources/past-workshops/2018-2019-workshops/
+    6  gradschool.duke.edu/admissions/how-choose-right-graduate-school
+         https://gradschool.duke.edu/admissions/how-choose-right-graduate-school/should-i-pursue-masters-or-phd/
+         https://gradschool.duke.edu/admissions/how-choose-right-graduate-school/what-look-graduate-program/
+         https://gradschool.duke.edu/admissions/how-choose-right-graduate-school/where-find-information-about-graduate-programs/
+         https://gradschool.duke.edu/admissions/how-choose-right-graduate-school/how-prepare-strong-graduate-school-application/
+    3  gradschool.duke.edu/professional-development/programs/certificate-college-teaching
+         https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/coursework-teaching/gs780s-graduate/
+         https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/apply-cct-duke-graduate-students/
+         https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/graduate-instructor-record-ior/
+    3  gradschool.duke.edu/financial-support
+         https://gradschool.duke.edu/financial-support/masters-financial-support/
+         https://gradschool.duke.edu/financial-support/tax-information-graduate-students/
+         https://gradschool.duke.edu/financial-support/apply-2027-2028-duke-graduate-school-fellowships/
+    3  gradschool.duke.edu/resource
+         https://gradschool.duke.edu/resource/graduate-student-affairs/
+         https://gradschool.duke.edu/resource/harassment-discrimination-and-other-concerns-interactive-guide-graduate-school-students/
+         https://gradschool.duke.edu/resource/graduate-student-subsidies-and-financial-assistance/
+    2  gradschool.duke.edu/academics/programs-and-degrees
+         https://gradschool.duke.edu/academics/programs-and-degrees/masters-programs/
+         https://gradschool.duke.edu/academics/programs-and-degrees/interdisciplinary-graduate-education-collaboratives/
+    2  gradschool.duke.edu/about
+         https://gradschool.duke.edu/about/duke-graduate-school-glance/
+         https://gradschool.duke.edu/about/duke-graduate-school-awards/
+    2  gradschool.duke.edu/academics/graduate-faculty
+         https://gradschool.duke.edu/academics/graduate-faculty/graduate-faculty-bylaws-and-qualifications/
+         https://gradschool.duke.edu/academics/graduate-faculty/nominate-graduate-faculty/
+    2  gradschool.duke.edu/about/school-governance
+         https://gradschool.duke.edu/about/school-governance/executive-committee-graduate-faculty-ecgf/
+         https://gradschool.duke.edu/about/school-governance/graduate-school-board-visitors/
+    2  gradschool.duke.edu/about/annual-reports-school-history
+         https://gradschool.duke.edu/about/annual-reports-school-history/graduate-school-history-spotlights/
+         https://gradschool.duke.edu/about/annual-reports-school-history/timeline-graduate-school-history/
+    2  gradschool.duke.edu/academics/dgss-and-dgsas/dgs-manual
+         https://gradschool.duke.edu/academics/dgss-and-dgsas/dgs-manual/1-responsibilities-directors-graduate-studies/
+         https://gradschool.duke.edu/academics/dgss-and-dgsas/dgs-manual/2-graduate-school-organization/
+    1  gradschool.duke.edu/academics
+         https://gradschool.duke.edu/academics/graduate-faculty/
+    1  gradschool.duke.edu/giving-graduate-school
+         https://gradschool.duke.edu/giving-graduate-school/
+    1  gradschool.duke.edu/graduate-school-annual-fund
+         https://gradschool.duke.edu/graduate-school-annual-fund/
+    1  gradschool.duke.edu/graduate-school-events
+         https://gradschool.duke.edu/graduate-school-events/
+    1  gradschool.duke.edu/events
+         https://gradschool.duke.edu/events/graduate-and-professional-student-appreciation-week/
+    1  gradschool.duke.edu/professional-development/programs
+         https://gradschool.duke.edu/professional-development/programs/professional-development-resources-masters-students/
+    1  gradschool.duke.edu/karen-l-wrenn-alzheimers-disease-travel-award-graduate-students
+         https://gradschool.duke.edu/karen-l-wrenn-alzheimers-disease-travel-award-graduate-students/

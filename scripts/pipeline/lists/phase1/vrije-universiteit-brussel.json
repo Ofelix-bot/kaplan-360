@@ -1,0 +1,19 @@
+{
+  "source": "VUB English programme pages (sitemap https://www.vub.be/sitemap.xml, /en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/ master and advanced-master pages; postgraduate certificates and out-of-scope programmes skipped; plain fetch) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/advanced-master-european-governance",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/advanced-master-global-health",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/advanced-master-llm-international-and-european-law",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-applied-informatics-artificial-intelligence-data-science",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-applied-sciences-and-engineering-applied-computer-science",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-applied-sciences-and-engineering-computer-science",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-business-engineering-business-technology",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-communication-studies-digital-media-in-europe",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-communication-studies-journalism-media-in-europe",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-educational-sciences",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-international-business",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-management",
+    "https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-linguistics-and-literary-studies"
+  ]
+}

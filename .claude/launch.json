@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "start",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "start", "--", "-p", "3100"],
+      "port": 3100
+    },
+    {
+      "name": "start-3101",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "start", "--", "-p", "3101"],
+      "port": 3101, "autoPort": false
+    },
+    {
+      "name": "card-demo",
+      "runtimeExecutable": "C:/Users/12514/AppData/Local/Temp/claude/C--Users-12514-Desktop-kaplan-360--v201/65ed1342-f03a-4084-8f2d-50878850bb00/scratchpad/venv/Scripts/python.exe",
+      "runtimeArgs": ["-m", "http.server", "3217", "--bind", "127.0.0.1", "--directory", "C:/Users/12514/AppData/Local/Temp/claude/C--Users-12514-Desktop-kaplan-360--v201/65ed1342-f03a-4084-8f2d-50878850bb00/scratchpad/demo"],
+      "port": 3217, "autoPort": false
+    }
+  ]
+}

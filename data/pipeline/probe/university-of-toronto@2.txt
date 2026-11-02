@@ -1,0 +1,75 @@
+# university-of-toronto@2 https://www.sgs.utoronto.ca
+robots sitemaps: https://www.sgs.utoronto.ca/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.sgs.utoronto.ca/wp-sitemap.xml: 16 children (4 course-like)
+sitemaps read 17 · urls 1278 · master's-looking 175
+   84  www.sgs.utoronto.ca/graduate-units
+         https://www.sgs.utoronto.ca/graduate-units/management-rotman-school-of/
+         https://www.sgs.utoronto.ca/graduate-units/aerospace-studies/
+         https://www.sgs.utoronto.ca/graduate-units/anthropology/
+         https://www.sgs.utoronto.ca/graduate-units/applied-psychology-and-human-development/
+   28  www.sgs.utoronto.ca/article
+         https://www.sgs.utoronto.ca/article/new-excellence-is-black-award-fund-aims-to-create-community-and-opportunity-for-black-graduate-students/
+         https://www.sgs.utoronto.ca/article/announcement-of-the-vice-dean-research-and-program-innovation-at-the-school-of-graduate-studies/
+         https://www.sgs.utoronto.ca/article/new-graduate-education-innovation-fund-geif-invites-applications-from-faculty/
+         https://www.sgs.utoronto.ca/article/new-accessibility-services-graduate-and-professional-program-student-handbook/
+   14  www.sgs.utoronto.ca/awards
+         https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/
+         https://www.sgs.utoronto.ca/awards/vanier-canada-graduate-scholarship/
+         https://www.sgs.utoronto.ca/awards/adel-s-sedra-distinguished-graduate-award/
+         https://www.sgs.utoronto.ca/awards/council-of-graduate-schools-proquest-distinguished-dissertation-awards/
+    8  www.sgs.utoronto.ca/degree-types
+         https://www.sgs.utoronto.ca/degree-types/llm/
+         https://www.sgs.utoronto.ca/degree-types/mba/
+         https://www.sgs.utoronto.ca/degree-types/msc/
+         https://www.sgs.utoronto.ca/degree-types/mba-full-time-extended/
+    7  www.sgs.utoronto.ca/policies-guidelines
+         https://www.sgs.utoronto.ca/policies-guidelines/graduate-department-academic-appeals-committee/
+         https://www.sgs.utoronto.ca/policies-guidelines/deactivating-archiving-reactivating-graduate-courses/
+         https://www.sgs.utoronto.ca/policies-guidelines/graduate-courses-other-academic-activities/
+         https://www.sgs.utoronto.ca/policies-guidelines/graduate-seminar-series-courses/
+    7  www.sgs.utoronto.ca/about/whats-new-in-graduate-studies
+         https://www.sgs.utoronto.ca/about/whats-new-in-graduate-studies/graduate-education-innovation-fund/
+         https://www.sgs.utoronto.ca/about/whats-new-in-graduate-studies/humanities-working-group/
+         https://www.sgs.utoronto.ca/about/whats-new-in-graduate-studies/graduate-funding/
+         https://www.sgs.utoronto.ca/about/whats-new-in-graduate-studies/final-oral-examination-review-working-group/
+    7  www.sgs.utoronto.ca/programs
+         https://www.sgs.utoronto.ca/programs/global-executive-master-of-business-administration-for-healthcare-and-the-life-sciences/
+         https://www.sgs.utoronto.ca/programs/global-executive-master-of-business-administration-dual-degree/
+         https://www.sgs.utoronto.ca/programs/executive-master-of-business-administration/
+         https://www.sgs.utoronto.ca/programs/master-of-business-administration-full-time-mba/
+    2  www.sgs.utoronto.ca/future-students
+         https://www.sgs.utoronto.ca/future-students/graduate-fees/
+         https://www.sgs.utoronto.ca/future-students/sponsored-graduate-students/
+    2  www.sgs.utoronto.ca/current-students/program-completion
+         https://www.sgs.utoronto.ca/current-students/program-completion/professional-masters/
+         https://www.sgs.utoronto.ca/current-students/program-completion/research-masters/
+    2  www.sgs.utoronto.ca/tag
+         https://www.sgs.utoronto.ca/tag/graduate-students/
+         https://www.sgs.utoronto.ca/tag/graduate-awards-session/
+    2  www.sgs.utoronto.ca/awards-category
+         https://www.sgs.utoronto.ca/awards-category/masters-awards/
+         https://www.sgs.utoronto.ca/awards-category/prof-masters-awards/
+    1  www.sgs.utoronto.ca/supports/supervision/supervision-guidelines
+         https://www.sgs.utoronto.ca/supports/supervision/supervision-guidelines/supervision-guidelines-for-students-section-2-general-characteristics-of-graduate-supervision/
+    1  www.sgs.utoronto.ca/awards-funding/scholarships-awards
+         https://www.sgs.utoronto.ca/awards-funding/scholarships-awards/ontario-graduate-scholarship-application-instructions/
+    1  www.sgs.utoronto.ca/future-students/international
+         https://www.sgs.utoronto.ca/future-students/international/international-visiting-graduate-students/
+    1  www.sgs.utoronto.ca/current-students
+         https://www.sgs.utoronto.ca/current-students/after-you-graduate/
+    1  www.sgs.utoronto.ca/supports
+         https://www.sgs.utoronto.ca/supports/graduate-wellness-services-at-sgs/
+    1  www.sgs.utoronto.ca/about
+         https://www.sgs.utoronto.ca/about/whats-new-in-graduate-studies/
+    1  www.sgs.utoronto.ca/gradhub
+         https://www.sgs.utoronto.ca/gradhub/your-graduate-experience/
+    1  www.sgs.utoronto.ca/about/whats-new-in-graduate-studies/graduate-education-innovation-fund
+         https://www.sgs.utoronto.ca/about/whats-new-in-graduate-studies/graduate-education-innovation-fund/winners/
+    1  www.sgs.utoronto.ca/about/whats-new-in-graduate-studies/graduate-funding
+         https://www.sgs.utoronto.ca/about/whats-new-in-graduate-studies/graduate-funding/reports/
+    1  www.sgs.utoronto.ca/awards-funding/scholarships-awards/ontario-graduate-scholarship-application-instructions
+         https://www.sgs.utoronto.ca/awards-funding/scholarships-awards/ontario-graduate-scholarship-application-instructions/referee-instructions/
+    1  www.sgs.utoronto.ca/pgroup
+         https://www.sgs.utoronto.ca/pgroup/management-mba/
+    1  www.sgs.utoronto.ca/question
+         https://www.sgs.utoronto.ca/question/is-a-supervisor-assigned-by-the-graduate-unit-or-secured-by-the-applicant/

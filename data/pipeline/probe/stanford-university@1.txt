@@ -1,0 +1,3 @@
+# stanford-university@1 https://www.stanford.edu
+robots sitemaps: https://www.stanford.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 27 · master's-looking 0

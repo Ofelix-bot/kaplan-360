@@ -1,0 +1,3 @@
+http://d08starter.it-dev-lamp.aws.umd.edu/
+http://d08starter.it-dev-lamp.aws.umd.edu/students/new-students
+http://d08starter.it-dev-lamp.aws.umd.edu/register-and-enroll

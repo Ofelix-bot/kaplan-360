@@ -1,0 +1,19 @@
+{
+ "source": "Graduate Division programs https://graduate.ucr.edu/programs -> school master's pages (Business, Education, SPP, SMPPH) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://business.ucr.edu/mba",
+  "https://business.ucr.edu/pmba",
+  "https://business.ucr.edu/mfin",
+  "https://business.ucr.edu/mpac",
+  "https://business.ucr.edu/msba",
+  "https://education.ucr.edu/masters/education-society-and-culture",
+  "https://education.ucr.edu/masters/educational-psychology",
+  "https://education.ucr.edu/masters/higher-education-administration-and-policy",
+  "https://education.ucr.edu/masters/special-education-and-autism",
+  "https://education.ucr.edu/masters/stem-education-equity",
+  "https://education.ucr.edu/med-education-policy-analysis-and-leadership",
+  "https://spp.ucr.edu/mpp",
+  "https://smpph.ucr.edu/master-public-health"
+ ]
+}

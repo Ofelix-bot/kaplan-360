@@ -1,0 +1,128 @@
+# de-montfort-university https://www.dmu.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 13177 · master's-looking 1498
+  245  www.dmu.ac.uk/documents/research-documents/graduate-school
+         https://www.dmu.ac.uk/documents/research-documents/graduate-school/applicationformadmission.doc
+         https://www.dmu.ac.uk/documents/research-documents/graduate-school/applicationform-annexe.doc
+         https://www.dmu.ac.uk/documents/research-documents/graduate-school/cop-2012/code-of-practice-2012-entire-document.pdf
+         https://www.dmu.ac.uk/documents/research-documents/graduate-school/cop-2012/codeofpractice2012-introduction.pdf
+  151  www.dmu.ac.uk/study/courses/undergraduate-courses
+         https://www.dmu.ac.uk/study/courses/undergraduate-courses/3d-animation-and-visual-effects/3d-animation-visual-effects.aspx
+         https://www.dmu.ac.uk/study/courses/undergraduate-courses/accounting-and-finance-bsc-degree/accounting-and-finance-bsc-hons.aspx
+         https://www.dmu.ac.uk/study/courses/undergraduate-courses/accounting-bsc-hons/accounting-bsc-hons.aspx
+         https://www.dmu.ac.uk/study/courses/undergraduate-courses/accounting-business-management-bsc-degree/accounting-with-business-management-bsc-hons.aspx
+  140  www.dmu.ac.uk/study/courses/postgraduate-courses
+         https://www.dmu.ac.uk/study/courses/postgraduate-courses/accounting-and-finance-msc-degree/accounting-and-finance-msc.aspx
+         https://www.dmu.ac.uk/study/courses/postgraduate-courses/accounting-and-finance-msc-degree/module-details.aspx
+         https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-biomedical-science-mscpg-dippg-cert/advanced-biomedical-science.aspx
+         https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-clinical-practice/advanced-clinical-practice-msc.aspx
+   91  www.dmu.ac.uk/about-dmu/news/2016
+         https://www.dmu.ac.uk/about-dmu/news/2016/january/class-of-2016-dmu-politics-graduate-lands-role-teaching-on-the-course-he-loved.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2016/january/class-of-2016-master&#39;s-degree-puts-dmu-business-graduate-in-premier-league-for-jobs.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2016/january/class-of-2016-nursing-graduate-draws-on-personal-caring-experience-to-win-full-time-job.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2016/january/class-of-2016-studying-overseas-at-dmu-helps-master&#39;s-graduate-from-uae-find-job-easily.aspx
+   83  www.dmu.ac.uk/about-dmu/news/2015
+         https://www.dmu.ac.uk/about-dmu/news/2015/april/dmu-graduate-from-nepal-urges-students-and-staff-to-help-earthquake-victims-as-he-raises-funds-on-campus-11233004.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2015/april/dmu-graduate-shares-victorias-secret-in-hong-kong-08302304.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2015/april/dmu-graduate-survives-bruising-arctic-adventure.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2015/april/dmu-graduate-teams-up-with-made-in-chelsea-star-for-her-latest-lingerie-range-08252204.aspx
+   69  www.dmu.ac.uk/study/courses/learning-beyond-registration
+         https://www.dmu.ac.uk/study/courses/learning-beyond-registration/postgraduate/
+         https://www.dmu.ac.uk/study/courses/learning-beyond-registration/postgraduate/minor-injuries-management.aspx
+         https://www.dmu.ac.uk/study/courses/learning-beyond-registration/postgraduate/minor-illness-management.aspx
+         https://www.dmu.ac.uk/study/courses/learning-beyond-registration/postgraduate/principles-of-end-of-life-care.aspx
+   66  www.dmu.ac.uk/about-dmu/news/2017
+         https://www.dmu.ac.uk/about-dmu/news/2017/april/ben-cant-wait-to-dig-into-graduate-role-at-jcb.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2017/april/marketing-masters-degree-brings-career-into-focus-for-rishi.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2017/april/postgraduate-students-work-in-the-spotlight.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2017/april/stand-out-dmu-nursing-graduate-shortlisted-for-national-mentor-award.aspx
+   40  www.dmu.ac.uk/about-dmu/news/2019
+         https://www.dmu.ac.uk/about-dmu/news/2019/april/aaroons-investment-in-career-development-pays-off-with-graduate-role.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2019/april/cool-learnings-for-masters-students-on-uk-and-international-trips.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2019/april/hot-summer-ahead-for-design-crafts-graduate-morgan.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2019/april/photography-graduate-achieves-her-dream-of-working-with-the-rps.aspx
+   38  www.dmu.ac.uk/study/business-and-law/undergraduate-modules
+         https://www.dmu.ac.uk/study/business-and-law/undergraduate-modules/third-year/law-project.aspx
+         https://www.dmu.ac.uk/study/business-and-law/undergraduate-modules/third-year/lawyering.aspx
+         https://www.dmu.ac.uk/study/business-and-law/undergraduate-modules/third-year/leadership-for-change.aspx
+         https://www.dmu.ac.uk/study/business-and-law/undergraduate-modules/third-year/legal-history.aspx
+   37  www.dmu.ac.uk/about-dmu/news/2018
+         https://www.dmu.ac.uk/about-dmu/news/2018/april/matthew-hopes-masters-will-make-his-amercian-dream-come-true.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2018/april/music-tech-graduate-credits-dmu-for-helping-her-gain-confidence-to-perform-on-a-global-stage.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2018/august/class-of-2018-dmu-recognises-you-for-who-you-are-says-graduate-molly.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2018/december/engineering-students-get-masterclass-in-what-employers-are-looking-for.aspx
+   30  www.dmu.ac.uk/about-dmu/news/2023
+         https://www.dmu.ac.uk/about-dmu/news/2023/april/dmu-graduate-gains-key-role-with-kpmg-in-jordan.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2023/december/beaumont-leys-is-in-my-blood-how-dmu-graduate-martin-is-raising-the-aspirations-of-an-entire-community.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2023/december/former-kenyan-international-turns-to-dmu-and-the-fifa-master-to-fine-tune-her-skills-and-promote-womens-rights-in-football.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2023/december/mechatronics-graduate-lands-high-flying-job-in-aerospace-industry.aspx
+   29  www.dmu.ac.uk/documents/study-documents/undergraduate-study-documents
+         https://www.dmu.ac.uk/documents/study-documents/undergraduate-study-documents/accommodation/accommodationguaranteeforinternationalstudents.pdf
+         https://www.dmu.ac.uk/documents/study-documents/undergraduate-study-documents/accommodation/libertylivingast17-18.pdf
+         https://www.dmu.ac.uk/documents/study-documents/undergraduate-study-documents/accommodation/policycertificate-sample.pdf
+         https://www.dmu.ac.uk/documents/study-documents/undergraduate-study-documents/accommodation/sacleaflet.pdf
+   26  www.dmu.ac.uk/about-dmu/news/2022
+         https://www.dmu.ac.uk/about-dmu/news/2022/april/dmu-graduate-joins-celebration-of-britains-most-successful-sme-female-founders.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2022/april/postgraduate-research-celebrated-at-2022-doctoral-college-showcase.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2022/august/award-win-just-the-medicine-for-dmu-graduate-yasin.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2022/august/graduates-celebrate-their-degrees-after-overcoming-some-of-the-biggest-social-challenges-of-our-lifetime.aspx
+   22  www.dmu.ac.uk/about-dmu/news/2021
+         https://www.dmu.ac.uk/about-dmu/news/2021/september/brace-of-business-awards-for-dmu-graduates-and-staff.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2021/september/dmu-graduate-hoping-to-take-the-drinks-industry-by-storm-as-sales-pass-a-quarter-of-a-million.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2021/september/dmu-graduates-designs-to-grace-london-fashion-week.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2021/september/dyslexia-and-dyspraxia-doesnt-hold-daisy-back-from-landing-coveted-graduate-role.aspx
+   21  www.dmu.ac.uk/about-dmu/news/2024
+         https://www.dmu.ac.uk/about-dmu/news/2024/april/design-crafts-graduate-invited-to-be-part-of-rising-stars-gallery-exhibition.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2024/april/dmu-student-looking-to-secure-prestigious-undergraduate-of-the-year-award.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2024/december/talented-students-and-graduates-celebrated-at-dmu-made-entrepreneurship-awards-2024.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2024/february/graduate-wins-prestigious-study-uk-alumni-award-for-culture-and-creativity.aspx
+   20  www.dmu.ac.uk/about-dmu/events/events-calendar
+         https://www.dmu.ac.uk/about-dmu/events/events-calendar/2023/june/graduate-fashion-week.aspx
+         https://www.dmu.ac.uk/about-dmu/events/events-calendar/2023/june/postgrad-event.aspx
+         https://www.dmu.ac.uk/about-dmu/events/events-calendar/2023/september/graduate-recruitment-and-placements-fair.aspx
+         https://www.dmu.ac.uk/about-dmu/events/events-calendar/2020/february/arts-design-and-humanities-postgraduate-coffee-morning.aspx
+   19  www.dmu.ac.uk/about-dmu/news/2020
+         https://www.dmu.ac.uk/about-dmu/news/2020/april/new-online-summer-school-aims-to-help-entrepreneurial-students-and-graduates.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2020/august/fifa-master-course-taught-at-dmu-named-the-best-in-europe-for-a-record-eighth-year.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2020/august/landslide-victory-for-dmu-graduate-in-fashanne-awards.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2020/february/graduate&#39;s-validating-return-to-campus.aspx
+   18  www.dmu.ac.uk/dubai/study-at-dmu-dubai/undergraduate-courses
+         https://www.dmu.ac.uk/dubai/study-at-dmu-dubai/undergraduate-courses/interior-design.aspx
+         https://www.dmu.ac.uk/dubai/study-at-dmu-dubai/undergraduate-courses/international-year-zero.aspx
+         https://www.dmu.ac.uk/dubai/study-at-dmu-dubai/undergraduate-courses/mechanical-engineering.aspx
+         https://www.dmu.ac.uk/dubai/study-at-dmu-dubai/undergraduate-courses/accounting-and-finance.aspx
+   17  www.dmu.ac.uk/health-life-sciences/undergraduate
+         https://www.dmu.ac.uk/health-life-sciences/undergraduate/careers-in-allied-health-professions.aspx
+         https://www.dmu.ac.uk/health-life-sciences/undergraduate/careers-in-criminology-policing.aspx
+         https://www.dmu.ac.uk/health-life-sciences/undergraduate/careers-in-education.aspx
+         https://www.dmu.ac.uk/health-life-sciences/undergraduate/careers-in-nursing-midwifery.aspx
+   17  www.dmu.ac.uk/current-students/graduations/gown-hood-hire
+         https://www.dmu.ac.uk/current-students/graduations/gown-hood-hire/guidelines-for-ordering-academic-dress/mbus-master-of-business-studies.aspx
+         https://www.dmu.ac.uk/current-students/graduations/gown-hood-hire/guidelines-for-ordering-academic-dress/maccfin-hons-master-of-accounting-and-finance.aspx
+         https://www.dmu.ac.uk/current-students/graduations/gown-hood-hire/guidelines-for-ordering-academic-dress/master-of-architecture.aspx
+         https://www.dmu.ac.uk/current-students/graduations/gown-hood-hire/guidelines-for-ordering-academic-dress/masters-by-research.aspx
+   17  www.dmu.ac.uk/about-dmu/news/2025
+         https://www.dmu.ac.uk/about-dmu/news/2025/april/postgraduate-students-nominate-dmu-for-national-award.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2025/april/a-list-celebrities-wearing-design-of-dmu-contour-graduated.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2025/august/new-companion-of-dmu-gus-john-calls-on-graduates-to-face-up-to-social-injustice.aspx
+         https://www.dmu.ac.uk/about-dmu/news/2025/december/a-full-circle-moment-for-dmu-architecture-graduate.aspx
+   15  www.dmu.ac.uk/dubai/study-at-dmu-dubai/postgraduate-courses
+         https://www.dmu.ac.uk/dubai/study-at-dmu-dubai/postgraduate-courses/architecture-and-sustainability.aspx
+         https://www.dmu.ac.uk/dubai/study-at-dmu-dubai/postgraduate-courses/artificial-intelligence.aspx
+         https://www.dmu.ac.uk/dubai/study-at-dmu-dubai/postgraduate-courses/data-analytics.aspx
+         https://www.dmu.ac.uk/dubai/study-at-dmu-dubai/postgraduate-courses/design-innovation-and-management.aspx
+   15  www.dmu.ac.uk/documents/doctoral-college/current-students
+         https://www.dmu.ac.uk/documents/doctoral-college/current-students/research-development-programme/postgraduateswhoteach.pdf
+         https://www.dmu.ac.uk/documents/doctoral-college/current-students/research-development-programme/schedules/2013-schedules/sept-to-dec-2013-training-schedule-discipline-masters.pdf
+         https://www.dmu.ac.uk/documents/doctoral-college/current-students/research-development-programme/schedules/2013-schedules/sept-to-dec-2013-training-schedule-discipline-masters2.pdf
+         https://www.dmu.ac.uk/documents/doctoral-college/current-students/research-development-programme/schedules/2013-schedules/sept-to-dec-2013-training-schedule-generic-masters.pdf
+   11  www.dmu.ac.uk/study/business-and-law/postgraduate-modules
+         https://www.dmu.ac.uk/study/business-and-law/postgraduate-modules/accounting-and-finance/an-evaluation-of-management-accounting.aspx
+         https://www.dmu.ac.uk/study/business-and-law/postgraduate-modules/accounting-and-finance/dissertation.aspx
+         https://www.dmu.ac.uk/study/business-and-law/postgraduate-modules/accounting-and-finance/research-methods.aspx
+         https://www.dmu.ac.uk/study/business-and-law/postgraduate-modules/advertising-and-public-relations-management/brand-pr.aspx
+   10  www.dmu.ac.uk/business-law/postgraduate
+         https://www.dmu.ac.uk/business-law/postgraduate/accounting-and-finance.aspx
+         https://www.dmu.ac.uk/business-law/postgraduate/business.aspx
+         https://www.dmu.ac.uk/business-law/postgraduate/human-resource-management.aspx
+         https://www.dmu.ac.uk/business-law/postgraduate/marketing.aspx

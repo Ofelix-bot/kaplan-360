@@ -1,0 +1,11 @@
+{
+  "source": "UNE international on-campus course lists https://www.une.edu.au/international/study-options/our-courses and /une-sydney-courses (browser; Armidale/Sydney on-campus master's in scope; most UNE masters are online-only) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.une.edu.au/study/courses/master-of-artificial-intelligence",
+    "https://www.une.edu.au/study/courses/master-of-business-administration-international",
+    "https://www.une.edu.au/study/courses/master-of-cybersecurity-and-computing",
+    "https://www.une.edu.au/study/courses/master-of-information-technology",
+    "https://www.une.edu.au/study/courses/master-of-nursing-practice-preregistration"
+  ]
+}

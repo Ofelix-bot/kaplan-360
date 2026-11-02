@@ -1,0 +1,585 @@
+Merged 141 duplicate course page(s)
+# Programme pipeline report (2026-10-19)
+
+Programmes: 6400 · needs review: 4036 · Kaplan matches: 87129
+
+| Field | Filled | By Claude |
+| --- | --- | --- |
+| International tuition | 3470 / 6400 | 3470 |
+| IELTS overall | 3660 / 6400 | 414 |
+| Duration | 5354 / 6400 | 521 |
+| Intakes | 4546 / 6400 | 2811 |
+| Academic requirement | 5474 / 6400 | 327 |
+
+By university: Aston University 32 · Birmingham City University 44 · Northumbria University at Newcastle 49 · University of Portsmouth 71 · Murdoch University 20 · Monash University 26 · University College Dublin 68 · Nanyang Technological University, Singapore (NTU) 57 · Imperial College London 34 · University of Oxford 28 · University of Cambridge 5 · UCL 142 · The University of Edinburgh 81 · King's College London 70 · The University of Manchester 90 · University of Bristol 73 · The London School of Economics and Political Science (LSE) 56 · The University of Warwick 70 · University of Birmingham 67 · University of Leeds 75 · University of Glasgow 83 · The University of Sheffield 55 · Durham University 26 · University of Nottingham 60 · Queen Mary University of London 92 · University of Southampton 80 · University of St Andrews 35 · University of Bath 44 · The University of Exeter 71 · University of Liverpool 78 · Newcastle University 77 · University of York 71 · Lancaster University 31 · Queen's University Belfast 59 · Cardiff University 61 · Loughborough University 60 · University of Strathclyde 92 · University of Surrey 56 · University of Sussex 68 · University of Aberdeen 65 · The University of New South Wales (UNSW Sydney) 43 · The University of Melbourne 77 · The University of Sydney 44 · The University of Queensland 36 · Adelaide University 54 · University of Technology Sydney 59 · RMIT University 28 · University of Wollongong 31 · Deakin University 44 · Griffith University 38 · Queensland University of Technology (QUT) 26 · La Trobe University 34 · The University of Newcastle, Australia (UON) 30 · Swinburne University of Technology 22 · Trinity College Dublin, The University of Dublin 46 · University College Cork 44 · National University of Ireland Galway 46 · Singapore Management University 13 · Anglia Ruskin University 54 · Bangor University 47 · Brunel University London 55 · Canterbury Christ Church University 22 · Coventry University 53 · Cranfield University 11 · De Montfort University 24 · Edinburgh Napier University 29 · Goldsmiths, University of London 31 · Heriot-Watt University 43 · Leeds Beckett University 68 · London Metropolitan University 45 · Middlesex University 47 · Oxford Brookes University 42 · Queen Margaret University , Edinburgh 17 · Sheffield Hallam University 81 · SOAS University of London 13 · Swansea University 59 · University of Bradford 41 · University of Brighton 38 · University of East Anglia (UEA) 105 · University of East London 60 · University of Greenwich 29 · University of Hull 29 · University of Lancashire 38 · The University of Northampton 21 · University of Roehampton, London 42 · University of Salford 49 · University of Stirling 43 · Bond University 44 · Charles Darwin University 20 · Flinders University 3 · Southern Cross University 6 · Western Sydney University 29 · James Cook University 4 · University of Sunshine Coast 15 · Victoria University 16 · Maynooth University 35 · Technological University Dublin 30 · Glasgow Caledonian University 8 · Kingston University, London 43 · Nottingham Trent University 56 · University of Hertfordshire 98 · University Of South Wales 51 · University of Wolverhampton 48 · Australian Catholic University 22 · Edith Cowan University 33 · The University of Notre Dame, Australia 22 · University of Tasmania 12 · Massachusetts Institute of Technology (MIT) 6 · Stanford University 11 · University of Pennsylvania 61 · Johns Hopkins University 44 · University of California, Berkeley (UCB) 48 · University of Chicago 8 · Northwestern University 33 · University of California, Los Angeles (UCLA) 12 · New York University (NYU) 107 · Duke University 2 · University of Illinois at Urbana-Champaign 36 · University of Wisconsin-Madison 38 · University of California, Davis 2 · Georgia Institute of Technology 16 · Washington University in St. Louis 2 · Texas A&M University 53 · University of California, Irvine 9 · University of Maryland, College Park 95 · University of Massachusetts Amherst 35 · Georgetown University 31 · The University of Arizona 19 · North Carolina State University 38 · University of Colorado Boulder 27 · Northeastern University 104 · The University of Hong Kong 30 · The Chinese University of Hong Kong (CUHK) 57 · The Hong Kong University of Science and Technology 23 · The Hong Kong Polytechnic University 44 · University of Toronto 4 · University of British Columbia 49 · University of Alberta 46 · University of Ottawa 51 · University of Calgary 11 · The University of Auckland 7 · Massey University 20 · Victoria University of Wellington 25 · University of Canterbury 36 · University of Waikato 26 · Lincoln University 10 · Auckland University of Technology (AUT) 24 · University of Southern Queensland 2 · Central Queensland University (CQUniversity Australia) 30 · University of Leicester 37 · University of Kent 1 · Royal Holloway University of London 4 · Dublin City University 58
+
+By discipline: accounting-finance 702 · business 1134 · ai-data 771 · it 524 · marketing 235 · psychology-counselling 527 · law-criminology 620 · communication 409 · education 614 · construction 130 · healthcare-nursing 515 · sports-science 154 · hospitality-tourism 65
+
+## Tier-1 coverage
+
+| Institution | Country | Programmes | Status |
+| --- | --- | --- | --- |
+| UCL | United Kingdom | 142 | collected |
+| New York University (NYU) | United States | 107 | collected |
+| University of East Anglia (UEA) | United Kingdom | 105 | collected |
+| Northeastern University | United States | 104 | collected |
+| University of Hertfordshire | United Kingdom | 98 | collected |
+| University of Maryland, College Park | United States | 95 | collected |
+| Queen Mary University of London | United Kingdom | 92 | collected |
+| University of Strathclyde | United Kingdom | 92 | collected |
+| The University of Manchester | United Kingdom | 90 | collected |
+| University of Glasgow | United Kingdom | 83 | collected |
+| The University of Edinburgh | United Kingdom | 81 | collected |
+| Sheffield Hallam University | United Kingdom | 81 | collected |
+| University of Southampton | United Kingdom | 80 | collected |
+| University of Liverpool | United Kingdom | 78 | collected |
+| The University of Melbourne | Australia | 77 | collected |
+| Newcastle University | United Kingdom | 77 | collected |
+| University of Leeds | United Kingdom | 75 | collected |
+| University of Bristol | United Kingdom | 73 | collected |
+| The University of Exeter | United Kingdom | 71 | collected |
+| University of York | United Kingdom | 71 | collected |
+| University of Portsmouth (Kaplan partner) | United Kingdom | 71 | collected |
+| King's College London | United Kingdom | 70 | collected |
+| The University of Warwick | United Kingdom | 70 | collected |
+| University College Dublin (Kaplan partner) | Ireland | 68 | collected |
+| University of Sussex | United Kingdom | 68 | collected |
+| Leeds Beckett University | United Kingdom | 68 | collected |
+| University of Birmingham | United Kingdom | 67 | collected |
+| University of Aberdeen | United Kingdom | 65 | collected |
+| University of Pennsylvania | United States | 61 | collected |
+| Cardiff University | United Kingdom | 61 | collected |
+| University of Nottingham | United Kingdom | 60 | collected |
+| Loughborough University | United Kingdom | 60 | collected |
+| University of East London | United Kingdom | 60 | collected |
+| University of Technology Sydney | Australia | 59 | collected |
+| Queen's University Belfast | United Kingdom | 59 | collected |
+| Swansea University | United Kingdom | 59 | collected |
+| Dublin City University | Ireland | 58 | collected |
+| Nanyang Technological University, Singapore (NTU) | Singapore | 57 | collected |
+| The Chinese University of Hong Kong (CUHK) | Hong Kong SAR | 57 | collected |
+| The London School of Economics and Political Science (LSE) | United Kingdom | 56 | collected |
+| University of Surrey | United Kingdom | 56 | collected |
+| Nottingham Trent University | United Kingdom | 56 | collected |
+| The University of Sheffield | United Kingdom | 55 | collected |
+| Brunel University London | United Kingdom | 55 | collected |
+| Adelaide University | Australia | 54 | collected |
+| Anglia Ruskin University | United Kingdom | 54 | collected |
+| Texas A&M University | United States | 53 | collected |
+| Coventry University | United Kingdom | 53 | collected |
+| University of Ottawa | Canada | 51 | collected |
+| University Of South Wales | United Kingdom | 51 | collected |
+| University of British Columbia | Canada | 49 | collected |
+| Northumbria University at Newcastle (Kaplan partner) | United Kingdom | 49 | collected |
+| University of Salford | United Kingdom | 49 | collected |
+| University of California, Berkeley (UCB) | United States | 48 | collected |
+| University of Wolverhampton | United Kingdom | 48 | collected |
+| Bangor University | United Kingdom | 47 | collected |
+| Middlesex University | United Kingdom | 47 | collected |
+| Trinity College Dublin, The University of Dublin | Ireland | 46 | collected |
+| University of Alberta | Canada | 46 | collected |
+| National University of Ireland Galway | Ireland | 46 | collected |
+| London Metropolitan University | United Kingdom | 45 | collected |
+| Johns Hopkins University | United States | 44 | collected |
+| The University of Sydney | Australia | 44 | collected |
+| The Hong Kong Polytechnic University | Hong Kong SAR | 44 | collected |
+| University of Bath | United Kingdom | 44 | collected |
+| University College Cork | Ireland | 44 | collected |
+| Deakin University | Australia | 44 | collected |
+| Bond University | Australia | 44 | collected |
+| Birmingham City University (Kaplan partner) | United Kingdom | 44 | collected |
+| The University of New South Wales (UNSW Sydney) | Australia | 43 | collected |
+| Heriot-Watt University | United Kingdom | 43 | collected |
+| University of Stirling | United Kingdom | 43 | collected |
+| Kingston University, London | United Kingdom | 43 | collected |
+| Oxford Brookes University | United Kingdom | 42 | collected |
+| University of Roehampton, London | United Kingdom | 42 | collected |
+| University of Bradford | United Kingdom | 41 | collected |
+| University of Wisconsin-Madison | United States | 38 | collected |
+| Griffith University | Australia | 38 | collected |
+| North Carolina State University | United States | 38 | collected |
+| University of Brighton | United Kingdom | 38 | collected |
+| University of Lancashire | United Kingdom | 38 | collected |
+| University of Leicester | United Kingdom | 37 | collected |
+| The University of Queensland | Australia | 36 | collected |
+| University of Illinois at Urbana-Champaign | United States | 36 | collected |
+| University of Canterbury | New Zealand | 36 | collected |
+| University of St Andrews | United Kingdom | 35 | collected |
+| University of Massachusetts Amherst | United States | 35 | collected |
+| Maynooth University | Ireland | 35 | collected |
+| Imperial College London | United Kingdom | 34 | collected |
+| La Trobe University | Australia | 34 | collected |
+| Northwestern University | United States | 33 | collected |
+| Edith Cowan University | Australia | 33 | collected |
+| Aston University (Kaplan partner) | United Kingdom | 32 | collected |
+| Lancaster University | United Kingdom | 31 | collected |
+| University of Wollongong | Australia | 31 | collected |
+| Georgetown University | United States | 31 | collected |
+| Goldsmiths, University of London | United Kingdom | 31 | collected |
+| The University of Hong Kong | Hong Kong SAR | 30 | collected |
+| The University of Newcastle, Australia (UON) | Australia | 30 | collected |
+| Central Queensland University (CQUniversity Australia) | Australia | 30 | collected |
+| Technological University Dublin | Ireland | 30 | collected |
+| Western Sydney University | Australia | 29 | collected |
+| University of Hull | United Kingdom | 29 | collected |
+| University of Greenwich | United Kingdom | 29 | collected |
+| Edinburgh Napier University | United Kingdom | 29 | collected |
+| University of Oxford | United Kingdom | 28 | collected |
+| RMIT University | Australia | 28 | collected |
+| University of Colorado Boulder | United States | 27 | collected |
+| Monash University (Kaplan partner) | Australia | 26 | collected |
+| Durham University | United Kingdom | 26 | collected |
+| Queensland University of Technology (QUT) | Australia | 26 | collected |
+| University of Waikato | New Zealand | 26 | collected |
+| Victoria University of Wellington | New Zealand | 25 | collected |
+| Auckland University of Technology (AUT) | New Zealand | 24 | collected |
+| De Montfort University | United Kingdom | 24 | collected |
+| The Hong Kong University of Science and Technology | Hong Kong SAR | 23 | collected |
+| Swinburne University of Technology | Australia | 22 | collected |
+| Australian Catholic University | Australia | 22 | collected |
+| The University of Notre Dame, Australia | Australia | 22 | collected |
+| Canterbury Christ Church University | United Kingdom | 22 | collected |
+| The University of Northampton | United Kingdom | 21 | collected |
+| Massey University | New Zealand | 20 | collected |
+| Murdoch University (Kaplan partner) | Australia | 20 | collected |
+| Charles Darwin University | Australia | 20 | collected |
+| The University of Arizona | United States | 19 | collected |
+| Queen Margaret University , Edinburgh | United Kingdom | 17 | collected |
+| Georgia Institute of Technology | United States | 16 | collected |
+| Victoria University | Australia | 16 | collected |
+| University of Sunshine Coast | Australia | 15 | collected |
+| Singapore Management University | Singapore | 13 | collected |
+| SOAS University of London | United Kingdom | 13 | collected |
+| University of California, Los Angeles (UCLA) | United States | 12 | collected |
+| University of Tasmania | Australia | 12 | collected |
+| Stanford University | United States | 11 | collected |
+| University of Calgary | Canada | 11 | collected |
+| Cranfield University | United Kingdom | 11 | collected |
+| Lincoln University | New Zealand | 10 | collected |
+| University of California, Irvine | United States | 9 | collected |
+| University of Chicago | United States | 8 | collected |
+| Glasgow Caledonian University | United Kingdom | 8 | collected |
+| The University of Auckland | New Zealand | 7 | collected |
+| Massachusetts Institute of Technology (MIT) | United States | 6 | collected |
+| Southern Cross University | Australia | 6 | collected |
+| University of Cambridge | United Kingdom | 5 | collected |
+| University of Toronto | Canada | 4 | collected |
+| James Cook University | Australia | 4 | collected |
+| Royal Holloway University of London | United Kingdom | 4 | collected |
+| Flinders University | Australia | 3 | collected |
+| Duke University | United States | 2 | collected |
+| University of California, Davis | United States | 2 | collected |
+| Washington University in St. Louis | United States | 2 | collected |
+| University of Southern Queensland | Australia | 2 | collected |
+| University of Kent | United Kingdom | 1 | collected |
+| Harvard University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| California Institute of Technology (Caltech) | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| ETH Zurich - Swiss Federal Institute of Technology | Switzerland | 0 | not configured yet |
+| National University of Singapore (NUS) | Singapore | 0 | skipped: programme catalogue renders cards without links and pages by script; faculty sites differ; manual queue |
+| Peking University | China (Mainland) | 0 | not configured yet |
+| Tsinghua University | China (Mainland) | 0 | not configured yet |
+| Cornell University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Yale University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| EPFL | Switzerland | 0 | not configured yet |
+| Technical University of Munich | Germany | 0 | not configured yet |
+| Fudan University | China (Mainland) | 0 | not configured yet |
+| Princeton University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| The Australian National University | Australia | 0 | no candidates: no candidate URLs found |
+| McGill University | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Université PSL | France | 0 | not configured yet |
+| Shanghai Jiao Tong University | China (Mainland) | 0 | not configured yet |
+| Seoul National University | South Korea | 0 | not configured yet |
+| The University of Tokyo | Japan | 0 | not configured yet |
+| Yonsei University | South Korea | 0 | not configured yet |
+| Columbia University | United States | 0 | candidates found, not yet extracted |
+| Institut Polytechnique de Paris | France | 0 | not configured yet |
+| Zhejiang University | China (Mainland) | 0 | not configured yet |
+| Delft University of Technology | Netherlands | 0 | not configured yet |
+| University of Michigan-Ann Arbor | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| City University of Hong Kong | Hong Kong SAR | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Korea University | South Korea | 0 | not configured yet |
+| National Taiwan University (NTU) | Taiwan | 0 | not configured yet |
+| Carnegie Mellon University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Universiti Malaya (UM) | Malaysia | 0 | not configured yet |
+| KU Leuven | Belgium | 0 | not configured yet |
+| University of Amsterdam | Netherlands | 0 | not configured yet |
+| Ludwig-Maximilians-Universität München | Germany | 0 | not configured yet |
+| King Fahd University of Petroleum & Minerals | Saudi Arabia | 0 | not configured yet |
+| Kyoto University | Japan | 0 | not configured yet |
+| KAIST - Korea Advanced Institute of Science & Technology | South Korea | 0 | not configured yet |
+| Brown University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Lund University | Sweden | 0 | not configured yet |
+| University of Texas at Austin | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Sorbonne University | France | 0 | not configured yet |
+| Université Paris-Saclay | France | 0 | not configured yet |
+| The University of Western Australia | Australia | 0 | no candidates: sitemap https://www.uwa.edu.au/search/sitemap.xml: http HTTP 404; sitemap https://www.uwa.edu.au/masterbrand/sitemap.xml: robots disallowed by ro |
+| University of California, San Diego (UCSD) | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| KTH Royal Institute of Technology | Sweden | 0 | not configured yet |
+| Universidad de Buenos Aires (UBA) | Argentina | 0 | not configured yet |
+| Ruprecht-Karls-Universität Heidelberg | Germany | 0 | not configured yet |
+| Politecnico di Milano | Italy | 0 | not configured yet |
+| Uppsala University | Sweden | 0 | not configured yet |
+| Nanjing University | China (Mainland) | 0 | not configured yet |
+| University of Copenhagen | Denmark | 0 | not configured yet |
+| Pennsylvania State University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Washington | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Boston University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Osaka University | Japan | 0 | not configured yet |
+| Institute of Science Tokyo | Japan | 0 | not configured yet |
+| Freie Universitaet Berlin | Germany | 0 | not configured yet |
+| University of Zurich | Switzerland | 0 | not configured yet |
+| Purdue University | United States | 0 | candidates found, not yet extracted |
+| Tohoku University | Japan | 0 | not configured yet |
+| RWTH Aachen University | Germany | 0 | not configured yet |
+| Technical University of Denmark | Denmark | 0 | not configured yet |
+| Pohang University of Science And Technology (POSTECH) | South Korea | 0 | not configured yet |
+| King Saud University | Saudi Arabia | 0 | not configured yet |
+| Sungkyunkwan University(SKKU) | South Korea | 0 | not configured yet |
+| Qatar University | Qatar | 0 | not configured yet |
+| KIT, Karlsruhe Institute of Technology | Germany | 0 | not configured yet |
+| Sapienza University of Rome | Italy | 0 | not configured yet |
+| University of Waterloo | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Utrecht University | Netherlands | 0 | not configured yet |
+| Lomonosov Moscow State University | Russia | 0 | not configured yet |
+| Indian Institute of Technology Delhi (IITD) | India | 0 | not configured yet |
+| Leiden University | Netherlands | 0 | not configured yet |
+| Pontificia Universidad Católica de Chile (UC) | Chile | 0 | not configured yet |
+| Rice University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Alma Mater Studiorum - University of Bologna | Italy | 0 | not configured yet |
+| University of Helsinki | Finland | 0 | not configured yet |
+| Aalto University | Finland | 0 | not configured yet |
+| Macquarie University | Australia | 0 | no candidates: no candidate URLs found |
+| Aarhus University | Denmark | 0 | not configured yet |
+| Universiti Sains Malaysia (USM) | Malaysia | 0 | not configured yet |
+| Universiti Kebangsaan Malaysia (UKM) | Malaysia | 0 | not configured yet |
+| University of Oslo | Norway | 0 | not configured yet |
+| Universidade de São Paulo | Brazil | 0 | not configured yet |
+| Indian Institute of Technology Bombay (IITB) | India | 0 | not configured yet |
+| University of Science and Technology of China | China (Mainland) | 0 | not configured yet |
+| Universiti Putra Malaysia (UPM) | Malaysia | 0 | not configured yet |
+| Humboldt-Universität zu Berlin | Germany | 0 | not configured yet |
+| University of Vienna | Austria | 0 | not configured yet |
+| National Tsing Hua University | Taiwan | 0 | not configured yet |
+| Western University | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Universidad Nacional Autónoma de México  (UNAM) | Mexico | 0 | not configured yet |
+| Tongji University | China (Mainland) | 0 | not configured yet |
+| Khalifa University of Science and Technology | United Arab Emirates | 0 | not configured yet |
+| Erasmus University Rotterdam | Netherlands | 0 | not configured yet |
+| Ghent University | Belgium | 0 | not configured yet |
+| University of Basel | Switzerland | 0 | not configured yet |
+| Eindhoven University of Technology | Netherlands | 0 | not configured yet |
+| University of Southern California | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Wageningen University & Research | Netherlands | 0 | not configured yet |
+| Hanyang University | South Korea | 0 | not configured yet |
+| Nagoya University | Japan | 0 | not configured yet |
+| University of Groningen | Netherlands | 0 | not configured yet |
+| Technische Universität Berlin (TU Berlin) | Germany | 0 | not configured yet |
+| Universiti Teknologi Malaysia | Malaysia | 0 | not configured yet |
+| University of North Carolina, Chapel Hill | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Université de Montréal | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Universitat de Barcelona | Spain | 0 | not configured yet |
+| Wuhan University | China (Mainland) | 0 | not configured yet |
+| Stockholm University | Sweden | 0 | not configured yet |
+| University of Geneva | Switzerland | 0 | not configured yet |
+| Indian Institute of Technology Madras (IITM) | India | 0 | not configured yet |
+| Kyushu University | Japan | 0 | not configured yet |
+| Arizona State University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of California, Santa Barbara (UCSB) | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Chalmers University of Technology | Sweden | 0 | not configured yet |
+| McMaster University | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Al-Farabi Kazakh National University | Kazakhstan | 0 | not configured yet |
+| National Yang Ming Chiao Tung University | Taiwan | 0 | not configured yet |
+| Hokkaido University | Japan | 0 | not configured yet |
+| Queen's University at Kingston | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Michigan State University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Emory University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Cape Town | South Africa | 0 | not configured yet |
+| Technische Universität Dresden | Germany | 0 | not configured yet |
+| Universidad de Chile | Chile | 0 | not configured yet |
+| Vrije Universiteit Amsterdam | Netherlands | 0 | not configured yet |
+| Tecnológico de Monterrey | Mexico | 0 | not configured yet |
+| Curtin University | Australia | 0 | no candidates: no candidate URLs found |
+| Harbin Institute of Technology | China (Mainland) | 0 | not configured yet |
+| National Cheng Kung University (NCKU) | Taiwan | 0 | not configured yet |
+| Technische Universität Wien | Austria | 0 | not configured yet |
+| Universitas Indonesia | Indonesia | 0 | not configured yet |
+| University of Bern | Switzerland | 0 | not configured yet |
+| Université catholique de Louvain (UCLouvain) | Belgium | 0 | not configured yet |
+| University of Reading | United Kingdom | 0 | no candidates: sitemap https://www.reading.ac.uk/agri-food-economics-marketing/sitemap.xml: http HTTP 404; sitemap https://www.reading.ac.uk/apd/sitemap.xml: ht |
+| University of Otago | New Zealand | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Complutense University of Madrid | Spain | 0 | not configured yet |
+| King Abdulaziz University (KAU) | Saudi Arabia | 0 | not configured yet |
+| The Ohio State University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Waseda University | Japan | 0 | not configured yet |
+| Università di Padova | Italy | 0 | not configured yet |
+| Indian Institute of Technology Kharagpur (IIT-KGP) | India | 0 | not configured yet |
+| Gadjah Mada University | Indonesia | 0 | not configured yet |
+| Politecnico di Torino | Italy | 0 | not configured yet |
+| Tel Aviv University | Israel | 0 | not configured yet |
+| Rheinische Friedrich-Wilhelms-Universität Bonn | Germany | 0 | not configured yet |
+| Universität Hamburg | Germany | 0 | not configured yet |
+| Universitat Autònoma de Barcelona | Spain | 0 | not configured yet |
+| Chulalongkorn University | Thailand | 0 | not configured yet |
+| Hamad bin Khalifa University | Qatar | 0 | not configured yet |
+| Keio University | Japan | 0 | not configured yet |
+| Hong Kong Baptist University | Hong Kong SAR | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| United Arab Emirates University | United Arab Emirates | 0 | not configured yet |
+| Friedrich-Alexander-Universität Erlangen-Nürnberg | Germany | 0 | not configured yet |
+| The Hebrew University of Jerusalem | Israel | 0 | not configured yet |
+| Indian Institute of Science | India | 0 | not configured yet |
+| Indian Institute of Technology Kanpur (IITK) | India | 0 | not configured yet |
+| American University of Beirut (AUB) | Lebanon | 0 | not configured yet |
+| University of Twente | Netherlands | 0 | not configured yet |
+| University of Gothenburg | Sweden | 0 | not configured yet |
+| Universidad Autónoma de Madrid | Spain | 0 | not configured yet |
+| University of Florida | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Eberhard Karls Universität Tübingen | Germany | 0 | not configured yet |
+| Universidad de los Andes | Colombia | 0 | not configured yet |
+| University of Lausanne | Switzerland | 0 | not configured yet |
+| École Normale Supérieure de Lyon | France | 0 | not configured yet |
+| Tianjin University | China (Mainland) | 0 | not configured yet |
+| Beijing Normal University | China (Mainland) | 0 | not configured yet |
+| University of Lisbon | Portugal | 0 | not configured yet |
+| Central European University | Hungary | 0 | not configured yet |
+| Beijing Institute of Technology | China (Mainland) | 0 | not configured yet |
+| Albert-Ludwigs-Universitaet Freiburg | Germany | 0 | not configured yet |
+| Université Paris 1 Panthéon-Sorbonne | France | 0 | not configured yet |
+| Universite libre de Bruxelles | Belgium | 0 | not configured yet |
+| Technical University of Darmstadt | Germany | 0 | not configured yet |
+| University of Rochester | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Maastricht University | Netherlands | 0 | not configured yet |
+| University of Minnesota Twin Cities | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Porto | Portugal | 0 | not configured yet |
+| American University of Sharjah | United Arab Emirates | 0 | not configured yet |
+| Sun Yat-sen University | China (Mainland) | 0 | not configured yet |
+| Universiti Teknologi PETRONAS (UTP) | Malaysia | 0 | not configured yet |
+| University of Göttingen | Germany | 0 | not configured yet |
+| Universitat Pompeu Fabra | Spain | 0 | not configured yet |
+| Norwegian University of Science And Technology | Norway | 0 | not configured yet |
+| Vanderbilt University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Singapore University of Technology and Design | Singapore | 0 | candidates found, not yet extracted |
+| University of Macau | Macau SAR | 0 | not configured yet |
+| University of Virginia | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Cologne | Germany | 0 | not configured yet |
+| Dartmouth College | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Milan | Italy | 0 | not configured yet |
+| Taylor's University | Malaysia | 0 | not configured yet |
+| Charles University | Czech Republic | 0 | not configured yet |
+| Airlangga University | Indonesia | 0 | not configured yet |
+| Universidade Estadual de Campinas (Unicamp) | Brazil | 0 | not configured yet |
+| University of Antwerp | Belgium | 0 | not configured yet |
+| Istanbul Technical University | Türkiye | 0 | not configured yet |
+| University of Navarra | Spain | 0 | not configured yet |
+| University of Pittsburgh | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| UCSI University | Malaysia | 0 | not configured yet |
+| Radboud University | Netherlands | 0 | not configured yet |
+| University of Bergen | Norway | 0 | not configured yet |
+| University of Sharjah | United Arab Emirates | 0 | not configured yet |
+| University of Southern Denmark (SDU) | Denmark | 0 | not configured yet |
+| Bandung Institute of Technology (ITB) | Indonesia | 0 | not configured yet |
+| University of Warsaw | Poland | 0 | not configured yet |
+| University of Johannesburg | South Africa | 0 | not configured yet |
+| Universidad Nacional de Colombia | Colombia | 0 | not configured yet |
+| Vrije Universiteit Brussel (VUB) | Belgium | 0 | not configured yet |
+| Stellenbosch University | South Africa | 0 | not configured yet |
+| Xi’an Jiaotong University | China (Mainland) | 0 | not configured yet |
+| Dalhousie University | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Ulsan National Institute of Science and Technology (UNIST) | South Korea | 0 | not configured yet |
+| Sichuan University | China (Mainland) | 0 | not configured yet |
+| University of Notre Dame | United States | 0 | candidates found, not yet extracted |
+| University of Witwatersrand | South Africa | 0 | not configured yet |
+| Université de Paris | France | 0 | not configured yet |
+| Xiamen University | China (Mainland) | 0 | not configured yet |
+| Middle East Technical University | Türkiye | 0 | not configured yet |
+| Sultan Qaboos University | Oman | 0 | not configured yet |
+| Huazhong University of Science and Technology | China (Mainland) | 0 | not configured yet |
+| Linköping University | Sweden | 0 | not configured yet |
+| Kyung Hee University | South Korea | 0 | not configured yet |
+| Shandong University | China (Mainland) | 0 | not configured yet |
+| Simon Fraser University | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Rutgers University–New Brunswick | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Universidad Carlos III de Madrid (UC3M) | Spain | 0 | not configured yet |
+| Southern University of Science and Technology | China (Mainland) | 0 | not configured yet |
+| Bauman Moscow State Technical University | Russia | 0 | not configured yet |
+| Universität Stuttgart | Germany | 0 | not configured yet |
+| University of Delhi | India | 0 | not configured yet |
+| York University | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Case Western Reserve University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Jordan | Jordan | 0 | not configured yet |
+| University of Pretoria | South Africa | 0 | not configured yet |
+| Aalborg University | Denmark | 0 | not configured yet |
+| Jagiellonian University | Poland | 0 | not configured yet |
+| Koç University | Türkiye | 0 | not configured yet |
+| Nankai University | China (Mainland) | 0 | not configured yet |
+| Universität Innsbruck | Austria | 0 | not configured yet |
+| Technion - Israel Institute of Technology | Israel | 0 | not configured yet |
+| Indian Institute of Technology Roorkee (IITR) | India | 0 | not configured yet |
+| Southeast University | China (Mainland) | 0 | not configured yet |
+| Universidade Nova de Lisboa | Portugal | 0 | not configured yet |
+| L.N. Gumilyov Eurasian National University (ENU) | Kazakhstan | 0 | not configured yet |
+| Tufts University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Miami | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Pisa | Italy | 0 | not configured yet |
+| South China University of Technology | China (Mainland) | 0 | not configured yet |
+| University of Coimbra | Portugal | 0 | not configured yet |
+| University of Rome "Tor Vergata" | Italy | 0 | not configured yet |
+| Bogaziçi Üniversitesi | Türkiye | 0 | not configured yet |
+| Mahidol University | Thailand | 0 | not configured yet |
+| Universiti Brunei Darussalam (UBD) | Brunei | 0 | not configured yet |
+| Abu Dhabi University | United Arab Emirates | 0 | not configured yet |
+| Beihang University (former BUAA) | China (Mainland) | 0 | not configured yet |
+| Indian Institute of Technology Guwahati (IITG) | India | 0 | not configured yet |
+| Satbayev University | Kazakhstan | 0 | not configured yet |
+| University of Tsukuba | Japan | 0 | not configured yet |
+| Birkbeck, University of London | United Kingdom | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Sciences Po | France | 0 | not configured yet |
+| Sunway University | Malaysia | 0 | not configured yet |
+| Pontificia Universidad Católica del Perú | Peru | 0 | not configured yet |
+| Sabanci University | Türkiye | 0 | not configured yet |
+| RUDN University | Russia | 0 | not configured yet |
+| Indiana University Bloomington | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Chinese Academy of Sciences (UCAS) | China (Mainland) | 0 | not configured yet |
+| University of Oulu | Finland | 0 | not configured yet |
+| City St George’s, University of London | United Kingdom | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Cairo University | Egypt | 0 | not configured yet |
+| Universidad Politécnica de Madrid (UPM) | Spain | 0 | not configured yet |
+| Université de Liège | Belgium | 0 | not configured yet |
+| Virginia Polytechnic Institute and State University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Universidade Federal do Rio de Janeiro | Brazil | 0 | not configured yet |
+| University of Tartu | Estonia | 0 | not configured yet |
+| University of Tehran | Iran, Islamic Republic of | 0 | not configured yet |
+| University of Illinois at Chicago (UIC) | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Victoria (UVic) | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Westfälische Wilhelms-Universität Münster | Germany | 0 | not configured yet |
+| Goethe-University Frankfurt am Main | Germany | 0 | not configured yet |
+| University of Luxembourg | Luxembourg | 0 | not configured yet |
+| National Technical University of Athens | Greece | 0 | not configured yet |
+| Gwangju Institute of Science and Technology (GIST) | South Korea | 0 | not configured yet |
+| National Taiwan University of Science and Technology (Taiwan Tech) | Taiwan | 0 | not configured yet |
+| George Washington University | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Quaid-i-Azam University | Pakistan | 0 | not configured yet |
+| National University of Sciences And Technology (NUST) Islamabad | Pakistan | 0 | not configured yet |
+| DGIST | South Korea | 0 | not configured yet |
+| Université Grenoble Alpes | France | 0 | not configured yet |
+| Università Cattolica del Sacro Cuore | Italy | 0 | not configured yet |
+| University of Limerick | Ireland | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Lappeenranta-Lahti University of Technology LUT | Finland | 0 | not configured yet |
+| Saint Petersburg State University | Russia | 0 | not configured yet |
+| Sharif University of Technology | Iran, Islamic Republic of | 0 | not configured yet |
+| The American University in Cairo | Egypt | 0 | not configured yet |
+| East China Normal University | China (Mainland) | 0 | not configured yet |
+| Pontificia Universidad Javeriana | Colombia | 0 | not configured yet |
+| Università degli Studi di Pavia | Italy | 0 | not configured yet |
+| Ajman University | United Arab Emirates | 0 | not configured yet |
+| Macau University of Science and Technology | Macau SAR | 0 | not configured yet |
+| Sejong University | South Korea | 0 | not configured yet |
+| University of California, Riverside | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Turku | Finland | 0 | not configured yet |
+| University of Naples - Federico II | Italy | 0 | not configured yet |
+| National and Kapodistrian University of Athens | Greece | 0 | not configured yet |
+| Ruhr-Universität Bochum | Germany | 0 | not configured yet |
+| University of the Philippines | Philippines | 0 | not configured yet |
+| University of Turin | Italy | 0 | not configured yet |
+| INTI International University | Malaysia | 0 | not configured yet |
+| The Education University of Hong Kong | Hong Kong SAR | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Graz University of Technology | Austria | 0 | not configured yet |
+| University of Florence | Italy | 0 | not configured yet |
+| University of Saskatchewan | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Shenzhen University | China (Mainland) | 0 | not configured yet |
+| University at Buffalo SUNY | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Bogor Agricultural University | Indonesia | 0 | not configured yet |
+| Prince Mohammad Bin Fahd university | Saudi Arabia | 0 | not configured yet |
+| HSE University | Russia | 0 | not configured yet |
+| National Taiwan Normal University | Taiwan | 0 | not configured yet |
+| Northwestern Polytechnical University | China (Mainland) | 0 | not configured yet |
+| Universität Konstanz | Germany | 0 | not configured yet |
+| Universität Mannheim | Germany | 0 | not configured yet |
+| University of Aveiro | Portugal | 0 | not configured yet |
+| Tilburg University | Netherlands | 0 | not configured yet |
+| Julius-Maximilians-Universität Würzburg | Germany | 0 | not configured yet |
+| Chung-Ang University (CAU) | South Korea | 0 | not configured yet |
+| Czech Technical University in Prague | Czech Republic | 0 | not configured yet |
+| Universitat Politècnica de Catalunya · BarcelonaTech (UPC) | Spain | 0 | not configured yet |
+| Universitat Politècnica de València | Spain | 0 | not configured yet |
+| Tampere University | Finland | 0 | not configured yet |
+| Essex, University of | United Kingdom | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| National Sun Yat-sen University | Taiwan | 0 | not configured yet |
+| Umea University | Sweden | 0 | not configured yet |
+| University of Trento | Italy | 0 | not configured yet |
+| Aix-Marseille University | France | 0 | not configured yet |
+| Shanghai University | China (Mainland) | 0 | not configured yet |
+| University of Science and Technology Beijing | China (Mainland) | 0 | not configured yet |
+| IE University | Spain | 0 | not configured yet |
+| University of Dundee | United Kingdom | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Granada | Spain | 0 | not configured yet |
+| Jordan University of Science & Technology | Jordan | 0 | not configured yet |
+| Pusan National University | South Korea | 0 | not configured yet |
+| Universitat de Valencia | Spain | 0 | not configured yet |
+| Central South University | China (Mainland) | 0 | not configured yet |
+| Shoolini University of Biotechnology and Management Sciences | India | 0 | not configured yet |
+| Bilkent University | Türkiye | 0 | not configured yet |
+| Masaryk University | Czech Republic | 0 | not configured yet |
+| Université de Strasbourg | France | 0 | not configured yet |
+| USI - Università della Svizzera italiana | Switzerland | 0 | not configured yet |
+| Johannes Kepler University Linz | Austria | 0 | not configured yet |
+| Tashkent Institute of Irrigation and Agricultural Mechanization Engineers (TIIAME) | Uzbekistan | 0 | not configured yet |
+| University of California, Santa Cruz | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| University of Connecticut | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Dalian University of Technology | China (Mainland) | 0 | not configured yet |
+| Universidad de Costa Rica | Costa Rica | 0 | not configured yet |
+| Chongqing University | China (Mainland) | 0 | not configured yet |
+| Università Vita-Salute San Raffaele | Italy | 0 | not configured yet |
+| Vilnius University | Lithuania | 0 | not configured yet |
+| Kazan (Volga region) Federal University | Russia | 0 | not configured yet |
+| Stony Brook University, State University of New York | United States | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Anna University | India | 0 | not configured yet |
+| Leibniz University Hannover | Germany | 0 | not configured yet |
+| University of Bayreuth | Germany | 0 | not configured yet |
+| Université de Montpellier | France | 0 | not configured yet |
+| Imam Abdulrahman Bin Faisal University (IAU) (formerly UNIVERSITY OF DAMMAM) | Saudi Arabia | 0 | not configured yet |
+| Universidad Nacional de La Plata (UNLP) | Argentina | 0 | not configured yet |
+| Universitat Ramon Llull | Spain | 0 | not configured yet |
+| China Agricultural University | China (Mainland) | 0 | not configured yet |
+| Hunan University | China (Mainland) | 0 | not configured yet |
+| Lebanese American University | Lebanon | 0 | not configured yet |
+| University of Canberra | Australia | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Hiroshima University | Japan | 0 | not configured yet |
+| Kyungpook National University | South Korea | 0 | not configured yet |
+| Amirkabir University of Technology | Iran, Islamic Republic of | 0 | not configured yet |
+| Jinan University (China) | China (Mainland) | 0 | not configured yet |
+| Universidad de Sevilla | Spain | 0 | not configured yet |
+| University of Bordeaux | France | 0 | not configured yet |
+| Ewha Womans University | South Korea | 0 | not configured yet |
+| Jilin University | China (Mainland) | 0 | not configured yet |
+| Novosibirsk State University | Russia | 0 | not configured yet |
+| Prince Sultan University | Saudi Arabia | 0 | not configured yet |
+| University of Electronic Science and Technology of China | China (Mainland) | 0 | not configured yet |
+| National Taipei University of Technology | Taiwan | 0 | not configured yet |
+| Sogang University | South Korea | 0 | not configured yet |
+| Universitas Padjadjaran | Indonesia | 0 | not configured yet |
+| Concordia University | Canada | 0 | skipped: no master's programme catalogue found in the sitemaps; manual queue |
+| Institut Teknologi Sepuluh Nopember (ITS Surabaya) | Indonesia | 0 | not configured yet |
+| Johannes Gutenberg Universität Mainz | Germany | 0 | not configured yet |
+| Universität Potsdam | Germany | 0 | not configured yet |
+| University of Huddersfield | United Kingdom | 0 | not configured yet |
+| Ulster University | United Kingdom | 0 | not configured yet |
+| Manchester Metropolitan University (MMU) | United Kingdom | 0 | not configured yet |
+| University of Plymouth | United Kingdom | 0 | not configured yet |
+| University of the West of England | United Kingdom | 0 | not configured yet |
+| Aberystwyth University | United Kingdom | 0 | not configured yet |
+| Bournemouth University | United Kingdom | 0 | not configured yet |
+| Keele University | United Kingdom | 0 | not configured yet |
+| Liverpool John Moores University | United Kingdom | 0 | not configured yet |
+| University of Lincoln | United Kingdom | 0 | not configured yet |
+| University of the Arts London | United Kingdom | 0 | not configured yet |
+| University of Westminster | United Kingdom | 0 | not configured yet |
+| London South Bank University | United Kingdom | 0 | not configured yet |
+| Charles Sturt University | Australia | 0 | not configured yet |
+| Robert Gordon University | United Kingdom | 0 | not configured yet |
+| University of Derby | United Kingdom | 0 | not configured yet |
+| University of New England Australia | Australia | 0 | not configured yet |
+| London School of Hygiene & Tropical Medicine | United Kingdom | 0 | not configured yet |
+| Royal College of Surgeons in Ireland | Ireland | 0 | not configured yet |
+| Royal Veterinary College | United Kingdom | 0 | not configured yet |
+| The Open University | United Kingdom | 0 | not configured yet |
+| University of Wales, Trinity Saint David | United Kingdom | 0 | not configured yet |

@@ -1,0 +1,17 @@
+# education-university-of-hong-kong@1 https://www.eduhk.hk
+robots sitemaps: https://www.eduhk.hk/main/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.eduhk.hk/main/sitemap.xml: 15 children (14 course-like)
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2018-08.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2018-05.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2017-11.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2017-04.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2017-02.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2016-11.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2016-05.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2016-04.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2015-12.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2015-11.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2015-10.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2015-09.xml: http HTTP 404
+sitemap https://www.eduhk.hk/main/sitemap-pt-page-2015-08.xml: http HTTP 404
+sitemaps read 16 · urls 0 · master's-looking 0

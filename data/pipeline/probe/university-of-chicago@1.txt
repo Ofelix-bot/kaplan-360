@@ -1,0 +1,23 @@
+# university-of-chicago@1 https://www.uchicago.edu
+robots sitemaps: https://www.uchicago.edu/sitemap.xml https://www.uchicago.edu/emergency/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 2 · urls 303 · master's-looking 14
+    3  www.uchicago.edu/Test/Graduate-Programs-TEST
+         https://www.uchicago.edu/Test/Graduate-Programs-TEST/Masters-Programs-TEST
+         https://www.uchicago.edu/Test/Graduate-Programs-TEST/Other-Programs-and-Certificates-TEST
+         https://www.uchicago.edu/Test/Graduate-Programs-TEST/PhD-Programs-TEST
+    3  www.uchicago.edu/Who-We-Are/Global-Impact/Accolades
+         https://www.uchicago.edu/Who-We-Are/Global-Impact/Accolades/Llewellyn-John-and-Harriet-Manchester-Quantrell-Awards-for-Excellence-in-Undergraduate-Teaching
+         https://www.uchicago.edu/Who-We-Are/Global-Impact/Accolades/Margaret-C-Annan-Undergraduate-Awards-in-Writing
+         https://www.uchicago.edu/Who-We-Are/Global-Impact/Accolades/Wayne-C-Booth-Graduate-Student-Prizes-for-Excellence-in-Teaching
+    2  www.uchicago.edu/Test
+         https://www.uchicago.edu/Test/Graduate-Programs-TEST
+         https://www.uchicago.edu/Test/Graduate-Programs-TEST-One-Column
+    2  www.uchicago.edu/Academics
+         https://www.uchicago.edu/Academics/Graduate-Programs
+         https://www.uchicago.edu/Academics/Undergraduate-Programs
+    2  www.uchicago.edu/Admissions
+         https://www.uchicago.edu/Admissions/Graduate
+         https://www.uchicago.edu/Admissions/Undergraduate
+    2  www.uchicago.edu/Academics/Graduate-Programs
+         https://www.uchicago.edu/Academics/Graduate-Programs/Masters-Programs
+         https://www.uchicago.edu/Academics/Graduate-Programs/PhD-Programs

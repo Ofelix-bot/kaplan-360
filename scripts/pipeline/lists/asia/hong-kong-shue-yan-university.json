@@ -1,0 +1,19 @@
+{
+  "id": "hong-kong-shue-yan-university",
+  "builtAt": "2026-10-19",
+  "seeds": [
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme"
+  ],
+  "pages": [
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/Master%20of%20Arts%20in%20Chinese%20Language%2C%20Literature%20and%20Teaching",
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/Master%20of%20Science%20in%20Financial%20Technology%20Management",
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/Master%20of%20Science%20in%20Game%20Development%20and%20Management",
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/Master%20of%20Social%20Sciences%20in%20Adversity%20and%20Trauma%20Psychology",
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/Master%20of%20Social%20Sciences%20in%20Play%20Therapy",
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/Master%20of%20Social%20Sciences%20in%20Smart%20Cultural%20Tourism",
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/Master%20of%20Social%20Work",
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/MasterofScienceinMarketingandConsumerPsychology",
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/MasterofSocialSciencesinCounsellingPsychology",
+    "https://gs.hksyu.edu/en/Programmes/TaughtMasterProgramme/MasterofSocialSciencesinPsychology"
+  ]
+}

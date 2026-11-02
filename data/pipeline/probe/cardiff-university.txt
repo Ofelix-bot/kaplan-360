@@ -1,0 +1,93 @@
+# cardiff-university https://www.cardiff.ac.uk
+robots sitemaps: https://www.cardiff.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.cardiff.ac.uk/sitemap.xml: 7 children (2 course-like)
+sitemaps read 8 · urls 1389 · master's-looking 360
+   66  www.cardiff.ac.uk/study/postgraduate/research
+         https://www.cardiff.ac.uk/study/postgraduate/research/funded-doctoral-centres/funding-opportunities-by-research-area/ahrc-algorithmic-grant
+         https://www.cardiff.ac.uk/study/postgraduate/research/funded-doctoral-centres/funding-opportunities-by-research-area/ahrc-studentship-enabling-activities-narratives-of-health-and-wellbeing-in-wales-and-beyond
+         https://www.cardiff.ac.uk/study/postgraduate/research/programmes/area
+         https://www.cardiff.ac.uk/study/postgraduate/research/funded-doctoral-centres/funding-opportunities-by-research-area/ahrc-algorithmic-grant/arts-and-humanities-research-council-ahrc-doctoral-landscape-awards-dla-scheme-phd-studentships
+   50  www.cardiff.ac.uk/study/postgraduate/taught
+         https://www.cardiff.ac.uk/study/postgraduate/taught/standalone-modules/advanced-surgical-practice
+         https://www.cardiff.ac.uk/study/postgraduate/taught/student-views/amy-mcgregor
+         https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/archaeology-early-medieval-society-and-culture-ma
+         https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/archaeology-early-medieval-society-and-culture-ma-part-time
+   40  www.cardiff.ac.uk/study/undergraduate/subjects
+         https://www.cardiff.ac.uk/study/undergraduate/subjects/accounting-and-finance
+         https://www.cardiff.ac.uk/study/undergraduate/subjects/archaeology-and-conservation
+         https://www.cardiff.ac.uk/study/undergraduate/subjects/architecture
+         https://www.cardiff.ac.uk/study/undergraduate/subjects/biochemistry
+   32  www.cardiff.ac.uk/study/postgraduate/subjects
+         https://www.cardiff.ac.uk/study/postgraduate/subjects/archaeology-and-conservation
+         https://www.cardiff.ac.uk/study/postgraduate/subjects/architecture
+         https://www.cardiff.ac.uk/study/postgraduate/subjects/biosciences
+         https://www.cardiff.ac.uk/study/postgraduate/subjects/business-full-time-programmes
+   32  www.cardiff.ac.uk/study/undergraduate/courses
+         https://www.cardiff.ac.uk/study/undergraduate/courses/a-to-z
+         https://www.cardiff.ac.uk/study/undergraduate/courses/types-of-degree/bachelor-degrees
+         https://www.cardiff.ac.uk/study/undergraduate/courses/browse-by-subject
+         https://www.cardiff.ac.uk/study/undergraduate/courses/browse-by-school/cardiff-business-school
+   28  www.cardiff.ac.uk/study/postgraduate/funding
+         https://www.cardiff.ac.uk/study/postgraduate/funding/additional-sources-of-income
+         https://www.cardiff.ac.uk/study/postgraduate/funding/additional-sources-of-income/alternative-guide-to-postgraduate-funding
+         https://www.cardiff.ac.uk/study/postgraduate/funding/scholarships/alumni-discount-scheme
+         https://www.cardiff.ac.uk/study/postgraduate/funding/additional-sources-of-income/research-councils-/UKRI-BBSRC-south-west-bioscience-doctoral-training-partnership
+   27  www.cardiff.ac.uk/study/undergraduate/funding
+         https://www.cardiff.ac.uk/study/undergraduate/funding/bursaries
+         https://www.cardiff.ac.uk/study/undergraduate/funding/financial-support-for-asylum-seekers/cardiff-education-trust-fund
+         https://www.cardiff.ac.uk/study/undergraduate/funding/bursaries/cardiff-university-bursary
+         https://www.cardiff.ac.uk/study/undergraduate/funding/bursaries/cardiff-university-ceredigion-bursary
+   19  www.cardiff.ac.uk/study/undergraduate/applying
+         https://www.cardiff.ac.uk/study/undergraduate/applying/disabled-applicants
+         https://www.cardiff.ac.uk/study/undergraduate/applying/after-you-apply
+         https://www.cardiff.ac.uk/study/undergraduate/applying/non-ucas-applications/architecture
+         https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data
+   18  www.cardiff.ac.uk/study/postgraduate/tuition-fees
+         https://www.cardiff.ac.uk/study/postgraduate/tuition-fees/deposits-for-cardiff-university-programmes/deposit-payment-methods
+         https://www.cardiff.ac.uk/study/postgraduate/tuition-fees/deposits-for-cardiff-university-programmes
+         https://www.cardiff.ac.uk/study/postgraduate/tuition-fees/postgraduate-research-fees/postgraduate-research-fee-discount-for-eu-students
+         https://www.cardiff.ac.uk/study/postgraduate/tuition-fees/postgraduate-research-fees
+   11  www.cardiff.ac.uk/study/undergraduate
+         https://www.cardiff.ac.uk/study/undergraduate/applying
+         https://www.cardiff.ac.uk/study/undergraduate/meet-our-students
+         https://www.cardiff.ac.uk/study/undergraduate/subjects
+         https://www.cardiff.ac.uk/study/undergraduate/funding
+    9  www.cardiff.ac.uk/study/postgraduate
+         https://www.cardiff.ac.uk/study/postgraduate/applying
+         https://www.cardiff.ac.uk/study/postgraduate/subjects
+         https://www.cardiff.ac.uk/study/postgraduate/funding
+         https://www.cardiff.ac.uk/study/postgraduate/prospectus
+    7  www.cardiff.ac.uk/study/postgraduate/applying
+         https://www.cardiff.ac.uk/study/postgraduate/applying/admissions-criteria
+         https://www.cardiff.ac.uk/study/postgraduate/applying/how-to-apply/application-forms
+         https://www.cardiff.ac.uk/study/postgraduate/applying/how-to-apply
+         https://www.cardiff.ac.uk/study/postgraduate/applying/non-standard-applications
+    5  www.cardiff.ac.uk/study/undergraduate/tuition-fees
+         https://www.cardiff.ac.uk/study/undergraduate/tuition-fees/fee-limit-statement
+         https://www.cardiff.ac.uk/study/undergraduate/tuition-fees/fee-status
+         https://www.cardiff.ac.uk/study/undergraduate/tuition-fees/home-undergraduate-fees/further-guidance-on-tuition-fees-for-UK-students
+         https://www.cardiff.ac.uk/study/undergraduate/tuition-fees/home-undergraduate-fees
+    4  www.cardiff.ac.uk/study/undergraduate/teachers-and-careers-advisers
+         https://www.cardiff.ac.uk/study/undergraduate/teachers-and-careers-advisers/schools-colleges-outreach/book-an-outreach-visit
+         https://www.cardiff.ac.uk/study/undergraduate/teachers-and-careers-advisers/contact-schools-liaison
+         https://www.cardiff.ac.uk/study/undergraduate/teachers-and-careers-advisers/opportunities-to-visit
+         https://www.cardiff.ac.uk/study/undergraduate/teachers-and-careers-advisers/schools-colleges-outreach
+    3  www.cardiff.ac.uk/study/undergraduate/parents-and-supporters
+         https://www.cardiff.ac.uk/study/undergraduate/parents-and-supporters/useful-contacts
+         https://www.cardiff.ac.uk/study/undergraduate/parents-and-supporters/life-at-cardiff-university
+         https://www.cardiff.ac.uk/study/undergraduate/parents-and-supporters/why-go-to-university
+    2  www.cardiff.ac.uk/study/postgraduate/prospectus
+         https://www.cardiff.ac.uk/study/postgraduate/prospectus/download-a-postgraduate-prospectus
+         https://www.cardiff.ac.uk/study/postgraduate/prospectus/order-a-postgraduate-prospectus
+    2  www.cardiff.ac.uk/study/undergraduate/prospectus
+         https://www.cardiff.ac.uk/study/undergraduate/prospectus/download-a-prospectus
+         https://www.cardiff.ac.uk/study/undergraduate/prospectus/order-an-undergraduate-prospectus
+    2  www.cardiff.ac.uk/study/international/english-language-requirements
+         https://www.cardiff.ac.uk/study/international/english-language-requirements/postgraduate
+         https://www.cardiff.ac.uk/study/international/english-language-requirements/undergraduate
+    1  www.cardiff.ac.uk/about/organisation/colleges-schools
+         https://www.cardiff.ac.uk/about/organisation/colleges-schools/physical-chemical-and-environmental-sciences/about/engagement/engagement-in-chemistry/business/industrial-placements-and-graduate-recruitment
+    1  www.cardiff.ac.uk/study/international
+         https://www.cardiff.ac.uk/study/international/foundation-and-pre-masters-programmes
+    1  www.cardiff.ac.uk/study/international/funding-and-fees
+         https://www.cardiff.ac.uk/study/international/funding-and-fees/international-scholarships/undergraduate-excellence-scholarships

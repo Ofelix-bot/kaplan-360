@@ -1,0 +1,14 @@
+{
+ "source": "International degree programs list https://www.fau.eu/studying/degree-programs/special-ways-to-study/international-degree-programs/; kept master's whose 'Teaching language' is 'completely in English' (German-or-English and 90%-online programmes dropped) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.fau.eu/degree-program/artificial-intelligence-ai-m-sc/",
+  "https://www.fau.eu/degree-program/data-science-m-sc/",
+  "https://www.fau.eu/degree-program/data-science-of-human-multimodal-communication-m-a/",
+  "https://www.fau.eu/degree-program/digital-business-ai-mba/",
+  "https://www.fau.eu/degree-program/information-and-communication-technology-iuk-m-sc/",
+  "https://www.fau.eu/degree-program/international-business-studies-mibs-m-sc/",
+  "https://www.fau.eu/degree-program/international-information-systems-iis-m-sc/",
+  "https://www.fau.eu/degree-program/physical-activity-and-health-m-a/"
+ ]
+}

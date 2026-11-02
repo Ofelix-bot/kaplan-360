@@ -1,0 +1,40 @@
+{
+  "id": "fudan",
+  "status": "read",
+  "university": "复旦大学",
+  "universityEn": "Fudan University",
+  "tier": "985",
+  "url": "https://xxgk.fudan.edu.cn/_upload/article/files/30/a9/7509c9c3424ab73c9b264f8f4877/b7c8693d-5486-4a8b-8496-1e35f77b3e34.pdf",
+  "title": "复旦大学就业工作情况（2022）",
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 15,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": null,
+      "count": null,
+      "pct": 5.73,
+      "quote": "2022 届毕业生出国出境深造占毕业生总数的 5.73%"
+    },
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": null,
+      "pct": 16.94,
+      "quote": "本科出国出境深造占本科毕业生人数的 16.94%"
+    },
+    {
+      "group": "硕士生",
+      "cohort": null,
+      "count": null,
+      "pct": 1.47,
+      "quote": "硕士出国出境深造占硕士毕业生人数的 1.47%"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-21"
+}

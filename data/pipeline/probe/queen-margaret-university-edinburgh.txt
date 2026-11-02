@@ -1,0 +1,128 @@
+# queen-margaret-university-edinburgh https://www.qmu.ac.uk
+robots sitemaps: https://www.qmu.ac.uk/sitemap · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 4313 · master's-looking 660
+  129  www.qmu.ac.uk/study-here/student-stories
+         https://www.qmu.ac.uk/study-here/student-stories/ainuska-sheripkanova-msc-global-health
+         https://www.qmu.ac.uk/study-here/student-stories/alexia-mitchell-msc-occupational-therapy-pre-registration
+         https://www.qmu.ac.uk/study-here/student-stories/alexis-stein-msc-occupational-therapy-pre-registration
+         https://www.qmu.ac.uk/study-here/student-stories/amy-elliott-msc-public-sociology
+   55  www.qmu.ac.uk/current-students/current-students-general-information/induction-for-new-students
+         https://www.qmu.ac.uk/current-students/current-students-general-information/induction-for-new-students/induction-timetables/master-of-bsc-diagnostic-radiography-mdrad-induction-programme
+         https://www.qmu.ac.uk/current-students/current-students-general-information/induction-for-new-students/induction-timetables/master-of-dietetics-mdiet-induction-programme
+         https://www.qmu.ac.uk/current-students/current-students-general-information/induction-for-new-students/induction-timetables/nursing-all-undergraduate-routes-induction-programme
+         https://www.qmu.ac.uk/current-students/current-students-general-information/induction-for-new-students/induction-timetables/bsc-occupational-therapy-master-of-occupational-therapy-moccth
+   53  www.qmu.ac.uk/study-here/postgraduate-study/2027
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2027/msc-accounting-and-finance-with-cima
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2027/msc-accounting-and-finance-with-cima-with-professional-practice
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2027/msc-pgdip-advancing-person-centred-practice-advancing-professional-practice-framework
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2027/msc-pgdip-advancing-practice-in-medical-imaging-advancing-professional-practice-framework
+   44  www.qmu.ac.uk/news-and-events/news/2017
+         https://www.qmu.ac.uk/news-and-events/news/2017/20171208-tourism-award-success-for-qmu-postgraduate-graduate-gulikamaier-alifu
+         https://www.qmu.ac.uk/news-and-events/news/2017/20171207-interview-with-msc-physiotherapy-pre-registration-graduate-stuart-maytham
+         https://www.qmu.ac.uk/news-and-events/news/2017/20171121-interview-with-postgraduate-diploma-speech-and-language-therapy-graduate-and-phd-bursary-student-dermot-fitzsimons
+         https://www.qmu.ac.uk/news-and-events/news/2017/20171113-interview-with-msc-music-therapy-graduate-cieran-house
+   42  www.qmu.ac.uk/study-here/postgraduate-study/2026
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2026/independent-and-supplementary-prescribing-for-healthcare-professionals
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2026/ma-participatory-arts
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2026/ma-arts-festival-and-cultural-management
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2026/msc-accounting-and-finance-with-cima
+   37  www.qmu.ac.uk/study-here/undergraduate-study/2027
+         https://www.qmu.ac.uk/study-here/undergraduate-study/2027/ba-hons-business-management-2027-entry
+         https://www.qmu.ac.uk/study-here/undergraduate-study/2027/ba-hons-business-management-with-analytics-2027-entry
+         https://www.qmu.ac.uk/study-here/undergraduate-study/2027/ba-hons-business-management-with-digital-marketing-2027-entry
+         https://www.qmu.ac.uk/study-here/undergraduate-study/2027/ba-hons-business-management-with-finance-2027-entry
+   29  www.qmu.ac.uk/current-students/current-students-general-information/fees-and-charges
+         https://www.qmu.ac.uk/current-students/current-students-general-information/fees-and-charges/2027-28-postgraduate-fees
+         https://www.qmu.ac.uk/current-students/current-students-general-information/fees-and-charges/2027-28-undergraduate-fees
+         https://www.qmu.ac.uk/current-students/current-students-general-information/fees-and-charges/2026-27-postgraduate-fees
+         https://www.qmu.ac.uk/current-students/current-students-general-information/fees-and-charges/2026-27-undergraduate-fees
+   26  www.qmu.ac.uk/news-and-events/news/2016
+         https://www.qmu.ac.uk/news-and-events/news/2016/20160210-1-qmu-drama-graduate
+         https://www.qmu.ac.uk/news-and-events/news/2016/20160615-qmu-graduate-wins
+         https://www.qmu.ac.uk/news-and-events/news/2016/20160714-public-relations-graduates
+         https://www.qmu.ac.uk/news-and-events/news/2016/20160715-1-qmu-graduate-darragh-odonovan
+   17  www.qmu.ac.uk/study-here/postgraduate-study/postgraduate-subject-overviews
+         https://www.qmu.ac.uk/study-here/postgraduate-study/postgraduate-subject-overviews/advancing-professional-practice-framework
+         https://www.qmu.ac.uk/study-here/postgraduate-study/postgraduate-subject-overviews/arts-culture-and-the-creative-industries
+         https://www.qmu.ac.uk/study-here/postgraduate-study/postgraduate-subject-overviews/business
+         https://www.qmu.ac.uk/study-here/postgraduate-study/postgraduate-subject-overviews/cognitive-behavioural-therapy
+   15  www.qmu.ac.uk/study-here/postgraduate-study/online-courses
+         https://www.qmu.ac.uk/study-here/postgraduate-study/online-courses/online-education
+         https://www.qmu.ac.uk/study-here/postgraduate-study/online-courses/online-educational-leadership
+         https://www.qmu.ac.uk/study-here/postgraduate-study/online-courses/online-msc-global-health
+         https://www.qmu.ac.uk/study-here/postgraduate-study/online-courses/online-healthcare-management
+   14  www.qmu.ac.uk/study-here/postgraduate-research-study/graduate-school-and-doctoral-research
+         https://www.qmu.ac.uk/study-here/postgraduate-research-study/graduate-school-and-doctoral-research/graduate-school-strategy
+         https://www.qmu.ac.uk/study-here/postgraduate-research-study/graduate-school-and-doctoral-research/prospective-students
+         https://www.qmu.ac.uk/study-here/postgraduate-research-study/graduate-school-and-doctoral-research/phd-bursary-competition
+         https://www.qmu.ac.uk/study-here/postgraduate-research-study/graduate-school-and-doctoral-research/researcher-development
+   11  www.qmu.ac.uk/study-here/postgraduate-study
+         https://www.qmu.ac.uk/study-here/postgraduate-study/postgraduate-subject-overviews
+         https://www.qmu.ac.uk/study-here/postgraduate-study/online-courses
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2027
+         https://www.qmu.ac.uk/study-here/postgraduate-study/2026
+   11  www.qmu.ac.uk/about-the-university/qmu150/qmu150-150-stories
+         https://www.qmu.ac.uk/about-the-university/qmu150/qmu150-150-stories/honorary-graduates
+         https://www.qmu.ac.uk/about-the-university/qmu150/qmu150-150-stories/honorary-graduates/dame-judi-dench
+         https://www.qmu.ac.uk/about-the-university/qmu150/qmu150-150-stories/honorary-graduates/stars-of-still-game-awarded-honorary-degrees
+         https://www.qmu.ac.uk/about-the-university/qmu150/qmu150-150-stories/honorary-graduates/outstanding-social-bite-entrepreneur-awarded-an-honorary-degree
+   11  www.qmu.ac.uk/about-the-university/quality/programme-specifications
+         https://www.qmu.ac.uk/about-the-university/quality/programme-specifications/mba-hospitality-silver-mountain
+         https://www.qmu.ac.uk/about-the-university/quality/programme-specifications/mba-with-specialisation-isdc
+         https://www.qmu.ac.uk/about-the-university/quality/programme-specifications/msc-strategic-marketing-icbs
+         https://www.qmu.ac.uk/about-the-university/quality/programme-specifications/mba-with-specialisation-icbs
+   11  www.qmu.ac.uk/news-and-events/news/2025
+         https://www.qmu.ac.uk/news-and-events/news/2025/2025624-new-name-for-award-winning-arts-master-s-degree
+         https://www.qmu.ac.uk/news-and-events/news/2025/2025718-vicky-tromans-graduates-with-master-of-nursing
+         https://www.qmu.ac.uk/news-and-events/news/2025/2025718-rachel-jessica-thorpe-graduate-in-podiatry
+         https://www.qmu.ac.uk/news-and-events/news/2025/2025718-zoe-maccallum-graduates-to-become-student-president
+   11  www.qmu.ac.uk/news-and-events/news/2026
+         https://www.qmu.ac.uk/news-and-events/news/2026/20260211-qmu-graduate-driving-festival-revolution-in-indonesia-wins-prestigious-british-council-award
+         https://www.qmu.ac.uk/news-and-events/news/2026/15062026-qmu-graduate-apprenticeship-set-to-strengthen-scotland-s-early-childcare-sector
+         https://www.qmu.ac.uk/news-and-events/news/2026/23062026-qmu-s-msc-business-analytics-achieves-institute-of-analytics-accreditation
+         https://www.qmu.ac.uk/news-and-events/news/2026/10072026-inspiring-qmu-nursing-graduate-makes-lasting-impact
+   10  www.qmu.ac.uk/current-students/current-students-general-information/transcript-guidance
+         https://www.qmu.ac.uk/current-students/current-students-general-information/transcript-guidance/undergraduate-notes-for-guidance-2022-3
+         https://www.qmu.ac.uk/current-students/current-students-general-information/transcript-guidance/postgraduate-notes-for-guidance-2022-3
+         https://www.qmu.ac.uk/current-students/current-students-general-information/transcript-guidance/undergraduate-notes-for-guidance-2021-22
+         https://www.qmu.ac.uk/current-students/current-students-general-information/transcript-guidance/postgraduate-notes-for-guidance-2021-2
+   10  www.qmu.ac.uk/news-and-events/news/2015
+         https://www.qmu.ac.uk/news-and-events/news/2015/20150423-interview-with-qmu-graduate-jennifer-orr
+         https://www.qmu.ac.uk/news-and-events/news/2015/20150626-midlothian-schools-graduate
+         https://www.qmu.ac.uk/news-and-events/news/2015/20150715-1-qmu-graduate-lands-leading-role
+         https://www.qmu.ac.uk/news-and-events/news/2015/20150715-2-stirling-student-graduates
+   10  www.qmu.ac.uk/news-and-events/news/2018
+         https://www.qmu.ac.uk/news-and-events/news/2018/20181128-audiology-graduate-wins-fujifilm-student-of-the-year-award
+         https://www.qmu.ac.uk/news-and-events/news/2018/20181112-bbc-cbeebies-acting-graduates-in-molly-and-mack
+         https://www.qmu.ac.uk/news-and-events/news/2018/20180716-qmu-to-offer-new-master-s-degree-in-media-management
+         https://www.qmu.ac.uk/news-and-events/news/2018/20180612-qmu-launches-britain-s-only-master-s-course-in-public-sociology-news-and-events-queen-margaret-university
+    9  www.qmu.ac.uk/study-here/undergraduate-study/undergraduate-subject-overviews
+         https://www.qmu.ac.uk/study-here/undergraduate-study/undergraduate-subject-overviews/business-inc-international-hospitality-tourism-and-events-management
+         https://www.qmu.ac.uk/study-here/undergraduate-study/undergraduate-subject-overviews/nursing
+         https://www.qmu.ac.uk/study-here/undergraduate-study/undergraduate-subject-overviews/drama-and-performing-arts
+         https://www.qmu.ac.uk/study-here/undergraduate-study/undergraduate-subject-overviews/education
+    9  www.qmu.ac.uk/news-and-events/news/2021
+         https://www.qmu.ac.uk/news-and-events/news/2021/20210419-political-communications-public-affairs-postgrad
+         https://www.qmu.ac.uk/news-and-events/news/2021/20210426-graduate-entrepreneur-offers-5-000-worth-of-prizes-to-qmu-start-ups
+         https://www.qmu.ac.uk/news-and-events/news/2021/20210430-global-pandemic-fails-to-halt-qmu-graduate-film-success
+         https://www.qmu.ac.uk/news-and-events/news/2021/20211026-msc-podiatry-pre-registration
+    9  www.qmu.ac.uk/news-and-events/news/2024
+         https://www.qmu.ac.uk/news-and-events/news/2024/20240404-more-student-success-as-postgraduate-team-makes-final-of-national-competition
+         https://www.qmu.ac.uk/news-and-events/news/2024/20240329-qmu-student-named-sse-graduate-apprentice-of-the-year
+         https://www.qmu.ac.uk/news-and-events/news/2024/20240731-bathgate-graduate-launches-west-lothian-film-festival
+         https://www.qmu.ac.uk/news-and-events/news/2024/20240731-new-nursing-graduate-recognised-with-palliative-care-award-from-st-columba-s-hospice
+    8  www.qmu.ac.uk/news-and-events/news/2019
+         https://www.qmu.ac.uk/news-and-events/news/2019/20190725-trailblazer-dietician-graduates-from-qmu
+         https://www.qmu.ac.uk/news-and-events/news/2019/20190731-mature-student-overcomes-challenges-to-graduate-from-queen-margaret-university
+         https://www.qmu.ac.uk/news-and-events/news/2019/20190626-qmu-graduate-s-starring-role-in-eddie-izzard-feature-film
+         https://www.qmu.ac.uk/news-and-events/news/2019/20190506-msc-accounting-and-finance-at-qmu
+    7  www.qmu.ac.uk/about-the-university/honorary-graduates
+         https://www.qmu.ac.uk/about-the-university/honorary-graduates/carol-rogers
+         https://www.qmu.ac.uk/about-the-university/honorary-graduates/ashley-jensen
+         https://www.qmu.ac.uk/about-the-university/honorary-graduates/lucinda-bruce-gardyne
+         https://www.qmu.ac.uk/about-the-university/honorary-graduates/shona-mccarthy
+    6  www.qmu.ac.uk/study-here/undergraduate-study
+         https://www.qmu.ac.uk/study-here/undergraduate-study/undergraduate-subject-overviews
+         https://www.qmu.ac.uk/study-here/undergraduate-study/2027
+         https://www.qmu.ac.uk/study-here/undergraduate-study/students-from-the-uk-or-eu
+         https://www.qmu.ac.uk/study-here/undergraduate-study/how-we-teach-and-how-youll-learn-undergraduate

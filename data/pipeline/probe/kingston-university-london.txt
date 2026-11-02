@@ -1,0 +1,73 @@
+# kingston-university-london https://www.kingston.ac.uk
+robots sitemaps: (none) · crawl-delay: 20 · AI-agent groups: 0
+index https://www.kingston.ac.uk/sitemap.xml: 2 children (2 course-like)
+sitemaps read 3 · urls 2310 · master's-looking 329
+  126  www.kingston.ac.uk/study/postgraduate
+         https://www.kingston.ac.uk/study/postgraduate/accounting-and-finance-msc
+         https://www.kingston.ac.uk/study/postgraduate/banking-and-finance-msc
+         https://www.kingston.ac.uk/study/postgraduate/business-phd-doctor-of-philosophy
+         https://www.kingston.ac.uk/study/postgraduate/technology-maritime-operations-msc
+  114  www.kingston.ac.uk/study/undergraduate
+         https://www.kingston.ac.uk/study/undergraduate/building-surveying-bsc-hons
+         https://www.kingston.ac.uk/study/undergraduate/business-economics-bsc-hons
+         https://www.kingston.ac.uk/study/undergraduate/digital-marketing-and-advertising-bsc-hons
+         https://www.kingston.ac.uk/study/undergraduate/midwifery-with-registered-midwife-bmid-hons-for-registered-nurses-adult
+   46  www.kingston.ac.uk/about/news
+         https://www.kingston.ac.uk/about/news/kingston-school-of-art-graduate-lucy-saunders-wins-mtv-music-meets-fashion-competition
+         https://www.kingston.ac.uk/about/news/mum-of-two-who-came-through-clearing-juggles-home-schooling-with-study-to-graduate-with
+         https://www.kingston.ac.uk/about/news/new-postgraduate-degree-in-sustainable-fashion-to-equip-kingston-school-of-art-students
+         https://www.kingston.ac.uk/about/news/double-olympic-medalist-and-kingston-university-graduate-asha-philip-reflects-on-her
+    8  www.kingston.ac.uk/experience/kingston-connect
+         https://www.kingston.ac.uk/experience/kingston-connect/msc-data-science-alumni-develop-an-open-source-ai-model-helping
+         https://www.kingston.ac.uk/experience/kingston-connect/two-degrees-of-difference-exchange-and-postgraduate-life-at-kingston
+         https://www.kingston.ac.uk/experience/kingston-connect/what-producing-my-graduate-film-taught-me-about-filmmaking
+         https://www.kingston.ac.uk/experience/kingston-connect/what-running-a-company-for-6-weeks-taught-me-about-real-decisions
+    7  www.kingston.ac.uk/about/events
+         https://www.kingston.ac.uk/about/events/undergraduate-open-days-2026
+         https://www.kingston.ac.uk/about/events/postgraduate-open-days-2026
+         https://www.kingston.ac.uk/about/events/webinar-discover-postgraduate-study-at-kingston
+         https://www.kingston.ac.uk/about/events/webinar-funding-a-postgraduate-degree-2
+    7  www.kingston.ac.uk/study/fees-and-funding
+         https://www.kingston.ac.uk/study/fees-and-funding/chelsea-arts-club-trust-ma-award
+         https://www.kingston.ac.uk/study/fees-and-funding/postgraduate-progression-scholarship
+         https://www.kingston.ac.uk/study/fees-and-funding/the-kingston-mba-scholarship
+         https://www.kingston.ac.uk/study/fees-and-funding/undergraduate-fees
+    2  www.kingston.ac.uk/study
+         https://www.kingston.ac.uk/study/undergraduate
+         https://www.kingston.ac.uk/study/postgraduate
+    1  www.kingston.ac.uk/study/postgraduate/journalism-pgdip
+         https://www.kingston.ac.uk/study/postgraduate/journalism-pgdip/ma
+    1  www.kingston.ac.uk/study/postgraduate/software-engineering
+         https://www.kingston.ac.uk/study/postgraduate/software-engineering/with-management-studies-msc
+    1  www.kingston.ac.uk/study/postgraduate/intelligent-networks-and-cloud-computing
+         https://www.kingston.ac.uk/study/postgraduate/intelligent-networks-and-cloud-computing/with-management-studies-msc
+    1  www.kingston.ac.uk/study/postgraduate/network-information-security
+         https://www.kingston.ac.uk/study/postgraduate/network-information-security/with-management-studies-msc
+    1  www.kingston.ac.uk/study/postgraduate/professional-practice-architecture-arb
+         https://www.kingston.ac.uk/study/postgraduate/professional-practice-architecture-arb/riba-part-3-exemption-pgdip
+    1  www.kingston.ac.uk/study/postgraduate/advanced-clinical-practice-msc
+         https://www.kingston.ac.uk/study/postgraduate/advanced-clinical-practice-msc/pgdip
+    1  www.kingston.ac.uk/study/postgraduate/healthcare-practice-msc
+         https://www.kingston.ac.uk/study/postgraduate/healthcare-practice-msc/pgdip/pgcert
+    1  www.kingston.ac.uk/study/undergraduate/mechanical-engineering-meng
+         https://www.kingston.ac.uk/study/undergraduate/mechanical-engineering-meng/beng-hons
+    1  www.kingston.ac.uk/study/undergraduate/aerospace-engineering-meng
+         https://www.kingston.ac.uk/study/undergraduate/aerospace-engineering-meng/beng-hons
+    1  www.kingston.ac.uk/study/undergraduate/healthcare-practice-bsc-hons-top-up
+         https://www.kingston.ac.uk/study/undergraduate/healthcare-practice-bsc-hons-top-up/gradcert
+    1  www.kingston.ac.uk/study/undergraduate/electrical-and-electronic-engineering-meng
+         https://www.kingston.ac.uk/study/undergraduate/electrical-and-electronic-engineering-meng/beng-hons
+    1  www.kingston.ac.uk/study/undergraduate/electronic-design-engineering-meng
+         https://www.kingston.ac.uk/study/undergraduate/electronic-design-engineering-meng/beng-hons
+    1  www.kingston.ac.uk/study/undergraduate/robotic-engineering-and-artificial-intelligence-meng
+         https://www.kingston.ac.uk/study/undergraduate/robotic-engineering-and-artificial-intelligence-meng/beng-hons
+    1  www.kingston.ac.uk/study/short-course
+         https://www.kingston.ac.uk/study/short-course/applied-research-methods-and-data-science-masterclass
+    1  www.kingston.ac.uk/study/undergraduate/clearing
+         https://www.kingston.ac.uk/study/undergraduate/clearing/courses-in-clearing
+    1  www.kingston.ac.uk/collaborate/services-for-business
+         https://www.kingston.ac.uk/collaborate/services-for-business/work-with-students-and-graduates
+    1  www.kingston.ac.uk/study/open-days
+         https://www.kingston.ac.uk/study/open-days/postgraduate-open-day-programme-wednesday-24-june-2026
+    1  www.kingston.ac.uk/order-an-undergraduate-guide
+         https://www.kingston.ac.uk/order-an-undergraduate-guide

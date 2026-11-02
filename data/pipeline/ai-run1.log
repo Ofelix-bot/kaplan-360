@@ -1,0 +1,747 @@
+Claude fills missing fields for 2761 programmes (claude-haiku-5-5)…
+aston-univer Financial Technology MSc                         +1 kept, 0 dropped
+aston-univer Financial Management MSc                         +1 kept, 0 dropped
+aston-univer Transport Leadership MSc                         +1 kept, 0 dropped
+aston-univer Artificial Intelligence MSc                      +1 kept, 0 dropped
+aston-univer Psychology (Conversion) MSc                      +1 kept, 0 dropped
+aston-univer International Relations MSc                      +1 kept, 0 dropped
+aston-univer International Business MSc                       +1 kept, 0 dropped
+aston-univer Business and Management MSc                      +1 kept, 0 dropped
+aston-univer Supply Chain Management MSc                      +1 kept, 0 dropped
+aston-univer Advanced Computer Science MSc                    +1 kept, 0 dropped
+aston-univer AI for Business Transformation with Capgemini MS +1 kept, 0 dropped
+aston-univer Addiction and Mental Health MSc                  +1 kept, 0 dropped
+aston-univer Human Resource Management MSc                    +1 kept, 0 dropped
+aston-univer Cyber Security Management MSc                    +1 kept, 0 dropped
+aston-univer Investment Analysis and Risk MSc                 +1 kept, 0 dropped
+aston-univer Artificial Intelligence for Health MSc           +1 kept, 0 dropped
+aston-univer Master of Laws and Legal Practice (SQE1 and SQE2 +0 kept, 0 dropped
+aston-univer Strategic Marketing Management MSc               +1 kept, 0 dropped
+aston-univer Robotics and Autonomous Systems MSc              +1 kept, 0 dropped
+aston-univer Applied Artificial Intelligence MSc              +1 kept, 0 dropped
+aston-univer Artificial Intelligence with Business Strategy M +1 kept, 0 dropped
+aston-univer International Accounting and Finance MSc         +1 kept, 0 dropped
+aston-univer Information Systems and Business Analysis MSc    +1 kept, 0 dropped
+birmingham-c Legal Practice (SQE1 and SQE2 Preparation) - LLM +1 kept, 0 dropped
+birmingham-c Public Relations - MA                            +1 kept, 0 dropped
+aston-univer Digital Media and Communication MSc              +0 kept, 1 dropped
+birmingham-c Media Production - MA                            +1 kept, 0 dropped
+birmingham-c International Law - LLM                          +1 kept, 0 dropped
+birmingham-c Conversion in Law - LLM                          +1 kept, 0 dropped
+birmingham-c Health Psychology - MSc                          +1 kept, 0 dropped
+birmingham-c Computer Science - MSc                           +1 kept, 0 dropped
+birmingham-c Quantity Surveying - MSc                         +0 kept, 0 dropped
+birmingham-c Big Data Analytics - MSc                         +1 kept, 0 dropped
+birmingham-c Forensic Psychology - MSc                        +1 kept, 0 dropped
+birmingham-c Education (Early Years) - MA                     +0 kept, 0 dropped
+birmingham-c Project Management - MSc                         +1 kept, 0 dropped
+birmingham-c Visual Communication - MA                        +1 kept, 0 dropped
+birmingham-c Finance and Investment - MSc                     +1 kept, 0 dropped
+birmingham-c Accounting and Finance - MSc                     +1 kept, 0 dropped
+birmingham-c Luxury Brand Management - MA                     +1 kept, 0 dropped
+birmingham-c Management and Finance - MSc                     +1 kept, 0 dropped
+birmingham-c Real Estate Management - MSc                     +1 kept, 0 dropped
+birmingham-c Artificial Intelligence - MSc                    +1 kept, 0 dropped
+birmingham-c Management and Marketing - MSc                   +1 kept, 0 dropped
+birmingham-c Advanced Computer Science - MSc                  +1 kept, 0 dropped
+birmingham-c Education (International Education) - MA         +2 kept, 0 dropped
+birmingham-c Advanced Clinical Practice - MSc                 +1 kept, 0 dropped
+birmingham-c Sports Media and Journalism - MA *               +1 kept, 0 dropped
+birmingham-c International Business Law - LLM                 +1 kept, 0 dropped
+birmingham-c Sport and Exercise Nutrition - MSc               +1 kept, 0 dropped
+birmingham-c Applied Child Psychology - MSc                   +0 kept, 1 dropped
+birmingham-c Construction Project Management - MSc            +1 kept, 0 dropped
+birmingham-c International Relations and Security - MA        +1 kept, 0 dropped
+birmingham-c Counselling (Children and Young People) - MSc    +1 kept, 0 dropped
+birmingham-c International Professional Accounting (ACCA) - M +1 kept, 0 dropped
+birmingham-c Logistics and Supply Chain Management - MSc      +1 kept, 0 dropped
+birmingham-c International Human Resource Management - MA     +1 kept, 0 dropped
+birmingham-c Management and International Business - MSc      +1 kept, 0 dropped
+birmingham-c Policing and Criminal Justice Leadership - MSc   +1 kept, 0 dropped
+birmingham-c Internal Audit Management and Consultancy - MSc  +1 kept, 0 dropped
+birmingham-c Health Data Science and Clinical Informatics - M +1 kept, 0 dropped
+northumbria- Business and Management MSc                      +2 kept, 0 dropped
+northumbria- Business and Management MSc                      +2 kept, 0 dropped
+northumbria- Law (Space Law) LLM                              +2 kept, 0 dropped
+northumbria- Computer Science MSc 16 Months Full-Time | Septe +2 kept, 0 dropped
+northumbria- Advanced Computer Science MSc                    +2 kept, 0 dropped
+northumbria- Human-Computer Interaction MSc                   +2 kept, 0 dropped
+northumbria- Tourism and Visitor Economy MSc                  +2 kept, 0 dropped
+northumbria- Master of Business Administration (MBA) Full-Tim +2 kept, 0 dropped
+northumbria- Clinical Exercise Physiology MSc                 +2 kept, 0 dropped
+northumbria- MSc Computing and Technology (with Advanced Prac +1 kept, 0 dropped
+northumbria- Education (Teaching and Learning) MA             +2 kept, 0 dropped
+northumbria- MSc Cyber Security Technology (with Advanced Pra +1 kept, 1 dropped
+northumbria- Accounting and Finance MSc                       +2 kept, 0 dropped
+northumbria- Global Human Resource Management MSc 1 Year Full +2 kept, 0 dropped
+northumbria- MPA - Master of Public Administration            +2 kept, 0 dropped
+northumbria- International Business Management MSc            +2 kept, 0 dropped
+northumbria- Education (Leadership and Management) MA         +2 kept, 0 dropped
+northumbria- Law (Cyber Law) LLM                              +2 kept, 0 dropped
+northumbria- Advanced Computer Science MSc 16 Months Full-Tim +2 kept, 0 dropped
+northumbria- MSc Healthcare Leadership and Management         +2 kept, 0 dropped
+northumbria- MSc Healthcare Leadership and Management         +2 kept, 0 dropped
+northumbria- MSc Business with Entrepreneurship (with Advance +2 kept, 0 dropped
+northumbria- Master of Laws Professional Legal Practice (SQE1 +1 kept, 0 dropped
+northumbria- Global Sustainable Business Management MSc       +0 kept, 0 dropped
+northumbria- Nursing Science Registered Nurse (Adult) MSc     +1 kept, 0 dropped
+northumbria- MSc Business with Business Analytics (with Advan +2 kept, 0 dropped
+northumbria- Computer Science with Advanced Practice MSc 2 Ye +2 kept, 0 dropped
+northumbria- Law (Criminal Justice) LLM                       +2 kept, 0 dropped
+northumbria- Entrepreneurship and Innovation Management MSc   +2 kept, 0 dropped
+northumbria- MSc Business with Marketing Management (with Adv +1 kept, 1 dropped
+northumbria- Business and Management MSc 2 Years Full-time |  +2 kept, 0 dropped
+northumbria- International Hospitality and Tourism Management +2 kept, 0 dropped
+northumbria- MSc Global Logistics Operations and Supply Chain +2 kept, 0 dropped
+northumbria- MA/MSc Innovation and Creative Strategy          +2 kept, 0 dropped
+northumbria- Law (International Commercial Law) LLM           +2 kept, 0 dropped
+northumbria- MSc International Project Management (with Advan +1 kept, 1 dropped
+northumbria- MSc Business with Hospitality and Tourism Manage +2 kept, 0 dropped
+northumbria- Advanced Computer Science with Advanced Practice +2 kept, 0 dropped
+northumbria- Global Logistics, Operations and Supply Chain Ma +2 kept, 0 dropped
+northumbria- Nursing Science Registered Nurse (Mental Health) +1 kept, 0 dropped
+northumbria- MSc International Project Management (with Advan +1 kept, 1 dropped
+northumbria- MSc Business with Business Analytics (with Advan error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+northumbria- MSc Global Logistics Operations and Supply Chain error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+northumbria- MSc Global Logistics Operations and Supply Chain error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+northumbria- MA Luxury Brand Management (with Advanced Practi +2 kept, 0 dropped
+northumbria- Global Logistics, Operations and Supply Chain Ma +2 kept, 0 dropped
+northumbria- MA Luxury Brand Management (with Advanced Practi error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+northumbria- Entrepreneurship and Innovation Management MSc 2 error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+northumbria- MSc Big Data and Data Science Technology (with A +1 kept, 1 dropped
+northumbria- MSc Business with Hospitality and Tourism Manage +1 kept, 1 dropped
+northumbria- MSc Computing and Technology (with Advanced Prac error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+northumbria- MSc Cyber Security Technology (with Advanced Pra error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+northumbria- International Business Management MSc            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+northumbria- MSc Artificial Intelligence Technology (with Adv error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Computer Science MSc                             +1 kept, 0 dropped
+university-o Marketing MSc                                    +1 kept, 0 dropped
+northumbria- MSc Artificial Intelligence Technology (with Adv error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+northumbria- MSc Big Data and Data Science Technology (with A +1 kept, 0 dropped
+university-o Computer Animation MSc                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Visual Communication MA                          +1 kept, 0 dropped
+university-o Sport Management MSc                             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Project Management MSc                           +1 kept, 0 dropped
+university-o Health Psychology MSc                            +1 kept, 0 dropped
+university-o Finance and Banking MSc                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Criminal Psychology MSc                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Quantity Surveying MSc                           +0 kept, 1 dropped
+university-o Financial Technology MSc                         +1 kept, 0 dropped
+university-o Forensic Psychology MSc                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Information Systems MSc                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Marketing Management MSc                         +1 kept, 0 dropped
+university-o Forensic Accounting MSc                          +0 kept, 0 dropped
+university-o Applied Sport Psychology MSc                     +1 kept, 0 dropped
+university-o International Relations MA                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Media and Communication MA                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Accounting and Finance MSc                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Real Estate Management MSc                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Digital Marketing MSc                            +1 kept, 0 dropped
+university-o Computer Science MSc                             +1 kept, 0 dropped
+university-o Business Analytics MSc                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Computer Games Technology MSc                    +0 kept, 0 dropped
+university-o Digital Business Management MSc                  +1 kept, 0 dropped
+university-o Professional Legal Practice LLM                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Strategic Leadership MBA                         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Information Systems MSc                          +1 kept, 0 dropped
+university-o Applied Linguistics and TESOL MA                 error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Clinical Exercise Physiology MSc                 +1 kept, 0 dropped
+university-o Project Management MSc                           +1 kept, 0 dropped
+university-o Educational Leadership MBA                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Accounting and Data Analytics MSc                +0 kept, 0 dropped
+university-o Film and Television Production MA                +1 kept, 0 dropped
+university-o Crisis and Disaster Management MSc               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Cybercrime, Terrorism and Security MSc           +0 kept, 0 dropped
+university-o Building Information Management MSc              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Global Human Resource Management MSc             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Business Administration (Top-Up) MBA             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o TESOL (with Professional Experience) MA          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o International Relations and Politics MA          +0 kept, 0 dropped
+university-o Applied Sport and Exercise Performance MSc       +1 kept, 0 dropped
+university-o Educational Leadership and Management MSc        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Corporate Governance and Law GradCG LLM          +1 kept, 0 dropped
+university-o International Business and Management MSc        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Education Studies with SEND and Inclusion MA     +0 kept, 0 dropped
+university-o Construction Project Management MSc              +1 kept, 0 dropped
+university-o Risk, Crisis and Resilience Management MSc       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Logistics and Supply Chain Management MSc        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Construction Project Management MSc              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o International Business and Management MSc        +1 kept, 0 dropped
+university-o Occupational Health and Safety Management MSc    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Global (with Professional Experience) MBA        +1 kept, 0 dropped
+university-o International Criminal Justice and Intelligence  +1 kept, 0 dropped
+university-o Innovation Management and Entrepreneurship MSc   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Artificial Intelligence and Machine Learning MSc error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Master of Business Administration MBA            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Computer Network Administration and Management M error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Education Studies (with Professional Experience) +1 kept, 0 dropped
+university-o International Hospitality and Tourism Management +1 kept, 0 dropped
+university-o Applied Linguistics and TESOL (with Professional +2 kept, 0 dropped
+university-o Business Communication for International Leaders +1 kept, 0 dropped
+university-o Educational Leadership and Management with SEND  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Corporate Governance and Law GradCG (with Profes error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Cyber Security and Forensic Information Technolo +1 kept, 0 dropped
+university-o Educational Leadership and Management (with Prof error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o International Hospitality and Tourism Management error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Business Communication for International Leaders error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+murdoch-univ Master of Communication                          +2 kept, 0 dropped
+murdoch-univ Master of Education                              +2 kept, 0 dropped
+murdoch-univ Master of Teaching (Primary)                     +1 kept, 0 dropped
+murdoch-univ Master of Clinical Exercise Physiology           +2 kept, 0 dropped
+murdoch-univ Master of Science in Information Technology      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+murdoch-univ Master of Professional Accounting (Advanced)     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+murdoch-univ Master of Criminology                            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+murdoch-univ Master of Business Administration (Global)       +3 kept, 1 dropped
+murdoch-univ Master of Education                              +2 kept, 0 dropped
+murdoch-univ Master of Professional Psychology                +3 kept, 0 dropped
+monash-unive Master of Business | Flexible Specialisations    +3 kept, 0 dropped
+murdoch-univ Master of Counselling                            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+murdoch-univ Master of Professional Communication             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Laws (LLM) | 9 Specializations | Monas error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+murdoch-univ Master of Teaching (Secondary)                   +1 kept, 0 dropped
+murdoch-univ Master of High Performance Sport                 +2 kept, 0 dropped
+monash-unive Master of Education                              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Counselling | ACA & PACFA Accredited   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Data Science | No IT-background requir error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Cybersecurity                          +3 kept, 0 dropped
+monash-unive Master of Actuarial Studies                      +3 kept, 0 dropped
+monash-unive Master of Nursing Practice | Clinical Placements error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Health Management | Lead Health Servic error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Financial Mathematics                  +3 kept, 0 dropped
+monash-unive Master of Educational Leadership                 +3 kept, 0 dropped
+monash-unive Master of Public Health                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Inclusive Education                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Professional Psychology | APAC Accredi +3 kept, 0 dropped
+monash-unive Master of Information Technology | Only G8 IT Fa +3 kept, 0 dropped
+monash-unive Master of Professional Accounting                error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Artificial Intelligence | ACS Accredit error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Educational and Developmental Psycholo +2 kept, 0 dropped
+monash-unive Master of Banking & Finance | No Finance Backgro +3 kept, 0 dropped
+monash-unive Master of Advanced Clinical Nursing              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Business Information Systems | ACS Acc error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Educational and Developmental Psycholo +3 kept, 0 dropped
+monash-unive Master of Occupational and Environmental Health  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+monash-unive Master of Journalism                             +3 kept, 0 dropped
+monash-unive Master of International Relations - Double Maste +2 kept, 1 dropped
+university-c Quantitative Finance                             +1 kept, 0 dropped
+university-c MBA FT                                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Marketing Practice                               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Business Analytics                               +1 kept, 0 dropped
+university-c Finance                                          +1 kept, 0 dropped
+university-c Criminology & Criminal Justice                   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Project Management                               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Marketing                                        +1 kept, 0 dropped
+university-c Criminology & Criminal Justice                   +1 kept, 0 dropped
+university-c International Business                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Human Resource Management                        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Digital Marketing                                +1 kept, 0 dropped
+university-c Management                                       +1 kept, 0 dropped
+university-c Management Consultancy                           +1 kept, 0 dropped
+university-c Marketing & Retail Innovation                    +1 kept, 0 dropped
+university-c Intellectual Property & Information Technology   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Global Business Practice                         +1 kept, 0 dropped
+university-c International Law & Business                     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c LLM International Commercial Law FT              +1 kept, 0 dropped
+university-c LLM General                                      +2 kept, 0 dropped
+university-c Accounting & Financial Management                error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Digital Innovation                               +1 kept, 0 dropped
+university-c Financial Data Science                           +1 kept, 0 dropped
+university-c Teaching Chinese Language & Culture              +1 kept, 0 dropped
+university-c International Management (CEMS)                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Strategic Management                             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Digital Innovation & AI                          +1 kept, 0 dropped
+university-c Sustainable Supply Chain Management              +1 kept, 0 dropped
+university-c Actuarial Science                                +1 kept, 0 dropped
+university-c Sustainable Finance                              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Business Analytics & AI                          +1 kept, 0 dropped
+university-c Computer Science (Conversion)                    +1 kept, 0 dropped
+university-c Biotherapeutics & Business                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c EU Law & Governance                              +1 kept, 0 dropped
+university-c Statistical Data Science                         +0 kept, 0 dropped
+university-c Biomolecular Data Analytics & AI                 +0 kept, 0 dropped
+university-c Data & Computational Science                     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Financial Mathematics                            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Advanced Artificial Intelligence                 +1 kept, 0 dropped
+university-c MSc Computer Science (Negotiated Learning)       +1 kept, 0 dropped
+university-c MEngSc in Electrical Power Networks              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c MSc Applied Economics                            +1 kept, 0 dropped
+university-c Masters in Robotics and Intelligent Manufacturin +1 kept, 0 dropped
+university-c International Financial Services Law             +0 kept, 0 dropped
+university-c Master of Psychological Science                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c MA Education                                     +1 kept, 0 dropped
+university-c MSc Information Systems                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c MA International Relations                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c MSc Behavioural Economics                        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c MSc Politics & Data Science                      +2 kept, 0 dropped
+university-c MSc International Relations                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c MSc Gender, Politics & International Relations   +2 kept, 0 dropped
+university-c MSc Communication and Media                      +1 kept, 0 dropped
+university-c MA Gender, Politics and International Relations  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c MSc Education, Children & Youth                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c MSc Multilingual Education                       +1 kept, 0 dropped
+university-c Computed Tomography                              +2 kept, 0 dropped
+university-c MSc Human Computer Interaction                   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Digital & AI Policy                              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c MSc Applied Catchment Science & Management       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-c Cultural Policy & Arts Management                +1 kept, 0 dropped
+university-c MSc Social Data Science                          +2 kept, 0 dropped
+university-c European Master in Public Health (Europubhealth+ +1 kept, 0 dropped
+university-c MA TESOL (applicants with no teaching experience +1 kept, 0 dropped
+university-c Sport Management (Sport)                         +1 kept, 0 dropped
+university-c MA TESOL (Teaching English to Speakers of Other  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Nanyang MBA                                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Teaching                               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in Applied Economics           +2 kept, 0 dropped
+university-c Media & International Conflict                   +1 kept, 0 dropped
+nanyang-tech Master in Management                             +1 kept, 1 dropped
+university-c Journalism & International Affairs               +1 kept, 0 dropped
+nanyang-tech Master of Education (Art)                        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Education (Science)                    +2 kept, 0 dropped
+nanyang-tech Master of Communication Studies (Research) | Com +0 kept, 0 dropped
+nanyang-tech Master of Education (Drama)                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech MSc Accountancy                                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Education (English)                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Education (Mathematics)                +2 kept, 0 dropped
+nanyang-tech Master of Science in Psychology                  +1 kept, 0 dropped
+nanyang-tech Master of Arts (Applied Psychology)              +1 kept, 0 dropped
+nanyang-tech Master of Science in Analytics                   +0 kept, 0 dropped
+nanyang-tech Master of Media and Communication (MMC)          +3 kept, 1 dropped
+nanyang-tech MSc Marketing Science                            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in Accountancy                 error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech MSc Business Analytics                           +0 kept, 0 dropped
+nanyang-tech Master of Science in Finance                     +2 kept, 1 dropped
+nanyang-tech Master of Education (Early Childhood)            +2 kept, 0 dropped
+nanyang-tech Master of Education (Tamil Language)             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Arts (Humanities Education)            +2 kept, 0 dropped
+nanyang-tech Master of Arts (Educational Leadership)          +2 kept, 0 dropped
+nanyang-tech Master of Education (Malay Language)             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in Signal Processing & Machine +3 kept, 0 dropped
+nanyang-tech Master of Science in Marketing Science           +0 kept, 1 dropped
+nanyang-tech Master of Education (Chinese Language)           +2 kept, 0 dropped
+nanyang-tech Master of Science in Project Management          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in Business Analytics          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Computing In Applied AI (MCAAI)        +0 kept, 1 dropped
+nanyang-tech Master of Education (Special Education)          +2 kept, 0 dropped
+nanyang-tech Master of Science in Data Science (MSDS)         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Arts (Counselling and Guidance)        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in Knowledge Management (KM)   +2 kept, 1 dropped
+nanyang-tech Master of Education (Educational Assessment)     +2 kept, 0 dropped
+nanyang-tech Master of Science in Financial Technology        +0 kept, 0 dropped
+nanyang-tech Master of Education (High Ability Studies)       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Education (Developmental Psychology)   +2 kept, 0 dropped
+nanyang-tech Master of Public Administration (English)        +2 kept, 0 dropped
+nanyang-tech Master of Science in Asset & Wealth Management   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in ​Computer Control & Automat +3 kept, 0 dropped
+nanyang-tech Master of Science in Information Systems (MSIS)  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in Managerial Economics (Engli +3 kept, 0 dropped
+nanyang-tech Master of Education (Learning Sciences and Artif error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science (Exercise and Sport Studies)   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in Applied Materials Analytics error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in Actuarial and Risk Analytic +1 kept, 0 dropped
+nanyang-tech Master of Science in BioBusiness and BioEntrepre +2 kept, 0 dropped
+nanyang-tech Master of Science in Artificial Intelligence (MS error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science (Robotics and Intelligent Syst +1 kept, 0 dropped
+nanyang-tech Master of Science in Cybersecurity (Applied Cybe +1 kept, 1 dropped
+nanyang-tech Master of Science Technopreneurship and Innovati error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Arts (Teaching Chinese as an Internati error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in Enterprise Artificial Intel error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Computing MSc                                    +1 kept, 0 dropped
+nanyang-tech Master of Science in Cybersecurity (Applied Cryp +1 kept, 0 dropped
+nanyang-tech Master of Science Technopreneurship and Innovati error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+nanyang-tech Master of Science in International Construction  +2 kept, 0 dropped
+imperial-col Finance MSc                                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Business Analytics and AI MSc                    +1 kept, 0 dropped
+imperial-col MSc in Management                                error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Advanced Computing MSc                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Full-Time MBA                                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Weekend MBA                                      +0 kept, 1 dropped
+imperial-col Mathematics and Finance MSc                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Cleantech Innovation MSc                         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col AI, Economics and Policy MSc                     +1 kept, 0 dropped
+imperial-col Health Data Analytics and Machine Learning MSc   +1 kept, 0 dropped
+imperial-col Finance and Accounting MSc                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Advanced Computational Methods for Aeronautics,  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Transport with Data Science MSc                  +1 kept, 0 dropped
+imperial-col Future Power Networks MSc                        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Science Communication MSc                        +1 kept, 0 dropped
+imperial-col Master of Public Health                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col MSc Statistics (Data Science and Machine Learnin +1 kept, 0 dropped
+imperial-col Strategic Marketing MSc                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Global Health Management MSc                     +1 kept, 0 dropped
+imperial-col Financial Technology MSc                         +0 kept, 1 dropped
+imperial-col Applied Machine Learning MSc                     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Artificial Intelligence Applications and Innovat +1 kept, 0 dropped
+imperial-col Artificial Intelligence MSc                      +1 kept, 0 dropped
+imperial-col Science Media Production MSc                     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Economics and Strategy for Business MSc          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Investment and Wealth Management MSc             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Statistics (Statistical Finance) MSc             +1 kept, 0 dropped
+imperial-col Computing (Visual Computing and Robotics) MSc    +1 kept, 0 dropped
+university-o Master of Business Administration (MBA)          +0 kept, 0 dropped
+imperial-col Computing (Artificial Intelligence and Machine L +1 kept, 0 dropped
+imperial-col Communications and Signal Processing MSc         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Computing (Security and Reliability) MSc         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+imperial-col Innovation, Entrepreneurship and Management MSc  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Law LLM                                          +0 kept, 0 dropped
+university-o Master of Law (LLM)                              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o PhD in Law                                       +1 kept, 0 dropped
+university-o The Cambridge MBA                                error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Film Studies MSc                                 +0 kept, 0 dropped
+university-o MLitt in Law                                     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Education MSc                                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Corporate Law LLM                                +0 kept, 0 dropped
+university-o Management MSc                                   +0 kept, 0 dropped
+imperial-col Computational Ecology and Evolution              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Data Science MSc                                 error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Advanced Nursing MSc                             +0 kept, 0 dropped
+university-o Social Psychology MSc                            +0 kept, 0 dropped
+university-o Commercial Law LLM                               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Marketing MSc                                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Film Directing MA (eca)                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o AI for Business MSc                              +0 kept, 0 dropped
+university-o Computer Science MSc                             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Ecological Economics MSc                         +0 kept, 0 dropped
+university-o Language Education MSc                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o International Law LLM                            +0 kept, 0 dropped
+university-o Counselling Studies MSc                          +0 kept, 0 dropped
+university-o Clinical Psychology DClinPsychol                 error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Business Analytics MSc                           +0 kept, 0 dropped
+university-o Medical Law and Ethics LLM                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Global Health Policy MSc                         +0 kept, 0 dropped
+university-o Psychological Research MSc                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Psychology of Language MSc                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Finance and Investment MSc                       +0 kept, 0 dropped
+university-o Psychological Therapies MSc                      +0 kept, 0 dropped
+university-o Artificial Intelligence MSc                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Landscape and Wellbeing MSc                      +0 kept, 0 dropped
+university-o Comparative Private Law LLM                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Public Health, Master of MPH                     +0 kept, 0 dropped
+university-o International Relations MSc                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o High Performance Computing MSc, PgDip            +0 kept, 0 dropped
+university-o Intellectual Property Law LLM                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Human Resource Management MSc                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Supply Chain Management MSc                      +0 kept, 0 dropped
+university-o Physical Activity for Health MSc                 +0 kept, 0 dropped
+university-o Dance Science and Education MSc                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o International Economic Law LLM                   +0 kept, 0 dropped
+university-o Data, Inequality and Society MSc                 error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Film, Exhibition and Curation MSc                error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Sport and Performance Psychology MSc             +0 kept, 0 dropped
+university-o Finance, Technology and Policy MSc               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Statistics with Data Science MSc                 +0 kept, 0 dropped
+university-o European and Transnational Law LLM               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Global Mental Health and Society MSc             +0 kept, 0 dropped
+university-o Entrepreneurship and Innovation MSc              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Human Cognitive Neuropsychology MSc              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Cyber Security, Privacy and Trust MSc            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Global Crime, Justice and Security MSc           +0 kept, 0 dropped
+university-o Criminology and Criminal Justice MSc             +0 kept, 0 dropped
+university-o Computational Applied Mathematics MSc            +0 kept, 0 dropped
+university-o Innovation, Technology and the Law LLM           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Criminal Law and Criminal Justice LLM            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Business Administration, Master of MBA           +1 kept, 0 dropped
+university-o Global Strategy and Sustainability MSc           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Computational Mathematical Finance MSc           +0 kept, 0 dropped
+university-o Narrative Futures: Art, Data, Society MSc        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Signal Processing and Communications MSc         +0 kept, 0 dropped
+university-o International Human Resource Management MSc      +0 kept, 0 dropped
+university-o Financial Modelling and Optimization MSc         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Psychology of Individual Differences MSc         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Banking Innovation and Risk Analytics MSc        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Accounting and Financial Management MSc          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Operational Research with Data Science MSc       +0 kept, 0 dropped
+university-o Mathematical Economics and Econometrics MSc      +0 kept, 0 dropped
+university-o Psychology of Mental Health (Conversion) MSc     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o International Banking Law and Finance LLM        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o High Performance Computing with Data Science MSc +0 kept, 0 dropped
+university-o Economics / Economics (Econometrics) / Economics +0 kept, 0 dropped
+university-o Statistics with Artificial Intelligence MSc      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o International and Cross-Cultural Counselling Stu +0 kept, 0 dropped
+university-o Global Environment and Climate Change Law LLM    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Imaging, Vision and High Performance Computing M error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Management of Bioeconomy, Innovation and Governa error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Language and Intercultural Communication MSc     +0 kept, 0 dropped
+university-o Data and Artificial Intelligence Ethics MSc      +0 kept, 0 dropped
+university-o Operational Research with Computational Optimiza error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Teaching English to Speakers of Other Languages  +0 kept, 0 dropped
+university-o Comparative Education and International Developm +0 kept, 0 dropped
+university-o Sport Policy, Management and International Devel error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o Mental Health in Children and Young People: Psyc error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Robotics MSc                                     +0 kept, 0 dropped
+king-s-colle Education MA                                     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Artificial Intelligence for Health MSc           +1 kept, 0 dropped
+university-o Applied Psychology (Healthcare) for Children and +0 kept, 0 dropped
+king-s-colle Film Studies (Film & Philosophy pathways availab error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Cyber Security MSc                               +1 kept, 0 dropped
+king-s-colle Public Health MPH                                +1 kept, 0 dropped
+king-s-colle Global Health MSc                                error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle STEM Education MA                                +1 kept, 0 dropped
+king-s-colle Data Science MSc                                 +1 kept, 0 dropped
+king-s-colle Finance Analytics MSc                            +1 kept, 0 dropped
+king-s-colle Master of Laws LLM                               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Finance (Corporate Finance) MSc                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Digital Marketing MSc                            +1 kept, 0 dropped
+king-s-colle Banking & Finance MSc                            +2 kept, 0 dropped
+king-s-colle Health Psychology MSc                            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Advanced Computing MSc                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Global Mental Health MSc                         +1 kept, 0 dropped
+king-s-colle Economics & Finance MSc                          +1 kept, 0 dropped
+king-s-colle Dental Public Health MSc                         +1 kept, 0 dropped
+king-s-colle Clinical Psychotherapy MSc                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Economics & Policy MSc                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Mental Health Studies MSc                        +1 kept, 0 dropped
+king-s-colle Computational Finance MSc                        +1 kept, 0 dropped
+king-s-colle Healthcare Management MSc/PGDip/PGCert           +0 kept, 0 dropped
+king-s-colle International Relations MA                       +0 kept, 0 dropped
+king-s-colle Finance (Asset Pricing) MSc                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Medical Ethics & Law / Medical Law MA            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle International Marketing MSc                      +1 kept, 0 dropped
+king-s-colle Global Media Industries MA                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle International Management MSc                     +1 kept, 0 dropped
+king-s-colle UK, EU & US Copyright Law Master of Arts MA      +0 kept, 0 dropped
+king-s-colle Artificial Intelligence MSc                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Education Futures & Technology MA                +0 kept, 0 dropped
+king-s-colle Dietetics - Teaching and modules - Dietetics MSc +1 kept, 0 dropped
+king-s-colle Arts & Cultural Management MA                    +1 kept, 0 dropped
+king-s-colle Leadership and Development MSc                   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Education, Policy & Society MA                   +0 kept, 0 dropped
+king-s-colle AI & Data in Culture and Society MA              +0 kept, 0 dropped
+king-s-colle Mental Health, Ethics & Law MSc                  +0 kept, 0 dropped
+king-s-colle Management & Technological Change MSc            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle EU Competition Law Master of Arts MA             +0 kept, 0 dropped
+king-s-colle Teaching modules msc statistics - Statistics MSc error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Public Policy & Management MSc                   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Nutrition - Teaching and modules - Nutrition MSc +0 kept, 0 dropped
+king-s-colle Sustainable Finance & Reporting MSc              +0 kept, 0 dropped
+king-s-colle European Union Law Master of Arts MA             +1 kept, 0 dropped
+king-s-colle Teaching - Philosophy MA                         +2 kept, 0 dropped
+king-s-colle Immunology - Teaching and modules - Immunology M +0 kept, 0 dropped
+king-s-colle International Relations & War MA                 error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle MedTech Innovation & Entrepreneurship MSc        +1 kept, 0 dropped
+king-s-colle War Studies MA - Teaching & Modules - War Studie +0 kept, 0 dropped
+king-s-colle Endodontics - Teaching and modules - Endodontics +0 kept, 0 dropped
+king-s-colle Child & Adolescent Mental Health MSc             +1 kept, 0 dropped
+king-s-colle Complex Systems and Data Modelling MSc           +0 kept, 0 dropped
+king-s-colle Diabetes Clinical Care and Management MSc/PG Cer error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Teaching modules msc mathematics - Mathematics M +0 kept, 0 dropped
+king-s-colle Artificial Intelligence for Science MSc          +1 kept, 0 dropped
+king-s-colle Orthodontics - Teaching and modules - Orthodonti error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Public Policy MA Teaching & Modules - Public Pol error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Digital Asset & Media Management MA              +0 kept, 0 dropped
+king-s-colle Ancient History MA Teaching & Modules - Ancient  +0 kept, 0 dropped
+king-s-colle Global Affairs - Teaching & Modules - Global Aff +0 kept, 0 dropped
+king-s-colle Educational Leadership and Management MA         +0 kept, 0 dropped
+king-s-colle Teaching - Critical Theory MA                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Global Leadership and Peacebuilding MSc          +0 kept, 0 dropped
+king-s-colle Family Therapy - Teaching & Modules - Family The error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Political and Strategic Communication MA         +0 kept, 0 dropped
+king-s-colle Peace, Security and International Law MA         +0 kept, 0 dropped
+king-s-colle Applied Bioinformatics - Teaching and modules -  +0 kept, 0 dropped
+king-s-colle Construction Law & Dispute Resolution MSc        +0 kept, 0 dropped
+king-s-colle Government Studies Teaching & Modules - Governme +0 kept, 0 dropped
+king-s-colle Teaching - Medieval Studies MA                   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Teaching - Shakespeare Studies MA                +0 kept, 0 dropped
+king-s-colle Sustainable Cities Teaching and Modules - Sustai +0 kept, 0 dropped
+king-s-colle Development Studies Teaching and Modules - Devel +0 kept, 0 dropped
+king-s-colle Teaching - Modern World History MA               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Financial Mathematics with Data Science MSc      +1 kept, 0 dropped
+king-s-colle Education in Arts & Cultural Settings MA         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Economics for Competition Law Master of Arts MA  +0 kept, 0 dropped
+king-s-colle War & Psychiatry - Teaching & Modules - War & Ps +1 kept, 0 dropped
+king-s-colle Aesthetic Dentistry - Teaching and modules - Aes error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Developmental Psychology & Psychopathology MSc   +0 kept, 0 dropped
+king-s-colle Affective Disorders - Teaching & Modules - Affec +0 kept, 0 dropped
+king-s-colle Teaching - Early Modern History MA               +0 kept, 0 dropped
+king-s-colle Organisational Psychiatry & Psychology MSc       +1 kept, 0 dropped
+king-s-colle Teaching and assessment - Culture, Politics & So error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Strategic Entrepreneurship & Innovation MSc      +1 kept, 0 dropped
+king-s-colle Teaching - Global Religion and Society MA        +0 kept, 0 dropped
+king-s-colle Psychiatric Research - Teaching & Modules - Psyc error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Regenerative Dentistry - Teaching and modules -  +0 kept, 0 dropped
+king-s-colle Teaching - Comparative Literature MA             +0 kept, 0 dropped
+king-s-colle Cardiovascular Sciences - Teaching and modules - error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Teaching - Modern Literature & Culture MA        +0 kept, 0 dropped
+king-s-colle Global Health, Social Justice and Public Policy  +0 kept, 0 dropped
+king-s-colle China & Globalisation - Teaching & Modules - Chi error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Health Data Science MSc/PGDip/PGCert             +1 kept, 0 dropped
+king-s-colle Drug Development Science - Teaching and modules  +0 kept, 0 dropped
+king-s-colle Human & Applied Physiology - Teaching and module +0 kept, 0 dropped
+king-s-colle Teaching - Theology, Bible, and the Arts MA      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Innovation in Biomaterials & Healthcare Technolo +1 kept, 0 dropped
+king-s-colle Teaching - Classics and the Ancient World MA     +0 kept, 0 dropped
+king-s-colle Teaching - Early Modern English Literature: Book +0 kept, 0 dropped
+king-s-colle Teaching - Classical Art & Archaeology MA        +0 kept, 0 dropped
+king-s-colle Psychology and Neuroscience of Mind-Body Interfa error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Teaching English to Speakers of Other Languages  +0 kept, 0 dropped
+king-s-colle Early Intervention in Psychosis - Teaching & Mod +0 kept, 0 dropped
+king-s-colle Accounting, Accountability & Financial Managemen error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Teaching - Cultural & Creative Industries MA     +1 kept, 0 dropped
+king-s-colle Teaching & Modules Language & Cultural Diversity +0 kept, 0 dropped
+king-s-colle Physiotherapy (Pre-Registration) - Teaching and  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Human Resource Management & Organisational Analy +3 kept, 0 dropped
+king-s-colle Geopolitics, Resources and Territory Teaching &  +0 kept, 0 dropped
+king-s-colle Conflict Resolution in Divided Societies MA Teac +0 kept, 0 dropped
+king-s-colle Teaching - Theatre, Performance & Critical Cultu error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o LLM Law                                          +1 kept, 0 dropped
+king-s-colle Maxillofacial & Craniofacial Technology - Teachi error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Advanced Therapies: Development and Commercialis error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MA TESOL                                         +1 kept, 0 dropped
+king-s-colle Specialist Community Public Health Nursing/Healt error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+king-s-colle Teaching - Contemporary Literature, Culture & Th +0 kept, 0 dropped
+university-o MSc Finance                                      +1 kept, 0 dropped
+king-s-colle Law, Innovation and Technology LLM (King's) & 2n error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Management                                   +1 kept, 0 dropped
+university-o MA Economics                                     +1 kept, 0 dropped
+university-o MSc Marketing                                    +1 kept, 0 dropped
+university-o MSc Robotics                                     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Economics                                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Adult Nursing                                +1 kept, 0 dropped
+university-o MA Criminology                                   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MA Film Studies                                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Digital Marketing                            +1 kept, 0 dropped
+university-o MSc Accounting                                   +1 kept, 0 dropped
+university-o MSc Cyber Security                               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Mathematical Finance                         +1 kept, 0 dropped
+university-o MSc Machine Learning                             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Financial Economics                          +1 kept, 0 dropped
+university-o MSc Development Finance                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Health Psychology                            +1 kept, 0 dropped
+university-o MSc Business Psychology                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o LLM Corporate Governance                         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MBA Manchester Global MBA / Overview             +1 kept, 0 dropped
+university-o MSc Accounting and Finance                       +1 kept, 0 dropped
+university-o MA International Education                       +1 kept, 0 dropped
+university-o MSc Quantitative Finance                         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MA Educational Leadership                        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Sustainable Business                         +1 kept, 0 dropped
+university-o MBA Manchester Full-Time MBA / Overview          +0 kept, 0 dropped
+university-o MSc Management of Projects                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Real Estate Development                      +2 kept, 0 dropped
+university-o MEd Psychology of Education                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Advanced Computer Science                    +1 kept, 0 dropped
+university-o MSc Artificial Intelligence                      +1 kept, 0 dropped
+university-o MSc Organisational Psychology                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o LLM Intellectual Property Law                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o LLM Public International Law                     +1 kept, 0 dropped
+university-o MSc Economics and Data Science                   +1 kept, 0 dropped
+university-o LLM International Economic Law                   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MA Intercultural Communication                   +1 kept, 0 dropped
+university-o MSc Health Data Science and AI                   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Construction Project Management              +2 kept, 0 dropped
+university-o LLM International Financial Law                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MA International Relations (Standard)            +1 kept, 0 dropped
+university-o MA International Education (TESOL)               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Commercial Project Management                error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Research Methods with Education              +1 kept, 0 dropped
+university-o LLM Security and International Law               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Clinical and Health Psychology               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Science and Health Communication             +2 kept, 0 dropped
+university-o MA International Relations (Research)            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc International Disaster Management            +2 kept, 0 dropped
+university-o MPH Master of Public Health (on campus)          +1 kept, 0 dropped
+university-o MSc Robotics with Extended Research              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MA Digital Media, Culture and Society            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Real Estate Finance and Investment           +1 kept, 0 dropped
+university-o MSc Development Economics and Policy             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Global Health (Disaster Management)          +3 kept, 0 dropped
+university-o MA Arts Management, Policy and Practice          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Advanced Clinical Practice (Paediatrics)     +0 kept, 0 dropped
+university-o MSc Communications and Signal Processing         +1 kept, 0 dropped
+university-o MSc Computational and Corpus Linguistics         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Forensic Psychology and Mental Health        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc International Business and Management        +1 kept, 0 dropped
+university-o MSc Global Development (Development Management)  +1 kept, 1 dropped
+university-o MSc Operations, Project and Supply Chain Managem +1 kept, 0 dropped
+university-o MSc Global Health (Emergency Medical Response)   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MA International Education (Higher Education)    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Mental Health and Wellbeing in Education     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Business Analytics and Artificial Intelligen +1 kept, 0 dropped
+university-o LLM International Business and Commercial Law    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Innovation Management and Entrepreneurship   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MA Digital Technologies, Communication and Educa +1 kept, 0 dropped
+university-o MSc Business Analysis and Strategic Management   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Human Resource Development (International De +2 kept, 0 dropped
+university-o MSc Human Resource Management and Employment Rel +1 kept, 0 dropped
+university-o MSc Advanced Manufacturing Technology & Systems  +2 kept, 0 dropped
+university-o MSc Management and Implementation of Development error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Advanced Leadership for Professional Practic error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Human Resource Management (International Dev +1 kept, 0 dropped
+university-o MA International Education (Equity, Diversity an error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc International Development: Public Policy and +1 kept, 0 dropped
+university-o MSc Computer-Aided Drug Discovery for Cancer The +1 kept, 0 dropped
+university-o MSc Data Science and Artificial Intelligence (Co +0 kept, 0 dropped
+university-o MSc Communications and Signal Processing with Ex +2 kept, 0 dropped
+university-o MA Human Rights - Law/Political Science Pathway  +1 kept, 0 dropped
+university-o MSc Data Science and Artificial Intelligence (Bu error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Advanced Leadership for Professional Practic error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Robotics                                     +1 kept, 0 dropped
+university-o MSc Social Research Methods and Statistics with  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MA Human Rights - Law/Political Science Pathway  +1 kept, 0 dropped
+university-o MSc Management and Information Systems: Change a error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Management                                   +1 kept, 0 dropped
+university-o MSc Economics                                    +1 kept, 0 dropped
+university-o MA Law                                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Marketing                                    +1 kept, 0 dropped
+university-o MSc Aerial Robotics                              +1 kept, 0 dropped
+university-o MSc Education                                    +1 kept, 0 dropped
+university-o MSc Socio-Legal Studies                          +1 kept, 0 dropped
+university-o MSc Biorobotics                                  +1 kept, 0 dropped
+university-o MSc Data Science                                 +1 kept, 0 dropped
+university-o MA Film and Television                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Business Analytics                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Public Health                                +1 kept, 0 dropped
+university-o MSc Management (Marketing)                       +1 kept, 0 dropped
+university-o LLM Law - Commercial Law                         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Mental Health Science                        +1 kept, 0 dropped
+university-o MSc Financial Technology                         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Accounting and Finance                       +1 kept, 0 dropped
+university-o MSc Finance and Investment                       +1 kept, 0 dropped
+university-o MA Digital Media Innovation                      +1 kept, 0 dropped
+university-o MSc Economics and Finance                        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Psychology (Conversion)                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Global Health Policy                         +1 kept, 0 dropped
+university-o MSc Artificial Intelligence                      +1 kept, 0 dropped
+university-o LLM Law - International Law                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o LLM Law - Human Rights Law                       +1 kept, 0 dropped
+university-o MSc Applied Neuropsychology                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Management (Sustainability)                  +1 kept, 0 dropped
+university-o MSc International Relations                      +1 kept, 0 dropped
+university-o MSc Global Banking and Finance                   +1 kept, 0 dropped
+university-o MA Digital Business Innovation                   +1 kept, 0 dropped
+university-o MSc Human Resource Management                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Data Science for Business                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Computer Science (Conversion)                +1 kept, 0 dropped
+university-o MSc Clinical Neuropsychology                     +2 kept, 0 dropped
+university-o MSc Health Professions Education                 +1 kept, 1 dropped
+university-o MSc Internet of Things with AI                   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Economics with Data Science                  +1 kept, 0 dropped
+university-o LLM Law - General Legal Studies                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Psychology of Education BPS                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o LLM Law - Health, Law and Society                +1 kept, 0 dropped
+university-o MSc Applied Linguistics and TESOL                +1 kept, 0 dropped
+university-o LLM Law - Banking and Finance Law                error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc International Business Strategy              +1 kept, 0 dropped
+university-o LLM Law, Innovation and Technology               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Accounting, Finance and Management           +1 kept, 0 dropped
+university-o MSc Management (Project Management)              +1 kept, 0 dropped
+university-o MSc Cyber Security (Software Security)           +1 kept, 0 dropped
+university-o MSc Innovation and Entrepreneurship              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Artificial Intelligence for Business         +1 kept, 0 dropped
+university-o MSc Economics, Finance and Management            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Management (International Business)          +1 kept, 0 dropped
+university-o MSc Social Innovation and Entrepreneurship       +1 kept, 0 dropped
+university-o MSc Business Innovation and Entrepreneurship     +1 kept, 0 dropped
+university-o MSc Management (Sustainability)                  +1 kept, 0 dropped
+university-o MSc Financial Technology with Data Science       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o LLM Law - International Commercial Law           +1 kept, 0 dropped
+university-o MA Creative Innovation and Entrepreneurship      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o LLM Law - Company Law and Corporate Governance   +1 kept, 0 dropped
+university-o MSc Management (Digitalisation and Big Data)     +1 kept, 0 dropped
+university-o MSc Science Communication for a Better Planet    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Cyber Security (Infrastructures Security)    +1 kept, 0 dropped
+university-o MSc Accounting, Accountability and Sustainabilit +1 kept, 0 dropped
+university-o MSc Management (Entrepreneurship and Innovation) error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Technology Innovation and Entrepreneurship   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w
+university-o MSc Artificial Intelligence Governance and Ethic +1 kept, 0 dropped
+university-o MSc Global Operations and Supply Chain Managemen +1 kept, 0 dropped
+university-o LLM Law, Environment, Sustainability and Busines error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request w

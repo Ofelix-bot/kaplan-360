@@ -1,0 +1,85 @@
+# sciences-po https://www.sciencespo.fr
+robots sitemaps: https://www.sciencespo.fr/en/sitemap-0.xml https://www.sciencespo.fr/fr/sitemap-0.xml https://www.sciencespo.fr/executive-education/en/sitemap-0.xml https://www.sciencespo.fr/executive-education/fr/sitemap-0.xml · crawl-delay: 10 · AI-agent groups: 0
+sitemaps read 4 · urls 14051 · master's-looking 504
+   98  www.sciencespo.fr/en/news
+         https://www.sciencespo.fr/en/news/jean-baptiste-bonnet-masters-doctorate-political-science/
+         https://www.sciencespo.fr/en/news/graduate-profile-francois-poujaud/
+         https://www.sciencespo.fr/en/news/mona-lisa-isnard-master-political-science-class-of-2023/
+         https://www.sciencespo.fr/en/news/antoine-chapel-double-master-en-economie-quantitative-promotion-2022/
+   92  www.sciencespo.fr/en/events
+         https://www.sciencespo.fr/en/events/soiree-portes-ouvertes-masters-graduate-in-person-open-house/
+         https://www.sciencespo.fr/en/events/ceremonie-du-college-universitaire-undergraduate-college-award-ceremony/
+         https://www.sciencespo.fr/en/events/12th-graduate-conference-speech-and-politics-with-miranda-fricker/
+         https://www.sciencespo.fr/en/events/masterclass-emouna-l-enseignement-du-fait-religieux-a-l-ecole/
+   92  www.sciencespo.fr/fr/evenements
+         https://www.sciencespo.fr/fr/evenements/soiree-portes-ouvertes-masters-graduate-in-person-open-house/
+         https://www.sciencespo.fr/fr/evenements/ceremonie-du-college-universitaire-undergraduate-college-award-ceremony/
+         https://www.sciencespo.fr/fr/evenements/12th-graduate-conference-speech-and-politics-with-miranda-fricker/
+         https://www.sciencespo.fr/fr/evenements/masterclass-emouna-l-enseignement-du-fait-religieux-a-l-ecole/
+   81  www.sciencespo.fr/executive-education/fr/actualites
+         https://www.sciencespo.fr/executive-education/fr/actualites/executive-master-ou-mba-les-cles-pour-bien-choisir-sa-formation/
+         https://www.sciencespo.fr/executive-education/fr/actualites/temoignage-de-frederic-kraidi-alumnus-de-l-executive-master-politiques-et-management-du-developpement-potentiel-afrique/
+         https://www.sciencespo.fr/executive-education/fr/actualites/temoignage-de-carelle-moukemaha-alumna-de-l-executive-master-communication/
+         https://www.sciencespo.fr/executive-education/fr/actualites/temoignage-d-elodie-lafont-cacitti-alumna-de-l-executive-master-trajectoires-dirigeants/
+   43  www.sciencespo.fr/fr/actualites
+         https://www.sciencespo.fr/fr/actualites/jean-baptiste-bonnet-master-doctorat-science-politique/
+         https://www.sciencespo.fr/fr/actualites/mona-lisa-isnard-master-science-politique-promotion-2023/
+         https://www.sciencespo.fr/fr/actualites/antoine-chapel-double-master-en-economie-quantitative-promotion-2022/
+         https://www.sciencespo.fr/fr/actualites/leonard-colomba-petteng-master-and-doctorat-en-science-politique/
+   16  www.sciencespo.fr/executive-education/en/events
+         https://www.sciencespo.fr/executive-education/en/events/masterclass-pourquoi-la-culture-concerne-tous-les-elus-locaux-20270304/
+         https://www.sciencespo.fr/executive-education/en/events/petit-dejeuner-executive-master-communication-20261118/
+         https://www.sciencespo.fr/executive-education/en/events/webinar-executive-master-gestion-et-politiques-de-sant%C3%A9-25092026/
+         https://www.sciencespo.fr/executive-education/en/events/webinar-executive-master-management-des-politiques%20publiques-29062026/
+   16  www.sciencespo.fr/executive-education/fr/evenements
+         https://www.sciencespo.fr/executive-education/fr/evenements/masterclass-pourquoi-la-culture-concerne-tous-les-elus-locaux-20270304/
+         https://www.sciencespo.fr/executive-education/fr/evenements/petit-dejeuner-executive-master-communication-20261118/
+         https://www.sciencespo.fr/executive-education/fr/evenements/webinar-executive-master-gestion-et-politiques-de-sant%C3%A9-25092026/
+         https://www.sciencespo.fr/executive-education/fr/evenements/webinar-executive-master-management-des-politiques%20publiques-29062026/
+   15  www.sciencespo.fr/executive-education/en/news
+         https://www.sciencespo.fr/executive-education/en/news/testimonial-frederic-kraidi-alumnus-of-the-executive-masters-in-african-potiential-strategic-development-and-management/
+         https://www.sciencespo.fr/executive-education/en/news/executive-master-or-mba-which-programme-is-right-for-you/
+         https://www.sciencespo.fr/executive-education/en/news/The-career-trajectory-of-Ra%C3%AD-Souza-Vieira-de-Oliveira-alumnus-of-the-Executive-Master-in-Public-Policy-Management/
+         https://www.sciencespo.fr/executive-education/en/news/empowering-public-leaders-for-uncertain-times-the-crisis-management-and-preparedness-specialisation-of-the-executive-master-of-public-administration/
+   11  www.sciencespo.fr/en/prospective-students
+         https://www.sciencespo.fr/en/prospective-students/virtual-undergraduate-open-house-day/
+         https://www.sciencespo.fr/en/prospective-students/virtual-graduate-open-house-day/
+         https://www.sciencespo.fr/en/prospective-students/undergraduate-economics-programme-at-sciences-po-in-france/
+         https://www.sciencespo.fr/en/prospective-students/undergraduate-history-programme-in-france-at-sciences-po/
+   10  www.sciencespo.fr/executive-education/fr/programmes-pour-les-individus
+         https://www.sciencespo.fr/executive-education/fr/programmes-pour-les-individus/executive-masters/gestion-et-politiques-de-sante/
+         https://www.sciencespo.fr/executive-education/fr/programmes-pour-les-individus/executive-masters/executive-master-politiques-et-management-du-developpement-potentiel-afrique/
+         https://www.sciencespo.fr/executive-education/fr/programmes-pour-les-individus/executive-masters/executive-master-ressources-humaines/
+         https://www.sciencespo.fr/executive-education/fr/programmes-pour-les-individus/executive-masters/executive-master-management-des-politiques-publiques/
+    9  www.sciencespo.fr/fr/candidats
+         https://www.sciencespo.fr/fr/candidats/journee-portes-ouvertes-virtuelle-masters/
+         https://www.sciencespo.fr/fr/candidats/masters-sciences-po-apres-licence-droit/
+         https://www.sciencespo.fr/fr/candidats/masters-sciences-po-apres-licence-science-politique/
+         https://www.sciencespo.fr/fr/candidats/masters-sciences-po-apres-licence-economie/
+    7  www.sciencespo.fr/executive-education/en/programmes-for-individuals
+         https://www.sciencespo.fr/executive-education/en/programmes-for-individuals/executive-masters/executive-master-in-health-and-public-policy-management/
+         https://www.sciencespo.fr/executive-education/en/programmes-for-individuals/executive-masters/executive-master-potential-in-africa-development-policies-and-management/
+         https://www.sciencespo.fr/executive-education/en/programmes-for-individuals/executive-masters/executive-master-territorial-governance-and-urban-development/
+         https://www.sciencespo.fr/executive-education/en/programmes-for-individuals/executive-masters/executive-master-communication/
+    3  www.sciencespo.fr/en/admissions-and-financial-aid
+         https://www.sciencespo.fr/en/admissions-and-financial-aid/one-year-masters-programmes-how-apply/
+         https://www.sciencespo.fr/en/admissions-and-financial-aid/undergraduate-studies/
+         https://www.sciencespo.fr/en/admissions-and-financial-aid/graduate-studies-how-to-apply/
+    3  www.sciencespo.fr/en/academics
+         https://www.sciencespo.fr/en/academics/one-year-masters-programmes/
+         https://www.sciencespo.fr/en/academics/undergraduate-college/
+         https://www.sciencespo.fr/en/academics/graduate-schools/
+    2  www.sciencespo.fr/en/academics/graduate-schools
+         https://www.sciencespo.fr/en/academics/graduate-schools/dual-degrees-master/
+         https://www.sciencespo.fr/en/academics/graduate-schools/career-prospects/
+    2  www.sciencespo.fr/fr/formations/ecoles
+         https://www.sciencespo.fr/fr/formations/ecoles/doubles-diplomes-master/
+         https://www.sciencespo.fr/fr/formations/ecoles/debouches-master/
+    1  www.sciencespo.fr/fr/formations
+         https://www.sciencespo.fr/fr/formations/masters-un-an/
+    1  www.sciencespo.fr/fr/admissions-bourses
+         https://www.sciencespo.fr/fr/admissions-bourses/masters-en-un-an-devenir-candidat/
+    1  www.sciencespo.fr/executive-education/en/admission
+         https://www.sciencespo.fr/executive-education/en/admission/scholarship-executive-master-policies-management-development-potential-africa/
+    1  www.sciencespo.fr/executive-education/fr/admission
+         https://www.sciencespo.fr/executive-education/fr/admission/bourse-master-executif-politiques-gestion-developpement-potentiel-afrique/

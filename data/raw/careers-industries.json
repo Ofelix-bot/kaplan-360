@@ -1,0 +1,1561 @@
+{
+ "built": "2026-10-29",
+ "industries": [
+  {
+   "id": "infocomm-technology",
+   "sector": "Infocomm Technology",
+   "short": "Infocomm Technology",
+   "sf_role_total": 128,
+   "entry_role_count": 54,
+   "mom_industry": "Information and Communications",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Infocomm Technology uses MOM's Information and Communications figures, a group it shares with Media. Pay comes from Occupational Wages Table 4.6.",
+   "mom_wage_sheet": "T4.6",
+   "jobstreet_industries": [
+    "Information & Communication Technology"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Information & Communication Technology industry.",
+   "sort_order": 1
+  },
+  {
+   "id": "financial-services",
+   "sector": "Financial Services",
+   "short": "Financial Services",
+   "sf_role_total": 293,
+   "entry_role_count": 51,
+   "mom_industry": "Financial and Insurance Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Financial Services uses MOM's Financial and Insurance Services figures. Pay comes from Occupational Wages Table 4.7.",
+   "mom_wage_sheet": "T4.7",
+   "jobstreet_industries": [
+    "Banking & Financial Services"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Banking & Financial Services industry.",
+   "sort_order": 2
+  },
+  {
+   "id": "media",
+   "sector": "Media",
+   "short": "Media",
+   "sf_role_total": 112,
+   "entry_role_count": 33,
+   "mom_industry": "Information and Communications",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Media uses MOM's Information and Communications figures, a group it shares with Infocomm Technology. Pay comes from Occupational Wages Table 4.6.",
+   "mom_wage_sheet": "T4.6",
+   "jobstreet_industries": [
+    "Marketing & Communications",
+    "Design & Architecture"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Marketing & Communications and Design & Architecture industries.",
+   "sort_order": 3
+  },
+  {
+   "id": "wholesale-trade",
+   "sector": "Wholesale Trade",
+   "short": "Wholesale Trade",
+   "sf_role_total": 42,
+   "entry_role_count": 16,
+   "mom_industry": "Wholesale and Retail Trade",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Wholesale Trade uses MOM's Wholesale and Retail Trade figures, a group it shares with Retail. Pay comes from Occupational Wages Table 4.3.",
+   "mom_wage_sheet": "T4.3",
+   "jobstreet_industries": [
+    "Sales"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Sales industry.",
+   "sort_order": 4
+  },
+  {
+   "id": "retail",
+   "sector": "Retail",
+   "short": "Retail",
+   "sf_role_total": 24,
+   "entry_role_count": 8,
+   "mom_industry": "Wholesale and Retail Trade",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Retail uses MOM's Wholesale and Retail Trade figures, a group it shares with Wholesale Trade. Pay comes from Occupational Wages Table 4.3.",
+   "mom_wage_sheet": "T4.3",
+   "jobstreet_industries": [
+    "Retail & Consumer Products",
+    "Marketing & Communications"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Retail & Consumer Products and Marketing & Communications industries.",
+   "sort_order": 5
+  },
+  {
+   "id": "human-resource",
+   "sector": "Human Resource",
+   "short": "Human Resource",
+   "sf_role_total": 21,
+   "entry_role_count": 6,
+   "mom_industry": "Administrative and Support Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Human Resource uses MOM's Administrative and Support Services figures. Pay is compared within All Industries (Occupational Wages Table 4). HR is a function found in every industry, so the all-industries table is the comparator.",
+   "mom_wage_sheet": "T4",
+   "jobstreet_industries": [
+    "Human Resources & Recruitment"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Human Resources & Recruitment industry.",
+   "sort_order": 6
+  },
+  {
+   "id": "accountancy",
+   "sector": "Accountancy",
+   "short": "Accountancy",
+   "sf_role_total": 46,
+   "entry_role_count": 12,
+   "mom_industry": "Professional Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Accountancy uses MOM's Professional Services figures, a group it shares with Intellectual Property, Legal Services. Pay comes from Occupational Wages Table 4.9.",
+   "mom_wage_sheet": "T4.9",
+   "jobstreet_industries": [
+    "Accounting"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Accounting industry.",
+   "sort_order": 7
+  },
+  {
+   "id": "social-service",
+   "sector": "Social Service",
+   "short": "Social Service",
+   "sf_role_total": 63,
+   "entry_role_count": 14,
+   "mom_industry": "Health and Social Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Social Service uses MOM's Health and Social Services figures, a group it shares with Early Childhood, Healthcare. Pay comes from Occupational Wages Table 4.12.",
+   "mom_wage_sheet": "T4.12",
+   "jobstreet_industries": [
+    "Community Services & Development",
+    "Healthcare & Medical"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Community Services & Development and Healthcare & Medical industries.",
+   "sort_order": 8
+  },
+  {
+   "id": "logistics",
+   "sector": "Logistics",
+   "short": "Logistics",
+   "sf_role_total": 57,
+   "entry_role_count": 23,
+   "mom_industry": "Transportation and Storage",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Logistics uses MOM's Transportation and Storage figures. Pay comes from Occupational Wages Table 4.4.",
+   "mom_wage_sheet": "T4.4",
+   "jobstreet_industries": [
+    "Manufacturing, Transport & Logistics"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Manufacturing, Transport & Logistics industry.",
+   "sort_order": 9
+  },
+  {
+   "id": "early-childhood",
+   "sector": "Early Childhood",
+   "short": "Early Childhood",
+   "sf_role_total": 27,
+   "entry_role_count": 9,
+   "mom_industry": "Health and Social Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Early Childhood uses MOM's Health and Social Services figures, a group it shares with Social Service, Healthcare. Pay comes from Occupational Wages Table 4.12. Child care centres sit in MOM's Health and Social Services (Jobs in Demand 2025 lists preschool education teacher there); kindergartens sit in Public Administration and Education.",
+   "mom_wage_sheet": "T4.12",
+   "jobstreet_industries": [
+    "Education & Training"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Education & Training industry.",
+   "sort_order": 10
+  },
+  {
+   "id": "hotel-and-accommodation-services",
+   "sector": "Hotel and Accommodation Services",
+   "short": "Hotels and Accommodation",
+   "sf_role_total": 38,
+   "entry_role_count": 8,
+   "mom_industry": "Accommodation and Food Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Hotel and Accommodation Services uses MOM's Accommodation and Food Services figures, a group it shares with Tourism. Pay comes from Occupational Wages Table 4.5.",
+   "mom_wage_sheet": "T4.5",
+   "jobstreet_industries": [
+    "Hospitality & Tourism"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Hospitality & Tourism industry.",
+   "sort_order": 11
+  },
+  {
+   "id": "tourism",
+   "sector": "Tourism",
+   "short": "Tourism",
+   "sf_role_total": 69,
+   "entry_role_count": 26,
+   "mom_industry": "Accommodation and Food Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Tourism uses MOM's Accommodation and Food Services figures, a group it shares with Hotel and Accommodation Services. Pay is compared within All Industries (Occupational Wages Table 4). Tourism spans travel agencies (Administrative and Support Services), attractions (Arts, Entertainment and Recreation) and events, so the all-industries table is the comparator.",
+   "mom_wage_sheet": "T4",
+   "jobstreet_industries": [
+    "Hospitality & Tourism"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Hospitality & Tourism industry.",
+   "sort_order": 12
+  },
+  {
+   "id": "built-environment",
+   "sector": "Built Environment",
+   "short": "Built Environment",
+   "sf_role_total": 49,
+   "entry_role_count": 20,
+   "mom_industry": "Construction",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Built Environment uses MOM's Construction figures. Pay comes from Occupational Wages Table 4.2.",
+   "mom_wage_sheet": "T4.2",
+   "jobstreet_industries": [
+    "Construction",
+    "Real Estate & Property",
+    "Design & Architecture"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Construction and Real Estate & Property and Design & Architecture industries.",
+   "sort_order": 13
+  },
+  {
+   "id": "healthcare",
+   "sector": "Healthcare",
+   "short": "Healthcare",
+   "sf_role_total": 77,
+   "entry_role_count": 9,
+   "mom_industry": "Health and Social Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Healthcare uses MOM's Health and Social Services figures, a group it shares with Social Service, Early Childhood. Pay comes from Occupational Wages Table 4.12.",
+   "mom_wage_sheet": "T4.12",
+   "jobstreet_industries": [
+    "Healthcare & Medical"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Healthcare & Medical industry.",
+   "sort_order": 14
+  },
+  {
+   "id": "intellectual-property",
+   "sector": "Intellectual Property",
+   "short": "Intellectual Property",
+   "sf_role_total": 11,
+   "entry_role_count": 1,
+   "mom_industry": "Professional Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Intellectual Property uses MOM's Professional Services figures, a group it shares with Accountancy, Legal Services. Pay comes from Occupational Wages Table 4.9.",
+   "mom_wage_sheet": "T4.9",
+   "jobstreet_industries": [
+    "Legal"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Legal industry.",
+   "sort_order": 15
+  },
+  {
+   "id": "legal-services",
+   "sector": "Legal Services",
+   "short": "Legal Services",
+   "sf_role_total": 9,
+   "entry_role_count": 1,
+   "mom_industry": "Professional Services",
+   "mom_basis": "Kaplan 360++'s mapping: no official source links Skills Framework sectors to MOM industries. Legal Services uses MOM's Professional Services figures, a group it shares with Accountancy, Intellectual Property. Pay comes from Occupational Wages Table 4.9.",
+   "mom_wage_sheet": "T4.9",
+   "jobstreet_industries": [
+    "Legal"
+   ],
+   "jobstreet_basis": "Kaplan 360++'s mapping: Jobstreet's Legal industry.",
+   "sort_order": 16
+  }
+ ],
+ "degreeIndustries": [
+  {
+   "programme_id": "murdoch-bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Applications Development",
+    "Computational Modelling",
+    "Project Management",
+    "Business Needs Analysis",
+    "Business Requirements Mapping",
+    "Data Design",
+    "Data Visualisation",
+    "Database Administration",
+    "Stakeholder Management",
+    "Systems Design",
+    "Business Development",
+    "Business Negotiation",
+    "Data Analytics"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-information-technology-in-business-information-systems",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Business Needs Analysis",
+    "Applications Development",
+    "Business Requirements Mapping",
+    "IT Strategy",
+    "Project Management",
+    "System Integration",
+    "Systems Design",
+    "Data Design",
+    "Data Engineering",
+    "Data Visualisation",
+    "Database Administration",
+    "Solution Architecture",
+    "Stakeholder Management",
+    "Business Development",
+    "Business Negotiation",
+    "Data Analytics"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-information-technology-in-computer-science",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Applications Development",
+    "Computational Modelling",
+    "Project Management",
+    "Software Design",
+    "Agile Software Development",
+    "Data Design",
+    "Database Administration",
+    "Infrastructure Support",
+    "Network Configuration",
+    "Software Testing",
+    "Stakeholder Management",
+    "Business Development",
+    "Business Negotiation",
+    "Data Analytics"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-information-technology-in-cyber-security-and-forensics",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Applications Development",
+    "Project Management",
+    "Security Assessment and Testing",
+    "Business Needs Analysis",
+    "Business Requirements Mapping",
+    "Cyber and Data Breach Incident Management",
+    "Cyber Forensics",
+    "Cyber Risk Management",
+    "Data Design",
+    "Database Administration",
+    "Security Architecture",
+    "Security Governance",
+    "Security Programme Management",
+    "Stakeholder Management",
+    "Systems Design",
+    "Business Development",
+    "Business Negotiation",
+    "Data Analytics"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-information-technology-in-games-design-and-development",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Applications Development",
+    "Project Management",
+    "Business Needs Analysis",
+    "Business Requirements Mapping",
+    "Data Design",
+    "Database Administration",
+    "Stakeholder Management",
+    "Systems Design",
+    "User Experience Design",
+    "User Interface Design",
+    "User Testing and Usability Testing",
+    "Business Development",
+    "Business Negotiation",
+    "Data Analytics"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-data-analytics-in-business-intelligence",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Data Analytics",
+    "Data Engineering",
+    "Data Visualisation",
+    "Business Needs Analysis",
+    "Business Requirements Mapping",
+    "Systems Design",
+    "Computational Modelling",
+    "Data Design",
+    "Database Administration",
+    "Business Development",
+    "Business Negotiation"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-data-analytics-in-data-science",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": []
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-data-analytics-in-fintech-minor-in-information-security-systems",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": []
+  },
+  {
+   "programme_id": "bcu-bsc-with-honours-computer-science-global-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "User Interface Design",
+    "Applications Development",
+    "Cloud Computing",
+    "Infrastructure Design",
+    "IT Strategy",
+    "Project Management",
+    "Stakeholder Management",
+    "User Experience Design",
+    "User Testing and Usability Testing"
+   ]
+  },
+  {
+   "programme_id": "bcu-bsc-with-honours-computer-science-with-artificial-intelligence-global-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Cloud Computing",
+    "Data Design",
+    "Data Protection Management",
+    "Database Administration",
+    "Infrastructure Design",
+    "IT Strategy",
+    "Project Management",
+    "Stakeholder Management",
+    "Text Analytics and Processing"
+   ]
+  },
+  {
+   "programme_id": "bcu-bsc-with-honours-cyber-security-global-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Cloud Computing",
+    "Cyber and Data Breach Incident Management",
+    "Cyber Forensics",
+    "Infrastructure Design",
+    "IT Strategy",
+    "Project Management",
+    "Security Assessment and Testing",
+    "Stakeholder Management",
+    "Threat Intelligence and Detection"
+   ]
+  },
+  {
+   "programme_id": "bcu-bsc-with-honours-digital-forensics-global-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Cyber and Data Breach Incident Management",
+    "Cyber Forensics",
+    "IT Strategy",
+    "Project Management",
+    "Security Assessment and Testing",
+    "Stakeholder Management"
+   ]
+  },
+  {
+   "programme_id": "portsmouth-bsc-hons-computer-science-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Software Design",
+    "Agile Software Development",
+    "Applications Development",
+    "Network Administration and Maintenance",
+    "Network Security",
+    "Software Testing",
+    "Computational Modelling",
+    "Data Analytics",
+    "Infrastructure Support",
+    "Network Configuration",
+    "Security Assessment and Testing"
+   ]
+  },
+  {
+   "programme_id": "portsmouth-bsc-hons-cyber-security-and-forensic-computing-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Security Assessment and Testing",
+    "Cyber and Data Breach Incident Management",
+    "Cyber Forensics",
+    "Software Design",
+    "Cloud Computing",
+    "Cyber Risk Management",
+    "Infrastructure Design",
+    "Infrastructure Support",
+    "Network Administration and Maintenance",
+    "Network Configuration",
+    "Network Security",
+    "Security Architecture",
+    "Security Governance",
+    "Security Programme Management",
+    "Agile Software Development",
+    "Software Testing"
+   ]
+  },
+  {
+   "programme_id": "portsmouth-bsc-hons-data-science-and-analytics-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: information technology and data analytics degrees lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Software Design",
+    "Agile Software Development",
+    "Software Testing",
+    "Cyber and Data Breach Incident Management",
+    "Cyber Forensics",
+    "Data Analytics",
+    "Data Design",
+    "Data Engineering",
+    "Database Administration",
+    "Security Assessment and Testing"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-business-analytics-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: business degrees with programming, analytics, machine learning, cyber security or digital infrastructure core modules lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Data Analytics",
+    "Applications Development",
+    "Business Environment Analysis",
+    "Change Management",
+    "Market Trend Analysis",
+    "People and Performance Management",
+    "Process Improvement and Optimisation",
+    "Strategy Planning"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-digital-business-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: business degrees with programming, analytics, machine learning, cyber security or digital infrastructure core modules lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Data Analytics",
+    "Applications Integration",
+    "Business Environment Analysis",
+    "Change Management",
+    "Cloud Computing",
+    "Market Trend Analysis",
+    "People and Performance Management",
+    "Process Improvement and Optimisation",
+    "Strategy Planning"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-fintech-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: business degrees with programming, analytics, machine learning, cyber security or digital infrastructure core modules lead to Infocomm Technology job roles.",
+   "shared_skills": [
+    "Business Environment Analysis",
+    "Change Management",
+    "Cyber Risk Management",
+    "Data Analytics",
+    "Market Trend Analysis",
+    "People and Performance Management",
+    "Process Improvement and Optimisation",
+    "Strategy Planning"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-communication-in-digital-communication",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: a UX and Web Design core module leads to the UX/UI designer roles in Infocomm Technology.",
+   "shared_skills": [
+    "Marketing Campaign Management",
+    "Marketing Communications Plan Development",
+    "Media Platforms Management",
+    "Media Strategy Development",
+    "Research",
+    "User Experience Design",
+    "User Interface Design",
+    "User Testing and Usability Testing",
+    "Business Development",
+    "Business Negotiation",
+    "Customer Behaviour Analysis",
+    "Data Analytics",
+    "Design Thinking Practice",
+    "Market Research"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-project-management-top-up",
+   "industry_id": "infocomm-technology",
+   "basis": "Kaplan 360++'s rule: a project-management degree leads to the Project Manager / Scrum Master role in Infocomm Technology's Strategy and Governance track.",
+   "shared_skills": [
+    "Change Management",
+    "Business Environment Analysis",
+    "Data Analytics",
+    "Market Trend Analysis",
+    "People and Performance Management",
+    "Process Improvement and Optimisation",
+    "Project Management",
+    "Strategy Planning"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-accounting",
+   "industry_id": "financial-services",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (finance, banking, investment, treasury or credit modules) lead to Financial Services job roles.",
+   "shared_skills": [
+    "Financial Reporting",
+    "Budgeting",
+    "Capital Expenditure and Investment Evaluation",
+    "Financial Analysis",
+    "Financial Modelling",
+    "Valuation",
+    "Business Negotiation",
+    "Data Storytelling and Visualisation"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-banking",
+   "industry_id": "financial-services",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (finance, banking, investment, treasury or credit modules) lead to Financial Services job roles.",
+   "shared_skills": [
+    "Credit Assessment",
+    "Asset and Liability Management",
+    "Capital Expenditure and Investment Evaluation",
+    "Collateral Management",
+    "Credit Risk Management",
+    "Financial Analysis",
+    "Financial Modelling",
+    "Market Risk Management",
+    "Product Advisory",
+    "Regulatory Compliance",
+    "Treasury Management",
+    "Valuation",
+    "Business Negotiation",
+    "Data Storytelling and Visualisation"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-finance",
+   "industry_id": "financial-services",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (finance, banking, investment, treasury or credit modules) lead to Financial Services job roles.",
+   "shared_skills": [
+    "Financial Analysis",
+    "Market Risk Management",
+    "Valuation",
+    "Asset and Liability Management",
+    "Capital Expenditure and Investment Evaluation",
+    "Financial Modelling",
+    "Regulatory Compliance",
+    "Technical Analysis",
+    "Treasury Management",
+    "Business Negotiation",
+    "Data Storytelling and Visualisation"
+   ]
+  },
+  {
+   "programme_id": "portsmouth-ba-hons-in-accountancy-and-financial-management-top-up",
+   "industry_id": "financial-services",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (finance, banking, investment, treasury or credit modules) lead to Financial Services job roles.",
+   "shared_skills": [
+    "Financial Analysis",
+    "Financial Reporting",
+    "Budgeting",
+    "Capital Expenditure and Investment Evaluation",
+    "Financial Modelling",
+    "Sustainability Reporting"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-fintech-top-up",
+   "industry_id": "financial-services",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (finance, banking, investment, treasury or credit modules) lead to Financial Services job roles.",
+   "shared_skills": [
+    "Data Mining and Modelling",
+    "Asset and Liability Management",
+    "Business Environment Analysis",
+    "Change Management",
+    "Digital Marketing",
+    "Financial Analysis",
+    "Regulatory Compliance",
+    "Strategy Planning",
+    "Financial Reporting"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-finance-top-up",
+   "industry_id": "financial-services",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (finance, banking, investment, treasury or credit modules) lead to Financial Services job roles.",
+   "shared_skills": [
+    "Financial Analysis",
+    "Asset and Liability Management",
+    "Business Environment Analysis",
+    "Capital Expenditure and Investment Evaluation",
+    "Change Management",
+    "Client Investment Suitability",
+    "Digital Marketing",
+    "Financial Modelling",
+    "Market Risk Management",
+    "Portfolio and Investment Risk Management",
+    "Regulatory Compliance",
+    "Strategy Planning",
+    "Valuation",
+    "Financial Reporting"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-data-analytics-in-fintech-minor-in-information-security-systems",
+   "industry_id": "financial-services",
+   "basis": "Kaplan 360++'s rule: the FinTech data analytics degree is named for financial technology; Financial Services has a Digital and Data Analytics track.",
+   "shared_skills": []
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-business-law",
+   "industry_id": "financial-services",
+   "basis": "Kaplan 360++'s rule: law degrees with finance-law, company-law or regulatory-compliance modules lead to the Risk, Compliance and Legal track.",
+   "shared_skills": [
+    "Ethical Culture",
+    "Regulatory Compliance",
+    "Business Negotiation",
+    "Data Storytelling and Visualisation"
+   ]
+  },
+  {
+   "programme_id": "bcu-bachelor-of-laws-honours-top-up",
+   "industry_id": "financial-services",
+   "basis": "Kaplan 360++'s rule: law degrees with finance-law, company-law or regulatory-compliance modules lead to the Risk, Compliance and Legal track.",
+   "shared_skills": [
+    "Project Management",
+    "Regulatory Compliance",
+    "Risk and Compliance Reporting",
+    "Trust Structuring"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-communication-in-communication-and-media-studies",
+   "industry_id": "media",
+   "basis": "Kaplan 360++'s rule: communication and media degrees lead to Media job roles.",
+   "shared_skills": [
+    "Research",
+    "Customer Behaviour Analysis",
+    "Market Research",
+    "Social Media Content Creation and Management",
+    "Data Analytics",
+    "Business Development",
+    "Business Negotiation",
+    "Sound Editing"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-communication-in-digital-communication",
+   "industry_id": "media",
+   "basis": "Kaplan 360++'s rule: communication and media degrees lead to Media job roles.",
+   "shared_skills": [
+    "Social Media Content Creation and Management",
+    "Research",
+    "User Experience Design",
+    "User Interface Design",
+    "Business Development",
+    "Business Negotiation",
+    "Customer Behaviour Analysis",
+    "Data Analytics",
+    "Market Research",
+    "Sound Editing"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-communication-in-strategic-communication",
+   "industry_id": "media",
+   "basis": "Kaplan 360++'s rule: communication and media degrees lead to Media job roles.",
+   "shared_skills": [
+    "Social Media Content Creation and Management",
+    "Data Analytics",
+    "Research",
+    "Business Development",
+    "Business Negotiation",
+    "Customer Behaviour Analysis",
+    "Market Research",
+    "Sound Editing"
+   ]
+  },
+  {
+   "programme_id": "northumbria-ba-hons-mass-communication-with-public-relations-top-up",
+   "industry_id": "media",
+   "basis": "Kaplan 360++'s rule: communication and media degrees lead to Media job roles.",
+   "shared_skills": [
+    "Research",
+    "Creative Storytelling",
+    "Customer Behaviour Analysis",
+    "Market Research"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-information-technology-in-games-design-and-development",
+   "industry_id": "media",
+   "basis": "Kaplan 360++'s rule: games design and development degrees lead to Media's Game Design and Game Technical Development tracks.",
+   "shared_skills": [
+    "Project Management",
+    "Database Administration",
+    "Game Technical Design",
+    "Gameplay Design",
+    "Gameplay Development",
+    "User Experience Design",
+    "User Interface Design",
+    "Business Development",
+    "Business Negotiation",
+    "Data Analytics"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-marketing",
+   "industry_id": "media",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Media's Media Business Management track (marketing, analytics and customer insights roles).",
+   "shared_skills": [
+    "Data Analytics",
+    "Content Marketing Strategy",
+    "Customer Behaviour Analysis",
+    "Customer Experience Management",
+    "Market Research",
+    "Marketing Strategy",
+    "Business Development",
+    "Business Negotiation"
+   ]
+  },
+  {
+   "programme_id": "bcu-ba-hons-international-marketing-top-up",
+   "industry_id": "media",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Media's Media Business Management track (marketing, analytics and customer insights roles).",
+   "shared_skills": [
+    "Customer Behaviour Analysis",
+    "Data Analytics",
+    "Marketing Strategy"
+   ]
+  },
+  {
+   "programme_id": "bcu-ba-with-honours-digital-marketing-top-up",
+   "industry_id": "media",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Media's Media Business Management track (marketing, analytics and customer insights roles).",
+   "shared_skills": [
+    "Content Marketing Strategy"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-marketing-top-up",
+   "industry_id": "media",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Media's Media Business Management track (marketing, analytics and customer insights roles).",
+   "shared_skills": [
+    "Brand Management",
+    "Integrated Marketing",
+    "Marketing Strategy"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-international-business",
+   "industry_id": "wholesale-trade",
+   "basis": "Kaplan 360++'s rule: international business, management and supply chain degrees lead to Wholesale Trade's trading, procurement and business analysis roles.",
+   "shared_skills": [
+    "Business Negotiation",
+    "International Trade Legislation Compliance",
+    "Import and Export Documentation Administration",
+    "Market Risk Management",
+    "Business Presentation Delivery",
+    "Data Analytics"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-management",
+   "industry_id": "wholesale-trade",
+   "basis": "Kaplan 360++'s rule: international business, management and supply chain degrees lead to Wholesale Trade's trading, procurement and business analysis roles.",
+   "shared_skills": [
+    "Change Management",
+    "Data Analytics",
+    "Data Mining and Modelling",
+    "Innovation Management",
+    "International Trade Legislation Compliance",
+    "Project Management",
+    "Business Negotiation",
+    "Business Presentation Delivery"
+   ]
+  },
+  {
+   "programme_id": "northumbria-bsc-hons-global-business-management-logistics-and-supply-chain",
+   "industry_id": "wholesale-trade",
+   "basis": "Kaplan 360++'s rule: international business, management and supply chain degrees lead to Wholesale Trade's trading, procurement and business analysis roles.",
+   "shared_skills": [
+    "Business Presentation Delivery",
+    "Demand Analysis",
+    "Inventory Control",
+    "Import and Export Documentation Administration",
+    "International Trade Legislation Compliance",
+    "Project Management"
+   ]
+  },
+  {
+   "programme_id": "bcu-ba-hons-in-international-business-top-up",
+   "industry_id": "wholesale-trade",
+   "basis": "Kaplan 360++'s rule: international business, management and supply chain degrees lead to Wholesale Trade's trading, procurement and business analysis roles.",
+   "shared_skills": [
+    "Innovation Management",
+    "International Trade Legislation Compliance"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-logistics-and-supply-chain-management-top-up",
+   "industry_id": "wholesale-trade",
+   "basis": "Kaplan 360++'s rule: international business, management and supply chain degrees lead to Wholesale Trade's trading, procurement and business analysis roles.",
+   "shared_skills": [
+    "Change Management",
+    "Demand Analysis",
+    "Digital Marketing",
+    "Import and Export Documentation Administration",
+    "Inventory Control",
+    "Procurement Management",
+    "Project Management",
+    "Supplier Sourcing",
+    "Business Presentation Delivery"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-management-top-up",
+   "industry_id": "wholesale-trade",
+   "basis": "Kaplan 360++'s rule: international business, management and supply chain degrees lead to Wholesale Trade's trading, procurement and business analysis roles.",
+   "shared_skills": [
+    "Change Management",
+    "Digital Marketing",
+    "Innovation Management",
+    "International Trade Legislation Compliance",
+    "Procurement Management",
+    "Supplier Sourcing",
+    "Business Presentation Delivery"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-marketing",
+   "industry_id": "wholesale-trade",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Wholesale Trade's Marketing, Business Development and Analysis track.",
+   "shared_skills": [
+    "Data Analytics",
+    "Customer Experience Management",
+    "Data Mining and Modelling",
+    "Digital Marketing",
+    "Market Profiling",
+    "Market Research",
+    "Service Excellence",
+    "Business Negotiation",
+    "Business Presentation Delivery"
+   ]
+  },
+  {
+   "programme_id": "bcu-ba-hons-international-marketing-top-up",
+   "industry_id": "wholesale-trade",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Wholesale Trade's Marketing, Business Development and Analysis track.",
+   "shared_skills": [
+    "Data Analytics",
+    "International Trade Legislation Compliance",
+    "Market Profiling",
+    "Marketing Campaign Management",
+    "Website Performance Management"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-marketing-top-up",
+   "industry_id": "wholesale-trade",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Wholesale Trade's Marketing, Business Development and Analysis track.",
+   "shared_skills": [
+    "Digital Marketing",
+    "Change Management",
+    "Market Profiling",
+    "Marketing Campaign Management",
+    "Business Presentation Delivery"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-marketing",
+   "industry_id": "retail",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Retail's Marketing, Brand Management and E-Commerce tracks.",
+   "shared_skills": [
+    "Data Analytics",
+    "Consumer Intelligence Analysis",
+    "Content Writing and Editing",
+    "Customer Behaviour Analysis",
+    "Market Profiling",
+    "Market Research",
+    "Marketing Mix Management",
+    "Search Engine Optimisation (SEO)",
+    "Social Media Marketing",
+    "Business Negotiation",
+    "Report Writing"
+   ]
+  },
+  {
+   "programme_id": "bcu-ba-hons-international-marketing-top-up",
+   "industry_id": "retail",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Retail's Marketing, Brand Management and E-Commerce tracks.",
+   "shared_skills": [
+    "Business Environment Analysis",
+    "Consumer Intelligence Analysis",
+    "Customer Behaviour Analysis",
+    "Data Analytics",
+    "International Marketing Programmes Management",
+    "Market Profiling",
+    "Marketing Campaign Management",
+    "Marketing Mix Management",
+    "Website Performance Management",
+    "Writing of Advertising Copy for Broadcast and Interactive Media",
+    "Writing Of Advertising Copy For Print Media"
+   ]
+  },
+  {
+   "programme_id": "bcu-ba-with-honours-digital-marketing-top-up",
+   "industry_id": "retail",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Retail's Marketing, Brand Management and E-Commerce tracks.",
+   "shared_skills": [
+    "Content Writing and Editing",
+    "Report Writing",
+    "Visual Collaterals Production",
+    "Visual Design and Communication Principles"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-marketing-top-up",
+   "industry_id": "retail",
+   "basis": "Kaplan 360++'s rule: marketing degrees lead to Retail's Marketing, Brand Management and E-Commerce tracks.",
+   "shared_skills": [
+    "Search Engine Optimisation (SEO)",
+    "Social Media Marketing",
+    "Brand Campaign Management",
+    "Business Environment Analysis",
+    "International Marketing Programmes Management",
+    "Market Profiling",
+    "Market Trend Analysis",
+    "Marketing Campaign Management",
+    "Marketing Communications Plan Development",
+    "Marketing Mix Management",
+    "Report Writing"
+   ]
+  },
+  {
+   "programme_id": "northumbria-bsc-hons-global-business-management",
+   "industry_id": "retail",
+   "basis": "Kaplan 360++'s rule: business degrees with e-business, digital business, consumer behaviour or content marketing modules lead to Retail's E-Commerce and Marketing tracks.",
+   "shared_skills": [
+    "Business Environment Analysis",
+    "Report Writing",
+    "Content Writing and Editing",
+    "Search Engine Optimisation (SEO)",
+    "Social Media Marketing"
+   ]
+  },
+  {
+   "programme_id": "bcu-ba-hons-business-administration-top-up",
+   "industry_id": "retail",
+   "basis": "Kaplan 360++'s rule: business degrees with e-business, digital business, consumer behaviour or content marketing modules lead to Retail's E-Commerce and Marketing tracks.",
+   "shared_skills": [
+    "Consumer Intelligence Analysis",
+    "Customer Behaviour Analysis",
+    "Idea Generation and Selection",
+    "Innovation Management",
+    "International Marketing Programmes Management"
+   ]
+  },
+  {
+   "programme_id": "bcu-ba-hons-in-international-business-top-up",
+   "industry_id": "retail",
+   "basis": "Kaplan 360++'s rule: business degrees with e-business, digital business, consumer behaviour or content marketing modules lead to Retail's E-Commerce and Marketing tracks.",
+   "shared_skills": [
+    "Business Environment Analysis",
+    "Idea Generation and Selection",
+    "Innovation Management"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-digital-business-top-up",
+   "industry_id": "retail",
+   "basis": "Kaplan 360++'s rule: business degrees with e-business, digital business, consumer behaviour or content marketing modules lead to Retail's E-Commerce and Marketing tracks.",
+   "shared_skills": [
+    "Data Analytics",
+    "Business Environment Analysis",
+    "Market Trend Analysis",
+    "Search Engine Optimisation (SEO)",
+    "Social Media Marketing",
+    "Report Writing"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-human-resources-management",
+   "industry_id": "human-resource",
+   "basis": "Kaplan 360++'s rule: human resource management degrees lead to Human Resource job roles.",
+   "shared_skills": [
+    "Organisational Change Management",
+    "Employee Relationship Management",
+    "Human Resource Policies and Legislation Framework Management",
+    "Learning Needs Analysis",
+    "Onboarding",
+    "Recruitment Channel Management",
+    "Selection Management",
+    "Succession Planning",
+    "Talent Capability Assessment"
+   ]
+  },
+  {
+   "programme_id": "northumbria-bsc-hons-global-business-management-human-resources",
+   "industry_id": "human-resource",
+   "basis": "Kaplan 360++'s rule: human resource management degrees lead to Human Resource job roles.",
+   "shared_skills": [
+    "Diversity and Inclusion Management",
+    "Human Resource Practices Implementation",
+    "Organisational Change Management",
+    "Project Management",
+    "Selection Management"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-human-resource-management-top-up",
+   "industry_id": "human-resource",
+   "basis": "Kaplan 360++'s rule: human resource management degrees lead to Human Resource job roles.",
+   "shared_skills": [
+    "Human Resource Practices Implementation",
+    "Human Resource Analytics and Insights",
+    "Human Resource Systems Management",
+    "Learning Needs Analysis",
+    "Organisational Change Management",
+    "Succession Planning",
+    "Talent Capability Assessment"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-management",
+   "industry_id": "human-resource",
+   "basis": "Kaplan 360++'s rule: management degrees with people-management, HRM or organisational-change modules lead to Human Resource job roles.",
+   "shared_skills": [
+    "Organisational Change Management",
+    "Project Management"
+   ]
+  },
+  {
+   "programme_id": "northumbria-bsc-hons-global-business-management",
+   "industry_id": "human-resource",
+   "basis": "Kaplan 360++'s rule: management degrees with people-management, HRM or organisational-change modules lead to Human Resource job roles.",
+   "shared_skills": [
+    "Human Resource Practices Implementation",
+    "Organisational Change Management",
+    "Project Management"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-management-top-up",
+   "industry_id": "human-resource",
+   "basis": "Kaplan 360++'s rule: management degrees with people-management, HRM or organisational-change modules lead to Human Resource job roles.",
+   "shared_skills": [
+    "Organisational Change Management",
+    "Human Resource Practices Implementation"
+   ]
+  },
+  {
+   "programme_id": "portsmouth-bsc-with-honours-in-psychology-top-up",
+   "industry_id": "human-resource",
+   "basis": "Kaplan 360++'s rule: an Occupational and Organisational Psychology module leads to Human Resource talent roles.",
+   "shared_skills": [
+    "Talent Capability Assessment",
+    "Learning Needs Analysis"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-accounting",
+   "industry_id": "accountancy",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (accounting, audit, tax, reporting or corporate finance modules) lead to Accountancy job roles.",
+   "shared_skills": [
+    "Accounting Standards",
+    "Financial Reporting",
+    "Accounting and Tax Systems",
+    "Audit Compliance",
+    "Auditing and Assurance Standards",
+    "Capital Expenditure and Investment Evaluation",
+    "Corporate and Business Law",
+    "Cost Management",
+    "Financial Analysis",
+    "Financial Modelling",
+    "Financial Statements Analysis",
+    "Group Accounting and Consolidation",
+    "Internal Controls",
+    "Professional and Business Ethics",
+    "Professional Scepticism and Judgment",
+    "Tax Compliance",
+    "Tax Computation",
+    "Taxation Laws",
+    "Valuation",
+    "Business Development",
+    "Business Negotiation",
+    "Data Analytics",
+    "Data Storytelling and Visualisation"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-banking",
+   "industry_id": "accountancy",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (accounting, audit, tax, reporting or corporate finance modules) lead to Accountancy job roles.",
+   "shared_skills": [
+    "Capital Expenditure and Investment Evaluation",
+    "Cash Flow Management",
+    "Corporate and Business Law",
+    "Financial Analysis",
+    "Financial Modelling",
+    "Macroeconomic Analysis",
+    "Regulatory Compliance",
+    "Treasury Management",
+    "Valuation",
+    "Business Development",
+    "Business Negotiation",
+    "Data Analytics",
+    "Data Storytelling and Visualisation"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-finance",
+   "industry_id": "accountancy",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (accounting, audit, tax, reporting or corporate finance modules) lead to Accountancy job roles.",
+   "shared_skills": [
+    "Financial Analysis",
+    "Valuation",
+    "Capital Expenditure and Investment Evaluation",
+    "Cash Flow Management",
+    "Corporate and Business Law",
+    "Financial Management",
+    "Financial Modelling",
+    "Financial Statements Analysis",
+    "Macroeconomic Analysis",
+    "Regulatory Compliance",
+    "Treasury Management",
+    "Business Development",
+    "Business Negotiation",
+    "Data Analytics",
+    "Data Storytelling and Visualisation"
+   ]
+  },
+  {
+   "programme_id": "portsmouth-ba-hons-in-accountancy-and-financial-management-top-up",
+   "industry_id": "accountancy",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (accounting, audit, tax, reporting or corporate finance modules) lead to Accountancy job roles.",
+   "shared_skills": [
+    "Financial Analysis",
+    "Financial Management",
+    "Financial Reporting",
+    "Accounting Standards",
+    "Audit Compliance",
+    "Auditing and Assurance Standards",
+    "Capital Expenditure and Investment Evaluation",
+    "Cash Flow Management",
+    "Cost Management",
+    "Financial Modelling",
+    "Group Accounting and Consolidation",
+    "Internal Controls",
+    "Professional Scepticism and Judgment",
+    "Sustainability Reporting",
+    "Tax Compliance",
+    "Tax Computation",
+    "Taxation Laws"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-fintech-top-up",
+   "industry_id": "accountancy",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (accounting, audit, tax, reporting or corporate finance modules) lead to Accountancy job roles.",
+   "shared_skills": [
+    "Business Environment Analysis",
+    "Cyber Security",
+    "Data Analytics",
+    "Digital Technology Adoption and Innovation",
+    "Financial Analysis",
+    "Financial Management",
+    "Macroeconomic Analysis",
+    "Regulatory Compliance",
+    "Accounting Standards",
+    "Financial Reporting",
+    "Financial Statements Analysis"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-finance-top-up",
+   "industry_id": "accountancy",
+   "basis": "Kaplan 360++'s rule: accounting-finance degrees (accounting, audit, tax, reporting or corporate finance modules) lead to Accountancy job roles.",
+   "shared_skills": [
+    "Financial Analysis",
+    "Business Environment Analysis",
+    "Capital Expenditure and Investment Evaluation",
+    "Digital Technology Adoption and Innovation",
+    "Financial Management",
+    "Financial Modelling",
+    "Macroeconomic Analysis",
+    "Regulatory Compliance",
+    "Valuation",
+    "Accounting Standards",
+    "Financial Reporting",
+    "Financial Statements Analysis"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-psychology-in-psychological-science",
+   "industry_id": "social-service",
+   "basis": "Kaplan 360++'s rule: psychology and counselling degrees lead to Social Service's Psychology and Counselling tracks.",
+   "shared_skills": [
+    "Psychological Formulation",
+    "Research Data Analysis",
+    "Research Data Collection and Management",
+    "Research Design",
+    "Psychological Assessment",
+    "Case and Care Planning",
+    "Psychological Intervention",
+    "Report Writing"
+   ]
+  },
+  {
+   "programme_id": "northumbria-ba-hons-in-guidance-and-counselling-top-up",
+   "industry_id": "social-service",
+   "basis": "Kaplan 360++'s rule: psychology and counselling degrees lead to Social Service's Psychology and Counselling tracks.",
+   "shared_skills": [
+    "Counselling Assessment",
+    "Counselling Intervention",
+    "Research Data Analysis",
+    "Research Design",
+    "Advocacy and Representation",
+    "Case and Care Planning",
+    "Collaborative Practices Across Disciplines and Sectors",
+    "Group Work Assessment and Planning",
+    "Group Work Intervention",
+    "Mentoring for Youths"
+   ]
+  },
+  {
+   "programme_id": "northumbria-bsc-hons-in-psychology-clinical-psychology-top-up",
+   "industry_id": "social-service",
+   "basis": "Kaplan 360++'s rule: psychology and counselling degrees lead to Social Service's Psychology and Counselling tracks.",
+   "shared_skills": []
+  },
+  {
+   "programme_id": "portsmouth-bsc-with-honours-in-psychology-top-up",
+   "industry_id": "social-service",
+   "basis": "Kaplan 360++'s rule: psychology and counselling degrees lead to Social Service's Psychology and Counselling tracks.",
+   "shared_skills": [
+    "Psychological Assessment",
+    "Psychological Formulation",
+    "Research Data Analysis",
+    "Research Design",
+    "Psychological Intervention",
+    "Report Writing",
+    "Research Data Collection and Management"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-criminology-in-criminal-behaviour",
+   "industry_id": "social-service",
+   "basis": "Kaplan 360++'s rule: criminology degrees (corrections, youth crime, casework modules) lead to Social Service's Social Work and Youth Work tracks.",
+   "shared_skills": [
+    "Case and Care Planning",
+    "Casework Intervention",
+    "Diversity Awareness and Management",
+    "Psychological Assessment",
+    "Research Data Analysis",
+    "Research Data Collection and Management",
+    "Research Design",
+    "Youth Development",
+    "Youth Outreach",
+    "Report Writing"
+   ]
+  },
+  {
+   "programme_id": "northumbria-ba-hons-in-childhood-and-early-years-studies-top-up",
+   "industry_id": "social-service",
+   "basis": "Kaplan 360++'s rule: a childhood and youth studies degree leads to Social Service's Youth Work and Early Intervention Teaching tracks.",
+   "shared_skills": [
+    "Research Data Analysis",
+    "Research Design",
+    "Youth Development",
+    "Youth Outreach"
+   ]
+  },
+  {
+   "programme_id": "northumbria-bsc-hons-global-business-management-logistics-and-supply-chain",
+   "industry_id": "logistics",
+   "basis": "Kaplan 360++'s rule: logistics and supply chain degrees lead to Logistics job roles.",
+   "shared_skills": [
+    "Supply Chain Solutioning / Modelling / Planning / Strategising",
+    "Import and Export Documentation Administration",
+    "International Trade Legislation Compliance",
+    "Logistics Operations Research and Planning",
+    "Logistics Solution Design Thinking"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-logistics-and-supply-chain-management-top-up",
+   "industry_id": "logistics",
+   "basis": "Kaplan 360++'s rule: logistics and supply chain degrees lead to Logistics job roles.",
+   "shared_skills": [
+    "Supply Chain Solutioning / Modelling / Planning / Strategising",
+    "Change Management",
+    "Financial Management",
+    "Import and Export Documentation Administration",
+    "Logistics Operations Research and Planning",
+    "Logistics Solution Product / Project Management",
+    "Process Improvement and Optimisation"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-international-business",
+   "industry_id": "logistics",
+   "basis": "Kaplan 360++'s rule: an International Logistics core module leads to Logistics' freight and solutioning roles.",
+   "shared_skills": [
+    "Business Negotiation",
+    "International Trade Legislation Compliance",
+    "Import and Export Documentation Administration",
+    "Logistics Operations Research and Planning",
+    "Supply Chain Solutioning / Modelling / Planning / Strategising",
+    "Business Development"
+   ]
+  },
+  {
+   "programme_id": "ucd-bachelor-of-business-studies-honours-project-management-top-up",
+   "industry_id": "logistics",
+   "basis": "Kaplan 360++'s rule: a project-management degree with a supply chain module leads to Logistics Solutioning and Programme Management roles.",
+   "shared_skills": [
+    "Change Management",
+    "Financial Management",
+    "Process Improvement and Optimisation"
+   ]
+  },
+  {
+   "programme_id": "northumbria-ba-hons-in-childhood-and-early-years-studies-top-up",
+   "industry_id": "early-childhood",
+   "basis": "Kaplan 360++'s rule: early childhood and childhood studies degrees lead to Early Childhood job roles.",
+   "shared_skills": [
+    "Early Childhood Pedagogical Practice",
+    "Child Development Assessment",
+    "Child Observation",
+    "Collaborative Practices with Stakeholders across Disciplines",
+    "Early Childhood Curriculum Design",
+    "Early Childhood Programme Planning",
+    "Learning Environment Design",
+    "Reflective Practice for Educators",
+    "Responsive Caregiving Approaches"
+   ]
+  },
+  {
+   "programme_id": "monash-bachelor-of-education-in-early-childhood-top-up",
+   "industry_id": "early-childhood",
+   "basis": "Kaplan 360++'s rule: early childhood and childhood studies degrees lead to Early Childhood job roles.",
+   "shared_skills": [
+    "Child Development Assessment",
+    "Child Observation",
+    "Child Safety and Protection",
+    "Community Partnership",
+    "Early Childhood Curriculum Design",
+    "Early Childhood Pedagogical Practice",
+    "Early Childhood Programme Planning",
+    "Family and Caregiver Engagement",
+    "Health, Hygiene and Nutrition for Children",
+    "Learning Environment Design",
+    "Reflective Practice for Educators",
+    "Responsive Caregiving Approaches"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-hospitality-and-tourism-management",
+   "industry_id": "hotel-and-accommodation-services",
+   "basis": "Kaplan 360++'s rule: hospitality, tourism and events degrees lead to Hotel and Accommodation Services job roles.",
+   "shared_skills": [
+    "Environmental Sustainability Management",
+    "Legal Compliance Management",
+    "Business Negotiation",
+    "Business Presentation Delivery",
+    "Data Analytics",
+    "Proposal Writing",
+    "Report Writing"
+   ]
+  },
+  {
+   "programme_id": "northumbria-bsc-hons-international-tourism-hospitality-and-events",
+   "industry_id": "hotel-and-accommodation-services",
+   "basis": "Kaplan 360++'s rule: hospitality, tourism and events degrees lead to Hotel and Accommodation Services job roles.",
+   "shared_skills": [
+    "Business Presentation Delivery",
+    "Report Writing",
+    "Environmental Sustainability Management",
+    "Events Planning and Management",
+    "Front Office Operations Management",
+    "Innovation Management",
+    "Room Revenue Management",
+    "Service Excellence"
+   ]
+  },
+  {
+   "programme_id": "murdoch-bachelor-of-business-in-hospitality-and-tourism-management",
+   "industry_id": "tourism",
+   "basis": "Kaplan 360++'s rule: hospitality, tourism and events degrees lead to Tourism job roles.",
+   "shared_skills": [
+    "Tour and Travel Services Product and Experience Development and Delivery",
+    "Tourism and Economic Development",
+    "Change Management",
+    "Proposal Writing"
+   ]
+  },
+  {
+   "programme_id": "northumbria-bsc-hons-international-tourism-hospitality-and-events",
+   "industry_id": "tourism",
+   "basis": "Kaplan 360++'s rule: hospitality, tourism and events degrees lead to Tourism job roles.",
+   "shared_skills": [
+    "Tour and Travel Services Product and Experience Development and Delivery",
+    "Tourism and Economic Development",
+    "Events Planning and Management",
+    "Innovation Management",
+    "Meetings, Incentives, Conferences and Exhibitions (MICE) Content and Experience Development and Delivery",
+    "Service Excellence"
+   ]
+  },
+  {
+   "programme_id": "bcu-bsc-with-honours-construction-management-top-up",
+   "industry_id": "built-environment",
+   "basis": "Kaplan 360++'s rule: construction management degrees lead to Built Environment job roles.",
+   "shared_skills": [
+    "Construction Technology",
+    "Contract Administration and Management",
+    "Design for Safety",
+    "Engineering Contract Management",
+    "Green Building Strategy Implementation",
+    "Project Management",
+    "Project Risk Management"
+   ]
+  },
+  {
+   "programme_id": "northumbria-bachelor-of-science-nursing-top-up-for-registered-nurses",
+   "industry_id": "healthcare",
+   "basis": "Kaplan 360++'s rule: the nursing top-up is for registered nurses and leads to Healthcare's Nursing track.",
+   "shared_skills": [
+    "Patient Care Delivery in Nursing",
+    "Care Transition in Nursing",
+    "Change Management",
+    "Clinical Governance",
+    "Clinical Records Documentation and Management",
+    "Clinical Teaching and Supervision",
+    "Health Education Programme Development and Implementation",
+    "Health Promotion",
+    "Medication Management in Nursing",
+    "Nursing Productivity and Innovation",
+    "Nursing Research and Statistics",
+    "Patient Empowerment on Self-care",
+    "Professional, Legal and Ethical Healthcare Practice"
+   ]
+  },
+  {
+   "programme_id": "bcu-bachelor-of-laws-honours-top-up",
+   "industry_id": "intellectual-property",
+   "basis": "Kaplan 360++'s rule: an Intellectual Property Law core module leads to the IP Paralegal / IP Executive role.",
+   "shared_skills": [
+    "Project Management",
+    "Trade Mark Application"
+   ]
+  },
+  {
+   "programme_id": "bcu-bachelor-of-laws-honours-top-up",
+   "industry_id": "legal-services",
+   "basis": "Kaplan 360++'s rule: the Bachelor of Laws degree leads to Legal Services job roles; practising in Singapore also needs the local qualification route.",
+   "shared_skills": [
+    "Legal Research and Analysis",
+    "Legal Writing",
+    "Contract Drafting",
+    "Due Diligence",
+    "Legal Interviewing",
+    "Legal Matter Management",
+    "Negotiation"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+# northeastern-university@1 https://www.northeastern.edu
+robots sitemaps: https://www.northeastern.edu/sitemap_index.xml · crawl-delay: 10 · AI-agent groups: 0
+index https://www.northeastern.edu/sitemap_index.xml: 10 children (1 course-like)
+sitemaps read 11 · urls 212 · master's-looking 2
+    2  www.northeastern.edu/degree-type
+         https://www.northeastern.edu/degree-type/graduate-certificate/
+         https://www.northeastern.edu/degree-type/masters/

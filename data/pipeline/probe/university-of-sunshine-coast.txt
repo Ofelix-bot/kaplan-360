@@ -1,0 +1,108 @@
+# university-of-sunshine-coast https://www.usc.edu.au
+robots sitemaps: https://www.unisc.edu.au/XMLsitemap · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 40278 · master's-looking 25645
+24272  www.unisc.edu.au/study/courses-and-programs/previous-student-handbooks
+         https://www.unisc.edu.au/study/courses-and-programs/previous-student-handbooks/student-handbook-study-period-2-2026/bachelor-degrees-undergraduate-programs
+         https://www.unisc.edu.au/study/courses-and-programs/previous-student-handbooks/student-handbook-study-period-2-2026/bachelor-degrees-undergraduate-programs/associate-degree-in-business
+         https://www.unisc.edu.au/study/courses-and-programs/previous-student-handbooks/student-handbook-study-period-2-2026/bachelor-degrees-undergraduate-programs/associate-degree-in-business/sunshine-coast-trimester-1-commencement
+         https://www.unisc.edu.au/study/courses-and-programs/previous-student-handbooks/student-handbook-study-period-2-2026/bachelor-degrees-undergraduate-programs/associate-degree-in-business/sunshine-coast-trimester-2-commencement
+  558  www.unisc.edu.au/study/courses-and-programs/bachelor-degrees-undergraduate-programs
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-degrees-undergraduate-programs/associate-degree-in-business
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-degrees-undergraduate-programs/associate-degree-in-business/sunshine-coast-trimester-1-commencement-march-june
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-degrees-undergraduate-programs/associate-degree-in-business/sunshine-coast-trimester-2-commencement-july-october
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-degrees-undergraduate-programs/associate-degree-in-business/moreton-bay-trimester-1-commencement-march-june
+  343  www.unisc.edu.au/about/unisc-news/news-archive
+         https://www.unisc.edu.au/about/unisc-news/news-archive/2026/february/new-zealanders-are-inventive-by-necessity-how-the-master-clown-philippe-gaulier-shaped-nz-theatre
+         https://www.unisc.edu.au/about/unisc-news/news-archive/2026/april/double-celebration-for-mother-and-son-nursing-graduates
+         https://www.unisc.edu.au/about/unisc-news/news-archive/2026/april/always-ask-why-meet-the-moreton-bay-graduate-challenging-who-decides-history
+         https://www.unisc.edu.au/about/unisc-news/news-archive/2026/april/mental-health-and-neuroscience-programs-graduate-100-students
+  273  www.unisc.edu.au/study/courses-and-programs/postgraduate-degrees
+         https://www.unisc.edu.au/study/courses-and-programs/postgraduate-degrees/subsidised-postgraduate-programs
+         https://www.unisc.edu.au/study/courses-and-programs/postgraduate-degrees/doctor-of-philosophy
+         https://www.unisc.edu.au/study/courses-and-programs/postgraduate-degrees/graduate-certificate-in-applied-support-work
+         https://www.unisc.edu.au/study/courses-and-programs/postgraduate-degrees/graduate-certificate-in-business-administration
+   54  www.unisc.edu.au/about/strategy-quality-and-planning/sunshine-coast-campus-master-plan-2012
+         https://www.unisc.edu.au/about/strategy-quality-and-planning/sunshine-coast-campus-master-plan-2012/foreword
+         https://www.unisc.edu.au/about/strategy-quality-and-planning/sunshine-coast-campus-master-plan-2012/1-introduction
+         https://www.unisc.edu.au/about/strategy-quality-and-planning/sunshine-coast-campus-master-plan-2012/2-goals
+         https://www.unisc.edu.au/about/strategy-quality-and-planning/sunshine-coast-campus-master-plan-2012/2-goals/21-the-2012-campus-master-plan-objectives
+   30  www.unisc.edu.au/research/phd-and-master-of-philosophy-at-unisc/higher-degree-by-research-hdr
+         https://www.unisc.edu.au/research/phd-and-master-of-philosophy-at-unisc/higher-degree-by-research-hdr/start-your-journey-to-an-hdr
+         https://www.unisc.edu.au/research/phd-and-master-of-philosophy-at-unisc/higher-degree-by-research-hdr/start-your-journey-to-an-hdr/higher-degree-by-research-programs
+         https://www.unisc.edu.au/research/phd-and-master-of-philosophy-at-unisc/higher-degree-by-research-hdr/start-your-journey-to-an-hdr/find-a-research-supervisor
+         https://www.unisc.edu.au/research/phd-and-master-of-philosophy-at-unisc/higher-degree-by-research-hdr/start-your-journey-to-an-hdr/how-to-apply-for-an-hdr-program
+   16  www.unisc.edu.au/study/courses-and-programs/courses
+         https://www.unisc.edu.au/study/courses-and-programs/courses/course-library/mba
+         https://www.unisc.edu.au/study/courses-and-programs/courses/course-library/mba/mba725-leadership-development
+         https://www.unisc.edu.au/study/courses-and-programs/courses/course-library/mba/mba728-management-project-a
+         https://www.unisc.edu.au/study/courses-and-programs/courses/course-library/mba/mba730-business-capstone-project
+   16  www.unisc.edu.au/current-students/student-support/inherent-academic-requirements
+         https://www.unisc.edu.au/current-students/student-support/inherent-academic-requirements/bachelor-of-social-work-and-master-of-social-work-qualifying-inherent-academic-requirements
+         https://www.unisc.edu.au/current-students/student-support/inherent-academic-requirements/master-of-teaching-inherent-academic-requirements
+         https://www.unisc.edu.au/current-students/student-support/inherent-academic-requirements/bachelor-of-nursing-science-and-graduate-entry-inherent-academic-requirements
+         https://www.unisc.edu.au/current-students/student-support/inherent-academic-requirements/master-of-psychology-clinical-and-master-of-professional-psychology-inherent-academic-requirements
+   14  www.unisc.edu.au/study/how-to-apply/undergraduate-applications
+         https://www.unisc.edu.au/study/how-to-apply/undergraduate-applications/school-leaver-applications
+         https://www.unisc.edu.au/study/how-to-apply/undergraduate-applications/school-leaver-applications/subject-prerequisite-equivalents
+         https://www.unisc.edu.au/study/how-to-apply/undergraduate-applications/school-leaver-applications/subject-prerequisite-equivalents/mathematics-for-education-programs
+         https://www.unisc.edu.au/study/how-to-apply/undergraduate-applications/school-leaver-applications/subject-prerequisite-equivalents/mathematical-methods
+    6  www.unisc.edu.au/study
+         https://www.unisc.edu.au/study/postgraduate-mental-health-and-neuroscience
+         https://www.unisc.edu.au/study/study-graduate-certificate-in-business-administration
+         https://www.unisc.edu.au/study/postgraduate-public-health-and-health-promotion
+         https://www.unisc.edu.au/study/postgraduate-business-intelligence-and-analytics
+    6  www.unisc.edu.au/study/postgraduate-public-health-and-health-promotion
+         https://www.unisc.edu.au/study/postgraduate-public-health-and-health-promotion/graduate-certificate-in-health-promotion
+         https://www.unisc.edu.au/study/postgraduate-public-health-and-health-promotion/master-of-health-promotion
+         https://www.unisc.edu.au/study/postgraduate-public-health-and-health-promotion/apply-to-study-health-promotion
+         https://www.unisc.edu.au/study/postgraduate-public-health-and-health-promotion/health-promotion-masterclass
+    5  www.unisc.edu.au/study/courses-and-programs
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-degrees-undergraduate-programs
+         https://www.unisc.edu.au/study/courses-and-programs/postgraduate-degrees
+         https://www.unisc.edu.au/study/courses-and-programs/types-of-postgraduate-degrees-and-pathways
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-of-engineering-master-of-engineering
+    5  www.unisc.edu.au/study/courses-and-programs/bachelor-of-engineering-master-of-engineering
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-of-engineering-master-of-engineering/bachelor-of-engineering-mechanical-honours-master-of-engineering
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-of-engineering-master-of-engineering/bachelor-of-engineering-civil-honours-master-of-engineering
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-of-engineering-master-of-engineering/bachelor-of-engineering-mechatronic-honours-master-of-engineering
+         https://www.unisc.edu.au/study/courses-and-programs/bachelor-of-engineering-master-of-engineering/bachelor-of-engineering-electrical-and-electronic-honours-master-of-engineering
+    5  www.unisc.edu.au/study/postgraduate-mental-health-and-neuroscience
+         https://www.unisc.edu.au/study/postgraduate-mental-health-and-neuroscience/graduate-certificate-in-mental-health-and-neuroscience
+         https://www.unisc.edu.au/study/postgraduate-mental-health-and-neuroscience/graduate-diploma-in-mental-health-and-neuroscience
+         https://www.unisc.edu.au/study/postgraduate-mental-health-and-neuroscience/apply-to-study-mental-health-and-neuroscience-online
+         https://www.unisc.edu.au/study/postgraduate-mental-health-and-neuroscience/mental-health-and-neuroscience-masterclass
+    4  www.unisc.edu.au/study/courses-and-programs/business-and-commerce
+         https://www.unisc.edu.au/study/courses-and-programs/business-and-commerce/postgraduate-business
+         https://www.unisc.edu.au/study/courses-and-programs/business-and-commerce/postgraduate-business/mba-masterclass-business-transformation-through-ai
+         https://www.unisc.edu.au/study/courses-and-programs/business-and-commerce/postgraduate-business/mba-masterclass-thank-you
+         https://www.unisc.edu.au/study/courses-and-programs/business-and-commerce/postgraduate-business-masterclass
+    2  www.unisc.edu.au/study/how-to-apply
+         https://www.unisc.edu.au/study/how-to-apply/undergraduate-applications
+         https://www.unisc.edu.au/study/how-to-apply/postgraduate-applications
+    2  www.unisc.edu.au/study/scholarships/scholarships-for-australian-aboriginal-andor-torres-strait-islander-students
+         https://www.unisc.edu.au/study/scholarships/scholarships-for-australian-aboriginal-andor-torres-strait-islander-students/indigenous-student-success-scholarships-program-issp-undergraduate-students
+         https://www.unisc.edu.au/study/scholarships/scholarships-for-australian-aboriginal-andor-torres-strait-islander-students/unisc-indigenous-scholarship-honours-and-postgraduate
+    2  www.unisc.edu.au/study/scholarships/merit-scholarships
+         https://www.unisc.edu.au/study/scholarships/merit-scholarships/graduate-women-qld-inc-sunshine-coast-branch-undergraduate-bursary
+         https://www.unisc.edu.au/study/scholarships/merit-scholarships/rotary-postgraduate-scholarship
+    2  www.unisc.edu.au/study/scholarships/equity-scholarships
+         https://www.unisc.edu.au/study/scholarships/equity-scholarships/graduate-women-qld-inc-sunshine-coast-indigenous-womens-bursary
+         https://www.unisc.edu.au/study/scholarships/equity-scholarships/graduate-women-qld-inc-sunshine-coast-humanitarian-bursary
+    2  www.unisc.edu.au/study/study-postgraduate-nursing
+         https://www.unisc.edu.au/study/study-postgraduate-nursing/apply-to-study-postgraduate-nursing-program
+         https://www.unisc.edu.au/study/study-postgraduate-nursing/postgraduate-nursing-online-info-session
+    2  www.unisc.edu.au/research/phd-and-master-of-philosophy-at-unisc
+         https://www.unisc.edu.au/research/phd-and-master-of-philosophy-at-unisc/higher-degree-by-research-hdr
+         https://www.unisc.edu.au/research/phd-and-master-of-philosophy-at-unisc/find-your-people-find-your-phd
+    2  www.unisc.edu.au/research/indigenous-and-transcultural-research-centre/itrc-article-snapshots
+         https://www.unisc.edu.au/research/indigenous-and-transcultural-research-centre/itrc-article-snapshots/2023/august/undergraduate-paramedic-student-competency-assessment-a-grounded-theory-study-explaining-how-assessors-in-australia-and-new-zealand-determine-student-competency-to-practice
+         https://www.unisc.edu.au/research/indigenous-and-transcultural-research-centre/itrc-article-snapshots/2025/august/research-impact-spotlight-dr-natalie-mcmaster
+    2  www.unisc.edu.au/about/strategy-quality-and-planning
+         https://www.unisc.edu.au/about/strategy-quality-and-planning/masterplans
+         https://www.unisc.edu.au/about/strategy-quality-and-planning/sunshine-coast-campus-master-plan-2012
+    2  www.unisc.edu.au/graduation
+         https://www.unisc.edu.au/graduation/get-ready-to-graduate
+         https://www.unisc.edu.au/graduation/graduate-outcomes-survey
+    2  www.unisc.edu.au/graduation/get-ready-to-graduate
+         https://www.unisc.edu.au/graduation/get-ready-to-graduate/graduation-awards-and-medals
+         https://www.unisc.edu.au/graduation/get-ready-to-graduate/graduation-terminology

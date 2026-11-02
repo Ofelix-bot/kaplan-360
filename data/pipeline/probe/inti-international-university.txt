@@ -1,0 +1,69 @@
+# inti-international-university https://newinti.edu.my
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://newinti.edu.my/sitemap.xml: 12 children (2 course-like)
+sitemaps read 13 · urls 1976 · master's-looking 91
+   25  newinti.edu.my/programme
+         https://newinti.edu.my/programme/master-in-information-systems-mis/
+         https://newinti.edu.my/programme/master-in-information-technology-mit/
+         https://newinti.edu.my/programme/master-in-education-management/
+         https://newinti.edu.my/programme/master-of-business-administration-mba-learning-simplified/
+    6  newinti.edu.my/explore
+         https://newinti.edu.my/explore/coventry-university-mba/
+         https://newinti.edu.my/explore/free-master/
+         https://newinti.edu.my/explore/master_phd_100sch/
+         https://newinti.edu.my/explore/free-master-international/
+    4  newinti.edu.my/academic-programmes/postgraduate
+         https://newinti.edu.my/academic-programmes/postgraduate/masters/
+         https://newinti.edu.my/academic-programmes/postgraduate/diplomas/
+         https://newinti.edu.my/academic-programmes/postgraduate/degrees/
+         https://newinti.edu.my/academic-programmes/postgraduate/doctorate/
+    4  newinti.edu.my/academic-programmes/undergraduate
+         https://newinti.edu.my/academic-programmes/undergraduate/foundation/
+         https://newinti.edu.my/academic-programmes/undergraduate/diploma/
+         https://newinti.edu.my/academic-programmes/undergraduate/bachelor-degrees/
+         https://newinti.edu.my/academic-programmes/undergraduate/certificate/
+    3  newinti.edu.my/academic-programmes
+         https://newinti.edu.my/academic-programmes/postgraduate-studies/
+         https://newinti.edu.my/academic-programmes/postgraduate/
+         https://newinti.edu.my/academic-programmes/undergraduate/
+    2  newinti.edu.my/level_of_study
+         https://newinti.edu.my/level_of_study/postgraduate/
+         https://newinti.edu.my/level_of_study/undergraduate/
+    1  newinti.edu.my/second-inti-and-coventry-university-graduation-sees-almost-double-the-number-of-postgraduates
+         https://newinti.edu.my/second-inti-and-coventry-university-graduation-sees-almost-double-the-number-of-postgraduates/
+    1  newinti.edu.my/inti-undergraduates-present-outstanding-research-at-9th-international-conference-on-humanities-and-social-sciences-hatyai
+         https://newinti.edu.my/inti-undergraduates-present-outstanding-research-at-9th-international-conference-on-humanities-and-social-sciences-hatyai/
+    1  newinti.edu.my/inti-celebrates-achievements-of-illustrious-university-of-wollongong-graduates
+         https://newinti.edu.my/inti-celebrates-achievements-of-illustrious-university-of-wollongong-graduates/
+    1  newinti.edu.my/trade-work-experience-to-fast-track-your-mba
+         https://newinti.edu.my/trade-work-experience-to-fast-track-your-mba/
+    1  newinti.edu.my/intis-inspiring-mba-moms
+         https://newinti.edu.my/intis-inspiring-mba-moms/
+    1  newinti.edu.my/no-barriers-for-wheelchair-bound-inti-graduate
+         https://newinti.edu.my/no-barriers-for-wheelchair-bound-inti-graduate/
+    1  newinti.edu.my/jobstreet-coms-first-graduate-employability-program-in-inti-international-university-colleges
+         https://newinti.edu.my/jobstreet-coms-first-graduate-employability-program-in-inti-international-university-colleges/
+    1  newinti.edu.my/inti-graduates-excel-with-the-right-edge
+         https://newinti.edu.my/inti-graduates-excel-with-the-right-edge/
+    1  newinti.edu.my/inti-students-cook-up-a-storm-with-masterchef-australia-judge
+         https://newinti.edu.my/inti-students-cook-up-a-storm-with-masterchef-australia-judge/
+    1  newinti.edu.my/mahtec-boost-for-intis-graduate-employability
+         https://newinti.edu.my/mahtec-boost-for-intis-graduate-employability/
+    1  newinti.edu.my/inti-students-learn-from-quintessential-masters-of-mixology
+         https://newinti.edu.my/inti-students-learn-from-quintessential-masters-of-mixology/
+    1  newinti.edu.my/inti-is-university-of-wollongongs-first-regional-partner-to-offer-its-master-of-international-business-programme
+         https://newinti.edu.my/inti-is-university-of-wollongongs-first-regional-partner-to-offer-its-master-of-international-business-programme/
+    1  newinti.edu.my/thai-mba-students-gain-insight-into-malaysian-management-styles-at-inti
+         https://newinti.edu.my/thai-mba-students-gain-insight-into-malaysian-management-styles-at-inti/
+    1  newinti.edu.my/the-inti-mba-higher-education-for-higher-aspirations
+         https://newinti.edu.my/the-inti-mba-higher-education-for-higher-aspirations/
+    1  newinti.edu.my/5-star-mba-programme-at-inti-college-sarawak
+         https://newinti.edu.my/5-star-mba-programme-at-inti-college-sarawak/
+    1  newinti.edu.my/inti-southern-cross-university-mba-for-the-working-professional
+         https://newinti.edu.my/inti-southern-cross-university-mba-for-the-working-professional/
+    1  newinti.edu.my/industry-ready-and-business-savvy-inti-mba-graduates
+         https://newinti.edu.my/industry-ready-and-business-savvy-inti-mba-graduates/
+    1  newinti.edu.my/intis-northwood-university-students-graduate-with-business-specialty-degrees
+         https://newinti.edu.my/intis-northwood-university-students-graduate-with-business-specialty-degrees/
+    1  newinti.edu.my/intis-business-specialty-students-graduate-with-northwood-university-degrees-in-inaugural-ceremony
+         https://newinti.edu.my/intis-business-specialty-students-graduate-with-northwood-university-degrees-in-inaugural-ceremony/

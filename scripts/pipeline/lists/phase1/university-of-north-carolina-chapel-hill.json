@@ -1,0 +1,32 @@
+{
+ "source": "Graduate School master's list (browser; gradschool.unc.edu returns 403 to the plain client) + Kenan-Flagler, School of Education, Hussman, EXSS, MPA, SSW, Nursing, CS pages; SPH programme pages (/programs/?ppk=) are disallowed by robots.txt and left out (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/",
+  "https://www.kenan-flagler.unc.edu/programs/mba/charlotte-executive-mba/",
+  "https://www.kenan-flagler.unc.edu/programs/mba/evening-executive-mba/",
+  "https://www.kenan-flagler.unc.edu/programs/mba/weekend-executive-mba/",
+  "https://www.kenan-flagler.unc.edu/programs/master-of-accounting/",
+  "https://www.kenan-flagler.unc.edu/programs/ms-management/",
+  "https://ed.unc.edu/program/master-of-arts-in-teaching/",
+  "https://ed.unc.edu/program/educational-innovation-technology-and-entrepreneurship/",
+  "https://ed.unc.edu/program/school-administration/",
+  "https://ed.unc.edu/program/school-counseling/",
+  "https://ed.unc.edu/program/human-and-organizational-leadership-development/",
+  "https://www.med.unc.edu/healthsciences/crmh/",
+  "https://hussman.unc.edu/grad/maj",
+  "https://hussman.unc.edu/grad/masc",
+  "https://hussman.unc.edu/grad/matr",
+  "https://exss.unc.edu/graduate-programs/",
+  "https://exss.unc.edu/sport-administration/",
+  "https://mpa.unc.edu/",
+  "https://ssw.unc.edu/academics/msw-degree/full-time-msw-program/",
+  "https://ssw.unc.edu/academics/msw-degree/advanced-standing-msw-program/",
+  "https://ssw.unc.edu/academics/msw-degree/part-time-extended-msw-program/",
+  "https://nursing.unc.edu/programs/master-of-science-in-nursing",
+  "https://cs.unc.edu/graduate/ms/",
+  "https://sils.unc.edu/masters-degree-programs/",
+  "https://chip.unc.edu/mps-bmhi/",
+  "https://appliedmasters.unc.edu/"
+ ]
+}

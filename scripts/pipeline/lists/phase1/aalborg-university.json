@@ -1,0 +1,20 @@
+{
+ "source": "Sitemap https://www.en.aau.dk/sitemap.xml + master's list https://www.en.aau.dk/education/master/list (browser-rendered list); programme pages stating 'English Language'; specialisation subpages left out (JS-only content) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.en.aau.dk/education/master/computer-engineering-cph",
+  "https://www.en.aau.dk/education/master/computer-science-it",
+  "https://www.en.aau.dk/education/master/cyber-security",
+  "https://www.en.aau.dk/education/master/software-cph",
+  "https://www.en.aau.dk/education/master/entrepreneurial-business-engineering",
+  "https://www.en.aau.dk/education/master/information-studies",
+  "https://www.en.aau.dk/education/master/risk-safety-management",
+  "https://www.en.aau.dk/education/master/robotics",
+  "https://www.en.aau.dk/education/master/tourism",
+  "https://www.en.aau.dk/education/master/culture-communication-and-globalization",
+  "https://www.en.aau.dk/education/master/international-relations",
+  "https://www.en.aau.dk/education/master/economics-and-business-administration",
+  "https://www.en.aau.dk/education/master/management-engineering",
+  "https://www.en.aau.dk/education/master/computer-engineering"
+ ]
+}

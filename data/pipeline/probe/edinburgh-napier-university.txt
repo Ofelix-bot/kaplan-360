@@ -1,0 +1,112 @@
+# edinburgh-napier-university https://www.napier.ac.uk
+robots sitemaps: https://www.napier.ac.uk/sitemap1.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.napier.ac.uk/sitemap1.xml: 2 children (1 course-like)
+sitemaps read 3 · urls 35352 · master's-looking 557
+  228  www.napier.ac.uk/courses
+         https://www.napier.ac.uk/courses/ba-hons-accounting-undergraduate-fulltime
+         https://www.napier.ac.uk/courses/ba-hons-accounting-and-finance-undergraduate-fulltime
+         https://www.napier.ac.uk/courses/ba-hons-accounting-with-corporate-finance-undergraduate-fulltime
+         https://www.napier.ac.uk/courses/ba-hons-acting-and-english-undergraduate-fulltime
+  159  www.napier.ac.uk/research-and-innovation/research-search/outputs
+         https://www.napier.ac.uk/research-and-innovation/research-search/outputs/a-collaborative-approach-to-enhancing-undergraduate-employability-at-programme-level
+         https://www.napier.ac.uk/research-and-innovation/research-search/outputs/a-method-of-teaching-critical-care-skills-to-undergraduate-student-midwives-using-the
+         https://www.napier.ac.uk/research-and-innovation/research-search/outputs/a-parent-companys-ability-and-cross-border-ma-performance-an-empirical-analysis
+         https://www.napier.ac.uk/research-and-innovation/research-search/outputs/a-personal-and-historical-investigation-of-the-career-trends-of-uk-graduate-nurses
+   37  www.napier.ac.uk/about-us/news
+         https://www.napier.ac.uk/about-us/news/2023-masters-programme-showcase
+         https://www.napier.ac.uk/about-us/news/afghan-students-graduate-edinburgh-napier
+         https://www.napier.ac.uk/about-us/news/alex-linkston-honorary-graduate-2024
+         https://www.napier.ac.uk/about-us/news/alex-poots-honorary-graduate-summer-2024
+   13  www.napier.ac.uk/study-with-us/postgraduate/meet-our-students
+         https://www.napier.ac.uk/study-with-us/postgraduate/meet-our-students/cezarys-story
+         https://www.napier.ac.uk/study-with-us/postgraduate/meet-our-students/duncan-case-study
+         https://www.napier.ac.uk/study-with-us/postgraduate/meet-our-students/grace-story
+         https://www.napier.ac.uk/study-with-us/postgraduate/meet-our-students/martinas-story
+   10  www.napier.ac.uk/study-with-us/undergraduate
+         https://www.napier.ac.uk/study-with-us/undergraduate/campus-tours
+         https://www.napier.ac.uk/study-with-us/undergraduate/how-to-apply
+         https://www.napier.ac.uk/study-with-us/undergraduate/open-days
+         https://www.napier.ac.uk/study-with-us/undergraduate/when-to-apply
+   10  www.napier.ac.uk/study-with-us/postgraduate
+         https://www.napier.ac.uk/study-with-us/postgraduate/how-to-apply
+         https://www.napier.ac.uk/study-with-us/postgraduate/fees-and-funding
+         https://www.napier.ac.uk/study-with-us/postgraduate/student-support
+         https://www.napier.ac.uk/study-with-us/postgraduate/postgraduate-events
+    7  www.napier.ac.uk/study-with-us/bursaries
+         https://www.napier.ac.uk/study-with-us/bursaries/carnegie-masters-grant
+         https://www.napier.ac.uk/study-with-us/bursaries/european-union-postgraduate-scholarship
+         https://www.napier.ac.uk/study-with-us/bursaries/european-union-undergraduate-scholarship
+         https://www.napier.ac.uk/study-with-us/bursaries/north-american-postgraduate-scholarship
+    6  www.napier.ac.uk/study-with-us/undergraduate/fees-and-finance
+         https://www.napier.ac.uk/study-with-us/undergraduate/fees-and-finance/students-from-scotland
+         https://www.napier.ac.uk/study-with-us/undergraduate/fees-and-finance/students-from-england-northern-ireland-wales-and-republic-of-ireland
+         https://www.napier.ac.uk/study-with-us/undergraduate/fees-and-finance/students-from-the-european-union
+         https://www.napier.ac.uk/study-with-us/undergraduate/fees-and-finance/students-from-scotland/financial-support
+    6  www.napier.ac.uk/study-with-us/postgraduate/how-to-apply
+         https://www.napier.ac.uk/study-with-us/postgraduate/how-to-apply/complete-your-application
+         https://www.napier.ac.uk/study-with-us/postgraduate/how-to-apply/find-your-course
+         https://www.napier.ac.uk/study-with-us/postgraduate/how-to-apply/prepare-for-application
+         https://www.napier.ac.uk/study-with-us/postgraduate/how-to-apply/useful-application-information
+    6  www.napier.ac.uk/study-with-us/international-students/your-country
+         https://www.napier.ac.uk/study-with-us/international-students/your-country/europe-and-eurasia/norway/student-experiences/ingrid-thornes-graduate-testimonial
+         https://www.napier.ac.uk/study-with-us/international-students/your-country/south-east-asia/thailand-microsite/creative-advertising-msc
+         https://www.napier.ac.uk/study-with-us/international-students/your-country/south-east-asia/thailand-microsite/exhibition-design-ma-mdes
+         https://www.napier.ac.uk/study-with-us/international-students/your-country/south-east-asia/thailand-microsite/interaction-design-ma-mdes
+    6  www.napier.ac.uk/research-and-innovation/research-search/events
+         https://www.napier.ac.uk/research-and-innovation/research-search/events/cyber-security-master-class
+         https://www.napier.ac.uk/research-and-innovation/research-search/events/entering-and-moving-through-university-and-joining-the-graduate-labour-market-the
+         https://www.napier.ac.uk/research-and-innovation/research-search/events/phd-students-present-their-work-at-the-school-of-computing-post-graduate-research
+         https://www.napier.ac.uk/research-and-innovation/research-search/events/post-graduate-cyber-security-pgcs-symposium-2018
+    6  www.napier.ac.uk/research-and-innovation/research-search/phds
+         https://www.napier.ac.uk/research-and-innovation/research-search/phds/educator-objectives--attitudes-towards-undergraduate-popular-music-education-curricula-in
+         https://www.napier.ac.uk/research-and-innovation/research-search/phds/factors-influencing-students-choice-to-enter-private-education-institute-undergraduate
+         https://www.napier.ac.uk/research-and-innovation/research-search/phds/journey-into-higher-education-a-study-of-postgraduate-indian-students-experiences-as
+         https://www.napier.ac.uk/research-and-innovation/research-search/phds/key-motivations-influencing-pmes-decision-to-pursue-a-masters-degree-via-peis-in
+    5  www.napier.ac.uk/study-with-us/undergraduate/how-to-apply
+         https://www.napier.ac.uk/study-with-us/undergraduate/how-to-apply/the-application-process
+         https://www.napier.ac.uk/study-with-us/undergraduate/how-to-apply/writing-your-personal-statement
+         https://www.napier.ac.uk/study-with-us/undergraduate/how-to-apply/after-you-apply
+         https://www.napier.ac.uk/study-with-us/undergraduate/how-to-apply/once-youve-got-your-grades
+    5  www.napier.ac.uk/study-with-us/undergraduate/open-days
+         https://www.napier.ac.uk/study-with-us/undergraduate/open-days/exploring-edinburgh
+         https://www.napier.ac.uk/study-with-us/undergraduate/open-days/five-reasons-to-attend-an-open-day
+         https://www.napier.ac.uk/study-with-us/undergraduate/open-days/guest-guide-to-open-days
+         https://www.napier.ac.uk/study-with-us/undergraduate/open-days/how-to-plan-your-open-day
+    5  www.napier.ac.uk/research-and-innovation/research-search/news
+         https://www.napier.ac.uk/research-and-innovation/research-search/news/cimspa-endorses-first-scottish-masters-degree-at-edinburgh-napier-university
+         https://www.napier.ac.uk/research-and-innovation/research-search/news/congratulations-one-of-my-master-project-student-achu-titius-mavelil-joined-for-phd
+         https://www.napier.ac.uk/research-and-innovation/research-search/news/congratulations-one-of-our-master-student-reshma-nair-joined-for-phd-studies-at-london
+         https://www.napier.ac.uk/research-and-innovation/research-search/news/congratulations-one-of-our-master-students-jithin-kanathedath-joined-for-phd-studies-at
+    4  www.napier.ac.uk/research-and-innovation/research-search/projects
+         https://www.napier.ac.uk/research-and-innovation/research-search/projects/develop-equitable-access-to-practice-learning-experiences-for-undergraduate-learning
+         https://www.napier.ac.uk/research-and-innovation/research-search/projects/efficacy-of-the-descent-master-training-machine
+         https://www.napier.ac.uk/research-and-innovation/research-search/projects/greenock-morton-fc-masters-by-research-project
+         https://www.napier.ac.uk/research-and-innovation/research-search/projects/post-graduate-cyber-security-pgcs-symposium
+    3  www.napier.ac.uk/courses/study-areas/computing
+         https://www.napier.ac.uk/courses/study-areas/computing/student-stories/msc-business-information-technology-stories
+         https://www.napier.ac.uk/courses/study-areas/computing/student-stories/msc-computing-stories
+         https://www.napier.ac.uk/courses/study-areas/computing/student-stories/msc-data-engineering
+    3  www.napier.ac.uk/courses/study-areas/film-journalism-and-media
+         https://www.napier.ac.uk/courses/study-areas/film-journalism-and-media/ma-journalism-student-stories
+         https://www.napier.ac.uk/courses/study-areas/film-journalism-and-media/ma-film-with-caitlin-delves
+         https://www.napier.ac.uk/courses/study-areas/film-journalism-and-media/ma-film-with-reece-cargan
+    2  www.napier.ac.uk/study-with-us
+         https://www.napier.ac.uk/study-with-us/undergraduate
+         https://www.napier.ac.uk/study-with-us/postgraduate
+    2  www.napier.ac.uk/study-with-us/undergraduate/facilities
+         https://www.napier.ac.uk/study-with-us/undergraduate/facilities/libraries
+         https://www.napier.ac.uk/study-with-us/undergraduate/facilities/computing
+    2  www.napier.ac.uk/study-with-us/postgraduate/fees-and-funding
+         https://www.napier.ac.uk/study-with-us/postgraduate/fees-and-funding/paying-your-fees
+         https://www.napier.ac.uk/study-with-us/postgraduate/fees-and-funding/uk-students
+    2  www.napier.ac.uk/study-with-us/apprenticeships
+         https://www.napier.ac.uk/study-with-us/apprenticeships/msc-cyber-security-graduate-apprenticeship-postgraduate-fulltime
+         https://www.napier.ac.uk/study-with-us/apprenticeships/graduate-apprenticeship-mentor
+    2  www.napier.ac.uk/about-us/events
+         https://www.napier.ac.uk/about-us/events/undergraduate-open-day-october-2026
+         https://www.napier.ac.uk/about-us/events/undergraduate-open-day-september-2026
+    2  www.napier.ac.uk/about-us/our-schools/the-school-of-health-and-social-care
+         https://www.napier.ac.uk/about-us/our-schools/the-school-of-health-and-social-care/honorary-graduates-and-emeritus-professors
+         https://www.napier.ac.uk/about-us/our-schools/the-school-of-health-and-social-care/simulation-and-clinical-skills-centre/undergraduate-students
+    1  www.napier.ac.uk/courses/study-areas/design-photography-and-advertising
+         https://www.napier.ac.uk/courses/study-areas/design-photography-and-advertising/ma-yohana-frias

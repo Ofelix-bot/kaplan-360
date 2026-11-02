@@ -1,0 +1,10 @@
+{
+ "source": "UTM Study Plan and Course Description https://www.utm.edu.mo/admission/en/postgraduate_programmes/study-plan-and-course-description/index.html (English-medium MSc + English MBA) -> each programme's official study-plan PDF on the faculty pages (programmes have no HTML page of their own) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.utm.edu.mo/shm/filemanager/common/MSc%20IHM%20(Eng).pdf",
+  "https://www.utm.edu.mo/shm/filemanager/common/MSc%20IEM%20(Eng).pdf",
+  "https://www.utm.edu.mo/stm/filemanager/common/MSc%20ITM%20(Eng).pdf",
+  "https://www.utm.edu.mo/stm/filemanager/en/share/MBA-Eng.pdf"
+ ]
+}

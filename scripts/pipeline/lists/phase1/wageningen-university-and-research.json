@@ -1,0 +1,16 @@
+{
+ "source": "WUR sitemap, English MSc programme pages under https://www.wur.nl/en/education/master/ (all WUR MSc are English-taught; online variants left out) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.wur.nl/en/education/master/masters-communication-health-and-life-sciences",
+  "https://www.wur.nl/en/education/master/masters-consumer-studies",
+  "https://www.wur.nl/en/education/master/masters-data-science-food-and-health",
+  "https://www.wur.nl/en/education/master/masters-management-economics-and-consumer-studies",
+  "https://www.wur.nl/en/education/master/masters-sustainable-business-and-innovation",
+  "https://www.wur.nl/en/education/master/masters-sustainable-supply-chain-analytics",
+  "https://www.wur.nl/en/education/master/masters-tourism-society-and-environment",
+  "https://www.wur.nl/en/education/master/masters-food-quality-management",
+  "https://www.wur.nl/en/education/master/masters-governance-sustainability-transformations",
+  "https://www.wur.nl/en/education/master/masters-geographical-information-management-and-applications"
+ ]
+}

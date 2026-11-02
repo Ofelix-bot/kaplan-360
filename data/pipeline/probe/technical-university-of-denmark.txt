@@ -1,0 +1,119 @@
+# technical-university-of-denmark https://www.dtu.dk
+robots sitemaps: https://www.dtu.dk/sitemap.xml https://www.dtu.dk/sitemap.xml https://www.dtu.dk/sitemap.xml https://www.dtu.dk/sitemap.xml · crawl-delay: 10 · AI-agent groups: 0
+index https://www.dtu.dk/sitemap.xml: 463 children (4 course-like)
+sitemap https://brand.www8.sitecore.dtu.dk/sitemap_brand-dtu-dk.xml: robots robots.txt unreachable at https://brand.www8.sitecore.dtu.dk
+sitemap https://celcorr.www8.sitecore.dtu.dk/sitemap_celcorr-www8-sitecore-dtu-dk.xml: robots robots.txt unreachable at https://celcorr.www8.sitecore.dtu.dk
+sitemap https://nanophoton.www8.sitecore.dtu.dk/sitemap_nanophoton.xml: robots robots.txt unreachable at https://nanophoton.www8.sitecore.dtu.dk
+sitemap https://bright-new.www8.sitecore.dtu.dk/sitemap_bright-new-www8.xml: robots robots.txt unreachable at https://bright-new.www8.sitecore.dtu.dk
+sitemap https://havforskning.www8.sitecore.dtu.dk/sitemap_dch.xml: robots robots.txt unreachable at https://havforskning.www8.sitecore.dtu.dk
+sitemap https://bengfestival.www8.sitecore.dtu.dk/sitemap_diplomfestival.xml: robots robots.txt unreachable at https://bengfestival.www8.sitecore.dtu.dk
+sitemap https://www.inside.dtu.dk/sitemap_inside-sundhedsteknologi.xml: http HTTP 404
+sitemap https://nmr-center.www8.sitecore.dtu.dk/sitemap_nmr-center.xml: robots robots.txt unreachable at https://nmr-center.www8.sitecore.dtu.dk
+sitemap https://nest.www8.sitecore.dtu.dk/sitemap_nest-temp.xml: robots robots.txt unreachable at https://nest.www8.sitecore.dtu.dk
+sitemap https://mt-its2027.www8.sitecore.dtu.dk/sitemap_mt-its2027.xml: robots robots.txt unreachable at https://mt-its2027.www8.sitecore.dtu.dk
+sitemap https://inside-engtech.www8.sitecore.dtu.dk/sitemap_inside-engtech-temp.xml: robots robots.txt unreachable at https://inside-engtech.www8.sitecore.dtu.dk
+sitemap https://kt-pilotplant.www8.sitecore.dtu.dk/sitemap_kt-pilot-plant-temp.xml: robots robots.txt unreachable at https://kt-pilotplant.www8.sitecore.dtu.dk
+sitemap https://staff.www8.sitecore.dtu.dk/sitemap_marab.xml: robots robots.txt unreachable at https://staff.www8.sitecore.dtu.dk
+sitemaps read 80 · urls 25058 · master's-looking 759
+  394  www.dtu.dk/english/education/graduate
+         https://www.dtu.dk/english/education/graduate/msc-programmes
+         https://www.dtu.dk/english/education/graduate/msc-programmes/applied-chemistry
+         https://www.dtu.dk/english/education/graduate/msc-programmes/applied-chemistry/prerequisites
+         https://www.dtu.dk/english/education/graduate/msc-programmes/applied-chemistry/curriculum
+   77  www.dtu.dk/english/education/undergraduate
+         https://www.dtu.dk/english/education/undergraduate/general-engineering
+         https://www.dtu.dk/english/education/undergraduate/general-engineering/admission-and-deadlines
+         https://www.dtu.dk/english/education/undergraduate/general-engineering/admission-and-deadlines/how-to-apply
+         https://www.dtu.dk/english/education/undergraduate/general-engineering/admission-and-deadlines/how-to-apply/quotas
+   76  student.dtu.dk/en/programme-specifications/master-of-science-in-engineering
+         https://student.dtu.dk/en/programme-specifications/master-of-science-in-engineering/applied-chemistry
+         https://student.dtu.dk/en/programme-specifications/master-of-science-in-engineering/applied-chemistry/specializations
+         https://student.dtu.dk/en/programme-specifications/master-of-science-in-engineering/architectural-engineering
+         https://student.dtu.dk/en/programme-specifications/master-of-science-in-engineering/architectural-engineering/specializations
+   36  student.dtu.dk/studieordninger/master-of-science-in-engineering
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/applied-chemistry
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/architectural-engineering
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/autonomous-systems
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/bioinformatics
+   20  inside-local.dtu.dk/da/medarbejder/administration
+         https://inside-local.dtu.dk/da/medarbejder/administration/vaerktoejer/studieordning-tidligere-aargange/2006-2007/kandidatretninger/msc-anvendt-kemi
+         https://inside-local.dtu.dk/da/medarbejder/administration/vaerktoejer/studieordning-tidligere-aargange/2006-2007/kandidatretninger/msc-matematisk-modellering-og-computing
+         https://inside-local.dtu.dk/da/medarbejder/administration/vaerktoejer/studieordning-tidligere-aargange/2006-2007/kandidatretninger/msc-bioteknologi
+         https://inside-local.dtu.dk/da/medarbejder/administration/vaerktoejer/studieordning-tidligere-aargange/2006-2007/kandidatretninger/msc-byggeteknologi
+   16  www.dtu.dk/english/news/all-news
+         https://www.dtu.dk/english/news/all-news/DTU-accelerates-training-of-industry-masters-students?id=f8cc2756-def9-49c0-8e8a-bd9fbddb13cc
+         https://www.dtu.dk/english/news/all-news/Industry-Master-of-Science-in-Engineering-students-close-to-the-bioindustry-in-Kalundborg?id=eae182f9-b7ed-4e0f-a122-7954b7d47202
+         https://www.dtu.dk/english/news/all-news/Francesco-Rosati-among-the-worlds-best-MBA-Professors?id=5ed5cd52-74a2-4831-becb-e59bbd6a0d6e
+         https://www.dtu.dk/english/news/all-news/New-MSc-Students-Ready-to-Challenge-Themselves?id=271c89ca-2651-4541-91b3-2099c8b156af
+    9  student.dtu.dk/studieordninger/master-of-science-in-engineering/earth-and-space-physics-and-engineering
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/earth-and-space-physics-and-engineering/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/earth-and-space-physics-and-engineering/previous-programme-specification
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/earth-and-space-physics-and-engineering/project-supervisors
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/earth-and-space-physics-and-engineering/project-supervisors/earth-and-planetary-physics
+    7  student.dtu.dk/studieordninger/deltidsuddannelser
+         https://student.dtu.dk/studieordninger/deltidsuddannelser/master-i-brandsikkerhed
+         https://student.dtu.dk/studieordninger/deltidsuddannelser/master-i-baeredygtigt-byggeri
+         https://student.dtu.dk/studieordninger/deltidsuddannelser/master-i-baeredygtig-ledelse
+         https://student.dtu.dk/studieordninger/deltidsuddannelser/master-i-baeredygtig-og-sikker-foedevareproduktion
+    7  student.dtu.dk/en/programme-specifications/part-time-education
+         https://student.dtu.dk/en/programme-specifications/part-time-education/master-of-fire-safety
+         https://student.dtu.dk/en/programme-specifications/part-time-education/master-in-sustainable-building
+         https://student.dtu.dk/en/programme-specifications/part-time-education/master-in-sustainable-leadership
+         https://student.dtu.dk/en/programme-specifications/part-time-education/master-of-sustainable-and-safe-food-production
+    7  studieinformation.dtu.dk/english/part-time-education
+         https://studieinformation.dtu.dk/english/part-time-education/master-of-fire-safety
+         https://studieinformation.dtu.dk/english/part-time-education/master-in-sustainable-building
+         https://studieinformation.dtu.dk/english/part-time-education/master-in-sustainable-leadership
+         https://studieinformation.dtu.dk/english/part-time-education/master-of-sustainable-and-safe-food-production
+    7  www.dtu.dk/english/education/start-of-studies
+         https://www.dtu.dk/english/education/start-of-studies/intro-for-msc-and-exchange
+         https://www.dtu.dk/english/education/start-of-studies/intro-for-msc-and-exchange/webinar-on-study-planning
+         https://www.dtu.dk/english/education/start-of-studies/intro-for-msc-and-exchange/introduction-week
+         https://www.dtu.dk/english/education/start-of-studies/intro-for-msc-and-exchange/introduction-week/masters-programme-and-activities
+    4  www.inside.dtu.dk/en/education/for-heads-of-studies
+         https://www.inside.dtu.dk/en/education/for-heads-of-studies/duties-of-the-head-of-studies/msc-head-of-study
+         https://www.inside.dtu.dk/en/education/for-heads-of-studies/msc-programme
+         https://www.inside.dtu.dk/en/education/for-heads-of-studies/msc-programme/honours-programmes-admission
+         https://www.inside.dtu.dk/en/education/for-heads-of-studies/msc-programme/msc-programme-specializations
+    3  www.coldclimate-master.org/in-the-programme/msc-theses
+         https://www.coldclimate-master.org/in-the-programme/msc-theses/land-track
+         https://www.coldclimate-master.org/in-the-programme/msc-theses/sea-track
+         https://www.coldclimate-master.org/in-the-programme/msc-theses/space-track
+    3  inside-local.dtu.dk/da/medarbejder/institutter
+         https://inside-local.dtu.dk/da/medarbejder/institutter/bright/education/master
+         https://inside-local.dtu.dk/da/medarbejder/institutter/dtu-fysik/phd-school-at-dtu-physics/phd-school-organisation/careers-for-phd-graduates-2018-2023
+         https://inside-local.dtu.dk/da/medarbejder/institutter/dtu-nanolab/master2019
+    3  studieinformation.dtu.dk/english/rules/leave-change-of-study-programme
+         https://studieinformation.dtu.dk/english/rules/leave-change-of-study-programme/transferring-to-msc-programme
+         https://studieinformation.dtu.dk/english/rules/leave-change-of-study-programme/exemption/cancellation-of-binding-courses-bachelor-master
+         https://studieinformation.dtu.dk/english/rules/leave-change-of-study-programme/change-of-study-programme-and-field-of-study/change-msc
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/applied-chemistry
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/applied-chemistry/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/applied-chemistry/previous-programme-specification
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/architectural-engineering
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/architectural-engineering/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/architectural-engineering/previous-programme-specification
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/autonomous-systems
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/autonomous-systems/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/autonomous-systems/previous-programme-specification
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/bioinformatics
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/bioinformatics/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/bioinformatics/previous-programme-specification
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/biomaterial-engineering-for-medicine
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/biomaterial-engineering-for-medicine/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/biomaterial-engineering-for-medicine/previous-programme-specification
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/biomedical-engineering
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/biomedical-engineering/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/biomedical-engineering/previous-programme-specification
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/biotechnology
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/biotechnology/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/biotechnology/previous-programme-specification
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/business-analytics
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/business-analytics/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/business-analytics/previous-programme-specification
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/chemical-and-biochemical-engineering
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/chemical-and-biochemical-engineering/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/chemical-and-biochemical-engineering/previous-programme-specification
+    2  student.dtu.dk/studieordninger/master-of-science-in-engineering/civil-engineering
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/civil-engineering/specializations
+         https://student.dtu.dk/studieordninger/master-of-science-in-engineering/civil-engineering/previous-programme-specification

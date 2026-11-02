@@ -1,0 +1,1087 @@
+{
+  "dataset": "Kaplan Singapore Degree Enrolment Day deck (Chinese), 9 March 2026",
+  "source": {
+    "id": "kaplan-ded-2026-03-09-cn",
+    "title": "大学课程介绍和解说会, 2026年3月9日 (Kaplan Higher Education Academy)",
+    "file": "data/sources/kaplan-degree-enrolment-day-2026-03-09-cn.pdf",
+    "fileNote": "Kept local and in private storage only. Pages 66 (bank account details) and 87 (a named adviser's phone, WhatsApp and WeChat) contain payment and personal contact data and are not transcribed. Pages 57–58 show sample certificates and are not transcribed.",
+    "providedBy": "Project owner, 2026-10-18",
+    "audience": "Kaplan diploma students (international students on a Student's Pass) progressing to a partner bachelor's degree",
+    "validFor": "Intakes from April 2026; application deadlines in March 2026 have passed as of 2026-10-18"
+  },
+  "transcribedAt": "2026-10-18",
+  "notes": [
+    "Verbatim quotes are copied from the deck's text layer (Chinese as in the deck, including its typos).",
+    "Except for UCD, each fee table's 总计金额 (total) does not equal the sum of its columns; the totals look like they already deduct the fee waiver, but the deck does not say so. Values are recorded as printed and flagged.",
+    "Page 49 says Portsmouth bridging is needed 以达到埃塞克斯大学学术要求 (to meet the University of Essex's academic requirements). This looks like a template error in the deck; it is flagged and not shown on the site.",
+    "Northumbria's Global Business Management (Human Resource) and (Logistics and Supply Chain) are struck through on pages 36, 40 and 41: not offered for this intake."
+  ],
+  "partnersForStudentPass": {
+    "page": 15,
+    "universities": [
+      "Murdoch University",
+      "University College Dublin",
+      "Northumbria University",
+      "University of Portsmouth"
+    ],
+    "verbatimQuote": "在Kaplan新加坡，我们有4所合作大学，这4所合作大学颁发的文凭与大学本部颁发的证书完全一致。"
+  },
+  "entryRequirements": {
+    "page": 53,
+    "items": [
+      {
+        "requirement": "Pass all 8 diploma modules",
+        "verbatimQuote": "通过8门文凭课程考试"
+      },
+      {
+        "requirement": "Aged 18 or over (born in 2008 or earlier); under-18 applicants may apply, subject to university approval",
+        "verbatimQuote": "年满18周岁*（2008 年或之前出生）"
+      }
+    ],
+    "applyAt": {
+      "url": "https://apply-intl.kaplan.com.sg/",
+      "page": 54,
+      "verbatimQuote": "在申请截止日期之前填写网上申请系统"
+    },
+    "processStages": {
+      "page": 55,
+      "stages": [
+        "Attend DED",
+        "Submit form before deadline",
+        "Take exam / submit assignment",
+        "Results out",
+        "Pass all 8 diploma subjects (otherwise remodule / supplementary exam / assignment)",
+        "University application form processing",
+        "Letter of offer and contract out",
+        "Student pass application results out",
+        "Pay 1st instalment"
+      ]
+    }
+  },
+  "universities": [
+    {
+      "university": "Murdoch University",
+      "pages": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        61,
+        88,
+        89,
+        90
+      ],
+      "programmes": "Single and double majors in business, communication, IT, data analytics, psychology and criminology (pp.19–29)",
+      "intake": {
+        "date": "2026-04-28",
+        "verbatimQuote": "开学日期 : 2026年4月28日",
+        "page": 18
+      },
+      "applicationDeadline": {
+        "date": "2026-03-20",
+        "verbatimQuote": "申请截止日期 : 2026年3月20日",
+        "page": 18,
+        "status": "passed"
+      },
+      "duration": {
+        "months": [
+          20,
+          36
+        ],
+        "verbatimQuote": "学习时长： 20个月- 36个月，视专业, 桥梁课 和 课程安排而定",
+        "page": 18
+      },
+      "feeWaiver": {
+        "amount": 1000,
+        "currency": "SGD",
+        "status": "expired",
+        "verbatimQuote": "$1000 学费减免优惠 (减免将在第二其学费扣) , 桥梁费用豁免 (仅限第一次）",
+        "page": 18
+      },
+      "fees2026": {
+        "page": 61,
+        "currency": "SGD",
+        "verbatimNote": "所有费用将分两次支付",
+        "rows": [
+          {
+            "programme": "双专业商学士学位课程（16个科目*）",
+            "courseFee": [
+              34182.4
+            ],
+            "adminFee": 1253.5,
+            "totalPrinted": [
+              34345.9
+            ]
+          },
+          {
+            "programme": "双专业传媒学士学位课程（17-18个科目）",
+            "courseFee": [
+              36318.8,
+              38455.2
+            ],
+            "adminFee": 1253.5,
+            "totalPrinted": [
+              36482.3,
+              38618.7
+            ]
+          },
+          {
+            "programme": "犯罪学学士学位课程（单专业）",
+            "courseFee": [
+              34182.4
+            ],
+            "adminFee": 1253.5,
+            "totalPrinted": [
+              34345.9
+            ]
+          },
+          {
+            "programme": "双专业信息技术学士学位课程/数据分析学士学位课程商业智能 (新)（16/17个科目）",
+            "courseFee": [
+              34182.4,
+              36318.8
+            ],
+            "adminFee": 1253.5,
+            "totalPrinted": [
+              34345.9,
+              36482.3
+            ]
+          },
+          {
+            "programme": "单/双专业心理学文学士学位课程（16-21个科目）",
+            "courseFee": [
+              34182.4,
+              44864.4
+            ],
+            "adminFee": 1253.5,
+            "totalPrinted": [
+              34345.9,
+              45027.4
+            ]
+          }
+        ],
+        "flag": "totalPrinted ≠ courseFee + adminFee"
+      },
+      "textbooks": {
+        "perModule": 90,
+        "currency": "SGD",
+        "verbatimQuote": "莫多克大学 — 平均每个科目90新币",
+        "page": 65
+      },
+      "bridging": {
+        "pages": [
+          18,
+          26,
+          88,
+          89,
+          90
+        ],
+        "feePerUnit": {
+          "amount": 545,
+          "currency": "SGD",
+          "verbatimQuote": "The cost of each bridging unit is S$545 which is excluded from the programme fees."
+        },
+        "waiver2026": "2026 年的衔接课程费用将予以豁免；但学生仍需先行缴付该费用，相关衔接费用总额将于最后一期付款中扣除",
+        "types": [
+          "Pre-requisite bridging: A student is required to complete and pass the bridging unit before progressing to a core unit during their trimester.",
+          "Graduation requirement: A student only needs to complete and pass the bridging unit any time before graduation as it is not required for progression to any core unit."
+        ],
+        "schedule": "Please note that bridging is typically conducted on 2 weekends (Saturday and Sunday) from 9am to 6pm and would consist of assignments and exam.",
+        "load": "you will need to take a minimum of 1 core unit with a maximum of 4 core/bridging units per trimester.",
+        "exemptionCaveat": {
+          "verbatimQuote": "文凭期间有豁免的学生可能没有资格参加此课程",
+          "page": 18
+        },
+        "itNote": {
+          "verbatimQuote": "非计算机大专的学生得修一门桥梁可，过了才符合入学要求。（不可以申请5月开课）",
+          "page": 26
+        },
+        "laptopNote": {
+          "verbatimQuote": "Use of a laptop is required for all Murdoch BIT programmes.",
+          "page": 26
+        }
+      },
+      "accreditationNote": {
+        "verbatimQuote": "(Up to 9 modules ACCA Exemptions; Up to 6 CPA Exemptions)",
+        "page": 19,
+        "appliesTo": "Accounting double majors"
+      },
+      "orientation": {
+        "date": "2026-04-28",
+        "page": 71
+      }
+    },
+    {
+      "university": "Northumbria University",
+      "pages": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        62,
+        72
+      ],
+      "programmes": [
+        {
+          "name": "BSc (Hons) Global Business Management",
+          "offered": true
+        },
+        {
+          "name": "BSc (Hons) International Tourism, Hospitality and Events",
+          "offered": true
+        },
+        {
+          "name": "BSc (Hons) Global Business Management (Human Resource)",
+          "offered": false,
+          "note": "struck through in the deck"
+        },
+        {
+          "name": "BSc (Hons) Global Business Management (Logistics and Supply Chain)",
+          "offered": false,
+          "note": "struck through in the deck"
+        },
+        {
+          "name": "BA (Hons) Mass Communication with Public Relations",
+          "offered": true
+        }
+      ],
+      "intakes": [
+        {
+          "programmes": "BSc (Hons)",
+          "date": "2026-09 (mid)",
+          "verbatimQuote": "开学日期：2026年9 月中",
+          "deadline": "2026-03-30",
+          "deadlineQuote": "申请截止日期：2026年3月30日",
+          "status": "passed"
+        },
+        {
+          "programmes": "BA (Hons) Mass Communication with Public Relations",
+          "date": "2026-05-07",
+          "verbatimQuote": "开学日期：2026年5月7日",
+          "deadline": "2026-03-20",
+          "deadlineQuote": "申请截止日期：2026年3月20日",
+          "status": "passed"
+        }
+      ],
+      "duration": {
+        "months": 16,
+        "modules": 11,
+        "verbatimQuote": "学习周期：16个月（11个科目）",
+        "page": 36
+      },
+      "feeWaiver": {
+        "amount": 7000,
+        "currency": "SGD",
+        "status": "expired",
+        "verbatimQuote": "$7000 学费减免优惠 (减免将在第二其学费扣)",
+        "page": 62
+      },
+      "fees2026": {
+        "page": 62,
+        "currency": "SGD",
+        "rows": [
+          {
+            "programme": "All Northumbria programmes above",
+            "courseFee": [
+              29528.1
+            ],
+            "adminFee": 1253.5,
+            "resourceFee": 109,
+            "totalPrinted": [
+              23260.6
+            ]
+          }
+        ],
+        "flag": "totalPrinted ≠ courseFee + adminFee + resourceFee"
+      },
+      "textbooks": {
+        "perModule": 80,
+        "currency": "SGD",
+        "page": 65
+      },
+      "visaNote": {
+        "verbatimQuote": "完成在线课程再申请本科学位课程的学生，由于签证原因，有可能会错过几节本科的课程",
+        "page": 36
+      },
+      "coreModules": {
+        "page": 37,
+        "items": [
+          "就业技能/技巧",
+          "企业管理研究与分析",
+          "策略思考",
+          "管理调研",
+          "国际管理中的战略框架和文化环境"
+        ]
+      }
+    },
+    {
+      "university": "University College Dublin",
+      "pages": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        63,
+        71
+      ],
+      "programme": "Bachelor of Business Studies (Honours) (Top-up)",
+      "specialisations": [
+        "Business Analytics",
+        "Digital Business",
+        "FinTech",
+        "Finance",
+        "Management",
+        "Marketing",
+        "Logistics and Supply Chain Management",
+        "Human Resource Management"
+      ],
+      "trendingInDeck": [
+        "Business Analytics",
+        "Digital Business",
+        "FinTech",
+        "Human Resource Management"
+      ],
+      "intake": {
+        "date": "2026-05-11",
+        "verbatimQuote": "开学日期：2026年5月11日",
+        "page": 44
+      },
+      "applicationDeadline": {
+        "date": "2026-03-20",
+        "verbatimQuote": "申请截止日期：2026年3月20日",
+        "page": 44,
+        "status": "passed"
+      },
+      "duration": {
+        "months": 18,
+        "modules": 12,
+        "verbatimQuote": "学习时长：18个月（12个科目）",
+        "page": 44
+      },
+      "fees2026": {
+        "page": 63,
+        "currency": "SGD",
+        "rows": [
+          {
+            "programme": "商学士（荣誉）学位课程（大二-大三课程）, all specialisations",
+            "courseFee": [
+              42837
+            ],
+            "adminFee": 1253.5,
+            "resourceFee": 109,
+            "totalPrinted": [
+              44199.5
+            ]
+          }
+        ]
+      },
+      "textbooks": {
+        "perModule": 80,
+        "currency": "SGD",
+        "page": 65
+      },
+      "residentFaculty": {
+        "verbatimQuote": "University College Dublin (UCD) has resident faculty based in Kaplan to support students’ academic journey and help ensure a high standard of programme delivery.",
+        "page": 43
+      },
+      "reportingDay": "2026-05-11",
+      "orientation": "2026-05-14",
+      "coreModules": {
+        "page": 45,
+        "items": [
+          "企业和竞争战略",
+          "数字商务",
+          "经济与市场创新",
+          "数字时代的营销",
+          "运营管理",
+          "金融原理",
+          "组织和工作的未来 (*金融和金融科技不必修）",
+          "工作人员管理"
+        ]
+      },
+      "specialisationModules": {
+        "pages": [
+          46,
+          47
+        ],
+        "Business Analytics": [
+          "分析建模",
+          "商务分析",
+          "面向决策者的数据分析",
+          "编程概论"
+        ],
+        "Finance": [
+          "衍生证券",
+          "金融和金融机构",
+          "投资和投资组合管理",
+          "企业金融",
+          "金融数据分析"
+        ],
+        "FinTech": [
+          "网络安全",
+          "商务分析",
+          "金融和金融机构",
+          "机器学习入门",
+          "金融数据分析"
+        ],
+        "Digital Business": [
+          "网络安全",
+          "面向决策者的数据分析",
+          "数字商务基础设施和应用",
+          "数字商务和社交媒体战略"
+        ],
+        "Logistics & Supply Chain Management": [
+          "全球物流",
+          "供应链管理的项目管理",
+          "供应链管理",
+          "供应链规划与控制"
+        ],
+        "Marketing": [
+          "数字时代的品牌建设",
+          "数字营销实践",
+          "全球战略营销",
+          "整合数字营销传播"
+        ],
+        "Management": [
+          "创业与创新",
+          "全球商务",
+          "领导力与变更管理",
+          "管理谈判过程"
+        ],
+        "Human Resource Management": [
+          "国际人力资源管理",
+          "员工健康与包容",
+          "人力资源技术、分析与数字化创新",
+          "人才管理"
+        ]
+      }
+    },
+    {
+      "university": "University of Portsmouth",
+      "pages": [
+        48,
+        49,
+        50,
+        51,
+        64,
+        72
+      ],
+      "programmes": [
+        {
+          "name": "BA (Hons) Accountancy and Financial Management (Top-up)",
+          "duration": {
+            "months": 18,
+            "modules": 12
+          }
+        },
+        {
+          "name": "BSc (Hons) Data Science and Analytics (Top-up)",
+          "duration": {
+            "months": 18,
+            "modules": 11
+          }
+        }
+      ],
+      "intakes": {
+        "dates": [
+          "2026-06 (mid)",
+          "2026-12 (mid)"
+        ],
+        "verbatimQuote": "开学日期：2026年6月中 / 2026年12月中",
+        "page": 49
+      },
+      "applicationDeadline": {
+        "date": "2026-03-30",
+        "verbatimQuote": "申请截止日期：2026年3月30日",
+        "page": 49,
+        "status": "passed"
+      },
+      "bridging": {
+        "verbatimQuote": "学生可能被要求完成相关衔接课程（各545.00新币）以达到埃塞克斯大学学术要求",
+        "page": 49,
+        "flag": "names the University of Essex: likely a template error"
+      },
+      "feeWaiver": {
+        "amount": 9700,
+        "currency": "SGD",
+        "status": "expired",
+        "verbatimQuote": "$9700 学费减免优惠 (减免将在第二其学费扣)",
+        "page": 64
+      },
+      "fees2026": {
+        "page": 64,
+        "currency": "SGD",
+        "rows": [
+          {
+            "programme": "Both Portsmouth programmes above",
+            "courseFee": [
+              30193
+            ],
+            "adminFee": 1253.5,
+            "resourceFee": 109,
+            "totalPrinted": [
+              20983.5
+            ]
+          }
+        ],
+        "flag": "totalPrinted ≠ courseFee + adminFee + resourceFee"
+      },
+      "textbooks": {
+        "perModule": 80,
+        "currency": "SGD",
+        "page": 65
+      },
+      "modules": {
+        "Accountancy and Financial Management": {
+          "page": 50,
+          "items": [
+            "会计软件和系统",
+            "高级财务报告",
+            "高级全球财务管理",
+            "审计",
+            "商法",
+            "金融投资项目",
+            "金融管理",
+            "财务报告",
+            "独立性学习",
+            "管理会计",
+            "战略管理会计",
+            "税收"
+          ]
+        },
+        "Data Science and Analytics": {
+          "page": 51,
+          "items": [
+            "应用机器学习和数据挖掘",
+            "大数据",
+            "商务分析",
+            "数据结构和算法",
+            "数据库原理",
+            "道德黑客",
+            "物联网",
+            "恶意软件取证",
+            "数据科学领域的开放式创新",
+            "软件工程理论和实践",
+            "项目课程（个人项目（工程）或最后一年的研究项目）"
+          ]
+        }
+      }
+    }
+  ],
+  "murdochDirectEntry": {
+    "note": "\"Best-Fit\" pages: Kaplan diplomas with direct entry to Murdoch degrees and \"NO BRIDGING!\". Diploma names are as printed in the deck, which uses the older \"Diploma in Business Management (…)\" naming.",
+    "pathways": [
+      {
+        "page": 30,
+        "diploma": "Diploma in Business Management (Finance and Banking)",
+        "degrees": [
+          "Bachelor of Business in Accounting and Banking",
+          "Bachelor of Business in Accounting and Business Law",
+          "Bachelor of Business in Accounting and Finance",
+          "Bachelor of Business in Accounting and Human Resource Management",
+          "Bachelor of Business in Accounting and International Business",
+          "Bachelor of Business in Accounting and Management",
+          "Bachelor of Business in Accounting and Marketing",
+          "Bachelor of Business in Banking and Business Law",
+          "Bachelor of Business in Banking and Finance",
+          "Bachelor of Business in Banking and Human Resource Management",
+          "Bachelor of Business in Banking and International Business",
+          "Bachelor of Business in Banking and Management",
+          "Bachelor of Business in Banking and Marketing",
+          "Bachelor of Business in Finance and Business Law",
+          "Bachelor of Business in Finance and Management",
+          "Bachelor of Business in Finance and Marketing",
+          "Bachelor of Business in Human Resource Management and Finance"
+        ],
+        "trending": [
+          "Bachelor of Business in Banking and Finance",
+          "Bachelor of Business in Accounting and Banking",
+          "Bachelor of Business in Accounting and Finance"
+        ]
+      },
+      {
+        "page": 31,
+        "diploma": "Diploma in Information Technology",
+        "degrees": [
+          "Bachelor of Information Technology in Artificial intelligence and Autonomous Systems and Business Information System",
+          "Bachelor of Information Technology in Artificial intelligence and Autonomous Systems and Computer Science",
+          "Bachelor of Information Technology in Business Information System and Computer Science"
+        ],
+        "trending": [
+          "Bachelor of Information Technology in Business Information System and Computer Science"
+        ]
+      },
+      {
+        "page": 32,
+        "diploma": "Diploma in Business Management specialisation programmes (Finance and Banking) (General Studies) (Hospitality and Tourism) (Human Resource) (Logistics and Supply Chain) (Marketing)",
+        "degrees": [
+          "Bachelor of Business in Human Resource Management and Business Law",
+          "Bachelor of Business in Human Resource Management and Management",
+          "Bachelor of Business in Human Resource Management and Marketing",
+          "Bachelor of Business in International Business and Marketing",
+          "Bachelor of Business in Management and Business Law",
+          "Bachelor of Business in Management and International Business",
+          "Bachelor of Business in Management and Marketing"
+        ],
+        "trending": [
+          "Bachelor of Business in Management and International Business",
+          "Bachelor of Business in Management and Marketing"
+        ]
+      },
+      {
+        "page": 33,
+        "diploma": "Diploma in Mass Communication",
+        "degrees": [
+          "Bachelor of Communication in Global Media and Communication and Marketing",
+          "Bachelor of Communication in Global Media and Communication and Strategic Communication",
+          "Bachelor of Communication in Global Media and Communication and Web Communication",
+          "Bachelor of Communication in Strategic Communication and International Business",
+          "Bachelor of Communication in Strategic Communication and Management",
+          "Bachelor of Communication in Strategic Communication and Marketing",
+          "Bachelor of Communication in Web Communication and Management",
+          "Bachelor of Communication in Web Communication and Marketing"
+        ],
+        "trending": [
+          "Bachelor of Communication in Global Media and Communication and Web Communication",
+          "Bachelor of Communication in Web Communication and Marketing"
+        ]
+      },
+      {
+        "page": 34,
+        "diploma": "All Kaplan diplomas",
+        "degrees": [
+          "Bachelor of Arts in Psychology"
+        ],
+        "trending": [
+          "Bachelor of Arts in Psychology"
+        ]
+      }
+    ]
+  },
+  "murdochDoubleMajors": {
+    "pages": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      27,
+      28,
+      29
+    ],
+    "note": "Double-major families as listed in the deck (\"A & B / C / D\" means A paired with B, C or D).",
+    "families": [
+      {
+        "area": "Accounting & Finance",
+        "page": 19,
+        "items": [
+          "Accounting & Banking / Finance / Marketing / Business Law",
+          "Finance & Management / Marketing / Business Law",
+          "Management / Marketing / Business Law (Up to 9 modules ACCA Exemptions; Up to 6 CPA Exemptions)",
+          "Banking & Finance / Management"
+        ]
+      },
+      {
+        "area": "Business, Hospitality & Tourism, Management & Marketing",
+        "page": 20,
+        "items": [
+          "Human Resource Management & Management / Marketing / Business Law",
+          "Management & International Business & Finance / HTM / Management / Marketing / Digital Communication / Human Resource Management",
+          "Marketing / International Business / Business Law",
+          "Marketing & Strategic Communications / International Business / Digital Communication / Business Law",
+          "Hospitality & Tourism Management & Human Resource Management / Management / Marketing"
+        ]
+      },
+      {
+        "area": "Banking, Finance & IT",
+        "page": 21,
+        "items": [
+          "Banking & Business Information Systems",
+          "Banking & Cyber Forensics & Information Security",
+          "Finance & Business Information Systems",
+          "Finance & Cyber Forensics & Information Security"
+        ]
+      },
+      {
+        "area": "Tourism & Events",
+        "page": 22,
+        "items": [
+          "Hospitality & Tourism Management & Tourism & Events",
+          "Management & Tourism & Events",
+          "Marketing & Tourism & Events"
+        ]
+      },
+      {
+        "area": "Media & Communications",
+        "page": 23,
+        "items": [
+          "Communications & Media Studies & Marketing",
+          "Communications & Media Studies & Strategic Communications",
+          "Communications & Media Studies & Digital Communication",
+          "Digital Communication & Communications & Media Studies",
+          "Digital Communication & Management",
+          "Digital Communication & Marketing",
+          "Digital Communication & Strategic Communications"
+        ]
+      },
+      {
+        "area": "Tourism & Events (communication)",
+        "page": 24,
+        "items": [
+          "Strategic Communications & Tourism & Events",
+          "Communications & Media Studies & Tourism & Events",
+          "Digital Communication & Tourism & Events"
+        ]
+      },
+      {
+        "area": "Psychology",
+        "page": 25,
+        "items": [
+          "Psychological Science & Communications & Media Studies",
+          "Psychological Science & Human Resource Management",
+          "Psychological Science & Management",
+          "Psychological Science & Marketing",
+          "Psychological Science & Digital Communication"
+        ]
+      },
+      {
+        "area": "Data Analytics (new)",
+        "page": 26,
+        "items": [
+          "Bachelor of Data Analytics - Major in Business Intelligence & Artificial Intelligence and Autonomous Systems",
+          "Bachelor of Data Analytics - Major in Business Intelligence & Business Information System"
+        ]
+      },
+      {
+        "area": "IT",
+        "page": 27,
+        "items": [
+          "Artificial Intelligence and Autonomous Systems & Business Information Systems / Computer Science",
+          "Business Information Systems & Computer Science / Management",
+          "Cyber Security & Forensics & Computer Science / Business Information Systems / Management / Criminology"
+        ]
+      },
+      {
+        "area": "Criminology",
+        "pages": [
+          28,
+          29
+        ],
+        "items": [
+          "Bachelor of IT in Cyber Security & Forensics & Criminology",
+          "Bachelor of Psychology in Psychological Science & Criminology",
+          "Bachelor of Business Studies in Business Law & Criminology",
+          "Accounting & Criminology",
+          "Finance & Criminology",
+          "Management & Criminology"
+        ]
+      }
+    ]
+  },
+  "kaplanGraduateSurvey": {
+    "page": 12,
+    "survey": "2021/22 Kaplan Graduate Employment Survey, conducted by Nexus Link Pte Ltd (graduates June 2021 – February 2022)",
+    "respondents": {
+      "fullTime": 567,
+      "partTime": 1475
+    },
+    "comparability": "The deck states this survey differs from the SSG/CPE Graduate Employment Survey and may not be comparable with it, because the sample sizes differ.",
+    "comparabilityQuote": "这项调查与新加坡私立教育理事会，精深技能发展局（SSG/CPE）进行的调查不同。因此，由于两项调查的样本量范围存在一些差异，SSG/CPE毕业生就业调查可能与本次调查没有可比性。",
+    "figures": [
+      {
+        "value": "90%",
+        "claim": "的毕业生在毕业后6个月内找到工作",
+        "base": "全日制和非全日制文凭（大一）以及外部课程毕业生（全职和兼职就业+创业+自由职业+寻求就业人员）数量"
+      },
+      {
+        "value": ">50%",
+        "claim": "的就业毕业生在毕业后2个月内获得全职工作",
+        "base": "全日制文凭（大一）和外部课程毕业生（全职和兼职就业+创业+自由职业每周工作35小时或以上）数量"
+      },
+      {
+        "value": "~80%",
+        "claim": "的毕业生认为Kaplan就业能力服务提高了他们在相关领域获得工作面试的机会",
+        "base": "参加过Kaplan就业服务的全日制文凭（大一）和外部课程毕业生"
+      },
+      {
+        "value": ">60%",
+        "claim": "的毕业生认为Kaplan的就读经历帮助其实现了加薪",
+        "base": "非全日制文凭（大一）+外部课程毕业生（全职就业+创业+自由职业每周工作35小时或以上）"
+      },
+      {
+        "value": "~40%",
+        "claim": "的毕业生认为Kaplan的就读经历帮助其获得了晋升",
+        "base": "同上"
+      }
+    ],
+    "displayDecision": "Stored for reference; not plotted against the official SWDA PEI GES figures (decided 2026-10-18)."
+  },
+  "institutionFacts": {
+    "page": 7,
+    "items": [
+      {
+        "claim": "450+ academic and certificate programmes",
+        "verbatimQuote": "超过 450 学术课程及证书课程可供选择"
+      },
+      {
+        "claim": "100,000+ diploma, bachelor's and master's graduates (2007–2022)",
+        "verbatimQuote": "超过 100,000 文凭（大一）、本科及硕士学位毕业生"
+      },
+      {
+        "claim": "Students from 55+ countries and regions",
+        "verbatimQuote": "学生来自超过 55 国家及地区"
+      },
+      {
+        "claim": "94%+ of graduates would recommend Kaplan",
+        "verbatimQuote": "超过 94% 的毕业生将会向其他人推荐Kaplan"
+      },
+      {
+        "claim": "EduTrust certified, Cert No. EDU-2-2023, valid 20/11/2023–19/11/2027",
+        "verbatimQuote": "Cert No. EDU-2-2023 Validity: 20/11/2023-19/11/2027"
+      }
+    ],
+    "registrationNote": "Page 7 lists SSG/CPE registration validity to 19 May 2026 (Kaplan Higher Education Academy, 199409389H) and 16 Aug 2026 (Kaplan Higher Education Institute, 198600044N); both dates are before 2026-10-18, so check current registration on the CPE register before quoting."
+  },
+  "graduateEmployers": {
+    "page": 13,
+    "source": "2021/22年度Kaplan毕业生就业调查",
+    "names": [
+      "新加坡3M科技公司",
+      "新加坡科技研究局",
+      "埃森哲",
+      "亚马逊",
+      "苹果南亚分公司",
+      "嘉德置地",
+      "旋转拍卖",
+      "樟宜机场集团",
+      "樟宜综合医院",
+      "花旗银行",
+      "公积金理事会",
+      "德勤",
+      "道琼斯公司",
+      "新加坡国防科技局",
+      "戴森",
+      "谷歌",
+      "葛兰素史克",
+      "新加坡保健促进局",
+      "新加坡家庭科学与技术团队",
+      "新加坡国内税务局",
+      "毕马威会计师事务所",
+      "新加坡陆路交通管理局",
+      "来赞达",
+      "路易威登集团",
+      "新加坡滨海湾金沙酒店",
+      "万豪国际",
+      "新传媒",
+      "微软",
+      "新加坡教育部",
+      "新加坡外交部",
+      "新加坡法律部",
+      "新加坡人力部",
+      "新加坡社会及家庭发展部",
+      "新加坡金融管理局",
+      "耐克公司",
+      "新加坡华侨银行",
+      "宝洁公司",
+      "普华永道",
+      "新加坡劳斯莱斯",
+      "回声星通信",
+      "胜科海事",
+      "虾皮",
+      "新加坡航空",
+      "新加坡科技宇航有限公司",
+      "渣打银行",
+      "丽思卡尔顿酒店",
+      "华特迪士尼公司",
+      "TikTok",
+      "Twitch",
+      "新加坡瑞士银行",
+      "维萨"
+    ],
+    "namesEn": [
+      "3M Singapore",
+      "A*STAR (Agency for Science, Technology and Research)",
+      "Accenture",
+      "Amazon",
+      "Apple South Asia",
+      "CapitaLand",
+      "Carousell",
+      "Changi Airport Group",
+      "Changi General Hospital",
+      "Citibank",
+      "CPF Board",
+      "Deloitte",
+      "Dow Jones",
+      "DSTA (Defence Science and Technology Agency)",
+      "Dyson",
+      "Google",
+      "GSK",
+      "Health Promotion Board",
+      "HTX (Home Team Science and Technology Agency)",
+      "IRAS (Inland Revenue Authority of Singapore)",
+      "KPMG",
+      "Land Transport Authority",
+      "Lazada",
+      "LVMH",
+      "Marina Bay Sands",
+      "Marriott International",
+      "Mediacorp",
+      "Microsoft",
+      "Ministry of Education",
+      "Ministry of Foreign Affairs",
+      "Ministry of Law",
+      "Ministry of Manpower",
+      "Ministry of Social and Family Development",
+      "Monetary Authority of Singapore",
+      "Nike",
+      "OCBC Bank",
+      "Procter & Gamble",
+      "PwC",
+      "Rolls-Royce Singapore",
+      "EchoStar",
+      "Sembcorp Marine (now Seatrium)",
+      "Shopee",
+      "Singapore Airlines",
+      "ST Aerospace (ST Engineering)",
+      "Standard Chartered",
+      "The Ritz-Carlton",
+      "The Walt Disney Company",
+      "TikTok",
+      "Twitch",
+      "UBS Singapore",
+      "Visa"
+    ],
+    "namesEnNote": "English names matched to the deck's Chinese names by Kaplan 360++ (same order). Sembcorp Marine was renamed Seatrium in 2023; the deck's name is kept."
+  },
+  "scholarship": {
+    "page": 84,
+    "awards": [
+      {
+        "place": 1,
+        "amount": 10000
+      },
+      {
+        "place": 2,
+        "amount": 7500
+      },
+      {
+        "place": 3,
+        "amount": 5000
+      }
+    ],
+    "currency": "SGD",
+    "criteria": [
+      "所有课程的出勤率必须达到90%或以上",
+      "所有课程考试必须一次通过",
+      "所有课程平均分数达到85分",
+      "学生在完成Kaplan文凭（大一）课程后需衔接合作大学的学士学位课程，或学生完成Kaplan合作大学的学士学位课程后攻读Kaplan合作大学的硕士学位课程",
+      "学生已缴付入学课程的第一期学费"
+    ],
+    "use": "上述奖学金数额将用来抵扣学生所注册的学士或硕士学位课程学费。"
+  },
+  "refundPolicy": {
+    "pages": [
+      68,
+      69,
+      70
+    ],
+    "withdrawalRefund": [
+      {
+        "refund": "80%",
+        "when": "more than 45 working days before the Course Commencement Date"
+      },
+      {
+        "refund": "50%",
+        "when": "on or before, but not more than 45 working days before the Course Commencement Date"
+      },
+      {
+        "refund": "0%",
+        "when": "after, but not more than 1 working day after the Course Commencement Date"
+      },
+      {
+        "refund": "0%",
+        "when": "more than 1 working day after the Course Commencement Date"
+      }
+    ],
+    "coolingOff": "Kaplan高等教育学院为学生提供冷静期，即双方签订合同之后的七（7）个工作日。",
+    "courseNotStarting": "如果学生决定退学，应在上述通知发出后的七（7）个工作日内，以书面形式通知学生其他学习安排（如有），学生同时有权要求退还已经支付的全部课程费和杂费。"
+  },
+  "studentPass": {
+    "pages": [
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "items": [
+      "请检查你的学生证到期日期。请在你的学生准证到期前1个月取消你的学生准证。",
+      "需要参加补考或重修科目的学生应与PM取得联系，了解日程安排，并在必要时进行学生准证更新。",
+      "一旦我们确认你已经成功地完成了8个文凭科目，我们的工作人员将会为你更新学生准证。",
+      "在新加坡，如果没有外国人力法案（Cap.91A）颁发的有效的工作签证，学生不允许在任何行业，任何职业内有任何形式的就业行为，无论带薪或者不带薪。",
+      "在新加坡逾期居留是一项严重的罪行。"
+    ],
+    "visitPassExtension": {
+      "url": "https://eservices.ica.gov.sg/esvclandingpage/extend",
+      "page": 77
+    },
+    "contactNote": "Page 73 gives a generic Kaplan diploma mailbox for cancelling the Student's Pass; staff personal contacts on page 87 are not transcribed."
+  },
+  "reportingAndOrientation": {
+    "pages": [
+      71,
+      72
+    ],
+    "rows": [
+      {
+        "university": "University College Dublin",
+        "reportingDay": "2026-05-11",
+        "orientation": "2026-05-14"
+      },
+      {
+        "university": "Murdoch University",
+        "reportingDay": null,
+        "orientation": "2026-04-28"
+      },
+      {
+        "university": "Northumbria University",
+        "reportingDay": "2026-09 (mid) / 2026-05-04",
+        "orientation": "2026-09 (late) / 2026-05-07"
+      },
+      {
+        "university": "University of Portsmouth",
+        "reportingDay": "2026-06 (mid) / 2026-12 (mid)",
+        "orientation": "2026-06 (3rd week) / 2026-12 (3rd week)"
+      }
+    ],
+    "rules": [
+      "Attendance is compulsory.",
+      "Contract must be signed and fees paid before Reporting Day."
+    ]
+  },
+  "otherInfo": {
+    "page": 83,
+    "items": [
+      "私立教育理事会(CPE)",
+      "学费保护计划(FPS)",
+      "标准学生合同"
+    ],
+    "url": "https://www.ssg.gov.sg/cpe/pei.html"
+  }
+}

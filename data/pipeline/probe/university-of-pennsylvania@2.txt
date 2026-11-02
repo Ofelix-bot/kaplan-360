@@ -1,0 +1,104 @@
+# university-of-pennsylvania@2 https://catalog.upenn.edu
+robots sitemaps: https://catalog.upenn.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 106654 · master's-looking 785
+  343  catalog.upenn.edu/graduate/programs
+         https://catalog.upenn.edu/graduate/programs/accounting-mba/
+         https://catalog.upenn.edu/graduate/programs/accounting-phd/
+         https://catalog.upenn.edu/graduate/programs/adult-gerontology-acute-care-np-msn/
+         https://catalog.upenn.edu/graduate/programs/adult-gerontology-primary-care-np-msn/
+  323  catalog.upenn.edu/undergraduate/programs
+         https://catalog.upenn.edu/undergraduate/programs/accounting-bs/
+         https://catalog.upenn.edu/undergraduate/programs/africana-studies-african-american-ba/
+         https://catalog.upenn.edu/undergraduate/programs/africana-studies-african-diaspora-ba/
+         https://catalog.upenn.edu/undergraduate/programs/africana-studies-african-studies-ba/
+   22  catalog.upenn.edu/undergraduate/academic-resources
+         https://catalog.upenn.edu/undergraduate/academic-resources/advising/
+         https://catalog.upenn.edu/undergraduate/academic-resources/calendar/
+         https://catalog.upenn.edu/undergraduate/academic-resources/career-services/
+         https://catalog.upenn.edu/undergraduate/academic-resources/community-engagement/
+   17  catalog.upenn.edu/graduate
+         https://catalog.upenn.edu/graduate/academic-resources/
+         https://catalog.upenn.edu/graduate/annenberg-communication/
+         https://catalog.upenn.edu/graduate/arts-sciences/
+         https://catalog.upenn.edu/graduate/dental-medicine/
+   10  catalog.upenn.edu/undergraduate
+         https://catalog.upenn.edu/undergraduate/academic-resources/
+         https://catalog.upenn.edu/undergraduate/arts-sciences/
+         https://catalog.upenn.edu/undergraduate/engineering-applied-science/
+         https://catalog.upenn.edu/undergraduate/
+    8  catalog.upenn.edu/graduate/academic-resources/advising-mentoring
+         https://catalog.upenn.edu/graduate/academic-resources/advising-mentoring/appendix-a/
+         https://catalog.upenn.edu/graduate/academic-resources/advising-mentoring/appendix-b/
+         https://catalog.upenn.edu/graduate/academic-resources/advising-mentoring/conflict-resolution/
+         https://catalog.upenn.edu/graduate/academic-resources/advising-mentoring/dissertation-advisor/
+    6  catalog.upenn.edu/undergraduate/arts-sciences
+         https://catalog.upenn.edu/undergraduate/arts-sciences/academic-opportunities/
+         https://catalog.upenn.edu/undergraduate/arts-sciences/advising/
+         https://catalog.upenn.edu/undergraduate/arts-sciences/curriculum/
+         https://catalog.upenn.edu/undergraduate/arts-sciences/liberal-professional-studies/
+    6  catalog.upenn.edu/undergraduate/policies-procedures
+         https://catalog.upenn.edu/undergraduate/policies-procedures/course-exam/
+         https://catalog.upenn.edu/undergraduate/policies-procedures/grade-gpa/
+         https://catalog.upenn.edu/undergraduate/policies-procedures/graduation/
+         https://catalog.upenn.edu/undergraduate/policies-procedures/leaves-absence/
+    5  catalog.upenn.edu/graduate/academic-resources
+         https://catalog.upenn.edu/graduate/academic-resources/academic-calendar/
+         https://catalog.upenn.edu/graduate/academic-resources/advising-mentoring/
+         https://catalog.upenn.edu/graduate/academic-resources/graduate-group-feedback-form/
+         https://catalog.upenn.edu/graduate/academic-resources/graduation/
+    5  catalog.upenn.edu/undergraduate/nursing
+         https://catalog.upenn.edu/undergraduate/nursing/academic-opportunities/
+         https://catalog.upenn.edu/undergraduate/nursing/curriculum/
+         https://catalog.upenn.edu/undergraduate/nursing/majors/
+         https://catalog.upenn.edu/undergraduate/nursing/minors/
+    4  catalog.upenn.edu/pennbook
+         https://catalog.upenn.edu/pennbook/academic-rules-research-masters/
+         https://catalog.upenn.edu/pennbook/evaluation-certification-english-fluency-undergraduate-instructional-personnel/
+         https://catalog.upenn.edu/pennbook/recognition-governance-undergraduate-social-fraternities-sororities/
+         https://catalog.upenn.edu/pennbook/undergraduates-in-research/
+    4  catalog.upenn.edu/undergraduate/academic-resources/scholars
+         https://catalog.upenn.edu/undergraduate/academic-resources/scholars/benjamin-frankin-scholars/
+         https://catalog.upenn.edu/undergraduate/academic-resources/scholars/civic-scholars/
+         https://catalog.upenn.edu/undergraduate/academic-resources/scholars/snf-paideia-fellows-program/
+         https://catalog.upenn.edu/undergraduate/academic-resources/scholars/university-scholars/
+    4  catalog.upenn.edu/undergraduate/arts-sciences/curriculum
+         https://catalog.upenn.edu/undergraduate/arts-sciences/curriculum/general-education/foundational/
+         https://catalog.upenn.edu/undergraduate/arts-sciences/curriculum/general-education/
+         https://catalog.upenn.edu/undergraduate/arts-sciences/curriculum/general-education/sectors/
+         https://catalog.upenn.edu/undergraduate/arts-sciences/curriculum/major/
+    4  catalog.upenn.edu/undergraduate/engineering-applied-science
+         https://catalog.upenn.edu/undergraduate/engineering-applied-science/academic-opportunities/
+         https://catalog.upenn.edu/undergraduate/engineering-applied-science/curriculum/
+         https://catalog.upenn.edu/undergraduate/engineering-applied-science/majors/
+         https://catalog.upenn.edu/undergraduate/engineering-applied-science/minors/
+    4  catalog.upenn.edu/undergraduate/wharton
+         https://catalog.upenn.edu/undergraduate/wharton/academic-opportunities/
+         https://catalog.upenn.edu/undergraduate/wharton/concentrations/
+         https://catalog.upenn.edu/undergraduate/wharton/curriculum/
+         https://catalog.upenn.edu/undergraduate/wharton/minors/
+    3  catalog.upenn.edu/graduate/arts-sciences
+         https://catalog.upenn.edu/graduate/arts-sciences/graduate-division/
+         https://catalog.upenn.edu/graduate/arts-sciences/liberal-professional-studies/
+         https://catalog.upenn.edu/graduate/arts-sciences/programs/
+    3  catalog.upenn.edu/undergraduate/interdisciplinary
+         https://catalog.upenn.edu/undergraduate/interdisciplinary/coordinated-dual-degree/
+         https://catalog.upenn.edu/undergraduate/interdisciplinary/coordinated-submatriculation-programs/
+         https://catalog.upenn.edu/undergraduate/interdisciplinary/university-minors/
+    2  catalog.upenn.edu/graduate/education
+         https://catalog.upenn.edu/graduate/education/policies/
+         https://catalog.upenn.edu/graduate/education/programs/
+    2  catalog.upenn.edu/graduate/policies-procedures
+         https://catalog.upenn.edu/graduate/policies-procedures/academic-withdrawal/
+         https://catalog.upenn.edu/graduate/policies-procedures/leaves-of-absence/
+    1  catalog.upenn.edu/graduate/annenberg-communication
+         https://catalog.upenn.edu/graduate/annenberg-communication/programs/
+    1  catalog.upenn.edu/graduate/dental-medicine
+         https://catalog.upenn.edu/graduate/dental-medicine/programs/
+    1  catalog.upenn.edu/graduate/design
+         https://catalog.upenn.edu/graduate/design/programs/
+    1  catalog.upenn.edu/graduate/engineering-applied-science
+         https://catalog.upenn.edu/graduate/engineering-applied-science/programs/
+    1  catalog.upenn.edu/graduate/law
+         https://catalog.upenn.edu/graduate/law/programs/
+    1  catalog.upenn.edu/graduate/nursing
+         https://catalog.upenn.edu/graduate/nursing/programs/

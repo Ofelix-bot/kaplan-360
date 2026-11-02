@@ -1,0 +1,71 @@
+# university-of-basel https://www.unibas.ch
+robots sitemaps: https://www.unibas.ch/de/sitemap.xml https://www.unibas.ch/en/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 2 · urls 6565 · master's-looking 309
+   79  www.unibas.ch/de/Infoabend-Master/Studienangebot
+         https://www.unibas.ch/de/Infoabend-Master/Studienangebot/Actuarial-Science.html
+         https://www.unibas.ch/de/Infoabend-Master/Studienangebot/African-Studies.html
+         https://www.unibas.ch/de/Infoabend-Master/Studienangebot/Aegyptologie.html
+         https://www.unibas.ch/de/Infoabend-Master/Studienangebot/Alte-Geschichte.html
+   79  www.unibas.ch/en/Infoevening-Master/Degree-Programs
+         https://www.unibas.ch/en/Infoevening-Master/Degree-Programs/Actuarial-Science.html
+         https://www.unibas.ch/en/Infoevening-Master/Degree-Programs/African-Studies.html
+         https://www.unibas.ch/en/Infoevening-Master/Degree-Programs/Aegyptologie.html
+         https://www.unibas.ch/en/Infoevening-Master/Degree-Programs/Alte-Geschichte.html
+   45  www.unibas.ch/de/Universitaet/Administration-Services
+         https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-Lehre/Bildungsangebote/Graduate-Center.html
+         https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-Lehre/Bildungsangebote/Graduate-Center/Doktorierende-und-Postdocs.html
+         https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-Lehre/Bildungsangebote/Graduate-Center/Doktorierende-und-Postdocs/Doktorierende.html
+         https://www.unibas.ch/de/Universitaet/Administration-Services/Vizerektorat-Lehre/Bildungsangebote/Graduate-Center/Doktorierende-und-Postdocs/Doktorierende/Vor-dem-PhD.html
+   45  www.unibas.ch/en/University/Administration-Services
+         https://www.unibas.ch/en/University/Administration-Services/Vice-President-s-Office-for-Education/Academic-Programs/Graduate-Center.html
+         https://www.unibas.ch/en/University/Administration-Services/Vice-President-s-Office-for-Education/Academic-Programs/Graduate-Center/Doctoral-Candidates-and-Postdocs.html
+         https://www.unibas.ch/en/University/Administration-Services/Vice-President-s-Office-for-Education/Academic-Programs/Graduate-Center/Doctoral-Candidates-and-Postdocs/Doctoral-Candidates.html
+         https://www.unibas.ch/en/University/Administration-Services/Vice-President-s-Office-for-Education/Academic-Programs/Graduate-Center/Doctoral-Candidates-and-Postdocs/Doctoral-Candidates/Before-the-PhD.html
+   11  www.unibas.ch/de/Studium/Vor-dem-Studium
+         https://www.unibas.ch/de/Studium/Vor-dem-Studium/Bewerbung-Zulassung/Anmeldung/Masterstudium-ausser-Medizin-und-Pflegewissenschaft.html
+         https://www.unibas.ch/de/Studium/Vor-dem-Studium/Bewerbung-Zulassung/Anmeldung/Masterstudium-ausser-Medizin-und-Pflegewissenschaft/Verspaetete-Anmeldung-zum-Masterstudium-mit-schweizerischem-Hochschulabschluss.html
+         https://www.unibas.ch/de/Studium/Vor-dem-Studium/Bewerbung-Zulassung/Anmeldung/Masterstudium-Pflegewissenschaft.html
+         https://www.unibas.ch/de/Studium/Vor-dem-Studium/Bewerbung-Zulassung/Anmeldung/Masterstudium-Pflegewissenschaft/Verspaetete-Anmeldung-zum-Masterstudium-mit-schweizerischem-Hochschulabschluss.html
+   11  www.unibas.ch/en/Studies/Before-My-Studies
+         https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Application/Master-s-Degree-in-Nursing-Science.html
+         https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Application/Master-s-Degree-in-Nursing-Science/Late-applications-for-master-s-studies-with-swiss-educational-qualifications.html
+         https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Application/Master-studies--except-Medicine-and-Nursing-Science-.html
+         https://www.unibas.ch/en/Studies/Before-My-Studies/Application-Admission/Application/Master-studies--except-Medicine-and-Nursing-Science-/Late-applications-for-master-s-studies-with-swiss-educational-qualifications.html
+   10  www.unibas.ch/de/Aktuell/News
+         https://www.unibas.ch/de/Aktuell/News/Uni-Agenda/Informationsanlass-zum-Masterstudium.html
+         https://www.unibas.ch/de/Aktuell/News/Uni-Agenda/Informationsabend-Masterstudium-an-der-Universitaet-Basel.html
+         https://www.unibas.ch/de/Aktuell/News/Uni-Agenda/Informationsabend-zum-Masterstudium-an-der-Universitaet-Basel.html
+         https://www.unibas.ch/de/Aktuell/News/Uni-Campus/Neuer-Master-in-Biomedical-Engineering.html
+    8  www.unibas.ch/de/Studium/Im-Studium
+         https://www.unibas.ch/de/Studium/Im-Studium/Rueckmelden/Masterstudium.html
+         https://www.unibas.ch/de/Studium/Im-Studium/Campus-Stories/eucor-master.html
+         https://www.unibas.ch/de/Studium/Im-Studium/Campus-Stories/master-changing-societies.html
+         https://www.unibas.ch/de/Studium/Im-Studium/Campus-Stories/master-literaturwissenschaft.html
+    6  www.unibas.ch/de/Infotag-Bachelor/Interdisziplin-re-Masterstudieng-nge
+         https://www.unibas.ch/de/Infotag-Bachelor/Interdisziplin-re-Masterstudieng-nge/Actuarial-Science.html
+         https://www.unibas.ch/de/Infotag-Bachelor/Interdisziplin-re-Masterstudieng-nge/African-Studies.html
+         https://www.unibas.ch/de/Infotag-Bachelor/Interdisziplin-re-Masterstudieng-nge/Biomedical-Engineering.html
+         https://www.unibas.ch/de/Infotag-Bachelor/Interdisziplin-re-Masterstudieng-nge/Educational-Sciences---Fachdidaktik.html
+    4  www.unibas.ch/de/Infoabend-Master
+         https://www.unibas.ch/de/Infoabend-Master/Studienangebot.html
+         https://www.unibas.ch/de/Infoabend-Master/Studierende-sprechen-ueber-ihr-Studium.html
+         https://www.unibas.ch/de/Infoabend-Master/Studieren-in-Basel.html
+         https://www.unibas.ch/de/Infoabend-Master/Leben.html
+    3  www.unibas.ch/en/Infoevening-Master
+         https://www.unibas.ch/en/Infoevening-Master/Degree-Programs.html
+         https://www.unibas.ch/en/Infoevening-Master/Studying-in-Basel.html
+         https://www.unibas.ch/en/Infoevening-Master/Life-in-Basel.html
+    2  www.unibas.ch/en/News-Events/News
+         https://www.unibas.ch/en/News-Events/News/Uni-Campus/New-MBA-in-Finance-at-the-University-of-Basel.html
+         https://www.unibas.ch/en/News-Events/News/Uni-Research/Improved-tiger-mosquito-control-in-Basel-Stadt-thanks-to-a-masters-thesis.html
+    2  www.unibas.ch/en/Studies/In-My-Studies
+         https://www.unibas.ch/en/Studies/In-My-Studies/Semester-Registration/Master-s-Degree-Program-Immediately-Upon-Graduation.html
+         https://www.unibas.ch/en/Studies/In-My-Studies/Semester-Registration/Applying-for-a-Leave-of-Absence-for-Students-in-Bachelor-and-Master-Programs.html
+    1  www.unibas.ch/de
+         https://www.unibas.ch/de/Infoabend-Master.html
+    1  www.unibas.ch/de/Infotag-Bachelor
+         https://www.unibas.ch/de/Infotag-Bachelor/Interdisziplin-re-Masterstudieng-nge.html
+    1  www.unibas.ch/en/News-Events/Awards-Honors
+         https://www.unibas.ch/en/News-Events/Awards-Honors/Article/Computer-science-graduate-Florian-Burkhardt-receives-Fritz-Kutter-Prize.html
+    1  www.unibas.ch/en
+         https://www.unibas.ch/en/Infoevening-Master.html

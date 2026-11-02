@@ -1,0 +1,121 @@
+# case-western-reserve-university@1 https://case.edu
+robots sitemaps: https://case.edu/law/sitemap.xml https://case.edu/academic-careers/sitemap.xml https://case.edu/academicaffairs/sitemap.xml https://case.edu/access-services/sitemap.xml https://case.edu/accessibility/sitemap.xml https://case.edu/aces/sitemap.xml https://case.edu/studentlife/activities/sitemap.xml https://case.edu/administration/sitemap.xml https://case.edu/admission/sitemap.xml https://case.edu/advancementservices/sitemap.xml https://case.edu/alumni/sitemap.xml https://case.edu/medicine/anatomy/sitemap.xml https://case.edu/annualgiving/sitemap.xml https://case.edu/apn/sitemap.xml https://case.edu/assessment/sitemap.xml https://case.edu/auditservices/sitemap.xml https://case.edu/autism/sitemap.xml https://case.edu/medicine/basch-lab/sitemap.xml https://case.edu/socialwork/begun/sitemap.xml https://case.edu/biochemistry/sitemap.xml https://case.edu/medicine/bioethics/sitemap.xml https://case.edu/bot/sitemap.xml https://case.edu/bulletin/sitemap.xml https://case.edu/business-continuity/sitemap.xml https://case.edu/medicine/caml/sitemap.xml https://case.edu/campusplanning/sitemap.xml https://case.edu/campusservices/sitemap.xml https://case.edu/cancer/sitemap.xml https://case.edu/medicine/ccir/sitemap.xml https://case.edu/medicine/cddrcc/sitemap.xml https://case.edu/centerforwomen/sitemap.xml https://case.edu/charitychoice/sitemap.xml https://case.edu/chslibrary/sitemap.xml https://case.edu/studentlife/civicengagement/sitemap.xml https://case.edu/medicine/cme/sitemap.xml https://case.edu/commencement/sitemap.xml https://case.edu/socialwork/communityinnovation/sitemap.xml https://case.edu/compliance/sitemap.xml https://case.edu/conduct/sitemap.xml https://case.edu/controller/sitemap.xml https://case.edu/cps/sitemap.xml https://case.edu/medicine/crsp/sitemap.xml https://case.edu/medicine/csb/sitemap.xml https://case.edu/medicine/ctsc/sitemap.xml https://case.edu/customerservice/sitemap.xml https://case.edu/medicine/cvri/sitemap.xml https://case.edu/datascience/sitemap.xml https://case.edu/dental/sitemap.xml https://case.edu/deputyprovost/sitemap.xml https://case.edu/medicine/dhri/sitemap.xml https://case.edu/dining/sitemap.xml https://case.edu/distance-care/sitemap.xml https://case.edu/diversity/sitemap.xml https://case.edu/donorrelations/sitemap.xml https://case.edu/drupaltraining/sitemap.xml https://case.edu/ech/sitemap.xml https://case.edu/ehs/sitemap.xml https://case.edu/emeriti/sitemap.xml https://case.edu/ems/sitemap.xml https://case.edu/enrollmentmanagement/sitemap.xml https://case.edu/entrepreneurship/sitemap.xml https://case.edu/erpfinancials/sitemap.xml https://case.edu/events/sitemap.xml https://case.edu/facilities/sitemap.xml https://case.edu/medicine/faculty-development-diversity/sitemap.xml https://case.edu/faculty-lifecycle/sitemap.xml https://case.edu/facultydevelopment/sitemap.xml https://case.edu/facultysenate/sitemap.xml https://case.edu/wellness/facultystaff/sitemap.xml https://case.edu/farm/sitemap.xml https://case.edu/finance/sitemap.xml https://case.edu/financialaid/sitemap.xml https://case.edu/financialplanning/sitemap.xml https://case.edu/firstyear/sitemap.xml https://case.edu/fisk/sitemap.xml https://case.edu/medicine/flex/sitemap.xml https://case.edu/studentlife/focus/sitemap.xml https://case.edu/fu-lab/sitemap.xml https://case.edu/generalcounsel/sitemap.xml https://case.edu/medicine/genetics/sitemap.xml https://case.edu/medicine/genomics/sitemap.xml https://case.edu/gfr/sitemap.xml https://case.edu/medicine/globalhealth/sitemap.xml https://case.edu/gradstudies/sitemap.xml https://case.edu/studentlife/graduate/sitemap.xml https://case.edu/studentlife/greek/sitemap.xml https://case.edu/studentlife/healthcounseling/sitemap.xml https://case.edu/medicine/healthintegration/sitemap.xml https://case.edu/housing/sitemap.xml https://case.edu/hr/sitemap.xml https://case.edu/ideal-n/sitemap.xml https://case.edu/inamori/sitemap.xml https://case.edu/industry/sitemap.xml https://case.edu/international/sitemap.xml https://case.edu/investments/sitemap.xml https://case.edu/ipe/sitemap.xml https://case.edu/ir/sitemap.xml https://case.edu/medicine/keri-lab/sitemap.xml https://case.edu/library/sitemap.xml https://case.edu/launchnet/sitemap.xml https://case.edu/lifelonglearning/sitemap.xml https://case.edu/livestream/sitemap.xml https://case.edu/maltzcenter/sitemap.xml https://case.edu/medicine/manor-lab/sitemap.xml https://case.edu/medicine/mcintyre-lab/sitemap.xml https://case.edu/medicine/sitemap.xml https://case.edu/mem/sitemap.xml https://case.edu/medicine/microbio/sitemap.xml https://case.edu/medicine/msa-program/sitemap.xml https://case.edu/medicine/msc/sitemap.xml https://case.edu/studentlife/multicultural/sitemap.xml https://case.edu/mwsdb/sitemap.xml https://case.edu/medicine/ncrm/sitemap.xml https://case.edu/medicine/neurosciences/sitemap.xml https://case.edu/medicine/neurosurgery/sitemap.xml https://case.edu/socialwork/nimc/sitemap.xml https://case.edu/noa-agep/sitemap.xml https://case.edu/nordgreenway/sitemap.xml https://case.edu/nursing/sitemap.xml https://case.edu/medicine/nutrition/sitemap.xml https://case.edu/onetoone/sitemap.xml https://case.edu/online-learning/sitemap.xml https://case.edu/parking/sitemap.xml https://case.edu/medicine/pathology/sitemap.xml https://case.edu/medicine/pbrn/sitemap.xml https://case.edu/pdc/sitemap.xml https://case.edu/medicine/pharmacology/sitemap.xml https://case.edu/medicine/physician-assistant/sitemap.xml https://case.edu/policies/sitemap.xml https://case.edu/postdoc/sitemap.xml https://case.edu/socialwork/povertycenter/sitemap.xml https://case.edu/medicine/prime/sitemap.xml https://case.edu/printing/sitemap.xml https://case.edu/procurement/sitemap.xml https://case.edu/provost/sitemap.xml https://case.edu/provostscholars/sitemap.xml https://case.edu/publicsafety/sitemap.xml https://case.edu/medicine/qil/sitemap.xml https://case.edu/medicine/radiation-oncology/sitemap.xml https://case.edu/medicine/radiology/sitemap.xml https://case.edu/realestate/sitemap.xml https://case.edu/registrar/sitemap.xml https://case.edu/medicine/reproductive-biology/sitemap.xml https://case.edu/research/sitemap.xml https://case.edu/studentlife/residence/sitemap.xml https://case.edu/resource-tech/sitemap.xml https://case.edu/medicine/robbins-bridge/sitemap.xml https://case.edu/sac/sitemap.xml https://case.edu/seniorauditprogram/sitemap.xml https://case.edu/socialjustice/sitemap.xml https://case.edu/socialwork/sitemap.xml https://case.edu/source/sitemap.xml https://case.edu/srhc/sitemap.xml https://case.edu/studentaccounts/sitemap.xml https://case.edu/studentlife/sitemap.xml https://case.edu/studentsuccess/sitemap.xml https://case.edu/summerprograms/sitemap.xml https://case.edu/sustainability/sitemap.xml https://case.edu/swetland/sitemap.xml https://case.edu/medicine/tbru/sitemap.xml https://case.edu/thinkbig/sitemap.xml https://case.edu/studentlife/thwing/sitemap.xml https://case.edu/title-ix/sitemap.xml https://case.edu/tobaccofree/sitemap.xml https://case.edu/training/sitemap.xml https://case.edu/socialwork/traumacenter/sitemap.xml https://case.edu/travel/sitemap.xml https://case.edu/treasurer/sitemap.xml https://case.edu/ucite/sitemap.xml https://case.edu/ugstudies/sitemap.xml https://case.edu/medicine/uhsurgery/sitemap.xml https://case.edu/umc/sitemap.xml https://case.edu/universitycenter/sitemap.xml https://case.edu/universityprofessor/sitemap.xml https://case.edu/medicine/urbanhealth/sitemap.xml https://case.edu/utech/sitemap.xml https://case.edu/medicine/uhsurgery/vascular/sitemap.xml https://case.edu/wcms/sitemap.xml https://case.edu/wellness/sitemap.xml https://case.edu/medicine/wellness-pathway/sitemap.xml https://case.edu/womenintech/sitemap.xml https://case.edu/brand/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemap https://case.edu/aces/sitemap.xml: http HTTP 404
+sitemap https://case.edu/administration/sitemap.xml: http HTTP 404
+sitemap https://case.edu/advancementservices/sitemap.xml: robots disallowed by robots.txt: /cas/login
+sitemap https://case.edu/annualgiving/sitemap.xml: http HTTP 404
+sitemap https://case.edu/business-continuity/sitemap.xml: http HTTP 404
+sitemap https://case.edu/campusplanning/sitemap.xml: http HTTP 404
+sitemap https://case.edu/conduct/sitemap.xml: http HTTP 404
+sitemap https://case.edu/medicine/crsp/sitemap.xml: http HTTP 404
+sitemap https://case.edu/customerservice/sitemap.xml: http HTTP 404
+sitemap https://case.edu/distance-care/sitemap.xml: http HTTP 404
+sitemap https://case.edu/diversity/sitemap.xml: http HTTP 404
+sitemap https://case.edu/donorrelations/sitemap.xml: http HTTP 404
+sitemap https://case.edu/drupaltraining/sitemap.xml: http HTTP 404
+sitemap https://case.edu/medicine/flex/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemap https://case.edu/studentlife/focus/sitemap.xml: http HTTP 404
+sitemap https://case.edu/fu-lab/sitemap.xml: http HTTP 404
+sitemaps read 80 · urls 11463 · master's-looking 211
+   44  case.edu/medicine/genetics/graduate-programs
+         https://case.edu/medicine/genetics/graduate-programs/genetic-counseling-training-program/ms-genetic-counseling/ms-genetic-counseling-courses
+         https://case.edu/medicine/genetics/graduate-programs/functional-genomics-training-program/fgtp-project-lucie-ahn
+         https://case.edu/medicine/genetics/graduate-programs/functional-genomics-training-program/fgtp-project-anniya-gu
+         https://case.edu/medicine/genetics/graduate-programs/functional-genomics-training-program/fgtp-project-margaret-michicich
+   37  case.edu/medicine/bioethics/education
+         https://case.edu/medicine/bioethics/education/masters-degree-programs/tuition-and-financial-aid/student-assistantships
+         https://case.edu/medicine/bioethics/education/masters-degree-programs/tuition-and-financial-aid/additional-resources
+         https://case.edu/medicine/bioethics/education/masters-degree-programs/tuition-and-financial-aid/employer-tuition-programs
+         https://case.edu/medicine/bioethics/education/masters-degree-programs/curriculum/sample-course-plan
+   26  case.edu/law/about/news
+         https://case.edu/law/about/news/recognizing-our-distinguished-2020-graduates-writing-moot-court-and-mock-trial-awards
+         https://case.edu/law/about/news/recognizing-our-distinguished-2020-graduates-clinic-journal-and-fellowship-awards
+         https://case.edu/law/about/news/recognizing-our-distinguished-2020-graduates-excellence-and-achievement-awards
+         https://case.edu/law/about/news/recognizing-our-distinguished-2020-graduates-annual-awards
+    9  case.edu/financialaid/undergraduates
+         https://case.edu/financialaid/undergraduates/applying-undergraduate-aid
+         https://case.edu/financialaid/undergraduates/international-students
+         https://case.edu/financialaid/undergraduates/cost-undergraduate-attendance
+         https://case.edu/financialaid/undergraduates/types-financial-assistance-undergraduates
+    8  case.edu/law/academics/masters-programs
+         https://case.edu/law/academics/masters-programs/master-compliance-and-risk-management
+         https://case.edu/law/academics/masters-programs/master-compliance-and-risk-management/master-compliance-and-risk-management-courses
+         https://case.edu/law/academics/masters-programs/master-compliance-and-risk-management/sample-schedules
+         https://case.edu/law/academics/masters-programs/master-compliance-and-risk-management/compliance-and-risk-management-programs-faqs
+    7  case.edu/law/academics/llm-programs
+         https://case.edu/law/academics/llm-programs/llm-internationally-educated-students/llm-criminal-justice-and-international-criminal-law
+         https://case.edu/law/academics/llm-programs/llm-internationally-educated-students
+         https://case.edu/law/academics/llm-programs/llm-internationally-educated-students/llm-intellectual-property-law
+         https://case.edu/law/academics/llm-programs/llm-internationally-educated-students/llm-us-global-legal-studies
+    6  case.edu/cancer/about-us/news
+         https://case.edu/cancer/about-us/news/newly-created-training-program-aims-spark-undergraduate-interest-cancer-research
+         https://case.edu/cancer/about-us/news/cancer-focused-summer-undergraduate-program-kicks
+         https://case.edu/cancer/about-us/news/first-cohort-scholars-completes-cancer-focused-summer-undergraduate-research-cansur-program
+         https://case.edu/cancer/about-us/news/cansur-scholar-receives-undergraduate-michelson-morley-award
+    6  case.edu/facultysenate/about/committees-and-panels
+         https://case.edu/facultysenate/about/committees-and-panels/committee-graduate-studies
+         https://case.edu/facultysenate/about/committees-and-panels/committee-undergraduate-education
+         https://case.edu/facultysenate/about/committees-and-panels/committee-undergraduate-education/fscue-academic-standing-subcommittee
+         https://case.edu/facultysenate/about/committees-and-panels/committee-undergraduate-education/fscue-admission-and-aid-subcommittee
+    6  case.edu/financialaid/graduate-students
+         https://case.edu/financialaid/graduate-students/graduate-cost-attendance
+         https://case.edu/financialaid/graduate-students/applying-graduate-student-aid
+         https://case.edu/financialaid/graduate-students/aid-eligibility
+         https://case.edu/financialaid/graduate-students/medical-students
+    4  case.edu/datascience/students/degree-programs
+         https://case.edu/datascience/students/degree-programs/undergraduate-applied-data-science-minor/major-support
+         https://case.edu/datascience/students/degree-programs/undergraduate-applied-data-science-minor
+         https://case.edu/datascience/students/degree-programs/undergraduate-applied-data-science-minor/business-higher-education-forum
+         https://case.edu/datascience/students/degree-programs/graduate-degrees
+    4  case.edu/dental/departments-programs/orthodontics
+         https://case.edu/dental/departments-programs/orthodontics/graduate-programs
+         https://case.edu/dental/departments-programs/orthodontics/graduate-programs/how-apply-orthodontic-programs
+         https://case.edu/dental/departments-programs/orthodontics/graduate-programs/orthodontics-internship-program
+         https://case.edu/dental/departments-programs/orthodontics/graduate-programs/current-orthodontics-residents
+    4  case.edu/ech/articles/m
+         https://case.edu/ech/articles/m/master-builders
+         https://case.edu/ech/articles/m/master-products-co
+         https://case.edu/ech/articles/m/masterpieces-berlin-museums
+         https://case.edu/ech/articles/m/masters-irvine-u
+    3  case.edu/law/admissions/llm-admissions
+         https://case.edu/law/admissions/llm-admissions/apply-llm-internationally-educated-students/llm-financial-aid-and-scholarships
+         https://case.edu/law/admissions/llm-admissions/apply-llm-internationally-educated-students
+         https://case.edu/law/admissions/llm-admissions/apply-llm-us-trained-lawyers
+    3  case.edu/dental/prospective-students
+         https://case.edu/dental/prospective-students/graduate-studies
+         https://case.edu/dental/prospective-students/dmdmasters-public-health-mph
+         https://case.edu/dental/prospective-students/dmdmasters-clinical-research-mcrt
+    3  case.edu/financialaid/undergraduates/applying-undergraduate-aid
+         https://case.edu/financialaid/undergraduates/applying-undergraduate-aid/first-year-students
+         https://case.edu/financialaid/undergraduates/applying-undergraduate-aid/transfer-students
+         https://case.edu/financialaid/undergraduates/applying-undergraduate-aid/continuing-students
+    2  case.edu/law/admissions
+         https://case.edu/law/admissions/llm-admissions
+         https://case.edu/law/admissions/masters-programs-admissions
+    2  case.edu/law/academics
+         https://case.edu/law/academics/masters-programs
+         https://case.edu/law/academics/llm-programs
+    2  case.edu/cancer
+         https://case.edu/cancer/undergraduate
+         https://case.edu/cancer/graduatestudents
+    2  case.edu/studentlife/civicengagement/resources
+         https://case.edu/studentlife/civicengagement/resources/postgraduate-service
+         https://case.edu/studentlife/civicengagement/resources/postgraduate-service/gap-year
+    2  case.edu/commencement/convocation/awards-recipients
+         https://case.edu/commencement/convocation/awards-recipients/carl-f-wittke-award-excellence-undergraduate-teaching
+         https://case.edu/commencement/convocation/awards-recipients/j-bruce-jackson-md-award-excellence-undergraduate-mentoring
+    2  case.edu/commencement/ceremonies/school-ceremonies
+         https://case.edu/commencement/ceremonies/school-ceremonies/undergraduate-studies
+         https://case.edu/commencement/ceremonies/school-ceremonies/school-graduate-studies
+    2  case.edu/medicine/ctsc/research-resources
+         https://case.edu/medicine/ctsc/research-resources/community-engaged-research/cer-mentoring-program-first-cohort-graduates-2025
+         https://case.edu/medicine/ctsc/research-resources/community-engaged-research/ctsc-community-engaged-research-mentoring-program/cer-mentoring-program-second-cohort-graduates-2026
+    2  case.edu/dental/about/news-archive
+         https://case.edu/dental/about/news-archive/school-dental-medicine-2020-specialty-program-graduates
+         https://case.edu/dental/about/news-archive/sodm-class-2021-graduate-plans
+    2  case.edu/financialaid/undergraduates/tuition-exchange-program
+         https://case.edu/financialaid/undergraduates/tuition-exchange-program/exports
+         https://case.edu/financialaid/undergraduates/tuition-exchange-program/imports
+    2  case.edu/financialaid
+         https://case.edu/financialaid/undergraduates
+         https://case.edu/financialaid/graduate-students

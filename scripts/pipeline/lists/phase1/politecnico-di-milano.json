@@ -1,0 +1,15 @@
+{
+ "source": "English-taught (ENG) laurea magistrale list https://www.polimi.it/en/education/laurea-magistrale-programmes + POLIMI GSoM MBA pages from https://www.gsom.polimi.it/sitemap.xml (configured 2026-11-01); GSoM specialising masters (master universitario) left out",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/computer-science-and-engineering",
+  "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/cyber-risk-strategy-and-governance",
+  "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/digital-and-interaction-design",
+  "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/health-informatics",
+  "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/high-performance-computing-engineering",
+  "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/management-engineering",
+  "https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/management-of-built-environment",
+  "https://www.gsom.polimi.it/en/course/international-full-time-mba",
+  "https://www.gsom.polimi.it/en/course/international-part-time-mba"
+ ]
+}

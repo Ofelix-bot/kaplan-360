@@ -1,0 +1,58 @@
+# chalmers-university-of-technology https://www.chalmers.se
+robots sitemaps: https://www.chalmers.se/sitemap.xml https://www.chalmers.se/sitemap-0.xml https://www.chalmers.se/server-sitemap-index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.chalmers.se/sitemap.xml: 2 children (0 course-like)
+index https://www.chalmers.se/server-sitemap-index.xml: 7 children (3 course-like)
+sitemaps read 10 · urls 14758 · master's-looking 267
+   97  www.chalmers.se/utbildning/hitta-masterprogram/specialiseringar
+         https://www.chalmers.se/utbildning/hitta-masterprogram/specialiseringar/acoustics-sound-and-vibration-engineering-acoustics/
+         https://www.chalmers.se/utbildning/hitta-masterprogram/specialiseringar/acoustics-sound-and-vibration-audio-and-music-technology/
+         https://www.chalmers.se/utbildning/hitta-masterprogram/specialiseringar/biomedical-engineering-medical-devices/
+         https://www.chalmers.se/utbildning/hitta-masterprogram/specialiseringar/artificial-intelligence-ai-for-language-and-cognition/
+   84  www.chalmers.se/aktuellt/kalender
+         https://www.chalmers.se/aktuellt/kalender/master-thesis-fair-energy/
+         https://www.chalmers.se/aktuellt/kalender/f-masterpresentation-alfred-weddig-karlsson/
+         https://www.chalmers.se/aktuellt/kalender/f-masterpresentation-nora-malmquist/
+         https://www.chalmers.se/aktuellt/kalender/m2-elias-chalhoub-och-august-skoglund-presenterar-sitt-examensarbete-m2-elias-chalhoub-and-august-skoglund-presents-their-master-s-thesis/
+   35  www.chalmers.se/utbildning/hitta-masterprogram
+         https://www.chalmers.se/utbildning/hitta-masterprogram/larande-och-ledarskap-masterprogram/
+         https://www.chalmers.se/utbildning/hitta-masterprogram/entrepreneurship-and-business-design-masterprogram/
+         https://www.chalmers.se/utbildning/hitta-masterprogram/maritime-management-masterprogram/
+         https://www.chalmers.se/utbildning/hitta-masterprogram/energy-systems-masterprogram/
+   17  www.chalmers.se/en/current/calendar
+         https://www.chalmers.se/en/current/calendar/masters-fair-in-barcelona-spain/
+         https://www.chalmers.se/en/current/calendar/meet-us-at-fiep-international-graduate-studies-fair-in-madrid-spain/
+         https://www.chalmers.se/en/current/calendar/masterclass-on-ai-for-molecular-design-and-engineering-24-nov-2025/
+         https://www.chalmers.se/en/current/calendar/meet-chalmers-at-the-qs-discover-master-s-fair-in-mumbai-qs-fairs-india/
+   13  www.chalmers.se/aktuellt/nyheter
+         https://www.chalmers.se/aktuellt/nyheter/cse-att-balansera-datainnovation-och-integritet-ny-masterkurs-moter-framtidens-behov/
+         https://www.chalmers.se/aktuellt/nyheter/cva-masteruppsats-vinner-internationellt-pris/
+         https://www.chalmers.se/aktuellt/nyheter/formula-student-masterkurs-med-mycket-verkstad/
+         https://www.chalmers.se/aktuellt/nyheter/planer-for-framtida-masterprogram-tar-form/
+    7  www.chalmers.se/en/current/presentation-of-master-thesis
+         https://www.chalmers.se/en/current/presentation-of-master-thesis/architecture-and-civil-engineering/
+         https://www.chalmers.se/en/current/presentation-of-master-thesis/computer-science-and-engineering/
+         https://www.chalmers.se/en/current/presentation-of-master-thesis/electrical-engineering/
+         https://www.chalmers.se/en/current/presentation-of-master-thesis/life-sciences/
+    3  www.chalmers.se/utbildning/anmalan-och-behorighet
+         https://www.chalmers.se/utbildning/anmalan-och-behorighet/stipendier-for-avgiftsbetalande-masterstudenter/
+         https://www.chalmers.se/utbildning/anmalan-och-behorighet/datum-och-deadlines-for-masterstudier/
+         https://www.chalmers.se/utbildning/anmalan-och-behorighet/val-av-masterprogram-for-chalmersstudenter/
+    2  www.chalmers.se/forskning/centrum/cva
+         https://www.chalmers.se/forskning/centrum/cva/utbildning/masterprojekt-fran-kursen-healthcare-studio/
+         https://www.chalmers.se/forskning/centrum/cva/utbildning/masterprojekt-fran-kursen-residential-healthcare/
+    2  www.chalmers.se/utbildning/anmalan-och-behorighet/val-av-masterprogram-for-chalmersstudenter
+         https://www.chalmers.se/utbildning/anmalan-och-behorighet/val-av-masterprogram-for-chalmersstudenter/fragor-och-svar-om-de-nya-masterprogrammen/
+         https://www.chalmers.se/utbildning/anmalan-och-behorighet/val-av-masterprogram-for-chalmersstudenter/chalmers-interna-mastermassa/
+    2  www.chalmers.se/utbildning/studentstod/studievagledning-och-stod
+         https://www.chalmers.se/utbildning/studentstod/studievagledning-och-stod/kontaktpersoner-per-program/kontaktpersoner-for-masterprogram/
+         https://www.chalmers.se/utbildning/studentstod/studievagledning-och-stod/kontaktpersoner-per-program/kontaktpersoner-for-masterprogram-start-2027/
+    1  www.chalmers.se/utbildning/program-och-kurser
+         https://www.chalmers.se/utbildning/program-och-kurser/masterprogram/
+    1  www.chalmers.se/utbildning
+         https://www.chalmers.se/utbildning/hitta-masterprogram/
+    1  www.chalmers.se/utbildning/anmalan-och-behorighet/fran-anmalan-till-antagning
+         https://www.chalmers.se/utbildning/anmalan-och-behorighet/fran-anmalan-till-antagning/anmal-dig-till-program-pa-avancerad-niva-masterprogram/
+    1  www.chalmers.se/institutioner/cls/forskning
+         https://www.chalmers.se/institutioner/cls/forskning/internationalisering-inom-hogre-utbildning-och-forskning/english-medium-instruction-and-graduate-salary-development-in-sweden/
+    1  www.chalmers.se/en/education/study-at-chalmers
+         https://www.chalmers.se/en/education/study-at-chalmers/get-to-know-some-of-our-former-students/a-shared-masters-journey/

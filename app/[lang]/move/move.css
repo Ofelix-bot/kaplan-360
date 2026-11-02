@@ -1,0 +1,61 @@
+/* Hallmark · redesign: polish · genre: editorial · copy: verbatim · built on the user's brief and reference board */
+/* Hallmark · pre-emit critique: the brief fixes composition and copy; polish fixed fold fill, slogan wrap, section rhythm and ticker slivers */
+/* Hallmark · waive 80 · labelled route and door diagrams drawn from the page's own facts · the brief asks for the doors and route diagrams on /move */
+/* Hallmark · waive 81 · the gradient is the hero's dark ground with an amber glow, not an empty picture slot · brief section 2.2 names this hero recipe */
+/*
+ * /move's own motion (components/landing/move): CSS, so it plays from the server's HTML without
+ * waiting for scripts. In the site layer, beside the site's other rules (globals.css), so Tailwind's
+ * utilities still win where both apply. Every animation has a still final state under reduced motion.
+ */
+@layer site {
+  /* The hero: the slogan rises 56px over 1s, then its two lines converge from ±9% (from 1050ms, 800ms),
+     then the amber ring is drawn as the "°"; the line at the bottom right rises 400ms after the slogan.
+     The box rules that .ui's scoped preflight resets (display, margin, padding, vertical-align on the
+     ring's svg and the second line's indent) are utilities in MoveHero, which win over that reset. */
+  .mv-rise { animation: mv-rise 1000ms var(--motion-ui) both; }
+  .mv-side { animation: mv-rise 1000ms var(--motion-ui) 400ms both; }
+  .mv-line-1 { animation: mv-from-right 800ms var(--motion-converge) 1050ms both; }
+  .mv-line-2 {
+    color: var(--hero-lavender);
+    animation: mv-from-left 800ms var(--motion-converge) 1050ms both;
+  }
+  /* The slogan's size (MoveHero reads --mv-fs): 1.2 × what it was (clamp(28px, 6vw, 86px)), unless the
+     block would then be wider than the page's content: the first line starts at the content's left
+     edge, the second is indented 1em (the user's mock) and is 10.72em long ("One defining leap." in
+     Archivo at the display stretch), so 11.8em must fit the content width. The hero is the query
+     container, so 100cqw is the page's width without the scrollbar. Each line stays one line at every
+     width, and the block ends where the content does: left and right margins match. */
+  .mv-hero {
+    container-type: inline-size;
+    --mv-fs: min(clamp(33.6px, 7.2cqw, 103.2px), calc((min(100cqw, var(--max)) - 2 * var(--gutter)) / 11.8));
+  }
+  .mv-line-1, .mv-line-2 { white-space: nowrap; }
+  .mv-ring { width: 0.32em; height: 0.32em; overflow: visible; }
+  .mv-ring circle {
+    fill: none; stroke: var(--accent); stroke-width: 11; stroke-dasharray: 100;
+    transform: rotate(-90deg); transform-origin: 20px 20px;
+    animation: mv-ring 900ms var(--motion-ui) 1700ms both;
+  }
+  /* Played once (MoveHero marks it): coming back to the page shows the last frame. */
+  .mv-hero[data-played] :is(.mv-rise, .mv-side, .mv-line-1, .mv-line-2, .mv-ring circle) { animation: none; }
+  /* Once drawn, the ring is a closed circle (the dash would leave a hairline gap where it meets itself). */
+  .mv-hero[data-played] .mv-ring circle { stroke-dasharray: none; }
+
+  @keyframes mv-rise { from { opacity: 0; transform: translateY(56px); } to { opacity: 1; transform: none; } }
+  @keyframes mv-from-right { from { transform: translateX(9%); } to { transform: none; } }
+  @keyframes mv-from-left { from { transform: translateX(-9%); } to { transform: none; } }
+  @keyframes mv-ring { from { stroke-dashoffset: 100; } to { stroke-dashoffset: 0; } }
+
+  /* #receipts: the ticker's neighbours are slivers, not text. ReceiptsTicker draws them as bars without
+     words; here the strip is cut 112px past the current item, so only a narrow edge of the next shows
+     (the first 20% of a neighbour is masked out by the Ticker, so a narrower cut would show nothing).
+     The negative insets keep the focus ring (offset 4px) inside the cut. */
+  .mv-ticker > [aria-live] {
+    clip-path: inset(-12px max(0px, calc(100% - var(--ticker-w) - var(--ticker-gap) - 112px)) -12px -12px);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .mv-rise, .mv-side, .mv-line-1, .mv-line-2, .mv-ring circle { animation: none; }
+    .mv-ring circle { stroke-dasharray: none; }
+  }
+}

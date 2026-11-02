@@ -1,0 +1,306 @@
+{
+  "id": "scnu",
+  "status": "read",
+  "university": "华南师范大学",
+  "universityEn": "South China Normal University",
+  "tier": "211",
+  "url": "http://statics.scnu.edu.cn/pics/xxgk/2023/0530/1685433098919158.pdf",
+  "title": "华南师范大学2022届本科毕业生就业质量年度报告",
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 86,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": "2022届",
+      "count": 353,
+      "pct": 5.51,
+      "quote": "2022 届本科毕业生中，有 353 名本科毕业生选择出国（境）留学，比例为 5.51%。"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [
+    {
+      "nameZh": "香港中文大学",
+      "nameEn": "The Chinese University of Hong Kong",
+      "count": 33,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "香港中文大学 33 伯明翰大学 5",
+      "institutionId": "chinese-university-of-hong-kong"
+    },
+    {
+      "nameZh": "香港城市大学",
+      "nameEn": "City University of Hong Kong",
+      "count": 32,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "香港城市大学 32 布里斯托大学 5",
+      "institutionId": "city-university-of-hong-kong"
+    },
+    {
+      "nameZh": "爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": 22,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "爱丁堡大学 22 香港浸会大学 5",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "曼彻斯特大学",
+      "nameEn": "University of Manchester",
+      "count": 20,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "曼彻斯特大学 20 新南威尔士大学 5",
+      "institutionId": "university-of-manchester"
+    },
+    {
+      "nameZh": "伦敦国王学院",
+      "nameEn": "King's College London",
+      "count": 17,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "伦敦国王学院 17 杜伦大学 4",
+      "institutionId": "king-s-college-london"
+    },
+    {
+      "nameZh": "香港理工大学",
+      "nameEn": "The Hong Kong Polytechnic University",
+      "count": 17,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "香港理工大学 17 墨尔本大学 4",
+      "institutionId": "hong-kong-polytechnic-university"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "The University of Hong Kong",
+      "count": 16,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "香港大学 16 南安普顿大学 4",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "澳门大学",
+      "nameEn": "University of Macau",
+      "count": 15,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "澳门大学 15 悉尼大学 4",
+      "institutionId": "university-of-macau"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": 15,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "新加坡国立大学 15 香港教育大学 4",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "香港科技大学",
+      "nameEn": "The Hong Kong University of Science and Technology",
+      "count": 13,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "香港科技大学 13 波士顿大学 2",
+      "institutionId": "hong-kong-university-of-science-and-technology"
+    },
+    {
+      "nameZh": "伦敦大学学院",
+      "nameEn": "University College London",
+      "count": 12,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "伦敦大学学院 12 帝国理工学院 2",
+      "institutionId": "ucl"
+    },
+    {
+      "nameZh": "格拉斯哥大学",
+      "nameEn": "University of Glasgow",
+      "count": 9,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "格拉斯哥大学 9 华威大学 2",
+      "institutionId": "university-of-glasgow"
+    },
+    {
+      "nameZh": "利兹大学",
+      "nameEn": "University of Leeds",
+      "count": 9,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "利兹大学 9 鲁汶大学（法语） 2",
+      "institutionId": "university-of-leeds"
+    },
+    {
+      "nameZh": "澳大利亚国立大学",
+      "nameEn": "Australian National University",
+      "count": 7,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "澳大利亚国立大学 7 南洋理工大学 2",
+      "institutionId": "australian-national-university"
+    },
+    {
+      "nameZh": "澳门科技大学",
+      "nameEn": "Macau University of Science and Technology",
+      "count": 5,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "澳门科技大学 5 瑞士酒店管理学院 2",
+      "institutionId": "macau-university-of-science-and-technology"
+    },
+    {
+      "nameZh": "伯明翰大学",
+      "nameEn": "University of Birmingham",
+      "count": 5,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "伯明翰大学 5",
+      "institutionId": "university-of-birmingham"
+    },
+    {
+      "nameZh": "布里斯托大学",
+      "nameEn": "University of Bristol",
+      "count": 5,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "布里斯托大学 5",
+      "institutionId": "university-of-bristol"
+    },
+    {
+      "nameZh": "香港浸会大学",
+      "nameEn": "Hong Kong Baptist University",
+      "count": 5,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "香港浸会大学 5",
+      "institutionId": "hong-kong-baptist-university"
+    },
+    {
+      "nameZh": "新南威尔士大学",
+      "nameEn": "University of New South Wales",
+      "count": 5,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "新南威尔士大学 5",
+      "institutionId": "university-of-new-south-wales"
+    },
+    {
+      "nameZh": "杜伦大学",
+      "nameEn": "Durham University",
+      "count": 4,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "杜伦大学 4",
+      "institutionId": "durham-university"
+    },
+    {
+      "nameZh": "墨尔本大学",
+      "nameEn": "University of Melbourne",
+      "count": 4,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "墨尔本大学 4",
+      "institutionId": "university-of-melbourne"
+    },
+    {
+      "nameZh": "南安普顿大学",
+      "nameEn": "University of Southampton",
+      "count": 4,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "南安普顿大学 4",
+      "institutionId": "university-of-southampton"
+    },
+    {
+      "nameZh": "悉尼大学",
+      "nameEn": "University of Sydney",
+      "count": 4,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "悉尼大学 4",
+      "institutionId": "university-of-sydney"
+    },
+    {
+      "nameZh": "香港教育大学",
+      "nameEn": "The Education University of Hong Kong",
+      "count": 4,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "香港教育大学 4",
+      "institutionId": "education-university-of-hong-kong"
+    },
+    {
+      "nameZh": "波士顿大学",
+      "nameEn": "Boston University",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "波士顿大学 2",
+      "institutionId": "boston-university"
+    },
+    {
+      "nameZh": "帝国理工学院",
+      "nameEn": "Imperial College London",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "帝国理工学院 2",
+      "institutionId": "imperial-college-london"
+    },
+    {
+      "nameZh": "华威大学",
+      "nameEn": "University of Warwick",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "华威大学 2",
+      "institutionId": "university-of-warwick"
+    },
+    {
+      "nameZh": "鲁汶大学（法语）",
+      "nameEn": "KU Leuven (French-speaking)",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "鲁汶大学（法语） 2",
+      "institutionId": "ku-leuven"
+    },
+    {
+      "nameZh": "南洋理工大学",
+      "nameEn": "Nanyang Technological University",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "南洋理工大学 2",
+      "institutionId": "nanyang-technological-university-singapore"
+    },
+    {
+      "nameZh": "瑞士酒店管理学院",
+      "nameEn": "Swiss Hotel Management School",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "瑞士酒店管理学院 2",
+      "institutionId": null
+    },
+    {
+      "nameZh": "澳门科技大学",
+      "nameEn": "Macau University of Science and Technology",
+      "count": 5,
+      "group": "全体",
+      "list": "表 1- 11 2022 届本科毕业生主要出国（境）留学院校流向",
+      "quote": "澳门科技大学 5",
+      "institutionId": "macau-university-of-science-and-technology"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

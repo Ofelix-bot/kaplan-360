@@ -1,0 +1,128 @@
+# dublin-city-university https://www.dcu.ie
+robots sitemaps: https://www.dcu.ie/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 17162 · master's-looking 1137
+  228  www.dcu.ie/students/orientation/2026
+         https://www.dcu.ie/students/orientation/2026/undergraduate/dc001-early-childhood-education
+         https://www.dcu.ie/students/orientation/2026/undergraduate/dc004-primary-teaching-cic
+         https://www.dcu.ie/students/orientation/2026/postgraduate/dc732-masters-education-specific-learning-difficulties-0
+         https://www.dcu.ie/students/orientation/2026/postgraduate/dc994-masters-education-special-educational-needs-0
+  203  www.dcu.ie/graduatestudies
+         https://www.dcu.ie/graduatestudies
+         https://www.dcu.ie/graduatestudies/graduate-studies-new-research-students
+         https://www.dcu.ie/graduatestudies/postgraduate-research-how-apply
+         https://www.dcu.ie/graduatestudies/graduate-research-conference
+   80  www.dcu.ie/mechanicalengineering
+         https://www.dcu.ie/mechanicalengineering/mechanical-manufacturing-engineering-undergraduate-labs
+         https://www.dcu.ie/mechanicalengineering/mechanical-manufacturing-engineering-undergraduate-labs-2
+         https://www.dcu.ie/mechanicalengineering/mechanical-manufacturing-engineering-undergraduate-labs-4
+         https://www.dcu.ie/mechanicalengineering/undergraduate-labs-mechanical-manufacturing-engineering
+   41  www.dcu.ie/registry
+         https://www.dcu.ie/registry/postgraduate-research-academic-regulations-guidelines-registry
+         https://www.dcu.ie/registry/undergraduate-application-procedures-registry
+         https://www.dcu.ie/registry/postgraduate-research-welcome-registry
+         https://www.dcu.ie/registry/registry-postgraduate-applications
+   30  www.dcu.ie/dcubs
+         https://www.dcu.ie/dcubs/dublin-city-university-business-school-postgraduate-information-sessions-2010
+         https://www.dcu.ie/dcubs/masters-in-marketing-at-dcu-business-school-ireland
+         https://www.dcu.ie/dcubs/dublin-city-university-business-school-postgraduate-information-sessions-2010-0
+         https://www.dcu.ie/dcubs/dublin-city-university-business-school-postgraduate-information-sessions-2010-1
+   28  www.dcu.ie/ovpaa
+         https://www.dcu.ie/ovpaa/developing-graduate-attributes-ovpaa
+         https://www.dcu.ie/ovpaa/ovppagraduate-research-studies-board-agendas-2018shtml-1
+         https://www.dcu.ie/ovpaa/graduate-studies-board-agendas-2013-ovpaa
+         https://www.dcu.ie/ovpaa/graduate-studies-board-agendas-2012-ovpaa
+   25  www.dcu.ie/courses/postgraduate/institute-education
+         https://www.dcu.ie/courses/postgraduate/institute-education/msc-education-and-training-management-leadership
+         https://www.dcu.ie/courses/postgraduate/institute-education/professional-master-education-post-primary-education
+         https://www.dcu.ie/courses/postgraduate/institute-education/msc-guidance-counselling
+         https://www.dcu.ie/courses/postgraduate/institute-education/msc-education-and-training-management-elearning
+   24  www.dcu.ie/salis
+         https://www.dcu.ie/salis/salis-dr-d-kenny-ba-msc-phd
+         https://www.dcu.ie/salis/salis-dr-e-oconnell-ma-phd
+         https://www.dcu.ie/salis/salis-dr-a-coulson-ma-phd
+         https://www.dcu.ie/salis/salis-dr-b-duffy-ba-ma-phd
+   21  www.dcu.ie/courses/postgraduate/business-school
+         https://www.dcu.ie/courses/postgraduate/business-school/msc-emergency-management
+         https://www.dcu.ie/courses/postgraduate/business-school/msc-finance
+         https://www.dcu.ie/courses/postgraduate/business-school/msc-management-strategy
+         https://www.dcu.ie/courses/postgraduate/business-school/executive-mba
+   19  www.dcu.ie/research
+         https://www.dcu.ie/research/graduate-research-research-brochureevents
+         https://www.dcu.ie/research/graduate-research-postgraduate-scholarships
+         https://www.dcu.ie/research/graduate-research-forms-and-fees
+         https://www.dcu.ie/research/graduate-research-new-research-students
+   18  www.dcu.ie/electronics
+         https://www.dcu.ie/electronics/postgraduate-courses-school-of-electrical-engineering
+         https://www.dcu.ie/electronics/postgraduate-courses-school-of-electrical-engineering-0
+         https://www.dcu.ie/electronics/postgraduate-courses-school-of-electronic-engineering
+         https://www.dcu.ie/electronics/electronic-engineering-postgraduate-courses-0
+   18  www.dcu.ie/alumni
+         https://www.dcu.ie/alumni/reduced-masters-programme-fees-scheme
+         https://www.dcu.ie/alumni/masters-reduced-fee-0
+         https://www.dcu.ie/alumni/graduate-law-mentorship-programme
+         https://www.dcu.ie/alumni/2022-2023-graduate-student-mentorship-programme-opening-ceremony
+   16  www.dcu.ie/humanities-and-social-sciences
+         https://www.dcu.ie/humanities-and-social-sciences/aaron-gallagher-graduate-ma-social-media-communications
+         https://www.dcu.ie/humanities-and-social-sciences/juliette-guilloteau-graduate-msc-translation-technology
+         https://www.dcu.ie/humanities-and-social-sciences/elizabeth-hearst-graduate-ma-journalism
+         https://www.dcu.ie/humanities-and-social-sciences/undergraduate-testimonials
+   15  www.dcu.ie/courses/undergraduate/institute-education
+         https://www.dcu.ie/courses/undergraduate/institute-education/religious-education-and-english
+         https://www.dcu.ie/courses/undergraduate/institute-education/religious-education-and-history
+         https://www.dcu.ie/courses/undergraduate/institute-education/religious-education-and-music
+         https://www.dcu.ie/courses/undergraduate/institute-education/foundation-programme-education-and-training
+   15  www.dcu.ie/courses/postgraduate/school-law-and-government
+         https://www.dcu.ie/courses/postgraduate/school-law-and-government/ma-international-relations
+         https://www.dcu.ie/courses/postgraduate/school-law-and-government/llm
+         https://www.dcu.ie/courses/postgraduate/school-law-and-government/ma-international-security-and-conflict-studies
+         https://www.dcu.ie/courses/postgraduate/school-law-and-government/msc-public-policy
+   14  www.dcu.ie/courses/postgraduate/school-nursing-psychotherapy-and-community-health
+         https://www.dcu.ie/courses/postgraduate/school-nursing-psychotherapy-and-community-health/msc-intellectual-0
+         https://www.dcu.ie/courses/postgraduate/school-nursing-psychotherapy-and-community-health/msc-intellectual-disability
+         https://www.dcu.ie/courses/postgraduate/school-nursing-psychotherapy-and-community-health/msc-psychotherapy
+         https://www.dcu.ie/courses/postgraduate/school-nursing-psychotherapy-and-community-health/msc-child-adolescent-health
+   12  www.dcu.ie/lawandgovernment
+         https://www.dcu.ie/lawandgovernment/phd-research-masters-school-of-law-and-government
+         https://www.dcu.ie/lawandgovernment/law-and-government-graduate-programme-in-international-governance
+         https://www.dcu.ie/lawandgovernment/postgraduate-programmes-school-law-and-government
+         https://www.dcu.ie/lawandgovernment/law-and-government-postgraduate-research
+   11  www.dcu.ie/courses/undergraduate/business-school
+         https://www.dcu.ie/courses/undergraduate/business-school/global-business-france
+         https://www.dcu.ie/courses/undergraduate/business-school/business-studies
+         https://www.dcu.ie/courses/undergraduate/business-school/business-studies-international
+         https://www.dcu.ie/courses/undergraduate/business-school/aviation-managementaviation-management-pilot-studiesaviation-management
+    9  www.dcu.ie/fiontarscoilnagaeilge
+         https://www.dcu.ie/fiontarscoilnagaeilge/what-do-fiontar-agus-scoil-na-gaeilge-graduates-progress-to
+         https://www.dcu.ie/fiontarscoilnagaeilge/graduates
+         https://www.dcu.ie/fiontarscoilnagaeilge/fiontar-graduates
+         https://www.dcu.ie/fiontarscoilnagaeilge/ma-msc-theses
+    9  www.dcu.ie/science-and-health
+         https://www.dcu.ie/science-and-health/science-and-health-graduate-training-elements
+         https://www.dcu.ie/science-and-health/science-and-health-undergraduate-summer-research-internship-2023
+         https://www.dcu.ie/science-and-health/undergraduate-summer-research-internship-2026-application-form
+         https://www.dcu.ie/science-and-health/faculty-science-and-health-postgraduate-research-accommodation-scholarship
+    8  www.dcu.ie/careers
+         https://www.dcu.ie/careers/students-and-graduates-careers-service
+         https://www.dcu.ie/careers/career-support-graduates-and-alumni
+         https://www.dcu.ie/careers/graduate-outcomes-survey
+         https://www.dcu.ie/careers/jobs-board-students-and-recent-graduates
+    7  www.dcu.ie/courses/postgraduate/school-communications
+         https://www.dcu.ie/courses/postgraduate/school-communications/msc-science-and-health-communication
+         https://www.dcu.ie/courses/postgraduate/school-communications/ma-journalism
+         https://www.dcu.ie/courses/postgraduate/school-communications/msc-emerging-media
+         https://www.dcu.ie/courses/postgraduate/school-communications/ma-political-communication
+    6  www.dcu.ie/president
+         https://www.dcu.ie/president/annual-report-2001-first-destination-of-graduates-2000
+         https://www.dcu.ie/president/annual-report-2001-first-destination-of-graduates-2000-0
+         https://www.dcu.ie/president/annual-report-2001-first-destination-of-graduates-2000-1
+         https://www.dcu.ie/president/annual-report-2001-first-destination-of-graduates-2000-2
+    6  www.dcu.ie/chemistry
+         https://www.dcu.ie/chemistry/undergraduate-programmes
+         https://www.dcu.ie/chemistry/undergraduate-applications
+         https://www.dcu.ie/chemistry/postgraduate-association-chemistry
+         https://www.dcu.ie/chemistry/postgraduate-events
+    6  www.dcu.ie/computing
+         https://www.dcu.ie/computing/postgraduate-degree-courses
+         https://www.dcu.ie/computing/msc-computing-major-options
+         https://www.dcu.ie/computing/msc-computing-major-1-natural-language-processing
+         https://www.dcu.ie/computing/msc-computing-major-2-data-analytics

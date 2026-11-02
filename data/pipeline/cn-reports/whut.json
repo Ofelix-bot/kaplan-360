@@ -1,0 +1,48 @@
+{
+  "id": "whut",
+  "status": "read",
+  "university": "武汉理工大学",
+  "universityEn": "Wuhan University of Technology",
+  "tier": "211",
+  "url": "http://xxgk.whut.edu.cn/xsgl/xsjy/zlnb/202203/P020220329355536332389.pdf",
+  "title": "武汉理工大学2021届毕业生就业质量年度报告",
+  "year": 2021,
+  "cohort": "2021届",
+  "pages": 21,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": null,
+      "count": 416,
+      "pct": 3.7,
+      "quote": "出国（境）留学毕业生 416 人,占毕业生总人数 3.70%"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "2021 届毕业生出国（境）留学人数共 416 人，主要去往英国、美国、中国香港。"
+    },
+    {
+      "region": "美国",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "2021 届毕业生出国（境）留学人数共 416 人，主要去往英国、美国、中国香港。"
+    },
+    {
+      "region": "中国香港",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "2021 届毕业生出国（境）留学人数共 416 人，主要去往英国、美国、中国香港。"
+    }
+  ],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

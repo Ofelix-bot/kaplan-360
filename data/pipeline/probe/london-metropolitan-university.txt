@@ -1,0 +1,99 @@
+# london-metropolitan-university https://www.londonmet.ac.uk
+robots sitemaps: https://www.londonmet.ac.uk/new-sitemap-en.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 8194 · master's-looking 768
+  215  www.londonmet.ac.uk/news/articles
+         https://www.londonmet.ac.uk/news/articles/translation-ma-receives-prestigious-accreditation/
+         https://www.londonmet.ac.uk/news/articles/graduate-stories--artur-naciscionis/
+         https://www.londonmet.ac.uk/news/articles/london-met-graduate-releases-debut-novel/
+         https://www.londonmet.ac.uk/news/articles/peter-marigold-and-london-met-graduates/
+  197  www.londonmet.ac.uk/courses/undergraduate
+         https://www.londonmet.ac.uk/courses/undergraduate/herbal-medicinal-science-top-up---bsc-hons/
+         https://www.londonmet.ac.uk/courses/undergraduate/sports-therapy---bsc-hons/
+         https://www.londonmet.ac.uk/courses/undergraduate/primary-education-two-year-accelerated-degree---ba-hons/
+         https://www.londonmet.ac.uk/courses/undergraduate/economics---bsc-hons/
+  115  www.londonmet.ac.uk/courses/postgraduate
+         https://www.londonmet.ac.uk/courses/postgraduate/translation---ma/
+         https://www.londonmet.ac.uk/courses/postgraduate/llm-legal-practice-top-up---llm/
+         https://www.londonmet.ac.uk/courses/postgraduate/international-events-leisure-and-tourism-management---msc/
+         https://www.londonmet.ac.uk/courses/postgraduate/visual-communication-graphic-design---ma/
+    7  www.londonmet.ac.uk/applying/art-architecture-and-design/portfolio-guidelines
+         https://www.londonmet.ac.uk/applying/art-architecture-and-design/portfolio-guidelines/interior-design-ma---portfolio-guidelines/
+         https://www.londonmet.ac.uk/applying/art-architecture-and-design/portfolio-guidelines/fashion-and-textiles-ma---portfolio-guidelines/
+         https://www.londonmet.ac.uk/applying/art-architecture-and-design/portfolio-guidelines/product-design-ma---portfolio-guidelines/
+         https://www.londonmet.ac.uk/applying/art-architecture-and-design/portfolio-guidelines/illustration-ma---portfolio-guidelines/
+    5  www.londonmet.ac.uk/applying/funding-your-studies
+         https://www.londonmet.ac.uk/applying/funding-your-studies/undergraduate-uk-students/
+         https://www.londonmet.ac.uk/applying/funding-your-studies/postgraduate-uk-students/
+         https://www.londonmet.ac.uk/applying/funding-your-studies/postgraduate-international-students/
+         https://www.londonmet.ac.uk/applying/funding-your-studies/undergraduate-tuition-fees/
+    5  www.londonmet.ac.uk/about/our-university/university-publications
+         https://www.londonmet.ac.uk/about/our-university/university-publications/student-success-strategy/5-excellent-graduate-success/
+         https://www.londonmet.ac.uk/about/our-university/university-publications/course-guides/undergraduate-miniguide/
+         https://www.londonmet.ac.uk/about/our-university/university-publications/course-guides/postgraduate-miniguide/download/
+         https://www.londonmet.ac.uk/about/our-university/university-publications/course-guides/undergraduate-miniguide/download/
+    3  www.londonmet.ac.uk/applying/undergraduate
+         https://www.londonmet.ac.uk/applying/undergraduate/ucas-extra/
+         https://www.londonmet.ac.uk/applying/undergraduate/entry-requirements/
+         https://www.londonmet.ac.uk/applying/undergraduate/parents/
+    3  www.londonmet.ac.uk/courses/routes-into-teaching
+         https://www.londonmet.ac.uk/courses/routes-into-teaching/postgraduate/
+         https://www.londonmet.ac.uk/courses/routes-into-teaching/undergraduate/
+         https://www.londonmet.ac.uk/courses/routes-into-teaching/postgraduate-teacher-apprenticeships/
+    3  www.londonmet.ac.uk/applying/funding-your-studies/loans
+         https://www.londonmet.ac.uk/applying/funding-your-studies/loans/postgraduate-loan/
+         https://www.londonmet.ac.uk/applying/funding-your-studies/loans/postgraduate-doctoral-loan/
+         https://www.londonmet.ac.uk/applying/funding-your-studies/loans/us-financial-aid/how-to-apply/master-promissory-note-mpn/
+    3  www.londonmet.ac.uk/alumni/graduate-privileges-
+         https://www.londonmet.ac.uk/alumni/graduate-privileges-/travel/
+         https://www.londonmet.ac.uk/alumni/graduate-privileges-/shopping/
+         https://www.londonmet.ac.uk/alumni/graduate-privileges-/leisure/
+    3  www.londonmet.ac.uk/about/freedom-of-information/disclosure-log
+         https://www.londonmet.ac.uk/about/freedom-of-information/disclosure-log/january-2019/foia-ref321354-widening-participation-at-masters-level/
+         https://www.londonmet.ac.uk/about/freedom-of-information/disclosure-log/march-2019/foia-ref321391-average-overall-mark-of-taught-masters-students/
+         https://www.londonmet.ac.uk/about/freedom-of-information/disclosure-log/march-2019/foia-ref321395-statistics-on-gender-of-graduates/
+    3  www.londonmet.ac.uk/profiles/students
+         https://www.londonmet.ac.uk/profiles/students/kwame-ma-mcpherson/
+         https://www.londonmet.ac.uk/profiles/students/anna-masters/
+         https://www.londonmet.ac.uk/profiles/students/favour-uzoma-mba/
+    3  www.londonmet.ac.uk/profiles/our-staff/staff-profiles-content-storehidden
+         https://www.londonmet.ac.uk/profiles/our-staff/staff-profiles-content-storehidden/injury-and-rehabilitation-clinic-graduate-staffhidden/
+         https://www.londonmet.ac.uk/profiles/our-staff/staff-profiles-content-storehidden/injury-and-rehabilitation-clinic-graduate-staffhidden/leon-beuzeval/
+         https://www.londonmet.ac.uk/profiles/our-staff/staff-profiles-content-storehidden/injury-and-rehabilitation-clinic-graduate-staffhidden/rashaun-brown/
+    3  www.londonmet.ac.uk/news/blogs
+         https://www.londonmet.ac.uk/news/blogs/interview-with-public-health-graduate-and-tiktok-sensation/
+         https://www.londonmet.ac.uk/news/blogs/fashion-marketing-graduate-qa-being-a-student-and-life-after-uni/
+         https://www.londonmet.ac.uk/news/blogs/careers-after-the-public-art-and-performative-practices-ma/
+    3  www.londonmet.ac.uk/applying/funding-your-studies/scholarships
+         https://www.londonmet.ac.uk/applying/funding-your-studies/scholarships/the-vice-chancellors-postgraduate-pgr-scholarships/
+         https://www.londonmet.ac.uk/applying/funding-your-studies/scholarships/the-vice-chancellors-postgraduate-pgr-scholarships/archive---202324-applications/
+         https://www.londonmet.ac.uk/applying/funding-your-studies/scholarships/the-vice-chancellors-postgraduate-pgr-scholarships/archive---202122-applications/
+    2  www.londonmet.ac.uk/applying/art-architecture-and-design
+         https://www.londonmet.ac.uk/applying/art-architecture-and-design/undergraduate/
+         https://www.londonmet.ac.uk/applying/art-architecture-and-design/postgraduate/
+    2  www.londonmet.ac.uk/applying
+         https://www.londonmet.ac.uk/applying/postgraduate/
+         https://www.londonmet.ac.uk/applying/undergraduate/
+    2  www.londonmet.ac.uk/courses
+         https://www.londonmet.ac.uk/courses/undergraduate/
+         https://www.londonmet.ac.uk/courses/postgraduate/
+    2  www.londonmet.ac.uk/international/applying/english-language-requirements
+         https://www.londonmet.ac.uk/international/applying/english-language-requirements/undergraduate/
+         https://www.londonmet.ac.uk/international/applying/english-language-requirements/postgraduate/
+    2  www.londonmet.ac.uk/applying/offer-holders
+         https://www.londonmet.ac.uk/applying/offer-holders/accepting-your-postgraduate-offer/
+         https://www.londonmet.ac.uk/applying/offer-holders/accepting-your-undergraduate-offer/
+    2  www.londonmet.ac.uk/events
+         https://www.londonmet.ac.uk/events/postgraduate-open-days/
+         https://www.londonmet.ac.uk/events/undergraduate-open-days/
+    2  www.londonmet.ac.uk/research
+         https://www.londonmet.ac.uk/research/research-and-postgraduate-office/
+         https://www.londonmet.ac.uk/research/graduate-school/
+    2  www.londonmet.ac.uk/accept-your-undergraduate-offer
+         https://www.londonmet.ac.uk/accept-your-undergraduate-offer/ucas-or-applicant-portal/
+         https://www.londonmet.ac.uk/accept-your-undergraduate-offer/
+    2  www.londonmet.ac.uk/applying/art-architecture-and-design/undergraduate
+         https://www.londonmet.ac.uk/applying/art-architecture-and-design/undergraduate/portfolios/
+         https://www.londonmet.ac.uk/applying/art-architecture-and-design/undergraduate/portfolios/portfolio-guidelines/
+    2  www.londonmet.ac.uk/january/courses
+         https://www.londonmet.ac.uk/january/courses/undergraduate/
+         https://www.londonmet.ac.uk/january/courses/postgraduate/

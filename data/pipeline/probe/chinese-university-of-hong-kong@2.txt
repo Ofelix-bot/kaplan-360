@@ -1,0 +1,80 @@
+# chinese-university-of-hong-kong@2 https://www.gs.cuhk.edu.hk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 476 · master's-looking 198
+   53  www.gs.cuhk.edu.hk/announcements
+         https://www.gs.cuhk.edu.hk/announcements/exit-survey-research-postgraduate-and-taught-doctoral-students
+         https://www.gs.cuhk.edu.hk/announcements/postgraduate-research-learning-symposium-2025-24-25-april-2025
+         https://www.gs.cuhk.edu.hk/announcements/revised-guidelines-and-procedures-thesis-submissionassessment-research-postgraduate
+         https://www.gs.cuhk.edu.hk/announcements/collection-award-certificates-graduates-postgraduate-programmes-degree-conferment
+   22  www.gs.cuhk.edu.hk/programmes/arts
+         https://www.gs.cuhk.edu.hk/programmes/arts/ma-anthropology
+         https://www.gs.cuhk.edu.hk/programmes/arts/ma-intercultural-studies
+         https://www.gs.cuhk.edu.hk/programmes/arts/ma-cultural-management
+         https://www.gs.cuhk.edu.hk/programmes/arts/master-fine-arts
+   21  www.gs.cuhk.edu.hk/programmes/medicine
+         https://www.gs.cuhk.edu.hk/programmes/medicine/msc-genomics-and-bioinformatics
+         https://www.gs.cuhk.edu.hk/programmes/medicine/msc-chinese-medicine
+         https://www.gs.cuhk.edu.hk/programmes/medicine/msc-chinese-medicine-pharmacology-and-drug-development
+         https://www.gs.cuhk.edu.hk/programmes/medicine/master-nursing-science-pre-registration
+   21  www.gs.cuhk.edu.hk/programmes/business-administration
+         https://www.gs.cuhk.edu.hk/programmes/business-administration/mba
+         https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-actuarial-science-and-insurance-analytics
+         https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-finance
+         https://www.gs.cuhk.edu.hk/programmes/business-administration/msc-information-science-and-technology-management-full-time-mode
+   20  www.gs.cuhk.edu.hk/programmes/social-science
+         https://www.gs.cuhk.edu.hk/programmes/social-science/ma-family-counselling-and-family-education
+         https://www.gs.cuhk.edu.hk/programmes/social-science/ma-social-policy
+         https://www.gs.cuhk.edu.hk/programmes/social-science/ma-social-service-management
+         https://www.gs.cuhk.edu.hk/programmes/social-science/master-social-work
+   12  www.gs.cuhk.edu.hk/programmes/science
+         https://www.gs.cuhk.edu.hk/programmes/science/msc-data-science-and-business-statistics
+         https://www.gs.cuhk.edu.hk/programmes/science/msc-advanced-materials-science
+         https://www.gs.cuhk.edu.hk/programmes/science/msc-advanced-studies-statistics-and-data-science
+         https://www.gs.cuhk.edu.hk/programmes/science/msc-mathematics
+   12  www.gs.cuhk.edu.hk/programmes/engineering
+         https://www.gs.cuhk.edu.hk/programmes/engineering/msc-information-engineering
+         https://www.gs.cuhk.edu.hk/programmes/engineering/msc-biomedical-engineering
+         https://www.gs.cuhk.edu.hk/programmes/engineering/msc-systems-engineering-and-engineering-management
+         https://www.gs.cuhk.edu.hk/programmes/engineering/msc-e-commerce-and-logistics-technologies
+   11  www.gs.cuhk.edu.hk/programmes/education
+         https://www.gs.cuhk.edu.hk/programmes/education/ma-chinese-language-education
+         https://www.gs.cuhk.edu.hk/programmes/education/ma-early-childhood-education
+         https://www.gs.cuhk.edu.hk/programmes/education/ma-english-language-teaching
+         https://www.gs.cuhk.edu.hk/programmes/education/ma-professional-educational-psychology
+    7  www.gs.cuhk.edu.hk/programmes/law
+         https://www.gs.cuhk.edu.hk/programmes/law/master-laws-international-economic-law
+         https://www.gs.cuhk.edu.hk/programmes/law/master-laws-chinese-business-law
+         https://www.gs.cuhk.edu.hk/programmes/law/master-laws-common-law
+         https://www.gs.cuhk.edu.hk/programmes/law/master-laws-energy-and-environmental-law
+    2  www.gs.cuhk.edu.hk/academics
+         https://www.gs.cuhk.edu.hk/academics/postgraduate-student-handbook
+         https://www.gs.cuhk.edu.hk/academics/improving-postgraduate-learning
+    2  www.gs.cuhk.edu.hk/divisions
+         https://www.gs.cuhk.edu.hk/divisions/graduate-school-information-exchange-forum
+         https://www.gs.cuhk.edu.hk/divisions/information-graduate-divisions
+    2  www.gs.cuhk.edu.hk/about-us
+         https://www.gs.cuhk.edu.hk/about-us/cuhk-graduate-school
+         https://www.gs.cuhk.edu.hk/about-us/graduate-attributes
+    2  www.gs.cuhk.edu.hk/information-graduate-divisions
+         https://www.gs.cuhk.edu.hk/information-graduate-divisions/information-grade-submission
+         https://www.gs.cuhk.edu.hk/information-graduate-divisions/thesis-index
+    2  www.gs.cuhk.edu.hk/information-graduate-divisions/information-grade-submission
+         https://www.gs.cuhk.edu.hk/information-graduate-divisions/information-grade-submission/grade-submission-deadlines
+         https://www.gs.cuhk.edu.hk/information-graduate-divisions/information-grade-submission/change-of-grades
+    2  www.gs.cuhk.edu.hk/admissions
+         https://www.gs.cuhk.edu.hk/admissions/research-postgraduate
+         https://www.gs.cuhk.edu.hk/admissions/taught-postgraduate
+    1  www.gs.cuhk.edu.hk/regulations
+         https://www.gs.cuhk.edu.hk/regulations/general-regulations-postgraduate
+    1  www.gs.cuhk.edu.hk/policies-procedures
+         https://www.gs.cuhk.edu.hk/policies-procedures/manual-self-financed-taught-postgraduate-programmes
+    1  www.gs.cuhk.edu.hk/graduates
+         https://www.gs.cuhk.edu.hk/graduates
+    1  www.gs.cuhk.edu.hk/why-cuhk
+         https://www.gs.cuhk.edu.hk/why-cuhk/postgraduate-student-life
+    1  www.gs.cuhk.edu.hk/replacement-of-graduate-certificates
+         https://www.gs.cuhk.edu.hk/replacement-of-graduate-certificates
+    1  www.gs.cuhk.edu.hk/share-your-cuhk-graduate-school-stories
+         https://www.gs.cuhk.edu.hk/share-your-cuhk-graduate-school-stories
+    1  www.gs.cuhk.edu.hk/programmes/inter-faculty
+         https://www.gs.cuhk.edu.hk/programmes/inter-faculty/ma-gender-studies

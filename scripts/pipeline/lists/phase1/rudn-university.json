@@ -1,0 +1,9 @@
+{
+ "source": "RUDN educational programmes (sitemap https://eng.rudn.ru/u/sitemap.xml), each page checked for Level=Master, Language=English, not e-learning; PARTIAL: about 280 of 800 programme pages checked (site ~15 s per page); configured 2026-11-01",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://eng.rudn.ru/education/educational-programs/17122",
+  "https://eng.rudn.ru/education/educational-programs/17869",
+  "https://eng.rudn.ru/education/educational-programs/16153"
+ ]
+}

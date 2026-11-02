@@ -1,0 +1,15 @@
+# arizona-state-university@2 https://degrees.asu.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1663 · master's-looking 836
+  830  degrees.asu.edu/masters-phd/major/ASU00
+         https://degrees.asu.edu/masters-phd/major/ASU00/CSGRNONDGR/walter-cronkite-school-of-journalism-and-mass-communication
+         https://degrees.asu.edu/masters-phd/major/ASU00/LAGRNONDGR/the-college-of-liberal-arts-and-sciences
+         https://degrees.asu.edu/masters-phd/major/ASU00/ASGRNONDGR/new-college-of-interdisciplinary-arts-and-sciences
+         https://degrees.asu.edu/masters-phd/major/ASU00/BAGRNONDGR/w-p-carey-school-of-business
+    5  degrees.asu.edu/bachelors/major/ASU00
+         https://degrees.asu.edu/bachelors/major/ASU00/ASNONDEGR/non-degree-undergraduate---arts-&-sciences
+         https://degrees.asu.edu/bachelors/major/ASU00/ECNONDEGR/non-degree-undergraduate---school-of-applied-arts-&-sciences
+         https://degrees.asu.edu/bachelors/major/ASU00/LANONDEGR/non-degree-undergraduate---college-of-liberal-arts-&-sciences
+         https://degrees.asu.edu/bachelors/major/ASU00/LAUGNODGRO/non-degree-undergraduate---online
+    1  degrees.asu.edu/masters-phd
+         https://degrees.asu.edu/masters-phd

@@ -1,0 +1,129 @@
+# university-of-twente https://www.utwente.nl
+robots sitemaps: https://www.utwente.nl/repository/utwente-data/sitemap/public/sitemap-index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.utwente.nl/repository/utwente-data/sitemap/public/sitemap-index.xml: 2 children (0 course-like)
+sitemaps read 3 · urls 49290 · master's-looking 3729
+  880  www.utwente.nl/en/education/master
+         https://www.utwente.nl/en/education/master/agents/
+         https://www.utwente.nl/en/education/master/agents/2410533-ut-banners-ood-1200x628px-v1-eng-optie-2.png
+         https://www.utwente.nl/en/education/master/agents/2410533-ut-banners-ood-900x1600px-v1-eng-optie-2.png
+         https://www.utwente.nl/en/education/master/agents/brochure-request-form/
+  406  www.utwente.nl/nl/tg/ma-colloquia
+         https://www.utwente.nl/nl/tg/ma-colloquia/2022/
+         https://www.utwente.nl/nl/tg/ma-colloquia/2022/April/
+         https://www.utwente.nl/nl/tg/ma-colloquia/2022/April/Anne-Lynn_Paalvast/
+         https://www.utwente.nl/nl/tg/ma-colloquia/2022/April/Deborah_Hubers/
+  287  www.utwente.nl/nl/pld/executive-opleidingen
+         https://www.utwente.nl/nl/pld/executive-opleidingen/master-course-cybercrime-cybersecurity-risk-management/
+         https://www.utwente.nl/nl/pld/executive-opleidingen/master-course-cybercrime-cybersecurity-risk-management/blog/
+         https://www.utwente.nl/nl/pld/executive-opleidingen/master-course-cybercrime-cybersecurity-risk-management/blog/cybercrime/
+         https://www.utwente.nl/nl/pld/executive-opleidingen/master-course-cybercrime-cybersecurity-risk-management/blog/cybersecurity-organisatie/
+  253  www.utwente.nl/en/eemcs/scs
+         https://www.utwente.nl/en/eemcs/scs/education/assignments/finished-assignments/master/
+         https://www.utwente.nl/en/eemcs/scs/education/assignments/finished-assignments/master/20180112-master-thesis/
+         https://www.utwente.nl/en/eemcs/scs/education/assignments/finished-assignments/master/20180131-master-thesis/
+         https://www.utwente.nl/en/eemcs/scs/education/assignments/finished-assignments/master/20180202-master-thesis/
+  136  www.utwente.nl/en/et/cem
+         https://www.utwente.nl/en/et/cem/education/assignments/msc-assignments/
+         https://www.utwente.nl/en/et/cem/education/assignments/msc-assignments/3d-random-field-modelling-of-spatial-soil-variability/
+         https://www.utwente.nl/en/et/cem/education/assignments/msc-assignments/5d-planning-supply-chain/
+         https://www.utwente.nl/en/et/cem/education/assignments/msc-assignments/Exploring-the-active-and-micromobility-in-the-wider-transport-ecosystem-and-multimodal-trips-25.26/
+  129  www.utwente.nl/en/eemcs/dmb
+         https://www.utwente.nl/en/eemcs/dmb/assignments/open/master/
+         https://www.utwente.nl/en/eemcs/dmb/assignments/open/master/Computer%20Vision%20and%20Biometrics/
+         https://www.utwente.nl/en/eemcs/dmb/assignments/open/master/Computer%20Vision%20and%20Biometrics/20190415-morphing-robust-face-recognition/
+         https://www.utwente.nl/en/eemcs/dmb/assignments/open/master/Computer%20Vision%20and%20Biometrics/20190503-Evaluation%20of%20AI-driven%20interpretation%20on%20microscopic%20images%20in%20oncology/
+  105  www.utwente.nl/en/eemcs/ps
+         https://www.utwente.nl/en/eemcs/ps/education/master%20theses/
+         https://www.utwente.nl/en/eemcs/ps/education/master%20theses/AI%20or%20Data/
+         https://www.utwente.nl/en/eemcs/ps/education/master%20theses/AI-orchestration/
+         https://www.utwente.nl/en/eemcs/ps/education/master%20theses/AI-realestate/
+   89  www.utwente.nl/onderwijs/master/opleidingen
+         https://www.utwente.nl/onderwijs/master/opleidingen/applied-mathematics/
+         https://www.utwente.nl/onderwijs/master/opleidingen/applied-mathematics/.rtd/
+         https://www.utwente.nl/onderwijs/master/opleidingen/applied-physics/
+         https://www.utwente.nl/onderwijs/master/opleidingen/applied-physics/contact/
+   60  www.utwente.nl/en/bms/education
+         https://www.utwente.nl/en/bms/education/regulations/2022-2023-eng/eer-master-2022-2023/
+         https://www.utwente.nl/en/bms/education/regulations/2022-2023-eng/eer-master-2022-2023/11040-final-master-eer-2022-2023-bms-v20220922.pdf
+         https://www.utwente.nl/en/bms/education/regulations/2022-2023-eng/eer-master-2022-2023/11080-msc-ba-psa-2022-2023.pdf
+         https://www.utwente.nl/en/bms/education/regulations/2022-2023-eng/eer-master-2022-2023/11084-psa-msc-est-2022-2023.pdf
+   56  www.utwente.nl/nl/tn/onderwijs
+         https://www.utwente.nl/nl/tn/onderwijs/master/
+         https://www.utwente.nl/nl/tn/onderwijs/master/afronding-bachelor/
+         https://www.utwente.nl/nl/tn/onderwijs/master/afronding-bachelor/guidance-responsibilities-and-duties-for-the-tn-bachelor-assignment.pdf
+         https://www.utwente.nl/nl/tn/onderwijs/master/afronding-dubbel-bachelor-tntw/
+   51  www.utwente.nl/en/tnw/ims
+         https://www.utwente.nl/en/tnw/ims/masters/
+         https://www.utwente.nl/en/tnw/ims/masters/Gertjan/
+         https://www.utwente.nl/en/tnw/ims/masters/MN/
+         https://www.utwente.nl/en/tnw/ims/masters/Shu%20Ni-Fine-Tuning/
+   50  www.utwente.nl/en/est/masterest
+         https://www.utwente.nl/en/est/masterest/career/
+         https://www.utwente.nl/en/est/masterest/content/
+         https://www.utwente.nl/en/est/masterest/content/brochure-educational-science-technology.pdf
+         https://www.utwente.nl/en/est/masterest/content/est-taster-day-flyer.pdf
+   47  www.utwente.nl/en/ap/master
+         https://www.utwente.nl/en/ap/master/graduate/
+         https://www.utwente.nl/en/ap/master/graduate/2026-05-08-prep.-mo-presentatie-v1.pptx
+         https://www.utwente.nl/en/ap/master/graduate/course-codes-master-assignment-applied-physics.pdf
+         https://www.utwente.nl/en/ap/master/graduate/mobility-online/
+   47  www.utwente.nl/en/et/ms3
+         https://www.utwente.nl/en/et/ms3/research-chairs/amda/education/master-assigments/
+         https://www.utwente.nl/en/et/ms3/research-chairs/amda/education/master-assigments/External-Apollo-II/
+         https://www.utwente.nl/en/et/ms3/research-chairs/amda/education/master-assigments/External-Apollo-III/
+         https://www.utwente.nl/en/et/ms3/research-chairs/amda/education/master-assigments/External-ConcreteModeling-I/
+   43  www.utwente.nl/en/me/master-programme
+         https://www.utwente.nl/en/me/master-programme/course-overview-2023-2024.pdf
+         https://www.utwente.nl/en/me/master-programme/course-overview-2024-2025.pdf
+         https://www.utwente.nl/en/me/master-programme/course-overview-2025-2026.pdf
+         https://www.utwente.nl/en/me/master-programme/course-overview-2026-2027.pdf
+   42  www.utwente.nl/en/et/prime
+         https://www.utwente.nl/en/et/prime/educationactivities/masterthesisprojects/
+         https://www.utwente.nl/en/et/prime/educationactivities/masterthesisprojects/finished/
+         https://www.utwente.nl/en/et/prime/educationactivities/masterthesisprojects/finished/Project_Awad/
+         https://www.utwente.nl/en/et/prime/educationactivities/masterthesisprojects/finished/Project_Bakker/
+   41  www.utwente.nl/en/mesaplus/news-events
+         https://www.utwente.nl/en/mesaplus/news-events/photo-albums/quantum-voor-iedereen/masterphoto-2025-04-14-lr-10.jpg
+         https://www.utwente.nl/en/mesaplus/news-events/photo-albums/quantum-voor-iedereen/masterphoto-2025-04-14-lr-11.jpg
+         https://www.utwente.nl/en/mesaplus/news-events/photo-albums/quantum-voor-iedereen/masterphoto-2025-04-14-lr-12.jpg
+         https://www.utwente.nl/en/mesaplus/news-events/photo-albums/quantum-voor-iedereen/masterphoto-2025-04-14-lr-13.jpg
+   41  www.utwente.nl/en/psy/master
+         https://www.utwente.nl/en/psy/master/graduation/
+         https://www.utwente.nl/en/psy/master/graduation/after-graduation/
+         https://www.utwente.nl/en/psy/master/graduation/assessment-form-m-thesis-6new2021.pdf
+         https://www.utwente.nl/en/psy/master/graduation/assessment-form-msc-thesis-psy-1-5-digital.pdf
+   40  www.utwente.nl/en/et/dpm
+         https://www.utwente.nl/en/et/dpm/chair/amme/Masterclass%20AMME/
+         https://www.utwente.nl/en/et/dpm/chair/ms/HE/Education/master-assignments/
+         https://www.utwente.nl/en/et/dpm/chair/ms/HE/Research/Projects/AILiner/materiale/msc-thesis-ide-tirsa-van-der-ouw-s2153599.pdf
+         https://www.utwente.nl/en/et/dpm/chair/ms/HE/Research/Projects/EwB-Plastic%20Bricks/materiale/msc-thesis-ide-tirsa-van-der-ouw-s2153599.pdf
+   37  www.utwente.nl/en/eemcs/education
+         https://www.utwente.nl/en/eemcs/education/eemcs-introduction/master-kick-in-questionnaire/
+         https://www.utwente.nl/en/eemcs/education/rules-guidelines/eer-m/eer-m2016/eer-2016-master-am.pdf
+         https://www.utwente.nl/en/eemcs/education/rules-guidelines/eer-m/eer-m2016/eer-2016-master-bit.pdf
+         https://www.utwente.nl/en/eemcs/education/rules-guidelines/eer-m/eer-m2016/eer-2016-master-csc-tel.pdf
+   37  www.utwente.nl/en/psts/master
+         https://www.utwente.nl/en/psts/master/colloquia/
+         https://www.utwente.nl/en/psts/master/curriculum-manuals/
+         https://www.utwente.nl/en/psts/master/curriculum-manuals/Overview%20PSTS%201st%20%2B%202nd%20Year%20Curriculum%202026-2027.pdf
+         https://www.utwente.nl/en/psts/master/curriculum-manuals/bms-osc-1444-jb-psts-guide-on-regulations-for-students-version.pdf
+   34  www.utwente.nl/en/ba/master
+         https://www.utwente.nl/en/ba/master/archive/
+         https://www.utwente.nl/en/ba/master/archive/Information%20and%20communication%20MSc%20BA/
+         https://www.utwente.nl/en/ba/master/archive/Information%20and%20communication%20MSc%20BA/ProgrammeGuideMScBA20152016/
+         https://www.utwente.nl/en/ba/master/archive/Information%20and%20communication%20MSc%20BA/draftcoursecataloguemscbayear15-16-march2015.pdf
+   34  www.utwente.nl/en/stories/student
+         https://www.utwente.nl/en/stories/student/1217129/what-university-taught-me-outside-the-classroom/?tag=student-life
+         https://www.utwente.nl/en/stories/student/140107/paola-studies-the-masters-in-psychology-im-learning-to-apply-psychology-to-make-high-risk-jobs-safer/?tag=experiences&#38;tag=master
+         https://www.utwente.nl/en/stories/student/142261/luuk-studies-the-masters-in-biomedical-engineering-patients-face-many-challenges-and-im-learning-to-design-devices-that-help-them/?tag=experiences&#38;tag=master
+         https://www.utwente.nl/en/stories/student/145106/shawn-studies-the-masters-in-geo-information-science-and-earth-observation-i-can-contribute-to-a-sustainable-future-using-geospatial-information/?tag=experiences&#38;tag=master
+   31  www.utwente.nl/en/tnw/education
+         https://www.utwente.nl/en/tnw/education/master-kick-in/
+         https://www.utwente.nl/en/tnw/education/mobility-online/master-programme/
+         https://www.utwente.nl/en/tnw/education/mobility-online/master-programme/applied-physics/
+         https://www.utwente.nl/en/tnw/education/mobility-online/master-programme/biomedical-engineering/
+   27  www.utwente.nl/en/bms/pcrs
+         https://www.utwente.nl/en/bms/pcrs/informationstudents/master-curriculum/
+         https://www.utwente.nl/en/bms/pcrs/informationstudents/master-thesis-guidelines/
+         https://www.utwente.nl/en/bms/pcrs/informationstudents/student-assignments/master/
+         https://www.utwente.nl/en/bms/pcrs/informationstudents/student-assignments/master/Creating%20resilient%20energy%20communities%20Peter%202024-25-2A/

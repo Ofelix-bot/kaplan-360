@@ -1,0 +1,8 @@
+# lappeenranta-lahti-university-of-technology-lut https://www.lut.fi
+robots sitemaps: https://www.lut.fi/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.lut.fi/sitemap.xml: 4 children (4 course-like)
+sitemap https://lut.fi/sitemap.xml?page=1: robots disallowed by robots.txt: /sitemap.xml
+sitemap https://lut.fi/sitemap.xml?page=2: robots disallowed by robots.txt: /sitemap.xml
+sitemap https://lut.fi/sitemap.xml?page=3: robots disallowed by robots.txt: /sitemap.xml
+sitemap https://lut.fi/sitemap.xml?page=4: robots disallowed by robots.txt: /sitemap.xml
+sitemaps read 5 · urls 0 · master's-looking 0

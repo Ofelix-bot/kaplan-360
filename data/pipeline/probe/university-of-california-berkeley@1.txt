@@ -1,0 +1,12 @@
+# university-of-california-berkeley@1 https://www.berkeley.edu
+robots sitemaps: https://www.berkeley.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.berkeley.edu/sitemap_index.xml: 6 children (1 course-like)
+sitemaps read 7 · urls 539 · master's-looking 7
+    5  www.berkeley.edu/map
+         https://www.berkeley.edu/map/ida-louise-jackson-graduate-house/
+         https://www.berkeley.edu/map/graduate-theological-union/
+         https://www.berkeley.edu/map/graduate-theological-union-library/
+         https://www.berkeley.edu/map/graduate-services/
+    2  www.berkeley.edu/news_category
+         https://www.berkeley.edu/news_category/graduate-students/
+         https://www.berkeley.edu/news_category/mba/

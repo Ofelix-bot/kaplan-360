@@ -1,0 +1,8 @@
+{
+  "source": "University of Minho School of Economics and Management (EEG) master's list https://www.eeg.uminho.pt/en/study/mestrados/Pages/default.aspx ; kept Finance (all courses taught in English) and Business and Management (a full class taught in English); the other EEG masters are Portuguese-taught. The central UMinho course catalogue (www.uminho.pt .../Mestrados.aspx) opens course details by ASP.NET postback (no stable URLs), so other schools were not covered (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.eeg.uminho.pt/en/study/mestrados/Pages/finance.aspx",
+    "https://www.eeg.uminho.pt/en/study/mestrados/Pages/business-and-management.aspx"
+  ]
+}

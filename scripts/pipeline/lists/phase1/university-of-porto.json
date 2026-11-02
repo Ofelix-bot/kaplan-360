@@ -1,0 +1,12 @@
+{
+  "source": "U.Porto master's course list https://www.up.pt/portal/en/study/masters-degrees/courses/ ; each in-scope course page checked for its Language field, kept only where it reads 'English' ('Portuguese and English' and 'Portuguese - suitable for English-speaking students' skipped) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.up.pt/portal/en/study/masters-degrees/courses/fep/1081/",
+    "https://www.up.pt/portal/en/study/masters-degrees/courses/fep/1084/",
+    "https://www.up.pt/portal/en/study/masters-degrees/courses/fep/20701/",
+    "https://www.up.pt/portal/en/study/masters-degrees/courses/fep/1080/",
+    "https://www.up.pt/portal/en/study/masters-degrees/courses/feup/30901/",
+    "https://www.up.pt/portal/en/study/masters-degrees/courses/fcup/15261/"
+  ]
+}

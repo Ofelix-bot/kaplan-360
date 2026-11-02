@@ -1,0 +1,7 @@
+{
+ "Not sure where to start?": "不知道从哪里开始？",
+ "We read {pages} pages from universities, employers, government agencies and applicant forums, and made {api} API calls.": "我们读取了大学、雇主、政府机构和申请者论坛的网页 {pages} 次，调用 API {api} 次。",
+ "pages and API reads · {from} – {to}": "次网页与 API 读取 · {from} – {to}",
+ "{n} pages and API reads · last read {date}": "{n} 次网页与 API 读取 · 最近一次：{date}",
+ "{n} pages and API reads · last read {date} · <a>Kaplan 360++’s own count</a>": "{n} 次网页与 API 读取 · 最近一次：{date} · <a>Kaplan 360++ 自己的统计</a>"
+}

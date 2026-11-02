@@ -1,0 +1,17 @@
+{
+ "source": "TU/e Graduate School master programs (all English-taught) https://www.tue.nl/en/education/graduate-school/graduate-programs (configured 2026-11-01; crawl-delay 3 s)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.tue.nl/en/education/graduate-school/master-computer-science-and-engineering",
+  "https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence",
+  "https://www.tue.nl/en/education/graduate-school/master-artificial-intelligence-and-engineering-systems",
+  "https://www.tue.nl/en/education/graduate-school/master-data-science-in-business-and-entrepreneurship",
+  "https://www.tue.nl/en/education/graduate-school/master-embedded-systems",
+  "https://www.tue.nl/en/education/graduate-school/master-construction-management-and-engineering",
+  "https://www.tue.nl/en/education/graduate-school/master-innovation-management",
+  "https://www.tue.nl/en/education/graduate-school/master-innovation-sciences",
+  "https://www.tue.nl/en/education/graduate-school/master-operations-management-and-logistics",
+  "https://www.tue.nl/en/education/graduate-school/master-human-technology-interaction",
+  "https://www.tue.nl/en/education/graduate-school/master-science-education"
+ ]
+}

@@ -1,0 +1,153 @@
+{
+  "dataset": "Grading schemes of Kaplan Singapore's partner universities, and the equivalences used to compare a degree result with a master's entry requirement",
+  "checked": "2026-10-20",
+  "notes": [
+    "Every comparison goes through the UK classification (First, 2:1, 2:2, Third) as the common scale: half of Kaplan's partners award UK or Irish classes, and Hong Kong and Singapore requirements are mostly written as classes or 4-point GPAs.",
+    "Conversions between systems are approximate. They follow the universities' own published grade descriptions and, across systems, equivalences published by UK universities. The receiving university decides how it reads a degree."
+  ],
+  "schemes": {
+    "Northumbria University at Newcastle": {
+      "system": "uk-class",
+      "classMin": { "first": 70, "2:1": 60, "2:2": 50, "third": 40 },
+      "sources": [
+        {
+          "url": "https://northumbria-cdn.azureedge.net/-/media/services/academic%20registry/documents/qte/assessment/guidance%20for%20students/ms002v005%20classifying%20undergraduate%20degrees%20202122student%20guidance%20level%205%20resitlevel%206l7%20continuing.pdf",
+          "quote": "You have to get 70%+ overall for a 1st class; 60%+ overall for a 2:1; 50%+ for a 2:2; 40%+ for a 3rd",
+          "verified": "pdf text, 2026-10-20"
+        }
+      ]
+    },
+    "Birmingham City University": {
+      "system": "uk-class",
+      "classMin": { "first": 70, "2:1": 60, "2:2": 50, "third": 40 },
+      "sources": [
+        {
+          "url": "https://www.bcu.ac.uk/Download/Asset/9a15cb35-6fd0-e811-80d3-0050568319fd",
+          "quote": "First Class (1st) … 70%; Upper Second Class (2.1) … 60%; Lower Second Class (2.2) … 50%; Third Class (3rd) … 40%",
+          "verified": "Academic Regulations table, as reported by search; check before relying on it"
+        }
+      ]
+    },
+    "University of Portsmouth": {
+      "system": "uk-class",
+      "classMin": { "first": 70, "2:1": 60, "2:2": 50, "third": 40 },
+      "sources": [
+        {
+          "url": "https://regulations.docstore.port.ac.uk/ExamRegs6MarkingFeedback.pdf",
+          "quote": "first class honours or distinction standard - a mark in the range of 70-100; upper second class honours or merit standard - a mark in the range of 60-69; lower second class honours standard - a mark in the range of 50-59; third class honours standard - a mark in the range of 40-49",
+          "verified": "pdf text, 2026-10-20"
+        }
+      ]
+    },
+    "University College Dublin": {
+      "system": "ie-gpa",
+      "gpaScale": 4.2,
+      "classGpaMin": { "first": 3.68, "2:1": 3.08, "2:2": 2.48, "pass": 2.0 },
+      "sources": [
+        {
+          "url": "https://www.ucd.ie/registry/t4media/Award-Classification_revised_2024.pdf",
+          "quote": "First Class Honours 3.68 and above; Second Class Honours, Grade 1 3.08 – 3.67; Second Class Honours, Grade 2 2.48 – 3.07; Pass 2.00 – 2.47",
+          "verified": "UCD Registry information sheet and Academic Regulations 2025-26, as reported by search (the site blocks automated reads); check before relying on it"
+        }
+      ]
+    },
+    "Murdoch University": {
+      "system": "au-grades",
+      "bands": { "HD": 80, "D": 70, "C": 60, "P": 50 },
+      "gpaScale": 4,
+      "gradeValues": { "HD": 4, "D": 3, "C": 2.5, "P": 2 },
+      "sources": [
+        {
+          "url": "https://cdn.murdoch.edu.au/mu-docs/default-source/published_published_files/Grades-Procedure.pdf",
+          "quote": "HD High Distinction 4 · D Distinction 3 · C Credit 2.5 · P Pass 2",
+          "verified": "pdf text, 2026-10-20"
+        },
+        {
+          "url": "https://askmurdoch.custhelp.com/app/answers/detail/a_id/714",
+          "quote": "High Distinction 80–100%, Distinction 70–79%, Credit 60–69%, Pass 50–59% (Final Grades of units which award grades from 1 February 2023)",
+          "verified": "not read automatically (robots.txt disallows it); bands confirmed by the project owner on 2026-10-20"
+        }
+      ]
+    },
+    "Monash University": {
+      "system": "au-grades",
+      "bands": { "HD": 80, "D": 70, "C": 60, "P": 50 },
+      "gpaScale": 4,
+      "gradeValues": { "HD": 4, "D": 3, "C": 2, "P": 1 },
+      "sources": [
+        {
+          "url": "https://www.monash.edu/students/admin/assessments/results/results-legend",
+          "quote": "High Distinction 80–100",
+          "verified": "page text, 2026-10-20"
+        },
+        {
+          "url": "https://www.monash.edu/students/admin/assessments/results/gpa",
+          "quote": "High distinction 4.0 · Distinction 3.0 · Credit 2.0 · Pass 1.0",
+          "verified": "page text, 2026-10-20"
+        }
+      ]
+    }
+  },
+  "equivalences": {
+    "auToUk": {
+      "rule": "Australian average mark: about 80% (High Distinction) for a UK First, 70% (Distinction) for a 2:1, 65% (Credit) for a 2:2",
+      "min": { "first": 80, "2:1": 70, "2:2": 65 },
+      "sources": [
+        {
+          "url": "https://www.surrey.ac.uk/australia/entry-requirements",
+          "quote": "Bachelor ordinary degree (three Years) with Distinction (approximately 70%). … Bachelor ordinary degree (three years) with Credit (approximately 65%).",
+          "verified": "page text, 2026-10-20"
+        },
+        { "url": "https://www.gla.ac.uk/international/country/australia", "quote": "UK 2:1: about 70%; UK 2:2: about 65%", "verified": "as reported by search" },
+        {
+          "url": "https://www.leeds.ac.uk/dir-record/profiles/21779/australia",
+          "quote": "If we ask for 1st, you need: 1st, High Distinction, 85% (when pass mark is 45%), 80% (when pass mark is 50%), A, 7/7",
+          "verified": "page text, 2026-10-22 (Murdoch and Monash pass at 50%)"
+        }
+      ]
+    },
+    "gpa7ToUk": {
+      "rule": "A 7-point GPA (Australia): 7 for a First, 6 for a 2:1, 5 for a 2:2",
+      "min": { "first": 7, "2:1": 6, "2:2": 5 },
+      "sources": [
+        {
+          "url": "https://www.leeds.ac.uk/dir-record/profiles/21779/australia",
+          "quote": "If we ask for 2.1, you need: 2:1, Distinction, 75% (when pass mark is 45%), 70% (when pass mark is 50%), B, 6/7 … If we ask for 2.2, you need: 2.2, Credit, 65% (when pass mark is 45%), 60% (when pass mark is 50%), C, 5/7",
+          "verified": "page text, 2026-10-22"
+        }
+      ]
+    },
+    "highTwoOne": {
+      "rule": "A high 2:1: an average of 65% or more",
+      "min": 65,
+      "sources": [
+        { "url": "https://www.kcl.ac.uk/study/postgraduate-taught/courses/statistics", "quote": "high 2:1 undergraduate Bachelor’s (honours) degree with a final mark of at least 65%", "verified": "programme requirement, 2026-10" },
+        { "url": "https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/film-studies-ma-2026", "quote": "high upper second-class Honours degree (average 65%)", "verified": "programme requirement, 2026-10" }
+      ]
+    },
+    "gpa4ToUk": {
+      "rule": "A 4-point GPA: 3.6 for a First, 3.0 for a 2:1, 2.5 for a 2:2 (Hong Kong honours bands; a UK university's reading of Hong Kong GPAs)",
+      "min": { "first": 3.6, "2:1": 3.0, "2:2": 2.5 },
+      "sources": [
+        {
+          "url": "https://www.qub.ac.uk/home/International/International-students/Applying/Agents-and-partner-information/Filestore/Filetoupload,1043034,en.pdf",
+          "quote": "Bachelor Honours degree with GPA 3.0/4 … upper second-class honours; GPA 2.5/4 … lower second-class",
+          "verified": "as reported by search"
+        },
+        {
+          "url": "https://course.law.hku.hk/wp-content/uploads/Criteria-for-Award-of-Specific-Class-of-Degree-JD.pdf",
+          "quote": "Division One 3.00 - 3.59; Division Two 2.40 - 2.99",
+          "verified": "as reported by search"
+        }
+      ]
+    },
+    "ukMarks": {
+      "rule": "UK, Irish, Hong Kong and Singapore percentage marks: 70 First, 60 2:1, 50 2:2, 40 Third",
+      "min": { "first": 70, "2:1": 60, "2:2": 50, "third": 40 }
+    },
+    "letterGpa4": {
+      "rule": "Letter grades on a 4-point scale (University of Macau and similar): A 4.0, A- 3.7, B+ 3.3, B 3.0, B- 2.7, C+ 2.3, C 2.0",
+      "values": { "A": 4.0, "A-": 3.7, "B+": 3.3, "B": 3.0, "B-": 2.7, "C+": 2.3, "C": 2.0 }
+    }
+  }
+}

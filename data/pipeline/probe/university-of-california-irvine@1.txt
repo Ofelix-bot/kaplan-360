@@ -1,0 +1,6 @@
+# university-of-california-irvine@1 https://uci.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 38 · master's-looking 2
+    2  uci.edu/academics
+         https://uci.edu/academics/graduate.php
+         https://uci.edu/academics/undergraduate.php

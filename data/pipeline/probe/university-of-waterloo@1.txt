@@ -1,0 +1,3 @@
+# university-of-waterloo@1 https://uwaterloo.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 12 · master's-looking 0

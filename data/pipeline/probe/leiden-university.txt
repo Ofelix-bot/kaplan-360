@@ -1,0 +1,129 @@
+# leiden-university https://www.universiteitleiden.nl
+robots sitemaps: https://www.universiteitleiden.nl/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.universiteitleiden.nl/sitemap.xml: 46 children (0 course-like)
+sitemaps read 47 · urls 45782 · master's-looking 433
+   10  www.universiteitleiden.nl/agenda/extra/2026
+         https://www.universiteitleiden.nl/agenda/extra/2026/03/master-public-administration-qa-mpa-maart-2026
+         https://www.universiteitleiden.nl/agenda/extra/2026/03/aansluitcollege-criminologie-en-veiligheidsbeleid-msc-19-maart
+         https://www.universiteitleiden.nl/agenda/extra/2026/04/meeloopdag-master-public-administration---vak-public-policy-and-values
+         https://www.universiteitleiden.nl/agenda/extra/2026/03/online-qa-ma-international-relations-27-maart-2026
+    8  www.universiteitleiden.nl/nieuws/2017/11
+         https://www.universiteitleiden.nl/nieuws/2017/11/dubben-over-masters-er-valt-wat-te-kiezen
+         https://www.universiteitleiden.nl/nieuws/2017/11/masterdag-10-november-heb-jij-ook-moeite-met-het-kiezen-van-een-master
+         https://www.universiteitleiden.nl/nieuws/2017/11/topsector-chemiebeurs-voor-twee-leidse-masterstudenten
+         https://www.universiteitleiden.nl/nieuws/2017/11/hans-martien-ten-napel-neemt-deel-aan-law-and-religious-freedom-boekpanel-tijdens-jaarvergadering-van-de-american-academy-of-religion-in-boston-ma
+    7  www.universiteitleiden.nl/campagne/master/opleidingen
+         https://www.universiteitleiden.nl/campagne/master/opleidingen/natuur-data-en-innovatie
+         https://www.universiteitleiden.nl/campagne/master/opleidingen/democratie-recht-en-overheid
+         https://www.universiteitleiden.nl/campagne/master/opleidingen/economie-financien-en-organisatie
+         https://www.universiteitleiden.nl/campagne/master/opleidingen/mens-gedrag-en-maatschappij
+    7  www.universiteitleiden.nl/agenda/2025/10
+         https://www.universiteitleiden.nl/agenda/2025/10/afstudeerceremonie-ma-archaeology
+         https://www.universiteitleiden.nl/agenda/2025/10/afstudeerceremonie-msc-media-techology
+         https://www.universiteitleiden.nl/agenda/2025/10/afstudeerceremonie-msc-computer-science
+         https://www.universiteitleiden.nl/agenda/2025/10/diploma-uitreiking-master-biologie
+    6  www.universiteitleiden.nl/nieuws/2016/11
+         https://www.universiteitleiden.nl/nieuws/2016/11/msc-track-economics-and-governance
+         https://www.universiteitleiden.nl/nieuws/2016/11/kiezen-voor-een-leidse-betamaster
+         https://www.universiteitleiden.nl/nieuws/2016/11/samuel-jong-wint-msc-scriptieprijs-2016
+         https://www.universiteitleiden.nl/nieuws/2016/11/161107-verslag-masterdag
+    6  www.universiteitleiden.nl/nieuws/2019/09
+         https://www.universiteitleiden.nl/nieuws/2019/09/presentatie-masterscripties-jeugdrecht-op-het-ministerie-van-justitie-en-veiligheid
+         https://www.universiteitleiden.nl/nieuws/2019/09/shortlist-scriptieprijs-msc-politicologie
+         https://www.universiteitleiden.nl/nieuws/2019/09/masterscriptie-over-kinderrechten-ding-mee-naar-de-jaap-doek-kinderrechtenscriptieprijs-2019
+         https://www.universiteitleiden.nl/nieuws/2019/09/openingslezing-master-europees-recht-door-hoofd-europol-catherine-de-bolle
+    6  www.universiteitleiden.nl/nieuws/2015/11
+         https://www.universiteitleiden.nl/nieuws/2015/11/masterdag-2015-druk-bezocht
+         https://www.universiteitleiden.nl/nieuws/2015/11/masterdag-denhaag
+         https://www.universiteitleiden.nl/nieuws/2015/11/bezoekers-van-de-masterdag-vertellen
+         https://www.universiteitleiden.nl/nieuws/2015/11/boyd-leupen-wint-msc-thesis-prize-2015
+    6  www.universiteitleiden.nl/nieuws/2019/03
+         https://www.universiteitleiden.nl/nieuws/2019/03/masterdag-leiden-science-maart-2019
+         https://www.universiteitleiden.nl/nieuws/2019/03/topopleidingen-voor-geesteswetenschappen-resma-classics-and-ancient-civilizations-en-ma-north-american-studies
+         https://www.universiteitleiden.nl/nieuws/2019/03/verslag-masterdag
+         https://www.universiteitleiden.nl/nieuws/2019/03/masterstudente-meyke-rietveld-wint-de-verkiezing-beste-student-arbeidsrecht-2019
+    5  www.universiteitleiden.nl/governance-and-global-affairs/graduate-school
+         https://www.universiteitleiden.nl/governance-and-global-affairs/graduate-school/alumni
+         https://www.universiteitleiden.nl/governance-and-global-affairs/graduate-school/aankomende-promovendi
+         https://www.universiteitleiden.nl/governance-and-global-affairs/graduate-school/contact
+         https://www.universiteitleiden.nl/governance-and-global-affairs/graduate-school/huidige-promovendi
+    5  www.universiteitleiden.nl/nieuws/2023/10
+         https://www.universiteitleiden.nl/nieuws/2023/10/onderwijs-dat-aansluit-bij-de-behoefte-van-de-markt-nieuw-vak-voor-masterstudenten-met-focus-op-kwaliteit-bij-medicijnontwikkeling
+         https://www.universiteitleiden.nl/nieuws/2023/10/erik-danen-nieuwe-dean-van-de-graduate-school-of-science
+         https://www.universiteitleiden.nl/nieuws/2023/10/masterstudent-nicole-ter-laak-wint-knmp-studentenprijs-2023
+         https://www.universiteitleiden.nl/nieuws/2023/10/masterspecialisatie-applied-archaeology-helpt-veldarcheologen-met-nieuwe-stap-in-loopbaan
+    5  www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2021
+         https://www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2021/april/master-classes-fierro
+         https://www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2021/februari/huizinga-master-class
+         https://www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2021/oktober/master-classes-kennedy
+         https://www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2021/maart/princeton-graduate-conference
+    5  www.universiteitleiden.nl/agenda/2025/03
+         https://www.universiteitleiden.nl/agenda/2025/03/health-ageing-and-society-een-parttime-masteropleiding
+         https://www.universiteitleiden.nl/agenda/2025/03/transfusion-medicine-and-cellular-and-tissue-therapies-een-online-masteropleiding
+         https://www.universiteitleiden.nl/agenda/2025/03/diploma-uitreiking-bachelor-en-master-culturele-antropologie-en-ontwikkelings-sociologie
+         https://www.universiteitleiden.nl/agenda/2025/03/afstudeerceremonie-msc-computer-science
+    5  www.universiteitleiden.nl/nieuws/2019/04
+         https://www.universiteitleiden.nl/nieuws/2019/04/masterstudenten-industrial-ecology-geselecteerd-voor-eu-project-duurzame-start-ups
+         https://www.universiteitleiden.nl/nieuws/2019/04/robbert-van-eijk-geeft-een-masterclass-over-online-reclametechnologie
+         https://www.universiteitleiden.nl/nieuws/2019/04/alumni-van-de-master-jeugdrecht-komen-naar-leiden-voor-carrieremiddag-en-alumni-avond
+         https://www.universiteitleiden.nl/nieuws/2019/04/vijf-jarig-jubileum-master-arbeidsrecht
+    5  www.universiteitleiden.nl/agenda/2026/10
+         https://www.universiteitleiden.nl/agenda/2026/10/graduate-school-ai-in-promotieonderzoek
+         https://www.universiteitleiden.nl/agenda/2026/10/afstudeerceremonie-msc-biologie---7-oktober
+         https://www.universiteitleiden.nl/agenda/2026/10/afstudeerceremonie-msc-biologie---28-oktober
+         https://www.universiteitleiden.nl/agenda/2026/10/diploma-uitreiking-master-education-and-child-studies
+    5  www.universiteitleiden.nl/nieuws/2017/09
+         https://www.universiteitleiden.nl/nieuws/2017/09/vijfjarig-bestaan-master-jeugdrecht-feestelijk-gevierd
+         https://www.universiteitleiden.nl/nieuws/2017/09/masterstudente-staats--en-bestuursrecht-studeert-summa-cum-laude-af
+         https://www.universiteitleiden.nl/nieuws/2017/09/jasmina-ma%C4%8Dki%C4%87-bespreekt-met-eerstejaarsstudenten-de-film-%E2%80%98eye-in-the-sky%E2%80%99
+         https://www.universiteitleiden.nl/nieuws/2017/09/masterscriptie-over-kinderrechten-ding-mee-naar-de-jaap-doek-kinderrechtenscriptieprijs-2017
+    5  www.universiteitleiden.nl/nieuws/2020/09
+         https://www.universiteitleiden.nl/nieuws/2020/09/master-scriptieprijs-2020-de-genomineerden
+         https://www.universiteitleiden.nl/nieuws/2020/09/eerste-double-degree-graduates-zijn-een-feit
+         https://www.universiteitleiden.nl/nieuws/2020/09/masterscriptie-over-kinderrechten-ding-mee-naar-de-jaap-doek-kinderrechtenscriptieprijs-2020
+         https://www.universiteitleiden.nl/nieuws/2020/09/eerste-lichting-studenten-klinische-technologie-ontvangt-masterdiploma
+    5  www.universiteitleiden.nl/nieuws/2016/09
+         https://www.universiteitleiden.nl/nieuws/2016/09/erik-jan-zurcher-hoogleraar-turkse-talen-en-culturen-opent-the-european-law-master
+         https://www.universiteitleiden.nl/nieuws/2016/09/eerste-afstudeerceremonie-master-of-laws-advanced-studies-in-international-children%E2%80%99s-rights
+         https://www.universiteitleiden.nl/nieuws/2016/09/opening-master-jeugdrecht-%E2%80%93-lustrumeditie
+         https://www.universiteitleiden.nl/nieuws/2016/09/mooie-aftrap-master-staats--en-bestuursrecht
+    5  www.universiteitleiden.nl/nieuws/2017/10
+         https://www.universiteitleiden.nl/nieuws/2017/10/studenten-van-de-advanced-master-international-children%E2%80%99s-rights-bezoeken-internationaal-strafhof
+         https://www.universiteitleiden.nl/nieuws/2017/10/studenten-van-de-advanced-master-international-childrens-rights-bezoeken-jeugdinrichting-de-hunnerberg
+         https://www.universiteitleiden.nl/nieuws/2017/10/presentatie-masterscriptie-tijdens-conferentie-reshaping-work
+         https://www.universiteitleiden.nl/nieuws/2017/10/nieuwsbrief-advanced-master-international-childrens-rights-online
+    4  www.universiteitleiden.nl/medewerkers
+         https://www.universiteitleiden.nl/medewerkers/ili-ma
+         https://www.universiteitleiden.nl/medewerkers/susanne-masters
+         https://www.universiteitleiden.nl/medewerkers/noel-ma-romero-paap
+         https://www.universiteitleiden.nl/medewerkers/qiang-ma
+    4  www.universiteitleiden.nl/nieuws/2019/01
+         https://www.universiteitleiden.nl/nieuws/2019/01/llm-advanced-studies-excellent-bevonden-door-nvao
+         https://www.universiteitleiden.nl/nieuws/2019/01/advanced-masterstudie-international-childrens-rights-is-excellent-bevonden-door-nvao
+         https://www.universiteitleiden.nl/nieuws/2019/01/applied-archaeology-nieuwe-masterspecialisatie-van-universiteit-leiden-en-saxion-hogeschool
+         https://www.universiteitleiden.nl/nieuws/2019/01/advanced-master-law-and-digital-technologies-excellent-bevonden-door-nvao
+    4  www.universiteitleiden.nl/nieuws/2017/02
+         https://www.universiteitleiden.nl/nieuws/2017/02/eerste-studenten-executive-masteropleiding-cyber-security-studeren-af-op-9-februari-2017
+         https://www.universiteitleiden.nl/nieuws/2017/02/mooie-opening-tweede-semester-master-jeugdrecht
+         https://www.universiteitleiden.nl/nieuws/2017/02/masterdag-verbreed-je-blikveld
+         https://www.universiteitleiden.nl/nieuws/2017/02/masterdag-%E2%80%9Cwe-willen-onze-kansen-op-de-arbeidsmarkt-vergroten%E2%80%9D
+    4  www.universiteitleiden.nl/nieuws/2018/11
+         https://www.universiteitleiden.nl/nieuws/2018/11/verslag-masterdag-november
+         https://www.universiteitleiden.nl/nieuws/2018/11/jorrit-rijpma-bezoekt-brussel-met-studenten-lde-master-bestuur-van-migratie-en-diversiteit
+         https://www.universiteitleiden.nl/nieuws/2018/11/unilever-research-prize-for-master-student-lukas-kiefer
+         https://www.universiteitleiden.nl/nieuws/2018/11/masterdag
+    4  www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2024
+         https://www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2024/oktober/funded-ma-and-phd-opportunities-at-central-european-university-vienna
+         https://www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2024/november/ma-and-phd-opportunities-at-central-european-universitiy-vienna-info-sessions
+         https://www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2024/februari/masterclass-wondering-about-reform
+         https://www.universiteitleiden.nl/onderzoekschool-medievistiek/nieuws/2024/juni/utrecht-university-master-apprentice-elective-10-ects---lettercraft-in-early-medieval-europe
+    4  www.universiteitleiden.nl/nieuws/2019/02
+         https://www.universiteitleiden.nl/nieuws/2019/02/diploma-uitreiking-voor-interdisciplinaire-master-cyber-security
+         https://www.universiteitleiden.nl/nieuws/2019/02/groen-licht-voor-master-governance-of-sustainability
+         https://www.universiteitleiden.nl/nieuws/2019/02/lieuwe-vinkhuijzen-wint-derde-prijs-versen-master-thesis-award
+         https://www.universiteitleiden.nl/nieuws/2019/02/geslaagde-start-van-tweede-semester-master-jeugdrecht
+    4  www.universiteitleiden.nl/nieuws/2026/03
+         https://www.universiteitleiden.nl/nieuws/2026/03/keuzegids-masters-2026-welke-opleidingen-scoren-bovengemiddeld
+         https://www.universiteitleiden.nl/nieuws/2026/03/educatieve-master-primair-onderwijs-voor-zij-instromers
+         https://www.universiteitleiden.nl/nieuws/2026/03/vijf-fgw-masters-hoog-beoordeeld-in-keuzegids-2026
+         https://www.universiteitleiden.nl/nieuws/2026/03/masterstudenten-organiseren-congres-who-is-asian

@@ -1,0 +1,100 @@
+# middlesex-university https://www.mdx.ac.uk
+robots sitemaps: https://www.mdx.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 2503 · master's-looking 380
+  112  www.mdx.ac.uk/courses/postgraduate
+         https://www.mdx.ac.uk/courses/postgraduate/interiors-architecture-and-design-ma/
+         https://www.mdx.ac.uk/courses/postgraduate/advanced-social-work-practice-ma-pgdip-pgcert/
+         https://www.mdx.ac.uk/courses/postgraduate/mastersdoctor-of-professional-studies-mprofdprof/
+         https://www.mdx.ac.uk/courses/postgraduate/psychological-therapies-and-interventions-msc--pgdip-/
+  100  www.mdx.ac.uk/courses/undergraduate
+         https://www.mdx.ac.uk/courses/undergraduate/interior-architecture-ba-honours/
+         https://www.mdx.ac.uk/courses/undergraduate/football-coaching-and-performance-with-foundation-year-bsc/
+         https://www.mdx.ac.uk/courses/undergraduate/criminology-policing-and-investigations-bsc-honours/
+         https://www.mdx.ac.uk/courses/undergraduate/international-business-ba-honours/
+   12  www.mdx.ac.uk/study/postgraduate
+         https://www.mdx.ac.uk/study/postgraduate/choose-middlesex/
+         https://www.mdx.ac.uk/study/postgraduate/entry-requirements-for-postgraduates/
+         https://www.mdx.ac.uk/study/postgraduate/research-studentships/
+         https://www.mdx.ac.uk/study/postgraduate/professional-placement-year/
+    9  www.mdx.ac.uk/study/undergraduate
+         https://www.mdx.ac.uk/study/undergraduate/order-an-undergraduate-prospectus/
+         https://www.mdx.ac.uk/study/undergraduate/undergraduate-enquiry-form/
+         https://www.mdx.ac.uk/study/undergraduate/entry-requirements-for-undergraduates/
+         https://www.mdx.ac.uk/study/undergraduate/undergraduate-offer-holders/
+    8  www.mdx.ac.uk/about-us/events
+         https://www.mdx.ac.uk/about-us/events/postgraduate-information-session/
+         https://www.mdx.ac.uk/about-us/events/ma-interiors-degree-show/
+         https://www.mdx.ac.uk/about-us/events/postgraduate-researchers-summer-conference/
+         https://www.mdx.ac.uk/about-us/events/postgraduate-open-event/
+    7  www.mdx.ac.uk/courses/short-courses-and-cpd
+         https://www.mdx.ac.uk/courses/short-courses-and-cpd/mba-marketing-management-in-a-digital-age/
+         https://www.mdx.ac.uk/courses/short-courses-and-cpd/mba-finance-and-economic-analysis/
+         https://www.mdx.ac.uk/courses/short-courses-and-cpd/mba-capstone-project/
+         https://www.mdx.ac.uk/courses/short-courses-and-cpd/mba-leadership/
+    6  www.mdx.ac.uk/study/open-days/pg-open-events
+         https://www.mdx.ac.uk/study/open-days/pg-open-events/postgraduate-virtual-open-evening-live-subject-talks/
+         https://www.mdx.ac.uk/study/open-days/pg-open-events/postgraduate-virtual-open-evening-general-and-support-services-talks/
+         https://www.mdx.ac.uk/study/open-days/pg-open-events/postgraduate-virtual-open-evening-subject-talks-on-demand/
+         https://www.mdx.ac.uk/study/open-days/pg-open-events/postgraduate-virtual-open-evening-general-and-support-services-talks/postgraduate-virtual-open-event-live-chat-with-staff-and-students/
+    6  www.mdx.ac.uk/study/postgraduate/postgraduate-offer-holders
+         https://www.mdx.ac.uk/study/postgraduate/postgraduate-offer-holders/meet-your-postgraduate-course-ambassador/technology-course-ambassador/
+         https://www.mdx.ac.uk/study/postgraduate/postgraduate-offer-holders/meet-your-postgraduate-course-ambassador/science-course-ambassador/
+         https://www.mdx.ac.uk/study/postgraduate/postgraduate-offer-holders/meet-your-postgraduate-course-ambassador/law-course-ambassador/
+         https://www.mdx.ac.uk/study/postgraduate/postgraduate-offer-holders/meet-your-postgraduate-course-ambassador/business-and-management-course-ambassador/
+    5  www.mdx.ac.uk/research/graduate-school
+         https://www.mdx.ac.uk/research/graduate-school/wellbeing-and-postgraduate-research/
+         https://www.mdx.ac.uk/research/graduate-school/visiting-fellows-at-middlesex-university-graduate-school/
+         https://www.mdx.ac.uk/research/graduate-school/about-graduate-school/
+         https://www.mdx.ac.uk/research/graduate-school/postgraduate-researcher-development-programme/
+    4  www.mdx.ac.uk/study/undergraduate/interviews-portfolios-and-auditions
+         https://www.mdx.ac.uk/study/undergraduate/interviews-portfolios-and-auditions/creative-portfolios-interviews-and-auditions/
+         https://www.mdx.ac.uk/study/undergraduate/interviews-portfolios-and-auditions/social-work-interviews-and-assessment-documents/
+         https://www.mdx.ac.uk/study/undergraduate/interviews-portfolios-and-auditions/veterinary-nursing-application-and-interviews/
+         https://www.mdx.ac.uk/study/undergraduate/interviews-portfolios-and-auditions/nursing-and-midwifery-application-and-interviews/
+    3  www.mdx.ac.uk/mdx-voices
+         https://www.mdx.ac.uk/mdx-voices/shraddhas-msc-sports-rehabilitation-journey-at-middlesex/
+         https://www.mdx.ac.uk/mdx-voices/studying-an-mba-in-london-after-engineering/
+         https://www.mdx.ac.uk/mdx-voices/what-ma-education-has-taught-me/
+    3  www.mdx.ac.uk/news/2024/5
+         https://www.mdx.ac.uk/news/2024/5/criminologists-and-graduates-herald-visionary-mdx-academic-vincenzo-ruggiero-at-inspiring-memorial/
+         https://www.mdx.ac.uk/news/2024/5/middlesex-university-graduate-competes-in-worldskills-lyon-2024/
+         https://www.mdx.ac.uk/news/2024/5/overseas-nurse-and-mdx-graduate-talks-about-his-passion-for-care-and-lifelong-learning/
+    3  www.mdx.ac.uk/news/2024/8
+         https://www.mdx.ac.uk/news/2024/8/engineering-graduate-beats-entries-from-some-80-fellow-students-to-win-major-award-from-technology-industry-leaders/
+         https://www.mdx.ac.uk/news/2024/8/mdx-lands-in-the-top-ten-in-national-postgraduate-research-experience-survey/
+         https://www.mdx.ac.uk/news/2024/8/london-graduates/
+    3  www.mdx.ac.uk/study/undergraduate/undergraduate-offer-holders
+         https://www.mdx.ac.uk/study/undergraduate/undergraduate-offer-holders/thank-you/
+         https://www.mdx.ac.uk/study/undergraduate/undergraduate-offer-holders/offers-for-nursing-and-midwifery/
+         https://www.mdx.ac.uk/study/undergraduate/undergraduate-offer-holders/applicant-experience-day/
+    2  www.mdx.ac.uk/courses
+         https://www.mdx.ac.uk/courses/postgraduate/
+         https://www.mdx.ac.uk/courses/undergraduate/
+    2  www.mdx.ac.uk/study/undergraduate/entry-requirements-for-undergraduates
+         https://www.mdx.ac.uk/study/undergraduate/entry-requirements-for-undergraduates/recognition-of-previous-learning/
+         https://www.mdx.ac.uk/study/undergraduate/entry-requirements-for-undergraduates/what-are-t-levels/
+    2  www.mdx.ac.uk/news/2026/6
+         https://www.mdx.ac.uk/news/2026/6/honorary-graduates-2026/
+         https://www.mdx.ac.uk/news/2026/6/graduate-student-success-stories/
+    2  www.mdx.ac.uk/study
+         https://www.mdx.ac.uk/study/undergraduate/
+         https://www.mdx.ac.uk/study/postgraduate/
+    2  www.mdx.ac.uk/study/fees-and-funding
+         https://www.mdx.ac.uk/study/fees-and-funding/postgraduate-finance/
+         https://www.mdx.ac.uk/study/fees-and-funding/undergraduate-finance/
+    2  www.mdx.ac.uk/study/open-days/open-day
+         https://www.mdx.ac.uk/study/open-days/open-day/december-undergraduate-events/thank-you/
+         https://www.mdx.ac.uk/study/open-days/open-day/december-undergraduate-events/
+    2  www.mdx.ac.uk/news/2023/6
+         https://www.mdx.ac.uk/news/2023/6/graduate-competencies-project-graduation-week/
+         https://www.mdx.ac.uk/news/2023/6/graduate-show-metamorphosis-2023/
+    2  www.mdx.ac.uk/news/2024/1
+         https://www.mdx.ac.uk/news/2024/1/jennifer-forward-hayter-penknife-masters-photography/
+         https://www.mdx.ac.uk/news/2024/1/ukrainian-refugee-ma-place-branding-award/
+    2  www.mdx.ac.uk/courses/research-degrees
+         https://www.mdx.ac.uk/courses/research-degrees/ecology-and-environmental-science-msc-by-research/
+         https://www.mdx.ac.uk/courses/research-degrees/mamsc-by-research/
+    1  www.mdx.ac.uk/courses/postgraduate/employment-based-postgraduate-initial-teacher-training-itt
+         https://www.mdx.ac.uk/courses/postgraduate/employment-based-postgraduate-initial-teacher-training-itt/2027/
+    1  www.mdx.ac.uk/courses/postgraduate/international-relations-and-diplomacy-ma
+         https://www.mdx.ac.uk/courses/postgraduate/international-relations-and-diplomacy-ma/2027/

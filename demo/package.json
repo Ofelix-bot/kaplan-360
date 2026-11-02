@@ -1,0 +1,46 @@
+{
+  "name": "kaplan-360pp-stack-demo",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3100",
+    "build": "next build",
+    "start": "npx serve@14.2.4 out",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "check:deps": "node scripts/check-deps.mjs",
+    "check": "npm run lint && npm run typecheck && npm run check:deps",
+    "data:snapshot": "node scripts/snapshot.mjs"
+  },
+  "dependencies": {
+    "@base-ui/react": "1.9.0",
+    "@dnd-kit/core": "6.3.1",
+    "@dnd-kit/sortable": "10.0.0",
+    "@dnd-kit/utilities": "3.2.2",
+    "class-variance-authority": "0.7.1",
+    "cn": "0.5.0",
+    "lucide-react": "1.61.0",
+    "motion": "14.6.0",
+    "next": "16.4.2",
+    "next-themes": "0.4.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-resizable-panels": "4.14.8",
+    "zustand": "5.0.16"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "20.19.43",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.2",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.9.3"
+  },
+  "overrides": {
+    "postcss": "8.5.23",
+    "@eslint-community/eslint-utils": "4.9.1"
+  }
+}

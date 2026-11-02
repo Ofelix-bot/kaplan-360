@@ -1,0 +1,32 @@
+{
+ "source": "Heinz /programs, Tepper /programs, SCS master's programmes list (cs.cmu.edu/masters-programs), INI academics (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.heinz.cmu.edu/programs/information-systems-management-master",
+  "https://www.heinz.cmu.edu/programs/artificial-intelligence-masters",
+  "https://www.heinz.cmu.edu/programs/technology-and-ai-leadership-master",
+  "https://www.heinz.cmu.edu/programs/information-security-policy-management-master",
+  "https://www.heinz.cmu.edu/programs/public-policy-management-master",
+  "https://www.heinz.cmu.edu/programs/public-management-master",
+  "https://www.heinz.cmu.edu/programs/health-care-analytics-master",
+  "https://www.heinz.cmu.edu/programs/arts-management-master",
+  "https://www.heinz.cmu.edu/programs/entertainment-industry-management-master",
+  "https://www.cmu.edu/tepper/programs/mba",
+  "https://www.cmu.edu/tepper/programs/master-business-analytics",
+  "https://www.cmu.edu/tepper/programs/master-science-management",
+  "https://www.cmu.edu/tepper/programs/master-product-management/index.html",
+  "https://www.cmu.edu/mscf/",
+  "https://www.csd.cmu.edu/education/master/index.html",
+  "https://www.hcii.cmu.edu/academics/mhci",
+  "https://metals.hcii.cmu.edu/",
+  "https://lti.cmu.edu/academics/masters-programs/mcds.html",
+  "https://lti.cmu.edu/academics/masters-programs/msaii.html",
+  "https://lti.cmu.edu/academics/masters-programs/miis.html",
+  "https://ml.cmu.edu/academics/primary-ms-machine-learning-masters",
+  "https://www.ri.cmu.edu/MSCV",
+  "https://mrsd.ri.cmu.edu/",
+  "https://mse.isri.cmu.edu/applicants/mse-as/index.html",
+  "https://www.cmu.edu/ini/academics/msin/index.html",
+  "https://www.cmu.edu/ini/academics/msis/index.html"
+ ]
+}

@@ -1,0 +1,345 @@
+{
+ "source": "寄托天下 Offer 榜 public list API (offer.gter.net/api/lists), Hong Kong/Macau/Taiwan and Singapore, master's, intakes 2022-2027, by undergraduate category",
+ "checked": "2026-11-01",
+ "note": "Unauthenticated lists filtered by undergraduate category return one page (20 reports) per filter, and GPAs are visible only after login, so this source cannot calibrate the GPA curve. Kept for reference; not used in the fit.",
+ "reports": 222,
+ "linked": 58,
+ "rows": [
+  {
+   "programmeId": "nanyang-technological-university-singapore-master-of-science-in-computer-control-and-automation",
+   "tier": "C",
+   "admit": 0,
+   "reject": 1,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "nanyang-technological-university-singapore-master-of-social-sciences-in-china-and-global-governance",
+   "tier": "O",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "city-university-of-hong-kong-master-of-laws-in-arbitration-and-dispute-resolution",
+   "tier": "O",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "city-university-of-hong-kong-msc-business-and-data-analytics",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "city-university-of-hong-kong-msc-financial-mathematics-and-statistics",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "city-university-of-hong-kong-msc-biostatistics",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "city-university-of-hong-kong-msc-electronic-commerce",
+   "tier": "B",
+   "admit": 2,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "city-university-of-hong-kong-msc-artificial-intelligence",
+   "tier": "O",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "city-university-of-hong-kong-msc-artificial-intelligence-in-business",
+   "tier": "B",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "university-of-hong-kong-master-of-education",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "university-of-hong-kong-master-of-finance",
+   "tier": "J",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "national-university-of-singapore-master-of-science-in-digital-financial-technology-msc-dfintech",
+   "tier": "A",
+   "admit": 0,
+   "reject": 1,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "national-university-of-singapore-master-of-computing-infocomm-security-specialisation",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "university-of-hong-kong-master-of-science-in-real-estate",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "national-university-of-singapore-master-of-science-msc-in-robotics",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "national-university-of-singapore-master-of-computing-in-artificial-intelligence",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "university-of-hong-kong-master-of-social-sciences-in-the-field-of-criminology",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-university-of-science-and-technology-master-of-science-in-artificial-intelligence",
+   "tier": "A",
+   "admit": 3,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-university-of-science-and-technology-master-of-science-in-artificial-intelligence",
+   "tier": "O",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-university-of-science-and-technology-master-of-science-in-information-technology",
+   "tier": "A",
+   "admit": 2,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-university-of-science-and-technology-master-of-science-in-big-data-technology",
+   "tier": "A",
+   "admit": 3,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-university-of-science-and-technology-master-of-science-in-big-data-technology",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "national-university-of-singapore-msc-ai-for-science",
+   "tier": "A",
+   "admit": 0,
+   "reject": 1,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-university-of-science-and-technology-master-of-science-in-finance",
+   "tier": "J",
+   "admit": 0,
+   "reject": 1,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-baptist-university-master-of-social-sciences-msocsc-in-sport-and-leisure-management",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "university-of-macau-master-of-science-in-artificial-intelligence",
+   "tier": "O",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "education-university-of-hong-kong-master-of-arts-in-mindfulness-and-life-education",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "chinese-university-of-hong-kong-msc-in-robotics",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "chinese-university-of-hong-kong-msc-in-robotics",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "chinese-university-of-hong-kong-msc-in-robotics",
+   "tier": "O",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "chinese-university-of-hong-kong-msc-in-economics",
+   "tier": "J",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "chinese-university-of-hong-kong-msc-in-computer-science",
+   "tier": "A",
+   "admit": 1,
+   "reject": 2,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "chinese-university-of-hong-kong-msc-in-computer-science",
+   "tier": "O",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "chinese-university-of-hong-kong-msc-in-finance",
+   "tier": "O",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "chinese-university-of-hong-kong-msc-in-actuarial-science-and-insurance-analytics",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-polytechnic-university-master-of-technology-entrepreneurship",
+   "tier": "B",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-polytechnic-university-master-of-science-in-information-technology",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-polytechnic-university-master-of-science-in-information-technology",
+   "tier": "B",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-polytechnic-university-master-of-science-in-information-technology",
+   "tier": "C",
+   "admit": 2,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-polytechnic-university-master-of-science-in-information-technology",
+   "tier": "O",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-polytechnic-university-master-of-science-in-cybersecurity",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-polytechnic-university-master-of-science-in-artificial-intelligence-and-big-data-computing",
+   "tier": "A",
+   "admit": 0,
+   "reject": 1,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-polytechnic-university-master-of-science-in-artificial-intelligence-and-big-data-computing",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "hong-kong-polytechnic-university-master-of-science-in-mathematics-for-artificial-intelligence-technology",
+   "tier": "B",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "nanyang-technological-university-singapore-master-of-science-in-blockchain",
+   "tier": "B",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "nanyang-technological-university-singapore-master-of-science-in-signal-processing-and-machine-learning",
+   "tier": "B",
+   "admit": 2,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "nanyang-technological-university-singapore-master-of-science-in-signal-processing-and-machine-learning",
+   "tier": "C",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  },
+  {
+   "programmeId": "national-university-of-singapore-master-of-science-in-financial-engineering",
+   "tier": "A",
+   "admit": 1,
+   "reject": 0,
+   "waitlist": 0
+  }
+ ]
+}

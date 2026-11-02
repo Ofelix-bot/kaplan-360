@@ -1,0 +1,827 @@
+Claude fills missing fields for 824 programmes (claude-haiku-5-5)…
+university-o Statistics and Data Science, MBA                 +0 kept, 0 dropped
+university-o Family Nurse Practitioner, MSN                   +0 kept, 0 dropped
+university-o Artificial Intelligence, MSE                     +0 kept, 0 dropped
+university-o Multinational Management, MBA                    +0 kept, 0 dropped
+university-o Pediatric Primary Care Nurse Practitioner, MSN   +0 kept, 0 dropped
+university-o Government Administration (Exec), MPA            +0 kept, 0 dropped
+university-o Leading Across Differences, MBA                  +0 kept, 0 dropped
+university-o Education, Culture, and Society, MSEd            +0 kept, 0 dropped
+university-o Entrepreneurship and Innovation, MBA             +0 kept, 0 dropped
+university-o Organizational Effectiveness, MBA                +0 kept, 0 dropped
+university-o Computer & Information Science, MSE              +0 kept, 0 dropped
+university-o Psychiatric Mental Health Nurse Practitioner, MS +0 kept, 0 dropped
+university-o Teaching, Learning, and Leadership, MSEd         +0 kept, 0 dropped
+university-o Software Systems and Cybersecurity, MSE          +0 kept, 0 dropped
+university-o Education Entrepreneurship, MSEd                 +1 kept, 0 dropped
+university-o Adult Gerontology Acute Care Nurse Practitioner, +0 kept, 0 dropped
+university-o Artificial Intelligence for Business, MBA        +0 kept, 0 dropped
+university-o Women's Health/Gender Related Nurse Practitioner +0 kept, 0 dropped
+university-o Marketing & Operations Management, MBA           +0 kept, 0 dropped
+university-o Business Economics & Public Policy, MBA          +0 kept, 0 dropped
+university-o Operations, Information, & Decisions, MBA        +0 kept, 0 dropped
+university-o School and Mental Health Counseling, MSEd        +0 kept, 0 dropped
+university-o Pediatric Acute Care Nurse Practitioner: Oncolog +0 kept, 0 dropped
+university-o Adult Gerontology Primary Care Nurse Practitione +0 kept, 0 dropped
+university-o Impact, Value and Sustainable Business, MBA      +0 kept, 0 dropped
+university-o Nursing & Healthcare Leadership, MSN             +0 kept, 0 dropped
+university-o Social and Governance Factors for Business, MBA  +0 kept, 0 dropped
+university-o Computer Graphics & Game Technology, MSE         +0 kept, 0 dropped
+university-o Pediatric Acute Care Nurse Practitioner: Acute/C +0 kept, 0 dropped
+university-o Global Higher Education Management, MSEd         +1 kept, 0 dropped
+university-o Data Science and Artificial Intelligence, MSE    +0 kept, 0 dropped
+university-o Pediatric Acute Care Nurse Practitioner: Critica +0 kept, 0 dropped
+university-o Independent School Teaching Residency, MSEd      +0 kept, 0 dropped
+university-o International Educational Development, MSEd      +0 kept, 0 dropped
+university-o Applied Mathematics and Computational Science, M +0 kept, 0 dropped
+johns-hopkin BU.001 (MBA)                                     +0 kept, 0 dropped
+johns-hopkin Entry into Nursing, Master of Science in Nursing +0 kept, 0 dropped
+johns-hopkin Anatomy Education, MS                            +1 kept, 0 dropped
+johns-hopkin MD-MBA, Combined Degree                          +0 kept, 0 dropped
+johns-hopkin Master of Public Health Program (MPH)            +1 kept, 0 dropped
+johns-hopkin International Relations, Master of Arts          +1 kept, 0 dropped
+johns-hopkin Finance, Master of Science                       +0 kept, 0 dropped
+johns-hopkin Management, Master of Science                    +1 kept, 0 dropped
+johns-hopkin Marketing, Master of Science                     +1 kept, 0 dropped
+johns-hopkin Information Systems and Artificial Intelligence  +0 kept, 0 dropped
+johns-hopkin MBA/MA in International Relations                +0 kept, 0 dropped
+johns-hopkin Business Administration (Flexible), MBA          +0 kept, 0 dropped
+johns-hopkin Business Administration (Full Time), MBA         +1 kept, 0 dropped
+johns-hopkin Health Care Management, Master of Science        +1 kept, 0 dropped
+johns-hopkin Business Administration (Accelerated), MBA       +2 kept, 0 dropped
+johns-hopkin Data Science, Master of Science                  +0 kept, 0 dropped
+johns-hopkin Real Estate and Infrastructure, Master of Scienc +1 kept, 0 dropped
+johns-hopkin Film and Media, Master of Arts                   +0 kept, 0 dropped
+johns-hopkin Applied Economics, MS/MBA                        +0 kept, 0 dropped
+johns-hopkin Marketing, Master of Science, Marketing Analytic +1 kept, 0 dropped
+johns-hopkin Communication, Master of Arts                    +0 kept, 0 dropped
+johns-hopkin Finance, Master of Science, Financial Econometri +1 kept, 0 dropped
+johns-hopkin Computer Science, Master of Science              +0 kept, 0 dropped
+johns-hopkin Teaching Writing, Master of Arts                 +0 kept, 0 dropped
+johns-hopkin Communication, MA/MBA                            +0 kept, 0 dropped
+johns-hopkin Artificial Intelligence, Master of Science       +0 kept, 0 dropped
+johns-hopkin Cybersecurity, Master of Science                 +0 kept, 0 dropped
+johns-hopkin International Economics and Finance, Master of A +0 kept, 0 dropped
+johns-hopkin Applied Economics, Master of Science             +0 kept, 0 dropped
+johns-hopkin Financial Economics, Master of Science           +1 kept, 0 dropped
+johns-hopkin Business Analytics and Artificial Intelligence,  +1 kept, 0 dropped
+johns-hopkin Organizational Leadership, Master of Science     +0 kept, 0 dropped
+johns-hopkin Economics, Master of Arts                        +1 kept, 0 dropped
+johns-hopkin Financial Mathematics, Master of Science         +0 kept, 0 dropped
+johns-hopkin Robotics and Autonomous Systems, Master of Scien +0 kept, 0 dropped
+johns-hopkin Government, MA/MBA                               +0 kept, 0 dropped
+johns-hopkin Psychology, Master of Science                    +0 kept, 0 dropped
+johns-hopkin Public Management, Master of Arts                +0 kept, 0 dropped
+johns-hopkin Financial Management, Graduate Certificate, Inve +0 kept, 0 dropped
+johns-hopkin Nonprofit Management, Master of Arts             +1 kept, 0 dropped
+johns-hopkin Applied and Computational Mathematics, Master of +0 kept, 0 dropped
+johns-hopkin Environmental Health and Engineering, Master of  +0 kept, 0 dropped
+johns-hopkin Environmental Health and Engineering, Master of  +0 kept, 0 dropped
+university-o Law LLM                                          +0 kept, 0 dropped
+johns-hopkin Environmental Health and Engineering, Master of  +0 kept, 0 dropped
+university-o Education MA                                     +1 kept, 0 dropped
+university-o Evening and Weekend MBA                          +1 kept, 0 dropped
+university-o EECS – Computer Science MS                       +1 kept, 0 dropped
+university-o Social Welfare / Law MSW/JD                      +0 kept, 0 dropped
+university-o Public Policy / Law MPP/JD                       +1 kept, 1 dropped
+university-o Business Administration MBA                      +1 kept, 0 dropped
+university-o Master of Analytics MAnlytx                      +2 kept, 0 dropped
+university-o Energy and Resources / Law MA/JD                 +0 kept, 0 dropped
+university-o Energy and Resources Law MS/JD                   +1 kept, 0 dropped
+university-o Journalism / Asian Studies MJ/MA                 +2 kept, 0 dropped
+university-o Statistics and Data Science MA                   +2 kept, 0 dropped
+university-o Environmental Health Sciences MS                 +1 kept, 0 dropped
+university-o Business Administration / Law MBA/JD             +1 kept, 0 dropped
+university-o Master of City Planning / Law MCP/JD             +1 kept, 0 dropped
+university-o Education-Teaching Credential Cred/MA            +2 kept, 0 dropped
+university-o Economics MA (UCB Graduate Students only)        +1 kept, 0 dropped
+university-o Public Health MPH – Epidemiology (11-month)      +1 kept, 0 dropped
+university-o Business Administration / Law MBA/JD (Hastings)  +1 kept, 0 dropped
+university-o Master of City Planning / Law MCP/JD (Hastings)  +0 kept, 0 dropped
+university-o Education-Admin Services Credential Cred/MA      +2 kept, 0 dropped
+university-o Health and Social Behavior / Journalism MPH/MJ   +2 kept, 0 dropped
+university-o Master of Computational Social Science MaCSS     +2 kept, 0 dropped
+university-o Environmental Health Sciences / Journalism MPH/M +2 kept, 0 dropped
+university-o Public Health MPH – Interdisciplinary (11-month) +2 kept, 0 dropped
+university-o Epidemiology and Biostatistics / Journalism MPH/ +2 kept, 0 dropped
+university-o Social Welfare / Health and Social Behavior MSW/ +2 kept, 0 dropped
+university-o Public Health MPH – Epidemiology and Biostatisti +1 kept, 0 dropped
+university-o Public Policy / Health Policy and Management MPP +2 kept, 0 dropped
+university-o Public Health MPH – Health and Social Behavior ( +1 kept, 0 dropped
+university-o Public Health MPH – Health Policy and Management +1 kept, 0 dropped
+university-o Public Health MPH – Environmental Health Science +1 kept, 0 dropped
+university-o Public Health MPH – Maternal, Child and Adolesce +1 kept, 0 dropped
+university-o Public Health MPH – Epidemiology and Biostatisti +1 kept, 0 dropped
+university-o Public Health MPH – Maternal, Child and Adolesce +1 kept, 0 dropped
+university-o Public Health MPH – Food, Nutrition and Populati +1 kept, 0 dropped
+university-o Public Health MPH – Maternal, Child and Adolesce +1 kept, 0 dropped
+university-o Master of City Planning / Health and Social Beha +1 kept, 0 dropped
+university-o Social Welfare / Food, Nutrition and Population  +2 kept, 0 dropped
+university-o Social Welfare / Maternal, Child and Adolescent  +1 kept, 0 dropped
+university-o Business Administration / Health Policy and Mana +1 kept, 0 dropped
+university-o Master of Artificial Intelligence and Machine Le +2 kept, 0 dropped
+university-o Public Health MPH – Infectious Diseases and Vacc +1 kept, 0 dropped
+university-o Master of City Planning / Environmental Health S +2 kept, 0 dropped
+university-o Public Health MPH – Food, Nutrition and Populati +1 kept, 0 dropped
+university-o Statistics and Data Science 5th-year MA (For UCB +1 kept, 0 dropped
+university-o Master of City Planning / Epidemiology and Biost +1 kept, 0 dropped
+university-o Public Health MPH – Food, Nutrition and Populati +1 kept, 0 dropped
+university-o Master of Legal Studies                          +0 kept, 0 dropped
+university-o Management – MBA                                 +0 kept, 0 dropped
+university-o Epidemiology MPH                                 +0 kept, 0 dropped
+university-o Management – Business Analytics MS               +0 kept, 0 dropped
+university-o Management – Fully Employed MBA (FEMBA)          +0 kept, 0 dropped
+university-o Biostatistics MPH                                +0 kept, 0 dropped
+university-o Economics – Master of Quantitative Economics     +0 kept, 0 dropped
+university-o Health Policy MPH                                +0 kept, 0 dropped
+university-o Health Management MPH                            +0 kept, 0 dropped
+university-o Environmental Health Sciences MPH                +0 kept, 0 dropped
+university-o Community Health Sciences MPH                    +0 kept, 0 dropped
+university-o Master of Public Health for Health Professionals +0 kept, 0 dropped
+duke-univers M.A. in Economics                                +1 kept, 0 dropped
+university-o Public Health (MPH)                              +0 kept, 0 dropped
+duke-univers Master in Interdisciplinary Data Science         +1 kept, 0 dropped
+university-o Business Administration (MBA)                    +1 kept, 0 dropped
+washington-u Business Administration: Flex MBA                +0 kept, 0 dropped
+university-o Master of Science in Data Analytics and Computat +0 kept, 0 dropped
+university-o 4+1 Master of Science in Data Analytics and Comp +0 kept, 0 dropped
+washington-u Business Administration: Full-time MBA           +0 kept, 0 dropped
+university-o Master of Finance                                +0 kept, 0 dropped
+university-o 4+1 Master of Finance                            +0 kept, 0 dropped
+university-o 4+1 MEd in Secondary Education                   +0 kept, 0 dropped
+university-o Master of Science in Accounting                  +1 kept, 0 dropped
+university-o Master of Science in Management                  +1 kept, 0 dropped
+university-o 4+1 Master of Science in Accounting              +0 kept, 0 dropped
+university-o 4+1 Master of Science in Management              +0 kept, 0 dropped
+university-o Public Health: Worcester MPH                     +0 kept, 0 dropped
+university-o Master of Science in Public Health: Community He +0 kept, 0 dropped
+university-o Master of Public Health: Community Health Educat +0 kept, 0 dropped
+university-o Master of Business Administration                +0 kept, 1 dropped
+university-o Master of Science in Sport Management            +0 kept, 0 dropped
+university-o Master of Science in Computer Science            +0 kept, 0 dropped
+university-o 4+1 Master of Science in Public Health: Communit +0 kept, 0 dropped
+university-o 4+1 Master of Science in Public Health: Epidemio +0 kept, 0 dropped
+university-o Master of Science in Nursing Education           +0 kept, 0 dropped
+university-o Master of Science in Public Health: Health Polic +1 kept, 0 dropped
+university-o Master of Science in Public Health: Environmenta +0 kept, 0 dropped
+university-o 4+1 Master of Science in Public Health: Biostati +0 kept, 0 dropped
+university-o Master of Public Health: Health Policy and Manag +0 kept, 0 dropped
+university-o Master of Public Health: Epidemiology            +0 kept, 0 dropped
+university-o Master of Science in Resource Economics          +0 kept, 0 dropped
+university-o Master of Public Health: Environmental Health Sc +0 kept, 0 dropped
+university-o Master of Science in Business Analytics          +2 kept, 0 dropped
+university-o 4+1 Master of Science in Sport Management        +0 kept, 0 dropped
+university-o 4+1 Master of Science in Public Health: Health P +0 kept, 0 dropped
+university-o 4+1 Master of Science in Business Analytics      +0 kept, 0 dropped
+university-o 4+1 Accelerated MEd in Elementary Teacher Educat +0 kept, 0 dropped
+university-o 4+1 Accelerated Higher Education MEd             +1 kept, 0 dropped
+university-o Master of Public Policy and Administration       +0 kept, 0 dropped
+university-o Master of Science in Public Health: Biostatistic +0 kept, 0 dropped
+university-o Master of Science in Public Health: Epidemiology +0 kept, 0 dropped
+university-o 4+1 Master of Science in Resource Economics      +0 kept, 0 dropped
+northeastern Law and Business Administration (JD/MBA)         +1 kept, 0 dropped
+northeastern Master of Education in Learning                  +1 kept, 1 dropped
+northeastern Master of Professional Studies in Digital Media  +1 kept, 1 dropped
+northeastern Master of Science in Product Management          +1 kept, 1 dropped
+northeastern AI MBA                                           +1 kept, 1 dropped
+northeastern MS in Nonprofit Management - Boston              +1 kept, 1 dropped
+northeastern Master of Laws (LLM)                             +0 kept, 1 dropped
+northeastern MS in Global Studies & International Relations - +1 kept, 1 dropped
+northeastern Master of Education in Education Administration  +1 kept, 1 dropped
+northeastern MS in Organizational Leadership - Boston         +1 kept, 1 dropped
+northeastern Master of Professional Studies in Digital Media  +1 kept, 1 dropped
+northeastern MS in Human Resources Management - Boston        +1 kept, 1 dropped
+northeastern Master of Science in Artificial Intelligence Ali +1 kept, 1 dropped
+northeastern MS in Corporate & Organizational Communication - +1 kept, 1 dropped
+northeastern Master of Legal Studies                          +0 kept, 1 dropped
+northeastern Master of Science in Robotics                    +1 kept, 1 dropped
+northeastern Business Administration (Full-Time MBA)          +1 kept, 1 dropped
+northeastern Master of Science in Economics                   +1 kept, 1 dropped
+northeastern Master of Science in Management                  +1 kept, 1 dropped
+northeastern Public Health (MPH)                              +3 kept, 1 dropped
+northeastern Master of Science in Robotics—Seattle            +1 kept, 1 dropped
+northeastern Master of Public Health — Charlotte              +1 kept, 1 dropped
+northeastern Law and Public Health (JD/MPH)—Tufts             +1 kept, 0 dropped
+northeastern Master of Science in Economics - Seattle         +1 kept, 1 dropped
+northeastern Master of Science Cybersecurity — Boston         +1 kept, 1 dropped
+northeastern Master of Science in Nursing — Direct Entry      +1 kept, 1 dropped
+northeastern MS in Data Science – Boston                      +1 kept, 1 dropped
+northeastern Master of Sports Leadership - Boston             +1 kept, 1 dropped
+northeastern Master of Science Cybersecurity — Arlington      +1 kept, 1 dropped
+northeastern MS in Data Science - Portland                    +1 kept, 1 dropped
+northeastern Master of Science in Nursing Leadership          +2 kept, 1 dropped
+northeastern Finance and Business Administration (MSF/MBA)    +1 kept, 1 dropped
+northeastern Master of Science in Accounting                  +1 kept, 1 dropped
+northeastern Accounting/MBA                                   +1 kept, 1 dropped
+northeastern Master's in Data Science - Silicon Valley        +1 kept, 1 dropped
+northeastern Master of Professional Studies in Applied AI - M +2 kept, 1 dropped
+northeastern MS in Computer Science — Miami                   +1 kept, 1 dropped
+northeastern Master of Professional Studies in Applied AI—Bos +2 kept, 1 dropped
+northeastern Master of Science in Computer Science            +1 kept, 1 dropped
+northeastern Master's in Computer Science — Seattle           +1 kept, 1 dropped
+northeastern Master of Professional Studies in Applied AI - P +2 kept, 1 dropped
+northeastern MS in Business Analytics - Boston                +1 kept, 1 dropped
+northeastern Master of Science in Project Management - Miami  +1 kept, 1 dropped
+northeastern Masters in Health Informatics - Boston           +1 kept, 1 dropped
+northeastern Master's in Computer Science (MS) - Portland     +1 kept, 1 dropped
+northeastern MS in Project Management - Boston                +1 kept, 1 dropped
+northeastern Master of Professional Studies in Applied AI - A +2 kept, 1 dropped
+northeastern Master of Science in Business Analytics — Oaklan +1 kept, 1 dropped
+northeastern Master of Science in Project Management - Toront +1 kept, 1 dropped
+northeastern Master of Science in Project Management - Seattl +1 kept, 1 dropped
+northeastern MS in Counseling Psychology                      +1 kept, 1 dropped
+northeastern MS in Computer Science — Arlington               +1 kept, 1 dropped
+northeastern MS in Computer Science - Vancouver               +1 kept, 1 dropped
+northeastern MS in Cybersecurity — Align — Boston - Graduate  +1 kept, 1 dropped
+northeastern MS in Project Management - Portland              +1 kept, 1 dropped
+northeastern Master’s in Artificial Intelligence – Boston     +1 kept, 1 dropped
+northeastern Doctor of Pharmacy/Master of Public Health       +2 kept, 0 dropped
+northeastern Master of Science in Project Management - Arling +1 kept, 1 dropped
+northeastern MS in Information Systems — Miami - Graduate Pro +1 kept, 1 dropped
+northeastern Master of Public Health/ 1-Year Accelerated      +1 kept, 1 dropped
+northeastern Master of Science in Fintech Management — Miami  +1 kept, 1 dropped
+northeastern Masters in Information Systems                   +1 kept, 1 dropped
+northeastern MS in Complex Network Analysis (Population Healt +1 kept, 1 dropped
+northeastern MS in Cybersecurity — Align — Arlington - Gradua +1 kept, 1 dropped
+northeastern Master's in International Management             +1 kept, 1 dropped
+northeastern Master of Science in Media, Technology and Ethic +1 kept, 1 dropped
+northeastern Master of Science in Quantitative Finance — Bost +1 kept, 1 dropped
+northeastern Finance and Business Administration (MSF/MBA)    +2 kept, 1 dropped
+northeastern MS in Information Systems — Toronto              +1 kept, 1 dropped
+northeastern MS in Information Systems — Seattle              +1 kept, 1 dropped
+northeastern MS in Computer Science - Silicon Valley          +1 kept, 1 dropped
+northeastern Law and Public Health (JD/MPH)                   +2 kept, 0 dropped
+northeastern Master of Science in Information Systems — Portl +1 kept, 1 dropped
+northeastern MS in Information Systems — Arlington            +1 kept, 1 dropped
+northeastern Master of Science in Information Systems – Vanco +1 kept, 1 dropped
+northeastern Master of Science in Project Management - Silico +1 kept, 1 dropped
+northeastern Master of Science in Health Informatics – Vancou +1 kept, 1 dropped
+northeastern Quantitative Finance and Business Administration +1 kept, 1 dropped
+northeastern Master of Science in Computer Science – Align –  +1 kept, 1 dropped
+northeastern MS in Computer Science – Align – Miami           +1 kept, 1 dropped
+northeastern MS in Artificial Intelligence – Seattle          +1 kept, 1 dropped
+northeastern MS in Computer Science – Align – Seattle         +1 kept, 1 dropped
+northeastern MS in Artificial Intelligence – Portland         +1 kept, 1 dropped
+northeastern MS in Nursing — Adult-Gerontology Acute Care     +2 kept, 1 dropped
+northeastern MS in Computer Science - Align - Portland        +1 kept, 1 dropped
+northeastern MS in Information Systems — Silicon Valley       +1 kept, 1 dropped
+northeastern Master of Professional Studies in Applied AI Con +1 kept, 1 dropped
+northeastern MS in Computer Science – Align – Arlington       +1 kept, 1 dropped
+northeastern Master of Science in Computer Science – Align –  +1 kept, 1 dropped
+northeastern Pediatric Nurse Practitioner (MSN)               +1 kept, 0 dropped
+northeastern Master of Professional Studies in Applied AI Con +1 kept, 1 dropped
+northeastern MS in Information Systems – Bridge – Boston      +1 kept, 1 dropped
+northeastern Master of Professional Studies in Applied AI Con +1 kept, 1 dropped
+northeastern MS in Information Systems – Bridge – Toronto - G +1 kept, 1 dropped
+northeastern Master of Professional Studies in Applied AI Con +1 kept, 1 dropped
+northeastern Master of Science in Information Systems – Bridg +1 kept, 1 dropped
+northeastern MS in Artificial Intelligence – Silicon Valley   +1 kept, 1 dropped
+northeastern MS in Computer Science – Align – Silicon Valley  +1 kept, 1 dropped
+northeastern Master of Science in Information Systems – Bridg +1 kept, 1 dropped
+northeastern MS in Information Systems – Bridge – Seattle     +1 kept, 1 dropped
+northeastern MS in Information Systems – Bridge – Arlington - +1 kept, 1 dropped
+northeastern MS in Media Innovation and Data Communication    +1 kept, 1 dropped
+northeastern Master of Science in Criminology and Criminal Ju +1 kept, 1 dropped
+northeastern Neonatal Nurse Practitioner (MSN)                +2 kept, 1 dropped
+university-o Master of Nursing                                +1 kept, 1 dropped
+university-o Master of Finance                                +0 kept, 0 dropped
+northeastern MS in Information Systems – Bridge – Silicon Val +1 kept, 1 dropped
+university-o Master of Economics                              +2 kept, 0 dropped
+university-o Master of Accounting                             +1 kept, 0 dropped
+university-o Master of Education                              +2 kept, 2 dropped
+university-o Master of Common Law                             +1 kept, 1 dropped
+university-o Master of Data Science                           +1 kept, 1 dropped
+university-o Master of Laws in Chinese Law                    +1 kept, 1 dropped
+university-o Master of Accounting Analytics                   +1 kept, 0 dropped
+university-o Master of Laws in Human Rights                   +1 kept, 1 dropped
+university-o Master of Family Wealth Management               +2 kept, 0 dropped
+university-o Master of Journalism                             +2 kept, 1 dropped
+university-o Master of Science in Innovation and Technology   +1 kept, 1 dropped
+university-o Master of Laws in Compliance and Regulation      +1 kept, 1 dropped
+university-o Master of Business Administration                +1 kept, 1 dropped
+university-o Master of Journalism - Documentary Filmmaking Sp +2 kept, 1 dropped
+university-o Master of Artificial Intelligence in Business    +0 kept, 0 dropped
+university-o Master of Science in Artificial Intelligence     +1 kept, 1 dropped
+university-o Master of Laws in Corporate and Financial Law    +1 kept, 1 dropped
+university-o Master of Laws in Arbitration and Dispute Resolu +1 kept, 1 dropped
+university-o Master of Laws (General or with Specialisation)  +1 kept, 1 dropped
+university-o Master of Business Administration (International +1 kept, 0 dropped
+university-o Master of Psychological Medicine (Psychosis Stud +1 kept, 1 dropped
+university-o Master of Science in Construction Project Manage +1 kept, 1 dropped
+university-o Master of Science in Digital Management of Built +1 kept, 1 dropped
+university-o Master of Laws in Technology and Intellectual Pr +1 kept, 1 dropped
+university-o Master of Science in Electronic Commerce and Int +1 kept, 1 dropped
+university-o Master of Science in Financial Technology and Da +1 kept, 1 dropped
+university-o Master of Science in Computer Science (AI & Dece +1 kept, 1 dropped
+university-o Master of Science in Computer Science (General,  +1 kept, 1 dropped
+chinese-univ Master of Laws in AI Law                         +1 kept, 1 dropped
+chinese-univ Master of Education                              +1 kept, 0 dropped
+chinese-univ Master of Nursing                                +0 kept, 1 dropped
+chinese-univ MSc in Robotics                                  +0 kept, 1 dropped
+chinese-univ MA in Cultural Management                        +0 kept, 1 dropped
+chinese-univ Master of Laws in Common Law                     +2 kept, 1 dropped
+chinese-univ MBA                                              +1 kept, 1 dropped
+chinese-univ MA in Journalism                                 +0 kept, 2 dropped
+chinese-univ MA in Psychology                                 +0 kept, 1 dropped
+chinese-univ MSc in New Media                                 +1 kept, 1 dropped
+chinese-univ MSc in Economics                                 +1 kept, 1 dropped
+chinese-univ Master of Laws in Legal History                  +0 kept, 1 dropped
+chinese-univ Master of Public Health                          +1 kept, 1 dropped
+chinese-univ MSc in Computer Science                          +0 kept, 1 dropped
+chinese-univ MBA in Finance                                   +1 kept, 1 dropped
+chinese-univ MSc in Finance                                   +1 kept, 1 dropped
+chinese-univ MSc in Mathematics Education                     +0 kept, 1 dropped
+chinese-univ MSc in Management                                +2 kept, 1 dropped
+chinese-univ MSc in Marketing                                 +1 kept, 1 dropped
+chinese-univ MSc in Financial Technology                      +0 kept, 1 dropped
+chinese-univ Master of Laws in Chinese Business Law           +2 kept, 1 dropped
+chinese-univ MSc in Real Estate                               +2 kept, 1 dropped
+chinese-univ MA in English Language Teaching                  +2 kept, 1 dropped
+chinese-univ MA in Global Communication                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+chinese-univ MA in Chinese Language Education                 +0 kept, 1 dropped
+chinese-univ MSc in Health Services Management                +1 kept, 1 dropped
+chinese-univ MSc in Artificial Intelligence                   +0 kept, 1 dropped
+chinese-univ MA in Early Childhood Education                  +0 kept, 1 dropped
+chinese-univ MSc in Obstetric and Midwifery Care              +0 kept, 1 dropped
+chinese-univ Master of Accountancy                            +1 kept, 1 dropped
+chinese-univ MSc in Artificial Intelligence for Science       +0 kept, 1 dropped
+chinese-univ Master of Laws in International Economic Law     +3 kept, 1 dropped
+chinese-univ Master of Laws in Energy and Environmental Law   +1 kept, 1 dropped
+chinese-univ MA in Social Service Management                  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+chinese-univ MA in School Guidance and Counselling            +1 kept, 1 dropped
+chinese-univ MSc in Business Analytics                        +1 kept, 1 dropped
+chinese-univ MA in School Improvement and Leadership          +1 kept, 1 dropped
+chinese-univ Master of Nursing Science (Pre-registration)     +0 kept, 1 dropped
+chinese-univ MA in Professional Educational Psychology        +0 kept, 1 dropped
+chinese-univ MSc in E-Commerce and Logistics Technologies     +0 kept, 1 dropped
+chinese-univ MSc in Family Business Management                +1 kept, 1 dropped
+chinese-univ MSc in Data Science and Business Statistics      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+chinese-univ MSc in Sports Science and Physical Activity      +1 kept, 1 dropped
+chinese-univ MA in Teaching English to Speakers of Other Lang +3 kept, 1 dropped
+chinese-univ MSc in Sports Business Management                +1 kept, 1 dropped
+chinese-univ MSc in Risk Management Science and Data Analytic +0 kept, 1 dropped
+chinese-univ MSc in Leadership for Experience Economy         +1 kept, 1 dropped
+chinese-univ MSc in Advanced Studies in Statistics and Data S +0 kept, 1 dropped
+chinese-univ MSc in Sustainable Global Business               error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+chinese-univ MSc in Artificial Intelligence and Communication +1 kept, 1 dropped
+chinese-univ MA in Family Counselling and Family Education    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+chinese-univ MSc in Actuarial Science and Insurance Analytics +2 kept, 1 dropped
+chinese-univ Master of Science in Global Wealth Management    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+chinese-univ MSc in Information Science and Technology Manage +0 kept, 0 dropped
+chinese-univ Master of Education in Teaching in Key Subject A +1 kept, 1 dropped
+hong-kong-un Master of Science in Artificial Intelligence     +0 kept, 1 dropped
+chinese-univ MBA in Technology and Innovation (offered in She +1 kept, 1 dropped
+chinese-univ Master of Science in Digital Economy and Artific +1 kept, 1 dropped
+hong-kong-un Master of Science in Global Operations           +0 kept, 1 dropped
+hong-kong-un Master of Science in Information Technology      +0 kept, 1 dropped
+chinese-univ MSc in Information Science and Technology Manage error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+hong-kong-un Master of Science in AI and Entrepreneurship     +0 kept, 1 dropped
+hong-kong-un Master of Science in Big Data Technology         +0 kept, 1 dropped
+hong-kong-un Master of Science in Business Analytics          +0 kept, 1 dropped
+hong-kong-un Master of Science in Data-Driven Modeling        +0 kept, 1 dropped
+hong-kong-un Master of Science in International Management    +1 kept, 0 dropped
+hong-kong-un Master of Science in Environmental Health and Sa +0 kept, 1 dropped
+hong-kong-un Master of Science in Biomolecular Engineering an +0 kept, 1 dropped
+hong-kong-un Master of Science in Accounting                  +0 kept, 1 dropped
+hong-kong-un Master of Science in Technology Leadership and E +0 kept, 1 dropped
+hong-kong-un Master of Science in Economics                   +0 kept, 1 dropped
+hong-kong-un Master of Science in Information Systems Managem +0 kept, 1 dropped
+hong-kong-un Master of Science in Global Finance              +0 kept, 1 dropped
+hong-kong-un Master of Science in Information and Cyber Secur +0 kept, 1 dropped
+hong-kong-un Master of Science in Intelligent Building Techno +0 kept, 1 dropped
+hong-kong-un Master of Science in Financial Mathematics       +0 kept, 1 dropped
+hong-kong-un Master of Science in Family Office and Family Bu +0 kept, 1 dropped
+hong-kong-un Master of Science in Marketing                   +0 kept, 1 dropped
+hong-kong-un Master of Science in Financial Technology        +0 kept, 1 dropped
+hong-kong-un Master of Science in Finance                     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+hong-kong-po Master of Nursing                                +1 kept, 0 dropped
+hong-kong-po Master of Science in Global Hospitality Business +2 kept, 1 dropped
+hong-kong-un Master of Science in Telecommunications          +0 kept, 1 dropped
+hong-kong-po Master of Science in Industrial Logistics System +1 kept, 1 dropped
+hong-kong-po Master of Science in Knowledge and Technology Ma +1 kept, 1 dropped
+hong-kong-po Master of Applied Psychology                     +1 kept, 1 dropped
+hong-kong-po Master of Science in Health Informatics          +1 kept, 0 dropped
+hong-kong-po Master of Science in Nursing                     +1 kept, 0 dropped
+hong-kong-po Master of Science in Accountancy                 +1 kept, 1 dropped
+hong-kong-po Master of Finance (Investment Management)        +1 kept, 1 dropped
+hong-kong-po Master of Science in Business Management         +1 kept, 1 dropped
+hong-kong-po Master of Technology Entrepreneurship            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+hong-kong-po Master of Science in Accounting and Finance Anal +1 kept, 1 dropped
+hong-kong-po Master of Science in Economics                   +1 kept, 1 dropped
+hong-kong-po Master of Science in Business Analytics          +1 kept, 1 dropped
+hong-kong-po Master of Science in Marketing Management        +1 kept, 1 dropped
+hong-kong-po Master of Science in Human Resource Management   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+hong-kong-po Master of Science in International Management an +1 kept, 1 dropped
+hong-kong-po Master of Finance (Corporate Finance)            +1 kept, 1 dropped
+hong-kong-po Master of Science in Construction and Real Estat +1 kept, 1 dropped
+hong-kong-po Master of Science in Project Management          +1 kept, 1 dropped
+hong-kong-po Master of Science in Intelligent Construction    +1 kept, 0 dropped
+hong-kong-po Master of Science in Operations Management       +1 kept, 1 dropped
+hong-kong-po Master of Science in Sports Technology and Manag +1 kept, 1 dropped
+hong-kong-po Master of Science in Global Business and Decisio +1 kept, 1 dropped
+hong-kong-po Master of Science in Facility Management         +1 kept, 1 dropped
+hong-kong-po Master of Arts in Guidance and Counselling       +1 kept, 1 dropped
+hong-kong-po Master of Science in Vision Science and Innovati +1 kept, 1 dropped
+hong-kong-po Master of Arts in Mental Health                  +1 kept, 1 dropped
+hong-kong-po Master of Applied Psychology (Diverse Learning N +1 kept, 1 dropped
+hong-kong-po Master of Science in Cybersecurity               +1 kept, 1 dropped
+hong-kong-po Master of Science in Data Science and Analytics  +1 kept, 1 dropped
+hong-kong-po Master of Science in Artificial Intelligence and +0 kept, 1 dropped
+hong-kong-po Master of Science in Information Technology      +1 kept, 1 dropped
+hong-kong-po Master of Science in Mathematics for Artificial  +1 kept, 1 dropped
+hong-kong-po Master of Science in Actuarial and Investment Sc +1 kept, 1 dropped
+hong-kong-po Master of Science in Quantitative Finance and Fi +1 kept, 1 dropped
+hong-kong-po Master of Science in Agentic AI Systems          +1 kept, 1 dropped
+hong-kong-po Master of Science in AI for Teaching English to  +2 kept, 1 dropped
+hong-kong-po Master of Science/Postgraduate Diploma in Supply +1 kept, 1 dropped
+hong-kong-po Master of Science in Generative AI and the Human +0 kept, 1 dropped
+hong-kong-po Master of Science/Postgraduate Diploma in Global +1 kept, 1 dropped
+hong-kong-po Master of Science Scheme in Artificial Intellige +1 kept, 0 dropped
+university-o Business Administration (Full-Time MBA)          +2 kept, 0 dropped
+hong-kong-po Master of Science Scheme in Hospitality and Tour +1 kept, 1 dropped
+hong-kong-po Master of Science in Asset and Wealth Management +1 kept, 1 dropped
+university-o Management (MMgt)                                +2 kept, 0 dropped
+university-o Business Administration (Extended Full-Time MBA) +2 kept, 0 dropped
+university-o Business Administration (One Year Full-Time MBA) +1 kept, 0 dropped
+university-o LLM - Master of Laws (LLM)                       +2 kept, 1 dropped
+university-o LLM in Taxation (LLMT)                           +2 kept, 1 dropped
+university-o Master of Journalism (MJ)                        +1 kept, 1 dropped
+university-o Master of Management (MM)                        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Global Health (MGH)                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Arts in Psychology (MA)                +1 kept, 1 dropped
+university-o Master of Public Health (MPH)                    +3 kept, 1 dropped
+university-o Master of Science in Nursing (MSN)               +2 kept, 1 dropped
+university-o Master of Digital Media                          error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Data Science (MDS)                     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Business Analytics (MBAN)              +1 kept, 1 dropped
+university-o Master of Health Administration (MHA)            +3 kept, 1 dropped
+university-o LLM - Master of Laws (Common Law) (LLMCL)        +2 kept, 2 dropped
+university-o Master of Business Administration (MBA)          +1 kept, 1 dropped
+university-o Master of Education in Art Education (MEd)       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Nursing - Nurse Practitioner (MN)      +3 kept, 1 dropped
+university-o Master of Education in Higher Education (MEd)    +2 kept, 1 dropped
+university-o Master of Science in Computer Science (MSc)      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Education in Special Education (MEd)   +2 kept, 1 dropped
+university-o Master of Arts in Counselling Psychology (MA)    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Education in Science Education (MEd)   error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Education in Educational Studies (MEd) +2 kept, 1 dropped
+university-o Master of Science in Genetic Counselling (MSc)   +3 kept, 1 dropped
+university-o Master of Education in Indigenous Education (MEd +3 kept, 1 dropped
+university-o Master of Education in Literacy Education (MEd)  +1 kept, 2 dropped
+university-o Master of Education in Mathematics Education (ME +1 kept, 1 dropped
+university-o Master of Education in Counselling Psychology (M +2 kept, 1 dropped
+university-o Master of Education in Home Economics Education  +0 kept, 1 dropped
+university-o Master of Education in Adult Learning and Educat +1 kept, 1 dropped
+university-o Master of Science in Population and Public Healt +1 kept, 1 dropped
+university-o Master of Education in Social Studies Education  +1 kept, 2 dropped
+university-o Master of Arts in School and Applied Child Psych +1 kept, 1 dropped
+university-o Master of Education in Early Childhood Education +1 kept, 1 dropped
+university-o Professional Master of Business Administration ( +1 kept, 1 dropped
+university-o Master of Education in Modern Languages Educatio +3 kept, 1 dropped
+university-o Master of Health Leadership and Policy in Senior error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Science in Business Administration in  +2 kept, 1 dropped
+university-o Master of Data Science in Computational Linguist +2 kept, 1 dropped
+university-o Master of Education in Adult Learning and Global +3 kept, 1 dropped
+university-o Master of Education in School and Applied Child  +0 kept, 1 dropped
+university-o Master of Health Leadership and Policy in Clinic error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of High Performance Coaching and Technica +1 kept, 2 dropped
+university-o Master of Education in Human Development, Learni +2 kept, 1 dropped
+university-o Master of Education in Health, Outdoor and Physi error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Education in Society, Culture and Poli +1 kept, 1 dropped
+university-o Master of Education in Media and Technology Stud error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Education in Educational Administratio +1 kept, 2 dropped
+university-o Master of Laws                                   +1 kept, 0 dropped
+university-o Master of Nursing                                +0 kept, 0 dropped
+university-o Master of Arts (Economics)                       +0 kept, 0 dropped
+university-o Master of Science in Business Administration in  error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Arts (Psychology)                      +1 kept, 0 dropped
+university-o Master of Science (Psychology)                   +1 kept, 0 dropped
+university-o Master of Accounting (Business)                  +0 kept, 0 dropped
+university-o Master of Science (Computing Science)            +0 kept, 0 dropped
+university-o Master of Education (Educational Studies)        +0 kept, 0 dropped
+university-o Master of Science in Business Administration in  +1 kept, 1 dropped
+university-o Master of Science (Internetworking)              +0 kept, 0 dropped
+university-o Master of Education (Secondary Education)        +0 kept, 0 dropped
+university-o Master of Financial Management (Business)        +0 kept, 0 dropped
+university-o Master of Education (Elementary Education)       +0 kept, 0 dropped
+university-o Master of Business Administration (Business)     +1 kept, 0 dropped
+university-o Master of Education (Educational Psychology)     +0 kept, 0 dropped
+university-o Master of Nurse Practitioner Practice            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Education (Health Sciences Education)  +0 kept, 0 dropped
+university-o Master of Science (Kinesiology, Sport, and Recre +0 kept, 0 dropped
+university-o Master of Management Analytics (Business)        +1 kept, 0 dropped
+university-o Master of Science in Public Health in Epidemiolo +1 kept, 0 dropped
+university-o Master of Coaching (Kinesiology, Sport, and Recr +0 kept, 0 dropped
+university-o Master of Arts (Kinesiology, Sport, and Recreati +0 kept, 0 dropped
+university-o Master of Education (Educational Policy Studies) +0 kept, 0 dropped
+university-o Master of Arts with a specialization in Economic +0 kept, 0 dropped
+university-o Master of Science in Public Health in General Pu +1 kept, 0 dropped
+university-o Master of Science in Public Health in Clinical E +0 kept, 0 dropped
+university-o Master of Business Administration with Specializ +2 kept, 0 dropped
+university-o Fast Track Master of Business Administration for +1 kept, 0 dropped
+university-o Master of Science in Surgery with a specializati +0 kept, 0 dropped
+university-o Master of Business Administration with Specializ +1 kept, 0 dropped
+university-o Master of Science in Public Health in Environmen +1 kept, 0 dropped
+university-o Master of Education with Specialization in Techn +0 kept, 0 dropped
+university-o Master of Science in Public Health in Global Hea +1 kept, 0 dropped
+university-o Master of Business Administration with Specializ +1 kept, 0 dropped
+university-o Master of Science in Computing Science with a Sp +0 kept, 0 dropped
+university-o Master of Business Administration with Specializ +1 kept, 0 dropped
+university-o Master of Education with a specialization in Ind +0 kept, 0 dropped
+university-o Master of Science with a specialization in Mathe +0 kept, 0 dropped
+university-o Master of Science in Speech-Language Pathology ( +1 kept, 1 dropped
+university-o Master of Science with a specialization in Stati +0 kept, 0 dropped
+university-o Master of Education with a specialization in Adu +0 kept, 0 dropped
+university-o Master of Science in Computing Science with a Sp +0 kept, 0 dropped
+university-o Master of Education with a specialization in Stu +0 kept, 0 dropped
+university-o Master of Science in Speech-Language Pathology D +1 kept, 1 dropped
+university-o Master of Education with a specialization in Soc +0 kept, 0 dropped
+university-o Master of Business Administration with Specializ +1 kept, 0 dropped
+university-o Law LLM                                          +1 kept, 0 dropped
+university-o Management MBA                                   +2 kept, 0 dropped
+university-o Economics MA                                     +1 kept, 0 dropped
+university-o Computer Science - MSc - Thesis                  +1 kept, 0 dropped
+university-o Clinical Psychology - MSc - Thesis               +1 kept, 0 dropped
+university-o Counselling Psychology - MSc - Thesis            +1 kept, 0 dropped
+university-o Master of Science with a specialization in Model +0 kept, 0 dropped
+university-o Psychology- MSc - Thesis                         +1 kept, 0 dropped
+university-o School and applied child psychology- MEd         +1 kept, 0 dropped
+university-o School and applied child psychology- MSc - Thesi +0 kept, 0 dropped
+university-o Law - LLM - Thesis                               +1 kept, 0 dropped
+university-o Master of Nursing schedule                       +0 kept, 0 dropped
+university-o Master of Public Health schedule                 +0 kept, 0 dropped
+university-o Auckland Law School – Melbourne Law School Dual  +0 kept, 0 dropped
+university-o Communication and Media Studies - MA - Thesis    +1 kept, 0 dropped
+university-o MBA students                                     +0 kept, 0 dropped
+massey-unive Master of Finance – MFin                         +1 kept, 0 dropped
+university-o Master of Professional Studies in Education      +1 kept, 0 dropped
+massey-unive Master of Analytics – MAnalyt                    +1 kept, 0 dropped
+massey-unive Master of Nursing – MN                           +1 kept, 0 dropped
+university-o Master of Professional Studies in Teaching Chine +0 kept, 0 dropped
+university-o Master of Education (Early Childhood)            error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+massey-unive Master of Counselling – MCouns                   +0 kept, 0 dropped
+massey-unive Master of Management – MMgt                      +1 kept, 0 dropped
+massey-unive Master of Communication – MC                     +1 kept, 0 dropped
+massey-unive Master of Construction – MConstr                 +1 kept, 0 dropped
+massey-unive Master of Business Studies – MBS                 +1 kept, 0 dropped
+massey-unive Master of Clinical Psychology – MClinPsych       +0 kept, 0 dropped
+massey-unive Master of Impact and Innovation – MII            +1 kept, 0 dropped
+massey-unive Master of Specialist Teaching – MSpecTchg        +0 kept, 0 dropped
+massey-unive Master of Emergency Management – MEmergMgt       +1 kept, 0 dropped
+massey-unive Master of Business Administration MBA            +2 kept, 0 dropped
+massey-unive Master of Professional Accountancy – MPAcc       +1 kept, 0 dropped
+massey-unive Master of Public Health MPH                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+massey-unive Master of Health Service Management – MHSM       +1 kept, 0 dropped
+massey-unive Master of Educational and Developmental Psycholo +0 kept, 0 dropped
+massey-unive Master of Professional Accountancy (Chartered Ac +1 kept, 0 dropped
+massey-unive Master of Supply Chain Management – MSCM         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+massey-unive Master of Clinical Practice (Nursing) – MClinPra +0 kept, 0 dropped
+university-o Master of Laws                                   +2 kept, 0 dropped
+university-o Master of Public Health                          +2 kept, 0 dropped
+university-o Master of Counselling                            +2 kept, 0 dropped
+university-o Master of Education                              +2 kept, 0 dropped
+university-o Master of Advanced Nursing (Nurse Practitioner)  +2 kept, 0 dropped
+university-o Master of Sport Science                          +2 kept, 0 dropped
+university-o Master of Criminal Justice                       +2 kept, 0 dropped
+university-o Master of Education (Thesis)                     +2 kept, 0 dropped
+university-o Master of Marketing                              error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Financial Analysis                     +2 kept, 0 dropped
+university-o Master of Product Innovation                     +2 kept, 0 dropped
+university-o Master of Specialist Teaching                    +1 kept, 0 dropped
+university-o Master of Business Management                    +2 kept, 0 dropped
+university-o Master of Teaching and Learning                  +2 kept, 0 dropped
+university-o Master of Applied Data Science                   +2 kept, 0 dropped
+university-o Master of Inclusive Education                    +2 kept, 0 dropped
+university-o Master of Literacy in Education                  +2 kept, 0 dropped
+university-o Master of Artificial Intelligence                +2 kept, 0 dropped
+university-o Master of Strategic Communication                +2 kept, 0 dropped
+university-o Master of Organisational Psychology              +2 kept, 0 dropped
+university-o Master of Professional Accounting                +2 kept, 0 dropped
+university-o Master of Applied Finance and Economics          +2 kept, 0 dropped
+university-o Master of Educational Leadership                 error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Professional Master of Computer Science          +2 kept, 0 dropped
+university-o Master of Health Leadership and Management       +1 kept, 0 dropped
+university-o Master of Laws (International Law and Politics)  +2 kept, 0 dropped
+university-o Master of Business Information Systems           +2 kept, 0 dropped
+university-o Master of Clinical Exercise Physiology           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Sustainable Futures and Innovation     +1 kept, 0 dropped
+university-o Master of Teaching and Learning (Early Childhood +2 kept, 0 dropped
+university-o Master of Sport Coaching and Coach Development   +3 kept, 0 dropped
+university-o Master of International Relations and Diplomacy  +2 kept, 0 dropped
+university-o Master of Early Childhood Education Digital Peda +2 kept, 0 dropped
+university-o Master of Business Administration – Specialisati +1 kept, 0 dropped
+university-o Master of Teaching English to Speakers of Other  +2 kept, 0 dropped
+university-o Master of Business                               +1 kept, 0 dropped
+university-o Master of Education                              +1 kept, 1 dropped
+university-o Master of Laws                                   +2 kept, 0 dropped
+university-o Master of Artificial Intelligence and Digital Ed error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Management                             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Counselling                            +1 kept, 1 dropped
+university-o Master of Legal Studies                          +1 kept, 1 dropped
+university-o Master of Data Science                           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Cyber Security                         +2 kept, 0 dropped
+university-o Master of Nursing Practice                       +2 kept, 0 dropped
+university-o Master of Applied Finance                        +1 kept, 1 dropped
+university-o Master of Digital Business                       +1 kept, 1 dropped
+university-o Master of Teaching and Learning                  +1 kept, 1 dropped
+university-o Master of Applied Psychology                     +1 kept, 1 dropped
+university-o Master of Artificial Intelligence                +1 kept, 1 dropped
+university-o Master of Information Technology                 +1 kept, 1 dropped
+university-o Master of Educational Leadership                 +1 kept, 1 dropped
+university-o Master of Construction Management                +3 kept, 0 dropped
+university-o Master of Business and Management                +1 kept, 1 dropped
+university-o Master of Professional Accounting                +2 kept, 0 dropped
+university-o Master of Business Administration                +1 kept, 1 dropped
+university-o Master of Media and Creative Technologies        +1 kept, 1 dropped
+university-o Master of Clinical Practice (Midwifery)          +1 kept, 0 dropped
+university-o Master of Security and Crime Science             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Teaching English to Speakers of Other  +1 kept, 1 dropped
+lincoln-univ Master of Business in Finance                    +2 kept, 0 dropped
+lincoln-univ Master of Applied Computing                      +2 kept, 0 dropped
+university-o Master of Health, Sport and Human Performance    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+lincoln-univ Master of Tourism Management                     +2 kept, 0 dropped
+lincoln-univ Master of Applied Science - Parks, Recreation an +2 kept, 0 dropped
+university-o Master of Laws in Māori/Pacific and Indigenous P +1 kept, 1 dropped
+lincoln-univ Master of Professional Accounting (CPA)          +2 kept, 0 dropped
+lincoln-univ Master of Parks Management                       +2 kept, 0 dropped
+lincoln-univ Master of Fintech and Investment Management      +2 kept, 0 dropped
+lincoln-univ Master of Business in Global Management and Mark +2 kept, 0 dropped
+auckland-uni Master of Business                               +2 kept, 0 dropped
+auckland-uni Master of Laws                                   +2 kept, 0 dropped
+lincoln-univ Master of Artificial Intelligence for Land Use   +2 kept, 0 dropped
+lincoln-univ Master of Sport and Recreation Management        +2 kept, 0 dropped
+auckland-uni Master of Education                              +2 kept, 0 dropped
+auckland-uni Master of Applied Finance                        +2 kept, 0 dropped
+auckland-uni Master of Global Business                        +2 kept, 0 dropped
+auckland-uni Master of Marketing                              +2 kept, 0 dropped
+auckland-uni Master of Teaching and Learning                  +2 kept, 0 dropped
+auckland-uni Master of Public Health                          +2 kept, 0 dropped
+auckland-uni Master of Business Management                    +2 kept, 0 dropped
+auckland-uni Master of Professional Accounting                +2 kept, 0 dropped
+auckland-uni Master of Psychotherapy                          +2 kept, 0 dropped
+auckland-uni Master of Nursing Science                        +2 kept, 0 dropped
+auckland-uni Master of Business Administration                +2 kept, 0 dropped
+auckland-uni Master of Communication Studies                  +2 kept, 0 dropped
+auckland-uni Master of Supply Chain Management                +2 kept, 0 dropped
+auckland-uni Master of Analytics                              +2 kept, 0 dropped
+auckland-uni Master of Clinical Practice (Midwifery)          +1 kept, 0 dropped
+auckland-uni Master of Sport, Exercise and Health             +2 kept, 0 dropped
+auckland-uni Master of Disaster Risk Management and Developme +2 kept, 0 dropped
+auckland-uni Master of Computer and Information Sciences      +2 kept, 0 dropped
+auckland-uni Master of Construction Management                +2 kept, 0 dropped
+auckland-uni Master of Cyber Security and Digital Forensics   +2 kept, 0 dropped
+university-o Master of Learning and Teaching at UniSQ         +0 kept, 0 dropped
+auckland-uni Master of IT Project Management                  +2 kept, 0 dropped
+central-quee Master of Public Health                          +1 kept, 1 dropped
+auckland-uni Master of Criminology and Criminal Justice       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Master of Cyber Security - Technical             error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+central-quee Master of Clinical Nursing                       +1 kept, 1 dropped
+central-quee Master of Nurse Practitioner                     +1 kept, 0 dropped
+central-quee Master of Teaching (Primary)                     +1 kept, 1 dropped
+central-quee Master of Teaching (Secondary)                   +1 kept, 1 dropped
+central-quee Master of Information Systems                    +1 kept, 1 dropped
+central-quee Master of Workplace Wellbeing                    +1 kept, 1 dropped
+central-quee Master of Clinical Psychology                    +0 kept, 1 dropped
+central-quee Master of Project Management                     +1 kept, 1 dropped
+central-quee Master of Information Technology                 +1 kept, 1 dropped
+central-quee Master in Correctional Nursing                   +1 kept, 1 dropped
+central-quee Master of Business Management                    error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+central-quee Master of Nursing (Graduate Entry)               +1 kept, 1 dropped
+central-quee Master of Mental Health Nursing                  +1 kept, 1 dropped
+central-quee Master of Educational Leadership                 +1 kept, 1 dropped
+central-quee Master of Professional Accounting                +0 kept, 1 dropped
+central-quee Master of Business Administration                +1 kept, 1 dropped
+central-quee Master of Professional Psychology                +1 kept, 1 dropped
+central-quee Master of Teaching (Early Childhood)             +1 kept, 0 dropped
+central-quee Master of Construction Management                +2 kept, 1 dropped
+central-quee Master of Applied Positive Psychology            +1 kept, 0 dropped
+central-quee Master of Business Administration (Global)       +1 kept, 1 dropped
+central-quee Master of Midwifery (Graduate Entry)             +1 kept, 0 dropped
+central-quee Master of Management for Engineers               +1 kept, 1 dropped
+central-quee Master of Asset and Maintenance Management       +1 kept, 1 dropped
+central-quee Master of Clinical Exercise Physiology           +1 kept, 1 dropped
+central-quee Master of Professional Accounting Accelerated    +1 kept, 1 dropped
+central-quee Master of Business Administration (Leadership)   +1 kept, 1 dropped
+university-o Finance MSc                                      +2 kept, 0 dropped
+university-o Master of Laws (LLM)                             +2 kept, 0 dropped
+central-quee Master of Clinical Psychology (Advanced Entry)   +1 kept, 1 dropped
+university-o Journalism MA                                    +2 kept, 0 dropped
+university-o Strategic Marketing MSc                          +2 kept, 0 dropped
+university-o Management MSc                                   +2 kept, 0 dropped
+central-quee Master of Emergency and Disaster Management      +0 kept, 1 dropped
+university-o Strategic Marketing MSc                          +2 kept, 0 dropped
+university-o Health Law LLM                                   +2 kept, 0 dropped
+university-o Data Science MSc, PGDip                          +2 kept, 0 dropped
+university-o Psychology MSc                                   +2 kept, 0 dropped
+university-o Data Science MSc, PGDip                          +2 kept, 0 dropped
+university-o Criminology MSc                                  +2 kept, 0 dropped
+university-o Cloud Computing MSc, PGDip                       +2 kept, 0 dropped
+university-o Management MSc                                   +2 kept, 0 dropped
+university-o Digital Marketing and Analytics MSc              +2 kept, 0 dropped
+university-o International Law LLM                            +2 kept, 0 dropped
+university-o Cloud Computing MSc, PGDip                       +2 kept, 0 dropped
+university-o Business Analytics MSc                           +2 kept, 0 dropped
+university-o Clinical Education MSc, PGDip, PGCert            +2 kept, 0 dropped
+university-o Digital Marketing and Analytics MSc              +2 kept, 0 dropped
+university-o Media and Advertising MA                         +2 kept, 0 dropped
+university-o MSc FinTech and RegTech                          +2 kept, 0 dropped
+university-o Business Analytics MSc                           +2 kept, 0 dropped
+university-o Media and Advertising MA                         +2 kept, 0 dropped
+university-o Communication and Media MA                       +2 kept, 0 dropped
+university-o Healthcare Management MSc                        +2 kept, 0 dropped
+university-o International Business MSc                       +2 kept, 0 dropped
+university-o MSc FinTech and RegTech                          +2 kept, 0 dropped
+university-o Artificial Intelligence MSc, PGDip               +2 kept, 0 dropped
+university-o International Business MSc                       +2 kept, 0 dropped
+university-o Digital Media and Society MA                     +2 kept, 0 dropped
+university-o International Education (with specialist routes) +2 kept, 0 dropped
+university-o Advanced Computer Science MSc, PGDip, PGCert     +2 kept, 0 dropped
+university-o Public International Law LLM                     +2 kept, 0 dropped
+university-o Communication and Media MA                       error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Digital Media and Society MA                     +2 kept, 0 dropped
+university-o Media and Public Relations MA                    +2 kept, 0 dropped
+university-o Media and Public Relations MA                    +2 kept, 0 dropped
+university-o AI for Business Intelligence MSc                 +2 kept, 0 dropped
+university-o Crime, Justice and Psychology MSc                +2 kept, 0 dropped
+university-o International Commercial Law LLM                 +1 kept, 0 dropped
+university-o AI for Business Intelligence MSc                 +2 kept, 0 dropped
+university-o Global Media and Communication MA                +2 kept, 0 dropped
+university-o International Human Rights Law LLM               +2 kept, 0 dropped
+university-o MSc Management (Business Psychology)             +2 kept, 0 dropped
+university-o Computational Health Data Science MSc, PGDip     +2 kept, 0 dropped
+university-o Advanced Computer Science MSc, PGDip, PGCert     error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o MSc Management (Sustainable Business)            +2 kept, 0 dropped
+university-o Accounting, Finance and Management MSc           +2 kept, 0 dropped
+university-o Actuarial Science with Data Analytics MSc, PGDip +2 kept, 0 dropped
+university-o International Business and Corporate Law LLM     +1 kept, 0 dropped
+university-o Human Resource Management and Training MSc, PGDi +2 kept, 0 dropped
+university-o Global Media and Communication MA                error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+university-o Start your Business and Marketing Master's this  +1 kept, 0 dropped
+royal-hollow Digital Marketing MSc                            +1 kept, 0 dropped
+royal-hollow Law (LLM)                                        +1 kept, 0 dropped
+royal-hollow AI for Business MSc                              +1 kept, 0 dropped
+dublin-city- MSc in Finance                                   +1 kept, 0 dropped
+university-o Accounting, Finance and Management MSc           error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+dublin-city- MSc in Finance                                   +1 kept, 0 dropped
+dublin-city- MSc in Computing                                 +2 kept, 0 dropped
+dublin-city- MSc in Accounting                                +1 kept, 0 dropped
+dublin-city- DC662 - LLM (Master of Laws)                     +0 kept, 0 dropped
+dublin-city- MA in Journalism                                 +2 kept, 0 dropped
+dublin-city- Master of Teaching                               +1 kept, 0 dropped
+dublin-city- MSc in Digital Marketing                         +1 kept, 0 dropped
+royal-hollow MSc Global Health: Food Security, Sustainability error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+dublin-city- MSc in Management (Business)                     +1 kept, 0 dropped
+dublin-city- MSc in Management (Strategy)                     +1 kept, 0 dropped
+dublin-city- Master of Education                              +2 kept, 0 dropped
+dublin-city- LLM in European Law                              +2 kept, 0 dropped
+dublin-city- MSc in Emerging Media                            +2 kept, 0 dropped
+dublin-city- LLM in Public Law                                +2 kept, 0 dropped
+dublin-city- MSc in Psychology (Conversion)                   +2 kept, 0 dropped
+dublin-city- Master of Education in Autism                    +2 kept, 0 dropped
+dublin-city- MSc in Business Administration                   +0 kept, 0 dropped
+dublin-city- Master of Education in Literacy Professional Pra +2 kept, 0 dropped
+dublin-city- MSc in Emergency Management                      error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+dublin-city- MSc in Psychology and Wellbeing                  +2 kept, 0 dropped
+dublin-city- LLM General Pathway                              +2 kept, 0 dropped
+dublin-city- MA in Political Communication                    +2 kept, 0 dropped
+dublin-city- MSc in Guidance Counselling                      +2 kept, 0 dropped
+dublin-city- MA in Social Media Communications                +2 kept, 0 dropped
+dublin-city- MA in International Relations                    +2 kept, 0 dropped
+dublin-city- MSc in Human Resource Management                 +1 kept, 0 dropped
+dublin-city- MSc in International Accounting and Business     +1 kept, 0 dropped
+dublin-city- LLM in Policing, Crime and Security              +2 kept, 0 dropped
+dublin-city- MSc in Financial Mathematics                     +2 kept, 0 dropped
+dublin-city- MSc in Management (Operations and Supply Chain)  +1 kept, 0 dropped
+dublin-city- MA in European Law and Policy                    +1 kept, 0 dropped
+dublin-city- MSc Global Management (Digital Disruption)       +1 kept, 0 dropped
+dublin-city- LLM in International Human Rights Law            +2 kept, 0 dropped
+dublin-city- Master of Education in Arts Education Practice   +2 kept, 0 dropped
+dublin-city- Master in Religion and Education (Post Primary)  +0 kept, 0 dropped
+dublin-city- MSc in Work and Organisational Psychology / Beha +0 kept, 0 dropped
+dublin-city- MSc in Science and Health Communication          +2 kept, 0 dropped
+dublin-city- MSc in Elite Sport Performance                   +1 kept, 0 dropped
+dublin-city- MSc in Business Analytics and Artificial Intelli +1 kept, 0 dropped
+dublin-city- MSc in Electronic & Computer Technology          +2 kept, 0 dropped
+dublin-city- Professional Master of Education (Primary Teachi +0 kept, 0 dropped
+dublin-city- Master of Education (MEd) in Special Educational +2 kept, 0 dropped
+dublin-city- Master of Education in Early Childhood Education error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+dublin-city- MSc in Psychotherapy                             +2 kept, 0 dropped
+dublin-city- MSc in Education and Training Management (eLearn +2 kept, 0 dropped
+dublin-city- MEd in Specific Learning Difficulties (Dyslexia) +2 kept, 0 dropped
+dublin-city- MSc in Education and Training Management (Leader +2 kept, 0 dropped
+dublin-city- MSc in Dementia Nursing Practice                 +0 kept, 0 dropped
+dublin-city- MSc in Quantitative Economics for Business and M +1 kept, 0 dropped
+dublin-city- MSc in Public Relations and Strategic Communicat +2 kept, 0 dropped
+dublin-city- MSc in Business Analytics and Artificial Intelli +1 kept, 0 dropped
+dublin-city- MSc in Women’s Health, Sport and Exercise Scienc +0 kept, 0 dropped
+dublin-city- LLM in Business and Trade Law and Market Regulat +2 kept, 0 dropped
+dublin-city- MA in Data Protection and Privacy: Law and Compu +2 kept, 0 dropped
+dublin-city- Masters in Quantitative Economics for Internatio +1 kept, 0 dropped
+dublin-city- MSc in Specialist Nursing                        error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+dublin-city- Professional Master of Education (Post Primary E +2 kept, 0 dropped
+dublin-city- European Master in Law, Data and Artificial Inte +1 kept, 0 dropped
+dublin-city- MSc in Intellectual Disability Nursing Practice  +0 kept, 0 dropped
+dublin-city- MSc in Business Analytics and Artificial Intelli +1 kept, 0 dropped
+dublin-city- MSc in Child and Family Health and Wellbeing (cl +1 kept, 0 dropped
+46 programmes failed; run again to retry them
+Tokens: input 5339799, output 269693 · cost ≈ US0.669 (Haiku 5.5: $0.10 / $0.50 per MTok)

@@ -1,0 +1,61 @@
+# university-of-minnesota-twin-cities@2 https://grad.umn.edu
+robots sitemaps: (none) · crawl-delay: 10 · AI-agent groups: 0
+sitemaps read 1 · urls 394 · master's-looking 118
+   46  gradschool.umn.edu/news-events/news-overview
+         http://gradschool.umn.edu/news-events/news-overview/cobell-graduate-summer-research-fellowship-awarded
+         http://gradschool.umn.edu/news-events/news-overview/board-discuss-graduate-and-professional-education
+         http://gradschool.umn.edu/news-events/news-overview/mndrive-global-food-ventures-graduate-fellows-announced
+         http://gradschool.umn.edu/news-events/news-overview/graduate-admissions-team-members-win-national-award
+   25  gradschool.umn.edu/news-events/event
+         http://gradschool.umn.edu/news-events/event/2019-graduate-school-welcome-resource-fair
+         http://gradschool.umn.edu/news-events/event/graduate-admissions-information-session-tour
+         http://gradschool.umn.edu/news-events/event/graduate-admissions-information-session-tour-0
+         http://gradschool.umn.edu/news-events/event/graduate-admissions-information-session-tour-2
+   20  gradschool.umn.edu/news-events/events-overview
+         http://gradschool.umn.edu/news-events/events-overview/join-us-celebration-first-generation-graduate-students-their-supporters
+         http://gradschool.umn.edu/news-events/events-overview/u-mn-systemwide-graduate-school-diversity-conference-graduate-fair-fall
+         http://gradschool.umn.edu/news-events/events-overview/graduate-admissions-virtual-information-session-summer-2021
+         http://gradschool.umn.edu/news-events/events-overview/umn-systemwide-2022-diversity-conference-graduate-fair
+    4  gradschool.umn.edu/graduate-programs
+         http://gradschool.umn.edu/graduate-programs/preparing-graduate-school
+         http://gradschool.umn.edu/graduate-programs/program-statistics
+         http://gradschool.umn.edu/graduate-programs/recruiting-calendar
+         http://gradschool.umn.edu/graduate-programs
+    4  gradschool.umn.edu/funding/current-students
+         http://gradschool.umn.edu/funding/current-students/graduate-professional-seed-awards
+         http://gradschool.umn.edu/funding/current-students/national-science-foundation-graduate-research-fellowship
+         http://gradschool.umn.edu/funding/current-students/distinguished-masters-thesis-competition
+         http://gradschool.umn.edu/funding/current-students/roger-d-gordon-endowed-evans-professional-and-graduate-degree-award
+    3  gradschool.umn.edu/funding/prospective-incoming-students
+         http://gradschool.umn.edu/funding/prospective-incoming-students/national-science-foundation-graduate-research-fellowship
+         http://gradschool.umn.edu/funding/prospective-incoming-students/roger-d-gordon-endowed-evans-professional-and-graduate-degree
+         http://gradschool.umn.edu/funding/prospective-incoming-students/3m-science-technology-graduate-fellowship
+    3  gradschool.umn.edu/funding/program-requests-nominations
+         http://gradschool.umn.edu/funding/program-requests-nominations/distinguished-masters-thesis-competition
+         http://gradschool.umn.edu/funding/program-requests-nominations/national-science-foundation-innovations-graduate-education
+         http://gradschool.umn.edu/funding/program-requests-nominations/3m-science-technology-graduate-fellowship
+    2  gradschool.umn.edu/faculty-staff-toolkit
+         http://gradschool.umn.edu/faculty-staff-toolkit/graduate-education-resources-new-faculty
+         http://gradschool.umn.edu/faculty-staff-toolkit/advising-mentoring-international-graduate-students
+    1  gradschool.umn.edu/graduate-education-data
+         http://gradschool.umn.edu/graduate-education-data
+    1  gradschool.umn.edu/graduate-student-profile
+         http://gradschool.umn.edu/graduate-student-profile
+    1  gradschool.umn.edu/gear
+         http://gradschool.umn.edu/gear/graduate-school-essentials
+    1  gradschool.umn.edu/graduate-assistant-stipend-benchmark-dashboard
+         http://gradschool.umn.edu/graduate-assistant-stipend-benchmark-dashboard
+    1  gradschool.umn.edu/diversity/community-scholars-program
+         http://gradschool.umn.edu/diversity/community-scholars-program/graduate-recruitment-ambassadors-program
+    1  gradschool.umn.edu/guidance-generative-ai-graduate-education
+         http://gradschool.umn.edu/guidance-generative-ai-graduate-education
+    1  gradschool.umn.edu/academic-career-support/resources/graduate-school-essentials
+         http://gradschool.umn.edu/academic-career-support/resources/graduate-school-essentials/graduate-school-essentials-humanities
+    1  gradschool.umn.edu/roger-d-gordon-endowed-evans-professional-and-graduate-degree-award-0
+         http://gradschool.umn.edu/roger-d-gordon-endowed-evans-professional-and-graduate-degree-award-0
+    1  gradschool.umn.edu/funding
+         http://gradschool.umn.edu/funding/purpose-graduate-fellowships
+    1  gradschool.umn.edu/graduate-programs-fair
+         http://gradschool.umn.edu/graduate-programs-fair
+    1  gradschool.umn.edu/death-mr-george-floyd-graduate-school-message-support
+         http://gradschool.umn.edu/death-mr-george-floyd-graduate-school-message-support

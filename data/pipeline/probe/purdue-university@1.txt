@@ -1,0 +1,128 @@
+# purdue-university@1 https://www.purdue.edu
+robots sitemaps: https://www.purdue.edu/sitemap.xml https://www.purdue.edu/science/sitemap.xml · crawl-delay: 3 · AI-agent groups: 0
+sitemaps read 2 · urls 41001 · master's-looking 2495
+ 1650  www.purdue.edu/hla/sites/master-gardener
+         https://www.purdue.edu/hla/sites/master-gardener/citizen-scientist-volunteer-projects/
+         https://www.purdue.edu/hla/sites/master-gardener/contact-us/
+         https://www.purdue.edu/hla/sites/master-gardener/2025-purdue-extension-master-gardener-state-conference/
+         https://www.purdue.edu/hla/sites/master-gardener/resources/
+  247  www.purdue.edu/science/graduate/reimbursement
+         https://www.purdue.edu/science/graduate/reimbursement/domestic.php
+         https://www.purdue.edu/science///graduate/reimbursement/domestic.php
+         https://www.purdue.edu/science/graduate/reimbursement/domestic.php/yes
+         https://www.purdue.edu/science/graduate/reimbursement/domestic.php/no
+  137  www.purdue.edu/hla/sites/hla-happenings
+         https://www.purdue.edu/hla/sites/hla-happenings/article/thompson-lab-researcher-received-undergraduate-award-for-humanities-and-stem-research/
+         https://www.purdue.edu/hla/sites/hla-happenings/article-tags/graduate-students/
+         https://www.purdue.edu/hla/sites/hla-happenings/article/graduate-students-celebrate-end-of-year/
+         https://www.purdue.edu/hla/sites/hla-happenings/article/hanna-dykema-places-3rd-at-spring-undergraduate-research-conference/
+   90  www.purdue.edu/hhs/nur/students
+         https://www.purdue.edu/hhs/nur/students/graduate/programs/pediatric-nurse-practitioner/post-masters-certificate.html
+         https://www.purdue.edu/hhs/nur/students/graduate/programs/psychiatric-mental-health-nurse-practitioner/post-masters-certificate.html
+         https://www.purdue.edu/hhs/nur/students/graduate/programs/adult-gerontology-nurse-practitioner/overview.html
+         https://www.purdue.edu/hhs/nur/students/graduate/programs/family-nurse-practitioner/post-masters-certificate.html
+   42  www.purdue.edu/online/program
+         https://www.purdue.edu/online/program/master-of-science-in-systems-engineering/
+         https://www.purdue.edu/online/program/graduate-certificate-in-regulatory-affairs-and-regulatory-science-for-medical-devices/
+         https://www.purdue.edu/online/program/master-of-public-health-mph/
+         https://www.purdue.edu/online/program/master-of-science-in-autonomy/
+   24  www.purdue.edu/science/archive/docs
+         https://www.purdue.edu/science/archive/docs/graduate/idp/biological_sciences/IDP_year%201_8_1_2017.pdf
+         https://www.purdue.edu/science/archive/docs/graduate/idp/biological_sciences/IDP_Year%202_8_1_2017.pdf
+         https://www.purdue.edu/science/archive/docs/graduate/idp/chem/CHEMISTRY%20IDP_YEAR%201_%202017.pdf
+         https://www.purdue.edu/science/archive/docs/graduate/idp/chem/CHEMISTRY%20IDP_YEAR%202_%202017.pdf
+   18  www.purdue.edu/academics/ogsps/student
+         https://www.purdue.edu/academics/ogsps/student/graduate-student-ambassadors/index.php
+         https://www.purdue.edu/academics/ogsps/student/graduate-student-ambassadors/about.php
+         https://www.purdue.edu/academics/ogsps/student/graduate-student-ambassadors/students/Shende,%20Vaishali.php
+         https://www.purdue.edu/academics/ogsps/student/graduate-student-ambassadors/students/Patel,%20Dipam.php
+   18  www.purdue.edu/science/graduate
+         https://www.purdue.edu/science/graduate/index.html
+         https://www.purdue.edu/science/graduate/idp.html
+         https://www.purdue.edu/science/graduate/graduate-programs.html
+         https://www.purdue.edu/science///graduate/index.html
+   16  www.purdue.edu/science/Current_Students/scholarships
+         https://www.purdue.edu/science/Current_Students/scholarships/Undergraduate%20Fellowships.html
+         https://www.purdue.edu/science/Current_Students/scholarships/scholarships-for-continuing-undergraduate-students.html
+         https://www.purdue.edu/science/Current_Students/scholarships/scholarships-for-beginning-undergraduate-students-are-by-invitation-only.html
+         https://www.purdue.edu/science///Current_Students/scholarships/scholarships-for-continuing-undergraduate-students.html
+   11  www.purdue.edu/hhs/news/2023
+         https://www.purdue.edu/hhs/news/2023/11/purdue-mha-graduate-plans-to-make-a-difference-in-veteran-health-care/
+         https://www.purdue.edu/hhs/news/2023/12/2022-mha-student-of-the-year-karrah-teruya-reflects-on-extraordinary-graduate-school-experience/
+         https://www.purdue.edu/hhs/news/2023/10/psychological-sciences-graduate-student-explores-connections-between-multicultural-factors-and-substance-use-disorder/
+         https://www.purdue.edu/hhs/news/2023/03/purdue-master-of-science-in-dietetics-program-includes-hands-on-learning-opportunities-to-improve-client-health/
+   10  www.purdue.edu/science/wisp/graduate
+         https://www.purdue.edu/science/wisp/graduate/index.html
+         https://www.purdue.edu/science/wisp/graduate/staff_listing.html
+         https://www.purdue.edu/science///wisp/graduate/staff_listing.html
+         https://www.purdue.edu/science///wisp/graduate/index.html
+   10  www.purdue.edu/hhs/hsci/students
+         https://www.purdue.edu/hhs/hsci/students/graduate/programs/industrial-hygiene/index.php
+         https://www.purdue.edu/hhs/hsci/students/graduate/programs/industrial-hygiene/career.php
+         https://www.purdue.edu/hhs/hsci/students/graduate/programs/industrial-hygiene/plans-of-study/index.php
+         https://www.purdue.edu/hhs/hsci/students/graduate/programs/industrial-hygiene/plans-of-study/MS-thesis-plan-of-study.php
+    9  www.purdue.edu/online
+         https://www.purdue.edu/online/community-outreach-coordinator-utilizes-her-online-communication-masters-to-inspire-action-on-water-pollution/
+         https://www.purdue.edu/online/army-vet-uses-what-she-learned-in-purdues-online-master-of-public-health-to-improve-veterans-health-outcomes/
+         https://www.purdue.edu/online/water-resources-engineer-learned-new-software-skills-advanced-her-expertise-and-gained-time-management-skills-within-the-online-masters-in-civil-engineering/
+         https://www.purdue.edu/online/for-many-working-professionals-masters-programs-provide-a-big-return-on-investment/
+    9  www.purdue.edu/treasurer/finance/bursar-office
+         https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2024-2025/undergraduate-graduate-summer-winter-2024-2025/
+         https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2024-2025/indianapolis-graduate-2024-2025/
+         https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2023-2024/graduate-student-2023-2024/
+         https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2023-2024/undergraduate-2023-2024/
+    9  www.purdue.edu/physicalfacilities/units/cpas
+         https://www.purdue.edu/physicalfacilities/units/cpas/sustainability/sustainability-master-plan/index.html
+         https://www.purdue.edu/physicalfacilities/units/cpas/campus-planning/master-plans/giant-leaps-master-plan.html
+         https://www.purdue.edu/physicalfacilities/units/cpas/campus-planning/master-plans/index.html
+         https://www.purdue.edu/physicalfacilities/units/cpas/campus-planning/master-plans/archives.html
+    9  www.purdue.edu/hhs/slhs/undergraduate
+         https://www.purdue.edu/hhs/slhs/undergraduate/beyond_the_classroom/student_org.html
+         https://www.purdue.edu/hhs/slhs/undergraduate/beyond_the_classroom/SLP-A.html
+         https://www.purdue.edu/hhs/slhs/undergraduate/beyond_the_classroom/index.html
+         https://www.purdue.edu/hhs/slhs/undergraduate/index.html
+    8  www.purdue.edu/science/wisp/undergraduate
+         https://www.purdue.edu/science/wisp/undergraduate/index.html
+         https://www.purdue.edu/science/wisp/undergraduate/staff_listing.html
+         https://www.purdue.edu/science///wisp/undergraduate/index.html
+         https://www.purdue.edu/science///wisp/undergraduate/staff_listing.html
+    7  www.purdue.edu/innovativelearning/services/launch-process
+         https://www.purdue.edu/innovativelearning/services/launch-process/graduate/
+         https://www.purdue.edu/innovativelearning/services/launch-process/undergraduate/
+         https://www.purdue.edu/innovativelearning/services/launch-process/graduate/step3/
+         https://www.purdue.edu/innovativelearning/services/launch-process/graduate/step1/
+    7  www.purdue.edu/entr
+         https://www.purdue.edu/entr/graduate-level-course-understand-technology-commercialization-before-you-start/
+         https://www.purdue.edu/entr/purdue-senior-send-off-for-december-2018-graduates/
+         https://www.purdue.edu/entr/from-purdue-to-london-entrepreneurship-stays-with-2016-graduate/
+         https://www.purdue.edu/entr/attend-purdues-undergraduate-research-and-poster-symposium/
+    7  www.purdue.edu/meercat/blog/2018
+         https://www.purdue.edu/meercat/blog/2018/06/14/perspectives-on-pedagogical-change-instructor-and-student-experiences-of-a-newly-implemented-undergraduate-engineering-dynamics-curriculum/#respond
+         https://www.purdue.edu/meercat/blog/2018/05/22/do-great-minds-think-alike-racial-ethic-and-gender-differences-in-mindset-of-undergraduate-engineering-students/#respond
+         https://www.purdue.edu/meercat/blog/2018/02/14/work-in-progress-active-learning-activities-to-improve-conceptual-understanding-in-an-undergraduate-mechanics-of-materials-course/#respond
+         https://www.purdue.edu/meercat/blog/2018/05/25/the-relationship-between-demographic-characteristics-and-engagement-in-an-undergraduate-engineering-online-forum/#respond
+    6  www.purdue.edu/teaching-learning/academic-proposals/undergraduate
+         https://www.purdue.edu/teaching-learning/academic-proposals/undergraduate/degree.html
+         https://www.purdue.edu/teaching-learning/academic-proposals/undergraduate/minor.html
+         https://www.purdue.edu/teaching-learning/academic-proposals/undergraduate/concentration.html
+         https://www.purdue.edu/teaching-learning/academic-proposals/undergraduate/course.html
+    6  www.purdue.edu/hhs/news/2022
+         https://www.purdue.edu/hhs/news/2022/09/after-big-career-switch-new-mha-student-named-graduate-student-of-the-year/
+         https://www.purdue.edu/hhs/news/2022/06/purdue-university-online-master-of-health-administration-degree-earns-top-ranking/
+         https://www.purdue.edu/hhs/news/2022/07/toxicology-education-prepares-2021-purdue-graduate-for-career-as-deputy-coroner/
+         https://www.purdue.edu/hhs/news/2022/12/new-look-ismail-center-promotes-fitness-undergraduate-research/
+    6  www.purdue.edu/hhs/news/2021
+         https://www.purdue.edu/hhs/news/2021/03/serving-people-takes-on-new-meaning-for-purdue-hospitality-graduate/
+         https://www.purdue.edu/hhs/news/2021/04/purdue-graduate-students-juggle-parenthood-during-a-pandemic/
+         https://www.purdue.edu/hhs/news/2021/05/purdue-addiction-studies-concentration-awards-its-first-graduate/
+         https://www.purdue.edu/hhs/news/2021/04/purdue-hdfs-graduate-creates-hope-from-hardships-with-cancer-nonprofit/
+    5  www.purdue.edu/science/about/news
+         https://www.purdue.edu/science/about/news/articles/2024/2024-nfs-graduate-research-fellowship-program-announces-awardees-and-honorable-mentions.html
+         https://www.purdue.edu/science/about/news/articles/2024/exceptional-early-career-teaching-award-honors-undergraduate-faculty.html
+         https://www.purdue.edu/science///about/news/articles/2024/exceptional-early-career-teaching-award-honors-undergraduate-faculty.html
+         https://www.purdue.edu/science///about/news/articles/2024/2024-nfs-graduate-research-fellowship-program-announces-awardees-and-honorable-mentions.html
+    5  www.purdue.edu/teaching-learning/academic-proposals/graduate
+         https://www.purdue.edu/teaching-learning/academic-proposals/graduate/course.html
+         https://www.purdue.edu/teaching-learning/academic-proposals/graduate/concentration.html
+         https://www.purdue.edu/teaching-learning/academic-proposals/graduate/major.html
+         https://www.purdue.edu/teaching-learning/academic-proposals/graduate/degree.html

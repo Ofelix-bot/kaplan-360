@@ -1,0 +1,13 @@
+{
+ "source": "SINS degree finder filtered Master + language of instruction English https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_start_results?set_language=en&abschluss=3&vlsprache=2 (list renders by script on sins_start; results pages are plain HTML) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=73",
+  "https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=31374",
+  "https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=34650",
+  "https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=75",
+  "https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=29417",
+  "https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=29461",
+  "https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=35310"
+ ]
+}

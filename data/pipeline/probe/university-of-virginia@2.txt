@@ -1,0 +1,46 @@
+# university-of-virginia@2 https://graduate.as.virginia.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 355 · master's-looking 55
+   36  graduate.as.virginia.edu/graduate-degree-programs
+         https://graduate.as.virginia.edu/graduate-degree-programs
+         https://graduate.as.virginia.edu/graduate-degree-programs/africana-studies
+         https://graduate.as.virginia.edu/graduate-degree-programs/american-studies
+         https://graduate.as.virginia.edu/graduate-degree-programs/anthropology
+    1  graduate.as.virginia.edu/graduate-student-financial-support
+         https://graduate.as.virginia.edu/graduate-student-financial-support
+    1  graduate.as.virginia.edu/graduate-certificates
+         https://graduate.as.virginia.edu/graduate-certificates
+    1  graduate.as.virginia.edu/directors-graduate-studies-and-admissions
+         https://graduate.as.virginia.edu/directors-graduate-studies-and-admissions
+    1  graduate.as.virginia.edu/graduate-school-offer-admission-survey-faq
+         https://graduate.as.virginia.edu/graduate-school-offer-admission-survey-faq
+    1  graduate.as.virginia.edu/graduate-student-policies
+         https://graduate.as.virginia.edu/graduate-student-policies
+    1  graduate.as.virginia.edu/graduate
+         https://graduate.as.virginia.edu/graduate
+    1  graduate.as.virginia.edu/graduate-education-contact-info
+         https://graduate.as.virginia.edu/graduate-education-contact-info
+    1  graduate.as.virginia.edu/master-arts-application-deadline
+         https://graduate.as.virginia.edu/master-arts-application-deadline
+    1  graduate.as.virginia.edu/application-deadline-master-fine-arts-creative-writing
+         https://graduate.as.virginia.edu/application-deadline-master-fine-arts-creative-writing
+    1  graduate.as.virginia.edu/application-deadline-master-fine-arts-drama-applications-paused
+         https://graduate.as.virginia.edu/application-deadline-master-fine-arts-drama-applications-paused
+    1  graduate.as.virginia.edu/application-deadline-master-science-biology
+         https://graduate.as.virginia.edu/application-deadline-master-science-biology
+    1  graduate.as.virginia.edu/application-deadline-master-science-environmental-sciences-mathematics-physics-and-statistics
+         https://graduate.as.virginia.edu/application-deadline-master-science-environmental-sciences-mathematics-physics-and-statistics
+    1  graduate.as.virginia.edu/invite-visiting-graduate-researcher
+         https://graduate.as.virginia.edu/invite-visiting-graduate-researcher
+    1  graduate.as.virginia.edu/graduate-excellence
+         https://graduate.as.virginia.edu/graduate-excellence
+    1  graduate.as.virginia.edu/applying-graduate-school
+         https://graduate.as.virginia.edu/applying-graduate-school
+    1  graduate.as.virginia.edu/graduate-student-appreciation-week-nominees
+         https://graduate.as.virginia.edu/graduate-student-appreciation-week-nominees
+    1  graduate.as.virginia.edu/graduate-programs-landing
+         https://graduate.as.virginia.edu/graduate-programs-landing
+    1  graduate.as.virginia.edu/graduate-student-appreciation-week-gsaw
+         https://graduate.as.virginia.edu/graduate-student-appreciation-week-gsaw
+    1  graduate.as.virginia.edu/graduate-convocation-and-resource-fair
+         https://graduate.as.virginia.edu/graduate-convocation-and-resource-fair

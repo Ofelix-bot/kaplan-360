@@ -1,0 +1,59 @@
+# university-of-california-santa-barbara@2 https://www.graddiv.ucsb.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 285 · master's-looking 36
+    6  www.graddiv.ucsb.edu/news
+         https://www.graddiv.ucsb.edu/news/ucsb-students-win-national-defense-science-and-engineering-graduate-fellowship
+         https://www.graddiv.ucsb.edu/news/new-era-graduate-division
+         https://www.graddiv.ucsb.edu/news/RA2025-advances-graduate-student-goals
+         https://www.graddiv.ucsb.edu/news/snapshot-our-2025-26-new-graduate-student-cohort
+    3  www.graddiv.ucsb.edu/about-us
+         https://www.graddiv.ucsb.edu/about-us/graduate-division
+         https://www.graddiv.ucsb.edu/about-us/our-graduate-community
+         https://www.graddiv.ucsb.edu/about-us/professors-graduate-division
+    2  www.graddiv.ucsb.edu/commencement
+         https://www.graddiv.ucsb.edu/commencement/information-graduate-students
+         https://www.graddiv.ucsb.edu/commencement/graduate-division-ceremony
+    1  www.graddiv.ucsb.edu/graduate-programs
+         https://www.graddiv.ucsb.edu/graduate-programs
+    1  www.graddiv.ucsb.edu/mentorship-inclusivity
+         https://www.graddiv.ucsb.edu/mentorship-inclusivity/meet-graduate-deans-advisory-board
+    1  www.graddiv.ucsb.edu/preparing-graduate-school
+         https://www.graddiv.ucsb.edu/preparing-graduate-school/schedule-campus-visit
+    1  www.graddiv.ucsb.edu/policy-procedure
+         https://www.graddiv.ucsb.edu/policy-procedure/graduate-student-rights-and-formal-stages-appeal
+    1  www.graddiv.ucsb.edu/degree-requirements
+         https://www.graddiv.ucsb.edu/degree-requirements/masters-degree
+    1  www.graddiv.ucsb.edu/time-degree-tables
+         https://www.graddiv.ucsb.edu/time-degree-tables/time-degree-masters-degrees
+    1  www.graddiv.ucsb.edu/our-services
+         https://www.graddiv.ucsb.edu/our-services/graduate-parent-employment
+    1  www.graddiv.ucsb.edu/graduate-scholars-program
+         https://www.graddiv.ucsb.edu/graduate-scholars-program/sharing-graduate-scholar-program
+    1  www.graddiv.ucsb.edu/mentorship-inclusivity/graduate-scholars-program
+         https://www.graddiv.ucsb.edu/mentorship-inclusivity/graduate-scholars-program/mentoring-families
+    1  www.graddiv.ucsb.edu/types-applicants
+         https://www.graddiv.ucsb.edu/types-applicants/ucsb-graduate-students-applying-doctoral-programs
+    1  www.graddiv.ucsb.edu/graduate-division-services-during-covid-19-emergency
+         https://www.graddiv.ucsb.edu/graduate-division-services-during-covid-19-emergency
+    1  www.graddiv.ucsb.edu/preparing-graduate-school/recruitment-fairs-events-schedule
+         https://www.graddiv.ucsb.edu/preparing-graduate-school/recruitment-fairs-events-schedule/virtual-open-house-schedule
+    1  www.graddiv.ucsb.edu/thank-you-supporting-our-graduate-students
+         https://www.graddiv.ucsb.edu/thank-you-supporting-our-graduate-students
+    1  www.graddiv.ucsb.edu/november8-graduate-admissions-open-house
+         https://www.graddiv.ucsb.edu/november8-graduate-admissions-open-house
+    1  www.graddiv.ucsb.edu/ucsb-graduate-statistics
+         https://www.graddiv.ucsb.edu/ucsb-graduate-statistics
+    1  www.graddiv.ucsb.edu/graduate-data-reports
+         https://www.graddiv.ucsb.edu/graduate-data-reports
+    1  www.graddiv.ucsb.edu/apply-graduate-education-uc-santa-barbara
+         https://www.graddiv.ucsb.edu/apply-graduate-education-uc-santa-barbara
+    1  www.graddiv.ucsb.edu/equity-graduate-education-mentoring-workshops
+         https://www.graddiv.ucsb.edu/equity-graduate-education-mentoring-workshops
+    1  www.graddiv.ucsb.edu/five-year-combined-degree-program-bachelorsmasters
+         https://www.graddiv.ucsb.edu/five-year-combined-degree-program-bachelorsmasters
+    1  www.graddiv.ucsb.edu/prodev
+         https://www.graddiv.ucsb.edu/prodev/graduate-student-postdoc-resources
+    1  www.graddiv.ucsb.edu/our-services/academic-services/filing
+         https://www.graddiv.ucsb.edu/our-services/academic-services/filing/masters-thesis-and-doctoral-degree-filing-checklist
+    1  www.graddiv.ucsb.edu/commencement-spotlight-honorable-marc-nathanson-ma-69
+         https://www.graddiv.ucsb.edu/commencement-spotlight-honorable-marc-nathanson-ma-69

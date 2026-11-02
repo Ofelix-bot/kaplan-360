@@ -1,0 +1,277 @@
+{
+  "dataset": "CSCSE: scope of certification for Singapore private education institutions",
+  "title": "关于新加坡私立教育机构认证范围的公告",
+  "publisher": "教育部留学服务中心 (Chinese Service Center for Scholarly Exchange)",
+  "published": "2026-09-14",
+  "url": "https://zwfw.cscse.edu.cn/zwfw/lxfwzxwsfwdt2020/xlxwrz32/tzgg61/2026091416463289686/index.html",
+  "transcribedAt": "2026-10-20",
+  "notes": [
+    "Category 4 table (EduTrust / EduTrust Star institutions), in table order. 'from' is the month after which certificates can be certified (以证书颁发时间为准). A null university is a blank cell on the page.",
+    "The site's robots.txt could not be reached, so the pipeline did not fetch it; the table was read once from the public page and transcribed. Check the page before relying on a row.",
+    "Kaplan's own page notes that CSCSE requires programmes to be completed on campus in person; Kaplan's part-time programmes mix online learning and may not qualify (https://www.kaplan.com.sg/international-applicants-chinese-service-centre-for-scholarly-exchange-cscse-accreditation)."
+  ],
+  "categories": {
+    "privateUniversity": [
+      "SIM University (renamed Singapore University of Social Sciences, now a public university)"
+    ],
+    "governmentFunded": [
+      "Nanyang Academy of Fine Arts",
+      "LASALLE College of the Arts"
+    ],
+    "exemptBranchCampuses": [
+      "DigiPen Institute of Technology Singapore",
+      "ESSEC",
+      "German Institute of Science and Technology – TUM Asia",
+      "INSEAD",
+      "S P Jain School of Global Management",
+      "Sorbonne-Assas International Law School – Asia"
+    ]
+  },
+  "rows": [
+    {
+      "university": "James Cook University",
+      "institution": "James Cook University, Singapore Campus",
+      "from": "2010-07"
+    },
+    {
+      "university": "Curtin University",
+      "institution": "Curtin Education Centre",
+      "from": "2011-05"
+    },
+    {
+      "university": "Murdoch University",
+      "institution": "Kaplan Higher Education Academy",
+      "from": "2011-07"
+    },
+    {
+      "university": "The University of Newcastle",
+      "institution": "PSB Academy",
+      "from": "2010-05"
+    },
+    {
+      "university": "University of Wollongong",
+      "institution": "Singapore Institute of Management",
+      "from": "2010-05"
+    },
+    {
+      "university": "Royal Melbourne Institute of Technology",
+      "institution": "Singapore Institute of Management",
+      "from": "2010-05"
+    },
+    {
+      "university": "Vatel Hotel and Tourism Business School",
+      "institution": "SISH Institute",
+      "from": "2012-08"
+    },
+    {
+      "university": "University of London",
+      "institution": "Singapore Institute of Management",
+      "from": "2010-05"
+    },
+    {
+      "university": "University College Dublin, National University of Ireland",
+      "institution": "Kaplan Higher Education Academy",
+      "from": "2011-07"
+    },
+    {
+      "university": "Wrexham University",
+      "institution": "SHRM College",
+      "from": "2015-01"
+    },
+    {
+      "university": null,
+      "institution": "Dimensions International College",
+      "from": "2012-02"
+    },
+    {
+      "university": "University of Sunderland",
+      "institution": "Management Development Institute of Singapore",
+      "from": "2010-12"
+    },
+    {
+      "university": "Cardiff Metropolitan University",
+      "institution": "Beacon International College",
+      "from": "2016-07"
+    },
+    {
+      "university": null,
+      "institution": "Dimensions International College",
+      "from": "2012-02"
+    },
+    {
+      "university": "Queen Margaret University, Edinburgh",
+      "institution": "East Asia Institute of Management",
+      "from": "2010-05"
+    },
+    {
+      "university": "University of Portsmouth",
+      "institution": "Kaplan Higher Education Academy",
+      "from": "2011-07"
+    },
+    {
+      "university": "Edith Cowan University",
+      "institution": "PSB Academy",
+      "from": "2010-05"
+    },
+    {
+      "university": "University of Greenwich",
+      "institution": "London School of Business and Finance",
+      "from": "2014-04"
+    },
+    {
+      "university": "Teesside University",
+      "institution": "Management Development Institute of Singapore",
+      "from": "2010-12"
+    },
+    {
+      "university": "Bangor University",
+      "institution": "Management Development Institute of Singapore",
+      "from": "2010-12"
+    },
+    {
+      "university": "University of Stirling",
+      "institution": "Singapore Institute of Management",
+      "from": "2010-05"
+    },
+    {
+      "university": "University of West London",
+      "institution": "SISH Institute",
+      "from": "2012-08"
+    },
+    {
+      "university": null,
+      "institution": "Singapore Raffles Music College",
+      "from": "2016-10"
+    },
+    {
+      "university": "University of Birmingham",
+      "institution": "Singapore Institute of Management",
+      "from": "2010-05"
+    },
+    {
+      "university": "Coventry University",
+      "institution": "PSB Academy",
+      "from": "2010-05"
+    },
+    {
+      "university": null,
+      "institution": "Raffles College of Higher Education",
+      "from": "2012-01"
+    },
+    {
+      "university": "Edinburgh Napier University",
+      "institution": "PSB Academy",
+      "from": "2010-05"
+    },
+    {
+      "university": null,
+      "institution": "Management Development Institute of Singapore",
+      "from": "2010-12"
+    },
+    {
+      "university": "La Trobe University",
+      "institution": "PSB Academy",
+      "from": "2010-05"
+    },
+    {
+      "university": "Northumbria University at Newcastle",
+      "institution": "Management Development Institute of Singapore",
+      "from": "2010-12"
+    },
+    {
+      "university": null,
+      "institution": "Kaplan Higher Education Academy",
+      "from": "2011-07"
+    },
+    {
+      "university": "University of Northampton",
+      "institution": "TMC Academy",
+      "from": "2010-05"
+    },
+    {
+      "university": "Birmingham City University",
+      "institution": "Asian International College",
+      "from": "2017-08"
+    },
+    {
+      "university": null,
+      "institution": "Kaplan Higher Education Academy",
+      "from": "2011-07"
+    },
+    {
+      "university": "De Montfort University",
+      "institution": "East Asia Institute of Management",
+      "from": "2010-05"
+    },
+    {
+      "university": "The University of Sydney",
+      "institution": "Singapore Institute of Management",
+      "from": "2010-05"
+    },
+    {
+      "university": "London Metropolitan University",
+      "institution": "Stanfort Academy",
+      "from": "2018-08"
+    },
+    {
+      "university": "Leeds Beckett University",
+      "institution": "Management Development Institute of Singapore",
+      "from": "2010-12"
+    },
+    {
+      "university": "University of Chichester",
+      "institution": "ERC Institute",
+      "from": "2010-08"
+    },
+    {
+      "university": "University of Gloucestershire",
+      "institution": "Shelton College International",
+      "from": "2012-02"
+    },
+    {
+      "university": "University of Suffolk",
+      "institution": "Hanbridge Institute",
+      "from": "2020-04"
+    },
+    {
+      "university": "Massey University",
+      "institution": "PSB Academy",
+      "from": "2010-05"
+    },
+    {
+      "university": "University of East London",
+      "institution": "London School of Business and Finance",
+      "from": "2014-04"
+    },
+    {
+      "university": null,
+      "institution": "Beacon International College",
+      "from": "2016-07"
+    },
+    {
+      "university": "Roehampton University",
+      "institution": "Management Development Institute of Singapore",
+      "from": "2010-12"
+    },
+    {
+      "university": null,
+      "institution": "Lithan Academy",
+      "from": "2011-12"
+    },
+    {
+      "university": "University of Derby",
+      "institution": "Dimensions International College",
+      "from": "2012-02"
+    },
+    {
+      "university": null,
+      "institution": "Academies Australasia College",
+      "from": "2012-04"
+    },
+    {
+      "university": "Keele University",
+      "institution": "Kingston International College",
+      "from": "2017-03"
+    }
+  ]
+}

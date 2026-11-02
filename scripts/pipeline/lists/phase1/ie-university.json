@@ -1,0 +1,29 @@
+{
+  "source": "IE University per-school program-detail sitemaps (e.g. https://www.ie.edu/business-school/sitemap-programdetail.xml, /school-science-technology/, /law-school/, /school-architecture-design/, /school-politics-economics-global-affairs/); English-language (non-/es/) full-time master's main pages in the 13 disciplines; executive, online-format, dual and pure-economics programmes left out (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.ie.edu/business-school/programs/full-time/international-mba/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-management/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-management-and-strategy/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-finance/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-digital-marketing/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-strategic-marketing-communication/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-market-research-consumer-behavior/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-creative-direction-content-branding/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-customer-experience-innovation/",
+    "https://www.ie.edu/business-school/programs/masters/master-digital-strategy-ai-innovation/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-sports-management-innovation/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-sustainability-and-business-transformation/",
+    "https://www.ie.edu/business-school/programs/masters/master-in-talent-development-human-resources/",
+    "https://www.ie.edu/school-science-technology/programs/master-applied-artificial-intelligence/",
+    "https://www.ie.edu/school-science-technology/programs/master-business-analytics-data-science/",
+    "https://www.ie.edu/school-science-technology/programs/master-financial-technology/",
+    "https://www.ie.edu/school-science-technology/programs/master-in-computer-science-and-business-technology/",
+    "https://www.ie.edu/law-school/programs/master-of-laws-llm/",
+    "https://www.ie.edu/law-school/programs/master-in-international-legal-studies-llm/",
+    "https://www.ie.edu/school-architecture-design/programs/master-in-real-estate-development/",
+    "https://www.ie.edu/school-architecture-design/programs/master-in-business-for-architecture-and-design/",
+    "https://www.ie.edu/school-politics-economics-global-affairs/programs/master-in-international-relations/",
+    "https://www.ie.edu/school-politics-economics-global-affairs/programs/master-in-public-policy/"
+  ]
+}

@@ -1,0 +1,129 @@
+# university-of-helsinki https://www.helsinki.fi
+robots sitemaps: https://www.helsinki.fi/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.helsinki.fi/sitemap.xml: 26 children (26 course-like)
+sitemaps read 27 · urls 50161 · master's-looking 850
+   54  www.helsinki.fi/en/degree-programmes/global-politics-and-communication-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/global-politics-and-communication-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/global-politics-and-communication-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/global-politics-and-communication-masters-programme/research/faculty-research
+         https://www.helsinki.fi/en/degree-programmes/global-politics-and-communication-masters-programme/studying/student-testimonials
+   47  www.helsinki.fi/en/degree-programmes
+         https://www.helsinki.fi/en/degree-programmes/global-governance-law-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/ecology-evolution-and-biodiversity-conservation-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/genetics-and-molecular-biosciences-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/integrative-plant-sciences-masters-programme
+   31  www.helsinki.fi/en/degree-programmes/english-studies-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/english-studies-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/english-studies-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/english-studies-masters-programme/research
+         https://www.helsinki.fi/en/degree-programmes/english-studies-masters-programme/meet-people-programme
+   28  www.helsinki.fi/en/faculty-medicine/education-and-studying
+         https://www.helsinki.fi/en/faculty-medicine/education-and-studying/postgraduate-professional-education
+         https://www.helsinki.fi/en/faculty-medicine/education-and-studying/postgraduate-professional-education/specific-training-general-medical-practice
+         https://www.helsinki.fi/en/faculty-medicine/education-and-studying/postgraduate-professional-education/erikoislaakari-ja-erikoishammaslaakarikoulutus/agreements-training-units
+         https://www.helsinki.fi/en/faculty-medicine/education-and-studying/postgraduate-professional-education/erikoislaakari-ja-erikoishammaslaakarikoulutus/theoretical-training
+   27  www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes
+         https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/apply-international-masters-programmes
+         https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/statistics-student-admissions
+         https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/request-rectification
+         https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes/registration-academic-year
+   26  www.helsinki.fi/en/degree-programmes/european-and-nordic-studies-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/european-and-nordic-studies-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/european-and-nordic-studies-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/european-and-nordic-studies-masters-programme/studying/student-and-alumni-stories
+         https://www.helsinki.fi/en/degree-programmes/european-and-nordic-studies-masters-programme/research
+   18  www.helsinki.fi/en/degree-programmes/technologies-sustainable-use-renewable-resources-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/technologies-sustainable-use-renewable-resources-masters-programme/studying/teachers-tell/opportunities-offered-new-masters-programme-skills-future-workforce-through-multidisciplinary-studies
+         https://www.helsinki.fi/en/degree-programmes/technologies-sustainable-use-renewable-resources-masters-programme/studying/teachers-tell/connecting-technology-and-sustainability-new-international-masters-programme-will-begin-autumn-2026
+         https://www.helsinki.fi/en/degree-programmes/technologies-sustainable-use-renewable-resources-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/technologies-sustainable-use-renewable-resources-masters-programme/research
+   18  www.helsinki.fi/en/degree-programmes/intercultural-encounters-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/intercultural-encounters-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/intercultural-encounters-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/intercultural-encounters-masters-programme/research
+         https://www.helsinki.fi/en/degree-programmes/intercultural-encounters-masters-programme/studying/alumni-and-student-testimonials
+   16  www.helsinki.fi/en/degree-programmes/russian-eurasian-and-eastern-european-studies-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/russian-eurasian-and-eastern-european-studies-masters-programme/collective-self-examining-soviet-womens-subjectivity-through-literary-reception
+         https://www.helsinki.fi/en/degree-programmes/russian-eurasian-and-eastern-european-studies-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/russian-eurasian-and-eastern-european-studies-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/russian-eurasian-and-eastern-european-studies-masters-programme/research
+   16  www.helsinki.fi/en/degree-programmes/neuroscience-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/neuroscience-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/neuroscience-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/neuroscience-masters-programme/research
+         https://www.helsinki.fi/en/degree-programmes/neuroscience-masters-programme/studying/study-tracks
+   16  www.helsinki.fi/en/news/teaching
+         https://www.helsinki.fi/en/news/teaching/application-period-new-international-masters-programmes-begins
+         https://www.helsinki.fi/en/news/teaching/1614-applications-international-masters-programmes
+         https://www.helsinki.fi/en/news/teaching/conferment-ceremonies-celebrate-masters-and-doctoral-degree-holders
+         https://www.helsinki.fi/en/news/teaching/255-international-masters-programmes-students-begin-their-studies-university-helsinki
+   15  www.helsinki.fi/en/degree-programmes/meteorology-atmospheric-and-climate-system-sciences-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/meteorology-atmospheric-and-climate-system-sciences-masters-programme/studying/student-and-alumni-stories/one-best-places-world-study-climate-science
+         https://www.helsinki.fi/en/degree-programmes/meteorology-atmospheric-and-climate-system-sciences-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/meteorology-atmospheric-and-climate-system-sciences-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/meteorology-atmospheric-and-climate-system-sciences-masters-programme/research
+   15  www.helsinki.fi/en/degree-programmes/data-science-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme/studying/data-science-degree-structure-2020-2023
+         https://www.helsinki.fi/en/degree-programmes/data-science-masters-programme/research
+   14  www.helsinki.fi/en/degree-programmes/mathematics-and-statistics-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/mathematics-and-statistics-masters-programme/studying/study-tracks-and-specializations/intersection-applied-mathematics-and-real-world-problem-solving
+         https://www.helsinki.fi/en/degree-programmes/mathematics-and-statistics-masters-programme/studying/study-tracks-and-specializations/good-model-can-provide-creative-insight-and-understanding-processes-nature
+         https://www.helsinki.fi/en/degree-programmes/mathematics-and-statistics-masters-programme/studying/study-tracks-and-specializations/theoretical-aspects-industrial-impact
+         https://www.helsinki.fi/en/degree-programmes/mathematics-and-statistics-masters-programme/studying/study-tracks-and-specializations/analysis-opens-numerous-career-paths
+   14  www.helsinki.fi/en/researchgroups/evolution-sociality-behaviour
+         https://www.helsinki.fi/en/researchgroups/evolution-sociality-behaviour/news/welcome-new-masters-student-rosanna-lindgren
+         https://www.helsinki.fi/en/researchgroups/evolution-sociality-behaviour/news/welcome-new-msc-student-jason-rissanen
+         https://www.helsinki.fi/en/researchgroups/evolution-sociality-behaviour/news/welcome-new-msc-students-elisa-and-raphael
+         https://www.helsinki.fi/en/researchgroups/evolution-sociality-behaviour/news/welcome-new-msc-students-giovanna-marques-villani-anna-valkki
+   13  www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/research-linguistics-and-digital-humanities
+         https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying/structure-content-and-study-tracks
+   12  www.helsinki.fi/en/degree-programmes/environmental-change-and-global-sustainability-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/environmental-change-and-global-sustainability-masters-programme/studying/alumni-and-student-stories/working-toward-more-purposeful-future-eriks-journey-through-sustainability-co-creation-and-city-helsinki
+         https://www.helsinki.fi/en/degree-programmes/environmental-change-and-global-sustainability-masters-programme/studying/alumni-and-student-stories/core-all-ecgs-studies-aim-contribute-meeting-international-sustainability-objectives
+         https://www.helsinki.fi/en/degree-programmes/environmental-change-and-global-sustainability-masters-programme/studying/alumni-and-student-stories/i-found-lectures-super-interesting-and-course-sparked-my-interest-adaptation-planning
+         https://www.helsinki.fi/en/degree-programmes/environmental-change-and-global-sustainability-masters-programme/studying
+   12  www.helsinki.fi/en/degree-programmes/agricultural-environmental-and-resource-economics-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/agricultural-environmental-and-resource-economics-masters-programme/studying/student-and-alumni-stories/programme-lets-me-study-two-my-favourite-subjects-once
+         https://www.helsinki.fi/en/degree-programmes/agricultural-environmental-and-resource-economics-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/agricultural-environmental-and-resource-economics-masters-programme/careers
+         https://www.helsinki.fi/en/degree-programmes/agricultural-environmental-and-resource-economics-masters-programme/research
+   11  www.helsinki.fi/fi/koulutusohjelmat
+         https://www.helsinki.fi/fi/koulutusohjelmat/global-governance-law-masters-programme
+         https://www.helsinki.fi/fi/koulutusohjelmat/intercultural-encounters-masters-programme
+         https://www.helsinki.fi/fi/koulutusohjelmat/russian-eurasian-and-eastern-european-studies-masters-programme
+         https://www.helsinki.fi/fi/koulutusohjelmat/changing-education-masters-programme
+   11  www.helsinki.fi/sv/program
+         https://www.helsinki.fi/sv/program/global-governance-law-masters-programme
+         https://www.helsinki.fi/sv/program/intercultural-encounters-masters-programme
+         https://www.helsinki.fi/sv/program/russian-eurasian-and-eastern-european-studies-masters-programme
+         https://www.helsinki.fi/sv/program/changing-education-masters-programme
+   11  www.helsinki.fi/en/degree-programmes/microbiology-and-microbial-biotechnology-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/microbiology-and-microbial-biotechnology-masters-programme/studying/alumni-and-student-stories/its-fascinating-discover-things-no-one-has-seen
+         https://www.helsinki.fi/en/degree-programmes/microbiology-and-microbial-biotechnology-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/microbiology-and-microbial-biotechnology-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/microbiology-and-microbial-biotechnology-masters-programme/research
+   11  www.helsinki.fi/en/degree-programmes/urban-studies-and-planning-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/urban-studies-and-planning-masters-programme/studying/student-testimonials/urban-planning-requires-human-centred-thinking
+         https://www.helsinki.fi/en/degree-programmes/urban-studies-and-planning-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/urban-studies-and-planning-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/urban-studies-and-planning-masters-programme/studying/structure-content-and-courses
+   11  www.helsinki.fi/en/degree-programmes/contemporary-societies-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/contemporary-societies-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/contemporary-societies-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/contemporary-societies-masters-programme/studying/student-testimonials
+         https://www.helsinki.fi/en/degree-programmes/contemporary-societies-masters-programme/research
+   10  www.helsinki.fi/en/degree-programmes/geology-and-geophysics-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/geology-and-geophysics-masters-programme/field-course-great-opportunity-put-theory-practice
+         https://www.helsinki.fi/en/degree-programmes/geology-and-geophysics-masters-programme/universitys-future-geo-expert-event-offers-excellent-work-opportunities
+         https://www.helsinki.fi/en/degree-programmes/geology-and-geophysics-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/geology-and-geophysics-masters-programme/career
+   10  www.helsinki.fi/en/degree-programmes/food-sciences-masters-programme
+         https://www.helsinki.fi/en/degree-programmes/food-sciences-masters-programme/studying/student-and-alumni-stories/finding-my-place-here-has-been-my-biggest-breakthrough
+         https://www.helsinki.fi/en/degree-programmes/food-sciences-masters-programme/studying
+         https://www.helsinki.fi/en/degree-programmes/food-sciences-masters-programme/career
+         https://www.helsinki.fi/en/degree-programmes/food-sciences-masters-programme/research

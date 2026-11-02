@@ -1,0 +1,91 @@
+# london-south-bank-university https://www.lsbu.ac.uk
+robots sitemaps: http://www.lsbu.ac.uk/xml-sitemap · crawl-delay: 30 · AI-agent groups: 0
+sitemaps read 1 · urls 3833 · master's-looking 314
+   76  www.lsbu.ac.uk/about-us/news
+         https://www.lsbu.ac.uk/about-us/news/lsbu-graduates-sweet-success-with-healthy-cakes
+         https://www.lsbu.ac.uk/about-us/news/top-performing-student-scoops-sought-after-salters-graduate-prize
+         https://www.lsbu.ac.uk/about-us/news/lsbu-celebrates-health-social-care-and-acting-graduates
+         https://www.lsbu.ac.uk/about-us/news/fifa-masters-programme
+   64  www.lsbu.ac.uk/stories-finder
+         https://www.lsbu.ac.uk/stories-finder/asim-shaikh-masters-business-administration-mba
+         https://www.lsbu.ac.uk/stories-finder/claudius-sokenu-law-graduate-stellar-career-new-york
+         https://www.lsbu.ac.uk/stories-finder/raquel-gomez-edo-msc-food-safety-control-scholarship-recipient
+         https://www.lsbu.ac.uk/stories-finder/samreen-ali-khan-msc-food-safety-control-scholarship-recipient
+   59  www.lsbu.ac.uk/stories
+         https://www.lsbu.ac.uk/stories/graduate-stevyn-kemp-goes-on-to-full-time-work-for-his-placement-employer,-netapp
+         https://www.lsbu.ac.uk/stories/amanda-aboagye-brobbey-discusses-her-master-in-business-administration-course
+         https://www.lsbu.ac.uk/stories/claudius-sokenu-law-graduate-stellar-career-new-york
+         https://www.lsbu.ac.uk/stories/annie-cole,-postgraduate-certificate-in-education-early-years-lsbus-south-london-location-is-great
+   22  www.lsbu.ac.uk/study/study-at-lsbu/course-specifications
+         https://www.lsbu.ac.uk/study/study-at-lsbu/course-specifications/course-specifications-2025-2026/undergraduate-course-specifications
+         https://www.lsbu.ac.uk/study/study-at-lsbu/course-specifications/course-specifications-2025-2026/postgraduate-course-specifications
+         https://www.lsbu.ac.uk/study/study-at-lsbu/course-specifications/course-specifications-2025-2026/undergraduate-course-specifications/school-of-applied-and-health-sciences
+         https://www.lsbu.ac.uk/study/study-at-lsbu/course-specifications/course-specifications-2025-2026/undergraduate-course-specifications/school-of-arts-and-social-sciences
+   16  www.lsbu.ac.uk/study/course-finder
+         https://www.lsbu.ac.uk/study/course-finder/professional-practice-childrens-nursing-pgdip-msc
+         https://www.lsbu.ac.uk/study/course-finder/childrens-nursing-msc
+         https://www.lsbu.ac.uk/study/course-finder/international-business-management-internship-msc
+         https://www.lsbu.ac.uk/study/course-finder/perinatal-mental-health-pgcert-pgdip-msc
+   12  www.lsbu.ac.uk/study/undergraduate/accept-your-offer
+         https://www.lsbu.ac.uk/study/undergraduate/accept-your-offer/terms-of-your-offer
+         https://www.lsbu.ac.uk/study/undergraduate/accept-your-offer/your-unconditional-offer
+         https://www.lsbu.ac.uk/study/undergraduate/accept-your-offer/offer-holder-checklist
+         https://www.lsbu.ac.uk/study/undergraduate/accept-your-offer/discover-lsbu
+   10  www.lsbu.ac.uk/study/postgraduate
+         https://www.lsbu.ac.uk/study/postgraduate/fees-and-funding
+         https://www.lsbu.ac.uk/study/postgraduate/entry-requirements
+         https://www.lsbu.ac.uk/study/postgraduate/how-to-apply
+         https://www.lsbu.ac.uk/study/postgraduate/part-time-study
+    8  www.lsbu.ac.uk/study/undergraduate
+         https://www.lsbu.ac.uk/study/undergraduate/entry-requirements
+         https://www.lsbu.ac.uk/study/undergraduate/fees-and-funding
+         https://www.lsbu.ac.uk/study/undergraduate/part-time-study
+         https://www.lsbu.ac.uk/study/undergraduate/qualifications
+    8  www.lsbu.ac.uk/study/postgraduate/fees-and-funding
+         https://www.lsbu.ac.uk/study/postgraduate/fees-and-funding/scholarships
+         https://www.lsbu.ac.uk/study/postgraduate/fees-and-funding/scholarships/loyalty-award
+         https://www.lsbu.ac.uk/study/postgraduate/fees-and-funding/how-to-pay
+         https://www.lsbu.ac.uk/study/postgraduate/fees-and-funding/failure-to-pay
+    8  www.lsbu.ac.uk/study/postgraduate/masters-courses
+         https://www.lsbu.ac.uk/study/postgraduate/masters-courses/arts-and-creative-industries
+         https://www.lsbu.ac.uk/study/postgraduate/masters-courses/applied-sciences
+         https://www.lsbu.ac.uk/study/postgraduate/masters-courses/built-environment-and-architecture
+         https://www.lsbu.ac.uk/study/postgraduate/masters-courses/business
+    3  www.lsbu.ac.uk/nested-content/snippet/postgraduate-courses
+         https://www.lsbu.ac.uk/nested-content/snippet/postgraduate-courses/advantages-of-an-mres
+         https://www.lsbu.ac.uk/nested-content/snippet/postgraduate-courses/advantages-of-a-phd
+         https://www.lsbu.ac.uk/nested-content/snippet/postgraduate-courses/advantages-of-a-mres-phd
+    3  www.lsbu.ac.uk/study/undergraduate/fees-and-funding
+         https://www.lsbu.ac.uk/study/undergraduate/fees-and-funding/scholarships
+         https://www.lsbu.ac.uk/study/undergraduate/fees-and-funding/how-to-pay
+         https://www.lsbu.ac.uk/study/undergraduate/fees-and-funding/failure-to-pay
+    2  www.lsbu.ac.uk/study
+         https://www.lsbu.ac.uk/study/undergraduate
+         https://www.lsbu.ac.uk/study/postgraduate
+    2  www.lsbu.ac.uk/order-a-prospectus
+         https://www.lsbu.ac.uk/order-a-prospectus/download-undergraduate-prospectus-old
+         https://www.lsbu.ac.uk/order-a-prospectus/register-your-interest-postgraduate-courses
+    2  www.lsbu.ac.uk/testing/nhps-64/test-data
+         https://www.lsbu.ac.uk/testing/nhps-64/test-data/stories/stevyn-kemp-graduate-ba-hons-marketing
+         https://www.lsbu.ac.uk/testing/nhps-64/test-data/stories/joshua-wales-graduate-ba-hons-business-management-with-marketing
+    2  www.lsbu.ac.uk/study/undergraduate/how-to-apply-orig
+         https://www.lsbu.ac.uk/study/undergraduate/how-to-apply-orig/thank-you-for-registering-your-interest
+         https://www.lsbu.ac.uk/study/undergraduate/how-to-apply-orig/2026-entry
+    1  www.lsbu.ac.uk/nested-content/snippet/personal-tutoring
+         https://www.lsbu.ac.uk/nested-content/snippet/personal-tutoring/undergraduate-students-in-division-of-education
+    1  www.lsbu.ac.uk/our-colleges/arts-and-social-sciences-old/study
+         https://www.lsbu.ac.uk/our-colleges/arts-and-social-sciences-old/study/undergraduate-offer-holders
+    1  www.lsbu.ac.uk/our-colleges/architecture-and-planning/study
+         https://www.lsbu.ac.uk/our-colleges/architecture-and-planning/study/undergraduate-offer-holders
+    1  www.lsbu.ac.uk/our-colleges/business/study
+         https://www.lsbu.ac.uk/our-colleges/business/study/undergraduate-offer-holders
+    1  www.lsbu.ac.uk/our-colleges/engineering-and-design/study
+         https://www.lsbu.ac.uk/our-colleges/engineering-and-design/study/undergraduate-offer-holders
+    1  www.lsbu.ac.uk/whats-on/archived-events
+         https://www.lsbu.ac.uk/whats-on/archived-events/undergraduate-howtoapply-26092018
+    1  www.lsbu.ac.uk/study/study-at-lsbu/subjects
+         https://www.lsbu.ac.uk/study/study-at-lsbu/subjects/business-and-management/mba
+    1  www.lsbu.ac.uk/our-colleges/business/business
+         https://www.lsbu.ac.uk/our-colleges/business/business/recruit-our-students-and-graduates
+    1  www.lsbu.ac.uk/our-colleges/school-of-nursing-and-midwifery/study
+         https://www.lsbu.ac.uk/our-colleges/school-of-nursing-and-midwifery/study/undergraduate-offer-holders

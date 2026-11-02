@@ -1,0 +1,14 @@
+{
+ "source": "UniPv course finder filtered to laurea magistrale + language English https://portale.unipv.it/it/didattica/corsi-di-laurea/offerta-formativa?course_type=course_type-LM&lang=eng (2 pages); browser needed (plain fetch 403); English course sites *.cdl.unipv.it and /en/ portal paths answer 405/403 even in the browser, so the portal's programme pages are used (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://portale.unipv.it/it/didattica/corsi-di-laurea/corsi-di-laurea-magistrale/artificial-intelligence-science-and-technology",
+  "https://portale.unipv.it/it/didattica/corsi-di-laurea/corsi-di-laurea-magistrale/computer-engineering",
+  "https://portale.unipv.it/it/didattica/corsi-di-laurea/corsi-di-laurea-magistrale/economics-and-data-analysis-industry-and-policy",
+  "https://portale.unipv.it/it/didattica/corsi-di-laurea/corsi-di-laurea-magistrale/finance",
+  "https://portale.unipv.it/it/didattica/corsi-di-laurea/corsi-di-laurea-magistrale/human-centered-artificial-intelligence",
+  "https://portale.unipv.it/it/didattica/corsi-di-laurea/corsi-di-laurea-magistrale/international-business-and-entrepreneurship",
+  "https://portale.unipv.it/it/didattica/corsi-di-laurea/corsi-di-laurea-magistrale/psychology-neuroscience-and-human-sciences",
+  "https://portale.unipv.it/it/didattica/corsi-di-laurea/corsi-di-laurea-magistrale/world-politics-and-international-relations"
+ ]
+}

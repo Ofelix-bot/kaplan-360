@@ -1,0 +1,10 @@
+# dalhousie-university@1 https://www.dal.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 92 · master's-looking 8
+    7  www.dal.ca/academics/programs/graduate
+         https://www.dal.ca/academics/programs/graduate/mi/prospective-students/mlis.html
+         https://www.dal.ca/academics/programs/graduate/digital-innovation/program-details.html
+         https://www.dal.ca/academics/programs/graduate/digital-innovation/program-details/digital-business.html
+         https://www.dal.ca/academics/programs/graduate/community-health-epidemiology/admissions/how-to-apply.html
+    1  www.dal.ca/admissions/undergraduate/specific-course-requirements
+         https://www.dal.ca/admissions/undergraduate/specific-course-requirements/ib.html

@@ -1,0 +1,95 @@
+# university-of-waikato@1 https://www.waikato.ac.nz
+robots sitemaps: https://www.waikato.ac.nz/sitemap.xml · crawl-delay: 10 · AI-agent groups: 0
+index https://www.waikato.ac.nz/sitemap.xml: 2 children (0 course-like)
+index https://www.waikato.ac.nz/sitemap.xml/en_NZ/: 60 children (0 course-like)
+index https://www.waikato.ac.nz/sitemap.xml/int/: 60 children (0 course-like)
+sitemaps read 80 · urls 15224 · master's-looking 310
+   68  www.waikato.ac.nz/study/qualifications
+         https://www.waikato.ac.nz/study/qualifications/postgraduate-certificate-in-information-technology/
+         https://www.waikato.ac.nz/study/qualifications/postgraduate-diploma-in-psychology-clinical/
+         https://www.waikato.ac.nz/study/qualifications/master-of-music/
+         https://www.waikato.ac.nz/study/qualifications/master-of-laws/
+   46  www.waikato.ac.nz/about/calendar/regulations
+         https://www.waikato.ac.nz/about/calendar/regulations/masters/
+         https://www.waikato.ac.nz/about/calendar/regulations/masters/llm/
+         https://www.waikato.ac.nz/about/calendar/regulations/masters/llmmaoripacific-and-indigenous-peoples/
+         https://www.waikato.ac.nz/about/calendar/regulations/masters/ma/
+   42  www.waikato.ac.nz/int/about/calendar
+         https://www.waikato.ac.nz/int/about/calendar/general-services/school-of-graduate-research-scholarships/
+         https://www.waikato.ac.nz/int/about/calendar/regulations/masters/
+         https://www.waikato.ac.nz/int/about/calendar/regulations/masters/llm/
+         https://www.waikato.ac.nz/int/about/calendar/regulations/masters/llmmaoripacific-and-indigenous-peoples/
+   32  www.waikato.ac.nz/news-events/news
+         https://www.waikato.ac.nz/news-events/news/university-of-waikato-marks-significant-milestone-with-capping-of-90000th-graduate/
+         https://www.waikato.ac.nz/news-events/news/lucrative-scholarships-support-university-of-waikato-graduates-overseas/
+         https://www.waikato.ac.nz/news-events/news/engineering-graduate-set-up-for-work-with-hands-on-experience-at-waikato/
+         https://www.waikato.ac.nz/news-events/news/artificial-intelligence-graduate-makes-waves-overseas/
+   27  www.waikato.ac.nz/study/options/postgraduate
+         https://www.waikato.ac.nz/study/options/postgraduate/phd-doctoral/
+         https://www.waikato.ac.nz/study/options/postgraduate/phd-doctoral/life-cycle/
+         https://www.waikato.ac.nz/study/options/postgraduate/phd-doctoral/early-stage/
+         https://www.waikato.ac.nz/study/options/postgraduate/phd-doctoral/mid-stage-to-submission/
+   14  www.waikato.ac.nz/int/study/options
+         https://www.waikato.ac.nz/int/study/options/undergraduate/
+         https://www.waikato.ac.nz/int/study/options/postgraduate/phd-doctoral/
+         https://www.waikato.ac.nz/int/study/options/postgraduate/phd-doctoral/life-cycle/
+         https://www.waikato.ac.nz/int/study/options/postgraduate/phd-doctoral/early-stage/
+   14  www.waikato.ac.nz/int/news-events/news
+         https://www.waikato.ac.nz/int/news-events/news/university-of-waikato-marks-significant-milestone-with-capping-of-90000th-graduate/
+         https://www.waikato.ac.nz/int/news-events/news/lucrative-scholarships-support-university-of-waikato-graduates-overseas/
+         https://www.waikato.ac.nz/int/news-events/news/engineering-graduate-set-up-for-work-with-hands-on-experience-at-waikato/
+         https://www.waikato.ac.nz/int/news-events/news/artificial-intelligence-graduate-makes-waves-overseas/
+   13  www.waikato.ac.nz/study/scholarships/find-a-scholarship
+         https://www.waikato.ac.nz/study/scholarships/find-a-scholarship/brian-perry-charitable-trust-undergraduate-scholarships/
+         https://www.waikato.ac.nz/study/scholarships/find-a-scholarship/computer-science-undergraduate-scholarship/
+         https://www.waikato.ac.nz/study/scholarships/find-a-scholarship/energy-education-trust-undergraduate-scholarship/
+         https://www.waikato.ac.nz/study/scholarships/find-a-scholarship/energy-education-trust-nz-masters-scholarship/
+   10  www.waikato.ac.nz/int/study/scholarships
+         https://www.waikato.ac.nz/int/study/scholarships/find-a-scholarship/brian-perry-charitable-trust-undergraduate-scholarships/
+         https://www.waikato.ac.nz/int/study/scholarships/find-a-scholarship/computer-science-undergraduate-scholarship/
+         https://www.waikato.ac.nz/int/study/scholarships/find-a-scholarship/energy-education-trust-undergraduate-scholarship/
+         https://www.waikato.ac.nz/int/study/scholarships/find-a-scholarship/energy-education-trust-nz-masters-scholarship/
+    6  www.waikato.ac.nz/study/options/undergraduate
+         https://www.waikato.ac.nz/study/options/undergraduate/unistart/
+         https://www.waikato.ac.nz/study/options/undergraduate/jump-start/
+         https://www.waikato.ac.nz/study/options/undergraduate/jump-start/engineering-jump-start/
+         https://www.waikato.ac.nz/study/options/undergraduate/unistart/student-profiles/
+    6  www.waikato.ac.nz/news-events/events/find-event
+         https://www.waikato.ac.nz/news-events/events/find-event/lunchtime-recital-series-masterworks-for-marimba-flute-and-piano/
+         https://www.waikato.ac.nz/news-events/events/find-event/masterpiece-concert-with-michael-houstoun/
+         https://www.waikato.ac.nz/news-events/events/find-event/postgraduate-teaching-evening/
+         https://www.waikato.ac.nz/news-events/events/find-event/dan-foos-coffee-masterclass/
+    2  www.waikato.ac.nz/study/options
+         https://www.waikato.ac.nz/study/options/undergraduate/
+         https://www.waikato.ac.nz/study/options/postgraduate/
+    2  www.waikato.ac.nz/study/apply
+         https://www.waikato.ac.nz/study/apply/undergraduate/
+         https://www.waikato.ac.nz/study/apply/postgraduate/
+    2  www.waikato.ac.nz/study/student-success-stories
+         https://www.waikato.ac.nz/study/student-success-stories/tawhiao-mcmaster/
+         https://www.waikato.ac.nz/study/student-success-stories/jingnan-ma/
+    2  www.waikato.ac.nz/int/about/faculties-schools
+         https://www.waikato.ac.nz/int/about/faculties-schools/graduate-research/
+         https://www.waikato.ac.nz/int/about/faculties-schools/management/research/awards-and-recognition/postgraduate-supervision-excellence-award/
+    2  www.waikato.ac.nz/int/study/apply
+         https://www.waikato.ac.nz/int/study/apply/undergraduate/
+         https://www.waikato.ac.nz/int/study/apply/postgraduate/
+    2  www.waikato.ac.nz/int/research/institutes-centres-entities
+         https://www.waikato.ac.nz/int/research/institutes-centres-entities/institutes/wmier/research/projects/the-prism-project-programme-realities-voiced-by-international-and-domestic-students-in-masters-study/
+         https://www.waikato.ac.nz/int/research/institutes-centres-entities/entities/unit-for-postgraduate-education-research-uper/
+    1  www.waikato.ac.nz/about/faculties-schools
+         https://www.waikato.ac.nz/about/faculties-schools/graduate-research/
+    1  www.waikato.ac.nz/students/maori
+         https://www.waikato.ac.nz/students/maori/te-toi-o-matariki-maori-graduate-excellence-programme/
+    1  www.waikato.ac.nz/study/international/study-abroad-exchange
+         https://www.waikato.ac.nz/study/international/study-abroad-exchange/undergraduate-science-group-research-project/
+    1  www.waikato.ac.nz/research/institutes-centres-entities/institutes
+         https://www.waikato.ac.nz/research/institutes-centres-entities/institutes/wmier/research/projects/the-prism-project-programme-realities-voiced-by-international-and-domestic-students-in-masters-study/
+    1  www.waikato.ac.nz/research/institutes-centres-entities/entities
+         https://www.waikato.ac.nz/research/institutes-centres-entities/entities/unit-for-postgraduate-education-research-uper/
+    1  www.waikato.ac.nz/about/calendar/general-services
+         https://www.waikato.ac.nz/about/calendar/general-services/school-of-graduate-research-scholarships/
+    1  www.waikato.ac.nz/about/calendar/research-institutes-centres-groups-and-units
+         https://www.waikato.ac.nz/about/calendar/research-institutes-centres-groups-and-units/unit-for-postgraduate-education-research-uper/
+    1  www.waikato.ac.nz/about/calendar/staff-and-honours
+         https://www.waikato.ac.nz/about/calendar/staff-and-honours/staff-of-the-university/te-mata-kairangi-school-of-graduate-research/

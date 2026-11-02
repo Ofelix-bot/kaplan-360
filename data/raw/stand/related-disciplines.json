@@ -1,0 +1,24 @@
+{
+  "dataset": "Related disciplines among Kaplan Singapore's 13 (data/raw/kaplan-programmes.json), for the Competitiveness Index's subject part (lib/stand/disciplines.ts)",
+  "checked": "2026-10-26",
+  "notes": [
+    "Kaplan 360++'s own table, not a university rule. A pair counts both ways. A degree in a related discipline scores 70 on the subject part and passes the subject gate; the same discipline scores 100; a programme open to any background scores 80.",
+    "The site's programme data files economics under accounting-finance, business analytics under ai-data and business law under law-criminology, so those pairs carry them."
+  ],
+  "pairs": [
+    { "a": "business", "b": "accounting-finance", "reason": "Business degrees teach accounting and finance as core modules, and economics sits in accounting & finance here." },
+    { "a": "business", "b": "marketing", "reason": "Marketing is a business function; business degrees teach it as a core module." },
+    { "a": "business", "b": "ai-data", "reason": "Business analytics master’s are taught in business schools and built on business modules." },
+    { "a": "business", "b": "hospitality-tourism", "reason": "Hospitality and tourism management is business management in one industry." },
+    { "a": "business", "b": "law-criminology", "reason": "Business law and commercial law join the two fields." },
+    { "a": "business", "b": "construction", "reason": "Construction management degrees teach project, cost and commercial management." },
+    { "a": "accounting-finance", "b": "ai-data", "reason": "Fintech and financial analytics use the same statistics and data tools." },
+    { "a": "it", "b": "ai-data", "reason": "Data science and AI are built on programming, databases and computing theory." },
+    { "a": "marketing", "b": "communication", "reason": "Both study audiences, media and messages; advertising and public relations sit in both." },
+    { "a": "psychology-counselling", "b": "education", "reason": "Educational psychology, child development and school counselling join the two fields." },
+    { "a": "psychology-counselling", "b": "healthcare-nursing", "reason": "Mental health care is taught in both." },
+    { "a": "psychology-counselling", "b": "law-criminology", "reason": "Criminology and forensic psychology study the same behaviour." },
+    { "a": "psychology-counselling", "b": "sports-science", "reason": "Sport and exercise psychology is taught in both." },
+    { "a": "healthcare-nursing", "b": "sports-science", "reason": "Exercise physiology, rehabilitation and public health are taught in both." }
+  ]
+}

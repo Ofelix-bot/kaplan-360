@@ -1,0 +1,67 @@
+# brown-university@2 https://graduateschool.brown.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 547 · master's-looking 81
+    3  graduateschool.brown.edu/academics/programs-requirements/masters-requirements
+         https://graduateschool.brown.edu/academics/programs-requirements/masters-requirements/masters-thesis-guidelines
+         https://graduateschool.brown.edu/academics/programs-requirements/masters-requirements/structure-and-matriculation
+         https://graduateschool.brown.edu/academics/programs-requirements/masters-requirements/schedule-enrollment
+    2  graduateschool.brown.edu/news/2023-05-15
+         https://graduateschool.brown.edu/news/2023-05-15/masters-award-engaged-citizenship
+         https://graduateschool.brown.edu/news/2023-05-15/masters-award-academic-accomplishment
+    2  graduateschool.brown.edu/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-graduate-programs
+         https://graduateschool.brown.edu/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-graduate-programs/guides
+         https://graduateschool.brown.edu/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-graduate-programs/best
+    2  graduateschool.brown.edu/information-graduate-students
+         https://graduateschool.brown.edu/information-graduate-students
+         https://graduateschool.brown.edu/information-graduate-students/contacts-and-resources-graduate-students
+    2  graduateschool.brown.edu/news/2020-05-21
+         https://graduateschool.brown.edu/news/2020-05-21/duncan-and-nordlund-recognized-contributions-graduate-education
+         https://graduateschool.brown.edu/news/2020-05-21/masters-awards
+    2  graduateschool.brown.edu/news/2021-01-28
+         https://graduateschool.brown.edu/news/2021-01-28/graduate-spring-semester-updates
+         https://graduateschool.brown.edu/news/2021-01-28/graduate-student-union-dues
+    2  graduateschool.brown.edu/about/deans-staff
+         https://graduateschool.brown.edu/about/deans-staff/directors-graduate-study
+         https://graduateschool.brown.edu/about/deans-staff/governance-graduate-council
+    2  graduateschool.brown.edu/about
+         https://graduateschool.brown.edu/about/diversity-and-inclusion-graduate-school
+         https://graduateschool.brown.edu/about/graduate-student-resources
+    2  graduateschool.brown.edu/academics/graduate-advising-and-mentoring
+         https://graduateschool.brown.edu/academics/graduate-advising-and-mentoring/advising-and-mentoring-resources-faculty
+         https://graduateschool.brown.edu/academics/graduate-advising-and-mentoring/resources-mentoring-advisees-and-mentees
+    2  graduateschool.brown.edu/academics-research/graduate-advising-and-mentoring
+         https://graduateschool.brown.edu/academics-research/graduate-advising-and-mentoring/students
+         https://graduateschool.brown.edu/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-graduate-programs
+    2  graduateschool.brown.edu/phd-experience/interdisciplinary-research/open-graduate-education
+         https://graduateschool.brown.edu/phd-experience/interdisciplinary-research/open-graduate-education/open-graduate-education-students
+         https://graduateschool.brown.edu/phd-experience/interdisciplinary-research/open-graduate-education/participating-masters-programs
+    2  graduateschool.brown.edu/admitted-students-orientation/guide-admitted-phd-mfa-students
+         https://graduateschool.brown.edu/admitted-students-orientation/guide-admitted-phd-mfa-students/financing-graduate-school
+         https://graduateschool.brown.edu/admitted-students-orientation/guide-admitted-phd-mfa-students/important-dates-deadlines-graduate
+    2  graduateschool.brown.edu/healthy-brown-faqs-graduate-students
+         https://graduateschool.brown.edu/healthy-brown-faqs-graduate-students/preparing-your-first-days-providence
+         https://graduateschool.brown.edu/healthy-brown-faqs-graduate-students
+    1  graduateschool.brown.edu/news/2023-03-03
+         https://graduateschool.brown.edu/news/2023-03-03/meet-your-graduate-student-coordinators
+    1  graduateschool.brown.edu/financing-support/internal-funding-appointments
+         https://graduateschool.brown.edu/financing-support/internal-funding-appointments/graduate-school-travel-funds
+    1  graduateschool.brown.edu/about/academic-events-honors/receiving-your-graduate-degree
+         https://graduateschool.brown.edu/about/academic-events-honors/receiving-your-graduate-degree/commencement-deadlines
+    1  graduateschool.brown.edu/academics/programs-requirements
+         https://graduateschool.brown.edu/academics/programs-requirements/masters-requirements
+    1  graduateschool.brown.edu/news/2020-04-07
+         https://graduateschool.brown.edu/news/2020-04-07/masters-students-support
+    1  graduateschool.brown.edu/academics-research/programs-requirements
+         https://graduateschool.brown.edu/academics-research/programs-requirements/fifth-year-masters-degree
+    1  graduateschool.brown.edu/news/2019-01-25
+         https://graduateschool.brown.edu/news/2019-01-25/masters-student-spotlight-johnny-page-biotechnology
+    1  graduateschool.brown.edu/news/2019-08-06
+         https://graduateschool.brown.edu/news/2019-08-06/masters-student-focus-prateek-samal-public-affairs
+    1  graduateschool.brown.edu/news/2021-04-27
+         https://graduateschool.brown.edu/news/2021-04-27/executive-master-cybersecurity-student
+    1  graduateschool.brown.edu/news/2018-09-12
+         https://graduateschool.brown.edu/news/2018-09-12/executive-master-student-focus
+    1  graduateschool.brown.edu/news/2020-03-27
+         https://graduateschool.brown.edu/news/2020-03-27/executive-master-student-focus
+    1  graduateschool.brown.edu/news/2019-08-07
+         https://graduateschool.brown.edu/news/2019-08-07/open-graduate-education

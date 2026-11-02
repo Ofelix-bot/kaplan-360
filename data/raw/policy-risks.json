@@ -1,0 +1,113 @@
+{
+  "dataset": "Government rules that make a programme harder or riskier for international students",
+  "checked": "2026-11-01",
+  "notes": [
+    "verified: 'official' = read on a government or university page; 'secondary' = news or a university adviser's summary only.",
+    "nationalities: ISO 3166 alpha-2 codes the rule applies to; 'nonLocal' = everyone without the host country's (or EU/EEA's) citizenship; null = everyone.",
+    "level: 'block' = the programme as designed may not be possible; 'high' = a real chance of refusal, delay or a lost benefit; 'notice' = a cost or condition to plan for."
+  ],
+  "rules": [
+    {
+      "id": "ie-absence-90",
+      "country": "Ireland",
+      "rule": "Absence from Ireland should not exceed 90 days in a rolling year; students register only for the time they actually reside in Ireland and must be in Ireland to renew.",
+      "effect": "A compulsory term or semester abroad of 12-16 weeks (CEMS, exchange, double degree) breaks the 90-day limit for non-EEA students on Stamp 2; visa-required nationals may also need a new entry visa to return. UCD's MSc International Management (CEMS) director has said UCD can hardly admit students without EU/UK passports to CEMS for this reason.",
+      "appliesTo": "nonLocal", "nationalities": null, "level": "block",
+      "trigger": ["abroad-term", "cems", "double-degree"],
+      "effective": null, "status": "in force",
+      "verified": "official",
+      "sources": ["https://www.irishimmigration.ie/registering-your-immigration-permission/frequently-asked-questions-for-registration/", "https://www.ucd.ie/global/study-at-ucd/studentimmigration/"],
+      "caveat": "The official wording is 90 days in a rolling year. A dated September 2025 change and the '12 weeks over two years' framing come from UCD's programme director and were not found on an official page."
+    },
+    {
+      "id": "ie-funds-10k", "country": "Ireland",
+      "rule": "Students must show EUR 10,000 per year in available funds.",
+      "effect": "Proof of funds needed for the visa or registration.",
+      "appliesTo": "nonLocal", "nationalities": null, "level": "notice", "trigger": ["country"],
+      "effective": "2025-06-30", "status": "in force", "verified": "official",
+      "sources": ["https://www.irishimmigration.ie/reminder-on-student-finance-requirements-from-30-june-2025/"]
+    },
+    {
+      "id": "uk-no-dependants", "country": "United Kingdom",
+      "rule": "Students on taught master's courses cannot bring dependants (spouse, children).",
+      "effect": "Applicants with a family who want them in the UK cannot do so on a taught master's.",
+      "appliesTo": "nonLocal", "nationalities": null, "level": "notice", "trigger": ["country"],
+      "effective": "2024-01-01", "status": "in force", "verified": "official",
+      "sources": ["https://www.gov.uk/government/news/changes-to-student-visa-route-will-reduce-net-migration"]
+    },
+    {
+      "id": "uk-graduate-route-18m", "country": "United Kingdom",
+      "rule": "The Graduate Route (post-study work visa) falls from 24 to 18 months for applications from 1 January 2027 (PhD graduates keep 3 years).",
+      "effect": "A master's starting in 2026 or later finishes after the change: 18 months of post-study work instead of 2 years.",
+      "appliesTo": "nonLocal", "nationalities": null, "level": "high", "trigger": ["country"],
+      "effective": "2027-01-01", "status": "legislated", "verified": "secondary",
+      "sources": ["https://www.ukcisa.org.uk/news/student-update-changes-to-the-student-and-graduate-rules/"]
+    },
+    {
+      "id": "uk-maintenance-2025", "country": "United Kingdom",
+      "rule": "Maintenance funds raised to GBP 1,529 a month in London and GBP 1,171 elsewhere.",
+      "effect": "More money to show for the visa.",
+      "appliesTo": "nonLocal", "nationalities": null, "level": "notice", "trigger": ["country"],
+      "effective": "2025-11-11", "status": "in force", "verified": "secondary",
+      "sources": ["https://www.ukcisa.org.uk/news/student-update-changes-to-the-student-and-graduate-rules/"]
+    },
+    {
+      "id": "uk-atas", "country": "United Kingdom",
+      "rule": "An ATAS certificate is required for taught master's in listed sensitive subjects (by CAH3 code); EU/EEA, Swiss, Australian, Canadian, Japanese, New Zealand, Singaporean, South Korean and US nationals are exempt.",
+      "effect": "Extra clearance (weeks of processing; can be refused) for, among others, Chinese, Malaysian, Indian, Vietnamese, Indonesian and Myanmar nationals.",
+      "appliesTo": "nationalities", "nationalities": "all except EU/EEA, CH, AU, CA, JP, NZ, SG, KR, US", "level": "high", "trigger": ["atas-subject"],
+      "effective": null, "status": "in force", "verified": "official",
+      "sources": ["https://www.gov.uk/find-out-if-you-require-an-atas-certificate"],
+      "caveat": "The library has no CAH3 codes yet; programmes are flagged by subject (computing, data/AI, engineering, construction) as 'check'."
+    },
+    {
+      "id": "us-travel-ban", "country": "United States",
+      "rule": "Presidential proclamation suspending entry for nationals of listed countries (June 2025, expanded January 2026 to 39 countries); full ban includes Myanmar and Laos; partial-ban countries have F/M/J entry suspended.",
+      "effect": "Students from listed countries may be unable to get a student visa.",
+      "appliesTo": "nationalities", "nationalities": ["MM", "LA"], "level": "block", "trigger": ["country"],
+      "effective": "2025-06-09", "status": "in force", "verified": "official",
+      "sources": ["https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-threats/"],
+      "caveat": "Only the full-ban nationalities relevant to this tool's users are listed; check the current list for others."
+    },
+    {
+      "id": "us-visa-vetting", "country": "United States",
+      "rule": "Student visa interviews paused (29 May to 20 June 2025) and resumed with public social-media vetting.",
+      "effect": "Longer processing and a higher refusal risk for all F/J applicants.",
+      "appliesTo": "nonLocal", "nationalities": null, "level": "high", "trigger": ["country"],
+      "effective": "2025-06-20", "status": "in force", "verified": "secondary",
+      "sources": ["https://oakland.edu/isso/immigration-updates/"]
+    },
+    {
+      "id": "us-china-stem", "country": "United States",
+      "rule": "The Secretary of State announced the US would aggressively revoke visas of Chinese students with Communist Party links or in critical fields.",
+      "effect": "Uncertainty for Chinese nationals in STEM programmes; no formal rule found.",
+      "appliesTo": "nationalities", "nationalities": ["CN"], "level": "high", "trigger": ["stem"],
+      "effective": "2025-05-28", "status": "announced", "verified": "secondary",
+      "sources": ["https://www.boston.com/news/education/2025/05/29/"]
+    },
+    {
+      "id": "au-md115", "country": "Australia",
+      "rule": "National Planning Level of 295,000 for 2026 with Ministerial Direction 115: visa processing is slower for providers above their allocation.",
+      "effect": "Possible visa delays, depending on the university's allocation.",
+      "appliesTo": "nonLocal", "nationalities": null, "level": "notice", "trigger": ["country"],
+      "effective": "2025-11-14", "status": "in force", "verified": "official",
+      "sources": ["https://www.studyaustralia.gov.au/en/plan-your-move/ministerial-direction-115"]
+    },
+    {
+      "id": "ch-fees-eth-epfl", "country": "Switzerland",
+      "rule": "ETH Zurich and EPFL tripled tuition for foreign students from autumn 2025 (EPFL CHF 2,190 per semester).",
+      "effect": "Higher cost for non-Swiss students.",
+      "appliesTo": "nonLocal", "nationalities": null, "level": "notice", "trigger": ["institution:eth-zurich", "institution:epfl"],
+      "effective": "2025-09-01", "status": "in force", "verified": "official",
+      "sources": ["https://www.epfl.ch/education/studies/tuition-fee-other-fees/"]
+    },
+    {
+      "id": "ca-cap-2026", "country": "Canada",
+      "rule": "2026 study-permit cap; master's and PhD students at public institutions no longer need a provincial attestation letter from 1 January 2026.",
+      "effect": "Low risk at public universities; college or private master's remain capped.",
+      "appliesTo": "nonLocal", "nationalities": null, "level": "notice", "trigger": ["country"],
+      "effective": "2026-01-01", "status": "in force", "verified": "official",
+      "sources": ["https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/2026-provincial-territorial-allocations-under-international-student-cap.html"]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+# northwestern-university@2 https://www.tgs.northwestern.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 472 · master's-looking 47
+    9  www.tgs.northwestern.edu/academics/communication-studies/undergraduate-programs
+         https://www.tgs.northwestern.edu/academics/communication-studies/undergraduate-programs/major-communication-studies.html
+         https://www.tgs.northwestern.edu/academics/communication-studies/undergraduate-programs/mci-certificate.html
+         https://www.tgs.northwestern.edu/academics/communication-studies/undergraduate-programs/courses.html
+         https://www.tgs.northwestern.edu/academics/communication-studies/undergraduate-programs/student-experience.html
+    7  www.tgs.northwestern.edu/academics/theatre/undergraduate-programs
+         https://www.tgs.northwestern.edu/academics/theatre/undergraduate-programs/major-theatre.html
+         https://www.tgs.northwestern.edu/academics/theatre/undergraduate-programs/major-dance.html
+         https://www.tgs.northwestern.edu/academics/theatre/undergraduate-programs/minor-theatre.html
+         https://www.tgs.northwestern.edu/academics/theatre/undergraduate-programs/minor-dance.html
+    6  www.tgs.northwestern.edu/academics/radio-television-film/undergraduate-programs
+         https://www.tgs.northwestern.edu/academics/radio-television-film/undergraduate-programs/major-radio-television-film.html
+         https://www.tgs.northwestern.edu/academics/radio-television-film/undergraduate-programs/minor-game-media-animation.html
+         https://www.tgs.northwestern.edu/academics/radio-television-film/undergraduate-programs/minor-film-media-studies.html
+         https://www.tgs.northwestern.edu/academics/radio-television-film/undergraduate-programs/minor-sound-design.html
+    4  www.tgs.northwestern.edu/academics/communication-sciences-and-disorders/undergraduate-programs
+         https://www.tgs.northwestern.edu/academics/communication-sciences-and-disorders/undergraduate-programs/major-human-communication-sciences.html
+         https://www.tgs.northwestern.edu/academics/communication-sciences-and-disorders/undergraduate-programs/minor-human-communication-sciences.html
+         https://www.tgs.northwestern.edu/academics/communication-sciences-and-disorders/undergraduate-programs/courses.html
+         https://www.tgs.northwestern.edu/academics/communication-sciences-and-disorders/undergraduate-programs/student-experience.html
+    4  www.tgs.northwestern.edu/academics/performance-studies/undergraduate-programs
+         https://www.tgs.northwestern.edu/academics/performance-studies/undergraduate-programs/major-performance-studies.html
+         https://www.tgs.northwestern.edu/academics/performance-studies/undergraduate-programs/minor-performance-studies.html
+         https://www.tgs.northwestern.edu/academics/performance-studies/undergraduate-programs/courses.html
+         https://www.tgs.northwestern.edu/academics/performance-studies/undergraduate-programs/student-experience.html
+    3  www.tgs.northwestern.edu/academics/communication-studies
+         https://www.tgs.northwestern.edu/academics/communication-studies/undergraduate-programs/
+         https://www.tgs.northwestern.edu/academics/communication-studies/graduate-programs.html
+         https://www.tgs.northwestern.edu/academics/communication-studies/master-of-science-in-health-communication.html
+    2  www.tgs.northwestern.edu/academics
+         https://www.tgs.northwestern.edu/academics/undergraduate-programs/
+         https://www.tgs.northwestern.edu/academics/graduate-programs/
+    2  www.tgs.northwestern.edu/academics/communication-sciences-and-disorders
+         https://www.tgs.northwestern.edu/academics/communication-sciences-and-disorders/undergraduate-programs/
+         https://www.tgs.northwestern.edu/academics/communication-sciences-and-disorders/graduate-programs.html
+    2  www.tgs.northwestern.edu/academics/performance-studies
+         https://www.tgs.northwestern.edu/academics/performance-studies/undergraduate-programs/
+         https://www.tgs.northwestern.edu/academics/performance-studies/graduate-programs.html
+    2  www.tgs.northwestern.edu/academics/radio-television-film
+         https://www.tgs.northwestern.edu/academics/radio-television-film/undergraduate-programs/
+         https://www.tgs.northwestern.edu/academics/radio-television-film/graduate-programs.html
+    2  www.tgs.northwestern.edu/academics/theatre
+         https://www.tgs.northwestern.edu/academics/theatre/undergraduate-programs/
+         https://www.tgs.northwestern.edu/academics/theatre/graduate-programs.html
+    1  www.tgs.northwestern.edu/academics/undergraduate-programs
+         https://www.tgs.northwestern.edu/academics/undergraduate-programs/dual-degree-programs.html
+    1  www.tgs.northwestern.edu/news-events/news/2021
+         https://www.tgs.northwestern.edu/news-events/news/2021/oscar-winning-iranian-filmmaker-holds-virtual-master-class.html
+    1  www.tgs.northwestern.edu/news-events/news/2020
+         https://www.tgs.northwestern.edu/news-events/news/2020/two-graduate-programs-rise-in-national-rankings.html
+    1  www.tgs.northwestern.edu/news-events/news/2025
+         https://www.tgs.northwestern.edu/news-events/news/2025/two-graduate-programs-rise-in-national-rankings.html

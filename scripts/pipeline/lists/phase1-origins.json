@@ -1,0 +1,1510 @@
+{
+  "note": "Official origins for the phase 1 expansion (QS 2027 top 500 in the US, Canada, New Zealand, Hong Kong, and the rest of the UK, Australia, Ireland and Singapore). Each origin is checked by scripts/pipeline/check-origins.ts (the home page loads and its title names the university) before discovery uses it. `browser`: origins whose home page answered with a 403/202 challenge or a TLS error to a plain client, fetched through the real Edge window.",
+  "origins": {
+    "massachusetts-institute-of-technology": [
+      "https://www.mit.edu",
+      "https://oge.mit.edu"
+    ],
+    "stanford-university": [
+      "https://www.stanford.edu",
+      "https://gradadmissions.stanford.edu",
+      "https://bulletin.stanford.edu"
+    ],
+    "harvard-university": [
+      "https://www.harvard.edu",
+      "https://gsas.harvard.edu",
+      "https://www.hbs.edu",
+      "https://www.hks.harvard.edu",
+      "https://hls.harvard.edu",
+      "https://www.gse.harvard.edu",
+      "https://hsph.harvard.edu",
+      "https://seas.harvard.edu",
+      "https://www.gsd.harvard.edu",
+      "https://hms.harvard.edu",
+      "https://ghsm.hms.harvard.edu",
+      "https://extension.harvard.edu"
+    ],
+    "california-institute-of-technology": [
+      "https://www.caltech.edu",
+      "https://www.gradoffice.caltech.edu"
+    ],
+    "university-of-pennsylvania": [
+      "https://www.upenn.edu",
+      "https://catalog.upenn.edu"
+    ],
+    "cornell-university": [
+      "https://www.cornell.edu",
+      "https://gradschool.cornell.edu",
+      "https://business.cornell.edu",
+      "https://tech.cornell.edu",
+      "https://www.lawschool.cornell.edu",
+      "https://www.ilr.cornell.edu",
+      "https://publichealth.cornell.edu",
+      "https://www.cs.cornell.edu",
+      "https://stat.cornell.edu"
+    ],
+    "yale-university": [
+      "https://www.yale.edu",
+      "https://gsas.yale.edu",
+      "https://som.yale.edu",
+      "https://ysph.yale.edu",
+      "https://nursing.yale.edu",
+      "https://law.yale.edu",
+      "https://jackson.yale.edu"
+    ],
+    "johns-hopkins-university": [
+      "https://www.jhu.edu",
+      "https://e-catalogue.jhu.edu"
+    ],
+    "university-of-california-berkeley": [
+      "https://www.berkeley.edu",
+      "https://grad.berkeley.edu"
+    ],
+    "university-of-chicago": [
+      "https://www.uchicago.edu",
+      "https://grad.uchicago.edu"
+    ],
+    "princeton-university": [
+      "https://www.princeton.edu",
+      "https://gradschool.princeton.edu",
+      "https://spia.princeton.edu",
+      "https://bcf.princeton.edu"
+    ],
+    "columbia-university": [
+      "https://www.columbia.edu",
+      "https://gsas.columbia.edu",
+      "https://academics.business.columbia.edu",
+      "https://www.sipa.columbia.edu",
+      "https://www.publichealth.columbia.edu",
+      "https://www.nursing.columbia.edu",
+      "https://www.law.columbia.edu",
+      "https://journalism.columbia.edu",
+      "https://www.engineering.columbia.edu",
+      "https://datascience.columbia.edu",
+      "https://ieor.columbia.edu",
+      "https://www.cs.columbia.edu",
+      "https://www.arch.columbia.edu",
+      "https://www.gsas.columbia.edu",
+      "https://sps.columbia.edu",
+      "https://www.tc.columbia.edu"
+    ],
+    "northwestern-university": [
+      "https://www.northwestern.edu",
+      "https://www.tgs.northwestern.edu",
+      "https://catalogs.northwestern.edu"
+    ],
+    "university-of-california-los-angeles": [
+      "https://www.ucla.edu",
+      "https://grad.ucla.edu"
+    ],
+    "university-of-michigan-ann-arbor": [
+      "https://umich.edu",
+      "https://rackham.umich.edu",
+      "https://michiganross.umich.edu",
+      "https://fordschool.umich.edu",
+      "https://sph.umich.edu",
+      "https://www.si.umich.edu",
+      "https://michigan.law.umich.edu",
+      "https://nursing.umich.edu",
+      "https://ssw.umich.edu",
+      "https://marsal.umich.edu",
+      "https://lsa.umich.edu",
+      "https://psm.isr.umich.edu",
+      "https://www.kines.umich.edu",
+      "https://tcmp.engin.umich.edu",
+      "https://smtd.umich.edu"
+    ],
+    "carnegie-mellon-university": [
+      "https://www.cmu.edu",
+      "https://www.heinz.cmu.edu",
+      "https://www.csd.cmu.edu",
+      "https://www.hcii.cmu.edu",
+      "https://metals.hcii.cmu.edu",
+      "https://lti.cmu.edu",
+      "https://ml.cmu.edu",
+      "https://www.ri.cmu.edu",
+      "https://mrsd.ri.cmu.edu",
+      "https://mse.isri.cmu.edu"
+    ],
+    "new-york-university": [
+      "https://www.nyu.edu",
+      "https://gsas.nyu.edu",
+      "https://bulletins.nyu.edu"
+    ],
+    "brown-university": [
+      "https://www.brown.edu",
+      "https://graduateschool.brown.edu",
+      "https://graduateprograms.brown.edu"
+    ],
+    "duke-university": [
+      "https://duke.edu",
+      "https://gradschool.duke.edu"
+    ],
+    "university-of-texas-at-austin": [
+      "https://www.utexas.edu",
+      "https://gradschool.utexas.edu",
+      "https://www.mccombs.utexas.edu",
+      "https://advertising.utexas.edu",
+      "https://commstudies.utexas.edu",
+      "https://moody.utexas.edu",
+      "https://journalism.utexas.edu",
+      "https://rtf.utexas.edu",
+      "https://education.utexas.edu",
+      "https://executive.engr.utexas.edu",
+      "https://art.utexas.edu",
+      "https://ma.eco.utexas.edu",
+      "https://www.cs.utexas.edu",
+      "https://msisp.ischool.utexas.edu",
+      "https://stat.utexas.edu",
+      "https://nursing.utexas.edu",
+      "https://lbj.utexas.edu",
+      "https://socialwork.utexas.edu",
+      "https://law.utexas.edu",
+      "https://ischool.utexas.edu"
+    ],
+    "university-of-illinois-at-urbana-champaign": [
+      "https://illinois.edu",
+      "https://grad.illinois.edu",
+      "https://catalog.illinois.edu"
+    ],
+    "university-of-california-san-diego": [
+      "https://ucsd.edu",
+      "https://grad.ucsd.edu",
+      "https://rady.ucsd.edu",
+      "https://gps.ucsd.edu",
+      "https://datascience.ucsd.edu",
+      "https://mas-dse.ucsd.edu",
+      "https://cse.ucsd.edu",
+      "https://ph.ucsd.edu",
+      "https://eds.ucsd.edu"
+    ],
+    "pennsylvania-state-university": [
+      "https://www.psu.edu",
+      "https://gradschool.psu.edu",
+      "https://bulletins.psu.edu"
+    ],
+    "university-of-washington": [
+      "https://www.washington.edu",
+      "https://grad.uw.edu",
+      "https://foster.uw.edu",
+      "https://evans.uw.edu",
+      "https://www.law.uw.edu",
+      "https://commlead.uw.edu",
+      "https://www.cfrm.uw.edu",
+      "https://cm.be.uw.edu",
+      "https://re.be.uw.edu",
+      "https://gix.uw.edu",
+      "https://www.engr.washington.edu",
+      "https://ischool.uw.edu",
+      "https://www.cs.washington.edu",
+      "https://bime.uw.edu",
+      "https://www.biostat.washington.edu",
+      "https://hspop.uw.edu",
+      "https://www.mphpublichealthpractice.uw.edu",
+      "https://epi.washington.edu",
+      "https://globalhealth.washington.edu",
+      "https://iphg.biostat.washington.edu",
+      "https://foodsystems.uw.edu",
+      "https://www.genetic-counseling-masters.uw.edu",
+      "https://www.appliedchildpsych.uw.edu",
+      "https://socialwork.uw.edu",
+      "https://education.uw.edu",
+      "https://www.uwb.edu",
+      "https://www.tacoma.uw.edu"
+    ],
+    "boston-university": [
+      "https://www.bu.edu"
+    ],
+    "purdue-university": [
+      "https://www.purdue.edu"
+    ],
+    "rice-university": [
+      "https://www.rice.edu",
+      "https://graduate.rice.edu",
+      "https://business.rice.edu",
+      "https://csweb.rice.edu",
+      "https://statistics.rice.edu",
+      "https://economics.rice.edu",
+      "https://mga.rice.edu"
+    ],
+    "university-of-wisconsin-madison": [
+      "https://www.wisc.edu",
+      "https://grad.wisc.edu",
+      "https://guide.wisc.edu"
+    ],
+    "university-of-california-davis": [
+      "https://www.ucdavis.edu",
+      "https://grad.ucdavis.edu"
+    ],
+    "georgia-institute-of-technology": [
+      "https://www.gatech.edu",
+      "https://grad.gatech.edu",
+      "https://catalog.gatech.edu"
+    ],
+    "university-of-southern-california": [
+      "https://www.usc.edu",
+      "https://gradadm.usc.edu",
+      "https://www.marshall.usc.edu",
+      "https://priceschool.usc.edu",
+      "https://gould.usc.edu",
+      "https://rossier.usc.edu",
+      "https://www.cs.usc.edu",
+      "https://informatics.usc.edu",
+      "https://datascience.usc.edu",
+      "https://viterbigradadmission.usc.edu",
+      "https://dornsife.usc.edu",
+      "https://gis.usc.edu"
+    ],
+    "university-of-north-carolina-chapel-hill": [
+      "https://www.unc.edu",
+      "https://gradschool.unc.edu",
+      "https://www.kenan-flagler.unc.edu",
+      "https://ed.unc.edu",
+      "https://www.med.unc.edu",
+      "https://hussman.unc.edu",
+      "https://exss.unc.edu",
+      "https://mpa.unc.edu",
+      "https://ssw.unc.edu",
+      "https://nursing.unc.edu",
+      "https://cs.unc.edu",
+      "https://sils.unc.edu",
+      "https://chip.unc.edu",
+      "https://appliedmasters.unc.edu"
+    ],
+    "washington-university-in-st-louis": [
+      "https://wustl.edu"
+    ],
+    "texas-a-and-m-university": [
+      "https://www.tamu.edu",
+      "https://grad.tamu.edu",
+      "https://catalog.tamu.edu"
+    ],
+    "arizona-state-university": [
+      "https://www.asu.edu",
+      "https://degrees.asu.edu"
+    ],
+    "university-of-california-santa-barbara": [
+      "https://www.ucsb.edu",
+      "https://www.graddiv.ucsb.edu",
+      "https://engage.graddiv.ucsb.edu"
+    ],
+    "michigan-state-university": [
+      "https://msu.edu",
+      "https://grad.msu.edu",
+      "https://broad.msu.edu",
+      "https://hrlr.msu.edu",
+      "https://polisci.msu.edu",
+      "https://comartsci.msu.edu",
+      "https://engineering.msu.edu",
+      "https://msds.msu.edu",
+      "https://stt.natsci.msu.edu",
+      "https://epibio.msu.edu",
+      "https://www.canr.msu.edu",
+      "https://reg.msu.edu",
+      "https://psychology.msu.edu",
+      "https://socialwork.msu.edu",
+      "https://nursing.msu.edu",
+      "https://education.msu.edu"
+    ],
+    "emory-university": [
+      "https://www.emory.edu",
+      "https://goizueta.emory.edu",
+      "https://sph.emory.edu",
+      "https://www.nursing.emory.edu",
+      "https://law.emory.edu",
+      "https://computerscience.emory.edu",
+      "https://datascience.emory.edu",
+      "https://economics.emory.edu"
+    ],
+    "ohio-state-university": [
+      "https://www.osu.edu",
+      "https://gradsch.osu.edu",
+      "https://gpadmissions.osu.edu"
+    ],
+    "university-of-florida": [
+      "https://www.ufl.edu",
+      "https://gradschool.ufl.edu",
+      "https://gradcatalog.ufl.edu"
+    ],
+    "university-of-rochester": [
+      "https://www.rochester.edu",
+      "https://www.sas.rochester.edu",
+      "https://www.urmc.rochester.edu",
+      "https://son.rochester.edu",
+      "https://simon.rochester.edu",
+      "https://www.warner.rochester.edu",
+      "https://www.hajim.rochester.edu"
+    ],
+    "university-of-california-irvine": [
+      "https://uci.edu",
+      "https://grad.uci.edu",
+      "https://catalogue.uci.edu"
+    ],
+    "university-of-maryland-college-park": [
+      "https://umd.edu",
+      "https://gradschool.umd.edu",
+      "https://academiccatalog.umd.edu"
+    ],
+    "university-of-minnesota-twin-cities": [
+      "https://twin-cities.umn.edu",
+      "https://grad.umn.edu",
+      "https://carlsonschool.umn.edu",
+      "https://ccaps.umn.edu",
+      "https://olpd.umn.edu",
+      "https://icd.umn.edu",
+      "https://www.sph.umn.edu",
+      "https://cla.umn.edu",
+      "https://hubbardschool.umn.edu",
+      "https://healthinformatics.umn.edu",
+      "https://csh.umn.edu",
+      "https://kin.umn.edu",
+      "https://www.cehd.umn.edu",
+      "https://www.hhh.umn.edu",
+      "https://cse.umn.edu",
+      "https://www.msse.umn.edu",
+      "https://mot.umn.edu",
+      "https://www.math.umn.edu"
+    ],
+    "university-of-massachusetts-amherst": [
+      "https://www.umass.edu"
+    ],
+    "vanderbilt-university": [
+      "https://www.vanderbilt.edu",
+      "https://gradschool.vanderbilt.edu",
+      "https://business.vanderbilt.edu",
+      "https://peabody.vanderbilt.edu",
+      "https://engineering.vanderbilt.edu",
+      "https://as.vanderbilt.edu",
+      "https://law.vanderbilt.edu",
+      "https://nursing.vanderbilt.edu",
+      "https://medschool.vanderbilt.edu"
+    ],
+    "university-of-virginia": [
+      "https://www.virginia.edu",
+      "https://graduate.as.virginia.edu",
+      "https://education.virginia.edu",
+      "https://www.darden.virginia.edu",
+      "https://www.commerce.virginia.edu",
+      "https://batten.virginia.edu",
+      "https://datascience.virginia.edu",
+      "https://nursing.virginia.edu"
+    ],
+    "dartmouth-college": [
+      "https://home.dartmouth.edu",
+      "https://graduate.dartmouth.edu",
+      "https://tuck.dartmouth.edu",
+      "https://healthsciences.dartmouth.edu"
+    ],
+    "university-of-pittsburgh": [
+      "https://www.pitt.edu",
+      "https://business.pitt.edu",
+      "https://www.business.pitt.edu",
+      "https://www.education.pitt.edu",
+      "https://www.stat.pitt.edu",
+      "https://www.sph.pitt.edu",
+      "https://publichealth.pitt.edu",
+      "https://www.shrs.pitt.edu",
+      "https://www.comm.pitt.edu",
+      "https://www.sci.pitt.edu",
+      "https://www.mqe.pitt.edu",
+      "https://www.filmstudies.pitt.edu",
+      "https://www.publichealth.pitt.edu",
+      "https://www.icre.pitt.edu",
+      "https://www.law.pitt.edu",
+      "https://www.cile.pitt.edu",
+      "https://www.linguistics.pitt.edu",
+      "https://www.nursing.pitt.edu",
+      "https://www.gspia.pitt.edu",
+      "https://www.socialwork.pitt.edu"
+    ],
+    "georgetown-university": [
+      "https://www.georgetown.edu",
+      "https://grad.georgetown.edu",
+      "https://bulletin.georgetown.edu"
+    ],
+    "university-of-notre-dame": [
+      "https://www.nd.edu",
+      "https://graduateschool.nd.edu",
+      "https://catalog.nd.edu",
+      "https://mendoza.nd.edu"
+    ],
+    "university-of-arizona": [
+      "https://www.arizona.edu",
+      "https://grad.arizona.edu"
+    ],
+    "rutgers-university-new-brunswick": [
+      "https://newbrunswick.rutgers.edu",
+      "https://grad.rutgers.edu",
+      "https://grad.admissions.rutgers.edu",
+      "https://gsapp.rutgers.edu",
+      "https://comminfo.rutgers.edu",
+      "https://gse.rutgers.edu",
+      "https://www.masongross.rutgers.edu",
+      "https://bloustein.rutgers.edu",
+      "https://span-port.rutgers.edu"
+    ],
+    "north-carolina-state-university": [
+      "https://www.ncsu.edu",
+      "https://grad.ncsu.edu",
+      "https://catalog.ncsu.edu"
+    ],
+    "university-of-colorado-boulder": [
+      "https://www.colorado.edu",
+      "https://catalog.colorado.edu"
+    ],
+    "case-western-reserve-university": [
+      "https://case.edu",
+      "https://mathstats.case.edu"
+    ],
+    "tufts-university": [
+      "https://www.tufts.edu",
+      "https://asegrad.tufts.edu",
+      "https://fletcher.tufts.edu",
+      "https://gordon.tufts.edu",
+      "https://medicine.tufts.edu"
+    ],
+    "university-of-miami": [
+      "https://welcome.miami.edu",
+      "https://grad.miami.edu",
+      "https://www.herbert.miami.edu",
+      "https://www.bus.miami.edu",
+      "https://csc.as.miami.edu",
+      "https://eps.edu.miami.edu",
+      "https://sites.education.miami.edu",
+      "https://graduatestudies.publichealth.med.miami.edu",
+      "https://www.sonhs.miami.edu",
+      "https://ise.coe.miami.edu",
+      "https://msa.arc.miami.edu",
+      "https://com.miami.edu",
+      "https://aba.psy.miami.edu",
+      "https://mae.coe.miami.edu",
+      "https://admissions.law.miami.edu"
+    ],
+    "indiana-university-bloomington": [
+      "https://bloomington.iu.edu",
+      "https://graduate.indiana.edu",
+      "https://academics.iu.edu"
+    ],
+    "virginia-polytechnic-institute-and-state-university": [
+      "https://vt.edu",
+      "https://graduateschool.vt.edu",
+      "https://catalog.vt.edu"
+    ],
+    "university-of-illinois-at-chicago": [
+      "https://www.uic.edu",
+      "https://grad.uic.edu",
+      "https://catalog.uic.edu"
+    ],
+    "george-washington-university": [
+      "https://www.gwu.edu",
+      "https://graduate.admissions.gwu.edu",
+      "https://bulletin.gwu.edu",
+      "https://www.law.gwu.edu"
+    ],
+    "northeastern-university": [
+      "https://www.northeastern.edu",
+      "https://graduate.northeastern.edu"
+    ],
+    "university-of-california-riverside": [
+      "https://www.ucr.edu",
+      "https://graduate.ucr.edu",
+      "https://business.ucr.edu",
+      "https://smpph.ucr.edu",
+      "https://www1.cs.ucr.edu",
+      "https://datascience.ucr.edu",
+      "https://robotics.ucr.edu",
+      "https://education.ucr.edu",
+      "https://spp.ucr.edu"
+    ],
+    "university-at-buffalo-suny": [
+      "https://www.buffalo.edu"
+    ],
+    "university-of-california-santa-cruz": [
+      "https://www.ucsc.edu",
+      "https://graddiv.ucsc.edu",
+      "https://graduateadmissions.ucsc.edu"
+    ],
+    "university-of-connecticut": [
+      "https://uconn.edu",
+      "https://grad.uconn.edu",
+      "https://msaccounting.uconn.edu",
+      "https://are.uconn.edu",
+      "https://math.uconn.edu",
+      "https://statistics.uconn.edu",
+      "https://grad.business.uconn.edu",
+      "https://analytics.business.uconn.edu",
+      "https://comm.uconn.edu",
+      "https://masters.datascience.uconn.edu",
+      "https://econ.uconn.edu",
+      "https://epsy.education.uconn.edu",
+      "https://risk.business.uconn.edu",
+      "https://geneticcounseling.uconn.edu",
+      "https://higheredprograms.education.uconn.edu",
+      "https://hrm.business.uconn.edu",
+      "https://kins.uconn.edu",
+      "https://www.linguistics.uconn.edu",
+      "https://nursing.uconn.edu",
+      "https://publicpolicy.uconn.edu",
+      "https://health.uconn.edu",
+      "https://msqe.econ.uconn.edu",
+      "https://socialimpact.business.uconn.edu",
+      "https://ssw.uconn.edu",
+      "https://sport.education.uconn.edu",
+      "https://computing.engineering.uconn.edu",
+      "https://edci.education.uconn.edu",
+      "https://law.uconn.edu"
+    ],
+    "stony-brook-university-state-university-of-new-york": [
+      "https://www.stonybrook.edu",
+      "https://catalog.stonybrook.edu",
+      "https://publichealth.stonybrookmedicine.edu",
+      "https://socialwelfare.stonybrookmedicine.edu"
+    ],
+    "university-of-hong-kong": [
+      "https://www.hku.hk",
+      "https://portal.hku.hk"
+    ],
+    "chinese-university-of-hong-kong": [
+      "https://www.cuhk.edu.hk",
+      "https://www.gs.cuhk.edu.hk"
+    ],
+    "hong-kong-university-of-science-and-technology": [
+      "https://hkust.edu.hk",
+      "https://prog-crs.hkust.edu.hk"
+    ],
+    "hong-kong-polytechnic-university": [
+      "https://www.polyu.edu.hk"
+    ],
+    "city-university-of-hong-kong": [
+      "https://www.cityu.edu.hk"
+    ],
+    "hong-kong-baptist-university": [
+      "https://www.hkbu.edu.hk",
+      "https://gs.hkbu.edu.hk"
+    ],
+    "education-university-of-hong-kong": [
+      "https://www.eduhk.hk"
+    ],
+    "mcgill-university": [
+      "https://www.mcgill.ca",
+      "https://coursecatalogue.mcgill.ca"
+    ],
+    "university-of-toronto": [
+      "https://www.utoronto.ca",
+      "https://www.sgs.utoronto.ca"
+    ],
+    "university-of-british-columbia": [
+      "https://www.ubc.ca",
+      "https://www.grad.ubc.ca"
+    ],
+    "university-of-alberta": [
+      "https://www.ualberta.ca"
+    ],
+    "university-of-waterloo": [
+      "https://uwaterloo.ca"
+    ],
+    "western-university": [
+      "https://www.uwo.ca",
+      "https://grad.uwo.ca"
+    ],
+    "universite-de-montreal": [
+      "https://www.umontreal.ca",
+      "https://admission.umontreal.ca"
+    ],
+    "mcmaster-university": [
+      "https://www.mcmaster.ca",
+      "https://gs.mcmaster.ca"
+    ],
+    "queen-s-university-at-kingston": [
+      "https://www.queensu.ca",
+      "https://smith.queensu.ca",
+      "https://phs.queensu.ca",
+      "https://educ.queensu.ca",
+      "https://nursing.queensu.ca"
+    ],
+    "university-of-ottawa": [
+      "https://www.uottawa.ca",
+      "https://catalogue.uottawa.ca"
+    ],
+    "university-of-calgary": [
+      "https://www.ucalgary.ca",
+      "https://grad.ucalgary.ca"
+    ],
+    "dalhousie-university": [
+      "https://www.dal.ca"
+    ],
+    "simon-fraser-university": [
+      "https://www.sfu.ca"
+    ],
+    "york-university": [
+      "https://www.yorku.ca",
+      "https://futurestudents.yorku.ca"
+    ],
+    "university-of-victoria": [
+      "https://www.uvic.ca"
+    ],
+    "university-of-saskatchewan": [
+      "https://www.usask.ca",
+      "https://admissions.usask.ca",
+      "https://grad.usask.ca"
+    ],
+    "concordia-university": [
+      "https://www.concordia.ca"
+    ],
+    "university-of-auckland": [
+      "https://www.auckland.ac.nz"
+    ],
+    "university-of-otago": [
+      "https://www.otago.ac.nz"
+    ],
+    "massey-university": [
+      "https://www.massey.ac.nz"
+    ],
+    "victoria-university-of-wellington": [
+      "https://www.wgtn.ac.nz"
+    ],
+    "university-of-canterbury": [
+      "https://www.canterbury.ac.nz"
+    ],
+    "university-of-waikato": [
+      "https://www.waikato.ac.nz"
+    ],
+    "lincoln-university": [
+      "https://www.lincoln.ac.nz"
+    ],
+    "auckland-university-of-technology": [
+      "https://www.aut.ac.nz"
+    ],
+    "australian-national-university": [
+      "https://programsandcourses.anu.edu.au"
+    ],
+    "university-of-western-australia": [
+      "https://www.uwa.edu.au"
+    ],
+    "macquarie-university": [
+      "https://www.mq.edu.au"
+    ],
+    "curtin-university": [
+      "https://www.curtin.edu.au"
+    ],
+    "university-of-southern-queensland": [
+      "https://www.unisq.edu.au"
+    ],
+    "central-queensland-university": [
+      "https://www.cqu.edu.au"
+    ],
+    "university-of-canberra": [
+      "https://www.canberra.edu.au"
+    ],
+    "university-of-nottingham": [
+      "https://www.nottingham.ac.uk"
+    ],
+    "university-of-reading": [
+      "https://www.reading.ac.uk"
+    ],
+    "university-of-strathclyde": [
+      "https://www.strath.ac.uk"
+    ],
+    "university-of-leicester": [
+      "https://le.ac.uk"
+    ],
+    "birkbeck-university-of-london": [
+      "https://www.bbk.ac.uk"
+    ],
+    "city-st-george-s-university-of-london": [
+      "https://www.citystgeorges.ac.uk",
+      "https://www.bayes.citystgeorges.ac.uk"
+    ],
+    "university-of-kent": [
+      "https://www.kent.ac.uk"
+    ],
+    "essex-university-of": [
+      "https://www.essex.ac.uk"
+    ],
+    "university-of-dundee": [
+      "https://www.dundee.ac.uk"
+    ],
+    "royal-holloway-university-of-london": [
+      "https://www.royalholloway.ac.uk"
+    ],
+    "university-of-limerick": [
+      "https://www.ul.ie"
+    ],
+    "dublin-city-university": [
+      "https://www.dcu.ie"
+    ],
+    "national-university-of-singapore": [
+      "https://study.nus.edu.sg"
+    ],
+    "singapore-university-of-technology-and-design": [
+      "https://www.sutd.edu.sg"
+    ],
+    "university-of-huddersfield": [
+      "https://www.hud.ac.uk",
+      "https://courses.hud.ac.uk"
+    ],
+    "university-of-plymouth": [
+      "https://www.plymouth.ac.uk"
+    ],
+    "university-of-the-west-of-england": [
+      "https://courses.uwe.ac.uk"
+    ],
+    "keele-university": [
+      "https://www.keele.ac.uk"
+    ],
+    "university-of-lincoln": [
+      "https://www.lincoln.ac.uk"
+    ],
+    "university-of-westminster": [
+      "https://www.westminster.ac.uk"
+    ],
+    "robert-gordon-university": [
+      "https://www.rgu.ac.uk"
+    ],
+    "university-of-derby": [
+      "https://www.derby.ac.uk"
+    ],
+    "charles-sturt-university": [
+      "https://study.csu.edu.au"
+    ],
+    "university-of-the-arts-london": [
+      "https://www.arts.ac.uk"
+    ],
+    "bournemouth-university": [
+      "https://www.bournemouth.ac.uk"
+    ],
+    "london-school-of-hygiene-and-tropical-medicine": [
+      "https://www.lshtm.ac.uk"
+    ],
+    "london-south-bank-university": [
+      "https://www.lsbu.ac.uk"
+    ],
+    "ulster-university": [
+      "https://www.ulster.ac.uk"
+    ],
+    "university-of-new-england-australia": [
+      "https://www.une.edu.au"
+    ],
+    "royal-college-of-surgeons-in-ireland": [
+      "https://www.rcsi.com"
+    ],
+    "universiti-malaya": [
+      "https://study.um.edu.my"
+    ],
+    "universiti-teknologi-petronas": [
+      "https://www.utp.edu.my"
+    ],
+    "taylor-s-university": [
+      "https://university.taylors.edu.my"
+    ],
+    "ucsi-university": [
+      "https://www.ucsiuniversity.edu.my"
+    ],
+    "national-taiwan-university": [
+      "https://gmba.ntu.edu.tw",
+      "https://spe.ntu.edu.tw",
+      "https://econ.ntu.edu.tw",
+      "https://www.law.ntu.edu.tw",
+      "https://ghp.ntu.edu.tw",
+      "https://smartmhi.ntu.edu.tw"
+    ],
+    "national-tsing-hua-university": [
+      "https://apply.nthu.edu.tw"
+    ],
+    "aberystwyth-university": [
+      "https://courses.aber.ac.uk"
+    ],
+    "universiti-sains-malaysia": [
+      "https://admission.usm.my"
+    ],
+    "universiti-teknologi-malaysia": [
+      "https://admission.utm.my"
+    ],
+    "inti-international-university": [
+      "https://newinti.edu.my"
+    ],
+    "universitas-padjadjaran": [
+      "https://mm.feb.unpad.ac.id",
+      "https://hi.fisip.unpad.ac.id",
+      "https://pps.fisip.unpad.ac.id"
+    ],
+    "national-cheng-kung-university": [
+      "https://imba.ncku.edu.tw",
+      "https://www.csie.ncku.edu.tw",
+      "https://ib.ncku.edu.tw",
+      "https://publichealth.ncku.edu.tw"
+    ],
+    "universitas-indonesia": [
+      "https://fkm.ui.ac.id",
+      "https://cs.ui.ac.id",
+      "https://feb.ui.ac.id",
+      "https://pascakomunikasi.fisip.ui.ac.id"
+    ],
+    "chulalongkorn-university": [
+      "https://www.cphs.chula.ac.th",
+      "https://mba.cbs.chula.ac.th",
+      "https://msf.cbs.chula.ac.th",
+      "https://www.mfe.acc.chula.ac.th",
+      "https://marketing.cbs.chula.ac.th",
+      "https://www.econ.chula.ac.th",
+      "https://portal.edu.chula.ac.th",
+      "https://www.psy.chula.ac.th",
+      "https://www.sasin.edu",
+      "https://mmchula.cbs.chula.ac.th",
+      "https://www.mabe.econ.chula.ac.th",
+      "https://www.inter.commarts.chula.ac.th"
+    ],
+    "universiti-brunei-darussalam": [
+      "https://ubd.edu.bn"
+    ],
+    "sunway-university": [
+      "https://sunwayuniversity.edu.my"
+    ],
+    "university-of-the-philippines": [
+      "https://coe.upd.edu.ph",
+      "https://www.vsb.upd.edu.ph",
+      "https://dcs.upd.edu.ph",
+      "https://econ.upd.edu.ph",
+      "https://educ.upd.edu.ph",
+      "https://www.chk.upd.edu.ph",
+      "https://che.upd.edu.ph",
+      "https://upepp.upd.edu.ph",
+      "https://www.psych.upd.edu.ph",
+      "https://ncpag.upd.edu.ph",
+      "https://cswcd.upd.edu.ph",
+      "https://www.stat.upd.edu.ph",
+      "https://tmc.upd.edu.ph",
+      "https://ait.upd.edu.ph",
+      "https://math.upd.edu.ph",
+      "https://www.dscta.kal.upd.edu.ph",
+      "https://linguistics.upd.edu.ph",
+      "https://decl.kal.upd.edu.ph",
+      "https://ocsgsdguide.wixsite.com"
+    ],
+    "national-taiwan-university-of-science-and-technology": [
+      "https://mba.ntust.edu.tw",
+      "https://ba.ntust.edu.tw",
+      "https://www.im.ntust.edu.tw",
+      "https://www.tm.ntust.edu.tw",
+      "https://www.csie.ntust.edu.tw",
+      "https://www.ct.ntust.edu.tw"
+    ],
+    "national-taiwan-normal-university": [
+      "https://www.mba.ntnu.edu.tw",
+      "https://www.gbs.ntnu.edu.tw",
+      "https://www.ihrd.ntnu.edu.tw",
+      "https://www.tahrd.ntnu.edu.tw",
+      "https://www.csie.ntnu.edu.tw",
+      "https://www.ciai.ntnu.edu.tw",
+      "https://www.ice.ntnu.edu.tw",
+      "https://www.he.ntnu.edu.tw",
+      "https://cve.ntnu.edu.tw",
+      "https://www.spe.ntnu.edu.tw",
+      "https://www.eng.ntnu.edu.tw",
+      "https://www.gise.ntnu.edu.tw",
+      "https://www.gismee.ntnu.edu.tw",
+      "https://www.giect.ntnu.edu.tw",
+      "https://www.slhm.ntnu.edu.tw",
+      "https://www.pe.ntnu.edu.tw"
+    ],
+    "national-sun-yat-sen-university": [
+      "https://cse.nsysu.edu.tw",
+      "https://ghrm.nsysu.edu.tw",
+      "https://gpehd.nsysu.edu.tw"
+    ],
+    "national-taipei-university-of-technology": [
+      "https://imba.ntut.edu.tw"
+    ],
+    "macao-university-of-tourism": [
+      "https://www.utm.edu.mo"
+    ],
+    "manchester-metropolitan-university": [
+      "https://www.mmu.ac.uk"
+    ],
+    "mahidol-university": [
+      "https://graduate.mahidol.ac.th"
+    ],
+    "universitat-de-barcelona": [
+      "https://web.ub.edu"
+    ],
+    "complutense-university-of-madrid": [
+      "https://www.ucm.es"
+    ],
+    "universitat-autonoma-de-barcelona": [
+      "https://www.uab.cat"
+    ],
+    "universidad-autonoma-de-madrid": [
+      "https://www.uam.es"
+    ],
+    "university-of-lisbon": [
+      "https://www.iseg.ulisboa.pt",
+      "https://www.fd.ulisboa.pt"
+    ],
+    "university-of-porto": [
+      "https://www.up.pt"
+    ],
+    "university-of-navarra": [
+      "https://www.unav.edu",
+      "https://www.iese.edu"
+    ],
+    "universidad-politecnica-de-madrid": [
+      "https://www.upm.es"
+    ],
+    "eth-zurich-swiss-federal-institute-of-technology": [
+      "https://ethz.ch"
+    ],
+    "epfl": [
+      "https://www.epfl.ch"
+    ],
+    "technical-university-of-munich": [
+      "https://www.tum.de"
+    ],
+    "universite-psl": [
+      "https://psl.eu",
+      "https://dauphine.psl.eu"
+    ],
+    "institut-polytechnique-de-paris": [
+      "https://www.ip-paris.fr",
+      "https://programmes.polytechnique.edu"
+    ],
+    "delft-university-of-technology": [
+      "https://www.tudelft.nl"
+    ],
+    "university-of-amsterdam": [
+      "https://www.uva.nl"
+    ],
+    "ludwig-maximilians-universitat-munchen": [
+      "https://www.lmu.de",
+      "https://www.som.lmu.de",
+      "https://www.stat.lmu.de",
+      "https://www.fm.math.lmu.de"
+    ],
+    "lund-university": [
+      "https://www.lunduniversity.lu.se",
+      "https://www.law.lu.se"
+    ],
+    "sorbonne-university": [
+      "https://sciences.sorbonne-universite.fr"
+    ],
+    "universite-paris-saclay": [
+      "https://www.universite-paris-saclay.fr"
+    ],
+    "kth-royal-institute-of-technology": [
+      "https://www.kth.se"
+    ],
+    "ruprecht-karls-universitat-heidelberg": [
+      "https://www.uni-heidelberg.de"
+    ],
+    "politecnico-di-milano": [
+      "https://www.polimi.it",
+      "https://www.gsom.polimi.it"
+    ],
+    "university-of-copenhagen": [
+      "https://www.ku.dk"
+    ],
+    "freie-universitaet-berlin": [
+      "https://www.fu-berlin.de"
+    ],
+    "university-of-zurich": [
+      "https://www.oec.uzh.ch",
+      "https://www.uzh.ch"
+    ],
+    "rwth-aachen-university": [
+      "https://www.rwth-aachen.de"
+    ],
+    "kit-karlsruhe-institute-of-technology": [
+      "https://www.sle.kit.edu",
+      "https://www.hectorschool.kit.edu"
+    ],
+    "sapienza-university-of-rome": [
+      "https://corsidilaurea.uniroma1.it"
+    ],
+    "utrecht-university": [
+      "https://www.uu.nl"
+    ],
+    "alma-mater-studiorum-university-of-bologna": [
+      "https://corsi.unibo.it"
+    ],
+    "university-of-helsinki": [
+      "https://www.helsinki.fi"
+    ],
+    "aarhus-university": [
+      "https://masters.au.dk"
+    ],
+    "humboldt-universitat-zu-berlin": [
+      "https://www.hu-berlin.de"
+    ],
+    "ghent-university": [
+      "https://studiekiezer.ugent.be"
+    ],
+    "university-of-basel": [
+      "https://wwz.unibas.ch",
+      "https://dmi.unibas.ch"
+    ],
+    "technische-universitat-berlin": [
+      "https://www.tu.berlin"
+    ],
+    "technische-universitat-wien": [
+      "https://www.tuwien.at"
+    ],
+    "universite-catholique-de-louvain": [
+      "https://uclouvain.be"
+    ],
+    "universita-di-padova": [
+      "https://www.unipd.it"
+    ],
+    "politecnico-di-torino": [
+      "https://www.polito.it"
+    ],
+    "universitat-hamburg": [
+      "https://www.uni-hamburg.de"
+    ],
+    "ecole-normale-superieure-de-lyon": [
+      "https://www.ens-lyon.fr"
+    ],
+    "university-of-milan": [
+      "https://www.unimi.it"
+    ],
+    "university-of-pisa": [
+      "https://www.unipi.it"
+    ],
+    "lomonosov-moscow-state-university": [
+      "https://international.msu.ru"
+    ],
+    "central-european-university": [
+      "https://www.ceu.edu"
+    ],
+    "charles-university": [
+      "https://studycharles.cz"
+    ],
+    "university-of-warsaw": [
+      "https://irk.uw.edu.pl"
+    ],
+    "universitat-pompeu-fabra": [
+      "https://www.bsm.upf.edu"
+    ],
+    "universidad-carlos-iii-de-madrid": [
+      "https://www.uc3m.es"
+    ],
+    "universidade-nova-de-lisboa": [
+      "https://novaims.unl.pt",
+      "https://novalaw.unl.pt"
+    ],
+    "university-of-coimbra": [
+      "https://apps.uc.pt"
+    ],
+    "universitat-politecnica-de-catalunya-barcelonatech": [
+      "https://www.upc.edu"
+    ],
+    "universitat-politecnica-de-valencia": [
+      "https://www.upv.es"
+    ],
+    "ie-university": [
+      "https://www.ie.edu"
+    ],
+    "university-of-granada": [
+      "https://masteres.ugr.es"
+    ],
+    "universitat-de-valencia": [
+      "https://www.uv.es"
+    ],
+    "universitat-ramon-llull": [
+      "https://www.esade.edu",
+      "https://www.salleurl.edu"
+    ],
+    "university-of-salamanca": [
+      "https://usal.es"
+    ],
+    "university-of-minho": [
+      "https://www.eeg.uminho.pt"
+    ],
+    "uppsala-university": [
+      "https://www.uu.se"
+    ],
+    "technical-university-of-denmark": [
+      "https://www.dtu.dk"
+    ],
+    "leiden-university": [
+      "https://www.universiteitleiden.nl"
+    ],
+    "aalto-university": [
+      "https://www.aalto.fi"
+    ],
+    "university-of-oslo": [
+      "https://www.uio.no"
+    ],
+    "university-of-vienna": [
+      "https://studieren.univie.ac.at"
+    ],
+    "erasmus-university-rotterdam": [
+      "https://www.eur.nl"
+    ],
+    "eindhoven-university-of-technology": [
+      "https://www.tue.nl"
+    ],
+    "wageningen-university-and-research": [
+      "https://www.wur.nl"
+    ],
+    "university-of-groningen": [
+      "https://www.rug.nl"
+    ],
+    "stockholm-university": [
+      "https://www.su.se"
+    ],
+    "chalmers-university-of-technology": [
+      "https://www.chalmers.se"
+    ],
+    "technische-universitat-dresden": [
+      "https://tu-dresden.de"
+    ],
+    "vrije-universiteit-amsterdam": [
+      "https://vu.nl"
+    ],
+    "university-of-bern": [
+      "https://www.philnat.unibe.ch"
+    ],
+    "rheinische-friedrich-wilhelms-universitat-bonn": [
+      "https://www.uni-bonn.de"
+    ],
+    "friedrich-alexander-universitat-erlangen-nurnberg": [
+      "https://www.fau.eu"
+    ],
+    "university-of-twente": [
+      "https://www.utwente.nl"
+    ],
+    "university-of-gothenburg": [
+      "https://www.gu.se"
+    ],
+    "eberhard-karls-universitat-tubingen": [
+      "https://uni-tuebingen.de"
+    ],
+    "university-of-lausanne": [
+      "https://www.unil.ch"
+    ],
+    "albert-ludwigs-universitaet-freiburg": [
+      "https://uni-freiburg.de"
+    ],
+    "universite-paris-1-pantheon-sorbonne": [
+      "https://economie.pantheonsorbonne.fr",
+      "https://formations.pantheonsorbonne.fr"
+    ],
+    "universite-libre-de-bruxelles": [
+      "https://www.ulb.be"
+    ],
+    "technical-university-of-darmstadt": [
+      "https://www.tu-darmstadt.de"
+    ],
+    "maastricht-university": [
+      "https://www.maastrichtuniversity.nl"
+    ],
+    "university-of-gottingen": [
+      "https://www.uni-goettingen.de"
+    ],
+    "norwegian-university-of-science-and-technology": [
+      "https://www.ntnu.edu"
+    ],
+    "university-of-cologne": [
+      "https://wiso.uni-koeln.de",
+      "https://business-school.uni-koeln.de"
+    ],
+    "university-of-antwerp": [
+      "https://www.uantwerpen.be"
+    ],
+    "radboud-university": [
+      "https://www.ru.nl"
+    ],
+    "university-of-bergen": [
+      "https://www4.uib.no"
+    ],
+    "vrije-universiteit-brussel": [
+      "https://www.vub.be"
+    ],
+    "universite-de-paris": [
+      "https://u-paris.fr"
+    ],
+    "linkoping-university": [
+      "https://liu.se"
+    ],
+    "universitat-stuttgart": [
+      "https://www.uni-stuttgart.de"
+    ],
+    "aalborg-university": [
+      "https://www.en.aau.dk"
+    ],
+    "universitat-innsbruck": [
+      "https://www.uibk.ac.at"
+    ],
+    "university-of-rome-tor-vergata": [
+      "https://economia.uniroma2.it",
+      "https://web.uniroma2.it"
+    ],
+    "sciences-po": [
+      "https://www.sciencespo.fr"
+    ],
+    "university-of-oulu": [
+      "https://www.oulu.fi"
+    ],
+    "universite-de-liege": [
+      "https://www.programmes.uliege.be"
+    ],
+    "westfalische-wilhelms-universitat-munster": [
+      "https://www.uni-muenster.de"
+    ],
+    "goethe-university-frankfurt-am-main": [
+      "https://www.uni-frankfurt.de",
+      "https://www.goethe-business-school.de",
+      "https://www.ilf-frankfurt.de"
+    ],
+    "universite-grenoble-alpes": [
+      "https://formations.univ-grenoble-alpes.fr"
+    ],
+    "universita-cattolica-del-sacro-cuore": [
+      "https://www.unicatt.it"
+    ],
+    "universita-degli-studi-di-pavia": [
+      "https://portale.unipv.it"
+    ],
+    "university-of-turku": [
+      "https://www.utu.fi"
+    ],
+    "jagiellonian-university": [
+      "https://studia.uj.edu.pl"
+    ],
+    "rudn-university": [
+      "https://eng.rudn.ru"
+    ],
+    "university-of-tartu": [
+      "https://ut.ee"
+    ],
+    "saint-petersburg-state-university": [
+      "https://english.spbu.ru"
+    ],
+    "prague-university-of-economics-and-business": [
+      "https://mimg.vse.cz",
+      "https://cemsmim.vse.cz",
+      "https://ib.vse.cz",
+      "https://mifa.vse.cz",
+      "https://ism.vse.cz",
+      "https://eda.vse.cz",
+      "https://epp.vse.cz",
+      "https://sustainability.vse.cz",
+      "https://psychology.vse.cz"
+    ],
+    "lappeenranta-lahti-university-of-technology-lut": [
+      "https://www.lut.fi"
+    ]
+  },
+  "browser": [
+    "https://catalog.upenn.edu",
+    "https://grad.ncsu.edu",
+    "https://grad.ucdavis.edu",
+    "https://grad.umn.edu",
+    "https://gradschool.cornell.edu",
+    "https://gradschool.princeton.edu",
+    "https://graduate.admissions.gwu.edu",
+    "https://gsas.columbia.edu",
+    "https://gsas.nyu.edu",
+    "https://le.ac.uk",
+    "https://newbrunswick.rutgers.edu",
+    "https://portal.hku.hk",
+    "https://prog-crs.hkust.edu.hk",
+    "https://rackham.umich.edu",
+    "https://twin-cities.umn.edu",
+    "https://umich.edu",
+    "https://www.arizona.edu",
+    "https://www.aut.ac.nz",
+    "https://www.citystgeorges.ac.uk",
+    "https://www.columbia.edu",
+    "https://www.dundee.ac.uk",
+    "https://www.eduhk.hk",
+    "https://www.gwu.edu",
+    "https://www.jhu.edu",
+    "https://www.lincoln.ac.nz",
+    "https://www.mq.edu.au",
+    "https://www.ncsu.edu",
+    "https://www.nyu.edu",
+    "https://www.otago.ac.nz",
+    "https://www.polyu.edu.hk",
+    "https://www.princeton.edu",
+    "https://www.ualberta.ca",
+    "https://www.ucsc.edu",
+    "https://www.uic.edu",
+    "https://www.umass.edu",
+    "https://www.utoronto.ca",
+    "https://www.wgtn.ac.nz",
+    "https://www.bournemouth.ac.uk",
+    "https://www.lshtm.ac.uk",
+    "https://www.lsbu.ac.uk",
+    "https://www.ulster.ac.uk",
+    "https://www.une.edu.au",
+    "https://www.hbs.edu",
+    "https://www.hks.harvard.edu",
+    "https://hls.harvard.edu",
+    "https://www.gse.harvard.edu",
+    "https://hsph.harvard.edu",
+    "https://seas.harvard.edu",
+    "https://www.gsd.harvard.edu",
+    "https://hms.harvard.edu",
+    "https://ghsm.hms.harvard.edu",
+    "https://extension.harvard.edu",
+    "https://catalog.vt.edu",
+    "https://coursecatalogue.mcgill.ca",
+    "https://admission.umontreal.ca",
+    "https://www.keele.ac.uk",
+    "https://www.arts.ac.uk",
+    "https://mm.feb.unpad.ac.id",
+    "https://hi.fisip.unpad.ac.id",
+    "https://pps.fisip.unpad.ac.id",
+    "https://www.essex.ac.uk",
+    "https://academics.business.columbia.edu",
+    "https://www.sipa.columbia.edu",
+    "https://www.publichealth.columbia.edu",
+    "https://www.nursing.columbia.edu",
+    "https://www.law.columbia.edu",
+    "https://journalism.columbia.edu",
+    "https://www.engineering.columbia.edu",
+    "https://datascience.columbia.edu",
+    "https://ieor.columbia.edu",
+    "https://www.cs.columbia.edu",
+    "https://www.arch.columbia.edu",
+    "https://www.gsas.columbia.edu",
+    "https://sps.columbia.edu",
+    "https://www.tc.columbia.edu",
+    "https://michiganross.umich.edu",
+    "https://fordschool.umich.edu",
+    "https://sph.umich.edu",
+    "https://www.si.umich.edu",
+    "https://michigan.law.umich.edu",
+    "https://nursing.umich.edu",
+    "https://ssw.umich.edu",
+    "https://marsal.umich.edu",
+    "https://lsa.umich.edu",
+    "https://psm.isr.umich.edu",
+    "https://www.kines.umich.edu",
+    "https://tcmp.engin.umich.edu",
+    "https://smtd.umich.edu",
+    "https://graduateprograms.brown.edu",
+    "https://www.kenan-flagler.unc.edu",
+    "https://ed.unc.edu",
+    "https://www.med.unc.edu",
+    "https://hussman.unc.edu",
+    "https://exss.unc.edu",
+    "https://mpa.unc.edu",
+    "https://ssw.unc.edu",
+    "https://nursing.unc.edu",
+    "https://cs.unc.edu",
+    "https://sils.unc.edu",
+    "https://chip.unc.edu",
+    "https://appliedmasters.unc.edu",
+    "https://broad.msu.edu",
+    "https://hrlr.msu.edu",
+    "https://polisci.msu.edu",
+    "https://comartsci.msu.edu",
+    "https://engineering.msu.edu",
+    "https://msds.msu.edu",
+    "https://stt.natsci.msu.edu",
+    "https://epibio.msu.edu",
+    "https://www.canr.msu.edu",
+    "https://reg.msu.edu",
+    "https://psychology.msu.edu",
+    "https://socialwork.msu.edu",
+    "https://nursing.msu.edu",
+    "https://education.msu.edu",
+    "https://education.virginia.edu",
+    "https://www.darden.virginia.edu",
+    "https://www.commerce.virginia.edu",
+    "https://batten.virginia.edu",
+    "https://datascience.virginia.edu",
+    "https://graduate.as.virginia.edu",
+    "https://nursing.virginia.edu",
+    "https://www.cphs.chula.ac.th",
+    "https://mba.cbs.chula.ac.th",
+    "https://msf.cbs.chula.ac.th",
+    "https://www.mfe.acc.chula.ac.th",
+    "https://marketing.cbs.chula.ac.th",
+    "https://www.econ.chula.ac.th",
+    "https://portal.edu.chula.ac.th",
+    "https://www.psy.chula.ac.th",
+    "https://www.sasin.edu",
+    "https://mmchula.cbs.chula.ac.th",
+    "https://www.mabe.econ.chula.ac.th",
+    "https://www.inter.commarts.chula.ac.th",
+    "https://sunwayuniversity.edu.my",
+    "https://foster.uw.edu",
+    "https://evans.uw.edu",
+    "https://www.law.uw.edu",
+    "https://commlead.uw.edu",
+    "https://www.washington.edu",
+    "https://www.cfrm.uw.edu",
+    "https://cm.be.uw.edu",
+    "https://re.be.uw.edu",
+    "https://gix.uw.edu",
+    "https://www.engr.washington.edu",
+    "https://ischool.uw.edu",
+    "https://www.cs.washington.edu",
+    "https://bime.uw.edu",
+    "https://www.biostat.washington.edu",
+    "https://hspop.uw.edu",
+    "https://www.mphpublichealthpractice.uw.edu",
+    "https://epi.washington.edu",
+    "https://globalhealth.washington.edu",
+    "https://iphg.biostat.washington.edu",
+    "https://foodsystems.uw.edu",
+    "https://www.genetic-counseling-masters.uw.edu",
+    "https://www.appliedchildpsych.uw.edu",
+    "https://socialwork.uw.edu",
+    "https://education.uw.edu",
+    "https://www.uwb.edu",
+    "https://www.tacoma.uw.edu",
+    "https://www.bayes.citystgeorges.ac.uk",
+    "https://courses.hud.ac.uk",
+    "https://www.mmu.ac.uk",
+    "https://mba.ntust.edu.tw",
+    "https://ba.ntust.edu.tw",
+    "https://www.im.ntust.edu.tw",
+    "https://www.tm.ntust.edu.tw",
+    "https://www.csie.ntust.edu.tw",
+    "https://www.ct.ntust.edu.tw",
+    "https://www.utm.edu.mo",
+    "https://www.chula.ac.th",
+    "https://carlsonschool.umn.edu",
+    "https://ccaps.umn.edu",
+    "https://olpd.umn.edu",
+    "https://icd.umn.edu",
+    "https://www.sph.umn.edu",
+    "https://cla.umn.edu",
+    "https://hubbardschool.umn.edu",
+    "https://healthinformatics.umn.edu",
+    "https://csh.umn.edu",
+    "https://kin.umn.edu",
+    "https://www.cehd.umn.edu",
+    "https://www.hhh.umn.edu",
+    "https://cse.umn.edu",
+    "https://www.msse.umn.edu",
+    "https://mot.umn.edu",
+    "https://www.math.umn.edu",
+    "https://study.csu.edu.au",
+    "https://web.ub.edu",
+    "https://www.iseg.ulisboa.pt",
+    "https://www.fd.ulisboa.pt",
+    "https://www.lunduniversity.lu.se",
+    "https://www.law.lu.se",
+    "https://studiekiezer.ugent.be",
+    "https://wwz.unibas.ch",
+    "https://dmi.unibas.ch",
+    "https://www.uni-hamburg.de",
+    "https://www.unimi.it",
+    "https://www.unipi.it",
+    "https://international.msu.ru",
+    "https://www.bsm.upf.edu",
+    "https://novaims.unl.pt",
+    "https://novalaw.unl.pt",
+    "https://apps.uc.pt",
+    "https://www.esade.edu",
+    "https://www.salleurl.edu",
+    "https://usal.es",
+    "https://uni-freiburg.de",
+    "https://www.en.aau.dk",
+    "https://portale.unipv.it"
+  ]
+}

@@ -1,0 +1,122 @@
+# coventry-university https://www.coventry.ac.uk
+robots sitemaps: https://www.coventry.ac.uk/sitemapindex.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.coventry.ac.uk/sitemapindex.xml: 13 children (1 course-like)
+sitemaps read 14 · urls 5809 · master's-looking 460
+  122  www.coventry.ac.uk/study-at-coventry/postgraduate-study/postgraduate-events
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/postgraduate-events/2024/explore-postgraduate-conversion-courses/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/postgraduate-events/2024/explore-postgraduate-study-june-11/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/postgraduate-events/2026/progression-14-May/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/postgraduate-events/2024/explore-postgraduate-study-june-25/
+   54  www.coventry.ac.uk/course-structure/pg/ees
+         https://www.coventry.ac.uk/course-structure/pg/ees/advanced-aerospace-engineering-msc/
+         https://www.coventry.ac.uk/course-structure/pg/ees/advanced-mechanical-engineering-msc/
+         https://www.coventry.ac.uk/course-structure/pg/ees/advanced-software-engineering-msc/
+         https://www.coventry.ac.uk/course-structure/pg/ees/air-transport-management-msc/
+   33  www.coventry.ac.uk/course-structure/pg/cas
+         https://www.coventry.ac.uk/course-structure/pg/cas/automotive-design-ma/
+         https://www.coventry.ac.uk/course-structure/pg/cas/automotive-journalism-ma/
+         https://www.coventry.ac.uk/course-structure/pg/cas/business-and-organisational-psychology-msc/
+         https://www.coventry.ac.uk/course-structure/pg/cas/clinical-psychology-dcli/
+   20  www.coventry.ac.uk/course-structure/pg/cbl
+         https://www.coventry.ac.uk/course-structure/pg/cbl/accounting-and-financial-management-msc/
+         https://www.coventry.ac.uk/course-structure/pg/cbl/advertising-and-brand-management-ma/
+         https://www.coventry.ac.uk/course-structure/pg/cbl/banking-and-finance-msc/
+         https://www.coventry.ac.uk/course-structure/pg/cbl/business-analytics-msc/
+   18  www.coventry.ac.uk/london/course-structure/pg
+         https://www.coventry.ac.uk/london/course-structure/pg/digital-marketing-msc/
+         https://www.coventry.ac.uk/london/course-structure/pg/economics-banking-msc/
+         https://www.coventry.ac.uk/london/course-structure/pg/finance-mba/
+         https://www.coventry.ac.uk/london/course-structure/pg/financial-technology-fintech-msc/
+   17  www.coventry.ac.uk/course-structure/pg/shc
+         https://www.coventry.ac.uk/course-structure/pg/shc/adult-nursing-pre-registration-msc/
+         https://www.coventry.ac.uk/course-structure/pg/shc/advanced-clinical-practice-msc/
+         https://www.coventry.ac.uk/course-structure/pg/shc/children-and-young-peoples-nursing-pre-registration-msc/
+         https://www.coventry.ac.uk/course-structure/pg/shc/critical-care-nursing-pg-cert/
+   16  www.coventry.ac.uk/study-at-coventry/undergraduate-study/undergraduate-subjects
+         https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/undergraduate-subjects/engineering-construction/
+         https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/undergraduate-subjects/sustainability-geography-environment/
+         https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/undergraduate-subjects/history-politics-philosophy-international-relations/
+         https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/undergraduate-subjects/mathematics-physics-and-data-science/
+   14  www.coventry.ac.uk/blog
+         https://www.coventry.ac.uk/blog/my-experiences-of-studying-for-a-masters-in-biomedical-science/
+         https://www.coventry.ac.uk/blog/securing-the-future-my-cybersecurity-msc-experience-at-coventry-university/
+         https://www.coventry.ac.uk/blog/missed-the-march-deadline-heres-how-to-start-your-masters-in-may-instead/
+         https://www.coventry.ac.uk/blog/mastering-the-game-my-coventry-university-experience-as-a-future-sports-manager/
+   13  www.coventry.ac.uk/study-at-coventry/postgraduate-study
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/supporting-you/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/global-professional-development-module/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/why-study-a-pg-degree/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/subject-areas/
+   12  www.coventry.ac.uk/research/about-us/research-events
+         https://www.coventry.ac.uk/research/about-us/research-events/2023/agroecology-water-and-food-sovereignty-msc-virtual-open-day/
+         https://www.coventry.ac.uk/research/about-us/research-events/2020/city-of-culture-post-graduate-symposium/
+         https://www.coventry.ac.uk/research/about-us/research-events/2018/the-big-question-what-has-grenfell-tower-taught-us-about-housing-racism-and-social-justice/
+         https://www.coventry.ac.uk/research/about-us/research-events/2021/global-diversity-governance-pgt-taster-event/
+   12  www.coventry.ac.uk/research/about-us/research-news
+         https://www.coventry.ac.uk/research/about-us/research-news/2020/coventry-university-shortlisted-for-two-2020-postgrad-awards/
+         https://www.coventry.ac.uk/research/about-us/research-news/2021/first-postgraduate-researcher-completes-phd-through-stellenbosch-cotutelle-programme/
+         https://www.coventry.ac.uk/research/about-us/research-news/2022/from-undergraduate-to-coventry-universitys-postgraduate-researcher-of-the-year-for-2022/
+         https://www.coventry.ac.uk/research/about-us/research-news/2024/sports-injury-candidate-theresa-heering-awarded-universitys-postgraduate-researcher-of-the-year-2024/
+   12  www.coventry.ac.uk/study-at-coventry/postgraduate-study/subject-areas
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/subject-areas/sustainability-energy-environment/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/subject-areas/international-relations-politics-and-society/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/subject-areas/psychology-social-sciences/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/subject-areas/emergency-mgt-public-safety-resilience/
+   11  www.coventry.ac.uk/cul/course-structure/undergraduate
+         https://www.coventry.ac.uk/cul/course-structure/undergraduate/science/
+         https://www.coventry.ac.uk/cul/course-structure/undergraduate/cloud-computing-bsc-hons/
+         https://www.coventry.ac.uk/cul/course-structure/undergraduate/management/
+         https://www.coventry.ac.uk/cul/course-structure/undergraduate/law/
+    5  www.coventry.ac.uk/study-at-coventry/apply-now
+         https://www.coventry.ac.uk/study-at-coventry/apply-now/postgraduate-application-requirements/
+         https://www.coventry.ac.uk/study-at-coventry/apply-now/undergraduate-acceptance-form/
+         https://www.coventry.ac.uk/study-at-coventry/apply-now/undergraduate/
+         https://www.coventry.ac.uk/study-at-coventry/apply-now/postgraduate/
+    5  www.coventry.ac.uk/study-at-coventry/undergraduate-study
+         https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/integrated-masters/
+         https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/course-finder/
+         https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/a-parents-guide-helping-your-young-person-choose-the-right-university/
+         https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/undergraduate-subjects/
+    5  www.coventry.ac.uk/primary-news
+         https://www.coventry.ac.uk/primary-news/coventry-design-graduate-excels-in-dragons-den-style-car-awards-/
+         https://www.coventry.ac.uk/primary-news/coventry-university-to-launch-mba-in-cyber-security-leadership/
+         https://www.coventry.ac.uk/primary-news/coventry-university-paramedic-graduates-star-in-bbc-show/
+         https://www.coventry.ac.uk/primary-news/aviation-students-follow-in-the-footsteps-of-coventry-graduate/
+    4  www.coventry.ac.uk/news/2025
+         https://www.coventry.ac.uk/news/2025/career-change-leads-to-daisy-award-nomination-for-compassionate-coventry-university-graduate/
+         https://www.coventry.ac.uk/news/2025/Coventry-university-games-studio-development-masters/
+         https://www.coventry.ac.uk/news/2025/coventry-university-group-ptes-postgraduate-survey-2025/
+         https://www.coventry.ac.uk/news/2025/first-graduates-celebrate-degrees-at-coventry-universitys-joint-institution-in-hainan/
+    4  www.coventry.ac.uk/news/2026
+         https://www.coventry.ac.uk/news/2026/coventry-university-graduate-wins-plaudits-and-a-job-thanks-to-his-revolutionary-car-design/
+         https://www.coventry.ac.uk/news/2026/coventry-university-graduate-wins-dragons-den-style-competition-to-help-develop-pet-sitter-vetting-platform/
+         https://www.coventry.ac.uk/news/2026/dot-dot-dot-graduate-festival-2026/
+         https://www.coventry.ac.uk/news/2026/coventry-university-graduates-celebrate-remarkable-60-year-reunion/
+    3  www.coventry.ac.uk/study-at-coventry/colleges-and-schools/business-and-law
+         https://www.coventry.ac.uk/study-at-coventry/colleges-and-schools/business-and-law/employability/undergraduate-support/
+         https://www.coventry.ac.uk/study-at-coventry/colleges-and-schools/business-and-law/employability/postgraduate-support/
+         https://www.coventry.ac.uk/study-at-coventry/colleges-and-schools/business-and-law/employability/postgraduate-consultancy-projects/
+    3  www.coventry.ac.uk/study-at-coventry/postgraduate-study/fees-and-funding
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/fees-and-funding/funding-your-postgraduate-course/aziz-foundation-scholarships/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/fees-and-funding/postgraduate-fees/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/fees-and-funding/funding-your-postgraduate-course/
+    3  www.coventry.ac.uk/research/about-us/researchnews
+         https://www.coventry.ac.uk/research/about-us/researchnews/2018/postgraduate-researcher-of-the-year/
+         https://www.coventry.ac.uk/research/about-us/researchnews/2016/postgraduate-research-symposium/
+         https://www.coventry.ac.uk/research/about-us/researchnews/2020/molly-browne-wins-postgraduate-researcher-of-the-year-2020/
+    3  www.coventry.ac.uk/news/2023
+         https://www.coventry.ac.uk/news/2023/refugee-ukraine-war-graduating-psychology-masters-coventry-university/
+         https://www.coventry.ac.uk/news/2023/every-cu-scarborough-nursing-graduate-secures-local-work/
+         https://www.coventry.ac.uk/news/2023/coventry-engineering-graduate-receives-prestigious-award-from-prime-minister/
+    3  www.coventry.ac.uk/news/2022
+         https://www.coventry.ac.uk/news/2022/coventry-universitys-collaboration-with-aston-martin-yields-new-degree-apprentice-graduates/
+         https://www.coventry.ac.uk/news/2022/coventry-university-teams-up-with-cii-for-post-graduate-qualification/
+         https://www.coventry.ac.uk/news/2022/graduate-creates-app-to-help-young-people-find-freelance-work/
+    3  www.coventry.ac.uk/study-at-coventry
+         https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/
+         https://www.coventry.ac.uk/study-at-coventry/postgraduate-study/
+         https://www.coventry.ac.uk/study-at-coventry/coventry-university-launches-postgraduate-conversion-course-in-data-science/
+    3  www.coventry.ac.uk/london/primary-news
+         https://www.coventry.ac.uk/london/primary-news/university-gains-nine-acca-exemption-accreditations-on-msc-professional-accounting-course/
+         https://www.coventry.ac.uk/london/primary-news/malaysian-movie-star-joey-leong-to-graduate-from-uk-university/
+         https://www.coventry.ac.uk/london/primary-news/new-mba-hospitality-and-tourism-management/

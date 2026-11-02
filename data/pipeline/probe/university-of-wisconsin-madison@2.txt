@@ -1,0 +1,61 @@
+# university-of-wisconsin-madison@2 https://grad.wisc.edu
+robots sitemaps: https://grad.wisc.edu/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://grad.wisc.edu/wp-sitemap.xml: 6 children (1 course-like)
+sitemaps read 7 · urls 657 · master's-looking 132
+   17  grad.wisc.edu/tag
+         https://grad.wisc.edu/tag/graduate-programs/
+         https://grad.wisc.edu/tag/bouchet-graduate-honor-society/
+         https://grad.wisc.edu/tag/graduate-school-data/
+         https://grad.wisc.edu/tag/graduate-research/
+    2  grad.wisc.edu/academics
+         https://grad.wisc.edu/academics/masters-guide/
+         https://grad.wisc.edu/academics/graduate-student-tracking-system/
+    2  grad.wisc.edu/data
+         https://grad.wisc.edu/data/graduate-student-funding-data/
+         https://grad.wisc.edu/data/graduate-admissions-enrollment-data/
+    2  grad.wisc.edu/2023/08/02
+         https://grad.wisc.edu/2023/08/02/graduate-school-publishes-2022-23-annual-report-introduces-five-year-strategic-plan/
+         https://grad.wisc.edu/2023/08/02/graduate-school-strategic-plan-2023-2028/
+    2  engineering.wisc.edu/blog
+         https://engineering.wisc.edu/blog/mse-phd-student-christopher-blackwell-selected-for-doe-graduate-research-program/
+         https://engineering.wisc.edu/blog/graduate-student-abigail-cordiner-navigates-dyslexia-in-science/
+    1  grad.wisc.edu/current-students
+         https://grad.wisc.edu/current-students/graduate-research-scholars/
+    1  grad.wisc.edu/funding
+         https://grad.wisc.edu/funding/graduate-assistantships/
+    1  grad.wisc.edu/graduate-program-resources
+         https://grad.wisc.edu/graduate-program-resources/
+    1  grad.wisc.edu/funding/graduate-assistantships
+         https://grad.wisc.edu/funding/graduate-assistantships/investing/
+    1  grad.wisc.edu/explore
+         https://grad.wisc.edu/explore/pay-for-graduate-school/
+    1  grad.wisc.edu/about
+         https://grad.wisc.edu/about/graduate-school-annual-report/
+    1  grad.wisc.edu/2017/09/27
+         https://grad.wisc.edu/2017/09/27/graduate-student-organization-promotes-science-policy-advocacy/
+    1  news.wisc.edu/uw-madison-graduate-programs-ranked-high-by-u-s-news-2018
+         https://news.wisc.edu/uw-madison-graduate-programs-ranked-high-by-u-s-news-2018/
+    1  grad.wisc.edu/2018/03/28
+         https://grad.wisc.edu/2018/03/28/graduate-school-explorer/
+    1  grad.wisc.edu/2018/04/05
+         https://grad.wisc.edu/2018/04/05/nsf-graduate-research-fellowship/
+    1  grad.wisc.edu/2018/04/25
+         https://grad.wisc.edu/2018/04/25/astronomy-masters-student-launches-career-in-science-writing-with-prestigious-communication-programs/
+    1  grad.wisc.edu/2018/06/21
+         https://grad.wisc.edu/2018/06/21/graduate-career-conference-2018/
+    1  grad.wisc.edu/2018/07/09
+         https://grad.wisc.edu/2018/07/09/announcing-uw2020-graduate-student-profiles/
+    1  grad.wisc.edu/2018/08/31
+         https://grad.wisc.edu/2018/08/31/new-position-to-support-graduate-students-on-campus/
+    1  grad.wisc.edu/2018/09/17
+         https://grad.wisc.edu/2018/09/17/1-million-in-support-for-research-conference-presentation-travel-available-to-graduate-students-this-year/
+    1  grad.wisc.edu/2018/09/24
+         https://grad.wisc.edu/2018/09/24/wiscience-receives-innovations-in-graduate-education-grant/
+    1  grad.wisc.edu/2018/09/25
+         https://grad.wisc.edu/2018/09/25/graduate-school-releases-annual-report/
+    1  grad.wisc.edu/2018/10/10
+         https://grad.wisc.edu/2018/10/10/graduate-student-returns-to-his-roots-in-eagle-heights-community/
+    1  grad.wisc.edu/2018/11/09
+         https://grad.wisc.edu/2018/11/09/graduate-students-gain-valuable-networking-presentation-opportunities-at-fall-conferences/
+    1  news.wisc.edu/uw-to-fund-science-journalism-fellowship-for-graduate-student
+         https://news.wisc.edu/uw-to-fund-science-journalism-fellowship-for-graduate-student/

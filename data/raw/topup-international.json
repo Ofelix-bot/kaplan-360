@@ -1,0 +1,1479 @@
+{
+ "note": "Study modes read from each programme's official page. A Student's Pass needs full-time study, so a part-time-only programme is not open to Student's Pass holders. Murdoch single majors at Kaplan are local only; Kaplan offers them to international applicants as double majors (full-time).",
+ "ica": {
+  "url": "https://www.ica.gov.sg/reside/STP/apply",
+  "quotes": [
+   "To apply for a Student’s Pass, you must be accepted into an approved full-time course in Singapore.",
+   "Part-time courses and courses conducted in the evening or on weekends are not eligible."
+  ],
+  "checked": "2026-10-26"
+ },
+ "builtAt": "2026-10-20",
+ "verdicts": [
+  {
+   "id": "curtin-singapore-finance",
+   "mode": "full-time",
+   "quote": "Study mode · Full-time or part-time · Tuition fee for international students",
+   "url": "https://www.curtin.edu.sg/courses/undergraduate/bachelor-of-commerce/finance/",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "curtin-singapore-management-and-human-resource-management",
+   "mode": "full-time",
+   "quote": "Study mode · Full-time or part-time · Tuition fee for international students",
+   "url": "https://www.curtin.edu.sg/courses/undergraduate/bachelor-of-commerce/management-and-human-resource-management/",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-ba-hons-business-administration-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-arts-honours-business-administration-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-ba-hons-in-international-business-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-arts-honours-in-international-business-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-ba-hons-international-marketing-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-arts-honours-international-marketing-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-ba-with-honours-digital-marketing-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-arts-with-honours-digital-marketing-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-bachelor-of-laws-honours-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-laws-honours-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-bsc-with-honours-computer-science-global-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-science-with-honours-computer-science-global-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-bsc-with-honours-computer-science-with-artificial-intelligence-global-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-science-with-honours-computer-science-with-artificial-intelligence-global-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-bsc-with-honours-construction-management-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-science-with-honours-construction-management-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-bsc-with-honours-cyber-security-global-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-science-with-honours-cyber-security-global-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "bcu-bsc-with-honours-digital-forensics-global-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-science-with-honours-digital-forensics-global-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "monash-bachelor-of-education-in-early-childhood-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-education-early-childhood-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-accounting",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-accounting-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-banking",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-banking-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-business-law",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-business-law-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-finance",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-finance-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-hospitality-and-tourism-management",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-hospitality-and-tourism-management-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-human-resources-management",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-human-resources-management-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-international-business",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-international-business-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-management",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-management-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-business-in-marketing",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-marketing-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-communication-in-strategic-communication",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-strategic-communication-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-data-analytics-in-business-intelligence",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-data-analytics-in-business-intelligence",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-business-information-systems",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-business-information-systems-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-computer-science",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-computer-science-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-cyber-security-and-forensics",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-cyber-security-and-forensics-single-major",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "murdoch-bachelor-of-information-technology-in-games-design-and-development",
+   "mode": "local-only",
+   "quote": "Part-time (Local Applicants only) Full-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-games-design-and-development",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "northumbria-ba-hons-in-childhood-and-early-years-studies-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-arts-honours-in-childhood-and-early-years-studies-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "northumbria-ba-hons-in-guidance-and-counselling-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-arts-honours-guidance-and-counselling-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "northumbria-bachelor-of-science-nursing-top-up-for-registered-nurses",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-science-nursing-course-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "portsmouth-bsc-with-honours-in-psychology-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time (Local Applicants only)",
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-science-with-honours-in-psychology-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "psb-academy-bachelor-of-arts-business-management-top-up",
+   "mode": "part-time-only",
+   "quote": "Study Modes Full-Time* / Part-Time *Mode currently unavailable",
+   "url": "https://www.psb-academy.edu.sg/edinburgh-napier-university/bachelor-of-arts-business-management-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "psb-academy-bachelor-of-arts-honours-business-administration-top-up",
+   "mode": "part-time-only",
+   "quote": "Study Modes Part-Time",
+   "url": "https://www.psb-academy.edu.sg/university-of-hertfordshire/bachelor-of-arts-honours-business-administration-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "psb-academy-bachelor-of-arts-honours-business-management-with-logistics",
+   "mode": "full-time",
+   "quote": "Study Modes Full-Time and Part-Time",
+   "url": "https://www.psb-academy.edu.sg/university-of-hertfordshire/bachelor-of-arts-honours-business-management-with-logistics",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "psb-academy-bachelor-of-engineering-with-honours-in-electrical-and-electronic-engineering",
+   "mode": "full-time",
+   "quote": "Study Modes Full-Time/ Part-Time",
+   "url": "https://www.psb-academy.edu.sg/coventry-university/bachelor-of-engineering-with-honours-in-electrical-and-electronic-engineering",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "psb-academy-bachelor-of-engineering-with-honours-in-electro-mechanical-engineering",
+   "mode": "part-time-only",
+   "quote": "Study Modes Full-Time*/ Part-Time *Mode currently unavailable",
+   "url": "https://www.psb-academy.edu.sg/coventry-university/bachelor-of-engineering-with-honours-in-electro-mechanical-engineering",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "psb-academy-bachelor-of-nursing-top-up",
+   "mode": "part-time-only",
+   "quote": "Study Mode Part Time",
+   "url": "https://www.psb-academy.edu.sg/la-trobe-university/bachelor-of-nursing-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "psb-academy-bachelor-of-science-honours-diagnostic-radiography-and-imaging",
+   "mode": "full-time",
+   "quote": "Study Modes Full-Time",
+   "url": "https://www.psb-academy.edu.sg/university-of-hertfordshire/bachelor-of-science-honours-diagnostic-radiography-and-imaging",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "psb-academy-bachelor-of-science-sport-and-exercise-science-top-up",
+   "mode": "part-time-only",
+   "quote": "Study Modes Full-Time* / Part-Time *Mode currently unavailable",
+   "url": "https://www.psb-academy.edu.sg/edinburgh-napier-university/bachelor-of-science-sport-and-exercise-science-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-applied-science-aviation-top-up",
+   "mode": "part-time-only",
+   "quote": "Part-time, 1.5 to 2.5 years",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-applied-science-aviation-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-arts-communication",
+   "mode": "full-time",
+   "quote": "Full-time, 3 years",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-arts-communication",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-arts-communication-and-international-trade",
+   "mode": "full-time",
+   "quote": "Full-time, 4 years",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-arts-communication-and-international-trade",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-arts-economics-and-psychology",
+   "mode": "full-time",
+   "quote": "Full-time, 4 years",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-arts-economics-and-psychology",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-arts-sociology",
+   "mode": "full-time",
+   "quote": "Full-time, 3 years",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-arts-sociology",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-business",
+   "mode": "full-time",
+   "quote": "Full-time & Part-time, (Full-time, 1.5 - 3 years | Part-time, 2 - 3 years)",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-business",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-computer-science-artificial-intelligence-and-big-data",
+   "mode": "full-time",
+   "quote": "Full-time & Part-time, (Full-time, 3 years | Part-time, 3 years)",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-computer-science-artificial-intelligence-and-big-data",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-graphic-design-top-up",
+   "mode": "full-time",
+   "quote": "Full-time, 1 year",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-graphic-design-top-up",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-information-technology",
+   "mode": "part-time-only",
+   "quote": "Part-time, 3 years",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-information-technology",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-nursing-honours",
+   "mode": "part-time-only",
+   "quote": "Part-time, 2 years",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-nursing-honours",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-nursing-post-registration",
+   "mode": "part-time-only",
+   "quote": "Part-time, 1 to 2 years",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-nursing-post-registration",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-professional-communication",
+   "mode": "full-time",
+   "quote": "Full-time, 12 to 24 months",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-professional-communication",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-psychological-science",
+   "mode": "full-time",
+   "quote": "Full-time & Part-time, 3 years | (Part-time study is not open for applications)",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-psychological-science",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-science-geographic-information-science",
+   "mode": "full-time",
+   "quote": "Full-time, 3&#x202F;years&#x202F;",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-science-geographic-information-science",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-science-honours-in-computer-science-user-experience",
+   "mode": "full-time",
+   "quote": "Full-time, (Full-time, 3 years | Part-time, 3 years | Part-time study not open for applications)",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-science-honours-computer-science-user-experience",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-science-honours-in-computer-science-web-and-mobile-development",
+   "mode": "full-time",
+   "quote": "Full-time & Part-time, (Full-time, 3 years | Part-time, 3 years | Part-time study not open for applications)",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-science-honours-computer-science-web-and-mobile-development",
+   "checked": "2026-10-20"
+  },
+  {
+   "id": "sim-bachelor-of-science-honours-in-international-relations",
+   "mode": "full-time",
+   "quote": "Full-time, (Full-time, 3 years | Part-time, 3 years | Part-time study not open for applications)",
+   "url": "https://www.sim.edu.sg/degrees-diplomas/programmes/programme-listing/bachelor-of-science-honours-international-relations",
+   "checked": "2026-10-20"
+  }
+ ],
+ "murdochDoubleMajors": [
+  {
+   "name": "Bachelor of Business in Accounting and Banking (Double Major)",
+   "majors": [
+    "Accounting",
+    "Banking"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-in-business-accounting-and-banking-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Accounting and Business Law (Double Major)",
+   "majors": [
+    "Business Law",
+    "Accounting"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-accounting-and-business-law-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Accounting and Criminology (Double Major)",
+   "majors": [
+    "Criminology",
+    "Accounting"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-accounting-and-criminology-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$36,318.80 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Accounting and Finance (Double Major)",
+   "majors": [
+    "Accounting",
+    "Finance"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-accounting-and-finance-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Accounting and FinTech (Double Major)",
+   "majors": [
+    "Accounting",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-business-in-accounting-and-fintech",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Accounting and Human Resources Management (Double Major)",
+   "majors": [
+    "Human Resources Management",
+    "Accounting"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-accounting-and-human-resources-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Accounting and International Business (Double Major)",
+   "majors": [
+    "International Business",
+    "Accounting"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-accounting-and-international-business-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Accounting and Management (Double Major)",
+   "majors": [
+    "Accounting",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-accounting-and-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$36,318.80 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Accounting and Marketing (Double Major)",
+   "majors": [
+    "Accounting",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-accounting-and-marketing-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$36,318.80 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Banking and Business Law (Double Major)",
+   "majors": [
+    "Business Law",
+    "Banking"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-banking-and-business-law-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Banking and Finance (Double Major)",
+   "majors": [
+    "Banking",
+    "Finance"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-banking-and-finance-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Banking and FinTech (Double Major)",
+   "majors": [
+    "Banking",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-business-in-banking-and-fintech",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Banking and International Business (Double Major)",
+   "majors": [
+    "International Business",
+    "Banking"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-banking-and-international-business-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Banking and Management (Double Major)",
+   "majors": [
+    "Management",
+    "Banking"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-banking-and-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Business Law and Criminology (Double Major)",
+   "majors": [
+    "Business Law",
+    "Criminology"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-business-law-and-criminology-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Finance and Business Law (Double Major)",
+   "majors": [
+    "Business Law",
+    "Finance"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-finance-and-business-law-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Finance and Criminology (Double Major)",
+   "majors": [
+    "Criminology",
+    "Finance"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-finance-and-criminology-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Finance and FinTech (Double Major)",
+   "majors": [
+    "Finance",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-business-in-finance-and-fintech",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Finance and Management (Double Major)",
+   "majors": [
+    "Management",
+    "Finance"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-finance-and-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Finance and Marketing (Double Major)",
+   "majors": [
+    "Marketing",
+    "Finance"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-finance-and-marketing-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Hospitality and Tourism Management and Digital Communication (Double Major)",
+   "majors": [
+    "Hospitality and Tourism Management",
+    "Digital Communication"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-hospitality-and-tourism-management-and-digital-communication",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Hospitality and Tourism Management and Human Resources Management (Double Major)",
+   "majors": [
+    "Hospitality and Tourism Management",
+    "Human Resources Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-hospitality-and-tourism-management-and-human-resources-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Hospitality and Tourism Management and Management (Double Major)",
+   "majors": [
+    "Hospitality and Tourism Management",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-business-hospitality-and-tourism-management-and",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Hospitality and Tourism Management and Marketing (Double Major)",
+   "majors": [
+    "Hospitality and Tourism Management",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-hospitality-and-tourism-management-and-marketing-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Hospitality and Tourism Management and Tourism and Events (Double Major)",
+   "majors": [
+    "Hospitality and Tourism Management",
+    "Tourism and Events"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-business-hospitality-and-tourism-management-and-tourism-and-events-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Human Resources Management and Business Law (Double Major)",
+   "majors": [
+    "Human Resources Management",
+    "Business Law"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-human-resources-management-and-business-law-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Human Resources Management and Criminology (Double Major)",
+   "majors": [
+    "Human Resources Management",
+    "Criminology"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-human-resources-management-and-criminology-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Human Resources Management and Finance (Double Major)",
+   "majors": [
+    "Human Resources Management",
+    "Finance"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-human-resources-management-and-finance-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Human Resources Management and Management (Double Major)",
+   "majors": [
+    "Human Resources Management",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-human-resources-management-and-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Human Resources Management and Marketing (Double Major)",
+   "majors": [
+    "Human Resources Management",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-human-resources-management-and-marketing-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Human Resources Management and Strategic Communication (Double Major)",
+   "majors": [
+    "Human Resources Management",
+    "Strategic Communication"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-human-resources-management-and-strategic-communication-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in International Business and Business Law (Double Major)",
+   "majors": [
+    "International Business",
+    "Business Law"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-international-business-and-business-law-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in International Business and Cyber Security and Forensics (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "International Business"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-international-business-and-cyber-security-and-forensics-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in International Business and Digital Communication (Double Major)",
+   "majors": [
+    "Digital Communication",
+    "International Business"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-international-business-and-digital-communication",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in International Business and Finance (Double Major)",
+   "majors": [
+    "International Business",
+    "Finance"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-international-business-and-finance-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in International Business and Human Resources Management (Double Major)",
+   "majors": [
+    "Human Resources Management",
+    "International Business"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-international-business-and-human-resources-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in International Business and Management (Double Major)",
+   "majors": [
+    "International Business",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-international-business-and-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in International Business and Marketing (Double Major)",
+   "majors": [
+    "International Business",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-international-business-and-marketing-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Management and Business Law (Double Major)",
+   "majors": [
+    "Business Law",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-management-and-business-law-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Management and Communication and Media Studies (Double Major)",
+   "majors": [
+    "Communication and Media Studies",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-management-and-communication-and-media-studies",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Management and Criminology (Double Major)",
+   "majors": [
+    "Criminology",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-management-and-criminology-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Management and International Business (Double Major)",
+   "majors": [
+    "International Business",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-management-and-international-business-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Management and Marketing (Double Major)",
+   "majors": [
+    "Management",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-management-and-marketing-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Management and Strategic Communication (Double Major)",
+   "majors": [
+    "Strategic Communication",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-management-and-strategic-communication-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Management and Tourism and Events (Double Major)",
+   "majors": [
+    "Tourism and Events",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-management-and-tourism-and-events-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Marketing and Business Law (Double Major)",
+   "majors": [
+    "Business Law",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-marketing-and-business-law-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Marketing and Communication and Media Studies (Double Major)",
+   "majors": [
+    "Communication and Media Studies",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-marketing-and-communication-and-media-studies",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Marketing and Digital Communication (Double Major)",
+   "majors": [
+    "Digital Communication",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-marketing-and-digital-communication",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Marketing and International Business (Double Major)",
+   "majors": [
+    "International Business",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-marketing-and-international-business-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Marketing and Strategic Communication (Double Major)",
+   "majors": [
+    "Strategic Communication",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-marketing-and-strategic-communication-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Business in Marketing and Tourism and Events (Double Major)",
+   "majors": [
+    "Tourism and Events",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-business-in-marketing-and-tourism-and-events-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Communication and Media Studies and Digital Communication (Double Major)",
+   "majors": [
+    "Communication and Media Studies",
+    "Digital Communication"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-communication-and-media-studies-and-digital-communication",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Communication and Media Studies and Marketing (Double Major)",
+   "majors": [
+    "Communication and Media Studies",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-communication-and-media-studies-and-marketing",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Communication and Media Studies and Strategic Communication (Double Major)",
+   "majors": [
+    "Communication and Media Studies",
+    "Strategic Communication"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-communication-and-media-studies-and-strategic-communication",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Communication and Media Studies and Tourism and Events (Double Major)",
+   "majors": [
+    "Communication and Media Studies",
+    "Tourism and Events"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-communication-and-media-studies-and-tourism-and-events",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Digital Communication and Management (Double Major)",
+   "majors": [
+    "Digital Communication",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-digital-communication-and-management",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Digital Communication and Marketing (Double Major)",
+   "majors": [
+    "Digital Communication",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-digital-communication-and-marketing",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Digital Communication and Strategic Communication (Double Major)",
+   "majors": [
+    "Strategic Communication",
+    "Digital Communication"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-digital-communication-and-strategic-communication",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Digital Communication and Tourism and Events (Double Major)",
+   "majors": [
+    "Digital Communication",
+    "Tourism and Events"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-digital-communication-and-tourism-and-events",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Strategic Communication and Management (Double Major)",
+   "majors": [
+    "Strategic Communication",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-strategic-communication-and-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$38,455.20 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Communication in Strategic Communication and Marketing (Double Major)",
+   "majors": [
+    "Strategic Communication",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-communication-in-strategic-communication-and-marketing-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$38,455.20 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Data Analytics in Business Intelligence and Artificial Intelligence and Autonomous Systems (Double Major)",
+   "majors": [
+    "Artificial Intelligence and Autonomous Systems",
+    "Business Intelligence"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-data-analytics-in-business-intelligence-and-artificial-intelligence-and-autonomous-systems",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$38,455.20 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Data Analytics in Business Intelligence and Business Information Systems (Double Major)",
+   "majors": [
+    "Business Information Systems",
+    "Business Intelligence"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-data-analytics-in-business-intelligence-and-business-information-systems",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Data Analytics in Data Science and Business Information Systems (Double Major)",
+   "majors": [
+    "Business Information Systems",
+    "Data Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-data-analytics-in-data-science-and-business-information-systems",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Data Analytics in Data Science and Cyber Security and Forensics (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "Data Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-data-analytics-in-data-science-and-cyber-security-and-forensics",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Data Analytics in Data Science and FinTech (Double Major)",
+   "majors": [
+    "Data Science",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-data-analytics-in-data-science-and-fintech",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$36,318.80 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Data Analytics in FinTech and Business Information Systems (Double Major)",
+   "majors": [
+    "Business Information Systems",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-data-analytics-in-fintech-and-business-information-systems",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Data Analytics in FinTech and Cyber Security and Forensics (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-data-analytics-in-fintech-and-cyber-security-and-forensics",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Data Analytics in FinTech and Data Science (Double Major)",
+   "majors": [
+    "Data Science",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-data-analytics-in-fintech-and-data-science",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$36,318.80 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems and Business Information Systems (Double Major)",
+   "majors": [
+    "Artificial Intelligence and Autonomous Systems",
+    "Business Information Systems"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems-and-business-information-systems-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems and Business Intelligence (Double Major)",
+   "majors": [
+    "Artificial Intelligence and Autonomous Systems",
+    "Business Intelligence"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems-and-business-intelligence",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems and Cyber Security and Forensics (Double Major)",
+   "majors": [
+    "Artificial Intelligence and Autonomous Systems",
+    "Cyber Security and Forensics"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems-and-cyber-security-and-forensics-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems and Data Science (Double Major)",
+   "majors": [
+    "Artificial Intelligence and Autonomous Systems",
+    "Data Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems-and-data-science",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$36,318.80 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems and FinTech (Double Major)",
+   "majors": [
+    "Artificial Intelligence and Autonomous Systems",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems-and-fintech",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems and Games Design and Development (Double Major)",
+   "majors": [
+    "Artificial Intelligence and Autonomous Systems",
+    "Games Design and Development"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-artificial-intelligence-and-autonomous-systems-and-games-design-and-development",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Business Information Systems and Business Intelligence (Double Major)",
+   "majors": [
+    "Business Information Systems",
+    "Business Intelligence"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-information-technology-in-business-information-systems-and-business-intelligence",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Business Information Systems and Computer Science (Double Major)",
+   "majors": [
+    "Business Information Systems",
+    "Computer Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-business-information-systems-and-computer-science-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Business Information Systems and FinTech (Double Major)",
+   "majors": [
+    "Business Information Systems",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-information-technology-in-business-information-systems-and-fintech",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Business Information Systems and Management (Double Major)",
+   "majors": [
+    "Business Information Systems",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-business-information-systems-and-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$38,455.20 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Computer Science and Business Information Systems (Double Major)",
+   "majors": [
+    "Business Information Systems",
+    "Computer Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-computer-science-and-business-information-systems-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Computer Science and Business Intelligence (Double Major)",
+   "majors": [
+    "Business Intelligence",
+    "Computer Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-information-technology-in-computer-science-and-business-intelligence",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$38,455.20 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Computer Science and FinTech (Double Major)",
+   "majors": [
+    "Computer Science",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-information-technology-in-computer-science-and-fintech",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Cyber Security and Forensics and Business Information Systems (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "Business Information Systems"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-cyber-security-and-forensics-and-business-information-systems-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Cyber Security and Forensics and Business Intelligence (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "Business Intelligence"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-information-technology-in-cyber-security-and-forensics-and-business-intelligence",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$36,318.80 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Cyber Security and Forensics and Computer Science (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "Computer Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-cyber-security-and-forensics-and-computer-science-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Cyber Security and Forensics and Criminology (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "Criminology"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-cyber-security-and-forensics-and-criminology-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$38,455.20 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Cyber Security and Forensics and FinTech (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "FinTech"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degrees/bachelor-of-information-technology-in-cyber-security-and-forensics-and-fintech",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Cyber Security and Forensics and Management (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-cyber-security-and-forensics-and-management-double-major",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$38,455.20 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Games Design and Development and Computer Science (Double Major)",
+   "majors": [
+    "Games Design and Development",
+    "Computer Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-games-design-and-development-and-computer-science",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Information Technology in Games Design and Development and Cyber Security and Forensics (Double Major)",
+   "majors": [
+    "Cyber Security and Forensics",
+    "Games Design and Development"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-information-technology-in-games-design-and-development-and-cyber-security-and-forensics",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$34,182.40 payable in 2 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Psychology in Psychological Science and Communication and Media Studies (Double Major)",
+   "majors": [
+    "Communication and Media Studies",
+    "Psychological Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-psychology-in-psychological-science-and-communication-and-media-studies",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Psychology in Psychological Science and Criminology (Double Major)",
+   "majors": [
+    "Psychological Science",
+    "Criminology"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-psychology-in-psychological-science-and-criminology",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$40,591.60 payable in 3 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Psychology in Psychological Science and Digital Communication (Double Major)",
+   "majors": [
+    "Digital Communication",
+    "Psychological Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-psychology-in-psychological-science-and-digital-communication",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": null,
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Psychology in Psychological Science and Human Resources Management (Double Major)",
+   "majors": [
+    "Human Resources Management",
+    "Psychological Science"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-psychology-in-psychological-science-and-human-resources-management",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$44,864.40 payable in 3 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Psychology in Psychological Science and Management (Double Major)",
+   "majors": [
+    "Psychological Science",
+    "Management"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-psychology-in-psychological-science-and-management",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$44,864.40 payable in 3 instalments",
+   "checked": "2026-10-20"
+  },
+  {
+   "name": "Bachelor of Psychology in Psychological Science and Marketing (Double Major)",
+   "majors": [
+    "Psychological Science",
+    "Marketing"
+   ],
+   "url": "https://www.kaplan.com.sg/bachelors-degree/bachelor-of-psychology-in-psychological-science-and-marketing",
+   "quote": "Part-time (Local Applicants only) Full-time (Local / International Applicants)",
+   "feeText": "S$44,864.40 payable in 3 instalments",
+   "checked": "2026-10-20"
+  }
+ ],
+ "failures": []
+}

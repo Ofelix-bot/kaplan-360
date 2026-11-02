@@ -1,0 +1,20 @@
+# universite-de-montreal@2 https://admission.umontreal.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://admission.umontreal.ca/sitemap.xml: 16 children (14 course-like)
+sitemaps read 17 · urls 13470 · master's-looking 11
+    4  admission.umontreal.ca/cours-et-horaires/cours
+         https://admission.umontreal.ca/cours-et-horaires/cours/llm-1000/
+         https://admission.umontreal.ca/cours-et-horaires/cours/llm-2000/
+         https://admission.umontreal.ca/cours-et-horaires/cours/llm-1310/
+         https://admission.umontreal.ca/cours-et-horaires/cours/llm-6000/
+    4  admission.umontreal.ca/futur-etudiant/article
+         https://admission.umontreal.ca/futur-etudiant/article/sabrina-calero-future-enseignante-de-francais-si-je-peux-changer-le-monde-a-ma-facon-tant-mieux/
+         https://admission.umontreal.ca/futur-etudiant/article/4-habitudes-de-vie-qui-ont-change-ma-vie-universitaire/
+         https://admission.umontreal.ca/futur-etudiant/article/ma-routine-de-travail-passe-par-le-cafe/
+         https://admission.umontreal.ca/futur-etudiant/article/futurs-etudiants-de-master-et-doctorat-ludem-vient-a-votre-rencontre-en-france/
+    1  admission.umontreal.ca/ma-trousse-de-depart
+         https://admission.umontreal.ca/ma-trousse-de-depart/
+    1  admission.umontreal.ca/ma-trousse-de-depart-1
+         https://admission.umontreal.ca/ma-trousse-de-depart-1/
+    1  admission.umontreal.ca/programmes
+         https://admission.umontreal.ca/programmes/maitrise-en-sciences-de-leducation-ma/

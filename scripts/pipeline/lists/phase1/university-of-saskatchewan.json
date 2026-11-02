@@ -1,0 +1,22 @@
+{
+  "source": "USask CGPS Find a program https://grad.usask.ca/programs/find-a-program.php (programme pages in scope) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://grad.usask.ca/programs/accounting.php",
+    "https://grad.usask.ca/programs/applied-computing.php",
+    "https://grad.usask.ca/programs/applied-economics.php",
+    "https://grad.usask.ca/programs/business-administration.php",
+    "https://grad.usask.ca/programs/computer-science.php",
+    "https://grad.usask.ca/programs/educational-administration.php",
+    "https://grad.usask.ca/programs/educational-psychology-special-education.php",
+    "https://grad.usask.ca/programs/educational-technology-design.php",
+    "https://grad.usask.ca/programs/educational-leadership.php",
+    "https://grad.usask.ca/programs/financial-management.php",
+    "https://grad.usask.ca/programs/law.php",
+    "https://grad.usask.ca/programs/nursing.php",
+    "https://grad.usask.ca/programs/public-administration.php",
+    "https://grad.usask.ca/programs/public-health.php",
+    "https://grad.usask.ca/programs/public-policy.php",
+    "https://grad.usask.ca/programs/economics.php"
+  ]
+}

@@ -1,0 +1,106 @@
+# university-of-western-australia@1 https://www.uwa.edu.au
+robots sitemaps: https://www.uwa.edu.au/sitemap.xml https://www.uwa.edu.au/ias/sitemap.xml https://www.uwa.edu.au/cas/sitemap.xml https://www.uwa.edu.au/news/sitemap.xml https://www.uwa.edu.au/celt/sitemap.xml https://www.uwa.edu.au/cmca/sitemap.xml https://www.uwa.edu.au/ameb/sitemap.xml https://www.uwa.edu.au/lwag/sitemap.xml https://www.uwa.edu.au/poche/sitemap.xml https://www.uwa.edu.au/sport/sitemap.xml https://www.uwa.edu.au/rcswa/sitemap.xml https://www.uwa.edu.au/about/sitemap.xml https://www.uwa.edu.au/csdio/sitemap.xml https://www.uwa.edu.au/study/sitemap.xml https://www.uwa.edu.au/policy/sitemap.xml https://www.uwa.edu.au/search/sitemap.xml https://www.uwa.edu.au/limina/sitemap.xml https://www.uwa.edu.au/albany/sitemap.xml https://www.uwa.edu.au/schools/sitemap.xml https://www.unihall.uwa.edu.au/sitemap.xml https://www.uwa.edu.au/library/sitemap.xml https://www.uwa.edu.au/uwa2030/sitemap.xml https://www.uwa.edu.au/uniprint/sitemap.xml https://www.uwa.edu.au/research/sitemap.xml https://www.uwa.edu.au/students/sitemap.xml https://www.uwa.edu.au/regional/sitemap.xml https://www.uwa.edu.au/unistart/sitemap.xml https://www.uwa.edu.au/theatres/sitemap.xml https://www.uwa.edu.au/child-care/sitemap.xml https://www.uwa.edu.au/masterbrand/sitemap.xml https://www.uwa.edu.au/seek-wisdom/sitemap.xml https://www.uwa.edu.au/uwa-college/sitemap.xml https://www.uwa.edu.au/life-at-uwa/sitemap.xml https://www.uwa.edu.au/uwa-adventure/sitemap.xml https://www.uwa.edu.au/design-system/sitemap.xml https://www.uwa.edu.au/employability/sitemap.xml https://www.uwa.edu.au/berndt-museum/sitemap.xml https://www.uwa.edu.au/marshall-centre/sitemap.xml https://www.uwa.edu.au/podiatry-clinic/sitemap.xml https://www.uwa.edu.au/the-perth-trial/sitemap.xml https://www.uwa.edu.au/giving/bequests/sitemap.xml https://www.uwa.edu.au/oceans-institute/sitemap.xml https://www.uwa.edu.au/grand-challenges/sitemap.xml https://www.uwa.edu.au/sxa-template-site/sitemap.xml https://www.uwa.edu.au/partners-and-community/sitemap.xml https://www.uwa.edu.au/rna-innovation-foundry/sitemap.xml https://www.uwa.edu.au/institutes/public-policy/sitemap.xml https://www.uwa.edu.au/uwa-paediatric-exercise-programs/sitemap.xml https://www.uwa.edu.au/institutes/institute-of-agriculture/sitemap.xml https://www.uwa.edu.au/centre-for-water-and-spatial-science/sitemap.xml https://www.uwa.edu.au/materials-for-international-students/sitemap.xml https://www.uwa.edu.au/digitisation-centre-of-western-australia/sitemap.xml https://www.uwa.edu.au/cardiovascular-epidemiology-research-centre/sitemap.xml https://www.uwa.edu.au/lrf-centre-for-immunology-and-breastfeeding/sitemap.xml https://www.uwa.edu.au/institutes/wa-centre-for-road-safety-research/sitemap.xml https://www.uwa.edu.au/australian-centre-for-rna-therapeutics-in-cancer/sitemap.xml https://www.uwa.edu.au/institute-for-paediatric-perioperative-excellence-at-uwa/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemap https://www.uwa.edu.au/search/sitemap.xml: http HTTP 404
+sitemap https://www.uwa.edu.au/masterbrand/sitemap.xml: robots disallowed by robots.txt: /masterbrand/sitemap.xml
+sitemap https://www.uwa.edu.au/uwa-adventure/sitemap.xml: robots disallowed by robots.txt: /uwa-adventure/sitemap.xml
+sitemap https://www.uwa.edu.au/design-system/sitemap.xml: robots disallowed by robots.txt: /design-system/sitemap.xml
+sitemaps read 57 · urls 9944 · master's-looking 453
+  242  www.uwa.edu.au/sitecore/content/uwafs
+         https://www.uwa.edu.au/sitecore/content/uwafs/home/uwa-plus/micro-credential-starter-orgmind-wellness-blueprint-to-master-work-life-harmony
+         https://www.uwa.edu.au/sitecore/content/uwafs/home/uwa-plus/postgraduate-certificates
+         https://www.uwa.edu.au/sitecore/content/uwafs/home/courses-and-careers/postgraduate
+         https://www.uwa.edu.au/sitecore/content/uwafs/home/courses-and-careers/postgraduate/employer-assistance
+   45  www.uwa.edu.au/sitecore/content/schools
+         https://www.uwa.edu.au/sitecore/content/schools/home/business/events/mba-and-graduate-certificate-information-evening
+         https://www.uwa.edu.au/sitecore/content/schools/home/business/events/mba-strategy-and-leadership-forum-2022
+         https://www.uwa.edu.au/sitecore/content/schools/home/business/events/mba-strategy-and-leadership-forum-2023
+         https://www.uwa.edu.au/sitecore/content/schools/home/business/forms/mba-50th-anniversary-submissions
+   30  www.uwa.edu.au/seek-wisdom/seekers-space/study
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/study/postgraduate
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/study/Undergraduate
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/study/learning-experience/2020/08/How-to-afford-postgrad-study
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/study/learning-experience/2020/09/10-reasons-to-study-a-postgrad-degree
+   24  www.uwa.edu.au/seek-wisdom/seekers-space/beyond-uwa
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/beyond-uwa/graduate-stories
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/beyond-uwa/graduate-stories/2020/05/Next-generation-leaders-kickstarted-by-UWA
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/beyond-uwa/graduate-stories/2020/05/How-you-can-change-the-world
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/beyond-uwa/graduate-stories/2020/10/UWAs-inspiring-Malaysian-graduates-Where-are-they-now
+   21  www.uwa.edu.au/study/scholarship-listing
+         https://www.uwa.edu.au/study/scholarship-listing/muriel-and-colin-ramm-postgraduate-scholarship-in-physics-f514321
+         https://www.uwa.edu.au/study/scholarship-listing/stephen-dornan-scholarship-in-undergraduate-french-studies-f537391
+         https://www.uwa.edu.au/study/scholarship-listing/leon-tauman-memorial-undergraduate-scholarship-f817271
+         https://www.uwa.edu.au/study/scholarship-listing/uwa-fairway-program-graduates-scholarship-f1711041
+   12  www.uwa.edu.au/news/article/2022
+         https://www.uwa.edu.au/news/article/2022/august/farewell-to-david-ireland-three-times-miles-franklin-winner-and-master-of-mosaic-fiction
+         https://www.uwa.edu.au/news/article/2022/august/uwa-graduate-and-school-principal-providing-an-opportunity-for-his-students-to-grow
+         https://www.uwa.edu.au/news/article/2022/august/uwa-students-graduates-and-club-members-compete-in-commonwealth-games
+         https://www.uwa.edu.au/news/article/2022/december/need-for-speed-uwa-graduate-breaks-eskate-record
+   11  www.uwa.edu.au/news/article/2020
+         https://www.uwa.edu.au/news/article/2020/april/farewell-to-our-first-female-engineering-graduate
+         https://www.uwa.edu.au/news/article/2020/april/uwa-graduate-joins-australias-covid-19-frontline-medical-team-in-canberra
+         https://www.uwa.edu.au/news/article/2020/november/uwa-engineering-student-awarded-jcec-postgraduate-research-excellence-award
+         https://www.uwa.edu.au/news/article/2020/october/pharmacy-graduate-connects-generations-during-isolation
+   11  www.uwa.edu.au/seek-wisdom/seekers-space/courses-and-careers
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/courses-and-careers/business-and-commerce/2020/09/Your-MBA-questions-answered
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/courses-and-careers/business-and-commerce/2020/10/What-to-look-for-when-choosing-an-MBA-program
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/courses-and-careers/business-and-commerce/2021/03/A-day-in-the-life-of-a-postgraduate-Marketing-student---Jhanvi
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/courses-and-careers/education/2020/11/Words-of-wisdom-from-teaching-graduates
+    9  www.uwa.edu.au/news/article/2021
+         https://www.uwa.edu.au/news/article/2021/december/2021-wa-jcec-postgraduate-research-competition
+         https://www.uwa.edu.au/news/article/2021/december/year-12-students-given-a-boost-by-fairway-program-graduate
+         https://www.uwa.edu.au/news/article/2021/february/more-graduates-ensure-a-strong-public-health-workforce
+         https://www.uwa.edu.au/news/article/2021/march/first-childrens-university-class-graduates
+    9  www.uwa.edu.au/news/article/2023
+         https://www.uwa.edu.au/news/article/2023/august/masterclass-series-to-dive-deeper-into-nuclear-powered-submarines
+         https://www.uwa.edu.au/news/article/2023/february/uwa-graduate-declan-tingay-trounces-national-record-at-world-athletics-race-walking-tour
+         https://www.uwa.edu.au/news/article/2023/july/graduate-to-head-new-agricultural-research-collaboration
+         https://www.uwa.edu.au/news/article/2023/march/young-professionals-in-agriculture-forum-champions-uwa-graduates-research
+    6  www.uwa.edu.au/about/locations/campus-management
+         https://www.uwa.edu.au/about/locations/campus-management/campus-development/nedlands-masterplan-project
+         https://www.uwa.edu.au/about/locations/campus-management/campus-development/park-avenue-masterplan-project
+         https://www.uwa.edu.au/about/locations/campus-management/campus-planning/2020-uwa-crawley-campus-masterplan
+         https://www.uwa.edu.au/about/locations/campus-management/campus-planning/masterplan-faqs
+    5  www.uwa.edu.au/news/article/2019
+         https://www.uwa.edu.au/news/article/2019/july/uwa-phd-graduate-arman-siahvashi-being-named-as-one-of-australias-most-innovative-engineers
+         https://www.uwa.edu.au/news/article/2019/june/your-mba-questions-answered
+         https://www.uwa.edu.au/news/article/2019/october/uwa-graduate-is-nsws-first-female-government-architect
+         https://www.uwa.edu.au/news/article/2019/september/uwa-business-school-named-highest-ranked-mba-in-the-state
+    4  www.uwa.edu.au/news/article/2024
+         https://www.uwa.edu.au/news/article/2024/june/remembering-uwas-master-of-music-vale-emeritus-professor-david-tunley-1930-2024
+         https://www.uwa.edu.au/news/article/2024/november/two-uwa-graduates-named-2025-john-monash-scholars
+         https://www.uwa.edu.au/news/article/2024/september/future-female-leaders-graduate-from-politics-program
+         https://www.uwa.edu.au/news/article/2024/september/uwa-business-school-mba-ranked-first-in-wa
+    4  www.uwa.edu.au/partners-and-community/convocation/awards-and-honours
+         https://www.uwa.edu.au/partners-and-community/convocation/awards-and-honours/postgraduate-research-travel-awards
+         https://www.uwa.edu.au/partners-and-community/convocation/awards-and-honours/matilda-award/undergraduate-prizes
+         https://www.uwa.edu.au/partners-and-community/convocation/awards-and-honours/postgraduate-research-travel-awards/convocation-awardee-nathaniel-barry
+         https://www.uwa.edu.au/partners-and-community/convocation/awards-and-honours/postgraduate-research-travel-awards/postgraduate-research-travel-award-application-form
+    3  www.uwa.edu.au/about/leadership-and-governance/governance
+         https://www.uwa.edu.au/about/leadership-and-governance/governance/senate/senate-committees/academic-board-and-council/academic-board-standing-committees/board-of-graduate-research-school
+         https://www.uwa.edu.au/about/leadership-and-governance/governance/senate/senate-committees/academic-board-and-council/academic-board-standing-committees/board-of-graduate-research-school/hdr-candidature-committee
+         https://www.uwa.edu.au/about/leadership-and-governance/governance/senate/senate-committees/academic-board-and-council/academic-board-standing-committees/board-of-graduate-research-school/hdr-scholarships-committee
+    2  www.uwa.edu.au/news/feeds
+         https://www.uwa.edu.au/news/feeds/graduate-school-of-education
+         https://www.uwa.edu.au/news/feeds/oceans-graduate-school
+    2  www.uwa.edu.au/news/rss-feeds/tags
+         https://www.uwa.edu.au/news/rss-feeds/tags/graduate-school-of-education
+         https://www.uwa.edu.au/news/rss-feeds/tags/oceans-graduate-school
+    2  www.uwa.edu.au/news/article/2025
+         https://www.uwa.edu.au/news/article/2025/march/new-master-architects-of-the-spider-world-discovered-in-the-kimberley
+         https://www.uwa.edu.au/news/article/2025/september/future-female-leaders-graduate-from-pathways-to-politics-program-in-wa
+    2  www.uwa.edu.au/sitecore/content/university-library
+         https://www.uwa.edu.au/sitecore/content/university-library/home/using-the-library/undergraduate
+         https://www.uwa.edu.au/sitecore/content/university-library/home/using-the-library/postgraduate-coursework
+    2  www.uwa.edu.au/students/graduations
+         https://www.uwa.edu.au/students/graduations/applying-to-graduate
+         https://www.uwa.edu.au/students/graduations/after-you-graduate
+    1  www.uwa.edu.au/graduate-career-ready
+         https://www.uwa.edu.au/graduate-career-ready
+    1  www.uwa.edu.au/news/article/2026
+         https://www.uwa.edu.au/news/article/2026/july/what-has-job-ready-graduates-done-to-postgrad-study
+    1  www.uwa.edu.au/sitecore/content/lwag
+         https://www.uwa.edu.au/sitecore/content/lwag/home/events/cyanotype-masterclass-by-deanna-hitti
+    1  www.uwa.edu.au/seek-wisdom/seekers-space/student-life
+         https://www.uwa.edu.au/seek-wisdom/seekers-space/student-life/getting-started-at-uwa/2024/03/Your-postgraduate-pathway-is-waiting-at-UWA-Open-Day
+    1  www.uwa.edu.au/uwa-college/study
+         https://www.uwa.edu.au/uwa-college/study/pre-masters-program

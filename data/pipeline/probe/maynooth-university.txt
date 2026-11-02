@@ -1,0 +1,129 @@
+# maynooth-university https://www.maynoothuniversity.ie
+robots sitemaps: (none) · crawl-delay: 10 · AI-agent groups: 0
+index https://www.maynoothuniversity.ie/sitemap.xml: 2 children (2 course-like)
+sitemaps read 3 · urls 25035 · master's-looking 2102
+  276  www.maynoothuniversity.ie/news-events
+         https://www.maynoothuniversity.ie/news-events/award-winning-department-law-graduates
+         https://www.maynoothuniversity.ie/news-events/postgraduate-scholarships-launched
+         https://www.maynoothuniversity.ie/news-events/psychology-postgraduate-wins-hea-making-impact-award
+         https://www.maynoothuniversity.ie/news-events/psychology-students-highly-commended-2012-undergraduate-awards
+  243  www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/professional-master-education-primary
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/phd-mathematics-hamilton
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/phd-geocomputation
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/courses/phd-geocomputation-0
+  241  www.maynoothuniversity.ie/research/maynoothworks/news-events
+         https://www.maynoothuniversity.ie/research/maynoothworks/news-events/latest-news/msc-scholarships
+         https://www.maynoothuniversity.ie/research/maynoothworks/news-events/latest-news/31st-october-graduations-msc-gis-and-remote-sensing-msc-climate-change
+         https://www.maynoothuniversity.ie/research/maynoothworks/news-events/latest-news/psychology-postgraduate-francesca-farina-wins-34th-annual-whittaker-award
+         https://www.maynoothuniversity.ie/research/maynoothworks/news-events/latest-news/student-receives-undergraduate-award
+  133  www.maynoothuniversity.ie/daro/our-graduates
+         https://www.maynoothuniversity.ie/daro/our-graduates/grace-bermingham
+         https://www.maynoothuniversity.ie/daro/our-graduates/aodh-n-kelly
+         https://www.maynoothuniversity.ie/daro/our-graduates/geraldine-byrne-nason
+         https://www.maynoothuniversity.ie/daro/our-graduates/serena-ann-fox
+  130  www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/news
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/news/student-wins-national-award-media-arts-sept-2013
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/news/geography-awareness-week-2013-nuim-geography
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/news/cao-information-evenings-0
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/news/launchpad-flag-unveiled
+  124  www.maynoothuniversity.ie/development-and-alumni-relations-office-daro/our-graduates
+         https://www.maynoothuniversity.ie/development-and-alumni-relations-office-daro/our-graduates/ms-gráinne-faller-irish-times-journalist
+         https://www.maynoothuniversity.ie/development-and-alumni-relations-office-daro/our-graduates/cillian-donnelly
+         https://www.maynoothuniversity.ie/development-and-alumni-relations-office-daro/our-graduates/mary-ann-vaughan
+         https://www.maynoothuniversity.ie/development-and-alumni-relations-office-daro/our-graduates/dr-declan-gilmore-kavanagh
+  109  www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/news
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/news/professional-master-education
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/news/masters-students-graduate-october-30-2013
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/news/dr-eoin-flaherty-conferred-his-doctorate
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/news/october-phd-graduations-graduations-30th-october-2013
+   91  www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/b-ed-bachelor-education-primary-teaching
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/b-ed-bachelor-education-primary-teaching-gaeltacht
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/ba-early-childhood-teaching-learning-full-time
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/courses/ba-early-childhood-teaching-learning-flexible
+   72  www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/events
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/events/special-maths-exam-2016
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/events/reserve-defence-forces-armynavy
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/events/entrance-scholarship-awards-ceremony-1
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/events/cvs-make-your-cv-work-you
+   64  www.maynoothuniversity.ie/faculty-arts-humanities/news
+         https://www.maynoothuniversity.ie/faculty-arts-humanities/news/sean-ghaeilge-graduate-student-ccasnc
+         https://www.maynoothuniversity.ie/faculty-arts-humanities/news/nui-maynooth-graduate-elected-member-royal-irish-academy
+         https://www.maynoothuniversity.ie/faculty-arts-humanities/news/2014-undergraduate-awards-shortlists-announced
+         https://www.maynoothuniversity.ie/faculty-arts-humanities/news/maynooth-university-music-research-student-featured-launch-2014-irish-research-council-postgraduate
+   59  www.maynoothuniversity.ie/faculty-arts-humanities/events
+         https://www.maynoothuniversity.ie/faculty-arts-humanities/events/maynooth-classics-seminar-dr-ciaran-mac-bhaird-eudoxus-cnidus-forgotten-master-classical-greek
+         https://www.maynoothuniversity.ie/faculty-arts-humanities/events/seminar-postgraduate-research-students
+         https://www.maynoothuniversity.ie/faculty-arts-humanities/events/seminar-postgraduate-research-students-0
+         https://www.maynoothuniversity.ie/faculty-arts-humanities/events/seminar-postgraduate-research-students-1
+   45  www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/events
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/events/electromagnetic-emissions-compatibility-and-biological-effects
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/events/international-symposium-mapping-spectral-traces-viii-place-wound
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/events/immunology-lunchtime-seminars-8-0
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/events/cancelled-anthropology-seminar-series-11th-october-professor-maria-erikson-baaz
+   39  www.maynoothuniversity.ie/graduate-profiles
+         https://www.maynoothuniversity.ie/graduate-profiles/dr-aisling-kenny
+         https://www.maynoothuniversity.ie/graduate-profiles/david-fitzmaurice
+         https://www.maynoothuniversity.ie/graduate-profiles/eimear-bourke
+         https://www.maynoothuniversity.ie/graduate-profiles/sharon-hickey
+   25  www.maynoothuniversity.ie/study-maynooth/how-apply/undergraduate-applicants
+         https://www.maynoothuniversity.ie/study-maynooth/how-apply/undergraduate-applicants/restricted-courses
+         https://www.maynoothuniversity.ie/study-maynooth/how-apply/undergraduate-applicants/deferral-applicants
+         https://www.maynoothuniversity.ie/study-maynooth/how-apply/undergraduate-applicants/qqi-fetacplc-linked-courses
+         https://www.maynoothuniversity.ie/study-maynooth/how-apply/undergraduate-applicants/mh212-options
+   18  www.maynoothuniversity.ie/graduate-research-academy
+         https://www.maynoothuniversity.ie/graduate-research-academy/graduate-studies-policies
+         https://www.maynoothuniversity.ie/graduate-research-academy/stipend-and-fees-forms-research-students
+         https://www.maynoothuniversity.ie/graduate-research-academy/john-pat-hume-doctoral-awards
+         https://www.maynoothuniversity.ie/graduate-research-academy
+   16  www.maynoothuniversity.ie/faculty-social-sciences/events
+         https://www.maynoothuniversity.ie/faculty-social-sciences/events/masterclass-supporting-unplanned-pregnancy
+         https://www.maynoothuniversity.ie/faculty-social-sciences/events/masterclass-radical-human-ecology-alastair-mcintosh
+         https://www.maynoothuniversity.ie/faculty-social-sciences/events/series-masterclasses-supporting-unplanned-pregnancy-autumn-2016-0
+         https://www.maynoothuniversity.ie/faculty-social-sciences/events/wednesday-14th-march-masterclass-robert-orsi
+   16  www.maynoothuniversity.ie/study-maynooth/undergraduate-studies
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/explore-our-campus
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/open-days
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/news
+         https://www.maynoothuniversity.ie/study-maynooth/undergraduate-studies/events
+   15  www.maynoothuniversity.ie/daro/news
+         https://www.maynoothuniversity.ie/daro/news/conor-oneill-graduate-bba-equine-business-and-newly-appointed-general-manager-limerick-race-course
+         https://www.maynoothuniversity.ie/daro/news/msc-second-level-mathematics-support-sessions-resume-monday-2nd-february
+         https://www.maynoothuniversity.ie/daro/news/maynooth-university-equine-business-graduate-patrick-mullins-talks-about-cheltenham-2015-and-his
+         https://www.maynoothuniversity.ie/daro/news/dr-niall-gilmartin-graduates-0
+   13  www.maynoothuniversity.ie/faculty-social-sciences/news
+         https://www.maynoothuniversity.ie/faculty-social-sciences/news/congratulations-our-september-2013-graduates
+         https://www.maynoothuniversity.ie/faculty-social-sciences/news/msc-hrmhrd-inaugural-class-graduations
+         https://www.maynoothuniversity.ie/faculty-social-sciences/news/minister-joe-costello-launches-3u-msc-humanitarian-logistics-and-emergency-management
+         https://www.maynoothuniversity.ie/faculty-social-sciences/news/celebrating-martin-luther-king-jr-day-sociology-graduate-who-made-difference
+   13  www.maynoothuniversity.ie/graduate-studies/our-graduates
+         https://www.maynoothuniversity.ie/graduate-studies/our-graduates/masters-maynooth
+         https://www.maynoothuniversity.ie/graduate-studies/our-graduates/keith-murray-0
+         https://www.maynoothuniversity.ie/graduate-studies/our-graduates/paula-harte
+         https://www.maynoothuniversity.ie/graduate-studies/our-graduates/jonathan-maycock
+   11  www.maynoothuniversity.ie/study-maynooth/postgraduate-studies
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/conversion-courses
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/turn-your-degree-something-more
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/what-our-students-say
+         https://www.maynoothuniversity.ie/study-maynooth/postgraduate-studies/news
+   10  www.maynoothuniversity.ie/mathematics-and-statistics/undergraduates
+         https://www.maynoothuniversity.ie/mathematics-and-statistics/undergraduates/module-descriptors-201718
+         https://www.maynoothuniversity.ie/mathematics-and-statistics/undergraduates/module-descriptors-201819
+         https://www.maynoothuniversity.ie/mathematics-and-statistics/undergraduates/module-descriptors-201920
+         https://www.maynoothuniversity.ie/mathematics-and-statistics/undergraduates/module-descriptors-202021
+    9  www.maynoothuniversity.ie/node/184/news
+         https://www.maynoothuniversity.ie/node/184/news/mccann-fitzgerald-masters-scholarships-2016
+         https://www.maynoothuniversity.ie/node/184/news/postgraduate-bursaries-10th-north-south-irish-criminology-conference
+         https://www.maynoothuniversity.ie/node/184/news/spur-summer-programme-undergraduate-researchers-2016
+         https://www.maynoothuniversity.ie/node/184/news/phd-candidates-present-papers-griffith-college-dublin-postgraduate-and-early-career-law-conference
+    8  www.maynoothuniversity.ie/graduate-studies
+         https://www.maynoothuniversity.ie/graduate-studies
+         https://www.maynoothuniversity.ie/graduate-studies/postdoctoral-funding
+         https://www.maynoothuniversity.ie/graduate-studies/our-people
+         https://www.maynoothuniversity.ie/graduate-studies/about-us
+    8  www.maynoothuniversity.ie/career-development-centre/events
+         https://www.maynoothuniversity.ie/career-development-centre/events/personal-statements-postgraduate-study-11
+         https://www.maynoothuniversity.ie/career-development-centre/events/gradireland-postgraduate-study-fair-dublin
+         https://www.maynoothuniversity.ie/career-development-centre/events/information-session-dublin-graduate-administrator-opportunities-now-open-eu-institutions
+         https://www.maynoothuniversity.ie/career-development-centre/events/dfa-information-session-dublin-ad5-graduate-level-administrator-positions-available-eu-institutions

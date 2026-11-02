@@ -1,0 +1,11 @@
+# ie-university https://www.ie.edu
+robots sitemaps: https://www.ie.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.ie.edu/sitemap.xml: 15 children (2 course-like)
+sitemaps read 16 · urls 541 · master's-looking 17
+   16  www.ie.edu/our-news
+         https://www.ie.edu/our-news/ie-universitys-ie-alumni-house-new-home-global-network-graduates-185-countries/
+         https://www.ie.edu/our-news/undergraduate-students-are-working-summer-2020/
+         https://www.ie.edu/our-news/ie-master-real-estate-development-accredited-rics/
+         https://www.ie.edu/our-news/ie-school-architecture-design-launches-global-master-real-estate-development-focused-key-innovation-factors-investment-strategies-sustainable-urban-future/
+    1  www.ie.edu/civica/civica-news
+         https://www.ie.edu/civica/civica-news/civica-is-where-global-citizenship-meets-local-impact-executive-master-international-development-students-experience-2024-european-student-assembly/

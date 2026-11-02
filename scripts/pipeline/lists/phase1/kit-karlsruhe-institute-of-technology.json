@@ -1,0 +1,15 @@
+{
+ "source": "KIT master's degree programs list https://www.sle.kit.edu/english/vorstudium/83.php (kept 'Language of instruction: English' only) plus HECTOR School work-integrated M.Sc. list https://www.hectorschool.kit.edu/m-sc-programs.php (English, part-time) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.sle.kit.edu/english/vorstudium/master-computational-data-science.php",
+  "https://www.sle.kit.edu/english/vorstudium/master-computer-science.php",
+  "https://www.sle.kit.edu/english/vorstudium/master-industrial-engineering-management.php",
+  "https://www.hectorschool.kit.edu/master-management-of-product-development.php",
+  "https://www.hectorschool.kit.edu/master-production-and-operations-management.php",
+  "https://www.hectorschool.kit.edu/master-financial-engineering.php",
+  "https://www.hectorschool.kit.edu/master-information-systems-engineering-and-management.php",
+  "https://www.hectorschool.kit.edu/master-energy-engineering-and-management.php",
+  "https://www.hectorschool.kit.edu/master-mobility-systems-engineering-and-management.php"
+ ]
+}

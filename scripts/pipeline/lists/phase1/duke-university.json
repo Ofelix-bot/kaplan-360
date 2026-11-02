@@ -1,0 +1,27 @@
+{
+ "source": "sitemaps (scripts/pipeline/auto-sources.ts)",
+ "retrievedAt": "2026-10-18",
+ "pages": [
+  "https://gradschool.duke.edu/academics/programs-and-degrees/masters-programs",
+  "https://gradschool.duke.edu/academics/programs-degrees/biomedical-engineering-ms",
+  "https://gradschool.duke.edu/academics/programs-degrees/civil-and-environmental-engineering-ms",
+  "https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms",
+  "https://gradschool.duke.edu/academics/programs-degrees/economics-masters",
+  "https://gradschool.duke.edu/academics/programs-degrees/electrical-and-computer-engineering-ms",
+  "https://gradschool.duke.edu/academics/programs-degrees/history-ma",
+  "https://gradschool.duke.edu/academics/programs-degrees/master-arts-teaching",
+  "https://gradschool.duke.edu/academics/programs-degrees/master-fine-arts-dance-embodied-interdisciplinary-praxis",
+  "https://gradschool.duke.edu/academics/programs-degrees/master-fine-arts-experimental-and-documentary-arts",
+  "https://gradschool.duke.edu/academics/programs-degrees/master-interdisciplinary-data-science",
+  "https://gradschool.duke.edu/academics/programs-degrees/materials-science-and-engineering-ms",
+  "https://gradschool.duke.edu/academics/programs-degrees/mechanical-engineering-and-materials-science-ms",
+  "https://gradschool.duke.edu/academics/programs-degrees/medical-physics-ms",
+  "https://gradschool.duke.edu/academics/programs-degrees/political-science-ma",
+  "https://gradschool.duke.edu/academics/programs-degrees/population-health-sciences-ms",
+  "https://gradschool.duke.edu/academics/programs-degrees/religious-studies-ma",
+  "https://gradschool.duke.edu/academics/programs-degrees/statistical-science-ms",
+  "https://gradschool.duke.edu/financial-support/masters-financial-support",
+  "https://gradschool.duke.edu/professional-development/programs/masters-students-resources/past-workshops-masters-students",
+  "https://gradschool.duke.edu/professional-development/programs/professional-development-resources-masters-students"
+ ]
+}

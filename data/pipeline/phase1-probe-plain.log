@@ -1,0 +1,154 @@
+# california-institute-of-technology@2 https://www.gradoffice.caltech.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.gradoffice.caltech.edu/sitemap.xml: robots disallowed by 
+# stanford-university@1 https://www.stanford.edu | robots sitemaps: https://www.stanford.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 27 · master's-looking 0
+# massachusetts-institute-of-technology@1 https://www.mit.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.mit.edu/sitemap.xml: http HTTP 404
+# stanford-university@2 https://gradadmissions.stanford.edu | robots sitemaps: (none) · crawl-delay: 30 · AI-agent groups: 0 | sitemaps read 1 · urls 40 · master's-looking 0
+# university-of-pennsylvania@1 https://www.upenn.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 79 · master's-looking 2
+# cornell-university@1 https://www.cornell.edu | robots sitemaps: (none) · crawl-delay: 6 · AI-agent groups: 0 | sitemaps read 1 · urls 16 · master's-looking 0
+# yale-university@2 https://gsas.yale.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 470 · master's-looking 81
+# yale-university@1 https://www.yale.edu | robots sitemaps: (none) · crawl-delay: 10 · AI-agent groups: 0 | sitemaps read 1 · urls 1069 · master's-looking 16
+# johns-hopkins-university@2 https://e-catalogue.jhu.edu | robots sitemaps: https://e-catalogue.jhu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 1234 · master's-looking 330
+# california-institute-of-technology@1 https://www.caltech.edu | robots sitemaps: https://www.caltech.edu/sitemap.xml · crawl-delay: 10 · AI-agent groups: 0 | sitemaps read 1 · urls 64 · master's-looking 0
+# northwestern-university@1 https://www.northwestern.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.northwestern.edu/sitemap.xml: http HTTP 404
+# university-of-chicago@1 https://www.uchicago.edu | robots sitemaps: https://www.uchicago.edu/sitemap.xml https://www.uchicago.edu/emergency/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 2 · urls 
+# northwestern-university@2 https://www.tgs.northwestern.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 472 · master's-looking 47
+# university-of-california-los-angeles@1 https://www.ucla.edu | robots sitemaps: https://www.ucla.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 114 · master's-looking 3
+# university-of-california-los-angeles@2 https://grad.ucla.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 341 · master's-looking 56
+# harvard-university@2 https://gsas.harvard.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://gsas.harvard.edu/sitemap.xml: 2 children (2 course-like)
+# brown-university@1 https://www.brown.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 4798 · master's-looking 122
+# carnegie-mellon-university@1 https://www.cmu.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 307 · master's-looking 0
+# brown-university@2 https://graduateschool.brown.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 547 · master's-looking 81
+# university-of-texas-at-austin@1 https://www.utexas.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 56 · master's-looking 0
+# duke-university@2 https://gradschool.duke.edu | robots sitemaps: https://gradschool.duke.edu/sitemap/sitemap-0.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 3214 · master's-looking 506
+# university-of-texas-at-austin@2 https://gradschool.utexas.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 872 · master's-looking 252
+# university-of-california-san-diego@1 https://ucsd.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 43 · master's-looking 0
+# university-of-california-berkeley@1 https://www.berkeley.edu | robots sitemaps: https://www.berkeley.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.berkeley.edu/sitemap_index.xml: 6 
+# university-of-illinois-at-urbana-champaign@2 https://grad.illinois.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 1053 · master's-looking 183
+# duke-university@1 https://duke.edu | robots sitemaps: https://www.duke.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.duke.edu/sitemap_index.xml: 2 children (1 course-like)
+# university-of-california-san-diego@2 https://grad.ucsd.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 657 · master's-looking 29
+# pennsylvania-state-university@1 https://www.psu.edu | robots sitemaps: https://www.psu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 1 | sitemaps read 1 · urls 330 · master's-looking 63
+# university-of-washington@1 https://www.washington.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.washington.edu/sitemap.xml: http HTTP 404
+# university-of-washington@2 https://grad.uw.edu | robots sitemaps: https://grad.uw.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 443 · master's-looking 109
+# pennsylvania-state-university@2 https://gradschool.psu.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://gradschool.psu.edu/sitemap.xml: http HTTP 404
+# university-of-illinois-at-urbana-champaign@1 https://illinois.edu | robots sitemaps: https://illinois.edu/sitemaps.xml · crawl-delay: null · AI-agent groups: 0 | index https://illinois.edu/sitemaps.xml: 3 children (1 c
+# rice-university@1 https://www.rice.edu | robots sitemaps: https://www.rice.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 74 · master's-looking 2
+# rice-university@2 https://graduate.rice.edu | robots sitemaps: https://graduate.rice.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 152 · master's-looking 8
+# university-of-wisconsin-madison@1 https://www.wisc.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 34 · master's-looking 0
+# georgia-institute-of-technology@1 https://www.gatech.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.gatech.edu/sitemap.xml: 2 children (2 course-like)
+# university-of-california-berkeley@2 https://grad.berkeley.edu | robots sitemaps: https://grad.berkeley.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://grad.berkeley.edu/sitemap_index.xml:
+# georgia-institute-of-technology@2 https://grad.gatech.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://grad.gatech.edu/sitemap.xml: http HTTP 404
+# university-of-southern-california@2 https://gradadm.usc.edu | robots sitemaps: https://gradadm.usc.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://gradadm.usc.edu/sitemap_index.xml: 1 chi
+# university-of-wisconsin-madison@2 https://grad.wisc.edu | robots sitemaps: https://grad.wisc.edu/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0 | index https://grad.wisc.edu/wp-sitemap.xml: 6 children (1 cours
+# purdue-university@1 https://www.purdue.edu | robots sitemaps: https://www.purdue.edu/sitemap.xml https://www.purdue.edu/science/sitemap.xml · crawl-delay: 3 · AI-agent groups: 0 | sitemaps read 2 · urls 41001 · master'
+# massachusetts-institute-of-technology@2 https://oge.mit.edu | robots sitemaps: https://oge.mit.edu/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0 | index https://oge.mit.edu/wp-sitemap.xml: 22 children (3 cour
+# university-of-southern-california@1 https://www.usc.edu | robots sitemaps: https://www.usc.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.usc.edu/sitemap_index.xml: 6 children (1 cou
+# texas-a-and-m-university@1 https://www.tamu.edu | robots sitemaps: https://www.tamu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 133 · master's-looking 2
+# texas-a-and-m-university@2 https://grad.tamu.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://grad.tamu.edu/sitemap.xml: http HTTP 404
+# arizona-state-university@1 https://www.asu.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 52 · master's-looking 0
+# arizona-state-university@2 https://degrees.asu.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 1663 · master's-looking 836
+# university-of-california-santa-barbara@1 https://www.ucsb.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 147 · master's-looking 9
+# university-of-california-santa-barbara@2 https://www.graddiv.ucsb.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 285 · master's-looking 36
+# michigan-state-university@1 https://msu.edu | robots sitemaps: https://msu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 156 · master's-looking 0
+# michigan-state-university@2 https://grad.msu.edu | robots sitemaps: https://grad.msu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 499 · master's-looking 105
+# emory-university@1 https://www.emory.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 66 · master's-looking 4
+# ohio-state-university@1 https://www.osu.edu | robots sitemaps: https://www.osu.edu/sitemap-frontdoor.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 92 · master's-looking 0
+# ohio-state-university@2 https://gradsch.osu.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 485 · master's-looking 208
+# university-of-california-davis@1 https://www.ucdavis.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.ucdavis.edu/sitemap.xml: 17 children (17 course-like)
+# university-of-florida@2 https://gradschool.ufl.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://gradschool.ufl.edu/sitemap.xml: http HTTP 404
+# university-of-rochester@1 https://www.rochester.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.rochester.edu/sitemap.xml: http HTTP 404
+# university-of-florida@1 https://www.ufl.edu | robots sitemaps: https://www.ufl.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.ufl.edu/sitemap_index.xml: 1 children (1 course-like)
+# university-of-california-irvine@1 https://uci.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 38 · master's-looking 2
+# washington-university-in-st-louis@1 https://wustl.edu | robots sitemaps: https://washu.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://washu.edu/sitemap_index.xml: 11 children (2 course-l
+# university-of-maryland-college-park@2 https://gradschool.umd.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 3 · master's-looking 0
+# vanderbilt-university@1 https://www.vanderbilt.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.vanderbilt.edu/sitemap.xml: 1 children (1 course-like)
+# university-of-virginia@1 https://www.virginia.edu | robots sitemaps: https://www.virginia.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 41 · master's-looking 3
+# university-of-virginia@2 https://graduate.as.virginia.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 355 · master's-looking 55
+# university-of-california-irvine@2 https://grad.uci.edu | robots sitemaps: https://grad.uci.edu/sitemap.xml https://grad.uci.edu/sitemap.rss · crawl-delay: null · AI-agent groups: 0 | index https://grad.uci.edu/sitemap.
+# harvard-university@1 https://www.harvard.edu | robots sitemaps: https://www.harvard.edu/sitemap_index.xml https://www.harvard.edu/president/sitemap_index.xml https://www.harvard.edu/media-relations/sitemap_index.xml ht
+# university-of-north-carolina-chapel-hill@1 https://www.unc.edu | robots sitemaps: https://www.unc.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.unc.edu/sitemap_index.xml: 19 childre
+# university-of-pittsburgh@1 https://www.pitt.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 35 · master's-looking 0
+# dartmouth-college@2 https://graduate.dartmouth.edu | robots sitemaps: (none) · crawl-delay: 10 · AI-agent groups: 0 | sitemap https://graduate.dartmouth.edu/sitemap.xml: http HTTP 404
+# vanderbilt-university@2 https://gradschool.vanderbilt.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://gradschool.vanderbilt.edu/sitemap.xml: 6 children (1 course-like)
+# university-of-notre-dame@1 https://www.nd.edu | robots sitemaps: https://www.nd.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 43 · master's-looking 5
+# university-of-notre-dame@2 https://graduateschool.nd.edu | robots sitemaps: https://graduateschool.nd.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 864 · master's-looking 317
+# university-of-arizona@1 https://www.arizona.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 868 · master's-looking 41
+# dartmouth-college@1 https://home.dartmouth.edu | robots sitemaps: https://home.dartmouth.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | index https://home.dartmouth.edu/sitemap.xml: 2 children (2 course-lik
+# university-of-maryland-college-park@1 https://umd.edu | robots sitemaps: https://umd.edu/sitemaps-1-sitemap.xml · crawl-delay: null · AI-agent groups: 0 | index https://umd.edu/sitemaps-1-sitemap.xml: 11 children (6 co
+# university-of-arizona@2 https://grad.arizona.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 172 · master's-looking 28
+# rutgers-university-new-brunswick@2 https://grad.rutgers.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://grad.rutgers.edu/sitemap.xml: http HTTP 404
+# university-of-colorado-boulder@1 https://www.colorado.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 1416 · master's-looking 44
+# tufts-university@1 https://www.tufts.edu | robots sitemaps: https://www.tufts.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 103 · master's-looking 4
+# university-of-miami@1 https://welcome.miami.edu | robots sitemaps: https://welcome.miami.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 38 · master's-looking 0
+# university-of-miami@2 https://grad.miami.edu | robots sitemaps: https://grad.miami.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 88 · master's-looking 49
+# indiana-university-bloomington@1 https://bloomington.iu.edu | robots sitemaps: https://bloomington.iu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 289 · master's-looking 34
+# indiana-university-bloomington@2 https://graduate.indiana.edu | robots sitemaps: https://graduate.indiana.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 216 · master's-looking 17
+# georgetown-university@2 https://grad.georgetown.edu | robots sitemaps: https://grad.georgetown.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://grad.georgetown.edu/sitemap_index.xml: 6 chi
+# virginia-polytechnic-institute-and-state-university@1 https://vt.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://vt.edu/sitemap.xml: http HTTP 404
+# virginia-polytechnic-institute-and-state-university@2 https://graduateschool.vt.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://graduateschool.vt.edu/sitemap.xml: http HTTP 404
+# university-of-california-riverside@1 https://www.ucr.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 73 · master's-looking 0
+# university-of-california-riverside@2 https://graduate.ucr.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 587 · master's-looking 24
+# university-at-buffalo-suny@1 https://www.buffalo.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.buffalo.edu/sitemap.xml: http HTTP 404
+# georgetown-university@1 https://www.georgetown.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.georgetown.edu/sitemap.xml: 8 children (1 course-like)
+# university-of-illinois-at-chicago@2 https://grad.uic.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://grad.uic.edu/sitemap.xml: 14 children (1 course-like)
+# northeastern-university@2 https://graduate.northeastern.edu | robots sitemaps: https://graduate.northeastern.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0 | index https://graduate.northeastern.edu/site
+# stony-brook-university-state-university-of-new-york@1 https://www.stonybrook.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 20213 · master's-looking 1580
+# university-of-connecticut@2 https://grad.uconn.edu | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://grad.uconn.edu/sitemap.xml: 3 children (1 course-like)
+# chinese-university-of-hong-kong@1 https://www.cuhk.edu.hk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.cuhk.edu.hk/sitemap.xml: http HTTP 404
+# chinese-university-of-hong-kong@2 https://www.gs.cuhk.edu.hk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 476 · master's-looking 198
+# university-of-hong-kong@1 https://www.hku.hk | robots sitemaps: https://www.hku.hk/sitemap-index.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.hku.hk/sitemap-index.xml: 7 children (0 course-like)
+# hong-kong-university-of-science-and-technology@2 https://prog-crs.hkust.edu.hk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://prog-crs.hkust.edu.hk/sitemap.xml: http HTTP 404
+# hong-kong-university-of-science-and-technology@1 https://hkust.edu.hk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://hkust.edu.hk/sitemap.xml: 2 children (0 course-like)
+# city-university-of-hong-kong@1 https://www.cityu.edu.hk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 28959 · master's-looking 711
+# university-of-connecticut@1 https://uconn.edu | robots sitemaps: https://uconn.edu/sitemap.xml https://uconn.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | index https://uconn.edu/sitemap.xml: 6 children (1
+# hong-kong-baptist-university@2 https://gs.hkbu.edu.hk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://gs.hkbu.edu.hk/sitemap.xml: http HTTP 404
+# hong-kong-baptist-university@1 https://www.hkbu.edu.hk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.hkbu.edu.hk/sitemap.xml: http HTTP 404
+# northeastern-university@1 https://www.northeastern.edu | robots sitemaps: https://www.northeastern.edu/sitemap_index.xml · crawl-delay: 10 · AI-agent groups: 0 | index https://www.northeastern.edu/sitemap_index.xml: 10
+# university-of-california-santa-cruz@2 https://graddiv.ucsc.edu | robots sitemaps: https://graduate.ucsc.edu/wp-sitemap.xml · crawl-delay: 30 · AI-agent groups: 0 | index https://graduate.ucsc.edu/wp-sitemap.xml: 3 chil
+# university-of-british-columbia@1 https://www.ubc.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.ubc.ca/sitemap.xml: http HTTP 404
+# university-of-waterloo@1 https://uwaterloo.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 12 · master's-looking 0
+# western-university@1 https://www.uwo.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.uwo.ca/sitemap.xml: http HTTP 404
+# hong-kong-polytechnic-university@1 https://www.polyu.edu.hk | robots sitemaps: https://www.polyu.edu.hk/home.xml https://www.polyu.edu.hk/news-sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.
+# western-university@2 https://grad.uwo.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 254 · master's-looking 8
+# universite-de-montreal@1 https://www.umontreal.ca | robots sitemaps: (none) · crawl-delay: 1 · AI-agent groups: 0 | sitemap https://www.umontreal.ca/sitemap.xml: http HTTP 404
+# university-of-toronto@2 https://www.sgs.utoronto.ca | robots sitemaps: https://www.sgs.utoronto.ca/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.sgs.utoronto.ca/wp-sitemap.xml: 16 children
+# university-of-british-columbia@2 https://www.grad.ubc.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.grad.ubc.ca/sitemap.xml: 2 children (2 course-like)
+# queen-s-university-at-kingston@1 https://www.queensu.ca | robots sitemaps: (none) · crawl-delay: 10 · AI-agent groups: 0 | sitemaps read 1 · urls 15 · master's-looking 0
+# mcmaster-university@1 https://www.mcmaster.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.mcmaster.ca/sitemap.xml: 6 children (6 course-like)
+# university-of-calgary@1 https://www.ucalgary.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 1 · master's-looking 0
+# university-of-north-carolina-chapel-hill@2 https://gradschool.unc.edu | robots sitemaps: https://gradschool.unc.edu/sitemap_index.xml · crawl-delay: 10 · AI-agent groups: 1 | index https://gradschool.unc.edu/sitemap_in
+# university-of-calgary@2 https://grad.ucalgary.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 1223 · master's-looking 214
+# dalhousie-university@1 https://www.dal.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 92 · master's-looking 8
+# simon-fraser-university@1 https://www.sfu.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.sfu.ca/sitemap.xml: http HTTP 404
+# york-university@2 https://futurestudents.yorku.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://futurestudents.yorku.ca/sitemap.xml: http HTTP 404
+# mcmaster-university@2 https://gs.mcmaster.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 1 | index https://gs.mcmaster.ca/sitemap.xml: 19 children (19 course-like)
+# university-of-saskatchewan@1 https://www.usask.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.usask.ca/sitemap.xml: http HTTP 404
+# university-of-saskatchewan@2 https://admissions.usask.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://admissions.usask.ca/sitemap.xml: http HTTP 404
+# concordia-university@1 https://www.concordia.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.concordia.ca/sitemap.xml: http HTTP 404
+# university-of-auckland@1 https://www.auckland.ac.nz | robots sitemaps: https://www.auckland.ac.nz/sitemap-index.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.auckland.ac.nz/sitemap-index.xml: 1 child
+# universite-de-montreal@2 https://admission.umontreal.ca | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://admission.umontreal.ca/sitemap.xml: 16 children (14 course-like)
+# university-of-victoria@1 https://www.uvic.ca | robots sitemaps: https://www.uvic.ca/sitemapindex.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.uvic.ca/sitemapindex.xml: 7 children (0 course-like)
+# victoria-university-of-wellington@1 https://www.wgtn.ac.nz | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.wgtn.ac.nz/sitemap.xml: 3 children (1 course-like)
+# university-of-ottawa@1 https://www.uottawa.ca | robots sitemaps: https://www.uottawa.ca/sitemap.xml https://www.uottawa.ca/about-us/sitemap.xml https://www.uottawa.ca/study/sitemap.xml https://www.uottawa.ca/campus-lif
+# australian-national-university@1 https://programsandcourses.anu.edu.au | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 1 | sitemaps read 1 · urls 0 · master's-looking 0
+# case-western-reserve-university@1 https://case.edu | robots sitemaps: https://case.edu/law/sitemap.xml https://case.edu/academic-careers/sitemap.xml https://case.edu/academicaffairs/sitemap.xml https://case.edu/access-
+# massey-university@1 https://www.massey.ac.nz | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.massey.ac.nz/sitemap.xml: 2 children (0 course-like)
+# university-of-southern-queensland@1 https://www.unisq.edu.au | robots sitemaps: https://www.unisq.edu.au/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 4092 · master's-looking 267
+# central-queensland-university@1 https://www.cqu.edu.au | robots sitemaps: https://www.cqu.edu.au/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 4791 · master's-looking 210
+# curtin-university@1 https://www.curtin.edu.au | robots sitemaps: https://curtin.edu.au/sitemap.xml https://www.curtin.edu.au/about/page-sitemap1.xml https://www.curtin.edu.au/engage/page-sitemap1.xml https://www.curtin
+# university-of-nottingham@1 https://www.nottingham.ac.uk | robots sitemaps: https://www.nottingham.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 2 | sitemaps read 1 · urls 19836 · master's-looking 764
+# university-of-canberra@1 https://www.canberra.edu.au | robots sitemaps: https://www.canberra.edu.au/config/google-webmaster/uc_sitemap https://www.canberra.edu.au/config/google-webmaster/sites https://www.canberra.edu.
+# university-of-strathclyde@1 https://www.strath.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.strath.ac.uk/sitemap.xml: http HTTP 404
+# university-of-canterbury@1 https://www.canterbury.ac.nz | robots sitemaps: https://www.canterbury.ac.nz/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.canterbury.ac.nz/sitemap.xml: 25 children
+# birkbeck-university-of-london@1 https://www.bbk.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.bbk.ac.uk/sitemap.xml: robots disallowed by robots.txt: /sitemap.xml
+# essex-university-of@1 https://www.essex.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.essex.ac.uk/sitemap.xml: network socket hang up
+# royal-holloway-university-of-london@1 https://www.royalholloway.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 9112 · master's-looking 1012
+# university-of-limerick@1 https://www.ul.ie | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.ul.ie/sitemap.xml: 2 children (2 course-like)
+# dublin-city-university@1 https://www.dcu.ie | robots sitemaps: https://www.dcu.ie/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 17162 · master's-looking 1137
+# national-university-of-singapore@1 https://study.nus.edu.sg | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://study.nus.edu.sg/sitemap.xml: 1 children (1 course-like)
+# university-of-western-australia@1 https://www.uwa.edu.au | robots sitemaps: https://www.uwa.edu.au/sitemap.xml https://www.uwa.edu.au/ias/sitemap.xml https://www.uwa.edu.au/cas/sitemap.xml https://www.uwa.edu.au/news/s
+# york-university@1 https://www.yorku.ca | robots sitemaps: https://www.yorku.ca/sitemap_index.xml https://www.yorku.ca/sitemap_index.xml?lang=en https://www.yorku.ca/digitalexperiencehub/sitemap_index.xml?lang=en https:
+# mcgill-university@1 https://www.mcgill.ca | robots sitemaps: https://www.mcgill.ca/root/sitemap-index.xml https://www.mcgill.ca/sitemap.xml · crawl-delay: 5 · AI-agent groups: 0 | index https://www.mcgill.ca/root/sitem
+# university-of-reading@1 https://www.reading.ac.uk | robots sitemaps: https://www.reading.ac.uk/agri-food-economics-marketing/sitemap.xml https://www.reading.ac.uk/apd/sitemap.xml https://www.reading.ac.uk/animal-scienc
+# boston-university@1 https://www.bu.edu | robots sitemaps: (none) · crawl-delay: 15 · AI-agent groups: 0 | index https://www.bu.edu/sitemap.xml: 37 children (1 course-like)
+# singapore-university-of-technology-and-design@1 https://www.sutd.edu.sg | robots sitemaps: https://www.sutd.edu.sg/sitemap_index.xml https://www.sutd.edu.sg/asd/sitemap_index.xml https://www.sutd.edu.sg/istd/sitemap_in
+# university-of-kent@1 https://www.kent.ac.uk | robots sitemaps: https://www.kent.ac.uk/sitemap.xml · crawl-delay: 10 · AI-agent groups: 1 | index https://www.kent.ac.uk/sitemap.xml: 175 children (11 course-like)
+# university-of-waikato@1 https://www.waikato.ac.nz | robots sitemaps: https://www.waikato.ac.nz/sitemap.xml · crawl-delay: 10 · AI-agent groups: 0 | index https://www.waikato.ac.nz/sitemap.xml: 2 children (0 course-like

@@ -1,0 +1,129 @@
+# aalto-university https://www.aalto.fi
+robots sitemaps: https://www.aalto.fi/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.aalto.fi/sitemap.xml: 12 children (12 course-like)
+sitemaps read 13 · urls 59833 · master's-looking 3541
+ 1764  www.aalto.fi/en/events
+         https://www.aalto.fi/en/events/aalto-ma-forum-2023
+         https://www.aalto.fi/en/events/aalto-ma-forum
+         https://www.aalto.fi/en/events/defence-of-dissertation-in-the-field-of-computer-science-jian-liu-msc
+         https://www.aalto.fi/en/events/defence-of-dissertation-in-the-field-of-engineering-physics-kim-poyhonen-msc
+  743  www.aalto.fi/fi/tapahtumat
+         https://www.aalto.fi/fi/tapahtumat/vaitos-tietotekniikan-alalta-msc-jian-liu
+         https://www.aalto.fi/fi/tapahtumat/vaitos-teknillisen-fysiikan-alalta-msc-kim-poyhonen
+         https://www.aalto.fi/fi/tapahtumat/vaitos-teknillisen-fysiikan-alalta-msc-alex-weststrom
+         https://www.aalto.fi/fi/tapahtumat/vaitos-biotuotetekniikan-alalta-di-yibo-ma
+  333  www.aalto.fi/en/news
+         https://www.aalto.fi/en/news/masters-student-essi-tahtinen-as-an-act-of-future-proofing-my-skills-i-felt-confident-choosing
+         https://www.aalto.fi/en/news/professor-otto-toivanen-and-professor-hannu-vartiainen-to-lead-helsinki-graduate-school-of
+         https://www.aalto.fi/en/news/board-chosen-for-helsinki-graduate-school-of-economics
+         https://www.aalto.fi/en/news/defence-of-dissertation-in-the-field-of-computer-science-jian-liu-msc
+  100  www.aalto.fi/en/study-options
+         https://www.aalto.fi/en/study-options/international-business-bachelor-of-science-and-master-of-science-economics-and-business
+         https://www.aalto.fi/en/study-options/life-science-technologies-master-of-science-technology
+         https://www.aalto.fi/en/study-options/cold-climate-engineering-nordic-master-master-of-science-technology
+         https://www.aalto.fi/en/study-options/environmental-engineering-nordic-master-master-of-science-technology
+   99  www.aalto.fi/sv/utbildningsutbud
+         https://www.aalto.fi/sv/utbildningsutbud/international-business-bachelor-of-science-and-master-of-science-economics-and-business
+         https://www.aalto.fi/sv/utbildningsutbud/life-science-technologies-master-of-science-technology
+         https://www.aalto.fi/sv/utbildningsutbud/cold-climate-engineering-nordic-master-master-of-science-technology
+         https://www.aalto.fi/sv/utbildningsutbud/environmental-engineering-nordic-master-master-of-science-technology
+   97  www.aalto.fi/fi/koulutustarjonta
+         https://www.aalto.fi/fi/koulutustarjonta/international-business-bachelor-of-science-and-master-of-science-economics-and-business
+         https://www.aalto.fi/fi/koulutustarjonta/life-science-technologies-master-of-science-technology
+         https://www.aalto.fi/fi/koulutustarjonta/cold-climate-engineering-nordic-master-master-of-science-technology
+         https://www.aalto.fi/fi/koulutustarjonta/environmental-engineering-nordic-master-master-of-science-technology
+   64  www.aalto.fi/en/programmes
+         https://www.aalto.fi/en/programmes/continuing-studies-in-a-masters-programme-at-the-school-of-electrical-engineering
+         https://www.aalto.fi/en/programmes/masters-programme-in-accounting
+         https://www.aalto.fi/en/programmes/masters-programme-in-economics
+         https://www.aalto.fi/en/programmes/masters-programme-in-finance
+   60  www.aalto.fi/fi/uutiset
+         https://www.aalto.fi/fi/uutiset/helsinki-graduate-school-of-economicsin-johtajiksi-professori-otto-toivanen-ja-professori-hannu
+         https://www.aalto.fi/fi/uutiset/helsinki-graduate-school-of-economicsin-johtokunta-on-valittu
+         https://www.aalto.fi/fi/uutiset/vaitos-vesi-ja-ymparistotekniikan-alalta-antonina-kruglova-msc
+         https://www.aalto.fi/fi/uutiset/vaitos-tietotekniikan-alalta-msc-jian-liu
+   42  www.aalto.fi/sv/program
+         https://www.aalto.fi/sv/program/masters-programme-in-accounting
+         https://www.aalto.fi/sv/program/masters-programme-in-economics
+         https://www.aalto.fi/sv/program/masters-programme-in-finance
+         https://www.aalto.fi/sv/program/masters-programme-in-global-management
+   32  www.aalto.fi/fi/ohjelmat
+         https://www.aalto.fi/fi/ohjelmat/masters-programme-in-building-technology
+         https://www.aalto.fi/fi/ohjelmat/masters-programme-in-geoengineering
+         https://www.aalto.fi/fi/ohjelmat/nordic-masters-programme-in-cold-climate-engineering
+         https://www.aalto.fi/fi/ohjelmat/nordic-master-programme-in-environmental-engineering
+   31  www.aalto.fi/sv/evenemang
+         https://www.aalto.fi/sv/evenemang/disputation-i-teknisk-fysik-kim-poyhonen-msc
+         https://www.aalto.fi/sv/evenemang/disputation-i-teknisk-fysik-alex-weststrom-msc
+         https://www.aalto.fi/sv/evenemang/avp-masterclass-good-life-engine
+         https://www.aalto.fi/sv/evenemang/avp-masterclass-entrepreneurship-in-esports
+   19  www.aalto.fi/en/admission-services
+         https://www.aalto.fi/en/admission-services/masters-admissions
+         https://www.aalto.fi/en/admission-services/admission-to-bachelors-programme-in-design-and-media-bachelor-and-master-of-arts-3-yrs-2-yrs
+         https://www.aalto.fi/en/admission-services/apply-to-masters-programmes
+         https://www.aalto.fi/en/admission-services/other-eligibility-for-higher-education-in-masters-admissions-field-of-art-and-design
+   12  www.aalto.fi/sv/nyheter
+         https://www.aalto.fi/sv/nyheter/helsinki-graduate-school-of-economics-breddar-spetskompetens-inom-nationalekonomi
+         https://www.aalto.fi/sv/nyheter/styrelsen-for-helsinki-graduate-school-of-economic-vald
+         https://www.aalto.fi/sv/nyheter/vesa-vihriala-blir-arbetslivsprofessor-vid-helsinki-graduate-school-of-economics
+         https://www.aalto.fi/sv/nyheter/helsinki-graduate-school-of-economics-far-ekonomiprofessur-inom-datavetenskap
+    7  www.aalto.fi/en/study-at-aalto
+         https://www.aalto.fi/en/study-at-aalto/cems-master-in-international-management-mim-at-aalto-university
+         https://www.aalto.fi/en/study-at-aalto/masters-programme-in-industrial-engineering-and-management-the-program-for-you
+         https://www.aalto.fi/en/study-at-aalto/masters-programme-in-computer-communication-and-information-sciences-communications-engineering
+         https://www.aalto.fi/en/study-at-aalto/masters-programme-in-computer-communication-and-information-sciences-human-computer
+    6  www.aalto.fi/en/school-of-business
+         https://www.aalto.fi/en/school-of-business/school-of-business-graduates-in-working-life
+         https://www.aalto.fi/en/school-of-business/masters-programmes
+         https://www.aalto.fi/en/school-of-business/digital-business-master-class-offers-a-unique-learning-experience
+         https://www.aalto.fi/en/school-of-business/jubilee-masters-and-jubilee-doctors
+    6  www.aalto.fi/en/campus
+         https://www.aalto.fi/en/campus/pinja-koskelin-studying-for-her-masters-in-interior-architecture
+         https://www.aalto.fi/en/campus/antti-40-msc-and-ai-coach
+         https://www.aalto.fi/en/campus/leevi-kahkonen-24-masters-student-in-engineering-physics
+         https://www.aalto.fi/en/campus/eelis-hemberg-24-studying-for-his-masters-degree-in-water-and-environmental-engineering
+    6  www.aalto.fi/en/school-of-electrical-engineering
+         https://www.aalto.fi/en/school-of-electrical-engineering/school-of-electrical-engineering-graduates-in-working-life
+         https://www.aalto.fi/en/school-of-electrical-engineering/congratulations-you-have-just-been-admitted-to-masters-programme-in-smart-systems-integrated
+         https://www.aalto.fi/en/school-of-electrical-engineering/congratulations-you-have-just-been-admitted-to-masters-programme-in-space-science-and-technology-at
+         https://www.aalto.fi/en/school-of-electrical-engineering/congratulations-you-have-just-been-admitted-to-masters-programme-in-communications-and-data-science
+    6  www.aalto.fi/en/minors
+         https://www.aalto.fi/en/minors/finance-for-school-of-business-msc-students-only
+         https://www.aalto.fi/en/minors/minor-in-accounting-intermediate-for-masters-students
+         https://www.aalto.fi/en/minors/medes-master-of-european-design-minor
+         https://www.aalto.fi/en/minors/mathematics-master-level-minor
+    6  www.aalto.fi/fi/sivuaineet
+         https://www.aalto.fi/fi/sivuaineet/finance-for-school-of-business-msc-students-only
+         https://www.aalto.fi/fi/sivuaineet/minor-in-accounting-intermediate-for-masters-students
+         https://www.aalto.fi/fi/sivuaineet/medes-master-of-european-design-sivuaine
+         https://www.aalto.fi/fi/sivuaineet/mathematics-master-level-minor
+    6  www.aalto.fi/sv/biamnen
+         https://www.aalto.fi/sv/biamnen/finance-for-school-of-business-msc-students-only
+         https://www.aalto.fi/sv/biamnen/minor-in-accounting-intermediate-for-masters-students
+         https://www.aalto.fi/sv/biamnen/medes-master-of-european-design-biamne
+         https://www.aalto.fi/sv/biamnen/mathematics-master-level-minor
+    5  www.aalto.fi/en/services
+         https://www.aalto.fi/en/services/masters-thesis-examiner-arts
+         https://www.aalto.fi/en/services/arts-non-degree-post-master-study-right
+         https://www.aalto.fi/en/services/guidelines-on-data-management-and-security-for-bachelors-and-masters-thesis-advisors
+         https://www.aalto.fi/en/services/local-llm-gateway
+    4  www.aalto.fi/en/contemporary-design
+         https://www.aalto.fi/en/contemporary-design/people-at-contemporary-design-ma
+         https://www.aalto.fi/en/contemporary-design/news-of-contemporary-design-ma
+         https://www.aalto.fi/en/contemporary-design/main-courses-at-contemporary-design-ma
+         https://www.aalto.fi/en/contemporary-design/contemporary-design-masters-theses
+    4  www.aalto.fi/en/school-of-chemical-engineering
+         https://www.aalto.fi/en/school-of-chemical-engineering/school-of-chemical-engineering-graduates-in-working-life
+         https://www.aalto.fi/en/school-of-chemical-engineering/masters-portfolio-renewal
+         https://www.aalto.fi/en/school-of-chemical-engineering/congratulations-you-have-just-been-admitted-to-aalto-university-joint-masters-programme
+         https://www.aalto.fi/en/school-of-chemical-engineering/masters-portfolio-renewal-student-information
+    4  www.aalto.fi/en/creative-sustainability
+         https://www.aalto.fi/en/creative-sustainability/how-to-apply-to-creative-sustainability-masters-programme
+         https://www.aalto.fi/en/creative-sustainability/creative-sustainability-masters-programme
+         https://www.aalto.fi/en/creative-sustainability/sharing-a-cs-graduate-experience-in-korvaa-multidisciplinary-collaboration-in-practice
+         https://www.aalto.fi/en/creative-sustainability/creative-sustainability-masters-student-michael-buchta-shares-his-experience-in-the-programme
+    4  www.aalto.fi/en/corporate-collaboration
+         https://www.aalto.fi/en/corporate-collaboration/international-doctoral-graduates-in-the-workforce-ready-for-future-challenges
+         https://www.aalto.fi/en/corporate-collaboration/a-masters-thesis-is-a-bridge-to-the-world-of-work-cooperation-between-aalto
+         https://www.aalto.fi/en/corporate-collaboration/digital-business-master-class
+         https://www.aalto.fi/en/corporate-collaboration/commission-a-masters-thesis

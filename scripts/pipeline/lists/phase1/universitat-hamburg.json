@@ -1,0 +1,16 @@
+{
+ "source": "UHH degree-program A-Z (data in https://www.uni-hamburg.de/onTEAM/admin/onteam/templates/v5/scripts/studiengaenge/indexEN.js), master's rows with language ENG only, in-scope; detail pages render by script: browser (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1713942448",
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1742214195",
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1241950176",
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1359989120",
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1146580906",
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1162893796",
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1363704944",
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1115115832",
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1471518994",
+  "https://www.uni-hamburg.de/en/campuscenter/studienangebot/studiengang.html?programID=1772183118"
+ ]
+}

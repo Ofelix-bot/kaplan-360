@@ -1,0 +1,125 @@
+# university-of-stirling https://www.stir.ac.uk
+robots sitemaps: https://www.stir.ac.uk/media/dist/php/sitemap/ https://www.stir.ac.uk/media/dist/php/sitemap/?sn=sitemap_images.xml https://www.stir.ac.uk/media/dist/php/sitemap/?sn=sitemap_video.xml https://www.stir.ac.uk/media/dist/php/sitemap/index.php https://www.stir.ac.uk/media/dist/php/sitemap/index.php?sn=sitemap_images.xml https://www.stir.ac.uk/media/dist/php/sitemap/index.php?sn=sitemap_video.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 6 · urls 7338 · master's-looking 495
+  102  www.stir.ac.uk/events/webinars/archive
+         https://www.stir.ac.uk/events/webinars/archive/postgraduate-courses-/2026/msc-sport-management-oct-2026/
+         https://www.stir.ac.uk/events/webinars/archive/postgraduate-courses-/2026/msc-business-analytics/
+         https://www.stir.ac.uk/events/webinars/archive/postgraduate-study/2026/postgraduate-virtual-open-season-careers-and-employability-information-sessions/
+         https://www.stir.ac.uk/events/webinars/archive/postgraduate-courses-/2026/msc-digital-media-and-communication-october-2026/
+   95  www.stir.ac.uk/courses/pg-taught
+         https://www.stir.ac.uk/courses/pg-taught/msc-project-management/
+         https://www.stir.ac.uk/courses/pg-taught/clinical-doctorates/
+         https://www.stir.ac.uk/courses/pg-taught/applied-social-research-doctorate/
+         https://www.stir.ac.uk/courses/pg-taught/edd-educational-doctorate/
+   36  www.stir.ac.uk/courses/postgraduate-research-degrees
+         https://www.stir.ac.uk/courses/postgraduate-research-degrees/phd-accountancy-and-finance/
+         https://www.stir.ac.uk/courses/postgraduate-research-degrees/phd-aquaculture/
+         https://www.stir.ac.uk/courses/postgraduate-research-degrees/phd-aquatic-veterinary-studies/
+         https://www.stir.ac.uk/courses/postgraduate-research-degrees/phd-biology/
+   24  www.stir.ac.uk/scholarships/general/postgraduate
+         https://www.stir.ac.uk/scholarships/general/postgraduate/vice-chancellors-postgraduate-international-scholarship/
+         https://www.stir.ac.uk/scholarships/general/postgraduate/eu-postgraduate-scholarship/
+         https://www.stir.ac.uk/scholarships/general/postgraduate/postgraduate-merit-scholarship/
+         https://www.stir.ac.uk/scholarships/general/postgraduate/stirling-alumni-scholarship/
+   16  www.stir.ac.uk/study/undergraduate/widening-participation
+         https://www.stir.ac.uk/study/undergraduate/widening-participation/coming-from-college/
+         https://www.stir.ac.uk/study/undergraduate/widening-participation/advice-and-guidance-for-mature-students/
+         https://www.stir.ac.uk/study/undergraduate/widening-participation/coming-from-school/
+         https://www.stir.ac.uk/study/undergraduate/widening-participation/coming-from-college/articulation/
+   11  www.stir.ac.uk/scholarships/general/undergraduate
+         https://www.stir.ac.uk/scholarships/general/undergraduate/stirling-success-scholarship/
+         https://www.stir.ac.uk/scholarships/general/undergraduate/europe-undergraduate-scholarship/
+         https://www.stir.ac.uk/scholarships/general/undergraduate/international-undergraduate-scholarship/
+         https://www.stir.ac.uk/scholarships/general/undergraduate/undergraduate-tne-partner-transfer-scholarship/
+    9  www.stir.ac.uk/study/undergraduate
+         https://www.stir.ac.uk/study/undergraduate/why-stirling-for-undergraduate-study/
+         https://www.stir.ac.uk/study/undergraduate/how-to-apply/
+         https://www.stir.ac.uk/study/undergraduate/entry-requirements/
+         https://www.stir.ac.uk/study/undergraduate/flexible-undergraduate-degrees/
+    9  www.stir.ac.uk/media/stirling/services
+         https://www.stir.ac.uk/media/stirling/services/research/documents/UG-and-PGT-User-Guide.docx
+         https://www.stir.ac.uk/media/stirling/services/research/documents/2.-Protocol-Use-of-Research-Tokens-for-Undergraduate-Students.docx
+         https://www.stir.ac.uk/media/stirling/services/careers-and-employability/docs/CES_privacy_notice_TARGETConnect_graduates_staff_applicants.docx
+         https://www.stir.ac.uk/media/stirling/services/sacs/Changes-to-undergraduate-teaching-and-assessment-policies.doc
+    7  www.stir.ac.uk/study/postgraduate
+         https://www.stir.ac.uk/study/postgraduate/why-stirling-for-postgraduate-study/
+         https://www.stir.ac.uk/study/postgraduate/flexible-learning/
+         https://www.stir.ac.uk/study/postgraduate/choosing-a-course/
+         https://www.stir.ac.uk/study/postgraduate/how-to-apply/
+    7  www.stir.ac.uk/study/undergraduate/teachers-lecturers-and-careers-advisers
+         https://www.stir.ac.uk/study/undergraduate/teachers-lecturers-and-careers-advisers/our-recruitment-team/
+         https://www.stir.ac.uk/study/undergraduate/teachers-lecturers-and-careers-advisers/presentations-and-workshops/
+         https://www.stir.ac.uk/study/undergraduate/teachers-lecturers-and-careers-advisers/events/
+         https://www.stir.ac.uk/study/undergraduate/teachers-lecturers-and-careers-advisers/our-recruitment-team/scotland-widening-participation/
+    7  www.stir.ac.uk/news/2011
+         https://www.stir.ac.uk/news/2011/appointmentoflindabauldprofessorofsocio-ma/
+         https://www.stir.ac.uk/news/2011/economicsgraduatemakesitcountforgreatbrita/
+         https://www.stir.ac.uk/news/2011/informationeveningonpostgraduatestudyathigh/
+         https://www.stir.ac.uk/news/2011/morethan700stirlingstudentsgraduateincerem/
+    6  www.stir.ac.uk/study/undergraduate/how-to-apply
+         https://www.stir.ac.uk/study/undergraduate/how-to-apply/part-time-application/
+         https://www.stir.ac.uk/study/undergraduate/how-to-apply/january-entry/
+         https://www.stir.ac.uk/study/undergraduate/how-to-apply/common-application/
+         https://www.stir.ac.uk/study/undergraduate/how-to-apply/planning-your-personal-statement/
+    6  www.stir.ac.uk/about/professional-services/student-academic-and-corporate-services
+         https://www.stir.ac.uk/about/professional-services/student-academic-and-corporate-services/academic-registry/regulations/postgraduate-research-regulations/
+         https://www.stir.ac.uk/about/professional-services/student-academic-and-corporate-services/academic-registry/student-information/visas-and-immigration/attendance-and-engagement-for-taught-programme-students/
+         https://www.stir.ac.uk/about/professional-services/student-academic-and-corporate-services/academic-registry/regulations/postgraduate-taught-regulations/
+         https://www.stir.ac.uk/about/professional-services/student-academic-and-corporate-services/academic-registry/regulations/undergraduate/
+    5  www.stir.ac.uk/news/2017/11
+         https://www.stir.ac.uk/news/2017/11/stirling-graduates-honoured-at-ceremony-in-inverness/
+         https://www.stir.ac.uk/news/2017/11/lawrie-masterclass-for-student-golfers/
+         https://www.stir.ac.uk/news/2017/11/ceremony-in-oman-recognises-stirling-graduates/
+         https://www.stir.ac.uk/news/2017/11/stirling-graduates-honoured-at-ceremony-in-inverness/lauren-beaton/
+    5  www.stir.ac.uk/news/2012/00
+         https://www.stir.ac.uk/news/2012/00/crime-fiction-masterclasses-will-inspire/
+         https://www.stir.ac.uk/news/2012/00/first-carer-msc-dementia-studies/
+         https://www.stir.ac.uk/news/2012/00/fvc-partnership-degree-graduate/
+         https://www.stir.ac.uk/news/2012/00/rugby-tennis-graduate/
+    4  www.stir.ac.uk/study/fees-funding
+         https://www.stir.ac.uk/study/fees-funding/postgraduate-loans-and-funding/
+         https://www.stir.ac.uk/study/fees-funding/undergraduate-tuition-fees/
+         https://www.stir.ac.uk/study/fees-funding/undergraduate-funding/
+         https://www.stir.ac.uk/study/fees-funding/postgraduate-tuition-fees/
+    4  www.stir.ac.uk/study/undergraduate/access-to-degree-studies
+         https://www.stir.ac.uk/study/undergraduate/access-to-degree-studies/access-to-nursing-studies/
+         https://www.stir.ac.uk/study/undergraduate/access-to-degree-studies/access-to-science-studies/
+         https://www.stir.ac.uk/study/undergraduate/access-to-degree-studies/access-to-degree-studies/
+         https://www.stir.ac.uk/study/undergraduate/access-to-degree-studies/how-do-i-apply/
+    4  www.stir.ac.uk/student-life/careers/employers
+         https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/recruiting-non-uk-students-and-graduates/
+         https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/heritage-postgraduate-placement/
+         https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/pr-and-strategic-communications-masters-internshipproject/
+         https://www.stir.ac.uk/student-life/careers/employers/recruiting-our-students/student-projects/undergraduate-law-placement-programme/
+    4  www.stir.ac.uk/news/2025/june-2025-news
+         https://www.stir.ac.uk/news/2025/june-2025-news/inspirational-honorary-graduates-celebrated-at-the-university-of-stirlings-summer-graduation/
+         https://www.stir.ac.uk/news/2025/june-2025-news/graduates-toolkit-will-help-intellectually-impaired-adults-access-cancer-screening/
+         https://www.stir.ac.uk/news/2025/june-2025-news/it-made-me-believe-in-myself-again-67-students-graduate-from-transformative-access-course/
+         https://www.stir.ac.uk/news/2025/june-2025-news/leading-international-athletes-among-those-to-graduate-from-the-university-of-stirling/
+    4  www.stir.ac.uk/news/2018/11
+         https://www.stir.ac.uk/news/2018/11/celebrations-as-50-graduate-with-stirling-degrees-in-oman/
+         https://www.stir.ac.uk/news/2018/11/former-chief-inspector-of-prisons-and-leading-environmentalist-among-stirlings-winter-graduates/
+         https://www.stir.ac.uk/news/2018/11/mba-student-recognised-for-leadership-skills/
+         https://www.stir.ac.uk/news/2018/11/university-graduates-awarded-membership-of-banking-institute/
+    4  www.stir.ac.uk/news/2017/10
+         https://www.stir.ac.uk/news/2017/10/students-and-olympian-graduate-from-university-of-stirling-in-singapore/
+         https://www.stir.ac.uk/news/2017/10/students-and-olympian-graduate-from-university-of-stirling-in-singapore/jeremy-soh-keng-an/
+         https://www.stir.ac.uk/news/2017/10/students-and-olympian-graduate-from-university-of-stirling-in-singapore/nicholas-khoo-zhan-hua/
+         https://www.stir.ac.uk/news/2017/10/students-and-olympian-graduate-from-university-of-stirling-in-singapore/siti-nur-sofia-binte-muhammad/
+    4  www.stir.ac.uk/news/2015/06
+         https://www.stir.ac.uk/news/2015/06/honorary-graduates-inspire-at-stirling-celebration/
+         https://www.stir.ac.uk/news/2015/06/internationalstirlinggraduatecontinuesherglobaljourney/
+         https://www.stir.ac.uk/news/2015/06/olympicrowerspursstirlinggraduateontogolfingglory/
+         https://www.stir.ac.uk/news/2015/06/stirlingdegreehat-trickforhealthsciencesgraduate/
+    3  www.stir.ac.uk/student-life/accommodation/how-to-apply
+         https://www.stir.ac.uk/student-life/accommodation/how-to-apply/postgraduates/
+         https://www.stir.ac.uk/student-life/accommodation/how-to-apply/new-undergraduates/
+         https://www.stir.ac.uk/student-life/accommodation/how-to-apply/returning-undergraduates/
+    3  www.stir.ac.uk/study/undergraduate/flexible-undergraduate-degrees
+         https://www.stir.ac.uk/study/undergraduate/flexible-undergraduate-degrees/degree-flexibility/
+         https://www.stir.ac.uk/study/undergraduate/flexible-undergraduate-degrees/our-undergraduate-degree-structure/
+         https://www.stir.ac.uk/study/undergraduate/flexible-undergraduate-degrees/part-time-study-options/
+    3  www.stir.ac.uk/research/research-degrees/information-for-current-postgraduate-research-students
+         https://www.stir.ac.uk/research/research-degrees/information-for-current-postgraduate-research-students/changes-to-programme-of-study/
+         https://www.stir.ac.uk/research/research-degrees/information-for-current-postgraduate-research-students/research-council-award-and-other-studentships/
+         https://www.stir.ac.uk/research/research-degrees/information-for-current-postgraduate-research-students/examination-of-research-degrees-procedural-guidance/

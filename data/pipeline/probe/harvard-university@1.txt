@@ -1,0 +1,39 @@
+# harvard-university@1 https://www.harvard.edu
+robots sitemaps: https://www.harvard.edu/sitemap_index.xml https://www.harvard.edu/president/sitemap_index.xml https://www.harvard.edu/media-relations/sitemap_index.xml https://www.harvard.edu/climate-and-sustainability/sitemap_index.xml https://www.harvard.edu/wellbeing/sitemap_index.xml https://www.harvard.edu/guidelines/sitemap_index.xml https://www.harvard.edu/ai/sitemap_index.xml https://www.harvard.edu/community/sitemap_index.xml https://legacyofslavery.harvard.edu/sitemap_index.xml https://www.harvard.edu/federal-lawsuits/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.harvard.edu/sitemap_index.xml: 5 children (2 course-like)
+index https://www.harvard.edu/president/sitemap_index.xml: 3 children (1 course-like)
+index https://www.harvard.edu/media-relations/sitemap_index.xml: 3 children (1 course-like)
+index https://www.harvard.edu/climate-and-sustainability/sitemap_index.xml: 1 children (1 course-like)
+index https://www.harvard.edu/wellbeing/sitemap_index.xml: 1 children (1 course-like)
+index https://www.harvard.edu/guidelines/sitemap_index.xml: 4 children (1 course-like)
+index https://www.harvard.edu/ai/sitemap_index.xml: 5 children (1 course-like)
+index https://www.harvard.edu/community/sitemap_index.xml: 1 children (1 course-like)
+index https://legacyofslavery.harvard.edu/sitemap_index.xml: 4 children (1 course-like)
+index https://www.harvard.edu/federal-lawsuits/sitemap_index.xml: 5 children (1 course-like)
+sitemaps read 42 · urls 1250 · master's-looking 14
+    2  www.harvard.edu/programs
+         https://www.harvard.edu/programs/master-in-architecture-i/
+         https://www.harvard.edu/programs/master-in-design-engineering/
+    2  www.harvard.edu/president/news-speeches-summers/2005
+         https://www.harvard.edu/president/news-speeches-summers/2005/harvard-graduate-school-of-education-deans-weekend-no-child-left-behind-the-challenges-and-the-promise-remarks-by-harvard-university-lawrence-h-summers/
+         https://www.harvard.edu/president/news-speeches-summers/2005/remarks-at-the-harvard-graduate-school-of-design-symposium-can-design-improve-life-in-cities/
+    1  www.harvard.edu/in-focus/commencement-2026
+         https://www.harvard.edu/in-focus/commencement-2026/graduate-profiles/
+    1  www.harvard.edu/in-focus/celebrating-the-class-of-2023
+         https://www.harvard.edu/in-focus/celebrating-the-class-of-2023/graduate-profiles/
+    1  www.harvard.edu/in-focus/commencement-2024
+         https://www.harvard.edu/in-focus/commencement-2024/graduate-profiles/
+    1  www.harvard.edu/in-focus/commencement-2025
+         https://www.harvard.edu/in-focus/commencement-2025/graduate-profiles/
+    1  www.harvard.edu/president/speeches-by-president-bacow/2023
+         https://www.harvard.edu/president/speeches-by-president-bacow/2023/remarks-to-2023-rotc-graduates/
+    1  www.harvard.edu/president/speeches-by-president-bacow/2021
+         https://www.harvard.edu/president/speeches-by-president-bacow/2021/remarks-to-rotc-graduates/
+    1  www.harvard.edu/president/speeches/2024
+         https://www.harvard.edu/president/speeches/2024/remarks-to-the-2024-rotc-graduates/
+    1  www.harvard.edu/president/news-faust/2018
+         https://www.harvard.edu/president/news-faust/2018/new-dean-of-the-harvard-graduate-school-of-education/
+    1  www.harvard.edu/president/speeches-faust/2017
+         https://www.harvard.edu/president/speeches-faust/2017/welcoming-remarks-to-the-incoming-class-of-the-graduate-school-of-arts-and-sciences/
+    1  www.harvard.edu/president/news-speeches-summers/2004
+         https://www.harvard.edu/president/news-speeches-summers/2004/remarks-of-harvard-university-president-lawrence-h-summers-presentation-of-the-2004-harvard-arts-medal-to-yo-yo-ma-76/

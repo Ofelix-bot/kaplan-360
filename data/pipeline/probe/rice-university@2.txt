@@ -1,0 +1,19 @@
+# rice-university@2 https://graduate.rice.edu
+robots sitemaps: https://graduate.rice.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 152 · master's-looking 8
+    1  graduate.rice.edu/may-masters-graduation-checklist
+         https://graduate.rice.edu/may-masters-graduation-checklist
+    1  graduate.rice.edu/december-masters-graduation-checklist
+         https://graduate.rice.edu/december-masters-graduation-checklist
+    1  graduate.rice.edu/admissions/after-admission
+         https://graduate.rice.edu/admissions/after-admission/graduate-student-orientation
+    1  graduate.rice.edu/graduate-students-and-affordable-care-act
+         https://graduate.rice.edu/graduate-students-and-affordable-care-act
+    1  graduate.rice.edu/academics/candidacy-defense-thesis-submission
+         https://graduate.rice.edu/academics/candidacy-defense-thesis-submission/last-semester-timeline-graduate-students
+    1  graduate.rice.edu/2026-27-health-insurance-masters-students
+         https://graduate.rice.edu/2026-27-health-insurance-masters-students
+    1  graduate.rice.edu/graduate-student-payments-and-tax-information
+         https://graduate.rice.edu/graduate-student-payments-and-tax-information
+    1  graduate.rice.edu/stem-opt-designated-graduate-programs
+         https://graduate.rice.edu/stem-opt-designated-graduate-programs

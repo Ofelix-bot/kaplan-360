@@ -1,0 +1,71 @@
+# university-of-michigan-ann-arbor@2 https://rackham.umich.edu
+robots sitemaps: https://rackham.umich.edu/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://rackham.umich.edu/wp-sitemap.xml: 12 children (1 course-like)
+sitemaps read 13 · urls 885 · master's-looking 93
+   47  rackham.umich.edu/discover-rackham
+         https://rackham.umich.edu/discover-rackham/announcing-the-winners-of-the-2018-outstanding-graduate-student-instructor-awards/
+         https://rackham.umich.edu/discover-rackham/rackham-graduate-school-offers-new-certificate-program-for-developing-student-dei-skills/
+         https://rackham.umich.edu/discover-rackham/rackham-graduate-school-creates-new-role-to-strengthen-partnerships-with-minority-serving-institutions/
+         https://rackham.umich.edu/discover-rackham/rackham-alumni-look-forward-to-the-future-of-graduate-education/
+    8  rackham.umich.edu/faculty-and-staff/resources-for-directors/guidelines-for-graduate-course-approval
+         https://rackham.umich.edu/faculty-and-staff/resources-for-directors/guidelines-for-graduate-course-approval/assignment-of-credit-hours/
+         https://rackham.umich.edu/faculty-and-staff/resources-for-directors/guidelines-for-graduate-course-approval/course-content-and-prerequisites/
+         https://rackham.umich.edu/faculty-and-staff/resources-for-directors/guidelines-for-graduate-course-approval/course-duration/
+         https://rackham.umich.edu/faculty-and-staff/resources-for-directors/guidelines-for-graduate-course-approval/course-numbering/
+    4  rackham.umich.edu/about/governance-and-graduate-faculty
+         https://rackham.umich.edu/about/governance-and-graduate-faculty/policy-and-process-to-address-allegations-of-failure-to-uphold-the-professional-standards-of-the-rackham-graduate-faculty/
+         https://rackham.umich.edu/about/governance-and-graduate-faculty/summary-policy-and-process-to-address-allegations-of-failure-to-uphold-professional-standards-of-the-rackham-graduate-faculty/
+         https://rackham.umich.edu/about/governance-and-graduate-faculty/statement-of-rackham-graduate-faculty-values-privileges-and-responsibilities-overview/
+         https://rackham.umich.edu/about/governance-and-graduate-faculty/statement-of-rackham-graduate-faculty-values-privileges-and-responsibilities/
+    3  rackham.umich.edu/about/strategic-vision
+         https://rackham.umich.edu/about/strategic-vision/about-strategic-vision-graduate-student-mental-health-task-force/
+         https://rackham.umich.edu/about/strategic-vision/about-strategic-vision-statement-of-rackham-graduate-faculty-values-privileges-and-responsibilities-call-for-feedback/
+         https://rackham.umich.edu/about/strategic-vision/statement-of-rackham-graduate-faculty-values-privileges-and-responsibilities-call-for-feedback/
+    3  rackham.umich.edu/about
+         https://rackham.umich.edu/about/about-governance-and-graduate-faculty-summary-policy-and-process-to-address-allegations-of-failure-to-uphold-professional-standards-of-the-rackham-graduate-faculty/
+         https://rackham.umich.edu/about/governance-and-graduate-faculty/
+         https://rackham.umich.edu/about/advancing-new-directions-in-graduate-education/
+    3  rackham.umich.edu/faculty-and-staff/awards
+         https://rackham.umich.edu/faculty-and-staff/awards/toby-j-teorey-graduate-student-instructor-awards/
+         https://rackham.umich.edu/faculty-and-staff/awards/distinguished-graduate-mentor-award/
+         https://rackham.umich.edu/faculty-and-staff/awards/masters-mentoring-award/
+    3  rackham.umich.edu/faculty-and-staff/resources-for-directors
+         https://rackham.umich.edu/faculty-and-staff/resources-for-directors/graduate-programs-and-registration-policy/
+         https://rackham.umich.edu/faculty-and-staff/resources-for-directors/guidelines-for-graduate-course-approval/
+         https://rackham.umich.edu/faculty-and-staff/resources-for-directors/developing-graduate-programs/
+    3  rackham.umich.edu/faculty-and-staff/resources-for-graduate-coordinators
+         https://rackham.umich.edu/faculty-and-staff/resources-for-graduate-coordinators/admissions-toolkit/
+         https://rackham.umich.edu/faculty-and-staff/resources-for-graduate-coordinators/cost-sharing-process/
+         https://rackham.umich.edu/faculty-and-staff/resources-for-graduate-coordinators/graduate-coordinators-forum/
+    3  rackham.umich.edu/podcast
+         https://rackham.umich.edu/podcast/psychological-safety-in-the-graduate-advisor-relationship/
+         https://rackham.umich.edu/podcast/graduate-student-well-being-past-present-and-future/
+         https://rackham.umich.edu/podcast/bonus2-bonus-episode-caring-for-the-ones-we-love-adult-caregiving-in-graduate-school/
+    2  rackham.umich.edu/funding
+         https://rackham.umich.edu/funding/rackham-graduate-student-research-grant/
+         https://rackham.umich.edu/funding/graduate-student-professional-travel-with-children-grant/
+    2  rackham.umich.edu/faculty-and-staff
+         https://rackham.umich.edu/faculty-and-staff/resources-for-graduate-coordinators/
+         https://rackham.umich.edu/faculty-and-staff/graduate-program-orientation/
+    2  rackham.umich.edu/exploring-well-being-in-graduate-education
+         https://rackham.umich.edu/exploring-well-being-in-graduate-education/
+         https://rackham.umich.edu/exploring-well-being-in-graduate-education/agenda/
+    2  rackham.umich.edu/faculty-and-staff/resources-for-graduate-coordinators/admissions-toolkit
+         https://rackham.umich.edu/faculty-and-staff/resources-for-graduate-coordinators/admissions-toolkit/deadline-dates-for-recommending-admission/
+         https://rackham.umich.edu/faculty-and-staff/resources-for-graduate-coordinators/admissions-toolkit/oars-roles-for-rackham-admissions-program-access/
+    1  rackham.umich.edu/navigating-your-degree
+         https://rackham.umich.edu/navigating-your-degree/rackham-graduate-exercises/
+    1  rackham.umich.edu/about/directory
+         https://rackham.umich.edu/about/directory/graduate-student-and-program-consultation-services/
+    1  rackham.umich.edu/faculty-and-staff/mental-health-and-well-being
+         https://rackham.umich.edu/faculty-and-staff/mental-health-and-well-being/supporting-graduate-student-mental-health-and-well-being/
+    1  rackham.umich.edu/faculty-and-staff/resources-for-directors/holistic-admissions
+         https://rackham.umich.edu/faculty-and-staff/resources-for-directors/holistic-admissions/responsibilities-of-graduate-admissions-committees/
+    1  rackham.umich.edu/about/directory/graduate-student-and-program-consultation-services
+         https://rackham.umich.edu/about/directory/graduate-student-and-program-consultation-services/transitional-support-for-change-of-advisors/
+    1  rackham.umich.edu/student-experience/students-with-disabilities
+         https://rackham.umich.edu/student-experience/students-with-disabilities/accommodations-for-graduate-students-with-disabilities/
+    1  rackham.umich.edu/about/michigan-doctoral-experience-study-mdes/findings-and-insights
+         https://rackham.umich.edu/about/michigan-doctoral-experience-study-mdes/findings-and-insights/the-hidden-cost-emotional-labor-mentoring-and-graduate-students-well-being/
+    1  rackham.umich.edu/author
+         https://rackham.umich.edu/author/rackham-graduate-school/

@@ -1,0 +1,11 @@
+# georgetown-university@1 https://www.georgetown.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.georgetown.edu/sitemap.xml: 8 children (1 course-like)
+sitemaps read 9 · urls 4554 · master's-looking 125
+  124  www.georgetown.edu/news
+         https://www.georgetown.edu/news/young-georgetown-graduate-serves-as-hospital-ceo/
+         https://www.georgetown.edu/news/undergraduate-applications-largest-in-georgetown-history/
+         https://www.georgetown.edu/news/police-officer-to-reach-decades-old-goal-as-gu-graduate/
+         https://www.georgetown.edu/news/georgetown-launches-new-international-development-masters-degree/
+    1  www.georgetown.edu/admissions
+         https://www.georgetown.edu/admissions/graduate-admissions/

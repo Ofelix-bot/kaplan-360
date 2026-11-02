@@ -1,0 +1,10 @@
+{
+  "source": "UAM postgraduate finder https://www.uam.es/uam/en/todos-posgrados filtered to official masters with Language: Inglés (English only, bilingual Español/Inglés skipped) inside the 13 disciplines (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.uam.es/uam/en/master-universitario-aprendizaje-profundo-tratamiento-senales-audio-video",
+    "https://www.uam.es/uam/en/master-universitario-erasmus-mundus-artificial-intelligence-image-processing-computer-vision-ipcvai",
+    "https://www.uam.es/uam/en/master-universitario-linguistica-aplicada-ingles",
+    "https://www.uam.es/uam/en/master-universitario-estudios-literarios-culturales-britanicos-paises-habla-inglesa-literatura-cultura-comunicacion-traduccion"
+  ]
+}

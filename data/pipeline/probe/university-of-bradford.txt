@@ -1,0 +1,128 @@
+# university-of-bradford https://www.bradford.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 5611 · master's-looking 594
+  106  www.bradford.ac.uk/courses/pg
+         https://www.bradford.ac.uk/courses/pg/practitioners-advanced-extended-roles-dementia
+         https://www.bradford.ac.uk/courses/pg/international-legal-studies-distance-learning
+         https://www.bradford.ac.uk/courses/pg/leadership-in-health-and-social-care
+         https://www.bradford.ac.uk/courses/pg/psychology-health-wellbeing
+   63  www.bradford.ac.uk/undergraduate/profiles
+         https://www.bradford.ac.uk/undergraduate/profiles/shaun-24567
+         https://www.bradford.ac.uk/undergraduate/profiles/leanne-5032
+         https://www.bradford.ac.uk/undergraduate/profiles/boris-9840
+         https://www.bradford.ac.uk/undergraduate/profiles/darnell-28422
+   58  www.bradford.ac.uk/postgraduate/profiles
+         https://www.bradford.ac.uk/postgraduate/profiles/alex-23509
+         https://www.bradford.ac.uk/postgraduate/profiles/billy-13632
+         https://www.bradford.ac.uk/postgraduate/profiles/desmond-9840
+         https://www.bradford.ac.uk/postgraduate/profiles/huma-24990
+   29  www.bradford.ac.uk/scholarships
+         https://www.bradford.ac.uk/scholarships/postgraduate-bursary-2024-25
+         https://www.bradford.ac.uk/scholarships/scholarship-for-undergraduate-architecture-students-2024-25
+         https://www.bradford.ac.uk/scholarships/scholarships-for-chemistry-archaeology-undergraduate-students-2024-25
+         https://www.bradford.ac.uk/scholarships/scholarship-for-engineering-management-msc-2024-25
+   28  www.bradford.ac.uk/news/archive/2016
+         https://www.bradford.ac.uk/news/archive/2016/bradford-meng-graduate-awarded-elite-status-by-ice.php
+         https://www.bradford.ac.uk/news/archive/2016/leading-bradford-figures-among-honorary-graduates.php
+         https://www.bradford.ac.uk/news/archive/2016/bradford-graduate-dr-tobias-feakin-appointed-as-australias-inaugural-ambassador-for-cyber-affairs.php
+         https://www.bradford.ac.uk/news/archive/2016/bradford-again-a-masters-in-management-world-leader.php
+   25  www.bradford.ac.uk/news/archive/2020
+         https://www.bradford.ac.uk/news/archive/2020/bradford-city-centre-will-light-up-for-graduates-of-2020.php
+         https://www.bradford.ac.uk/news/archive/2020/bradfords-mba-ranked-global-top-10-by-financial-times.php
+         https://www.bradford.ac.uk/news/archive/2020/career-booster-course-gives-undergraduates-a-head-start-in-job-market-says-top-academic-at-university-of-bradford.php
+         https://www.bradford.ac.uk/news/archive/2020/england-cricketer-and-community-ambassador-are-our-latest-honorary-graduates.php
+   24  www.bradford.ac.uk/postgraduate/taught-degrees/subjects
+         https://www.bradford.ac.uk/postgraduate/taught-degrees/subjects/nursing
+         https://www.bradford.ac.uk/postgraduate/taught-degrees/subjects/healthcare-leadership
+         https://www.bradford.ac.uk/postgraduate/taught-degrees/subjects/physiotherapy
+         https://www.bradford.ac.uk/postgraduate/taught-degrees/subjects/public-health
+   23  www.bradford.ac.uk/undergraduate/subjects
+         https://www.bradford.ac.uk/undergraduate/subjects/paramedic
+         https://www.bradford.ac.uk/undergraduate/subjects/pharmacy
+         https://www.bradford.ac.uk/undergraduate/subjects/optometry
+         https://www.bradford.ac.uk/undergraduate/subjects/radiography
+   23  www.bradford.ac.uk/blogs/bradford-life
+         https://www.bradford.ac.uk/blogs/bradford-life/helping-your-young-person-master-life-skills.php
+         https://www.bradford.ac.uk/blogs/bradford-life/postgraduate
+         https://www.bradford.ac.uk/blogs/bradford-life/attending-a-postgraduate-open-day.php
+         https://www.bradford.ac.uk/blogs/bradford-life/five-careers-for-an-optometry-graduate.php
+   16  www.bradford.ac.uk/news/archive/2017
+         https://www.bradford.ac.uk/news/archive/2017/bradford-cyber-security-masters-degree-gets-gchq-stamp-of-approval.php
+         https://www.bradford.ac.uk/news/archive/2017/mba-alumnus-kunle-falodun-appointed-vp-distribution-africa-for-sony-pictures.php
+         https://www.bradford.ac.uk/news/archive/2017/the-international-masters-summer-school-for-sustainability-in-business-2017.php
+         https://www.bradford.ac.uk/news/archive/2017/mba-alumnus-bas-burger-appointed-ceo-of-bt-global-services.php
+   16  www.bradford.ac.uk/news/archive/2023
+         https://www.bradford.ac.uk/news/archive/2023/stick-to-your-mission-and-dont-be-afraid-to-share-it-honorary-graduate-shares-his-advice.php
+         https://www.bradford.ac.uk/news/archive/2023/honorary-graduates-of-winter-2023.php
+         https://www.bradford.ac.uk/news/archive/2023/student-flies-in-from-honeymoon-to-graduate-.php
+         https://www.bradford.ac.uk/news/archive/2023/care-leaver-aimee-graduates-despite-all-odds-.php
+   14  www.bradford.ac.uk/news/archive/2022
+         https://www.bradford.ac.uk/news/archive/2022/from-canada-to-bradford-student-who-travelled-2200-miles-to-study-graduates.php
+         https://www.bradford.ac.uk/news/archive/2022/our-inspiring-winter-2022-honorary-graduates.php
+         https://www.bradford.ac.uk/news/archive/2022/school-of-management-marks-25-years-of-its-executive-mba-in-dubai.php
+         https://www.bradford.ac.uk/news/archive/2022/bradfords-tri-lingual-masters-course-ranked-fourth-in-world-for-career-progression.php
+   14  www.bradford.ac.uk/news/archive/2024
+         https://www.bradford.ac.uk/news/archive/2024/bradford-city-staff-taught-lifesaving-skills-at-university-.php
+         https://www.bradford.ac.uk/news/archive/2024/sanctuary-scholarship-changed-my-life-says-graduate-who-lost-husband.php
+         https://www.bradford.ac.uk/news/archive/2024/university-of-bradford-calls-on-government-to-preserve-graduate-visa-route.php
+         https://www.bradford.ac.uk/news/archive/2024/high-sheriff-of-west-yorkshire-tells-graduates-to-have-courage.php
+   13  www.bradford.ac.uk/news/archive/2018
+         https://www.bradford.ac.uk/news/archive/2018/new-postgraduate-space-in-the-jb-priestley-library-launching-14-june-2018.php
+         https://www.bradford.ac.uk/news/archive/2018/bradford-graduate-honoured-for-blood-stem-cell-charity-work.php
+         https://www.bradford.ac.uk/news/archive/2018/bradford-chemistry-graduate-awarded-us-state-award.php
+         https://www.bradford.ac.uk/news/archive/2018/chemical-engineering-graduate-john-mcgagh-becomes-new-president-of-icheme.php
+   11  www.bradford.ac.uk/undergraduate
+         https://www.bradford.ac.uk/undergraduate
+         https://www.bradford.ac.uk/undergraduate/your-career
+         https://www.bradford.ac.uk/undergraduate/subjects
+         https://www.bradford.ac.uk/undergraduate/open-day
+   11  www.bradford.ac.uk/news/archive/2025
+         https://www.bradford.ac.uk/news/archive/2025/bradfords-online-mba-ranked-1st-in-world-again-for-value-for-money.php
+         https://www.bradford.ac.uk/news/archive/2025/graduates-leave-legacy-with-women-in-stem-network.php
+         https://www.bradford.ac.uk/news/archive/2025/ed-anderson-on-airports-advice-for-graduates-and-his-honorary-degree.php
+         https://www.bradford.ac.uk/news/archive/2025/graduate-66-rows-into-history-with-pacific-world-record.php
+   10  www.bradford.ac.uk/postgraduate
+         https://www.bradford.ac.uk/postgraduate
+         https://www.bradford.ac.uk/postgraduate/taught-degrees
+         https://www.bradford.ac.uk/postgraduate/open-day
+         https://www.bradford.ac.uk/postgraduate/research-degrees
+   10  www.bradford.ac.uk/news/archive/2021
+         https://www.bradford.ac.uk/news/archive/2021/shortage-of-archaeology-graduates-means-ours-are-regularly-headhunted.php
+         https://www.bradford.ac.uk/news/archive/2021/no-obstacle-too-great-message-to-our-2021-graduates.php
+         https://www.bradford.ac.uk/news/archive/2021/university-of-bradford-part-of-49m-bid-to-boost-bame-postgrads.php
+         https://www.bradford.ac.uk/news/archive/2021/honorary-graduates-tell-all-at-unify-festival.php
+    9  www.bradford.ac.uk/mirrored-content-poc
+         https://www.bradford.ac.uk/mirrored-content-poc/postgraduate-taught-degrees-postgraduate
+         https://www.bradford.ac.uk/mirrored-content-poc/example-timetable-our-mba
+         https://www.bradford.ac.uk/mirrored-content-poc/standard-distance-learning-route-our-mba
+         https://www.bradford.ac.uk/mirrored-content-poc/funmi,-msc-applied-artificial-intelligence-and-data-analytics-student-profiles
+    8  www.bradford.ac.uk/postgraduate/our-mba
+         https://www.bradford.ac.uk/postgraduate/our-mba/enquire
+         https://www.bradford.ac.uk/postgraduate/our-mba/example-timetable
+         https://www.bradford.ac.uk/postgraduate/our-mba/summit
+         https://www.bradford.ac.uk/postgraduate/our-mba/standard-route
+    6  www.bradford.ac.uk/undergraduate/your-career
+         https://www.bradford.ac.uk/undergraduate/your-career/next-gen-leaders
+         https://www.bradford.ac.uk/undergraduate/your-career/career-climbers
+         https://www.bradford.ac.uk/undergraduate/your-career/difference-makers
+         https://www.bradford.ac.uk/undergraduate/your-career/placements
+    5  www.bradford.ac.uk/undergraduate/applicants
+         https://www.bradford.ac.uk/undergraduate/applicants/progression-scheme
+         https://www.bradford.ac.uk/undergraduate/applicants/pre-enrolment
+         https://www.bradford.ac.uk/undergraduate/applicants/dbs-id-check
+         https://www.bradford.ac.uk/undergraduate/applicants/selection-interview
+    5  www.bradford.ac.uk/undergraduate/widening-participation
+         https://www.bradford.ac.uk/undergraduate/widening-participation/adult-learners
+         https://www.bradford.ac.uk/undergraduate/widening-participation/asylum-seeker-refugee-students
+         https://www.bradford.ac.uk/undergraduate/widening-participation/estranged
+         https://www.bradford.ac.uk/undergraduate/widening-participation/care-leavers
+    5  www.bradford.ac.uk/news/archive/2019
+         https://www.bradford.ac.uk/news/archive/2019/new-mba-director.php
+         https://www.bradford.ac.uk/news/archive/2019/university-leads-300000-city-success-to-boost-graduate-job-prospects.php
+         https://www.bradford.ac.uk/news/archive/2019/new-accreditation-to-help-msc-students.php
+         https://www.bradford.ac.uk/news/archive/2019/bradfordrsquos-mba-continues-to-be-world-leading.php
+    5  www.bradford.ac.uk/news/archive/2026
+         https://www.bradford.ac.uk/news/archive/2026/91-ofuniversity-of-bradfordgraduates-in-work-orstudy.php
+         https://www.bradford.ac.uk/news/archive/2026/world-recognition-for-distance-learning-mba-.php
+         https://www.bradford.ac.uk/news/archive/2026/masters-degree-meets-rising-demand-in-islamic-fintech.php
+         https://www.bradford.ac.uk/news/archive/2026/like-mother-like-daughter-family-dig-deep-to-graduate-together.php

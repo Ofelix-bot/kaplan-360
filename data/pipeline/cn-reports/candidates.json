@@ -1,0 +1,81 @@
+{
+  "ruc": {
+    "id": "ruc",
+    "checked": "2026-10-21",
+    "entries": [
+      "https://xxgk.ruc.edu.cn/gksx/jxzl/gxbysjyzlndbg/index.htm",
+      "https://xxgk.ruc.edu.cn/",
+      "https://career.ruc.edu.cn/",
+      "https://www.ruc.edu.cn/"
+    ],
+    "candidates": []
+  },
+  "tsinghua": {
+    "id": "tsinghua",
+    "checked": "2026-10-21",
+    "entries": [
+      "https://career.tsinghua.edu.cn/",
+      "https://www.tsinghua.edu.cn/"
+    ],
+    "candidates": []
+  },
+  "sjtu": {
+    "id": "sjtu",
+    "checked": "2026-10-21",
+    "entries": [
+      "https://restrict.sjtu.edu.cn/",
+      "https://gk.sjtu.edu.cn/",
+      "https://www.sjtu.edu.cn/"
+    ],
+    "candidates": []
+  },
+  "zju": {
+    "id": "zju",
+    "checked": "2026-10-21",
+    "entries": [
+      "https://www.zju.edu.cn/xxgk/",
+      "https://www.zju.edu.cn/"
+    ],
+    "candidates": []
+  },
+  "fudan": {
+    "id": "fudan",
+    "checked": "2026-10-21",
+    "entries": [
+      "https://xxgk.fudan.edu.cn/bysjyzlndbg/list.htm",
+      "https://xxgk.fudan.edu.cn/",
+      "https://www.fudan.edu.cn/xxgk/main.psp",
+      "https://www.fudan.edu.cn/"
+    ],
+    "candidates": [
+      {
+        "url": "https://xxgk.fudan.edu.cn/a6/90/c8200a435856/page.htm",
+        "text": "复旦大学毕业生就业质量报告（2021）",
+        "year": 2021,
+        "via": "list"
+      },
+      {
+        "url": "https://xxgk.fudan.edu.cn/dd/0c/c8200a318732/page.htm",
+        "text": "复旦大学毕业生就业质量报告（2020）",
+        "year": 2020,
+        "via": "list"
+      },
+      {
+        "url": "https://xxgk.fudan.edu.cn/_upload/article/files/b5/d4/baec292f421f9f8b589ef7d4d8ec/54e86ed1-03c7-46df-8741-402abc126dbd.pdf",
+        "text": "复旦大学毕业生就业质量报告（2019）",
+        "year": 2019,
+        "via": "list"
+      }
+    ]
+  },
+  "pku": {
+    "id": "pku",
+    "checked": "2026-10-21",
+    "entries": [
+      "https://xxgk.pku.edu.cn/",
+      "https://scc.pku.edu.cn/",
+      "https://www.pku.edu.cn/"
+    ],
+    "candidates": []
+  }
+}

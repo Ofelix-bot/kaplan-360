@@ -1,0 +1,4 @@
+# chinese-university-of-hong-kong@1 https://www.cuhk.edu.hk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemap https://www.cuhk.edu.hk/sitemap.xml: http HTTP 404
+sitemaps read 1 · urls 0 · master's-looking 0

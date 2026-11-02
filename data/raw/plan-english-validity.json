@@ -1,0 +1,30 @@
+{
+  "note": "How recent an English test must be, quoted from each university's own English-requirements page (scripts/plan/english-validity.ts).",
+  "checked": "2026-10-20",
+  "rules": {
+    "aston-university": {
+      "url": "https://www.aston.ac.uk/international/english-language-requirements",
+      "quote": "Tests must be taken within the last 2 years from the start date of the course you are applying to study at Aston University."
+    },
+    "imperial-college-london": {
+      "url": "https://www.imperial.ac.uk/study/apply/english-language/",
+      "quote": "Test scores are only considered valid if taken within 2 years of the intended course start date."
+    },
+    "king-s-college-london": {
+      "url": "https://www.kcl.ac.uk/study/postgraduate-taught/how-to-apply/entry-requirements/english-language-requirements",
+      "quote": "The tests listed below are valid if they have been taken within two years of the start date of your chosen programme."
+    },
+    "university-of-leeds": {
+      "url": "https://www.leeds.ac.uk/language-centre/doc/english-language-certificates",
+      "quote": "We cannot accept results from an IELTS test that is over two years old at the start date of the course you intend to study."
+    },
+    "university-of-bristol": {
+      "url": "https://www.bristol.ac.uk/study/language-requirements/",
+      "quote": "English language proficiency tests should be obtained within two years of the start date of your programme or course."
+    },
+    "university-of-sheffield": {
+      "url": "https://sheffield.ac.uk/postgraduate/english-language",
+      "quote": "If you are presenting one of the tests listed in this section, it should have been completed no more than two years before the start date of your Sheffield course."
+    }
+  }
+}

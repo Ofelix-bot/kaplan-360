@@ -1,0 +1,27 @@
+# indiana-university-bloomington@2 https://graduate.indiana.edu
+robots sitemaps: https://graduate.indiana.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 216 · master's-looking 17
+    6  graduate.indiana.edu/funding-professional-dev/professional-dev
+         https://graduate.indiana.edu/funding-professional-dev/professional-dev/career-resources-for-graduate-students.html
+         https://graduate.indiana.edu/funding-professional-dev/professional-dev/graduate-guide-cover-letter.html
+         https://graduate.indiana.edu/funding-professional-dev/professional-dev/graduate-guide-cv.html
+         https://graduate.indiana.edu/funding-professional-dev/professional-dev/graduate-guide-research-statement.html
+    4  graduate.indiana.edu/academic-requirements/thesis-dissertation/masters-guide
+         https://graduate.indiana.edu/academic-requirements/thesis-dissertation/masters-guide/formatting.html
+         https://graduate.indiana.edu/academic-requirements/thesis-dissertation/masters-guide/index.html
+         https://graduate.indiana.edu/academic-requirements/thesis-dissertation/masters-guide/sections.html
+         https://graduate.indiana.edu/academic-requirements/thesis-dissertation/masters-guide/submission.html
+    1  graduate.indiana.edu/about/staff
+         https://graduate.indiana.edu/about/staff/lawmaster-lee.html
+    1  graduate.indiana.edu/academic-requirements/deadlines
+         https://graduate.indiana.edu/academic-requirements/deadlines/masters.html
+    1  graduate.indiana.edu/academic-requirements/steps
+         https://graduate.indiana.edu/academic-requirements/steps/masters.html
+    1  graduate.indiana.edu/apply/how-to-apply
+         https://graduate.indiana.edu/apply/how-to-apply/graduate-audit-only.html
+    1  graduate.indiana.edu/degrees-programs
+         https://graduate.indiana.edu/degrees-programs/accelerated-masters.html
+    1  graduate.indiana.edu/funding-professional-dev/funding/fellowships
+         https://graduate.indiana.edu/funding-professional-dev/funding/fellowships/internal/distinguished-masters.html
+    1  graduate.indiana.edu/news-events/news/news-archive
+         https://graduate.indiana.edu/news-events/news/news-archive/iu-wells-graduate-fellowship-recipient.html

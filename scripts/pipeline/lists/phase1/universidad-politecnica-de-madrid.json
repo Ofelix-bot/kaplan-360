@@ -1,0 +1,14 @@
+{
+  "source": "UPM official master's list filtered to English-taught (filtro=ingles) https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?filtro=ingles&orden=ambito ; English programme pages, in-scope only (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?id=10.9&fmt=detail",
+    "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?id=10.17&fmt=detail",
+    "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?id=10.18&fmt=detail",
+    "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?id=10.19&fmt=detail",
+    "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?id=10.24&fmt=detail",
+    "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?id=59.7&fmt=detail",
+    "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?id=10.10&fmt=detail",
+    "https://www.upm.es/internacional/Students/StudiesDegrees/UniversityMasters/Master+programs?id=10.12&fmt=detail"
+  ]
+}

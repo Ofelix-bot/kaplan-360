@@ -1,0 +1,11 @@
+{
+  "source": "University of Navarra master's list https://www.unav.edu/estudios/masteres ; each in-scope programme page checked for its teaching-language field, kept only where it reads English/Inglés (Castellano e inglés skipped); IESE Business School (University of Navarra) MBA, Master in Management and Master in Finance taught in English (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.unav.edu/web/master-en-economia-y-finanzas",
+    "https://www.unav.edu/web/master-en-banca-y-regulacion-financiera",
+    "https://www.iese.edu/mba/",
+    "https://www.iese.edu/master-in-management/",
+    "https://www.iese.edu/master-in-finance/"
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "id": "scut",
+  "status": "read",
+  "university": "华南理工大学",
+  "universityEn": "South China University of Technology",
+  "tier": "985",
+  "url": "https://xxgk.scut.edu.cn/_upload/article/files/a3/57/d387666d49a2bb159a97e07bceff/e8196a5b-d4c7-4ac1-9d5d-44b79588b15b.pdf",
+  "title": "华南理工大学2022届毕业生就业质量年度报告",
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 33,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": 535,
+      "pct": 9,
+      "quote": "本科生国（境）外留学 535 人，占比 9.00%"
+    },
+    {
+      "group": "全体",
+      "cohort": null,
+      "count": 618,
+      "pct": null,
+      "quote": "学校 2022 届毕业生中，有 618 名毕业生选择出国（境）留学。"
+    }
+  ],
+  "regions": [
+    {
+      "region": "中国香港",
+      "cohort": null,
+      "count": 190,
+      "pct": 30.74,
+      "quote": "中国香港 190 30.74%"
+    },
+    {
+      "region": "英国",
+      "cohort": null,
+      "count": 112,
+      "pct": 18.12,
+      "quote": "英国 112 18.12%"
+    },
+    {
+      "region": "新加坡",
+      "cohort": null,
+      "count": 87,
+      "pct": 14.08,
+      "quote": "新加坡 87 14.08%"
+    },
+    {
+      "region": "美国",
+      "cohort": null,
+      "count": 76,
+      "pct": 12.3,
+      "quote": "美国 76 12.30%"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": null,
+      "count": 42,
+      "pct": 6.8,
+      "quote": "澳大利亚 42 6.80%"
+    },
+    {
+      "region": "日本",
+      "cohort": null,
+      "count": 32,
+      "pct": 5.18,
+      "quote": "日本 32 5.18%"
+    },
+    {
+      "region": "荷兰",
+      "cohort": null,
+      "count": 16,
+      "pct": 2.59,
+      "quote": "荷兰 16 2.59%"
+    },
+    {
+      "region": "法国",
+      "cohort": null,
+      "count": 13,
+      "pct": 2.1,
+      "quote": "法国 13 2.10%"
+    },
+    {
+      "region": "德国",
+      "cohort": null,
+      "count": 11,
+      "pct": 1.78,
+      "quote": "德国 11 1.78%"
+    },
+    {
+      "region": "中国澳门",
+      "cohort": null,
+      "count": 11,
+      "pct": 1.78,
+      "quote": "中国澳门 11 1.78%"
+    },
+    {
+      "region": "瑞典",
+      "cohort": null,
+      "count": 7,
+      "pct": 1.13,
+      "quote": "瑞典 7 1.13%"
+    },
+    {
+      "region": "沙特阿拉伯",
+      "cohort": null,
+      "count": 6,
+      "pct": 0.97,
+      "quote": "沙特阿拉伯 6 0.97%"
+    },
+    {
+      "region": "加拿大",
+      "cohort": null,
+      "count": 4,
+      "pct": 0.65,
+      "quote": "加拿大 4 0.65%"
+    },
+    {
+      "region": "芬兰",
+      "cohort": null,
+      "count": 2,
+      "pct": 0.32,
+      "quote": "芬兰 2 0.32%"
+    },
+    {
+      "region": "韩国",
+      "cohort": null,
+      "count": 2,
+      "pct": 0.32,
+      "quote": "韩国 2 0.32%"
+    },
+    {
+      "region": "国（境）外其他地区",
+      "cohort": null,
+      "count": 7,
+      "pct": 1.13,
+      "quote": "国（境）外其他地区 7 1.13%"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "QS 前50",
+      "cohort": null,
+      "count": 333,
+      "pct": 53.88,
+      "quote": "赴 QS 世界排名前 50 高校深造的有 333 人（占比 53.88%）"
+    },
+    {
+      "band": "QS 前100",
+      "cohort": null,
+      "count": 467,
+      "pct": 75.57,
+      "quote": "赴 QS 世界排名前 100 高校深造的有 467 人（占比 75.57%）"
+    }
+  ],
+  "destinations": [
+    {
+      "nameZh": "剑桥大学",
+      "nameEn": "University of Cambridge",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "2 剑桥大学 1",
+      "institutionId": "university-of-cambridge"
+    },
+    {
+      "nameZh": "牛津大学",
+      "nameEn": "University of Oxford",
+      "count": 3,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "4 牛津大学 3",
+      "institutionId": "university-of-oxford"
+    },
+    {
+      "nameZh": "帝国理工学院",
+      "nameEn": "Imperial College London",
+      "count": 4,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "6 帝国理工学院 4",
+      "institutionId": "imperial-college-london"
+    },
+    {
+      "nameZh": "伦敦大学学院",
+      "nameEn": "University College London",
+      "count": 10,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "8 伦敦大学学院 10",
+      "institutionId": "ucl"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": 57,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "11 新加坡国立大学 57",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "宾夕法尼亚大学",
+      "nameEn": "University of Pennsylvania",
+      "count": 7,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "13 宾夕法尼亚大学 7",
+      "institutionId": "university-of-pennsylvania"
+    },
+    {
+      "nameZh": "爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": 12,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "15 爱丁堡大学 12",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "普林斯顿大学",
+      "nameEn": "Princeton University",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "16 普林斯顿大学 1",
+      "institutionId": "princeton-university"
+    },
+    {
+      "nameZh": "耶鲁大学",
+      "nameEn": "Yale University",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "18 耶鲁大学 1",
+      "institutionId": "yale-university"
+    },
+    {
+      "nameZh": "南洋理工大学",
+      "nameEn": "Nanyang Technological University",
+      "count": 29,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "19 南洋理工大学 29",
+      "institutionId": "nanyang-technological-university-singapore"
+    },
+    {
+      "nameZh": "康奈尔大学",
+      "nameEn": "Cornell University",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "20 康奈尔大学 2",
+      "institutionId": "cornell-university"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "University of Hong Kong",
+      "count": 72,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "21 香港大学 72",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "哥伦比亚大学",
+      "nameEn": "Columbia University",
+      "count": 6,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "22 哥伦比亚大学 6",
+      "institutionId": "columbia-university"
+    },
+    {
+      "nameZh": "约翰霍普金斯大学",
+      "nameEn": "Johns Hopkins University",
+      "count": 4,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "24 约翰霍普金斯大学 4",
+      "institutionId": "johns-hopkins-university"
+    },
+    {
+      "nameZh": "密歇根大学",
+      "nameEn": "University of Michigan",
+      "count": 3,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "25 密歇根大学 3",
+      "institutionId": "university-of-michigan"
+    },
+    {
+      "nameZh": "加州大学伯克利分校",
+      "nameEn": "University of California, Berkeley",
+      "count": 3,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "27 加州大学伯克利分校 3",
+      "institutionId": "university-of-california-berkeley"
+    },
+    {
+      "nameZh": "曼彻斯特大学",
+      "nameEn": "University of Manchester",
+      "count": 6,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "28 曼彻斯特大学 6",
+      "institutionId": "university-of-manchester"
+    },
+    {
+      "nameZh": "澳大利亚国立大学",
+      "nameEn": "Australian National University",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "30 澳大利亚国立大学 2",
+      "institutionId": "australian-national-university"
+    },
+    {
+      "nameZh": "麦吉尔大学",
+      "nameEn": "McGill University",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "31 麦吉尔大学 1",
+      "institutionId": "mcgill-university"
+    },
+    {
+      "nameZh": "墨尔本大学",
+      "nameEn": "University of Melbourne",
+      "count": 5,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "33 墨尔本大学 5",
+      "institutionId": "university-of-melbourne"
+    },
+    {
+      "nameZh": "京都大学",
+      "nameEn": "Kyoto University",
+      "count": 3,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "36 京都大学 3",
+      "institutionId": "kyoto-university"
+    },
+    {
+      "nameZh": "伦敦大学国王学院",
+      "nameEn": "King's College London",
+      "count": 7,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "37 伦敦大学国王学院 7",
+      "institutionId": "king-s-college-london"
+    },
+    {
+      "nameZh": "香港中文大学",
+      "nameEn": "The Chinese University of Hong Kong",
+      "count": 38,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "38 香港中文大学 38",
+      "institutionId": "chinese-university-of-hong-kong"
+    },
+    {
+      "nameZh": "纽约大学",
+      "nameEn": "New York University",
+      "count": 3,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "39 纽约大学 3",
+      "institutionId": "new-york-university"
+    },
+    {
+      "nameZh": "香港科技大学",
+      "nameEn": "Hong Kong University of Science and Technology",
+      "count": 27,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "40 香港科技大学 27",
+      "institutionId": "hong-kong-university-of-science-and-technology"
+    },
+    {
+      "nameZh": "悉尼大学",
+      "nameEn": "University of Sydney",
+      "count": 16,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "41 悉尼大学 16",
+      "institutionId": "university-of-sydney"
+    },
+    {
+      "nameZh": "加州大学洛杉矶分校",
+      "nameEn": "University of California, Los Angeles",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "44 加州大学洛杉矶分校 1",
+      "institutionId": "university-of-california-los-angeles"
+    },
+    {
+      "nameZh": "新南威尔士大学",
+      "nameEn": "University of New South Wales",
+      "count": 4,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "45 新南威尔士大学 4",
+      "institutionId": "university-of-new-south-wales"
+    },
+    {
+      "nameZh": "不列颠哥伦比亚大学",
+      "nameEn": "University of British Columbia",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "47 不列颠哥伦比亚大学 1",
+      "institutionId": "university-of-british-columbia"
+    },
+    {
+      "nameZh": "慕尼黑工业大学",
+      "nameEn": "Technical University of Munich",
+      "count": 2,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "49 慕尼黑工业大学 2",
+      "institutionId": "technical-university-of-munich"
+    },
+    {
+      "nameZh": "杜克大学",
+      "nameEn": "Duke University",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "50 杜克大学 1",
+      "institutionId": "duke-university"
+    },
+    {
+      "nameZh": "昆士兰大学",
+      "nameEn": "University of Queensland",
+      "count": 1,
+      "group": "全体",
+      "list": "表 1- 14 2022 届毕业生出国（境）留学院校分布（世界 TOP50）",
+      "quote": "50 昆士兰大学 1",
+      "institutionId": "university-of-queensland"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

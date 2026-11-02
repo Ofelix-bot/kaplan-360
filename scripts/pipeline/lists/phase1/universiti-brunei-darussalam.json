@@ -1,0 +1,11 @@
+{
+ "source": "sitemap https://ubd.edu.bn/sitemap.xml /programme/; UBD publishes one coursework-master's page per school/institute (each lists that school's taught programmes), by-research excluded (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://ubd.edu.bn/programme/master-by-coursework-paprsb-institute-of-health-science-ihs/",
+  "https://ubd.edu.bn/programme/master-by-coursework-sultan-hassanal-bolkiah-institute-of-education-shbie/",
+  "https://ubd.edu.bn/programme/master-of-coursework-school-of-business-economics-sbe/",
+  "https://ubd.edu.bn/programme/master-by-coursework-institute-of-policy-studies-ips/",
+  "https://ubd.edu.bn/programme/master-of-science-by-coursework-faculty-of-science-fos/"
+ ]
+}

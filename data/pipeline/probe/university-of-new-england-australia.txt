@@ -1,0 +1,4 @@
+# university-of-new-england-australia https://www.une.edu.au
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemap https://www.une.edu.au/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemaps read 1 · urls 0 · master's-looking 0

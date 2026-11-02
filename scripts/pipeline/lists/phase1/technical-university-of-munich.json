@@ -1,0 +1,26 @@
+{
+ "source": "TUM degree-program finder filtered Master + language English https://www.tum.de/en/studies/degree-programs?tx_solr[filter][0]=graduation:Master&tx_solr[filter][1]=languageProficiency:English (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.tum.de/en/studies/degree-programs/detail/ai-in-biomedicine-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/ai-in-society",
+  "https://www.tum.de/en/studies/degree-programs/detail/computational-mechanics-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/data-and-society-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/data-engineering-and-analytics-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/finance-and-information-management-fim-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/information-systems-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/management-main-location-munich-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/management-main-location-heilbronn-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/management-and-digital-technology",
+  "https://www.tum.de/en/studies/degree-programs/detail/management-and-innovation-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/management-and-technology-tum-bwl-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/mathematical-finance-and-actuarial-science-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/mathematics-in-data-science-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/robotics-cognition-intelligence-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/software-engineering-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/sport-and-exercise-science-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/sustainable-management-and-technology-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/sustainable-resource-management-master-of-science-msc",
+  "https://www.tum.de/en/studies/degree-programs/detail/vocational-education-and-innovation-master-of-science-msc"
+ ]
+}

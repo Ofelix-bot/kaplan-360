@@ -1,0 +1,21 @@
+{
+  "source": "SFU Graduate Studies programs by faculty https://www.sfu.ca/gradstudies/apply/programs/faculties.html (course-work master's), linked to Beedie / FAS / Education / FHS programme pages (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.sfu.ca/beedie/programs/graduate/full-time-mba.html",
+    "https://www.sfu.ca/beedie/programs/graduate/management-of-technology-mba.html",
+    "https://www.sfu.ca/beedie/programs/graduate/master-of-science-in-finance.html",
+    "https://www.sfu.ca/fas/study/future-graduates/programs/master-big-data.html",
+    "https://www.sfu.ca/fas/study/future-graduates/programs/master-cybersecurity.html",
+    "https://www.sfu.ca/fas/study/future-graduates/programs/master-visual-computing.html",
+    "https://www.sfu.ca/fas/study/future-graduates/programs/mpcs.html",
+    "https://www.sfu.ca/education/programs/graduate-studies/masters/couns-psych.html",
+    "https://www.sfu.ca/education/programs/graduate-studies/masters/ed-psych.html",
+    "https://www.sfu.ca/education/programs/graduate-studies/masters/etld.html",
+    "https://www.sfu.ca/education/programs/graduate-studies/masters/teal.html",
+    "https://www.sfu.ca/education/programs/graduate-studies/masters/ci-ed-theory-practice.html",
+    "https://www.sfu.ca/education/programs/graduate-studies/masters/ci-post-sec.html",
+    "https://www.sfu.ca/education/programs/graduate-studies/masters/ed-leader-ps-surrey.html",
+    "https://www.sfu.ca/fhs/graduate/prospective/mph.html"
+  ]
+}

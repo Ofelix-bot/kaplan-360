@@ -1,0 +1,19 @@
+# university-of-texas-at-austin@2 https://gradschool.utexas.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 872 · master's-looking 252
+  205  gradschool.utexas.edu/news
+         https://gradschool.utexas.edu/news/2021-22-salary-increases-graduate-student-academic-employees
+         https://gradschool.utexas.edu/news/health-care-assistance-fund-academic-graduate-student-employees
+         https://gradschool.utexas.edu/news/celebrate-graduate-and-professional-student-appreciation-week-message-dean-ades
+         https://gradschool.utexas.edu/news/four-graduate-students-win-2024-empower-your-pitch-competition
+   44  gradschool.utexas.edu/events
+         https://gradschool.utexas.edu/events/graduate-teaching-showcase-2026
+         https://gradschool.utexas.edu/events/graduate-degree-candidates-workshop-masters-doctoral-0
+         https://gradschool.utexas.edu/events/fall-graduate-school-open-house
+         https://gradschool.utexas.edu/events/archer-graduate-fellowship-information-session-general-audience-0
+    1  gradschool.utexas.edu/about/graduate-assembly/proposals-legislation
+         https://gradschool.utexas.edu/about/graduate-assembly/proposals-legislation/submit
+    1  gradschool.utexas.edu/navigating
+         https://gradschool.utexas.edu/navigating/masters
+    1  gradschool.utexas.edu/navigating/graduation/deadlines
+         https://gradschool.utexas.edu/navigating/graduation/deadlines/masters

@@ -1,0 +1,40 @@
+{
+  "id": "zzu",
+  "status": "read",
+  "university": "郑州大学",
+  "universityEn": "Zhengzhou University",
+  "tier": "211",
+  "url": "https://ao.zzu.edu.cn/__local/4/FA/9C/FFD29531A38707C3889C727CA53_1F6E09D1_20E846.pdf",
+  "title": null,
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 89,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": "2022届",
+      "count": 333,
+      "pct": 2.8,
+      "quote": "出国、出境 333 2.80%"
+    },
+    {
+      "group": "硕士生",
+      "cohort": "2022届",
+      "count": 39,
+      "pct": 0.63,
+      "quote": "出国、出境 333 2.80% 39 0.63%"
+    },
+    {
+      "group": "博士生",
+      "cohort": "2022届",
+      "count": 3,
+      "pct": 1.26,
+      "quote": "出国、出境 333 2.80% 39 0.63% 3 1.26%"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

@@ -1,0 +1,64 @@
+# central-european-university https://www.ceu.edu
+robots sitemaps: https://www.ceu.edu/sitemap.xml · crawl-delay: 10 · AI-agent groups: 1
+index https://www.ceu.edu/sitemap.xml: 2 children (2 course-like)
+sitemaps read 3 · urls 2367 · master's-looking 78
+   25  www.ceu.edu/academics/degrees
+         https://www.ceu.edu/academics/degrees/ma-human-rights-1-year
+         https://www.ceu.edu/academics/degrees/ma-economics-data-policy-1-year
+         https://www.ceu.edu/academics/degrees/ma-historical-studies
+         https://www.ceu.edu/academics/degrees/ma-economics-data-policy-2-years
+    2  www.ceu.edu/article/2020-09-25
+         https://www.ceu.edu/article/2020-09-25/ceu-opens-academic-year-vienna-welcomes-first-cohort-undergraduate-students
+         https://www.ceu.edu/article/2020-09-25/ceu-opens-academic-year-vienna-welcomes-first-cohort-undergraduate-students-0
+    2  www.ceu.edu/article/2022-06-03
+         https://www.ceu.edu/article/2022-06-03/ceu-senate-raises-alarm-case-jailed-masters-student-ahmed-samir-santawy
+         https://www.ceu.edu/article/2022-06-03/ceu-senate-raises-alarm-case-jailed-masters-student-ahmed-samir-santawy-0
+    2  www.ceu.edu/article/2023-08-08
+         https://www.ceu.edu/article/2023-08-08/ceu-expands-scholarships-erasmus-mundus-masters-public-policy-program-support-eu
+         https://www.ceu.edu/article/2023-08-08/research-spotlight-phd-graduate-anamaria-chiritoiu-making-virtue-out-necessity
+    2  www.ceu.edu/article/2023-11-13
+         https://www.ceu.edu/article/2023-11-13/research-spotlight-phd-graduate-radu-mustata-malabar-sermonary-syriac-legacy
+         https://www.ceu.edu/article/2023-11-13/ceu-and-wien-museum-launch-new-museum-studies-masters-program
+    2  www.ceu.edu/news/2025-11
+         https://www.ceu.edu/news/2025-11/ceu-political-science-department-4th-undergraduate-essay-competition-2025
+         https://www.ceu.edu/news/2025-11/ma-public-policy-alumni-gyan-p-tripathi-co-authored-recently-published-book
+    2  www.ceu.edu/news/2026-06
+         https://www.ceu.edu/news/2026-06/experiential-learning-ceu-three-undergraduate-student-perspectives
+         https://www.ceu.edu/news/2026-06/philosophy-ma-students-receive-outstanding-academic-achievement-award
+    2  www.ceu.edu/news/2026-10
+         https://www.ceu.edu/news/2026-10/ceu-and-hertie-school-launch-dual-masters-degree-program-public-policy-and-public
+         https://www.ceu.edu/news/2026-10/ceu-relaunches-business-masters-programs-data-and-ai-era
+    1  www.ceu.edu/article/2020-01-10
+         https://www.ceu.edu/article/2020-01-10/research-proposal-reflections-masters-student
+    1  www.ceu.edu/article/2020-02-13
+         https://www.ceu.edu/article/2020-02-13/co-authored-ma-theses-ceu-success-story
+    1  www.ceu.edu/article/2020-04-23
+         https://www.ceu.edu/article/2020-04-23/vienna-based-ceu-executive-mba-welcomes-more-50-participants
+    1  www.ceu.edu/article/2020-05-07
+         https://www.ceu.edu/article/2020-05-07/2-hits-ceu-graduate-ilab-startup-founder-make-forbes-hungary-30-under-30
+    1  www.ceu.edu/top-10-application-tips-graduate-applicants
+         https://www.ceu.edu/top-10-application-tips-graduate-applicants
+    1  www.ceu.edu/article/2021-01-13
+         https://www.ceu.edu/article/2021-01-13/open-world-scholar-olivier-boruchowitch-ceus-executive-mba-program-strategy-and
+    1  www.ceu.edu/article/2021-01-15
+         https://www.ceu.edu/article/2021-01-15/top-10-application-tips-undergraduate-applicants
+    1  www.ceu.edu/article/2021-01-29
+         https://www.ceu.edu/article/2021-01-29/ceus-new-advanced-certificate-romani-studies-be-offered-masters-and-doctoral
+    1  www.ceu.edu/article/2021-02-22
+         https://www.ceu.edu/article/2021-02-22/isa-statement-regarding-arrest-and-detention-ceu-masters-student-egypt
+    1  www.ceu.edu/article/2021-03-31
+         https://www.ceu.edu/article/2021-03-31/boost-prize-awarded-ceu-environmental-studies-and-policy-graduate-frida-kobor
+    1  www.ceu.edu/article/2021-03-02
+         https://www.ceu.edu/article/2021-03-02/ma-35-der-kritik-vom-schimpfen-und-beschweren
+    1  www.ceu.edu/article/2021-06-23
+         https://www.ceu.edu/article/2021-06-23/egypt-masters-student-sentenced-four-years-prison-publishing-false-news
+    1  www.ceu.edu/article/2021-06-21
+         https://www.ceu.edu/article/2021-06-21/meet-prisoner-conscience-researcher-and-ceu-masters-student-ahmed-samir-santawy
+    1  www.ceu.edu/article/2021-07-07
+         https://www.ceu.edu/article/2021-07-07/first-year-look-ceus-undergraduate-studies
+    1  www.ceu.edu/article/2021-08-09
+         https://www.ceu.edu/article/2021-08-09/masters-student-egypt-sentenced-prison-allegedly-publishing-false-news
+    1  www.ceu.edu/article/2021-12-09
+         https://www.ceu.edu/article/2021-12-09/global-participants-practice-art-thinking-philosophy-undergraduate-essay
+    1  www.ceu.edu/article/2022-07-22
+         https://www.ceu.edu/article/2022-07-22/moles-appointed-dean-undergraduate-studies

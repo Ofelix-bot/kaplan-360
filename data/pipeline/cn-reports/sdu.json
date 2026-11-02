@@ -1,0 +1,119 @@
+{
+  "id": "sdu",
+  "status": "read",
+  "university": "山东大学",
+  "universityEn": "Shandong University",
+  "tier": "985",
+  "url": "https://job.sdu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1663302451&wbfileid=7661722",
+  "title": "山东大学2021届毕业生就业质量报告",
+  "year": 2021,
+  "cohort": "2021届",
+  "pages": 19,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": "2021届",
+      "count": 832,
+      "pct": 5.08,
+      "quote": "2021 届毕业生出国（境）832 人，出国（境）率为 5.08%"
+    },
+    {
+      "group": "本科生",
+      "cohort": "2021届",
+      "count": 703,
+      "pct": 7.13,
+      "quote": "其中：本科生 703 人，出国（境）率为 7.13%"
+    },
+    {
+      "group": "硕士生",
+      "cohort": "2021届",
+      "count": 99,
+      "pct": 1.71,
+      "quote": "硕士生 99 人，出国（境）率为 1.71%"
+    },
+    {
+      "group": "博士生",
+      "cohort": "2021届",
+      "count": 30,
+      "pct": 4.15,
+      "quote": "博士生 30 人，出国（境）率为 4.15%"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 26.08,
+      "quote": "主要流向的国家和地区有英国、中国香港，占比分别为 26.08%、16.71%"
+    },
+    {
+      "region": "中国香港",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 16.71,
+      "quote": "主要流向的国家和地区有英国、中国香港，占比分别为 26.08%、16.71%"
+    },
+    {
+      "region": "美国",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 14.9,
+      "quote": "其余占比较高的国家有美国（14.90%）"
+    },
+    {
+      "region": "新加坡",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 9.5,
+      "quote": "新加坡（9.50%）"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 9.25,
+      "quote": "澳大利亚（9.25%）"
+    },
+    {
+      "region": "日本",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 4.81,
+      "quote": "日本（4.81%）"
+    },
+    {
+      "region": "德国",
+      "cohort": "2021届",
+      "count": null,
+      "pct": 3.73,
+      "quote": "德国（3.73%）"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "QS 前50 (TOP50 高校)",
+      "cohort": "2021届",
+      "count": 414,
+      "pct": 50.49,
+      "quote": "TOP50 高校 414 50.49%"
+    },
+    {
+      "band": "QS 前100 (TOP100 高校)",
+      "cohort": "2021届",
+      "count": 590,
+      "pct": 71.95,
+      "quote": "TOP100 高校 590 71.95%"
+    },
+    {
+      "band": "QS 前200 (TOP200 高校)",
+      "cohort": "2021届",
+      "count": 665,
+      "pct": 81.1,
+      "quote": "赴 QS 世界大学排名前 200 位境外高校的毕业生 665 人，占全校出国（境）留学深造人数的 81.10%"
+    }
+  ],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-21"
+}

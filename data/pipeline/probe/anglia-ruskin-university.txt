@@ -1,0 +1,124 @@
+# anglia-ruskin-university https://www.aru.ac.uk
+robots sitemaps: https://aru.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 8193 · master's-looking 695
+  192  www.aru.ac.uk/study/postgraduate
+         https://www.aru.ac.uk/study/postgraduate/conversion-courses
+         https://www.aru.ac.uk/study/postgraduate/subject-areas
+         https://www.aru.ac.uk/study/postgraduate/how-to-apply
+         https://www.aru.ac.uk/study/postgraduate/benefits-of-postgraduate-study
+  189  www.aru.ac.uk/study/undergraduate
+         https://www.aru.ac.uk/study/undergraduate/foundation-years
+         https://www.aru.ac.uk/study/undergraduate/applicants
+         https://www.aru.ac.uk/study/undergraduate/how-to-apply
+         https://www.aru.ac.uk/study/undergraduate/clearing
+   44  www.aru.ac.uk/news
+         https://www.aru.ac.uk/news/headteacher-becomes-first-doctorate-graduate
+         https://www.aru.ac.uk/news/married-aru-students-graduate-on-the-same-day
+         https://www.aru.ac.uk/news/aru-graduates-scoop-world-illustration-awards
+         https://www.aru.ac.uk/news/embankment-masterplan-receives-grant
+   24  www.aru.ac.uk/blogs
+         https://www.aru.ac.uk/blogs/applying-for-a-graduate-visa-after-your-studies
+         https://www.aru.ac.uk/blogs/managing-the-cost-of-living-crisis-as-a-postgraduate-research-student
+         https://www.aru.ac.uk/blogs/proud-to-graduate
+         https://www.aru.ac.uk/blogs/natali-my-msc-journey-as-a-british-council-wistem-scholar-in-the-uk
+   20  www.aru.ac.uk/arts-humanities-education-and-social-sciences/research/postgraduate-research
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/research/postgraduate-research/phd-project-opportunities
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/research/postgraduate-research/application-tips
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/research/postgraduate-research/research-degrees
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/research/postgraduate-research/phd-project-opportunities/childrens-book-illustration
+   18  www.aru.ac.uk/student-life/support-and-facilities/careers-and-employability
+         https://www.aru.ac.uk/student-life/support-and-facilities/careers-and-employability/about-us/graduate-outcomes-survey
+         https://www.aru.ac.uk/student-life/support-and-facilities/careers-and-employability/developing-your-employability/graduate-capitals
+         https://www.aru.ac.uk/student-life/support-and-facilities/careers-and-employability/find-work-and-develop-skills/gaining-graduate-employment
+         https://www.aru.ac.uk/student-life/support-and-facilities/careers-and-employability/about-us/graduate-outcomes-survey/gachelle-gilkes-edwards
+   17  www.aru.ac.uk/study/postgraduate/subject-areas
+         https://www.aru.ac.uk/study/postgraduate/subject-areas/engineering-and-built-environment
+         https://www.aru.ac.uk/study/postgraduate/subject-areas/finance-and-analytics
+         https://www.aru.ac.uk/study/postgraduate/subject-areas/sport
+         https://www.aru.ac.uk/study/postgraduate/subject-areas/computer-games
+   16  www.aru.ac.uk/study/undergraduate/subject-areas
+         https://www.aru.ac.uk/study/undergraduate/subject-areas/english-history-and-philosophy
+         https://www.aru.ac.uk/study/undergraduate/subject-areas/computer-games
+         https://www.aru.ac.uk/study/undergraduate/subject-areas/sport
+         https://www.aru.ac.uk/study/undergraduate/subject-areas/psychology-and-mental-health
+   13  www.aru.ac.uk/about-us/explore-aru/graduate-success
+         https://www.aru.ac.uk/about-us/explore-aru/graduate-success/an-unplanned-success
+         https://www.aru.ac.uk/about-us/explore-aru/graduate-success/back-to-the-future
+         https://www.aru.ac.uk/about-us/explore-aru/graduate-success/feed-your-curiosity
+         https://www.aru.ac.uk/about-us/explore-aru/graduate-success/finding-my-second-home
+   13  www.aru.ac.uk/study/undergraduate/how-to-apply
+         https://www.aru.ac.uk/study/undergraduate/how-to-apply/transfer
+         https://www.aru.ac.uk/study/undergraduate/how-to-apply/applying-through-ucas
+         https://www.aru.ac.uk/study/undergraduate/how-to-apply/start-in-january-or-later
+         https://www.aru.ac.uk/study/undergraduate/how-to-apply/transfer/tabitha-vibrant-and-inspiring
+   12  www.aru.ac.uk/study/open-day/open-day-form-ug
+         https://www.aru.ac.uk/study/open-day/open-day-form-ug/undergraduate-peterborough-14-november-2026
+         https://www.aru.ac.uk/study/open-day/open-day-form-ug/undergraduate-cambridge-14-november-2026
+         https://www.aru.ac.uk/study/open-day/open-day-form-ug/undergraduate-writtle-14-november-2026
+         https://www.aru.ac.uk/study/open-day/open-day-form-ug/undergraduate-peterborough-9-january-2027
+   12  www.aru.ac.uk/study/open-day/open-day-form-pg
+         https://www.aru.ac.uk/study/open-day/open-day-form-pg/postgraduate-writtle-14-november-2026
+         https://www.aru.ac.uk/study/open-day/open-day-form-pg/postgraduate-peterborough-14-november-2026
+         https://www.aru.ac.uk/study/open-day/open-day-form-pg/postgraduate-chelmsford-14-november-2026
+         https://www.aru.ac.uk/study/open-day/open-day-form-pg/postgraduate-cambridge-14-november-2026
+   12  www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/research
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/research/phd-programme/postgraduate-researchers-and-activities
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/research/phd-programme/postgraduate-researchers-and-activities/colour-correction-and-colour-theory
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/research/phd-programme/postgraduate-researchers-and-activities/the-pragmatism-of-non-consequential-aesthetic-irrationality
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/research/phd-programme/postgraduate-researchers-and-activities/when-a-wall-gets-an-autobiography
+    8  www.aru.ac.uk/business-employers/access-student-and-graduate-talent
+         https://www.aru.ac.uk/business-employers/access-student-and-graduate-talent/advertise-graduate-job-and-internships
+         https://www.aru.ac.uk/business-employers/access-student-and-graduate-talent/internship-scheme
+         https://www.aru.ac.uk/business-employers/access-student-and-graduate-talent/recruit-for-temporary-and-part-time-roles
+         https://www.aru.ac.uk/business-employers/access-student-and-graduate-talent/careers-fairs
+    8  www.aru.ac.uk/research/our-researchers-and-their-work/research-graduate-stories
+         https://www.aru.ac.uk/research/our-researchers-and-their-work/research-graduate-stories/ronak-al-haddad-computing-information-science
+         https://www.aru.ac.uk/research/our-researchers-and-their-work/research-graduate-stories/alex-turner-analytical-forensic-chemistry
+         https://www.aru.ac.uk/research/our-researchers-and-their-work/research-graduate-stories/sophie-phelps-english-literature
+         https://www.aru.ac.uk/research/our-researchers-and-their-work/research-graduate-stories/andra-ivanescu-video-game-music
+    7  www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/why-study-with-us
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/why-study-with-us/student-work/ma-graphic-design-and-typography
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/why-study-with-us/student-work/ma-childrens-book-illustration
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/why-study-with-us/student-work/ma-film-and-television-production
+         https://www.aru.ac.uk/arts-humanities-education-and-social-sciences/cambridge-school-of-art/why-study-with-us/student-work/ma-fine-art
+    7  www.aru.ac.uk/research/postgraduate-research
+         https://www.aru.ac.uk/research/postgraduate-research/degrees-we-offer
+         https://www.aru.ac.uk/research/postgraduate-research/research-degree-regulations
+         https://www.aru.ac.uk/research/postgraduate-research/get-in-touch
+         https://www.aru.ac.uk/research/postgraduate-research/vc-phd-scholarships
+    7  www.aru.ac.uk/research/postgraduate-research/vc-phd-scholarships
+         https://www.aru.ac.uk/research/postgraduate-research/vc-phd-scholarships/aaronricks-co-developing-pathways-to-engagement-in-early-years-healthy-eating-initiatives
+         https://www.aru.ac.uk/research/postgraduate-research/vc-phd-scholarships/cardini-psychophysiological-and-psychometric-evaluation-of-a-two-week-antibiotic-course
+         https://www.aru.ac.uk/research/postgraduate-research/vc-phd-scholarships/willmott-coach-player-education-on-physical-development-and-preventive-injury-strategies
+         https://www.aru.ac.uk/research/postgraduate-research/vc-phd-scholarships/deb-boosting-sustainable-fish-consumption-in-early-years
+    6  www.aru.ac.uk/student-life/preparing-for-study/help-with-finances
+         https://www.aru.ac.uk/student-life/preparing-for-study/help-with-finances/undergraduate
+         https://www.aru.ac.uk/student-life/preparing-for-study/help-with-finances/postgraduate
+         https://www.aru.ac.uk/student-life/preparing-for-study/help-with-finances/postgraduate-research
+         https://www.aru.ac.uk/student-life/preparing-for-study/help-with-finances/undergraduate/income-thresholds-and-eligibility-for-grants-and-allowances
+    5  www.aru.ac.uk/study/undergraduate/clearing
+         https://www.aru.ac.uk/study/undergraduate/clearing/faqs
+         https://www.aru.ac.uk/study/undergraduate/clearing/how-to-apply
+         https://www.aru.ac.uk/study/undergraduate/clearing/what-is-clearing
+         https://www.aru.ac.uk/study/undergraduate/clearing/clearing-process
+    4  www.aru.ac.uk/study/undergraduate/applicants
+         https://www.aru.ac.uk/study/undergraduate/applicants/writtle
+         https://www.aru.ac.uk/study/undergraduate/applicants/cambridge
+         https://www.aru.ac.uk/study/undergraduate/applicants/peterborough
+         https://www.aru.ac.uk/study/undergraduate/applicants/chelmsford
+    3  www.aru.ac.uk/business-employers/access-student-and-graduate-talent/collaborate-with-our-students
+         https://www.aru.ac.uk/business-employers/access-student-and-graduate-talent/collaborate-with-our-students/live-briefs-case-studies/live-briefs-case-studies-archive
+         https://www.aru.ac.uk/business-employers/access-student-and-graduate-talent/collaborate-with-our-students/faqs
+         https://www.aru.ac.uk/business-employers/access-student-and-graduate-talent/collaborate-with-our-students/live-briefs-case-studies
+    3  www.aru.ac.uk/health-medicine-and-social-care/midwifery-and-community-health
+         https://www.aru.ac.uk/health-medicine-and-social-care/midwifery-and-community-health/postgraduate-and-research-degrees
+         https://www.aru.ac.uk/health-medicine-and-social-care/midwifery-and-community-health/postgraduate-courses
+         https://www.aru.ac.uk/health-medicine-and-social-care/midwifery-and-community-health/undergraduate-courses
+    3  www.aru.ac.uk/study/open-day
+         https://www.aru.ac.uk/study/open-day/your-undergraduate-open-day
+         https://www.aru.ac.uk/study/open-day/your-postgraduate-open-day
+         https://www.aru.ac.uk/study/open-day/postgraduate-peterborough-7-june-2025
+    3  www.aru.ac.uk/study/open-day/your-postgraduate-open-day
+         https://www.aru.ac.uk/study/open-day/your-postgraduate-open-day/online-postgraduate-open-events
+         https://www.aru.ac.uk/study/open-day/your-postgraduate-open-day/what-happens-on-a-postgraduate-open-day
+         https://www.aru.ac.uk/study/open-day/your-postgraduate-open-day/online-calls-with-academics

@@ -1,0 +1,29 @@
+# edith-cowan-university https://www.ecu.edu.au | robots sitemaps: https://www.ecu.edu.au/sitemap.txt https://www.ecu.edu.au/sitemap.courses.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 2 · urls 246 · mas
+# glasgow-caledonian-university https://www.gcu.ac.uk | robots sitemaps: https://www.gcu.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 6109 · master's-looking 332
+# james-cook-university https://www.jcu.edu.au | robots sitemaps: https://www.jcu.edu.au/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 9340 · master's-looking 386
+# australian-catholic-university https://www.acu.edu.au | robots sitemaps: https://www.acu.edu.au/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 25757 · master's-looking 1453
+# manchester-metropolitan-university https://www.mmu.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.mmu.ac.uk/sitemap.xml: blocked HTTP 403 (not bypassed)
+# city-st-george-s-university-of-london https://www.citystgeorges.ac.uk | robots.txt unreachable
+# london-school-of-hygiene-and-tropical-medicine https://www.lshtm.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.lshtm.ac.uk/sitemap.xml: 2 children (2 course-like)
+# essex-university-of https://www.essex.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.essex.ac.uk/sitemap.xml: network page.goto: net::ERR_EMPTY_RESPONSE at https://www.es
+# royal-veterinary-college https://www.rvc.ac.uk | robots sitemaps: https://www.rvc.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.rvc.ac.uk/sitemap.xml: robots disallowed by robots.txt:
+# open-university https://www.open.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 1601 · master's-looking 506
+# university-of-dundee https://www.dundee.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemap https://www.dundee.ac.uk/sitemap.xml: blocked HTTP 403 (not bypassed)
+# bournemouth-university https://www.bournemouth.ac.uk | robots sitemaps: (none) · crawl-delay: 10 · AI-agent groups: 0 | index https://www.bournemouth.ac.uk/sitemap.xml: 2 children (2 course-like)
+# charles-sturt-university https://study.csu.edu.au | robots sitemaps: https://study.csu.edu.au/sitemap https://study.csu.edu.au/international/sitemap https://study.csu.edu.au/_design/2017/funnelback/funnelback-askcsu-ap
+# university-of-hertfordshire https://www.herts.ac.uk | robots sitemaps: https://www.herts.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 4601 · master's-looking 805
+# university-of-leicester https://le.ac.uk | robots sitemaps: https://le.ac.uk/website.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 5909 · master's-looking 529
+# university-of-notre-dame-australia https://www.notredame.edu.au | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 1687 · master's-looking 237
+# university-of-south-wales https://www.southwales.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 10122 · master's-looking 638
+# university-of-wolverhampton https://www.wlv.ac.uk | robots sitemaps: https://www.wlv.ac.uk/sitemap-en.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 5671 · master's-looking 368
+# queen-mary-university-of-london https://www.qmul.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 0 · master's-looking 0
+# university-of-the-arts-london https://www.arts.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 16086 · master's-looking 3059
+# london-south-bank-university https://www.lsbu.ac.uk | robots sitemaps: http://www.lsbu.ac.uk/xml-sitemap · crawl-delay: 30 · AI-agent groups: 0 | sitemaps read 1 · urls 3833 · master's-looking 314
+# durham-university https://www.durham.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 0 · master's-looking 0
+# kingston-university-london https://www.kingston.ac.uk | robots sitemaps: (none) · crawl-delay: 20 · AI-agent groups: 0 | index https://www.kingston.ac.uk/sitemap.xml: 2 children (2 course-like)
+# university-of-tasmania https://www.utas.edu.au | robots sitemaps: https://www.utas.edu.au/sitemap.xml https://www.utas.edu.au/courses/sitemap.xml https://www.utas.edu.au/imas/sitemap.xml · crawl-delay: null · AI-agent 
+# university-of-new-england-australia https://www.une.edu.au | robots sitemaps: https://www.une.edu.au/sitemap.xml · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 6474 · master's-looking 194
+# ulster-university https://www.ulster.ac.uk | robots sitemaps: https://www.ulster.ac.uk/Sitemap.xml · crawl-delay: null · AI-agent groups: 0 | index https://www.ulster.ac.uk/Sitemap.xml: 35 children (6 course-like)
+# nottingham-trent-university https://www.ntu.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | index https://www.ntu.ac.uk/sitemap.xml: 27 children (4 course-like)
+# royal-holloway-university-of-london https://www.royalholloway.ac.uk | robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0 | sitemaps read 1 · urls 9112 · master's-looking 1012
+# university-of-western-australia https://www.uwa.edu.au | robots sitemaps: https://www.uwa.edu.au/sitemap.xml https://www.uwa.edu.au/ias/sitemap.xml https://www.uwa.edu.au/cas/sitemap.xml https://www.uwa.edu.au/news/sit

@@ -1,0 +1,12 @@
+{
+  "source": "ETH Zurich Master's degree programmes list https://ethz.ch/en/studies/master/degree-programmes.html (category pages, plain fetch; in-scope programmes only) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://ethz.ch/en/studies/master/degree-programmes/management-and-social-sciences/management-technology-and-economics.html",
+    "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/computer-science.html",
+    "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/cyber-security.html",
+    "https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/data-science.html",
+    "https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/quantitative-finance.html",
+    "https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/statistics.html"
+  ]
+}

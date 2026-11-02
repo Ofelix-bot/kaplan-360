@@ -1,0 +1,151 @@
+# institut-teknologi-sepuluh-nopember https://www.its.ac.id
+robots sitemaps: https://www.its.ac.id/sitemap_index.xml https://www.its.ac.id/news/sitemap_index.xml https://www.its.ac.id/dptsi/sitemap_index.xml https://www.its.ac.id/fisika/sitemap_index.xml https://www.its.ac.id/kimia/sitemap_index.xml https://www.its.ac.id/biologi/sitemap_index.xml https://www.its.ac.id/tmesin/sitemap_index.xml https://www.its.ac.id/tkimia/sitemap_index.xml https://www.its.ac.id/tfisika/sitemap_index.xml https://www.its.ac.id/tindustri/sitemap_index.xml https://www.its.ac.id/tmaterial/sitemap_index.xml https://www.its.ac.id/telektro/sitemap_index.xml https://www.its.ac.id/komputer/sitemap_index.xml https://www.its.ac.id/tbiomedik/sitemap_index.xml https://www.its.ac.id/tsipil/sitemap_index.xml https://www.its.ac.id/tlingkungan/sitemap_index.xml https://www.its.ac.id/tgeomatika/sitemap_index.xml https://www.its.ac.id/tgeofisika/sitemap_index.xml https://www.its.ac.id/arsitektur/sitemap_index.xml https://www.its.ac.id/pwk/sitemap_index.xml https://www.its.ac.id/despro/sitemap_index.xml https://www.its.ac.id/interior/sitemap_index.xml https://www.its.ac.id/tkapal/sitemap_index.xml https://www.its.ac.id/siskal/sitemap_index.xml https://www.its.ac.id/tkelautan/sitemap_index.xml https://www.its.ac.id/seatrans/sitemap_index.xml https://www.its.ac.id/matematika/sitemap_index.xml https://www.its.ac.id/statistika/sitemap_index.xml https://www.its.ac.id/informatika/sitemap_index.xml https://www.its.ac.id/si/sitemap_index.xml https://www.its.ac.id/it/sitemap_index.xml https://www.its.ac.id/mb/sitemap_index.xml https://www.its.ac.id/mt/sitemap_index.xml https://www.its.ac.id/sp/sitemap_index.xml https://www.its.ac.id/tis/sitemap_index.xml https://www.its.ac.id/tmi/sitemap_index.xml https://www.its.ac.id/teo/sitemap_index.xml https://www.its.ac.id/tki/sitemap_index.xml https://www.its.ac.id/instrumentasi/sitemap_index.xml https://www.its.ac.id/sb/sitemap_index.xml https://www.its.ac.id/akademik/sitemap_index.xml https://www.its.ac.id/kemahasiswaan/sitemap_index.xml https://www.its.ac.id/pal/sitemap_index.xml https://www.its.ac.id/sarpras/sitemap_index.xml https://www.its.ac.id/keu/sitemap_index.xml https://www.its.ac.id/sdmo/sitemap_index.xml https://www.its.ac.id/iksk/sitemap_index.xml https://www.its.ac.id/international/sitemap_index.xml https://www.its.ac.id/ulh/sitemap_index.xml https://www.its.ac.id/ppid/sitemap_index.xml https://www.its.ac.id/up4/sitemap_index.xml https://www.its.ac.id/turektorat/sitemap_index.xml https://www.its.ac.id/drpm/sitemap_index.xml https://www.its.ac.id/energi/sitemap_index.xml https://www.its.ac.id/tics/sitemap_index.xml https://www.its.ac.id/pli/sitemap_index.xml https://www.its.ac.id/kelautan/sitemap_index.xml https://www.its.ac.id/smn/sitemap_index.xml https://www.its.ac.id/kbpi/sitemap_index.xml https://www.its.ac.id/pdpm/sitemap_index.xml https://www.its.ac.id/kajihalal/sitemap_index.xml https://www.its.ac.id/phki/sitemap_index.xml https://www.its.ac.id/publikasi/sitemap_index.xml https://www.its.ac.id/dkpu/sitemap_index.xml https://www.its.ac.id/drki/sitemap_index.xml https://www.its.ac.id/inkubator/sitemap_index.xml https://www.its.ac.id/ppsp/sitemap_index.xml https://www.its.ac.id/fasum/sitemap_index.xml https://www.its.ac.id/itspress/sitemap_index.xml https://www.its.ac.id/mc/sitemap_index.xml https://www.its.ac.id/bahasa/sitemap_index.xml https://www.its.ac.id/asrama/sitemap_index.xml https://www.its.ac.id/fasor/sitemap_index.xml https://www.its.ac.id/kai/sitemap_index.xml https://www.its.ac.id/kpm/sitemap_index.xml https://www.its.ac.id/perpustakaan/sitemap_index.xml https://www.its.ac.id/bapeg/sitemap_index.xml https://www.its.ac.id/imrcs/sitemap_index.xml https://www.its.ac.id/pikti/sitemap_index.xml https://www.its.ac.id/marineicon/sitemap_index.xml https://www.its.ac.id/aktuaria/sitemap_index.xml https://www.its.ac.id/dkv/sitemap_index.xml https://www.its.ac.id/diesnatalis/sitemap_index.xml https://www.its.ac.id/burb/sitemap_index.xml https://www.its.ac.id/lsp/sitemap_index.xml https://www.its.ac.id/careers/sitemap_index.xml https://www.its.ac.id/mwa/sitemap_index.xml https://www.its.ac.id/pendidikan/sitemap_index.xml https://www.its.ac.id/stp/sitemap_index.xml https://www.its.ac.id/pascasarjana/sitemap_index.xml https://www.its.ac.id/lgift/sitemap_index.xml https://www.its.ac.id/smartecocampus/sitemap_index.xml https://www.its.ac.id/ikaln/sitemap_index.xml https://www.its.ac.id/masjid-manarul-ilmi/sitemap_index.xml https://www.its.ac.id/sustainability/sitemap_index.xml https://www.its.ac.id/wcu/sitemap_index.xml https://www.its.ac.id/ukpbj/sitemap_index.xml https://www.its.ac.id/writingcenter/sitemap_index.xml https://www.its.ac.id/admission/sitemap_index.xml https://www.its.ac.id/simt/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.its.ac.id/sitemap_index.xml: 20 children (1 course-like)
+index https://www.its.ac.id/news/sitemap_index.xml: 75 children (1 course-like)
+index https://www.its.ac.id/dptsi/sitemap_index.xml: 9 children (1 course-like)
+index https://www.its.ac.id/fisika/sitemap_index.xml: 8 children (1 course-like)
+index https://www.its.ac.id/kimia/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/biologi/sitemap_index.xml: 8 children (1 course-like)
+index https://www.its.ac.id/tmesin/sitemap_index.xml: 8 children (1 course-like)
+index https://www.its.ac.id/tkimia/sitemap_index.xml: 6 children (1 course-like)
+index https://www.its.ac.id/tfisika/sitemap_index.xml: 9 children (1 course-like)
+index https://www.its.ac.id/tindustri/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/tmaterial/sitemap_index.xml: 8 children (1 course-like)
+index https://www.its.ac.id/telektro/sitemap_index.xml: 4 children (1 course-like)
+index https://www.its.ac.id/komputer/sitemap_index.xml: 8 children (1 course-like)
+index https://www.its.ac.id/tbiomedik/sitemap_index.xml: 6 children (1 course-like)
+index https://www.its.ac.id/tsipil/sitemap_index.xml: 8 children (1 course-like)
+index https://www.its.ac.id/tlingkungan/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/tgeomatika/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/tgeofisika/sitemap_index.xml: 13 children (1 course-like)
+index https://www.its.ac.id/arsitektur/sitemap_index.xml: 6 children (1 course-like)
+index https://www.its.ac.id/pwk/sitemap_index.xml: 9 children (1 course-like)
+index https://www.its.ac.id/despro/sitemap_index.xml: 6 children (1 course-like)
+index https://www.its.ac.id/interior/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/tkapal/sitemap_index.xml: 6 children (1 course-like)
+index https://www.its.ac.id/siskal/sitemap_index.xml: 5 children (1 course-like)
+index https://www.its.ac.id/tkelautan/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/seatrans/sitemap_index.xml: 8 children (1 course-like)
+index https://www.its.ac.id/matematika/sitemap_index.xml: 9 children (1 course-like)
+index https://www.its.ac.id/statistika/sitemap_index.xml: 10 children (1 course-like)
+index https://www.its.ac.id/informatika/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/si/sitemap_index.xml: 4 children (1 course-like)
+index https://www.its.ac.id/it/sitemap_index.xml: 9 children (1 course-like)
+index https://www.its.ac.id/mb/sitemap_index.xml: 4 children (1 course-like)
+index https://www.its.ac.id/mt/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/sp/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/tis/sitemap_index.xml: 8 children (1 course-like)
+index https://www.its.ac.id/tmi/sitemap_index.xml: 7 children (1 course-like)
+index https://www.its.ac.id/teo/sitemap_index.xml: 8 children (1 course-like)
+index https://www.its.ac.id/tki/sitemap_index.xml: 6 children (1 course-like)
+index https://www.its.ac.id/instrumentasi/sitemap_index.xml: 6 children (1 course-like)
+index https://www.its.ac.id/sb/sitemap_index.xml: 8 children (1 course-like)
+sitemaps read 80 · urls 10500 · master's-looking 210
+   44  www.its.ac.id/telektro/en/academics
+         https://www.its.ac.id/telektro/en/academics/master-degree/learning-outcomes/
+         https://www.its.ac.id/telektro/en/academics/telecommunications-engineering-undergraduate-study-program/vision-and-mission/
+         https://www.its.ac.id/telektro/en/academics/telecommunications-engineering-undergraduate-study-program/student-guide-book/
+         https://www.its.ac.id/telektro/en/academics/equivalence/equivalence-master-degree/
+   17  www.its.ac.id/tgeomatika/en/academics
+         https://www.its.ac.id/tgeomatika/en/academics/study-program/master-program/vision-and-mission/
+         https://www.its.ac.id/tgeomatika/en/academics/study-program/master-program/learning-outcomes/
+         https://www.its.ac.id/tgeomatika/en/academics/study-program/master-program/tesis-exams/
+         https://www.its.ac.id/tgeomatika/en/academics/study-program/undergraduate-program/
+   10  www.its.ac.id/tmesin/en/academic
+         https://www.its.ac.id/tmesin/en/academic/study-program/master-degree/master-degree-facility/
+         https://www.its.ac.id/tmesin/en/academic/study-program/master-degree/master-degree-program-learning-outcomes/
+         https://www.its.ac.id/tmesin/en/academic/study-program/master-degree/master-degree-cooperation/
+         https://www.its.ac.id/tmesin/en/academic/study-program/master-degree/profile-of-graduate/
+   10  www.its.ac.id/tfisika/en/academic
+         https://www.its.ac.id/tfisika/en/academic/study-program/undergraduate-program/undergraduate-program/8087-2/
+         https://www.its.ac.id/tfisika/en/academic/study-program/master-program/
+         https://www.its.ac.id/tfisika/en/academic/study-program/undergraduate-program/
+         https://www.its.ac.id/tfisika/en/academic/study-program/undergraduate-program/undergraduate-program/
+    9  www.its.ac.id/tfisika/en/master
+         https://www.its.ac.id/tfisika/en/master/laboratory-at-department-of-engineering-physics/
+         https://www.its.ac.id/tfisika/en/master/map/
+         https://www.its.ac.id/tfisika/en/master/download-administration-master/
+         https://www.its.ac.id/tfisika/en/master/vision-mission-and-objectives/
+    8  www.its.ac.id/tmaterial/en
+         https://www.its.ac.id/tmaterial/en/dr-eng-hosta-ardhyananta-st-msc/
+         https://www.its.ac.id/tmaterial/en/lukman-noerochiem-st-msc-eng-phd/
+         https://www.its.ac.id/tmaterial/en/sutarsis-st-msc-phd/
+         https://www.its.ac.id/tmaterial/en/mas-irfan-purbawanto-hidayat-st-msc-phd/
+    6  www.its.ac.id/si/en/s2-postgraduate-study
+         https://www.its.ac.id/si/en/s2-postgraduate-study/misp-plo/
+         https://www.its.ac.id/si/en/s2-postgraduate-study/graduate-profiles-of-misp/
+         https://www.its.ac.id/si/en/s2-postgraduate-study/joint-degree-double-degree/
+         https://www.its.ac.id/si/en/s2-postgraduate-study/admission-requirement-of-misp/
+    6  www.its.ac.id/mb/en/academics
+         https://www.its.ac.id/mb/en/academics/study-programs/postgraduate-program/double-degree-pascasarjana-mb-its-dan-national-yunlin-university-of-science-and-technology-yuntech/
+         https://www.its.ac.id/mb/en/academics/study-programs/double-degree-fast-track-master-program/
+         https://www.its.ac.id/mb/en/academics/study-programs/international-undergraduate-program/
+         https://www.its.ac.id/mb/en/academics/study-programs/undergraduate-program-of-digital-business/
+    5  www.its.ac.id/tindustri/en
+         https://www.its.ac.id/tindustri/en/guide-to-the-postgraduate-quality-standards-2020/
+         https://www.its.ac.id/tindustri/en/undergraduate-academic-guide/
+         https://www.its.ac.id/tindustri/en/master-academic-guide/
+         https://www.its.ac.id/tindustri/en/masters-double-degree/
+    5  www.its.ac.id/pwk/en/academics
+         https://www.its.ac.id/pwk/en/academics/study-program/master-degree/lecturers/
+         https://www.its.ac.id/pwk/en/academics/study-program/master-degree/research/
+         https://www.its.ac.id/pwk/en/academics/study-program/master-degree/curriculum-pasca/
+         https://www.its.ac.id/pwk/en/academics/study-program/master-degree/
+    5  www.its.ac.id/statistika/en/academic
+         https://www.its.ac.id/statistika/en/academic/study-program/master-program-of-statistics/2018-2023-curriculum/
+         https://www.its.ac.id/statistika/en/academic/study-program/master-program-of-statistics/2025-2028-curriculum/master-program-of-statistics-student-outcomes/
+         https://www.its.ac.id/statistika/en/academic/study-program/master-program-of-statistics/
+         https://www.its.ac.id/statistika/en/academic/study-program/master-program-of-statistics/2023-2028-curriculum/
+    4  www.its.ac.id/pwk/en
+         https://www.its.ac.id/pwk/en/graduate-profile/
+         https://www.its.ac.id/pwk/en/undergraduate-interests/
+         https://www.its.ac.id/pwk/en/graduate-evaluation/
+         https://www.its.ac.id/pwk/en/graduate-program-registration/
+    3  www.its.ac.id/en/study-at-its/study-program
+         https://www.its.ac.id/en/study-at-its/study-program/master-program/
+         https://www.its.ac.id/en/study-at-its/study-program/undergraduate-program/
+         https://www.its.ac.id/en/study-at-its/study-program/its-international-undergraduate-program/
+    3  www.its.ac.id/dptsi/en
+         https://www.its.ac.id/dptsi/en/masterplan-ict/
+         https://www.its.ac.id/dptsi/en/master-plan-ict-2013-2017/
+         https://www.its.ac.id/dptsi/en/master-plan-ict-its-2020-2025/
+    3  www.its.ac.id/tindustri/en/study-programs
+         https://www.its.ac.id/tindustri/en/study-programs/master-and-doctoral-program-guidebook/
+         https://www.its.ac.id/tindustri/en/study-programs/master-curriculum-industrial-engineering/
+         https://www.its.ac.id/tindustri/en/study-programs/masters-degree-program-m-t/
+    3  www.its.ac.id/telektro/en/course-schedule
+         https://www.its.ac.id/telektro/en/course-schedule/master-course-schedules/
+         https://www.its.ac.id/telektro/en/course-schedule/masters-evaluation-schedule/
+         https://www.its.ac.id/telektro/en/course-schedule/evaluation-schedule-undergraduate/
+    3  www.its.ac.id/tgeofisika/academic/study-program
+         https://www.its.ac.id/tgeofisika/academic/study-program/international-undergraduate-program/
+         https://www.its.ac.id/tgeofisika/academic/study-program/master-program/
+         https://www.its.ac.id/tgeofisika/academic/study-program/undergraduate-program/
+    3  www.its.ac.id/arsitektur/en/program-study
+         https://www.its.ac.id/arsitektur/en/program-study/international-undergraduate-program-iup/
+         https://www.its.ac.id/arsitektur/en/program-study/undergraduate-bachelor/
+         https://www.its.ac.id/arsitektur/en/program-study/graduate-master/
+    3  www.its.ac.id/siskal/en/study-program
+         https://www.its.ac.id/siskal/en/study-program/master-degree/document-link/
+         https://www.its.ac.id/siskal/en/study-program/master-double-degree/
+         https://www.its.ac.id/siskal/en/study-program/master-degree/
+    3  www.its.ac.id/statistika/en
+         https://www.its.ac.id/statistika/en/master-program-of-statistics-alumni-survey-results/
+         https://www.its.ac.id/statistika/en/master-program-of-statistics-survey-results/
+         https://www.its.ac.id/statistika/en/master-program-of-statistics-stakeholder-survey-results/
+    3  www.its.ac.id/si/en
+         https://www.its.ac.id/si/en/research-and-topics-for-bachelor-and-master-thesis/
+         https://www.its.ac.id/si/en/s2-postgraduate-study/
+         https://www.its.ac.id/si/en/undergraduate-program/
+    2  www.its.ac.id/en/study-at-its/faculties-and-departments
+         https://www.its.ac.id/en/study-at-its/faculties-and-departments/faculty-of-intelligent-electrical-and-informatics-technology/f-electics-progress-chart-undergraduate/
+         https://www.its.ac.id/en/study-at-its/faculties-and-departments/faculty-of-intelligent-electrical-and-informatics-technology/f-electics-progress-chart-postgraduate/
+    2  www.its.ac.id/dptsi
+         https://www.its.ac.id/dptsi/masterplan-tik-2/
+         https://www.its.ac.id/dptsi/master-plan-tik-its-2020-2025/
+    2  www.its.ac.id/biologi/academic/study-programs
+         https://www.its.ac.id/biologi/academic/study-programs/graduate-learning-outcomes/
+         https://www.its.ac.id/biologi/academic/study-programs/master-degree-s2/
+    2  www.its.ac.id/tkimia/en/academic
+         https://www.its.ac.id/tkimia/en/academic/study-programs/syllabus-master-program/
+         https://www.its.ac.id/tkimia/en/academic/study-programs/syllabus-under-graduate-program/

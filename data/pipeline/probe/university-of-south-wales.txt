@@ -1,0 +1,119 @@
+# university-of-south-wales https://www.southwales.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 10122 · master's-looking 638
+  124  www.southwales.ac.uk/courses
+         https://www.southwales.ac.uk/courses/msc-expedition-and-wilderness-medicine/
+         https://www.southwales.ac.uk/courses/msc-advanced-performance-football-coaching/
+         https://www.southwales.ac.uk/courses/msc-electronics-and-information-technology/
+         https://www.southwales.ac.uk/courses/ma-camh-child-and-adolescent-mental-health/
+  121  www.southwales.ac.uk/cy/cyrsiau
+         https://www.southwales.ac.uk/cy/cyrsiau/meddygaeth-chwaraeon-ac-ymarfer-corff---msc/
+         https://www.southwales.ac.uk/cy/cyrsiau/gastroenteroleg---msc/
+         https://www.southwales.ac.uk/cy/cyrsiau/rheoli-pwysau-a-gordewdra---msc/
+         https://www.southwales.ac.uk/cy/cyrsiau/therapi-cerddoriaeth---ma/
+   23  www.southwales.ac.uk/money/undergraduate-fees-and-funding/undergraduate-scholarships-and-bursaries
+         https://www.southwales.ac.uk/money/undergraduate-fees-and-funding/undergraduate-scholarships-and-bursaries/usw-refugee-sanctuary-scheme/
+         https://www.southwales.ac.uk/money/undergraduate-fees-and-funding/undergraduate-scholarships-and-bursaries/teacher-training/
+         https://www.southwales.ac.uk/money/undergraduate-fees-and-funding/undergraduate-scholarships-and-bursaries/how-to-apply-for-undergraduate-student-funding/
+         https://www.southwales.ac.uk/money/undergraduate-fees-and-funding/undergraduate-scholarships-and-bursaries/progression-bursary-20262027/
+   14  www.southwales.ac.uk/money/postgraduate-fees-and-funding/postgraduate-scholarships-and-bursaries
+         https://www.southwales.ac.uk/money/postgraduate-fees-and-funding/postgraduate-scholarships-and-bursaries/usw-postgraduate-ethnicity-equality-bursary-20252026/
+         https://www.southwales.ac.uk/money/postgraduate-fees-and-funding/postgraduate-scholarships-and-bursaries/postgraduate-alumni-discount-20252026/
+         https://www.southwales.ac.uk/money/postgraduate-fees-and-funding/postgraduate-scholarships-and-bursaries/usw-postgraduate-ethnicity-equality-bursary-20242025/
+         https://www.southwales.ac.uk/money/postgraduate-fees-and-funding/postgraduate-scholarships-and-bursaries/postgraduate-alumni-discount-20242025/
+   11  www.southwales.ac.uk/gradschool/current-research-students/postgraduate-research-wellbeing
+         https://www.southwales.ac.uk/gradschool/current-research-students/postgraduate-research-wellbeing/accordion-2/
+         https://www.southwales.ac.uk/gradschool/current-research-students/postgraduate-research-wellbeing/online-wellbeing-resources/accordion-1/
+         https://www.southwales.ac.uk/gradschool/current-research-students/postgraduate-research-wellbeing/student-stories/lucys-story/
+         https://www.southwales.ac.uk/gradschool/current-research-students/postgraduate-research-wellbeing/online-wellbeing-resources/accordion-2/
+    8  www.southwales.ac.uk/services/careers/graduates
+         https://www.southwales.ac.uk/services/careers/graduates/jobs-and-vacancies/graduate-jobs-graduate-schemes-traineeships/
+         https://www.southwales.ac.uk/services/careers/graduates/how-to-access-careers-services/
+         https://www.southwales.ac.uk/services/careers/graduates/jobs-and-vacancies/
+         https://www.southwales.ac.uk/services/careers/graduates/exploring-and-moving-forward-with-your-career/
+    7  www.southwales.ac.uk/draft
+         https://www.southwales.ac.uk/draft/master-of-business-administration-global---mba/
+         https://www.southwales.ac.uk/draft/master-of-business-administration-global-operations-and-supply-chain-management---mba/
+         https://www.southwales.ac.uk/draft/master-of-business-administration-global-hospitality-management---mba/
+         https://www.southwales.ac.uk/draft/master-of-business-administration-global-finance---mba/
+    5  www.southwales.ac.uk/news/2021/december
+         https://www.southwales.ac.uk/news/2021/december/graduation-tales-i-dont-believe-in-bucket-lists-all-i-want-to-do-is-graduate/
+         https://www.southwales.ac.uk/news/2021/december/graduation-tales-syrian-student-ammar-achieves-masters-success/
+         https://www.southwales.ac.uk/news/2021/december/usw-graduates-to-cross-the-stage-at-icc-wales-for-the-first-time/
+         https://www.southwales.ac.uk/news/2021/december/music-business-students-hear-from-industry-expert-at-specialist-masterclass/
+    5  www.southwales.ac.uk/news/2023/july
+         https://www.southwales.ac.uk/news/2023/july/graduation-tales--duo-lead-the-way-as-first-law-graduates-from-sponsored-degree-programme/
+         https://www.southwales.ac.uk/news/2023/july/graduation-tales--dyslexic-graduate-writes-well-being-book/
+         https://www.southwales.ac.uk/news/2023/july/illustration-graduates-commissioned-for-exciting-creative-cardiff-design/
+         https://www.southwales.ac.uk/news/2023/july/music-graduates-vision-for-new-city-venue-wins-2023-natwest-prize/
+    5  www.southwales.ac.uk/cy/draft
+         https://www.southwales.ac.uk/cy/draft/meistr-mewn-gweinyddu-busnes-byd-eang---mba/
+         https://www.southwales.ac.uk/cy/draft/meistr-mewn-gweinyddu-busnes-byd-eang-rheoli-gweithrediadau-ar-gadwyn-gyflenwi---mba/
+         https://www.southwales.ac.uk/cy/draft/meistr-mewn-gweinyddu-busnes-byd-eang-cyllid---mba/
+         https://www.southwales.ac.uk/cy/draft/meistr-mewn-gweinyddu-busnes-byd-eang-marchnata---mba/
+    4  www.southwales.ac.uk/campaigns/thank-you
+         https://www.southwales.ac.uk/campaigns/thank-you/thank-you-for-your-undergraduate-enquiry---international/
+         https://www.southwales.ac.uk/campaigns/thank-you/thank-you-for-your-undergraduate-enquiry/
+         https://www.southwales.ac.uk/campaigns/thank-you/thank-you-for-your-postgraduate-enquiry/
+         https://www.southwales.ac.uk/campaigns/thank-you/thank-you-for-your-postgraduate-enquiry---international/
+    4  www.southwales.ac.uk/stem/postgraduate-stem-courses
+         https://www.southwales.ac.uk/stem/postgraduate-stem-courses/card/
+         https://www.southwales.ac.uk/stem/postgraduate-stem-courses/postgraduate-computing-at-usw/
+         https://www.southwales.ac.uk/stem/postgraduate-stem-courses/postgraduate-engineering-at-usw/
+         https://www.southwales.ac.uk/stem/postgraduate-stem-courses/postgraduate-science-at-usw/
+    4  www.southwales.ac.uk/study/postgraduate-degrees
+         https://www.southwales.ac.uk/study/postgraduate-degrees/the-value-of-postgraduate-study-for-health-care-professionals/
+         https://www.southwales.ac.uk/study/postgraduate-degrees/why-choose-usw-for-postgraduate-study/
+         https://www.southwales.ac.uk/study/postgraduate-degrees/become-a-creative-postgraduate/
+         https://www.southwales.ac.uk/study/postgraduate-degrees/postgraduate-open-events/
+    4  www.southwales.ac.uk/news/2023/january
+         https://www.southwales.ac.uk/news/2023/january/full-class-of-first-class-graduates-for-dorset-police/
+         https://www.southwales.ac.uk/news/2023/january/graduation-tales--usw-graduate-helps-clinicians-make-surgical-decisions/
+         https://www.southwales.ac.uk/news/2023/january/photography-graduates-mesmerising-image-selected-for-portrait-of-britain/
+         https://www.southwales.ac.uk/news/2023/january/graduation-tales--refugee-ida-flees-persecution-and-achieves-masters/
+    4  www.southwales.ac.uk/cy/astudio/pynciau
+         https://www.southwales.ac.uk/cy/astudio/pynciau/busnes-a-rheolaeth-/mba-byd-eang/
+         https://www.southwales.ac.uk/cy/astudio/pynciau/busnes-a-rheolaeth-/mba-byd-eang/card/
+         https://www.southwales.ac.uk/cy/astudio/pynciau/ffilm-ar-cyfryngau/ma-ffilm/
+         https://www.southwales.ac.uk/cy/astudio/pynciau/ffilm-ar-cyfryngau/ma-ffilm/card/
+    4  www.southwales.ac.uk/news/2025/july
+         https://www.southwales.ac.uk/news/2025/july/university-gave-me-my-voice-ally-defies-the-odds-to-graduate-with-first-class-honours-in-law/
+         https://www.southwales.ac.uk/news/2025/july/from-homelessness-to-honours-mohammed-overcomes-addiction-to-graduate-with-first-class-counselling-degree-/
+         https://www.southwales.ac.uk/news/2025/july/breaking-barriers-in-stem-graduate-faiths-mission-to-inspire-wore-women-in-engineering/
+         https://www.southwales.ac.uk/news/2025/july/computer-games-design-graduates-selected-for-tranzfuser-2025-competition/
+    3  www.southwales.ac.uk/news/2024/april
+         https://www.southwales.ac.uk/news/2024/april/success-at-rts-cymru-wales-awards-for-usw-students-and-graduates/
+         https://www.southwales.ac.uk/news/2024/april/game-developed-by-usw-graduates-becomes-global-top-seller/
+         https://www.southwales.ac.uk/news/2024/april/graduates-recognised-in-bafta-games-award-nominations/
+    3  www.southwales.ac.uk/news/2022/april
+         https://www.southwales.ac.uk/news/2022/april/masters-students-helping-to-solve-community-groups-challenges/
+         https://www.southwales.ac.uk/news/2022/april/the-graduate-who-is-revolutionising-the-way-islamic-prayer-is-taught-to-children/
+         https://www.southwales.ac.uk/news/2022/april/graduation-tales-policing-graduate-megan-follows-in-footsteps-of-her-father/
+    3  www.southwales.ac.uk/news/2021/august
+         https://www.southwales.ac.uk/news/2021/august/usw-graduate-designs-whimsical-new-commemorative-coin-for-the-royal-mint/
+         https://www.southwales.ac.uk/news/2021/august/usw-music-graduate-lands-job-with-brecon-jazz-festival/
+         https://www.southwales.ac.uk/news/2021/august/graduate-takes-business-full-time-with-help-from-usw/
+    3  www.southwales.ac.uk/news/2022/june
+         https://www.southwales.ac.uk/news/2022/june/usws-masters-in-computer-forensics-backed-by-cyber-security-authority/
+         https://www.southwales.ac.uk/news/2022/june/physiology-graduates-contribute-226-billion-to-the-uk-economy-every-year/
+         https://www.southwales.ac.uk/news/2022/june/university-of-south-wales-opens-graduate-incubator-hub-at-newport-campus/
+    3  www.southwales.ac.uk/money/undergraduate-fees-and-funding
+         https://www.southwales.ac.uk/money/undergraduate-fees-and-funding/undergraduate-scholarships-and-bursaries/
+         https://www.southwales.ac.uk/money/undergraduate-fees-and-funding/card-1/
+         https://www.southwales.ac.uk/money/undergraduate-fees-and-funding/undergraduate-student-finance/
+    3  www.southwales.ac.uk/apply/interviews
+         https://www.southwales.ac.uk/apply/interviews/ma-music-therapy-interview/
+         https://www.southwales.ac.uk/apply/interviews/msc-play-therapy-interview/
+         https://www.southwales.ac.uk/apply/interviews/postgraduate-certificate-integrative-counselling-skills-interview-day/
+    3  www.southwales.ac.uk/news/2021/may
+         https://www.southwales.ac.uk/news/2021/may/working-on-oscar-winning-movies-usw-graduate-tells-all/
+         https://www.southwales.ac.uk/news/2021/may/international-nurses-day-2021-masters-student-lianne-proves-that-its-never-too-late-to-start-learning/
+         https://www.southwales.ac.uk/news/2021/may/fashion-graduate-sets-up-her-own-business-in-the-midst-of-pandemic/
+    3  www.southwales.ac.uk/news/2021/april
+         https://www.southwales.ac.uk/news/2021/april/usw-graduates-success-with-oscar-winning-movie/
+         https://www.southwales.ac.uk/news/2021/april/usw-graduate-and-director-nominated-for-a-tv-bafta/
+         https://www.southwales.ac.uk/news/2021/april/meet-the-graduates-who-have-worked-on-this-years-oscar-nominated-films/
+    3  www.southwales.ac.uk/gradschool/postgraduate-research-degrees
+         https://www.southwales.ac.uk/gradschool/postgraduate-research-degrees/phd-by-portfolio/
+         https://www.southwales.ac.uk/gradschool/postgraduate-research-degrees/phd-by-publication/
+         https://www.southwales.ac.uk/gradschool/postgraduate-research-degrees/professional-doctorate/

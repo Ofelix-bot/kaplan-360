@@ -1,0 +1,128 @@
+# goldsmiths-university-of-london https://www.gold.ac.uk
+robots sitemaps: https://www.gold.ac.uk/sitemap-en.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 6163 · master's-looking 846
+  144  www.gold.ac.uk/pg
+         https://www.gold.ac.uk/pg/fees-funding/
+         https://www.gold.ac.uk/pg/why-goldsmiths/
+         https://www.gold.ac.uk/pg/
+         https://www.gold.ac.uk/pg/why-pg/
+   82  www.gold.ac.uk/our-people/profile-hub/media-and-comms
+         https://www.gold.ac.uk/our-people/profile-hub/media-and-comms/pg/morgan/
+         https://www.gold.ac.uk/our-people/profile-hub/media-and-comms/pg/sherry-bitting/
+         https://www.gold.ac.uk/our-people/profile-hub/media-and-comms/pg/giang-nguyen/
+         https://www.gold.ac.uk/our-people/profile-hub/media-and-comms/pg/ibtihal/
+   74  www.gold.ac.uk/our-people/profile-hub/sociology
+         https://www.gold.ac.uk/our-people/profile-hub/sociology/postgraduate/lisa/
+         https://www.gold.ac.uk/our-people/profile-hub/sociology/postgraduate/craig/
+         https://www.gold.ac.uk/our-people/profile-hub/sociology/undergraduate/rob-stringer/
+         https://www.gold.ac.uk/our-people/profile-hub/sociology/postgraduate/michael/
+   58  www.gold.ac.uk/our-people/profile-hub/english-and-creative-writing
+         https://www.gold.ac.uk/our-people/profile-hub/english-and-creative-writing/pg/ma/lucy-caldwell/
+         https://www.gold.ac.uk/our-people/profile-hub/english-and-creative-writing/pg/ma/tom-rausch/
+         https://www.gold.ac.uk/our-people/profile-hub/english-and-creative-writing/pg/ma/lionel-foster/
+         https://www.gold.ac.uk/our-people/profile-hub/english-and-creative-writing/pg/other/tom-lee/
+   50  www.gold.ac.uk/our-people/profile-hub/art
+         https://www.gold.ac.uk/our-people/profile-hub/art/pg/laure-prouvost/
+         https://www.gold.ac.uk/our-people/profile-hub/art/pg/juan-bolivar/
+         https://www.gold.ac.uk/our-people/profile-hub/art/pg/anthony-gross/
+         https://www.gold.ac.uk/our-people/profile-hub/art/pg/edward-sanderson/
+   50  www.gold.ac.uk/our-people/profile-hub/stacs
+         https://www.gold.ac.uk/our-people/profile-hub/stacs/undergraduate/rorie-ovens/
+         https://www.gold.ac.uk/our-people/profile-hub/stacs/undergraduate/harrison-notaro/
+         https://www.gold.ac.uk/our-people/profile-hub/stacs/undergraduate/gila-levi/
+         https://www.gold.ac.uk/our-people/profile-hub/stacs/undergraduate/patrick-king/
+   40  www.gold.ac.uk/our-people/profile-hub/educational-studies
+         https://www.gold.ac.uk/our-people/profile-hub/educational-studies/pg/oliver/
+         https://www.gold.ac.uk/our-people/profile-hub/educational-studies/pg/yvette-sullivan/
+         https://www.gold.ac.uk/our-people/profile-hub/educational-studies/pg/kelly/
+         https://www.gold.ac.uk/our-people/profile-hub/educational-studies/pg/natalie/
+   37  www.gold.ac.uk/our-people/profile-hub/theatre-and-performance
+         https://www.gold.ac.uk/our-people/profile-hub/theatre-and-performance/undergraduate/rosie-devine/
+         https://www.gold.ac.uk/our-people/profile-hub/theatre-and-performance/postgraduate/miles-openshaw/
+         https://www.gold.ac.uk/our-people/profile-hub/theatre-and-performance/postgraduate/jorge-cresis/
+         https://www.gold.ac.uk/our-people/profile-hub/theatre-and-performance/postgraduate/raz-weiner/
+   31  www.gold.ac.uk/our-people/profile-hub/psychology
+         https://www.gold.ac.uk/our-people/profile-hub/psychology/undergraduate/belina-barreti/
+         https://www.gold.ac.uk/our-people/profile-hub/psychology/undergraduate/lucy-rigley/
+         https://www.gold.ac.uk/our-people/profile-hub/psychology/postgraduate/david-baker/
+         https://www.gold.ac.uk/our-people/profile-hub/psychology/undergraduate/melissa-colak/
+   27  www.gold.ac.uk/our-people/profile-hub/design
+         https://www.gold.ac.uk/our-people/profile-hub/design/pg/ma/evan-boehm/
+         https://www.gold.ac.uk/our-people/profile-hub/design/pg/phd/alison/
+         https://www.gold.ac.uk/our-people/profile-hub/design/pg/ma/ayesha/
+         https://www.gold.ac.uk/our-people/profile-hub/design/pg/ma/marion/
+   25  www.gold.ac.uk/our-people/profile-hub/computing
+         https://www.gold.ac.uk/our-people/profile-hub/computing/pg/dr-mohammad-al-rifaie/
+         https://www.gold.ac.uk/our-people/profile-hub/computing/pg/andrew-dyer/
+         https://www.gold.ac.uk/our-people/profile-hub/computing/pg/maria/
+         https://www.gold.ac.uk/our-people/profile-hub/computing/pg/patrick-tresset/
+   23  www.gold.ac.uk/our-people/profile-hub/anthropology
+         https://www.gold.ac.uk/our-people/profile-hub/anthropology/pg/jane-acton/
+         https://www.gold.ac.uk/our-people/profile-hub/anthropology/pg/qaisar-/
+         https://www.gold.ac.uk/our-people/profile-hub/anthropology/pg/carolina/
+         https://www.gold.ac.uk/our-people/profile-hub/anthropology/pg/johanna/
+   22  www.gold.ac.uk/our-people/profile-hub/centre-for-cultural-studies
+         https://www.gold.ac.uk/our-people/profile-hub/centre-for-cultural-studies/pg/phd/christine-checinska/
+         https://www.gold.ac.uk/our-people/profile-hub/centre-for-cultural-studies/pg/ma/emilie/
+         https://www.gold.ac.uk/our-people/profile-hub/centre-for-cultural-studies/pg/ma/ashley/
+         https://www.gold.ac.uk/our-people/profile-hub/centre-for-cultural-studies/pg/phd/junko-theresa-mikuriya/
+   15  www.gold.ac.uk/news
+         https://www.gold.ac.uk/news/ma-interaction-design-show-2015/
+         https://www.gold.ac.uk/news/ma-queer-history-announced/
+         https://www.gold.ac.uk/news/computer-games-graduates-reach-the-next-level/
+         https://www.gold.ac.uk/news/tuition-fees-for-1718-entry-for-undergraduate-homeeu-students/
+   14  www.gold.ac.uk/our-people/profile-hub/music
+         https://www.gold.ac.uk/our-people/profile-hub/music/pg/wen/
+         https://www.gold.ac.uk/our-people/profile-hub/music/pg/jostein/
+         https://www.gold.ac.uk/our-people/profile-hub/music/pg/james-blake/
+         https://www.gold.ac.uk/our-people/profile-hub/music/pg/james-bulley/
+   12  www.gold.ac.uk/gam/taught-programmes
+         https://www.gold.ac.uk/gam/taught-programmes/progression/
+         https://www.gold.ac.uk/gam/taught-programmes/awards/
+         https://www.gold.ac.uk/gam/taught-programmes/programmes-of-study/
+         https://www.gold.ac.uk/gam/taught-programmes/extenuating-circumstances/
+    9  www.gold.ac.uk/our-people/profile-hub/ims
+         https://www.gold.ac.uk/our-people/profile-hub/ims/pg/rachael-skews/
+         https://www.gold.ac.uk/our-people/profile-hub/ims/pg/robin/
+         https://www.gold.ac.uk/our-people/profile-hub/ims/pg/emma-foulds/
+         https://www.gold.ac.uk/our-people/profile-hub/ims/pg/samina/
+    9  www.gold.ac.uk/our-people/profile-hub/politics-and-international-relations
+         https://www.gold.ac.uk/our-people/profile-hub/politics-and-international-relations/pg/elizabeth/
+         https://www.gold.ac.uk/our-people/profile-hub/politics-and-international-relations/pg/anna-ceesay/
+         https://www.gold.ac.uk/our-people/profile-hub/politics-and-international-relations/pg/agar-ledo-arias/
+         https://www.gold.ac.uk/our-people/profile-hub/politics-and-international-relations/pg/tausif-noor/
+    9  www.gold.ac.uk/pg/fees-funding/school-awards
+         https://www.gold.ac.uk/pg/fees-funding/school-awards/computing/
+         https://www.gold.ac.uk/pg/fees-funding/school-awards/creative-management/
+         https://www.gold.ac.uk/pg/fees-funding/school-awards/art/
+         https://www.gold.ac.uk/pg/fees-funding/school-awards/mind-body-society/
+    8  www.gold.ac.uk/pg/mfa-fine-art
+         https://www.gold.ac.uk/pg/mfa-fine-art/visiting-tutors/
+         https://www.gold.ac.uk/pg/mfa-fine-art/adam-wallace-student-work/
+         https://www.gold.ac.uk/pg/mfa-fine-art/stephanie-gervais-student-work/
+         https://www.gold.ac.uk/pg/mfa-fine-art/heloise-delegue-student-work/
+    8  www.gold.ac.uk/fees-funding/scholarships
+         https://www.gold.ac.uk/fees-funding/scholarships/goldsmiths-masters-scholarships/
+         https://www.gold.ac.uk/fees-funding/scholarships/goldsmiths-company-postgraduate-bursaries/
+         https://www.gold.ac.uk/fees-funding/scholarships/ma-contemporary-art-theory-scholarship/
+         https://www.gold.ac.uk/fees-funding/scholarships/ma-artists-film--moving-image-fee-waiver/
+    7  www.gold.ac.uk/graduate-school
+         https://www.gold.ac.uk/graduate-school/
+         https://www.gold.ac.uk/graduate-school/graduate-school-funds/
+         https://www.gold.ac.uk/graduate-school/induction-week/
+         https://www.gold.ac.uk/graduate-school/research-training/
+    7  www.gold.ac.uk/open-days
+         https://www.gold.ac.uk/open-days/undergraduate-open-day-schedule/
+         https://www.gold.ac.uk/open-days/postgraduate-open-day-schedule/
+         https://www.gold.ac.uk/open-days/postgraduate-virtual-events/
+         https://www.gold.ac.uk/open-days/undergraduate-postgraduate-open-day-schedule/
+    6  www.gold.ac.uk/pg/apply
+         https://www.gold.ac.uk/pg/apply/research-proposal/
+         https://www.gold.ac.uk/pg/apply/entry-requirements/
+         https://www.gold.ac.uk/pg/apply/personal-statements/
+         https://www.gold.ac.uk/pg/apply/english-language/
+    6  www.gold.ac.uk/accommodation/accommodation-quiz/how-close-to-campus-would-you-like-to-be-undergraduate
+         https://www.gold.ac.uk/accommodation/accommodation-quiz/how-close-to-campus-would-you-like-to-be-undergraduate/-how-much-would-you-like-to-spend-undergraduate-20-minute-walk/
+         https://www.gold.ac.uk/accommodation/accommodation-quiz/how-close-to-campus-would-you-like-to-be-undergraduate/-how-much-would-you-like-to-spend-undergraduate-20-minute-walk/up-to-230-undergraduate-20-minute-walk/
+         https://www.gold.ac.uk/accommodation/accommodation-quiz/how-close-to-campus-would-you-like-to-be-undergraduate/-how-much-would-you-like-to-spend-undergraduate-20-minute-walk/up-to-405-undergraduate-20-minute-walk/
+         https://www.gold.ac.uk/accommodation/accommodation-quiz/how-close-to-campus-would-you-like-to-be-undergraduate/how-much-would-you-like-to-spend-undergraduate-5-minute-walk/up-to-405-undergraduate-5-minute-walk/

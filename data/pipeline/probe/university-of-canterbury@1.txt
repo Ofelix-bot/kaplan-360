@@ -1,0 +1,129 @@
+# university-of-canterbury@1 https://www.canterbury.ac.nz
+robots sitemaps: https://www.canterbury.ac.nz/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.canterbury.ac.nz/sitemap.xml: 25 children (25 course-like)
+sitemaps read 26 · urls 10638 · master's-looking 1111
+  416  www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory
+         https://www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory/aashish-khadka
+         https://www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory/aasish-tiwari
+         https://www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory/Abdul-Almuteri
+         https://www.canterbury.ac.nz/about-uc/contact-us/postgrad-directory/abdul-azeez-bello
+  212  www.canterbury.ac.nz/study/academic-study/qualifications
+         https://www.canterbury.ac.nz/study/academic-study/qualifications/graduate-certificate-in-health
+         https://www.canterbury.ac.nz/study/academic-study/qualifications/graduate-certificate-in-laws
+         https://www.canterbury.ac.nz/study/academic-study/qualifications/graduate-certificate-in-maori-language-and-pedagogies-aumiri-pounamu
+         https://www.canterbury.ac.nz/study/academic-study/qualifications/graduate-certificate-in-sport-coaching
+   95  www.canterbury.ac.nz/study/uc-graduate-school/future-research-students
+         https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/research-projects
+         https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/research-projects/artery-inflammation
+         https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/research-projects/bubble-dynamics-in-an-elastoviscoplastic-medium
+         https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students/research-projects/climate-change-and-youth-citizenship-activism-and-anxiety
+   70  www.canterbury.ac.nz/study/uc-graduate-school/current-research-students
+         https://www.canterbury.ac.nz/study/uc-graduate-school/current-research-students/managing-your-research-masters-degree
+         https://www.canterbury.ac.nz/study/uc-graduate-school/current-research-students/managing-your-research-masters-degree/milestones
+         https://www.canterbury.ac.nz/study/uc-graduate-school/current-research-students/managing-your-research-masters-degree/changes-during-your-enrolment
+         https://www.canterbury.ac.nz/study/uc-graduate-school/current-research-students/managing-your-research-masters-degree/enrolment-fees-and-visas
+   54  www.canterbury.ac.nz/study/academic-study/business
+         https://www.canterbury.ac.nz/study/academic-study/business/undergraduate-business-study
+         https://www.canterbury.ac.nz/study/academic-study/business/undergraduate-business-study/bcom-info
+         https://www.canterbury.ac.nz/study/academic-study/business/undergraduate-business-study/bcom-info/bachelor-of-commerce-majors
+         https://www.canterbury.ac.nz/study/academic-study/business/undergraduate-business-study/bcom-info/degree-plans-for-bcom-majors
+   36  www.canterbury.ac.nz/study/academic-study/science
+         https://www.canterbury.ac.nz/study/academic-study/science/study-science/undergraduate-science
+         https://www.canterbury.ac.nz/study/academic-study/science/study-science/postgraduate-science
+         https://www.canterbury.ac.nz/study/academic-study/science/study-science/postgraduate-science/advice-and-forms-for-postgraduate-science
+         https://www.canterbury.ac.nz/study/academic-study/science/study-science/study-postgraduate-psychology
+   33  www.canterbury.ac.nz/study/academic-study/engineering
+         https://www.canterbury.ac.nz/study/academic-study/engineering/study-engineering-forestry-and-product-design/postgraduate-study-engineering
+         https://www.canterbury.ac.nz/study/academic-study/engineering/study-engineering-forestry-and-product-design/postgraduate-study-engineering/engineering-pg-by-research-thesis
+         https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/chemical-and-process-engineering-department/undergraduate-cape
+         https://www.canterbury.ac.nz/study/academic-study/engineering/schools-and-departments-engineering-forestry-product-design/chemical-and-process-engineering-department/postgraduate-cape
+   23  www.canterbury.ac.nz/study/study-support-info/study-related-topics
+         https://www.canterbury.ac.nz/study/study-support-info/study-related-topics/graduate-profile
+         https://www.canterbury.ac.nz/study/study-support-info/study-related-topics/graduate-profile/students
+         https://www.canterbury.ac.nz/study/study-support-info/study-related-topics/graduate-profile/students/what-is-the-graduate-profile-
+         https://www.canterbury.ac.nz/study/study-support-info/study-related-topics/graduate-profile/students/developing-your-graduate-attributes
+   17  www.canterbury.ac.nz/news-and-events/news/2026
+         https://www.canterbury.ac.nz/news-and-events/news/2026/uc-graduate-s-award-winning-research-shapes-aged-care-policy-
+         https://www.canterbury.ac.nz/news-and-events/news/2026/nine-years--one-paper-at-a-time--uc-staff-member-graduates
+         https://www.canterbury.ac.nz/news-and-events/news/2026/first--mba-gough-scholars-graduate-with-purpose-and-perspective
+         https://www.canterbury.ac.nz/news-and-events/news/2026/sharing-financial-knowledge-spurs-new-graduate
+   15  www.canterbury.ac.nz/study/academic-study/health
+         https://www.canterbury.ac.nz/study/academic-study/health/study-health/health-qualifications/health-sciences/postgraduate-health-sciences
+         https://www.canterbury.ac.nz/study/academic-study/health/study-health/health-qualifications/health-sciences/postgraduate-health-sciences/postgraduate-health-specialist-endorsements
+         https://www.canterbury.ac.nz/study/academic-study/health/study-health/health-qualifications/sport-and-sport-science/undergraduate-sport-coaching-programme
+         https://www.canterbury.ac.nz/study/academic-study/health/study-health/health-qualifications/sport-and-sport-science/postgraduate-sport-coaching-and-sport-science
+   15  www.canterbury.ac.nz/study/getting-started/scholarships
+         https://www.canterbury.ac.nz/study/getting-started/scholarships/undergraduate-scholarships
+         https://www.canterbury.ac.nz/study/getting-started/scholarships/undergraduate-scholarships/general-undergraduate-scholarships
+         https://www.canterbury.ac.nz/study/getting-started/scholarships/undergraduate-scholarships/arts-fine-arts-music-undergraduate-scholarships
+         https://www.canterbury.ac.nz/study/getting-started/scholarships/undergraduate-scholarships/business-and-law-undergraduate-scholarships
+   13  www.canterbury.ac.nz/study/academic-study/arts
+         https://www.canterbury.ac.nz/study/academic-study/arts/study-arts/arts-undergraduate-study
+         https://www.canterbury.ac.nz/study/academic-study/arts/study-arts/arts-postgraduate-study
+         https://www.canterbury.ac.nz/study/academic-study/arts/study-arts/arts-postgraduate-study/arts-pg-by-research-thesis
+         https://www.canterbury.ac.nz/study/academic-study/arts/study-arts/guide-to-postgraduate-arts
+   10  www.canterbury.ac.nz/study/getting-started/study-and-living-costs
+         https://www.canterbury.ac.nz/study/getting-started/study-and-living-costs/study-costs/domestic-tuition-fees/graduate-certificates
+         https://www.canterbury.ac.nz/study/getting-started/study-and-living-costs/study-costs/domestic-tuition-fees/graduate-diplomas
+         https://www.canterbury.ac.nz/study/getting-started/study-and-living-costs/study-costs/domestic-tuition-fees/postgraduate-certificates
+         https://www.canterbury.ac.nz/study/getting-started/study-and-living-costs/study-costs/domestic-tuition-fees/postgraduate-diplomas
+    8  www.canterbury.ac.nz/news-and-events/news/2025
+         https://www.canterbury.ac.nz/news-and-events/news/2025/uc-and-gough-family-foundation-renew-mba-leaders-scholarship-
+         https://www.canterbury.ac.nz/news-and-events/news/2025/scholarships-for-current-undergraduate-students
+         https://www.canterbury.ac.nz/news-and-events/news/2025/uc-phd-graduate-aims-to-raise-pacific-voices-in-education
+         https://www.canterbury.ac.nz/news-and-events/news/2025/uc-inspires-canadian-graduate-s-passion-for-voice-therapy-
+    7  www.canterbury.ac.nz/study/academic-study/law
+         https://www.canterbury.ac.nz/study/academic-study/law/undergraduate-law-criminal-justice-degrees
+         https://www.canterbury.ac.nz/study/academic-study/law/undergraduate-law-criminal-justice-degrees/bachelor-of-laws-information
+         https://www.canterbury.ac.nz/study/academic-study/law/undergraduate-law-criminal-justice-degrees/bachelor-of-laws-information/entry-to-200-level-law-courses
+         https://www.canterbury.ac.nz/study/academic-study/law/undergraduate-law-criminal-justice-degrees/bachelor-of-laws-information/bachelor-of-laws-specialisations
+    6  www.canterbury.ac.nz/study/other-study-options/transition-programmes
+         https://www.canterbury.ac.nz/study/other-study-options/transition-programmes/pathways-for-international-students/premasters-one-semester-programme
+         https://www.canterbury.ac.nz/study/other-study-options/transition-programmes/pathways-for-international-students/premasters-one-semester-programme/enquire-now
+         https://www.canterbury.ac.nz/study/other-study-options/transition-programmes/pathways-for-international-students/premasters-one-semester-programme/enquire-now/thank-you
+         https://www.canterbury.ac.nz/study/other-study-options/transition-programmes/pathways-for-international-students/premasters-two-semester-programme
+    6  www.canterbury.ac.nz/news-and-events/past-events/2025
+         https://www.canterbury.ac.nz/news-and-events/past-events/2025/a-masterclass-in-storytelling--sampling-some-storytelling-strategies-in-the-homeric-odyssey
+         https://www.canterbury.ac.nz/news-and-events/past-events/2025/postgraduate-information-evening-2025
+         https://www.canterbury.ac.nz/news-and-events/past-events/2025/master-of-european-union-studies-information-session
+         https://www.canterbury.ac.nz/news-and-events/past-events/2025/postgraduate-info-evening---audiology-and-speech---language-path
+    5  www.canterbury.ac.nz/about-uc/corporate-information/regulations
+         https://www.canterbury.ac.nz/about-uc/corporate-information/regulations/general-regulations/taught-and-project-course-regulations
+         https://www.canterbury.ac.nz/about-uc/corporate-information/regulations/qualification-regulations/llm-reg
+         https://www.canterbury.ac.nz/about-uc/corporate-information/regulations/qualification-regulations/ma-reg
+         https://www.canterbury.ac.nz/about-uc/corporate-information/regulations/qualification-regulations/mba-reg
+    5  www.canterbury.ac.nz/study/academic-study/education
+         https://www.canterbury.ac.nz/study/academic-study/education/education-postgraduate-study
+         https://www.canterbury.ac.nz/study/academic-study/education/education-postgraduate-study/postgraduate-education-research
+         https://www.canterbury.ac.nz/study/academic-study/education/teacher-education/guide-to-applying-for-teacher-education/key-teacher-education-information/graduate-and-postgrad-education-programmes-information
+         https://www.canterbury.ac.nz/study/academic-study/education/teacher-education/guide-to-applying-for-teacher-education/key-teacher-education-information/graduate-diploma-in-teaching-and-learning-information
+    5  www.canterbury.ac.nz/study/uc-graduate-school
+         https://www.canterbury.ac.nz/study/uc-graduate-school/graduate-school-events
+         https://www.canterbury.ac.nz/study/uc-graduate-school/contact-uc-graduate-school
+         https://www.canterbury.ac.nz/study/uc-graduate-school/future-research-students
+         https://www.canterbury.ac.nz/study/uc-graduate-school/current-research-students
+    4  www.canterbury.ac.nz/study/getting-started/about-our-qualifications
+         https://www.canterbury.ac.nz/study/getting-started/about-our-qualifications/graduate-certificates-and-diplomas
+         https://www.canterbury.ac.nz/study/getting-started/about-our-qualifications/undergraduate-certificates-and-diplomas
+         https://www.canterbury.ac.nz/study/getting-started/about-our-qualifications/postgraduate-certificates-and-diplomas
+         https://www.canterbury.ac.nz/study/getting-started/about-our-qualifications/masters-degrees
+    4  www.canterbury.ac.nz/study
+         https://www.canterbury.ac.nz/study/uc-graduate-school
+         https://www.canterbury.ac.nz/study/masters-nz-india
+         https://www.canterbury.ac.nz/study/business-masters-nz-india
+         https://www.canterbury.ac.nz/study/stem-masters-nz-india
+    4  www.canterbury.ac.nz/study/masters-nz-india
+         https://www.canterbury.ac.nz/study/masters-nz-india/enquire-now
+         https://www.canterbury.ac.nz/study/masters-nz-india/check-what-you-need-to-enrol
+         https://www.canterbury.ac.nz/study/masters-nz-india/about-our-masters-degrees
+         https://www.canterbury.ac.nz/study/masters-nz-india/study-and-living-costs
+    4  www.canterbury.ac.nz/study/business-masters-nz-india
+         https://www.canterbury.ac.nz/study/business-masters-nz-india/enquire-now
+         https://www.canterbury.ac.nz/study/business-masters-nz-india/check-what-you-need-to-enrol
+         https://www.canterbury.ac.nz/study/business-masters-nz-india/about-our-masters-degrees
+         https://www.canterbury.ac.nz/study/business-masters-nz-india/study-and-living-costs
+    4  www.canterbury.ac.nz/study/stem-masters-nz-india
+         https://www.canterbury.ac.nz/study/stem-masters-nz-india/enquire-now
+         https://www.canterbury.ac.nz/study/stem-masters-nz-india/check-what-you-need-to-enrol
+         https://www.canterbury.ac.nz/study/stem-masters-nz-india/about-our-masters-degrees
+         https://www.canterbury.ac.nz/study/stem-masters-nz-india/study-and-living-costs

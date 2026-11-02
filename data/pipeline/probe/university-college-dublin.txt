@@ -1,0 +1,113 @@
+# university-college-dublin https://www.ucd.ie
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.ucd.ie/sitemap.xml: 99 children (0 course-like)
+sitemap https://www.ucd.ie/webdev/englishdramafilm2026/sitemap.xml: robots disallowed by robots.txt: /webdev/englishdramafilm2026/sitemap.xml
+sitemaps read 80 · urls 5810 · master's-looking 398
+  182  www.ucd.ie/global/study-at-ucd/undergraduate
+         https://www.ucd.ie/global/study-at-ucd/undergraduate/entryrequirements/puertorico/
+         https://www.ucd.ie/global/study-at-ucd/undergraduate/entryrequirements/canada/newfoundlandandlabrador/
+         https://www.ucd.ie/global/study-at-ucd/undergraduate/entryrequirements/canada/britishcolumbia/
+         https://www.ucd.ie/global/study-at-ucd/undergraduate/entryrequirements/kiribati/
+   22  www.ucd.ie/nmhs/courses/taughtgraduate
+         https://www.ucd.ie/nmhs/courses/taughtgraduate/chroniccare/
+         https://www.ucd.ie/nmhs/courses/taughtgraduate/childrensnursing/higherdiplomainchildrensnursing/
+         https://www.ucd.ie/nmhs/courses/taughtgraduate/gerontologicalcare/
+         https://www.ucd.ie/nmhs/courses/taughtgraduate/publichealthandcommunitynursing/
+   20  www.ucd.ie/medicine/studywithus/undergraduate
+         https://www.ucd.ie/medicine/studywithus/undergraduate/entryrequirements/
+         https://www.ucd.ie/medicine/studywithus/undergraduate/graduateentrymedicine/gemfrequentlyaskedquestions/
+         https://www.ucd.ie/medicine/studywithus/undergraduate/medicine/
+         https://www.ucd.ie/medicine/studywithus/undergraduate/rumcmedicine/
+   14  www.ucd.ie/eacollege/newsandevents/archives
+         https://www.ucd.ie/eacollege/newsandevents/archives/2023newsarchive/esteemgraduateprogramme/
+         https://www.ucd.ie/eacollege/newsandevents/archives/2024newsarchive/esteemgraduateprogramme/
+         https://www.ucd.ie/eacollege/newsandevents/archives/2023newsarchive/sdgacademyanduniversitycollegedublinlaunchnewmasterspathwayinfoundationsofsustainabledevelopment/
+         https://www.ucd.ie/eacollege/newsandevents/archives/2021newsarchive/ucdsmastersinengineeringmanagementmemannouncesabigreductionintherequirementforon-campusattendance/
+   13  www.ucd.ie/eacollege/currentstudents/engineeringstudents
+         https://www.ucd.ie/eacollege/currentstudents/engineeringstudents/realtamasterinengineeringscholarships/
+         https://www.ucd.ie/eacollege/currentstudents/engineeringstudents/masterofsciencemsc/
+         https://www.ucd.ie/eacollege/currentstudents/engineeringstudents/modulelevelandyourundergraduatedegree/
+         https://www.ucd.ie/eacollege/currentstudents/engineeringstudents/undergraduatestage3/
+   11  www.ucd.ie/global/study-at-ucd/unitedstatesofamerica
+         https://www.ucd.ie/global/study-at-ucd/unitedstatesofamerica/undergraduate/informationforapplicants/
+         https://www.ucd.ie/global/study-at-ucd/unitedstatesofamerica/undergraduate/informationforapplicants/standardizedtestingforusapplicants/
+         https://www.ucd.ie/global/study-at-ucd/unitedstatesofamerica/undergraduate/uscounselorinformation/
+         https://www.ucd.ie/global/study-at-ucd/unitedstatesofamerica/undergraduate/informationforapplicants/ushomeschoolapplicants/
+    9  www.ucd.ie/nmhs/newsandevents
+         https://www.ucd.ie/nmhs/newsandevents/profstaceyvangelderenanddrmayabastianmasterclassandworkshops/
+         https://www.ucd.ie/nmhs/newsandevents/taughtgraduateorientation2025/
+         https://www.ucd.ie/nmhs/newsandevents/lunchandlearnwebinartaughtgraduateprogrammesenrolling2025/
+         https://www.ucd.ie/nmhs/newsandevents/ucdtoruntrialforundergraduatesuicidepreventionmodule/
+    8  www.ucd.ie/all/supportswhilestudying/financialsupports
+         https://www.ucd.ie/all/supportswhilestudying/financialsupports/undergraduatestudents/
+         https://www.ucd.ie/all/supportswhilestudying/financialsupports/undergraduatestudents/1916bursary/
+         https://www.ucd.ie/all/supportswhilestudying/financialsupports/undergraduatestudents/thinkagain/
+         https://www.ucd.ie/all/supportswhilestudying/financialsupports/undergraduatestudents/nuistudentswithadisability/
+    7  www.ucd.ie/medicine/news/2023
+         https://www.ucd.ie/medicine/news/2023/postgraduatescholarships-anatomy/
+         https://www.ucd.ie/medicine/news/2023/postgraduatescholarships-physiology/
+         https://www.ucd.ie/medicine/news/2023/professorgeraldinemccarthyarcdesignationofmasteraward/
+         https://www.ucd.ie/medicine/news/2023/ucdgraduatediplomainprimarycarenursingpracticelaunch/
+    6  www.ucd.ie/civileng/newsandevents/archive
+         https://www.ucd.ie/civileng/newsandevents/archive/ucdrecordofphdgraduatesfromcivilengineeringin2012/
+         https://www.ucd.ie/civileng/newsandevents/archive/medalawardedtoucdpostgradinitrn2011heldincork/
+         https://www.ucd.ie/civileng/newsandevents/archive/davidcoynegraduatedinucdnominatedforyounggeoengoftheyear/
+         https://www.ucd.ie/civileng/newsandevents/archive/ucdcivilengineerstudentgetsthirdplacein2013icegraduateaward/
+    6  www.ucd.ie/apep/newsandevents/archives
+         https://www.ucd.ie/apep/newsandevents/archives/2020archive/ucdarchitecturalgraduatewinsribapresidentsmedal/
+         https://www.ucd.ie/apep/newsandevents/archives/2021archive/twowinnersofthebestinnovativeconceptdetaildesigninthegldastudentgraduatedesigncompetition2020/
+         https://www.ucd.ie/apep/newsandevents/archives/2022archive/twostudentwinnersinthegldastudentgraduatedesigncompetition2022/
+         https://www.ucd.ie/apep/newsandevents/archives/2023archive/streetlifedesigncompetitionspecialmentionforlandscapegraduates/
+    4  www.ucd.ie/ega/news
+         https://www.ucd.ie/ega/news/egadistinguishedgraduateawardceremony2018/
+         https://www.ucd.ie/ega/news/egadistinguishedgraduateluncheon2021award/
+         https://www.ucd.ie/ega/news/egadistinguishedgraduateawardceremony2019/
+         https://www.ucd.ie/ega/news/egadistinguishedgraduateawardceremony2017/
+    4  www.ucd.ie/global/study-at-ucd/canada
+         https://www.ucd.ie/global/study-at-ucd/canada/undergraduate/
+         https://www.ucd.ie/global/study-at-ucd/canada/undergraduate/informationforapplicants/
+         https://www.ucd.ie/global/study-at-ucd/canada/graduate/
+         https://www.ucd.ie/global/study-at-ucd/canada/undergraduate/offerholders/
+    3  www.ucd.ie/chembioeng/study
+         https://www.ucd.ie/chembioeng/study/graduatetaughtprogrammes/
+         https://www.ucd.ie/chembioeng/study/undergraduateprogrammes/
+         https://www.ucd.ie/chembioeng/study/graduateresearchprogrammes/
+    3  www.ucd.ie/biosystems/study
+         https://www.ucd.ie/biosystems/study/graduatetaughtprogrammes/
+         https://www.ucd.ie/biosystems/study/undergraduateprogrammes/
+         https://www.ucd.ie/biosystems/study/graduateresearchprogrammes/
+    3  www.ucd.ie/nmhs/research/graduateresearchstudents
+         https://www.ucd.ie/nmhs/research/graduateresearchstudents/researchscholarshipopportunities/phdprojectopportunities/
+         https://www.ucd.ie/nmhs/research/graduateresearchstudents/graduateresearchprojects/
+         https://www.ucd.ie/nmhs/research/graduateresearchstudents/researchscholarshipopportunities/
+    3  www.ucd.ie/nmhs/newsandevents/newsandeventsarchive
+         https://www.ucd.ie/nmhs/newsandevents/newsandeventsarchive/graduatetaughtorientation5thseptember2023/
+         https://www.ucd.ie/nmhs/newsandevents/newsandeventsarchive/undergraduateorientation21st-22ndseptember2022/
+         https://www.ucd.ie/nmhs/newsandevents/newsandeventsarchive/11thjanuary2022-taughtgradorientationforstudentscommencinginjanuary2022/
+    3  www.ucd.ie/nmhs/newsandevents/2026newsandevents
+         https://www.ucd.ie/nmhs/newsandevents/2026newsandevents/januarytaughtgraduateorientation2026/
+         https://www.ucd.ie/nmhs/newsandevents/2026newsandevents/positionavailablesubjectexternalexaminerforchildrensgraduatediplomanursingatuniversitycollegedublin/
+         https://www.ucd.ie/nmhs/newsandevents/2026newsandevents/taughtgraduateorientationseptember2026/
+    3  www.ucd.ie/apep/study
+         https://www.ucd.ie/apep/study/undergraduateprogrammes/
+         https://www.ucd.ie/apep/study/graduatetaughtprogrammes/
+         https://www.ucd.ie/apep/study/graduateresearchprogrammes/
+    3  www.ucd.ie/apep/study/graduateresearchprogrammes
+         https://www.ucd.ie/apep/study/graduateresearchprogrammes/phd/
+         https://www.ucd.ie/apep/study/graduateresearchprogrammes/mastersofarchitecturalscience/
+         https://www.ucd.ie/apep/study/graduateresearchprogrammes/mastersinurbandesign/
+    2  www.ucd.ie/research/news/2026
+         https://www.ucd.ie/research/news/2026/researchirelandgovernmentofirelandpostgraduateandpostdoctoralprogrammes/
+         https://www.ucd.ie/research/news/2026/ml-labscentreforresearchtrainingcrtcelebratesits50thgraduate/
+    2  www.ucd.ie/global/study-at-ucd
+         https://www.ucd.ie/global/study-at-ucd/graduate/
+         https://www.ucd.ie/global/study-at-ucd/undergraduate/
+    2  www.ucd.ie/global/offerholders
+         https://www.ucd.ie/global/offerholders/graduateofferholders/
+         https://www.ucd.ie/global/offerholders/undergraduateofferholders/
+    2  www.ucd.ie/eacollege/study
+         https://www.ucd.ie/eacollege/study/undergraduateprogrammes/
+         https://www.ucd.ie/eacollege/study/postgraduateprogrammes/
+    2  www.ucd.ie/eacollege/currentstudents
+         https://www.ucd.ie/eacollege/currentstudents/incominggraduatefirst-yearstudents/
+         https://www.ucd.ie/eacollege/currentstudents/graduateofferholderinformation/

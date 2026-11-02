@@ -1,0 +1,23 @@
+# university-of-colorado-boulder@1 https://www.colorado.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1416 · master's-looking 44
+   36  www.colorado.edu/homepage
+         https://www.colorado.edu/homepage/anthropology-ma-mamba-phd
+         https://www.colorado.edu/homepage/art-art-history-ma-mamba
+         https://www.colorado.edu/homepage/asian-languages-civilizations-bma-ma-dual-mas-phd
+         https://www.colorado.edu/homepage/business-administration-mba-phd
+    2  www.colorado.edu/homepage/research/report
+         https://www.colorado.edu/homepage/research/report/2020-21/what-covid-19-taught-us
+         https://www.colorado.edu/homepage/research/report/2016-17/graduate-project-illuminates-science-youth
+    1  www.colorado.edu/homepage/academics/programs
+         https://www.colorado.edu/homepage/academics/programs/graduate
+    1  www.colorado.edu/homepage/academics
+         https://www.colorado.edu/homepage/academics/grad-masters-environment
+    1  www.colorado.edu/homepage/admissions/visit
+         https://www.colorado.edu/homepage/admissions/visit/graduate
+    1  www.colorado.edu/homepage/bb
+         https://www.colorado.edu/homepage/bb/welcome-international-graduate-students
+    1  www.colorado.edu/homepage/resources
+         https://www.colorado.edu/homepage/resources/office-undergraduate-education-oue
+    1  www.colorado.edu/homepage/2024/11
+         https://www.colorado.edu/homepage/2024/11/25/things-try-you-graduate

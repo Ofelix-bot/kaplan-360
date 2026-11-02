@@ -1,0 +1,117 @@
+start Mon Oct 19 18:46:38     2026
+Programme groups: 12819 · with a programme name: 11741 · taught master's in Kaplan's disciplines: 6541
+extract ok
+Claude fills missing fields for 51 programmes (claude-haiku-5-5)…
+university-o Master of Communication                          +1 kept, 0 dropped
+university-o Master of Arts Psychology                        +0 kept, 0 dropped
+university-o Master of Arts Economics                         +0 kept, 0 dropped
+university-o Master of Laws (LLM)                             +1 kept, 0 dropped
+university-o Master of Arts Criminology                       +0 kept, 0 dropped
+university-o Master of Science Nursing                        +1 kept, 0 dropped
+university-o Master of Arts Communication                     +0 kept, 0 dropped
+university-o Master of Computer Science                       +2 kept, 0 dropped
+university-o Master of Science in Management                  +2 kept, 0 dropped
+university-o Master of Science Nursing - Distance Option      +1 kept, 0 dropped
+university-o Master of Business Administration (MBA)          +1 kept, 0 dropped
+university-o Master of Arts Public Administration             +1 kept, 0 dropped
+university-o Master of Health Administration (MHA)            +3 kept, 0 dropped
+university-o Master of Digital Transformation and Innovation  +1 kept, 1 dropped
+university-o Master of Laws (LLM) and Concentration Law and T +2 kept, 0 dropped
+university-o Master of Business Complex Project Leadership    +1 kept, 0 dropped
+university-o Master of Laws (LLM) and Concentration Notarial  +1 kept, 0 dropped
+university-o Master of Education (Health Education)           +1 kept, 0 dropped
+university-o Master of Public Health, Concentration in Global +1 kept, 0 dropped
+university-o Master of Science Digital Transformation and Inn +2 kept, 0 dropped
+university-o Master of Laws (LLM) and Concentration Law and S +1 kept, 0 dropped
+university-o Master of Laws (LLM) and Concentration Legislati +1 kept, 0 dropped
+university-o Master of Science Nursing with Graduate Diploma  +1 kept, 0 dropped
+university-o Master of Arts Education (Health Education)      +0 kept, 0 dropped
+university-o Master of Applied Science Anatomical Sciences Ed +1 kept, 0 dropped
+university-o Master of Computer Science and Specialization Bi +0 kept, 0 dropped
+university-o Master of Human Kinetics with Concentration Spor +1 kept, 0 dropped
+university-o Master of Education (Counselling Psychology)     +0 kept, 0 dropped
+university-o Master of Public Health, Concentration in Public +1 kept, 0 dropped
+university-o Master of Laws (LLM) and Concentration Health La +2 kept, 0 dropped
+university-o Master of Laws (LLM) and Specialization Feminist +0 kept, 0 dropped
+university-o Master of Public Health Concentration in Public  +1 kept, 0 dropped
+university-o Master of Education (Studies in Teaching and Lea +1 kept, 0 dropped
+university-o Master of Arts Education (Counselling Psychology +0 kept, 0 dropped
+university-o Master of Education (Societies, Cultures and Lan +1 kept, 0 dropped
+university-o Master of Arts Education and Specialization Femi +0 kept, 0 dropped
+university-o Master of Computer Science and Concentration App +1 kept, 0 dropped
+university-o Master of Science Nursing and Specialization Fem +1 kept, 0 dropped
+university-o Master of Arts Criminology and Specialization Fe +0 kept, 0 dropped
+university-o Master of Arts Communication and Specialization  +0 kept, 0 dropped
+university-o Master of Arts Education (Health Professions Edu +0 kept, 0 dropped
+university-o Master of Human Kinetics with Concentration Ment +1 kept, 0 dropped
+university-o Master of Laws (LLM) and Concentration Internati +2 kept, 0 dropped
+university-o Master of Laws (LLM) and Concentration Global Su +2 kept, 0 dropped
+university-o Master of Laws (LLM) and Concentration Internati +2 kept, 0 dropped
+university-o Master of Arts Public Administration and Special +0 kept, 0 dropped
+university-o Master of Digital Transformation and Innovation  +1 kept, 1 dropped
+university-o Master of Education (Education in Minority Langu +1 kept, 0 dropped
+university-o Master of Arts Public Administration and Special +0 kept, 0 dropped
+university-o Master of Science Interdisciplinary Health Scien +1 kept, 0 dropped
+university-o Master of Science Interdisciplinary Health Scien +1 kept, 0 dropped
+Tokens: input 354213, output 12702 · cost ≈ US0.042 (Haiku 5.5: $0.10 / $0.50 per MTok)
+Claude fills missing fields for 0 programmes (claude-haiku-5-5)…
+Tokens: input 0, output 0 · cost ≈ US0.000 (Haiku 5.5: $0.10 / $0.50 per MTok)
+Claude fills missing fields for 8 programmes (claude-haiku-5-5)…
+university-o Master of Business Administration                +0 kept, 0 dropped
+university-o Master of Laws                                   +0 kept, 0 dropped
+university-o Master of Finance                                +0 kept, 0 dropped
+university-o Master of Public Health                          +0 kept, 0 dropped
+university-o Master of Management                             +0 kept, 0 dropped
+university-o Master of Arts (Economics)                       +0 kept, 0 dropped
+university-o Master’s in Applied AI                           +0 kept, 0 dropped
+university-o Master of Science (Public Health Science)        +0 kept, 0 dropped
+Tokens: input 22315, output 1674 · cost ≈ US0.003 (Haiku 5.5: $0.10 / $0.50 per MTok)
+Claude fills missing fields for 0 programmes (claude-haiku-5-5)…
+Tokens: input 0, output 0 · cost ≈ US0.000 (Haiku 5.5: $0.10 / $0.50 per MTok)
+university-of-alberta: crawl-delay Crawl-delay 120s at calendar.ualberta.ca
+Tokens: input 0, output 0 · cost ≈ US$0.000
+aston-university: standard - · 7 rules
+   6.5  Aston Business School
+   6.5  Aston Business School - MBA
+   6.5  School of Law and Social Sciences
+   6  Engineering and Physical Sciences
+   6.5  Engineering and Physical Sciences (Engineering Systems and Management programmes)
+   6.5  Health and Life Sciences
+   7  Health and Life Sciences - OSPAP
+murdoch-university: standard 6 · 13 rules
+   6.5  Food Security (C1151, M1311)
+   7  High Performance Sport (C1176, M1400); Master of Clinical Exercise Physiology (M1325); Counselling (C1111, G11
+   6.5  Gerontological Healthcare (G1102, C1154)
+   7  Master of Clinical Chiropractic (M1408)
+   6.5  Graduate Certificate in Education (C1153); Master of Education (M1313, M1367)
+   7.5  Master of Teaching (Primary and Secondary) (M1390, M1391)
+   6.5  Graduate Diploma in Australian Migration Law and Practice (G1104)
+   6.5  Food Science (C1170, G1095, M1371, M1372); Systems Medicine (C1152); Infectious Disease (C1173, G1097, M1381, 
+   6.5  Health Care Management (Specialisation) (M1358)
+   6.5  Health Care Management (M1217, C1116)
+   7  Nursing Microcredential (N1117); Advanced Would Care (C1169); Graduate Certificate in Cancer Nursing (C1174)
+   7  Psychology (G1096, M1156, M1238, M1388)
+   7  Veterinary Clinical Studies (M1223, G1094, N1088, N1089, N1112)
+Merged 141 duplicate course page(s)
+# Programme pipeline report (2026-10-19)
+
+Programmes: 6400 · needs review: 4036 · Kaplan matches: 87129
+
+| Field | Filled | By Claude |
+| --- | --- | --- |
+| International tuition | 3470 / 6400 | 3470 |
+| IELTS overall | 3660 / 6400 | 414 |
+| Duration | 5354 / 6400 | 521 |
+| Intakes | 4546 / 6400 | 2811 |
+| Academic requirement | 5474 / 6400 | 327 |
+
+By university: Aston University 32 · Birmingham City University 44 · Northumbria University at Newcastle 49 · University of Portsmouth 71 · Murdoch University 20 · Monash University 26 · University College Dublin 68 · Nanyang Technological University, Singapore (NTU) 57 · Imperial College London 34 · University of Oxford 28 · University of Cambridge 5 · UCL 142 · The University of Edinburgh 81 · King's College London 70 · The University of Manchester 90 · University of Bristol 73 · The London School of Economics and Political Science (LSE) 56 · The University of Warwick 70 · University of Birmingham 67 · University of Leeds 75 · University of Glasgow 83 · The University of Sheffield 55 · Durham University 26 · University of Nottingham 60 · Queen Mary University of London 92 · University of Southampton 80 · University of St Andrews 35 · University of Bath 44 · The University of Exeter 71 · University of Liverpool 78 · Newcastle University 77 · University of York 71 · Lancaster University 31 · Queen's University Belfast 59 · Cardiff University 61 · Loughborough University 60 · University of Strathclyde 92 · University of Surrey 56 · University of Sussex 68 · University of Aberdeen 65 · The University of New South Wales (UNSW Sydney) 43 · The University of Melbourne 77 · The University of Sydney 44 · The University of Queensland 36 · Adelaide University 54 · University of Technology Sydney 59 · RMIT University 28 · University of Wollongong 31 · Deakin University 44 · Griffith University 38 · Queensland University of Technology (QUT) 26 · La Trobe University 34 · The University of Newcastle, Australia (UON) 30 · Swinburne University of Technology 22 · Trinity College Dublin, The University of Dublin 46 · University College Cork 44 · National University of Ireland Galway 46 · Singapore Management University 13 · Anglia Ruskin University 54 · Bangor University 47 · Brunel University London 55 · Canterbury Christ Church University 22 · Coventry University 53 · Cranfield University 11 · De Montfort University 24 · Edinburgh Napier University 29 · Goldsmiths, University of London 31 · Heriot-Watt University 43 · Leeds Beckett University 68 · London Metropolitan University 45 · Middlesex University 47 · Oxford Brookes University 42 · Queen Margaret University , Edinburgh 17 · Sheffield Hallam University 81 · SOAS University of London 13 · Swansea University 59 · University of Bradford 41 · University of Brighton 38 · University of East Anglia (UEA) 105 · University of East London 60 · University of Greenwich 29 · University of Hull 29 · University of Lancashire 38 · The University of Northampton 21 · University of Roehampton, London 42 · University of Salford 49 · University of Stirling 43 · Bond University 44 · Charles Darwin University 20 · Flinders University 3 · Southern Cross University 6 · Western Sydney University 29 · James Cook University 4 · University of Sunshine Coast 15 · Victoria University 16 · Maynooth University 35 · Technological University Dublin 30 · Glasgow Caledonian University 8 · Kingston University, London 43 · Nottingham Trent University 56 · University of Hertfordshire 98 · University Of South Wales 51 · University of Wolverhampton 48 · Australian Catholic University 22 · Edith Cowan University 33 · The University of Notre Dame, Australia 22 · University of Tasmania 12 · Massachusetts Institute of Technology (MIT) 6 · Stanford University 11 · University of Pennsylvania 61 · Johns Hopkins University 44 · University of California, Berkeley (UCB) 48 · University of Chicago 8 · Northwestern University 33 · University of California, Los Angeles (UCLA) 12 · New York University (NYU) 107 · Duke University 2 · University of Illinois at Urbana-Champaign 36 · University of Wisconsin-Madison 38 · University of California, Davis 2 · Georgia Institute of Technology 16 · Washington University in St. Louis 2 · Texas A&M University 53 · University of California, Irvine 9 · University of Maryland, College Park 95 · University of Massachusetts Amherst 35 · Georgetown University 31 · The University of Arizona 19 · North Carolina State University 38 · University of Colorado Boulder 27 · Northeastern University 104 · The University of Hong Kong 30 · The Chinese University of Hong Kong (CUHK) 57 · The Hong Kong University of Science and Technology 23 · The Hong Kong Polytechnic University 44 · University of Toronto 4 · University of British Columbia 49 · University of Alberta 46 · University of Ottawa 51 · University of Calgary 11 · The University of Auckland 7 · Massey University 20 · Victoria University of Wellington 25 · University of Canterbury 36 · University of Waikato 26 · Lincoln University 10 · Auckland University of Technology (AUT) 24 · University of Southern Queensland 2 · Central Queensland University (CQUniversity Australia) 30 · University of Leicester 37 · University of Kent 1 · Royal Holloway University of London 4 · Dublin City University 58
+Drafting "Before applying" for 54 programmes (claude-haiku-5-5)…
+50/54
+Done; 1 steps dropped (a number not in the quotes, admission wording or a remark about the source).
+Tokens: input 57728, output 9500 · cost ≈ US$0.011
+    at async file:///C:/Users/12514/Desktop/kaplan_360++v201/scripts/data/load-supabase.mjs:182:3
+
+Node.js v24.21.0
+No admission wording found in the site's text or in Claude-drafted content.
+chain done Mon Oct 19 18:48:41     2026

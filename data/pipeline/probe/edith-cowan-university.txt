@@ -1,0 +1,8 @@
+# edith-cowan-university https://www.ecu.edu.au
+robots sitemaps: https://www.ecu.edu.au/sitemap.txt https://www.ecu.edu.au/sitemap.courses.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 2 · urls 246 · master's-looking 141
+  141  www.ecu.edu.au/degrees/courses
+         https://www.ecu.edu.au/degrees/courses/bachelor-of-laws-graduate-entry
+         https://www.ecu.edu.au/degrees/courses/graduate-certificate-in-aviation-management
+         https://www.ecu.edu.au/degrees/courses/graduate-certificate-in-children-and-young-peoples-nursing
+         https://www.ecu.edu.au/degrees/courses/graduate-certificate-in-contemporary-care-of-the-older-person

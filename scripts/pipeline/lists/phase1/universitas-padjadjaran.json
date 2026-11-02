@@ -1,0 +1,9 @@
+{
+ "source": "Unpad international admission master's page https://info.admission.unpad.ac.id/program/master-s-degree: the three fully English-taught international master's (Management, International Relations, Public Administration), each programme's own site; sites return 403 to scripted clients, browser needed (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://mm.feb.unpad.ac.id/the-program/",
+  "https://hi.fisip.unpad.ac.id/program/magister/",
+  "https://pps.fisip.unpad.ac.id/magister-administrasi-publik-2/"
+ ]
+}

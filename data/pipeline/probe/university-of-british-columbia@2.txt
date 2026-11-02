@@ -1,0 +1,97 @@
+# university-of-british-columbia@2 https://www.grad.ubc.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.grad.ubc.ca/sitemap.xml: 2 children (2 course-like)
+sitemaps read 3 · urls 8245 · master's-looking 955
+  359  www.grad.ubc.ca/prospective-students/graduate-degree-programs
+         https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-applied-animal-biology
+         https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-applied-animal-biology
+         https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/llm-taxation
+         https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-public-health-master-nursing
+  285  www.grad.ubc.ca/about-us/events
+         https://www.grad.ubc.ca/about-us/events/106471-educanada-graduate-fair-2017
+         https://www.grad.ubc.ca/about-us/events/106474-2017-engineering-graduate-school-fair-ubc
+         https://www.grad.ubc.ca/about-us/events/106475-2017-engineering-graduate-school-fair-mcgill
+         https://www.grad.ubc.ca/about-us/events/106476-2017-engineering-graduate-school-fair-queens
+  107  www.grad.ubc.ca/about-us/news
+         https://www.grad.ubc.ca/about-us/news/26-ubc-graduate-students-are-2013-vanier-scholars
+         https://www.grad.ubc.ca/about-us/news/inaugural-hanson-lau-graduate-research-scholarship-awarded
+         https://www.grad.ubc.ca/about-us/news/ubc-appoints-new-dean-vice-provost-graduate-postdoctoral-studies
+         https://www.grad.ubc.ca/about-us/news/ubc-phd-graduate-delivers-valedictory-address
+   85  www.grad.ubc.ca/current-students/professional-development
+         https://www.grad.ubc.ca/current-students/professional-development/graduate-game-plan
+         https://www.grad.ubc.ca/current-students/professional-development/17763-career-planning-graduate
+         https://www.grad.ubc.ca/current-students/professional-development/20396-library-orientation-graduate-students-30-minutes
+         https://www.grad.ubc.ca/current-students/professional-development/23124-graduate-instructional-skills-workshop-july-2-8-9
+   35  www.grad.ubc.ca/forms
+         https://www.grad.ubc.ca/forms/go-global-outgoing-graduate-students-authorization-course-registration
+         https://www.grad.ubc.ca/forms/affiliated-fellowships-application-form-applicants-masters-level-funding
+         https://www.grad.ubc.ca/forms/indigenous-graduate-fellowship-reference-form
+         https://www.grad.ubc.ca/forms/recommendation-supervision-graduate-student-non-gps-member
+   31  www.grad.ubc.ca/awards
+         https://www.grad.ubc.ca/awards/graduate-research-awards-disarmament-arms-control-non-proliferation
+         https://www.grad.ubc.ca/awards/spring-graduate-awards-competition
+         https://www.grad.ubc.ca/awards/soroptimist-foundation-canada-grants-women-graduate-students
+         https://www.grad.ubc.ca/awards/arthritis-society-graduate-phd-salary-award
+    8  www.grad.ubc.ca/current-students/managing-your-program
+         https://www.grad.ubc.ca/current-students/managing-your-program/graduate-student-insurance
+         https://www.grad.ubc.ca/current-students/managing-your-program/masters-students-0
+         https://www.grad.ubc.ca/current-students/managing-your-program/graduate-student-vacation-policy
+         https://www.grad.ubc.ca/current-students/managing-your-program/masters-students
+    4  www.grad.ubc.ca/policies
+         https://www.grad.ubc.ca/policies/membership-faculty-graduate-postdoctoral-studies
+         https://www.grad.ubc.ca/policies/examinations-masters-theses-doctoral-dissertations
+         https://www.grad.ubc.ca/policies/graduate-student-vacation-policy
+         https://www.grad.ubc.ca/policies/dealing-academic-misconduct-graduate-students
+    3  www.grad.ubc.ca/strategic-priorities
+         https://www.grad.ubc.ca/strategic-priorities/enhancing-graduate-supervision
+         https://www.grad.ubc.ca/strategic-priorities/reimagining-graduate-education
+         https://www.grad.ubc.ca/strategic-priorities/promoting-excellence-graduate-programs
+    3  www.grad.ubc.ca/about-us/graduate-education-analysis-research
+         https://www.grad.ubc.ca/about-us/graduate-education-analysis-research/career-outcomes
+         https://www.grad.ubc.ca/about-us/graduate-education-analysis-research/studies-surveys
+         https://www.grad.ubc.ca/about-us/graduate-education-analysis-research/admissions-enrolment-degrees-awarded
+    3  www.grad.ubc.ca/campus-commmunity/blog
+         https://www.grad.ubc.ca/campus-commmunity/blog/top-5-tips-applying-graduate-school
+         https://www.grad.ubc.ca/campus-commmunity/blog/housing-tips-graduate-students
+         https://www.grad.ubc.ca/campus-commmunity/blog/where-live-metro-vancouver-neighbourhood-guide-ubc-graduate-students
+    3  www.grad.ubc.ca/current-students/student-status-classification
+         https://www.grad.ubc.ca/current-students/student-status-classification/visiting-graduate-students
+         https://www.grad.ubc.ca/current-students/student-status-classification/staff-graduate-students
+         https://www.grad.ubc.ca/current-students/student-status-classification/faculty-graduate-students
+    3  www.grad.ubc.ca/faculty-staff/information-supervisors
+         https://www.grad.ubc.ca/faculty-staff/information-supervisors/supervising-graduate-students
+         https://www.grad.ubc.ca/faculty-staff/information-supervisors/graduate-student-responsibilities
+         https://www.grad.ubc.ca/faculty-staff/information-supervisors/building-effective-graduate-student-supervisor-relationship
+    3  www.grad.ubc.ca/current-students/professional-development/provider
+         https://www.grad.ubc.ca/current-students/professional-development/provider/graduate-pathways-success
+         https://www.grad.ubc.ca/current-students/professional-development/provider/graduate-postdoctoral-studies
+         https://www.grad.ubc.ca/current-students/professional-development/provider/graduate-student-society
+    2  www.grad.ubc.ca/researcher
+         https://www.grad.ubc.ca/researcher/14004-ma
+         https://www.grad.ubc.ca/researcher/111006-ma
+    2  www.grad.ubc.ca/campus-community/meet-our-students
+         https://www.grad.ubc.ca/campus-community/meet-our-students/ma-luyao
+         https://www.grad.ubc.ca/campus-community/meet-our-students/zhu-sophie-ma
+    2  www.grad.ubc.ca/about-us
+         https://www.grad.ubc.ca/about-us/giving-graduate-studies
+         https://www.grad.ubc.ca/about-us/graduate-education-analysis-research
+    2  www.grad.ubc.ca/about-us/equity-diversity-inclusion
+         https://www.grad.ubc.ca/about-us/equity-diversity-inclusion/effective-mentorship-racialized-graduate-students-emrgs
+         https://www.grad.ubc.ca/about-us/equity-diversity-inclusion/indigenous-graduate-summer-institute
+    2  www.grad.ubc.ca/about-us/governance
+         https://www.grad.ubc.ca/about-us/governance/graduate-council-standing-committee-archive
+         https://www.grad.ubc.ca/about-us/governance/graduate-council
+    2  www.grad.ubc.ca/about-us/initiatives-plans-reports
+         https://www.grad.ubc.ca/about-us/initiatives-plans-reports/graduate-life-centre
+         https://www.grad.ubc.ca/about-us/initiatives-plans-reports/ubcv-graduate-student-strategy-operational-plan
+    2  www.grad.ubc.ca/prospective-students/tuition-fees-cost-living
+         https://www.grad.ubc.ca/prospective-students/tuition-fees-cost-living/graduate-tuition-fees
+         https://www.grad.ubc.ca/prospective-students/tuition-fees-cost-living/graduate-student-fees
+    1  www.grad.ubc.ca/prospective-students
+         https://www.grad.ubc.ca/prospective-students/graduate-degree-programs
+    1  www.grad.ubc.ca/supervision
+         https://www.grad.ubc.ca/supervision/principles-graduate-supervision
+    1  www.grad.ubc.ca/prospective-students/faculties
+         https://www.grad.ubc.ca/prospective-students/faculties/graduate-postdoctoral-studies
+    1  www.grad.ubc.ca/campus-community
+         https://www.grad.ubc.ca/campus-community/graduate-student-ambassadors

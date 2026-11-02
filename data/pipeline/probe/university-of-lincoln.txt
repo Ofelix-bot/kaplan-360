@@ -1,0 +1,77 @@
+# university-of-lincoln https://www.lincoln.ac.uk
+robots sitemaps: https://www.lincoln.ac.uk/sitemap-en.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1268 · master's-looking 65
+   15  www.lincoln.ac.uk/studywithus/postgraduatestudy/postgraduateresearch
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/postgraduateresearch/meetourstudents/sosealatinilau/
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/postgraduateresearch/researcherdevelopment/
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/postgraduateresearch/meetourstudents/
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/postgraduateresearch/meetourstudents/ericacheung/
+    6  www.lincoln.ac.uk/getreadyforlincoln/enrolment
+         https://www.lincoln.ac.uk/getreadyforlincoln/enrolment/continuingpostgraduatetaught/
+         https://www.lincoln.ac.uk/getreadyforlincoln/enrolment/newundergraduates/
+         https://www.lincoln.ac.uk/getreadyforlincoln/enrolment/continuingundergraduates/
+         https://www.lincoln.ac.uk/getreadyforlincoln/enrolment/newpostgraduateresearch/
+    5  www.lincoln.ac.uk/studywithus/scholarshipsandbursaries
+         https://www.lincoln.ac.uk/studywithus/scholarshipsandbursaries/alumnischolarshipforpostgraduatestudy/
+         https://www.lincoln.ac.uk/studywithus/scholarshipsandbursaries/globalpostgraduatescholarship/
+         https://www.lincoln.ac.uk/studywithus/scholarshipsandbursaries/lincolnalumnimasterofarchitecturescholarship/
+         https://www.lincoln.ac.uk/studywithus/scholarshipsandbursaries/internationalundergraduatescholarships/
+    5  www.lincoln.ac.uk/studywithus/undergraduatestudy
+         https://www.lincoln.ac.uk/studywithus/undergraduatestudy/feesandfunding/
+         https://www.lincoln.ac.uk/studywithus/undergraduatestudy/foundationandtop-updegrees/
+         https://www.lincoln.ac.uk/studywithus/undergraduatestudy/whatisanundergraduatedegree/
+         https://www.lincoln.ac.uk/studywithus/undergraduatestudy/alternativeentry/
+    5  www.lincoln.ac.uk/studywithus/postgraduatestudy
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/howyoustudy/
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/postgraduateresearch/
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/researchstudentships/
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/howtoapply/
+    3  www.lincoln.ac.uk/studywithus
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/
+         https://www.lincoln.ac.uk/studywithus/postgraduateapplicantsandofferholders/
+         https://www.lincoln.ac.uk/studywithus/undergraduatestudy/
+    3  www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schoolofhumanitieseducationandcommunication/historyandheritageresearch
+         https://www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schoolofhumanitieseducationandcommunication/historyandheritageresearch/englishresearch/postgraduateresearch/
+         https://www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schoolofhumanitieseducationandcommunication/historyandheritageresearch/globalandtransregionalstudies/postgraduateresearch/
+         https://www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schoolofhumanitieseducationandcommunication/historyandheritageresearch/medievalstudiesresearchgroup/postgraduateresearch/
+    2  www.lincoln.ac.uk/studywithus/opendaysandvisits
+         https://www.lincoln.ac.uk/studywithus/opendaysandvisits/undergraduateopendays/
+         https://www.lincoln.ac.uk/studywithus/opendaysandvisits/postgraduateevents/
+    2  www.lincoln.ac.uk/alumnicommunity
+         https://www.lincoln.ac.uk/alumnicommunity/honorarygraduates/
+         https://www.lincoln.ac.uk/alumnicommunity/newgraduates/
+    2  www.lincoln.ac.uk/studyatlincoln
+         https://www.lincoln.ac.uk/studyatlincoln/postgraduate-whatyouneedtoknow/
+         https://www.lincoln.ac.uk/studyatlincoln/undergraduate-whatyouneedtoknow/
+    2  www.lincoln.ac.uk/studywithus/postgraduatestudy/feesandfunding
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/feesandfunding/howtopay/
+         https://www.lincoln.ac.uk/studywithus/postgraduatestudy/feesandfunding/postgraduateloans/
+    2  www.lincoln.ac.uk/studywithus/opendaysandvisits/undergraduateopendays
+         https://www.lincoln.ac.uk/studywithus/opendaysandvisits/undergraduateopendays/thankyou/
+         https://www.lincoln.ac.uk/studywithus/opendaysandvisits/undergraduateopendays/opendayguide/
+    1  www.lincoln.ac.uk/studywithus/internationalstudents/howtoapply
+         https://www.lincoln.ac.uk/studywithus/internationalstudents/howtoapply/undergraduateandpostgraduate/
+    1  www.lincoln.ac.uk/abouttheuniversity/accessibility/disproportionateburdenassessments
+         https://www.lincoln.ac.uk/abouttheuniversity/accessibility/disproportionateburdenassessments/undergraduateopendaybookingform/
+    1  www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schooloflawpoliticsandsociety/lawresearch
+         https://www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schooloflawpoliticsandsociety/lawresearch/lincolncentreforecologicaljustice/postgraduateresearch/
+    1  www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schoolofcreativeartsanddesign/creativeartsresearch
+         https://www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schoolofcreativeartsanddesign/creativeartsresearch/postgraduateresearch/
+    1  www.lincoln.ac.uk/servicesforbusiness
+         https://www.lincoln.ac.uk/servicesforbusiness/graduaterecruitment/
+    1  www.lincoln.ac.uk/natsci/geographyresearch
+         https://www.lincoln.ac.uk/natsci/geographyresearch/postgraduateresearchprojects/
+    1  www.lincoln.ac.uk/studentlife/accommodation
+         https://www.lincoln.ac.uk/studentlife/accommodation/howtoapplyforpostgraduateaccommodation/
+    1  www.lincoln.ac.uk/studywithus/internationalstudents
+         https://www.lincoln.ac.uk/studywithus/internationalstudents/graduateimmigrationroute/
+    1  www.lincoln.ac.uk/healthandwellbeinghub
+         https://www.lincoln.ac.uk/healthandwellbeinghub/postgraduatetrainingandcpd/
+    1  www.lincoln.ac.uk/natsci/lifesciencesresearch/ecologyandevolution
+         https://www.lincoln.ac.uk/natsci/lifesciencesresearch/ecologyandevolution/postgraduateresearch/
+    1  www.lincoln.ac.uk/studywithus/undergraduatestudy/feesandfunding
+         https://www.lincoln.ac.uk/studywithus/undergraduatestudy/feesandfunding/howtopay/
+    1  www.lincoln.ac.uk/studywithus/opendaysandvisits/postgraduateevents
+         https://www.lincoln.ac.uk/studywithus/opendaysandvisits/postgraduateevents/opendayguide/
+    1  www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schoolofhumanitieseducationandcommunication/educationresearch
+         https://www.lincoln.ac.uk/collegeofartssocialsciencesandhumanities/schoolofhumanitieseducationandcommunication/educationresearch/lincolnshirelearninglab/postgraduateresearch/

@@ -1,0 +1,182 @@
+{
+  "university-of-canterbury": {
+    "url": "https://www.canterbury.ac.nz/study/getting-started/admission-and-enrolment/enrolment-topics/english-language-proficiency",
+    "retrievedAt": "2026-10-19",
+    "ielts": null,
+    "toefl": null,
+    "appliesTo": null,
+    "dropped": [
+      "IELTS 0 out of range"
+    ]
+  },
+  "university-of-waikato": {
+    "url": "https://www.waikato.ac.nz/about/calendar/admission/english-language-requirements/",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 6.5,
+      "quote": "an Academic IELTS 8 Overall score of at least 6.5 (with no less than 6.0 in any band)"
+    },
+    "toefl": {
+      "value": 90,
+      "quote": "a TOEFL iBT (Internet Based TOEFL) score of 90 with a Writing score of 21"
+    },
+    "appliesTo": "Admission to other graduate, and all postgraduate programmes (including higher degrees). It is generally recommended that students have the listed scores; some qualifications, such as the LLD and SJD, require a higher score, and requirements for particular qualifications are at the discretion of the Pro Vice-Chancellor of the relevant Division or the Dean of the Faculty of Māori and Indigenous Studies.",
+    "dropped": []
+  },
+  "lincoln-university": {
+    "url": "https://www.lincoln.ac.nz/study/apply-and-enrol/apply/english-language-requirements/",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 6.5,
+      "quote": "6.5 overall, with no individual component less than 6.0"
+    },
+    "toefl": {
+      "value": 80,
+      "quote": "Overall score of 80 (with at least 21 in Writing and 18 in Speaking)"
+    },
+    "appliesTo": "PhD, Master's Degrees, Postgraduate Diplomas, Postgraduate Certificates, Graduate Diplomas (in all disciplines except for Commerce), and Graduate Certificates (in all disciplines except for Commerce)",
+    "dropped": []
+  },
+  "massachusetts-institute-of-technology": {
+    "url": "https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 7,
+      "quote": "IELTS Academic : 7 overall band score"
+    },
+    "toefl": {
+      "value": 100,
+      "quote": "TOEFL iBT : 100 minimum score"
+    },
+    "appliesTo": "GradAdmissions recommended minimum scores for MIT graduate applicants (international applicants whose primary language is not English); department minimum score requirements supersede these recommended minimums.",
+    "dropped": []
+  },
+  "university-of-southern-queensland": {
+    "url": "https://www.unisq.edu.au/study/apply/entry-requirements/english-language-requirements",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 6.5,
+      "quote": "Academic IELTS results of 6.5 or better overall; no subscore lower than a 6.0.*^"
+    },
+    "toefl": null,
+    "appliesTo": "The page lists this as the evidence for the majority of UniSQ degrees (exceptions: Bachelor of Nursing and other degrees specified below). It does not specifically name taught master's programmes; the page does not state a separate master's minimum. Degree-specific requirements are found via a selector not included in the page text.",
+    "dropped": []
+  },
+  "university-of-kent": {
+    "url": "https://www.kent.ac.uk/courses/english-language-requirements",
+    "retrievedAt": "2026-10-19",
+    "ielts": null,
+    "toefl": null,
+    "appliesTo": null,
+    "dropped": []
+  },
+  "dublin-city-university": {
+    "url": "https://www.dcu.ie/registry/english-language-requirements-non-native-speakers-english-registry",
+    "retrievedAt": "2026-10-19",
+    "ielts": null,
+    "toefl": null,
+    "appliesTo": null,
+    "dropped": []
+  },
+  "massey-university": {
+    "url": "https://www.massey.ac.nz/study/entry-requirements-to-study-at-massey/entry-requirements-for-international-students/",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 6.5,
+      "quote": "6.5 overall and minimum 6.0 in each band"
+    },
+    "toefl": null,
+    "appliesTo": "Postgraduate (sub-doctoral*) taught master's/graduate applicants. Table row for Postgraduate (sub-doctoral) under Academic IELTS; footnote * says doctoral-specific requirements are on a separate page.",
+    "dropped": []
+  },
+  "chinese-university-of-hong-kong": {
+    "url": "https://www.gs.cuhk.edu.hk/admissions/requirements",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 6.5,
+      "quote": "IELTS (Academic): 6.5 (Test Centre based/Online);"
+    },
+    "toefl": {
+      "value": 79,
+      "quote": "TOEFL: 79 of 120 / 4.5 of 6 (Internet-based/Home Edition);"
+    },
+    "appliesTo": "The English Language Proficiency requirement for admission to postgraduate programmes, applicable to taught master's applicants as a general University-wide minimum.",
+    "dropped": []
+  },
+  "university-of-massachusetts-amherst": {
+    "url": "https://www.umass.edu/graduate/apply/international-applicants",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 6.5,
+      "quote": "International English Language Testing System (IELTS Academic) : Minimum combined score of 6.5"
+    },
+    "toefl": {
+      "value": 80,
+      "quote": "For tests taken prior to January 2026, a minimum combined score of 80."
+    },
+    "appliesTo": "University-wide minimum for Graduate School applicants (non-native English speakers who are not U.S. citizens or permanent residents); the page does not restrict these to specific programmes.",
+    "dropped": []
+  },
+  "university-of-maryland-college-park": {
+    "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements",
+    "retrievedAt": "2026-10-19",
+    "ielts": null,
+    "toefl": null,
+    "appliesTo": null,
+    "dropped": []
+  },
+  "university-of-wisconsin-madison": {
+    "url": "https://info.grad.wisc.edu/requirements-for-admission",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 7,
+      "quote": "Minimum IELTS requirement: 7.0"
+    },
+    "toefl": null,
+    "appliesTo": "All international degree-seeking applicants (Graduate School English proficiency requirement). Note: the TOEFL minimum of 92 applies to tests taken before January 21, 2026.",
+    "dropped": [
+      "TOEFL 5 out of range"
+    ]
+  },
+  "university-of-illinois-at-urbana-champaign": {
+    "url": "https://grad.illinois.edu/admissions/international-applicants",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 6.5,
+      "quote": "IELTS Academic Exam\n6.5"
+    },
+    "toefl": {
+      "value": 103,
+      "quote": "103 (for scores dated prior to 1/21/2026)"
+    },
+    "appliesTo": "All international degree-seeking applicants for admission (full status admission minimums); the page gives no separate taught master's minimum. Individual programs may require higher scores.",
+    "dropped": []
+  },
+  "university-of-colorado-boulder": {
+    "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements",
+    "retrievedAt": "2026-10-19",
+    "ielts": null,
+    "toefl": null,
+    "appliesTo": null,
+    "dropped": []
+  },
+  "georgia-institute-of-technology": {
+    "url": "https://catalog.gatech.edu/admissions/grad/english-language-proficiency/",
+    "retrievedAt": "2026-10-19",
+    "ielts": {
+      "value": 7,
+      "quote": "IELTS Academic Overall Band Score 7.0"
+    },
+    "toefl": null,
+    "appliesTo": "All applicants to Georgia Tech graduate programs, as the page states a general requirement for all applicants; the page does not separately name taught master's applicants.",
+    "dropped": []
+  },
+  "university-of-arizona": {
+    "url": "https://grad.arizona.edu/intladmissionsreqs/",
+    "retrievedAt": "2026-10-19",
+    "ielts": null,
+    "toefl": null,
+    "appliesTo": null,
+    "dropped": []
+  }
+}

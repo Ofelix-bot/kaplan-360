@@ -1,0 +1,27 @@
+# university-of-california-riverside@2 https://graduate.ucr.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 587 · master's-looking 24
+   11  graduate.ucr.edu/document
+         https://graduate.ucr.edu/document/eaf-graduate-student
+         https://graduate.ucr.edu/document/mastersdefensepdf
+         https://graduate.ucr.edu/document/change-degree-objective-phd-masters
+         https://graduate.ucr.edu/document/graduate-application-applicant-guide
+    6  graduate.ucr.edu/image
+         https://graduate.ucr.edu/image/rgrad-graduate-students-only-icon
+         https://graduate.ucr.edu/image/rgrad-graduate-students-only-icon-0
+         https://graduate.ucr.edu/image/graduate-division-commencement-2015-happy-grads-624px
+         https://graduate.ucr.edu/image/graduate-division-logo
+    1  graduate.ucr.edu/graduate-student-researcher-gsr
+         https://graduate.ucr.edu/graduate-student-researcher-gsr
+    1  graduate.ucr.edu/graduate-advisor
+         https://graduate.ucr.edu/graduate-advisor
+    1  graduate.ucr.edu/statement-graduate-deans-support-black-lives-matter
+         https://graduate.ucr.edu/statement-graduate-deans-support-black-lives-matter
+    1  graduate.ucr.edu/welcome-2021-graduate-division-summer-preparation-programs
+         https://graduate.ucr.edu/welcome-2021-graduate-division-summer-preparation-programs
+    1  graduate.ucr.edu/graduation-procedures-phd-masters-degrees
+         https://graduate.ucr.edu/graduation-procedures-phd-masters-degrees
+    1  graduate.ucr.edu/graduate-student-re-orientation
+         https://graduate.ucr.edu/graduate-student-re-orientation
+    1  graduate.ucr.edu/graduate-student-employment
+         https://graduate.ucr.edu/graduate-student-employment

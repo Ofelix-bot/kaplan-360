@@ -1,0 +1,9 @@
+{
+ "source": "Heidelberg all-subjects finder https://www.uni-heidelberg.de/en/study/all-subjects; in-scope masters checked one by one for 'Language(s) of instruction: English' (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.uni-heidelberg.de/en/study/all-subjects/computer-science/data-and-computer-science-master",
+  "https://www.uni-heidelberg.de/en/study/all-subjects/international-health/international-health-master-continuing-education",
+  "https://www.uni-heidelberg.de/en/study/all-subjects/mathematics/mathematics-of-machine-learning-and-data-science-master"
+ ]
+}

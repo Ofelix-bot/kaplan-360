@@ -1,0 +1,7 @@
+# princeton-university@2 https://gradschool.princeton.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://gradschool.princeton.edu/sitemap.xml: 3 children (3 course-like)
+sitemap https://gradschool.princeton.edu/sitemap.xml?page=1: robots disallowed by robots.txt: /sitemap.xml
+sitemap https://gradschool.princeton.edu/sitemap.xml?page=2: robots disallowed by robots.txt: /sitemap.xml
+sitemap https://gradschool.princeton.edu/sitemap.xml?page=3: robots disallowed by robots.txt: /sitemap.xml
+sitemaps read 4 · urls 0 · master's-looking 0

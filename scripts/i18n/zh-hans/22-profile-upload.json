@@ -1,0 +1,20 @@
+{
+ "About files": "关于上传文件",
+ "Add a screenshot or PDF": "添加截图或 PDF",
+ "Kaplan360 screenshots or your school’s course emails, up to {max} files; a PDF up to 2 MB and {pages} pages. Crop out your student ID and name first if you like.": "Kaplan360 截图或学校发来的课程邮件，最多 {max} 个文件；PDF 不超过 2 MB、{pages} 页。建议先裁掉学号和姓名。",
+ "Microphone access was refused": "麦克风权限被拒绝",
+ "Only this sentence and these files are sent, and they aren’t kept; your other answers stay in this browser.": "只发送这句话和这些文件，且不保存；你的其他回答只留在这个浏览器里。",
+ "Read from what you said": "从你说的话中识别",
+ "Read from your files": "从你上传的文件中识别",
+ "Remove {name}": "移除 {name}",
+ "Send a screenshot (PNG, JPG, WebP, HEIC) or a PDF.": "请发送截图（PNG、JPG、WebP、HEIC）或 PDF。",
+ "Send at most {max} files.": "最多发送 {max} 个文件。",
+ "Speak instead of typing": "用语音代替打字",
+ "Speaking Chinese; switch to English": "当前识别中文，切换为英文",
+ "Speaking English; switch to Chinese": "当前识别英文，切换为中文",
+ "Stop speaking": "停止录音",
+ "That PDF has a password. Remove it, or send a screenshot instead.": "这个 PDF 设有密码。请先去掉密码，或改发截图。",
+ "That PDF is longer than {pages} pages; send the pages that matter as screenshots.": "这个 PDF 超过 {pages} 页；请把相关页面截图发送。",
+ "That file is too large: a PDF up to 2 MB.": "文件太大：PDF 不超过 2 MB。",
+ "This browser can’t open HEIC photos. Send a screenshot or a JPG.": "这个浏览器打不开 HEIC 照片。请发送截图或 JPG。"
+}

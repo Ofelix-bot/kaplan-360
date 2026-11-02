@@ -1,0 +1,24 @@
+# university-of-hong-kong@1 https://www.hku.hk
+robots sitemaps: https://www.hku.hk/sitemap-index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.hku.hk/sitemap-index.xml: 7 children (0 course-like)
+sitemaps read 8 · urls 841 · master's-looking 15
+    3  www.hku.hk/en/academics/programme-overview
+         https://www.hku.hk/en/academics/programme-overview/undergraduates
+         https://www.hku.hk/en/academics/programme-overview/taught-postgraduates
+         https://www.hku.hk/en/academics/programme-overview/research-postgraduates
+    3  www.hku.hk/tc/academics/programme-overview
+         https://www.hku.hk/tc/academics/programme-overview/undergraduates
+         https://www.hku.hk/tc/academics/programme-overview/taught-postgraduates
+         https://www.hku.hk/tc/academics/programme-overview/research-postgraduates
+    3  www.hku.hk/sc/academics/programme-overview
+         https://www.hku.hk/sc/academics/programme-overview/undergraduates
+         https://www.hku.hk/sc/academics/programme-overview/taught-postgraduates
+         https://www.hku.hk/sc/academics/programme-overview/research-postgraduates
+    3  www.hku.hk/en_dev/academics/programme-overview
+         https://www.hku.hk/en_dev/academics/programme-overview/undergraduates
+         https://www.hku.hk/en_dev/academics/programme-overview/taught-postgraduates
+         https://www.hku.hk/en_dev/academics/programme-overview/research-postgraduates
+    3  www.hku.hk/tc_dev/academics/programme-overview
+         https://www.hku.hk/tc_dev/academics/programme-overview/undergraduates
+         https://www.hku.hk/tc_dev/academics/programme-overview/taught-postgraduates
+         https://www.hku.hk/tc_dev/academics/programme-overview/research-postgraduates

@@ -1,0 +1,16 @@
+# Netlify: Next.js is detected and served by Netlify's Next.js runtime (OpenNext adapter).
+# Only the public, read-only Supabase settings are needed at runtime (set in Netlify's environment
+# variables); the secret key and the Anthropic key stay on the machine that runs the data scripts.
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NEXT_TELEMETRY_DISABLED = "1"
+
+# Shared with judges by link only: keep it out of search engines (the pages also say noindex).
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"

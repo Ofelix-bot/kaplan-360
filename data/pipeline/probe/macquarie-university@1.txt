@@ -1,0 +1,107 @@
+# macquarie-university@1 https://www.mq.edu.au
+robots sitemaps: http://www.mq.edu.au/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 2980 · master's-looking 145
+   20  www.mq.edu.au/study/events
+         https://www.mq.edu.au/study/events/discover-postgrad
+         https://www.mq.edu.au/study/events/education-masterclass
+         https://www.mq.edu.au/study/events/finding-your-writing-voice-creative-writing-masterclass
+         https://www.mq.edu.au/study/events/master-of-applied-finance-info-session
+   15  www.mq.edu.au/faculty-of-arts/our-research/phd-and-research-degrees
+         https://www.mq.edu.au/faculty-of-arts/our-research/phd-and-research-degrees/engage-with-graduate-researchers
+         https://www.mq.edu.au/faculty-of-arts/our-research/phd-and-research-degrees/graduate-research-stories
+         https://www.mq.edu.au/faculty-of-arts/our-research/phd-and-research-degrees/graduate-research-stories/graduate-research-stories/Icaro-de-oliveira-rosa
+         https://www.mq.edu.au/faculty-of-arts/our-research/phd-and-research-degrees/graduate-research-stories/graduate-research-stories/elise-frost
+   11  www.mq.edu.au/macquarie-business-school/mba-and-executive/news-old
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/news-old/a-changing-of-the-guard-the-online-mba-comes-of-age
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/news-old/business-graduates-impress-at-mba-world-summit
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/news-old/doughnut-finance-may-just-be-a-thing!
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/news-old/first-students-to-complete-global-mba
+   11  www.mq.edu.au/studyold/admissions/accept-and-enrol-old
+         https://www.mq.edu.au/studyold/admissions/accept-and-enrol-old/accept-your-postgraduate-offer
+         https://www.mq.edu.au/studyold/admissions/accept-and-enrol-old/accept-your-undergraduate-offer
+         https://www.mq.edu.au/studyold/admissions/accept-and-enrol-old/master-content-page
+         https://www.mq.edu.au/studyold/admissions/accept-and-enrol-old/master-of-information-technology
+    8  www.mq.edu.au/alumni/news/alumni-focus
+         https://www.mq.edu.au/alumni/news/alumni-focus/2014/macquarie-graduates-mission-to-mars
+         https://www.mq.edu.au/alumni/news/alumni-focus/2014/organisational-psychology-makes-life-a-breeze-for-macquarie-graduate
+         https://www.mq.edu.au/alumni/news/alumni-focus/2014/outstanding-alumni-and-what-macquarie-taught-them
+         https://www.mq.edu.au/alumni/news/alumni-focus/2015/andrew-formica,-master-of-economics,-1993
+    7  www.mq.edu.au/macquarie-business-school/mba-and-executive/master-of-applied-finance
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/master-of-applied-finance/enquire-now
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/master-of-applied-finance/lecturers
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/master-of-applied-finance/news/doughnut-finance-may-just-be-a-thing!
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/master-of-applied-finance/news/launch-of-certificate-in-corporate-treasury
+    5  www.mq.edu.au/macquarie-business-school/mba-and-executive/credentialed-programs
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/credentialed-programs/financial-markets-certificate
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/credentialed-programs/financial-markets-certificate/facilitators-and-program-managers
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/credentialed-programs/financial-markets-certificate/recognition-of-prior-learning
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/credentialed-programs/foundations-of-financial-markets
+    5  www.mq.edu.au/study/admissions-and-entry/accept-and-enrol
+         https://www.mq.edu.au/study/admissions-and-entry/accept-and-enrol/accept-your-combined-bachelor-master-offer
+         https://www.mq.edu.au/study/admissions-and-entry/accept-and-enrol/accept-your-combined-bachelor-master-offer-2
+         https://www.mq.edu.au/study/admissions-and-entry/accept-and-enrol/accept-your-undergraduate-offer2
+         https://www.mq.edu.au/study/admissions-and-entry/accept-and-enrol/global-mba-enrolment
+    5  www.mq.edu.au/study/admissions-and-entry/apply
+         https://www.mq.edu.au/study/admissions-and-entry/apply/postgraduate
+         https://www.mq.edu.au/study/admissions-and-entry/apply/postgraduate/competitive
+         https://www.mq.edu.au/study/admissions-and-entry/apply/undergraduate
+         https://www.mq.edu.au/study/admissions-and-entry/apply/undergraduate/cooperative-education
+    4  www.mq.edu.au/macquarie-business-school/mba-and-executive
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/credentialed-programs
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/master-of-applied-finance
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/mba
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/student-resources
+    4  www.mq.edu.au/macquarie-business-school/mba-and-executive/mba
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/mba/download-brochures
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/mba/news/business-graduates-impress-at-mba-world-summit
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/mba/news/the-macquarie-mba-climbs-to-number-41-in-the-world
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/mba/student-experience
+    4  www.mq.edu.au/macquarie-business-school/mba-and-executive/student-resources
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/student-resources/enrolment
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/student-resources/study-resources
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/student-resources/support-and-services
+         https://www.mq.edu.au/macquarie-business-school/mba-and-executive/student-resources/units
+    4  www.mq.edu.au/macquarie-business-school/news
+         https://www.mq.edu.au/macquarie-business-school/news/future-womens-platinum-program-offered-in-mba
+         https://www.mq.edu.au/macquarie-business-school/news/how-to-hire-the-most-talented-graduates
+         https://www.mq.edu.au/macquarie-business-school/news/master-of-professional-accounting-at-macquarie-university-so-much-more-than-an-accounting-qualification
+         https://www.mq.edu.au/macquarie-business-school/news/top-tips-for-graduate-employment-success
+    4  www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees
+         https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/graduate-research-coursework
+         https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/master-of-philosophy
+         https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/master-of-research
+         https://www.mq.edu.au/research/phd-and-research-degrees/explore-research-degrees/master-of-research/pathways
+    3  www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-mathematical-and-physical-sciences
+         https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-mathematical-and-physical-sciences/study-with-us/postgraduate
+         https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-mathematical-and-physical-sciences/study-with-us/undergraduate
+         https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-mathematical-and-physical-sciences/study-with-us/undergraduate/vacation-scholarships
+    3  www.mq.edu.au/study/find-a-course/postgraduate
+         https://www.mq.edu.au/study/find-a-course/postgraduate/1-year-master-degrees
+         https://www.mq.edu.au/study/find-a-course/postgraduate/postgraduate-alumni-stories
+         https://www.mq.edu.au/study/find-a-course/postgraduate/weighted-average-mark-adjustment-scheme
+    2  www.mq.edu.au/faculty-of-arts/news
+         https://www.mq.edu.au/faculty-of-arts/news/graduate-recognised-with-film-nomination
+         https://www.mq.edu.au/faculty-of-arts/news/macquarie-graduates-top-young-legal-awards
+    2  www.mq.edu.au/faculty-of-medicine-health-and-human-sciences/departments-and-schools/department-of-linguistics
+         https://www.mq.edu.au/faculty-of-medicine-health-and-human-sciences/departments-and-schools/department-of-linguistics/our-research/hdr-graduates
+         https://www.mq.edu.au/faculty-of-medicine-health-and-human-sciences/departments-and-schools/department-of-linguistics/study-with-us/graduate-diploma-of-auslan-english-interpreting
+    2  www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-natural-sciences
+         https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-natural-sciences/study-with-us/postgraduate
+         https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-natural-sciences/study-with-us/undergraduate
+    2  www.mq.edu.au/macquarie-business-school/about/our-leadership-team
+         https://www.mq.edu.au/macquarie-business-school/about/our-leadership-team/associate-dean-curriculum-and-learning,undergraduate
+         https://www.mq.edu.au/macquarie-business-school/about/our-leadership-team/associate-dean-curriculum-and-learning-postgraduate
+    2  www.mq.edu.au/study/admissions-and-entry/fees-and-costs
+         https://www.mq.edu.au/study/admissions-and-entry/fees-and-costs/domestic-postgraduate-coursework
+         https://www.mq.edu.au/study/admissions-and-entry/fees-and-costs/domestic-undergraduate
+    2  www.mq.edu.au/study/find-a-course
+         https://www.mq.edu.au/study/find-a-course/postgraduate
+         https://www.mq.edu.au/study/find-a-course/undergraduate
+    2  www.mq.edu.au/study/find-a-course/undergraduate
+         https://www.mq.edu.au/study/find-a-course/undergraduate/employability-initiatives
+         https://www.mq.edu.au/study/find-a-course/undergraduate/employability-initiatives/cooperative-education-program-in-actuarial-studies
+    2  www.mq.edu.au/study/information-for/international
+         https://www.mq.edu.au/study/information-for/international/study-abroad-exchange-and-study-tours/exchange/mba-exchange
+         https://www.mq.edu.au/study/information-for/international/study-abroad-exchange-and-study-tours/mba-exchange
+    1  www.mq.edu.au/about/about-the-university/our-faculties
+         https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences_old/our-research/graduate-higher-degree-research-hdr/applying-for-hdr-studies/phd-information/biomedical-engineering

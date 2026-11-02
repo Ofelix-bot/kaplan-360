@@ -1,0 +1,71 @@
+# university-of-california-irvine@2 https://grad.uci.edu
+robots sitemaps: https://grad.uci.edu/sitemap.xml https://grad.uci.edu/sitemap.rss · crawl-delay: null · AI-agent groups: 0
+index https://grad.uci.edu/sitemap.xml: 5 children (1 course-like)
+sitemaps read 7 · urls 406 · master's-looking 82
+   10  grad.uci.edu/uc-irvine-graduate-policies-and-procedures
+         https://grad.uci.edu/uc-irvine-graduate-policies-and-procedures/fellowships-and-grants/
+         https://grad.uci.edu/uc-irvine-graduate-policies-and-procedures/academic-appointments-and-graduate-student-employment/
+         https://grad.uci.edu/uc-irvine-graduate-policies-and-procedures/academic-standards-for-students/
+         https://grad.uci.edu/uc-irvine-graduate-policies-and-procedures/
+   10  grad.uci.edu/fellowships
+         https://grad.uci.edu/fellowships/graduate-deans-dissertation-fellowship-i/
+         https://grad.uci.edu/fellowships/national-science-foundation-graduate-research-fellowship-program-e/
+         https://grad.uci.edu/fellowships/graduate-division-completion-fellowships-i/
+         https://grad.uci.edu/fellowships/rose-hills-foundation-science-engineering-scholarship-graduate-school-program/
+    9  grad.uci.edu/helparticles
+         https://grad.uci.edu/helparticles/questions-for-graduate-student-fee-remission-inquiries/
+         https://grad.uci.edu/helparticles/all-graduate-enrolled-docusign-forms/
+         https://grad.uci.edu/helparticles/prospective-students-applicants-contact-graduate-admissions/
+         https://grad.uci.edu/helparticles/graduate-division-events-calendar/
+    3  grad.uci.edu/professional-development/graduate-and-postdoctoral-scholar-resource-center
+         https://grad.uci.edu/professional-development/graduate-and-postdoctoral-scholar-resource-center/csu-long-beach-pre-professor-program/
+         https://grad.uci.edu/professional-development/graduate-and-postdoctoral-scholar-resource-center/professional-success/
+         https://grad.uci.edu/professional-development/graduate-and-postdoctoral-scholar-resource-center/reserving-the-gpsrc/
+    3  grad.uci.edu/prospective-students/graduate-preparation-programs
+         https://grad.uci.edu/prospective-students/graduate-preparation-programs/summer-undergraduate-research-fellowship/
+         https://grad.uci.edu/prospective-students/graduate-preparation-programs/uc-leads/
+         https://grad.uci.edu/prospective-students/graduate-preparation-programs/competitive-edge/
+    3  grad.uci.edu/alumni
+         https://grad.uci.edu/alumni/graduate-division-quarterly-magazines/
+         https://grad.uci.edu/alumni/graduate-alumni-chapter/
+         https://grad.uci.edu/alumni/graduate-alumni-career-outcomes/
+    3  grad.uci.edu/current-students/admitted-student-checklists
+         https://grad.uci.edu/current-students/admitted-student-checklists/new-international-graduate-student-post-arrival-checklist/
+         https://grad.uci.edu/current-students/admitted-student-checklists/new-international-graduate-student-pre-arrival-checklist/
+         https://grad.uci.edu/current-students/admitted-student-checklists/new-domestic-graduate-student-post-arrival-checklist/
+    1  grad.uci.edu/nsf-grfp-undergraduate-to-ph-d-pathway-award
+         https://grad.uci.edu/nsf-grfp-undergraduate-to-ph-d-pathway-award/
+    1  grad.uci.edu/current-students
+         https://grad.uci.edu/current-students/new-graduate-student-welcome-and-orientation/
+    1  grad.uci.edu/prospective-students
+         https://grad.uci.edu/prospective-students/graduate-preparation-programs/
+    1  grad.uci.edu/professional-development
+         https://grad.uci.edu/professional-development/graduate-and-postdoctoral-scholar-resource-center/
+    1  grad.uci.edu/nature-masterclasses
+         https://grad.uci.edu/nature-masterclasses/
+    1  grad.uci.edu/graduate-division-deans-update
+         https://grad.uci.edu/graduate-division-deans-update/
+    1  grad.uci.edu/inclusion
+         https://grad.uci.edu/inclusion/campus-visits-for-graduate-preparation-programs/
+    1  grad.uci.edu/graduate-division-secure-dashboards
+         https://grad.uci.edu/graduate-division-secure-dashboards/
+    1  grad.uci.edu/professional-development/graduate-postdoctoral-scholar-resource-center
+         https://grad.uci.edu/professional-development/graduate-postdoctoral-scholar-resource-center/california-community-college-internship-program-cccip/
+    1  grad.uci.edu/graduate-division-giving
+         https://grad.uci.edu/graduate-division-giving/
+    1  grad.uci.edu/funding
+         https://grad.uci.edu/funding/graduate-federal-work-study/
+    1  grad.uci.edu/admissions/for-faculty-staff/a
+         https://grad.uci.edu/admissions/for-faculty-staff/a/types-of-graduate-programs/
+    1  grad.uci.edu/graduate-division-wellness-and-inclusion-services
+         https://grad.uci.edu/graduate-division-wellness-and-inclusion-services/
+    1  grad.uci.edu/graduate-student-support-by-school
+         https://grad.uci.edu/graduate-student-support-by-school/
+    1  grad.uci.edu/uc-graduate-student-experience-survey-ucgses
+         https://grad.uci.edu/uc-graduate-student-experience-survey-ucgses/
+    1  grad.uci.edu/uc-irvine-graduate-program-info-sessions-and-tabling-events
+         https://grad.uci.edu/uc-irvine-graduate-program-info-sessions-and-tabling-events/
+    1  grad.uci.edu/masters-dashboard
+         https://grad.uci.edu/masters-dashboard/
+    1  grad.uci.edu/graduate-admission-dashboard
+         https://grad.uci.edu/graduate-admission-dashboard/

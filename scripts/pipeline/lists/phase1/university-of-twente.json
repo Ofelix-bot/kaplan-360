@@ -1,0 +1,19 @@
+{
+ "source": "University of Twente sitemap, master programme pages https://www.utwente.nl/en/education/master/programmes/ (all English-taught; one page per degree, specialisation subpages left out) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.utwente.nl/en/education/master/programmes/business-administration/",
+  "https://www.utwente.nl/en/education/master/programmes/business-information-technology/",
+  "https://www.utwente.nl/en/education/master/programmes/communication-science/",
+  "https://www.utwente.nl/en/education/master/programmes/computer-science/",
+  "https://www.utwente.nl/en/education/master/programmes/construction-management-engineering/",
+  "https://www.utwente.nl/en/education/master/programmes/educational-science-technology/",
+  "https://www.utwente.nl/en/education/master/programmes/embedded-systems/",
+  "https://www.utwente.nl/en/education/master/programmes/health-sciences/",
+  "https://www.utwente.nl/en/education/master/programmes/industrial-engineering-management/",
+  "https://www.utwente.nl/en/education/master/programmes/interaction-technology/",
+  "https://www.utwente.nl/en/education/master/programmes/psychology/",
+  "https://www.utwente.nl/en/education/master/programmes/public-administration/",
+  "https://www.utwente.nl/en/education/master/programmes/robotics/"
+ ]
+}

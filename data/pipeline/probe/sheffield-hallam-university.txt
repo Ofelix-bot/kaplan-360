@@ -1,0 +1,128 @@
+# sheffield-hallam-university https://www.shu.ac.uk
+robots sitemaps: https://www.shu.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 8165 · master's-looking 712
+   74  www.shu.ac.uk/study-here/student-stories/undergraduate-student-stories
+         https://www.shu.ac.uk/study-here/student-stories/undergraduate-student-stories/ollie-mosley
+         https://www.shu.ac.uk/study-here/student-stories/undergraduate-student-stories/archie-lewis
+         https://www.shu.ac.uk/study-here/student-stories/undergraduate-student-stories/sophie-robertson
+         https://www.shu.ac.uk/study-here/student-stories/undergraduate-student-stories/amelia-schofield
+   41  www.shu.ac.uk/study-here/student-stories/postgraduate-student-stories
+         https://www.shu.ac.uk/study-here/student-stories/postgraduate-student-stories/michelle-chimwanda
+         https://www.shu.ac.uk/study-here/student-stories/postgraduate-student-stories/saira-khan
+         https://www.shu.ac.uk/study-here/student-stories/postgraduate-student-stories/dyfan-rhys
+         https://www.shu.ac.uk/study-here/student-stories/postgraduate-student-stories/roopesh-kadimisetty-3
+   31  www.shu.ac.uk/courses/computing
+         https://www.shu.ac.uk/courses/computing/msc-cyber-security-work-experience
+         https://www.shu.ac.uk/courses/computing/msc-games-software-development
+         https://www.shu.ac.uk/courses/computing/msc-advanced-computer-networks
+         https://www.shu.ac.uk/courses/computing/msc-data-science-and-artificial-intelligence
+   21  www.shu.ac.uk/courses/engineering
+         https://www.shu.ac.uk/courses/engineering/msc-robotics
+         https://www.shu.ac.uk/courses/engineering/msc-mechanical-engineering
+         https://www.shu.ac.uk/courses/engineering/msc-automation-control-and-robotics-work-experience
+         https://www.shu.ac.uk/courses/engineering/msc-advanced-materials-engineering
+   18  www.shu.ac.uk/courses/business-and-management
+         https://www.shu.ac.uk/courses/business-and-management/msc-coaching-and-mentoring
+         https://www.shu.ac.uk/courses/business-and-management/msc-human-resource-management
+         https://www.shu.ac.uk/courses/business-and-management/msc-logistics-and-supply-chain-management
+         https://www.shu.ac.uk/courses/business-and-management/msc-project-management
+   18  www.shu.ac.uk/courses/art-and-design
+         https://www.shu.ac.uk/courses/art-and-design/ma-design-design-for-health
+         https://www.shu.ac.uk/courses/art-and-design/ma-design-packaging
+         https://www.shu.ac.uk/courses/art-and-design/ma-design-graphics
+         https://www.shu.ac.uk/courses/art-and-design/ma-design-interaction
+   18  www.shu.ac.uk/centre-regional-economic-social-research/about-us/postgraduate-research
+         https://www.shu.ac.uk/centre-regional-economic-social-research/about-us/postgraduate-research/post-phd-employment
+         https://www.shu.ac.uk/centre-regional-economic-social-research/about-us/postgraduate-research/further-information
+         https://www.shu.ac.uk/centre-regional-economic-social-research/about-us/postgraduate-research/completed-students
+         https://www.shu.ac.uk/centre-regional-economic-social-research/about-us/postgraduate-research/support
+   16  www.shu.ac.uk/news/all-articles/latest-news
+         https://www.shu.ac.uk/news/all-articles/latest-news/gb-boxer-to-combine-olympic-dream-with-ma-degree-at-hallam
+         https://www.shu.ac.uk/news/all-articles/latest-news/graduate-outcomes-data
+         https://www.shu.ac.uk/news/all-articles/latest-news/hallam-graduates-documentary-sheffield-bamer-pandemic
+         https://www.shu.ac.uk/news/all-articles/latest-news/hallam-graduate-wins-fashion-award
+   15  www.shu.ac.uk/courses/tourism-and-hospitality
+         https://www.shu.ac.uk/courses/tourism-and-hospitality/msc-food-services-management-with-nutrition-work-experience
+         https://www.shu.ac.uk/courses/tourism-and-hospitality/msc-international-tourism-and-aviation-management-work-experience
+         https://www.shu.ac.uk/courses/tourism-and-hospitality/msc-food-services-management-with-nutrition
+         https://www.shu.ac.uk/courses/tourism-and-hospitality/msc-hospitality-management-with-nutrition-work-experience
+   14  www.shu.ac.uk/courses/mba
+         https://www.shu.ac.uk/courses/mba/mba-global-mba-information-technology
+         https://www.shu.ac.uk/courses/mba/mba-business-administration-executive-mba-programme
+         https://www.shu.ac.uk/courses/mba/mba-business-administration-with-human-resource-management
+         https://www.shu.ac.uk/courses/mba/mba-business-administration-with-healthcare-management
+   13  www.shu.ac.uk/courses/accounting-banking-and-finance
+         https://www.shu.ac.uk/courses/accounting-banking-and-finance/msc-accounting-and-finance-fast-track
+         https://www.shu.ac.uk/courses/accounting-banking-and-finance/msc-finance-and-global-trading
+         https://www.shu.ac.uk/courses/accounting-banking-and-finance/msc-forensic-accounting
+         https://www.shu.ac.uk/courses/accounting-banking-and-finance/msc-accounting-and-finance-work-experience
+   11  www.shu.ac.uk/courses/nursing-and-midwifery
+         https://www.shu.ac.uk/courses/nursing-and-midwifery/msc-child-adolescent-and-family-mental-health
+         https://www.shu.ac.uk/courses/nursing-and-midwifery/msc-healthcare-education
+         https://www.shu.ac.uk/courses/nursing-and-midwifery/msc-specialist-practice-district-nursing
+         https://www.shu.ac.uk/courses/nursing-and-midwifery/msc-nursing-studies
+    9  www.shu.ac.uk/courses/health-and-social-care-management
+         https://www.shu.ac.uk/courses/health-and-social-care-management/msc-dietetics-preregistration
+         https://www.shu.ac.uk/courses/health-and-social-care-management/ma-art-psychotherapy-practice
+         https://www.shu.ac.uk/courses/health-and-social-care-management/msc-professional-practice-in-health-and-social-care
+         https://www.shu.ac.uk/courses/health-and-social-care-management/msc-health-and-social-care-education
+    9  www.shu.ac.uk/courses/law
+         https://www.shu.ac.uk/courses/law/llm-legal-practice-development-sqe-preparation
+         https://www.shu.ac.uk/courses/law/llm-legal-professional-practice
+         https://www.shu.ac.uk/courses/law/ma-global-human-rights-and-social-justice-in-practice
+         https://www.shu.ac.uk/courses/law/llm-international-commercial-law
+    9  www.shu.ac.uk/courses/radiotherapy-and-oncology
+         https://www.shu.ac.uk/courses/radiotherapy-and-oncology/msc-advanced-practice-in-non-surgical-oncology
+         https://www.shu.ac.uk/courses/radiotherapy-and-oncology/msc-prostate-cancer-care
+         https://www.shu.ac.uk/courses/radiotherapy-and-oncology/msc-advanced-clinical-practice-radiotherapy-and-oncology
+         https://www.shu.ac.uk/courses/radiotherapy-and-oncology/msc-supportive-oncology-and-cancer-care
+    9  www.shu.ac.uk/courses/biosciences-and-chemistry
+         https://www.shu.ac.uk/courses/biosciences-and-chemistry/msc-cancer-and-cell-biology
+         https://www.shu.ac.uk/courses/biosciences-and-chemistry/msc-molecular-and-cell-biology
+         https://www.shu.ac.uk/courses/biosciences-and-chemistry/msc-biomedical-laboratory-science
+         https://www.shu.ac.uk/courses/biosciences-and-chemistry/msc-biotechnology
+    9  www.shu.ac.uk/careers/graduates/graduate-stories
+         https://www.shu.ac.uk/careers/graduates/graduate-stories/story-7
+         https://www.shu.ac.uk/careers/graduates/graduate-stories/story-5
+         https://www.shu.ac.uk/careers/graduates/graduate-stories/story-6
+         https://www.shu.ac.uk/careers/graduates/graduate-stories/story-8
+    8  www.shu.ac.uk/study-here/apply/undergraduate
+         https://www.shu.ac.uk/study-here/apply/undergraduate/personal-statements
+         https://www.shu.ac.uk/study-here/apply/undergraduate/getting-an-offer
+         https://www.shu.ac.uk/study-here/apply/undergraduate/late-applications
+         https://www.shu.ac.uk/study-here/apply/undergraduate/entry-requirements
+    8  www.shu.ac.uk/courses/digital-media
+         https://www.shu.ac.uk/courses/digital-media/ma-game-art
+         https://www.shu.ac.uk/courses/digital-media/ma-immersive-arts
+         https://www.shu.ac.uk/courses/digital-media/ma-games-design
+         https://www.shu.ac.uk/courses/digital-media/ma-animation-and-digital-effects
+    7  www.shu.ac.uk/courses/food-and-nutrition
+         https://www.shu.ac.uk/courses/food-and-nutrition/msc-nutrition-with-obesity-and-weight-management
+         https://www.shu.ac.uk/courses/food-and-nutrition/msc-food-and-nutrition-sciences-work-experience
+         https://www.shu.ac.uk/courses/food-and-nutrition/msc-food-consumer-marketing-and-product-development
+         https://www.shu.ac.uk/courses/food-and-nutrition/msc-food-consumer-marketing-and-product-development-work-experience
+    7  www.shu.ac.uk/courses/construction-and-surveying
+         https://www.shu.ac.uk/courses/construction-and-surveying/msc-real-estate-work-experience
+         https://www.shu.ac.uk/courses/construction-and-surveying/msc-construction-project-management
+         https://www.shu.ac.uk/courses/construction-and-surveying/msc-construction-project-management-work-experience
+         https://www.shu.ac.uk/courses/construction-and-surveying/msc-building-surveying
+    6  www.shu.ac.uk/campaigns
+         https://www.shu.ac.uk/campaigns/welcome-to-our-postgraduate-students
+         https://www.shu.ac.uk/campaigns/msc-sport-business-management
+         https://www.shu.ac.uk/campaigns/msc-applied-sport-and-exercise-science
+         https://www.shu.ac.uk/campaigns/sheffield-hallam-masters-scholarship-scheme
+    6  www.shu.ac.uk/courses/diagnostic-radiography
+         https://www.shu.ac.uk/courses/diagnostic-radiography/msc-enhanced-diagnostic-imaging-practice
+         https://www.shu.ac.uk/courses/diagnostic-radiography/msc-medical-ultrasound
+         https://www.shu.ac.uk/courses/diagnostic-radiography/msc-advanced-clinical-practice-image-interpretation
+         https://www.shu.ac.uk/courses/diagnostic-radiography/msc-medical-ultrasound-practice
+    6  www.shu.ac.uk/courses/sport-and-physical-activity
+         https://www.shu.ac.uk/courses/sport-and-physical-activity/msc-advanced-sport-coaching-practice
+         https://www.shu.ac.uk/courses/sport-and-physical-activity/msc-applied-sport-and-exercise-science
+         https://www.shu.ac.uk/courses/sport-and-physical-activity/msc-international-sport-business-management
+         https://www.shu.ac.uk/courses/sport-and-physical-activity/msc-strength-and-conditioning-coaching
+    6  www.shu.ac.uk/courses/psychology
+         https://www.shu.ac.uk/courses/psychology/msc-developmental-psychology
+         https://www.shu.ac.uk/courses/psychology/msc-health-psychology
+         https://www.shu.ac.uk/courses/psychology/msc-psychology-with-mental-health-and-wellbeing
+         https://www.shu.ac.uk/courses/psychology/msc-psychology

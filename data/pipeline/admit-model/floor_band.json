@@ -1,0 +1,29 @@
+{
+ "method": "How freely programmes admit applicants who only just meet their stated minimum, by country.\nFor programmes whose minimum is a 2:2 (floor 50), the share of admitted students whose own result is in the 2:2\nband, divided by that band's share among all admitted students in the same country (指南者 admits; own GPA on the\nUK bands of lib/gpa4.ts). 1 means the minimum is the real bar (formulaic entry); well below 1 means programmes\nchoose above it. Capped at 1. Countries with fewer than 5 such programmes get no factor.\nInputs: records.json, floors.json. Output: floor_band.json.",
+ "byCountry": {
+  "United Kingdom": {
+   "factor": 1.0,
+   "ratio": 1.439,
+   "programmes": 58,
+   "admits": 593
+  },
+  "Hong Kong SAR": {
+   "factor": 0.508,
+   "ratio": 0.508,
+   "programmes": 13,
+   "admits": 272
+  },
+  "Australia": {
+   "factor": 0.959,
+   "ratio": 0.959,
+   "programmes": 50,
+   "admits": 1044
+  },
+  "Singapore": {
+   "factor": 0.317,
+   "ratio": 0.317,
+   "programmes": 12,
+   "admits": 340
+  }
+ }
+}

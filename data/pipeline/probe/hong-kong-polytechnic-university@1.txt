@@ -1,0 +1,5 @@
+# hong-kong-polytechnic-university@1 https://www.polyu.edu.hk
+robots sitemaps: https://www.polyu.edu.hk/home.xml https://www.polyu.edu.hk/news-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemap https://www.polyu.edu.hk/home.xml: http HTTP 500
+sitemap https://www.polyu.edu.hk/news-sitemap.xml: http HTTP 500
+sitemaps read 2 · urls 0 · master's-looking 0

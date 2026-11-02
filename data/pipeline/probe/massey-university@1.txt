@@ -1,0 +1,130 @@
+# massey-university@1 https://www.massey.ac.nz
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.massey.ac.nz/sitemap.xml: 2 children (0 course-like)
+index https://www.massey.ac.nz/massey/sitemap.xml: 8 children (0 course-like)
+sitemaps read 11 · urls 32460 · master's-looking 805
+  179  www.massey.ac.nz/about/news
+         https://www.massey.ac.nz/about/news/te-rau-angit%C5%AB-awards-programme-provides-support-for-m%C4%81ori-postgraduate-students/
+         https://www.massey.ac.nz/about/news/massey-graduate-is-wellingtons-first-pacific-nurse-practitioner/
+         https://www.massey.ac.nz/about/news/work-integrated-learning-practicum-enhances-employability-for-sport-and-exercise-graduates/
+         https://www.massey.ac.nz/about/news/food-technology-graduate-makes-a-splash-in-the-beverage-industry/
+  147  www.massey.ac.nz/about/university-calendar-and-regulations/qualification-regulations
+         https://www.massey.ac.nz/about/university-calendar-and-regulations/qualification-regulations/master-of-food-safety-and-quality/
+         https://www.massey.ac.nz/about/university-calendar-and-regulations/qualification-regulations/master-of-specialist-teaching/
+         https://www.massey.ac.nz/about/university-calendar-and-regulations/qualification-regulations/postgraduate-certificate-in-speech-and-language-therapy/
+         https://www.massey.ac.nz/about/university-calendar-and-regulations/qualification-regulations/postgraduate-diploma-in-fine-arts/
+  126  www.massey.ac.nz/study/all-qualifications-and-degrees
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-health-service-management-PMHLM/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-certificate-in-specialist-teaching-PCSPT/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-clinical-supervision-PDSCS/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-certificate-in-emergency-management-GCEMM/
+   89  www.massey.ac.nz/study/scholarships-and-awards
+         https://www.massey.ac.nz/study/scholarships-and-awards/antarctica-nz-postgraduate-research-scholarships/
+         https://www.massey.ac.nz/study/scholarships-and-awards/drakeford-undergraduate-accountancy-scholarship/
+         https://www.massey.ac.nz/study/scholarships-and-awards/undergraduate-scholarships-in-quantitative-marine-biology/
+         https://www.massey.ac.nz/study/scholarships-and-awards/fulbright-ng%C4%81-pae-o-te-m%C4%81ramatanga-graduate-award/
+   25  www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-diploma-in-arts-GDART
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-diploma-in-arts-GDART/creative-writing-GDART1ECRWR1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-diploma-in-arts-GDART/english-GDART1EENGL1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-diploma-in-arts-GDART/linguistics-GDART1ELNGS1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-diploma-in-arts-GDART/media-studies-GDART1EMDST1/
+   24  www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-certificate-in-arts-GCART
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-certificate-in-arts-GCART/creative-writing-GCART1ECRWR1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-certificate-in-arts-GCART/defence-studies-GCART1EDFST1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-certificate-in-arts-GCART/english-GCART1EENGL1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/graduate-certificate-in-arts-GCART/linguistics-GCART1ELNGS1/
+   14  www.massey.ac.nz/study/courses
+         https://www.massey.ac.nz/study/courses/postgraduate-studio-practice-ii-213702/
+         https://www.massey.ac.nz/study/courses/postgraduate-studio-practice-i-213706/
+         https://www.massey.ac.nz/study/courses/nursing-practice-v-pre-graduate-168374/
+         https://www.massey.ac.nz/study/courses/data-mastery-scripting-databases-and-data-privacy-158739/
+   13  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-science-PMSCN
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-science-PMSCN/agricultural-science-PMSCN1SAGSC1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-science-PMSCN/animal-science-PMSCN1SANSC1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-science-PMSCN/biological-sciences-PMSCN1SBLSC2/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-science-PMSCN/chemistry-PMSCN1SCHMS2/
+   13  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-arts-PMART
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-arts-PMART/defence-and-security-studies-PMART1SDFSS1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-arts-PMART/economics-PMART1SECNM1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-arts-PMART/education-PMART1SEDCT1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-arts-PMART/geography-PMART1SGGRP1/
+   12  www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-arts-PDART
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-arts-PDART/geospatial-science-PDART1EGSSC1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-arts-PDART/defence-and-security-studies-PDART1EDFSS1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-arts-PDART/economics-PDART1EECNM1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-arts-PDART/english-PDART1EENGL1/
+   10  www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-science-and-technology-PDSCN
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-science-and-technology-PDSCN/agricultural-science-PDSCN1EAGSC1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-science-and-technology-PDSCN/animal-science-PDSCN1EANSC1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-science-and-technology-PDSCN/biological-sciences-PDSCN1EBLSC1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-science-and-technology-PDSCN/earth-science-PDSCN1EERSC1/
+    8  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-specialist-teaching-PMSPT
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-specialist-teaching-PMSPT/blind-and-low-vision-PMSPT1SBLLV1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-specialist-teaching-PMSPT/complex-educational-needs-PMSPT1SCMEN1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-specialist-teaching-PMSPT/gifted-education-PMSPT1SGFED1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-specialist-teaching-PMSPT/learning-and-behaviour-PMSPT1SLRBH1/
+    7  www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-education-PDEDC
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-education-PDEDC/digital-education-PDEDC1EDGED1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-education-PDEDC/without-specialisation-PDEDC1EWOSP1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-education-PDEDC/educational-administration-and-leadership-PDEDC1EEDAL1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-education-PDEDC/early-years-PDEDC1EERYR1/
+    7  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-education-PMEDC
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-education-PMEDC/educational-administration-and-leadership-PMEDC2SEDAL1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-education-PMEDC/digital-education-PMEDC2SDGED1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-education-PMEDC/early-years-PMEDC2SERYR1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-education-PMEDC/inclusive-education-PMEDC2SINED1/
+    6  www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-construction-PDCNT
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-construction-PDCNT/construction-law-PDCNT2ECNLW1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-construction-PDCNT/construction-project-management-PDCNT2ECNPM1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-construction-PDCNT/quantity-surveying-PDCNT2EQNSR1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-construction-PDCNT/digital-built-environment-PDCNT2EDGBL1/
+    6  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-construction-PMCNT
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-construction-PMCNT/construction-law-PMCNT2SCNLW1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-construction-PMCNT/construction-project-management-PMCNT2SCNPM1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-construction-PMCNT/quantity-surveying-PMCNT2SQNSR1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-construction-PMCNT/digital-built-environment-PMCNT2SDGBL1/
+    6  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-studies-PMBSS
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-studies-PMBSS/marketing-PMBSS1SMRKT1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-studies-PMBSS/accountancy-PMBSS1SACCN1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-studies-PMBSS/economics-PMBSS1SECNM1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-studies-PMBSS/finance-PMBSS1SFNNC1/
+    6  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-health-science-PMHLS
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-health-science-PMHLS/maori-health-PMHLS1SMRHL2/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-health-science-PMHLS/psychology-PMHLS1SPSYC1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-health-science-PMHLS/nursing-PMHLS1SNRSN1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-health-science-PMHLS/occupational-health-and-safety-PMHLS1SOCHS2/
+    6  www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-specialist-teaching-PDSPT
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-specialist-teaching-PDSPT/deaf-and-hard-of-hearing-PDSPT2EDFHH1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-specialist-teaching-PDSPT/early-intervention-PDSPT2EERIN1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-specialist-teaching-PDSPT/complex-educational-needs-PDSPT2ECMEN1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/postgraduate-diploma-in-specialist-teaching-PDSPT/gifted-education-PDSPT2EGFED1/
+    6  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-sustainable-development-goals-PMSSD
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-sustainable-development-goals-PMSSD/business-and-sustainability-PMSSD1SBSST1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-sustainable-development-goals-PMSSD/disaster-management-PMSSD1SDSMN1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-sustainable-development-goals-PMSSD/environmental-sustainability-PMSSD1SENSS1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-sustainable-development-goals-PMSSD/global-development-PMSSD1SGLDE1/
+    6  www.massey.ac.nz/about/events
+         https://www.massey.ac.nz/about/events/executive-mba-mental-gym-session-governance-and-responsibility/
+         https://www.massey.ac.nz/about/events/mba-mental-gym-session-specialisations-including-our-new-ai-offering/
+         https://www.massey.ac.nz/about/events/mba-and-executive-mba-mental-gym-session-scholarships/
+         https://www.massey.ac.nz/about/events/mba-and-executive-mba-mental-gym-session-support-for-your-next-career-move/
+    5  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-management-PMMNG
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-management-PMMNG/human-resource-management-PMMNG2SHMRM1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-management-PMMNG/international-business-PMMNG2SINBS1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-management-PMMNG/management-PMMNG2SMNGM1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-management-PMMNG/marketing-PMMNG2SMRKT1/
+    5  www.massey.ac.nz/study/study-and-assignment-support-and-guides/postgraduate-and-phd-writing-and-presentations
+         https://www.massey.ac.nz/study/study-and-assignment-support-and-guides/postgraduate-and-phd-writing-and-presentations/research-proposal/
+         https://www.massey.ac.nz/study/study-and-assignment-support-and-guides/postgraduate-and-phd-writing-and-presentations/thesis-or-dissertation/
+         https://www.massey.ac.nz/study/study-and-assignment-support-and-guides/postgraduate-and-phd-writing-and-presentations/conference-paper/
+         https://www.massey.ac.nz/study/study-and-assignment-support-and-guides/postgraduate-and-phd-writing-and-presentations/articles/
+    5  www.massey.ac.nz/student-life/graduation/apply-to-graduate-and-graduation-key-dates
+         https://www.massey.ac.nz/student-life/graduation/apply-to-graduate-and-graduation-key-dates/form-to-apply-to-graduate-via-a-ceremony/
+         https://www.massey.ac.nz/student-life/graduation/apply-to-graduate-and-graduation-key-dates/apply-to-graduate-via-an-academic-board-meeting-form/
+         https://www.massey.ac.nz/student-life/graduation/apply-to-graduate-and-graduation-key-dates/m%C4%81ori-graduation-survey/thank-you-for-your-graduation-feedback/
+         https://www.massey.ac.nz/student-life/graduation/apply-to-graduate-and-graduation-key-dates/graduation-survey/thank-you-for-your-graduation-feedback/
+    4  www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-administration-PMBSM
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-administration-PMBSM/business-sustainability-PMBSM1SBSSS1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-administration-PMBSM/global-business-PMBSM1SGLBS1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-administration-PMBSM/without-specialisation-PMBSM1SWOSP1/
+         https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-business-administration-PMBSM/ai-in-strategic-decision-making-PMBSM1SAISD1/

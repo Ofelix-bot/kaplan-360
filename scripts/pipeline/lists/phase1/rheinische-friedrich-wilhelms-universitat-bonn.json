@@ -1,0 +1,12 @@
+{
+ "source": "Degree programs A-Z filtered course_language=english https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z?course_language=english (list view shows each programme's languages; 'German English' programmes dropped, English-only kept) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/artificial-intelligence-msc",
+  "https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/computer-science-msc",
+  "https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/applied-linguistics-ma",
+  "https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/global-health-wm",
+  "https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/mobile-robotics-msc",
+  "https://www.uni-bonn.de/en/studying/degree-programs/degree-programs-a-z/strategy-and-international-security-ma"
+ ]
+}

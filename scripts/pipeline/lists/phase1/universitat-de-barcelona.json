@@ -1,0 +1,13 @@
+{
+  "source": "UB master's finder https://web.ub.edu/en/web/estudis/masters-postgraduate-dregrees-finder filtered to official Master's degree + teaching language English, kept only programmes listed as taught 100% in English in scope; lifelong-learning (título propio) masters skipped (online or English/Spanish mixed). browser (plain fetch gets 403) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://web.ub.edu/en/web/estudis/w/masterdegree-m0k05",
+    "https://web.ub.edu/en/web/estudis/w/masterdegree-md901",
+    "https://web.ub.edu/en/web/estudis/w/masterdegree-md5dc",
+    "https://web.ub.edu/en/web/estudis/w/masterdegree-md5dr",
+    "https://web.ub.edu/en/web/estudis/w/masterdegree-md60b",
+    "https://web.ub.edu/en/web/estudis/w/masterdegree-m0w03",
+    "https://web.ub.edu/en/web/estudis/w/masterdegree-md5dt"
+  ]
+}

@@ -1,0 +1,69 @@
+# vrije-universiteit-brussel https://www.vub.be
+robots sitemaps: https://www.vub.be/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.vub.be/sitemap.xml: 3 children (3 course-like)
+sitemaps read 4 · urls 14927 · master's-looking 1654
+ 1061  www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen
+         https://www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen/bachelor-en-masteropleidingen-aan-de-vub/rechten
+         https://www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen/bachelor-en-masteropleidingen-aan-de-vub/ma-na-ma-arbeidsgeneeskunde
+         https://www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen/bachelor-en-masteropleidingen-aan-de-vub/farmaceutische-zorg
+         https://www.vub.be/nl/studeren-aan-de-vub/alle-opleidingen/bachelor-en-masteropleidingen-aan-de-vub/geneesmiddelenontwikkeling
+  237  www.vub.be/en/studying-vub/all-study-programmes-vub
+         https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/postgraduate-european-policy-making
+         https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/bachelor-social-sciences
+         https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/postgraduate-algology
+         https://www.vub.be/en/studying-vub/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-biomedical-research
+  222  www.vub.be/en/all-study-programmes-vub/bachelors-and-masters-programmes-vub
+         https://www.vub.be/en/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-applied-sciences-and-engineering-computer-science
+         https://www.vub.be/en/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-electromechanical-engineering
+         https://www.vub.be/en/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-biology
+         https://www.vub.be/en/all-study-programmes-vub/bachelors-and-masters-programmes-vub/master-chemistry
+   60  www.vub.be/nl/nieuws
+         https://www.vub.be/nl/nieuws/humans-vub-lieselotte-deconinck-masterstudent-agogi
+         https://www.vub.be/nl/nieuws/humans-vub-lise-gijbels-student-master-agogiek-en-e
+         https://www.vub.be/nl/nieuws/master-en-manama-studenten-iere-bezoeken-de-stad-van-vrede
+         https://www.vub.be/nl/nieuws/infomomenten-specifieke-lerarenopleiding-educatieve-master
+   35  www.vub.be/en/news
+         https://www.vub.be/en/news/humans-vub-alex-de-pape-student-master-in-adult-edu
+         https://www.vub.be/en/news/humans-vub-asefeh-ghadiri-bidhendi-student-master-i
+         https://www.vub.be/en/news/humans-vub-lieselotte-deconinck-master-student-adul
+         https://www.vub.be/en/news/humans-vub-lise-gijbels-student-master-adult-educat
+   11  www.vub.be/nl/studeren-aan-de-vub/bachelor-en-masteropleidingen-aan-de-vub
+         https://www.vub.be/nl/studeren-aan-de-vub/bachelor-en-masteropleidingen-aan-de-vub/disaster-medicine
+         https://www.vub.be/nl/studeren-aan-de-vub/bachelor-en-masteropleidingen-aan-de-vub/gerontological-sciences
+         https://www.vub.be/nl/studeren-aan-de-vub/bachelor-en-masteropleidingen-aan-de-vub/global-health
+         https://www.vub.be/nl/studeren-aan-de-vub/bachelor-en-masteropleidingen-aan-de-vub/oncoplastic-surgery
+    8  www.vub.be/nl/all-study-programmes-vub/bachelor-en-masteropleidingen-aan-de-vub
+         https://www.vub.be/nl/all-study-programmes-vub/bachelor-en-masteropleidingen-aan-de-vub/geneeskunde
+         https://www.vub.be/nl/all-study-programmes-vub/bachelor-en-masteropleidingen-aan-de-vub/wijsbegeerte-en-moraalwetenschappen/programma/bachelor/bachelor-wijsbegeerte-en-moraalwetenschappen
+         https://www.vub.be/nl/all-study-programmes-vub/bachelor-en-masteropleidingen-aan-de-vub/farmaceutische-wetenschappen/onderwijskwaliteit-bachelor-farmaceutische-wetenschappen
+         https://www.vub.be/nl/all-study-programmes-vub/bachelor-en-masteropleidingen-aan-de-vub/farmaceutische-zorg/onderwijskwaliteit-master-farmaceutische-zorg
+    5  www.vub.be/en/studying-vub/practical-info-for-students
+         https://www.vub.be/en/studying-vub/practical-info-for-students/graduating-vub/what-do-you-need-sort-out-when-you-graduate
+         https://www.vub.be/en/studying-vub/practical-info-for-students/how-much-does-studying-cost/financial-support/master-mind-scholarship-programme-vub
+         https://www.vub.be/en/studying-vub/practical-info-for-students/how-much-does-studying-cost/financial-support/icp-master-scholarship
+         https://www.vub.be/en/studying-vub/practical-info-for-students/how-much-does-studying-cost/financial-support/scholarships-for-masters-in-photonics-engineering
+    4  www.vub.be/nl/studeren-aan-de-vub/praktische-info-voor-studenten
+         https://www.vub.be/nl/studeren-aan-de-vub/praktische-info-voor-studenten/hoeveel-kost-studeren/financiele-steun/master-mind-beursprogramma-aan-de-vub
+         https://www.vub.be/nl/studeren-aan-de-vub/praktische-info-voor-studenten/hoeveel-kost-studeren/financiele-steun/icp-masterbeurzen
+         https://www.vub.be/nl/studeren-aan-de-vub/praktische-info-voor-studenten/hoeveel-kost-studeren/financiele-steun/beurzen-voor-masters-in-fotonica
+         https://www.vub.be/nl/studeren-aan-de-vub/praktische-info-voor-studenten/studentenadministratie/bachelorproef-en-masterproef
+    2  www.vub.be/en/contact/organisation
+         https://www.vub.be/en/contact/organisation/webmasters
+         https://www.vub.be/en/contact/organisation/teachers-team-postgraduaat-sportkinesitherapie
+    2  www.vub.be/nl/contact/organisatie
+         https://www.vub.be/nl/contact/organisatie/webmasters
+         https://www.vub.be/nl/contact/organisatie/docententeam-postgraduaat-sportkinesitherapie
+    1  www.vub.be/en/about-vub/faculties-institutes-and-campuses
+         https://www.vub.be/en/about-vub/faculties-institutes-and-campuses/our-faculties/masters-thesis-proposals-industrial-engineering
+    1  www.vub.be/nl/over-de-vub/faculteiten-instituten-en-campussen
+         https://www.vub.be/nl/over-de-vub/faculteiten-instituten-en-campussen/onze-faculteiten/masterproefvoorstellen-industrieel-ingenieurs
+    1  www.vub.be/nl
+         https://www.vub.be/nl/masterclass-artificial-intelligence-ai
+    1  www.vub.be/nl/bachelor-en-masteropleidingen-aan-de-vub
+         https://www.vub.be/nl/bachelor-en-masteropleidingen-aan-de-vub/social-sciences-vrije-universiteit-brussel-vub
+    1  www.vub.be/en/all-study-programmes-vub
+         https://www.vub.be/en/all-study-programmes-vub/bachelors-and-masters-programmes-vub
+    1  www.vub.be/en/donate-vub/chairs-vub
+         https://www.vub.be/en/donate-vub/chairs-vub/vub-masterclass-series-in-ostend
+    1  www.vub.be/nl/steun-de-vub/leerstoelen-aan-de-vub
+         https://www.vub.be/nl/steun-de-vub/leerstoelen-aan-de-vub/vub-masterclass-series-in-ostend

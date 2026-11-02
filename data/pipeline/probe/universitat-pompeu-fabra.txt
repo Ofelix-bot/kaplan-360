@@ -1,0 +1,74 @@
+# universitat-pompeu-fabra https://www.bsm.upf.edu
+robots sitemaps: https://www.bsm.upf.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.bsm.upf.edu/sitemap.xml: 1 children (0 course-like)
+sitemaps read 2 · urls 3649 · master's-looking 535
+  113  www.bsm.upf.edu/ca/noticies
+         https://www.bsm.upf.edu/ca/noticies/condol-per-la-mort-de-la-cineasta-renate-costa-exalumna-del-master-en-documental-de-creacio
+         https://www.bsm.upf.edu/ca/noticies/juny-2012-andrew-wylie-el-mes-prestigios-i-poderos-agent-literari-del-mon-collabora-amb-el-master-en-edicio
+         https://www.bsm.upf.edu/ca/noticies/tercera-jornada-master-gestio-esportiva-upfbsm
+         https://www.bsm.upf.edu/ca/noticies/12-masters-seleccionats-ranquing-best-masters-eduniversal-2016-2017
+   95  www.bsm.upf.edu/es/noticias
+         https://www.bsm.upf.edu/es/noticias/pesame-por-la-muerte-de-la-cineasta-renate-costa-ex-alumna-del-master-en-documental-de
+         https://www.bsm.upf.edu/es/noticias/tercera-jornada-master-gestion-deportiva-upfbsm
+         https://www.bsm.upf.edu/es/noticias/12masters-seleccionados-ranking-best-masters-eduniversal-2016-2017
+         https://www.bsm.upf.edu/es/noticias/diez-anos-master-creacion-literaria-upf-bsm
+   69  www.bsm.upf.edu/en/news
+         https://www.bsm.upf.edu/en/news/third-session-master-sports-management-upfbsm
+         https://www.bsm.upf.edu/en/news/europe-gives-recognition-to-the-master-in-genetic-consultancy
+         https://www.bsm.upf.edu/en/news/inauguration-of-the-masters-in-property-urban-planning-and-construction-law
+         https://www.bsm.upf.edu/en/news/challenge-puma-msc-upf-barcelona-school-of-management
+   63  www.bsm.upf.edu/en
+         https://www.bsm.upf.edu/en/masters-of-science
+         https://www.bsm.upf.edu/en/master-in-scientific-medical-and-environmental-communication
+         https://www.bsm.upf.edu/en/master-in-literary-creation
+         https://www.bsm.upf.edu/en/master-in-pharmaceutical-marketing
+   62  www.bsm.upf.edu/es
+         https://www.bsm.upf.edu/es/masters-of-science
+         https://www.bsm.upf.edu/es/master-en-comunicacion-cientifica-medica-y-ambiental
+         https://www.bsm.upf.edu/es/master-en-creacion-literaria
+         https://www.bsm.upf.edu/es/marketing-farmaceutico-master
+   55  www.bsm.upf.edu/ca
+         https://www.bsm.upf.edu/ca/masters-of-science
+         https://www.bsm.upf.edu/ca/master-en-comunicacio-cientifica-medica-i-ambiental
+         https://www.bsm.upf.edu/ca/master-en-creacio-literaria
+         https://www.bsm.upf.edu/ca/master-en-marqueting-farmaceutic
+   14  www.bsm.upf.edu/es/masters
+         https://www.bsm.upf.edu/es/masters/administracion-direccion-empresas
+         https://www.bsm.upf.edu/es/masters/finanzas-contabilidad
+         https://www.bsm.upf.edu/es/masters/tecnologia-data-innovacion
+         https://www.bsm.upf.edu/es/masters/derecho
+   14  www.bsm.upf.edu/ca/masters
+         https://www.bsm.upf.edu/ca/masters/administracio-direccio-empreses
+         https://www.bsm.upf.edu/ca/masters/finances-comptabilitat
+         https://www.bsm.upf.edu/ca/masters/tecnologia-data-innovacio
+         https://www.bsm.upf.edu/ca/masters/dret
+   14  www.bsm.upf.edu/en/masters
+         https://www.bsm.upf.edu/en/masters/business-administration-management
+         https://www.bsm.upf.edu/en/masters/finance-accounting
+         https://www.bsm.upf.edu/en/masters/tech-data-innovation
+         https://www.bsm.upf.edu/en/masters/law
+    9  www.bsm.upf.edu/es/agenda
+         https://www.bsm.upf.edu/es/agenda/conferencia-inaugural-master-rrhh
+         https://www.bsm.upf.edu/es/agenda/masterclass-el-futuro-digital
+         https://www.bsm.upf.edu/es/agenda/sesion-informativa-msc-international-business-nov-2021
+         https://www.bsm.upf.edu/es/agenda/msc-experience
+    8  www.bsm.upf.edu/es/postgrados
+         https://www.bsm.upf.edu/es/postgrados/administracion-direccion-empresas
+         https://www.bsm.upf.edu/es/postgrados/contabilidad-finanzas
+         https://www.bsm.upf.edu/es/postgrados/comunicacion-periodismo-traduccion
+         https://www.bsm.upf.edu/es/postgrados/creatividad-tecnologia
+    8  www.bsm.upf.edu/en/postgraduates
+         https://www.bsm.upf.edu/en/postgraduates/business-administration-management
+         https://www.bsm.upf.edu/en/postgraduates/accounting-finance
+         https://www.bsm.upf.edu/en/postgraduates/communication-journalism-translation
+         https://www.bsm.upf.edu/en/postgraduates/creativity-technology
+    7  www.bsm.upf.edu/ca/agenda
+         https://www.bsm.upf.edu/ca/agenda/conferencia-inaugural-master-rrhh
+         https://www.bsm.upf.edu/ca/agenda/masterclass-el-futur-digital
+         https://www.bsm.upf.edu/ca/agenda/msc-experience
+         https://www.bsm.upf.edu/ca/agenda/the-msc-experience
+    4  www.bsm.upf.edu/en/events
+         https://www.bsm.upf.edu/en/events/msc-experience
+         https://www.bsm.upf.edu/en/events/the-msc-experience
+         https://www.bsm.upf.edu/en/events/master-publishing-25-anniversary
+         https://www.bsm.upf.edu/en/events/what-not-taught

@@ -1,0 +1,34 @@
+# university-of-arizona@2 https://grad.arizona.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 172 · master's-looking 28
+    9  grad.arizona.edu/policies/academic-policies
+         https://grad.arizona.edu/policies/academic-policies/departmental-graduate-handbooks
+         https://grad.arizona.edu/policies/academic-policies/graduate-catalog-and-program-descriptions
+         https://grad.arizona.edu/policies/academic-policies/graduate-college-syllabus-policy
+         https://grad.arizona.edu/policies/academic-policies/graduate-faculty-policy
+    5  grad.arizona.edu/degree-services/gradpath
+         https://grad.arizona.edu/degree-services/gradpath/gradpath-user-guide-graduate-coordinators
+         https://grad.arizona.edu/degree-services/gradpath/graduate-coordinators-guide-reporting-mastersspecialist-completion
+         https://grad.arizona.edu/degree-services/gradpath/graduate-faculty
+         https://grad.arizona.edu/degree-services/gradpath/graduate-petition-and-graduate-petition-user-guides
+    5  grad.arizona.edu/gaships/resources-graduate-students
+         https://grad.arizona.edu/gaships/resources-graduate-students/benefits
+         https://grad.arizona.edu/gaships/resources-graduate-students/eligibility-appointment
+         https://grad.arizona.edu/gaships/resources-graduate-students/ga-appointment-process-and-responsibilities-graduate-student
+         https://grad.arizona.edu/gaships/resources-graduate-students/other-ga-contacts-and-resources
+    2  grad.arizona.edu/about/legacies
+         https://grad.arizona.edu/about/legacies/graduate-college-deans
+         https://grad.arizona.edu/about/legacies/short-history-graduate-education-university-arizona
+    2  grad.arizona.edu/faculty-and-staff
+         https://grad.arizona.edu/faculty-and-staff/graduate-college-mentoring
+         https://grad.arizona.edu/faculty-and-staff/professional-practice-graduate-degree-designation
+    1  grad.arizona.edu/admissions/admin
+         https://grad.arizona.edu/admissions/admin/policies-graduate-program-admissions-committees
+    1  grad.arizona.edu/admissions/types
+         https://grad.arizona.edu/admissions/types/accelerated-masters-programs-amp
+    1  grad.arizona.edu/degree-services/degree-requirements
+         https://grad.arizona.edu/degree-services/degree-requirements/masters-degrees
+    1  grad.arizona.edu/funding/opportunities
+         https://grad.arizona.edu/funding/opportunities/graduate-assistantshipsassociateships
+    1  grad.arizona.edu/futurestudents
+         https://grad.arizona.edu/futurestudents/graduate-programs

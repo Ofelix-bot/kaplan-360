@@ -1,0 +1,37 @@
+# university-of-canberra@1 https://www.canberra.edu.au
+robots sitemaps: https://www.canberra.edu.au/config/google-webmaster/uc_sitemap https://www.canberra.edu.au/config/google-webmaster/sites https://www.canberra.edu.au/services/wcm/site-map/uc.xml https://www.canberra.edu.au/services/wcm/site-map/course.xml https://www.canberra.edu.au/services/wcm/site-map/unit.xml https://www.canberra.edu.au/services/wcm/site-map/credit.xml https://www.canberra.edu.au/services/wcm/site-map/major.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 7 · urls 5596 · master's-looking 31
+    9  www.canberra.edu.au/future-students/study-at-uc/about-our-courses
+         https://www.canberra.edu.au/future-students/study-at-uc/about-our-courses/master-of-public-health
+         https://www.canberra.edu.au/future-students/study-at-uc/about-our-courses/master-of-teaching
+         https://www.canberra.edu.au/future-students/study-at-uc/about-our-courses/master-of-communication
+         https://www.canberra.edu.au/future-students/study-at-uc/about-our-courses/master-of-nutrition-and-dietetics
+    6  www.canberra.edu.au/future-students/study-at-uc/international
+         https://www.canberra.edu.au/future-students/study-at-uc/international/international-student-experience-at-uc/graduate-certificate-in-academic-foundations
+         https://www.canberra.edu.au/future-students/study-at-uc/international/international-student-experience-at-uc/introducing-the-master-of-creative-industries
+         https://www.canberra.edu.au/future-students/study-at-uc/international/international-student-experience-at-uc/you-ve-graduated--what-s-next-
+         https://www.canberra.edu.au/future-students/study-at-uc/international/international-student-experience-at-uc/introducing-the-master-of-medical-imaging
+    5  www.canberra.edu.au/future-students/entry-requirements-options/alternative-entry-recognition-pathways
+         https://www.canberra.edu.au/future-students/entry-requirements-options/alternative-entry-recognition-pathways/prior-work-study-recognition/cpl-postgrad/all-credit-transfer-arrangements
+         https://www.canberra.edu.au/future-students/entry-requirements-options/alternative-entry-recognition-pathways/prior-work-study-recognition/cpl-postgrad
+         https://www.canberra.edu.au/future-students/entry-requirements-options/alternative-entry-recognition-pathways/prior-work-study-recognition/work-recognition-postgraduate/eligible-courses-work-based-entry
+         https://www.canberra.edu.au/future-students/entry-requirements-options/alternative-entry-recognition-pathways/prior-work-study-recognition/work-recognition-postgraduate
+    3  www.canberra.edu.au/research/centres/cccr
+         https://www.canberra.edu.au/research/centres/cccr/postgraduate-programs/prospective-hdr-students
+         https://www.canberra.edu.au/research/centres/cccr/postgraduate-programs
+         https://www.canberra.edu.au/research/centres/cccr/postgraduate-programs/donald-horne-creative-and-cultural-fellows
+    2  www.canberra.edu.au/future-students/study-at-uc/postgraduate
+         https://www.canberra.edu.au/future-students/study-at-uc/postgraduate/phd
+         https://www.canberra.edu.au/future-students/study-at-uc/postgraduate/master-of-research
+    1  www.canberra.edu.au/alumni/recent-graduates
+         https://www.canberra.edu.au/alumni/recent-graduates/career-coaching-program
+    1  www.canberra.edu.au/alumni
+         https://www.canberra.edu.au/alumni/recent-graduates
+    1  www.canberra.edu.au/future-students/get-into-uc/pathways-programs
+         https://www.canberra.edu.au/future-students/get-into-uc/pathways-programs/graduate-certificate-in-academic-foundations
+    1  www.canberra.edu.au/future-students/study-at-uc/study-areas
+         https://www.canberra.edu.au/future-students/study-at-uc/study-areas/health/nursing/master-of-nursing-practice
+    1  www.canberra.edu.au/about-uc/strategy
+         https://www.canberra.edu.au/about-uc/strategy/campus-master-plan
+    1  www.canberra.edu.au/future-students/study-at-uc
+         https://www.canberra.edu.au/future-students/study-at-uc/postgraduate

@@ -1,0 +1,198 @@
+{
+  "aston-university": {
+    "source": "aston-university",
+    "url": "https://www.aston.ac.uk/international/english-language-requirements",
+    "retrievedAt": "2026-10-21",
+    "standard": null,
+    "rules": [
+      {
+        "appliesTo": "Aston Business School",
+        "pageText": "Aston Business School",
+        "ielts": 6.5,
+        "quote": "Aston Business School … 6.5"
+      },
+      {
+        "appliesTo": "Aston Business School - MBA",
+        "pageText": "Aston Business School",
+        "ielts": 6.5,
+        "quote": "Aston Business School - MBA … 6.5"
+      },
+      {
+        "appliesTo": "School of Law and Social Sciences",
+        "pageText": "School of Law and Social Sciences",
+        "ielts": 6.5,
+        "quote": "School of Law and Social Sciences … 6.5"
+      },
+      {
+        "appliesTo": "Engineering and Physical Sciences",
+        "pageText": "Engineering and Physical Sciences",
+        "ielts": 6,
+        "quote": "Engineering and Physical Sciences … 6.0"
+      },
+      {
+        "appliesTo": "Engineering and Physical Sciences (Engineering Systems and Management programmes)",
+        "pageText": "Engineering and Physical Sciences",
+        "ielts": 6.5,
+        "quote": "Engineering and Physical Sciences (Engineering Systems and Management programmes) … 6.5"
+      },
+      {
+        "appliesTo": "Health and Life Sciences",
+        "pageText": "Health and Life Sciences",
+        "ielts": 6.5,
+        "quote": "Health and Life Sciences … 6.5"
+      },
+      {
+        "appliesTo": "Health and Life Sciences - OSPAP",
+        "pageText": "Health and Life Sciences - OSPAP",
+        "ielts": 7,
+        "quote": "Health and Life Sciences - OSPAP … 7.0"
+      }
+    ]
+  },
+  "murdoch-university": {
+    "source": "murdoch-university",
+    "url": "https://www.murdoch.edu.au/study/how-to-apply/entry-requirements/english-proficiency-tests",
+    "retrievedAt": "2026-10-21",
+    "standard": {
+      "appliesTo": "postgraduate courses (standard requirements)",
+      "ielts": 6,
+      "quote": "Standard requirements … Postgraduate … IELTS Academic (International English Language Testing System) … 6.0 Overall"
+    },
+    "rules": [
+      {
+        "appliesTo": "Food Security (C1151, M1311)",
+        "codes": [
+          "C1151",
+          "M1311"
+        ],
+        "ielts": 6.5,
+        "quote": "Food Security (C1151, M1311) … International English Language Testing System (IELTS) Academic … 6.5 Overall"
+      },
+      {
+        "appliesTo": "High Performance Sport (C1176, M1400); Master of Clinical Exercise Physiology (M1325); Counselling (C1111, G1101, M1412); Creative Arts Therapies (G1081, M1300)",
+        "codes": [
+          "C1176",
+          "M1400",
+          "M1325",
+          "C1111",
+          "G1101",
+          "M1412",
+          "G1081",
+          "M1300"
+        ],
+        "ielts": 7,
+        "quote": "High Performance Sport (C1176, M1400) Master of Clinical Exercise Physiology (M1325) Counselling (C1111, G1101, M1412) Creative Arts Therapies (G1081, M1300) … International English Language Testing System (IELTS) Academic … 7.0 Overall"
+      },
+      {
+        "appliesTo": "Gerontological Healthcare (G1102, C1154)",
+        "codes": [
+          "G1102",
+          "C1154"
+        ],
+        "ielts": 6.5,
+        "quote": "Gerontological Healthcare (G1102, C1154) … International English Language Testing System (IELTS) Academic … 6.5 Overall"
+      },
+      {
+        "appliesTo": "Master of Clinical Chiropractic (M1408)",
+        "codes": [
+          "M1408"
+        ],
+        "ielts": 7,
+        "quote": "Master of Clinical Chiropractic (M1408) … International English Language Testing System (IELTS) Academic … 7.0 Overall"
+      },
+      {
+        "appliesTo": "Graduate Certificate in Education (C1153); Master of Education (M1313, M1367)",
+        "codes": [
+          "C1153",
+          "M1313",
+          "M1367"
+        ],
+        "ielts": 6.5,
+        "quote": "Graduate Certificate in Education (C1153) Master of Education (M1313, M1367) … International English Language Testing System (IELTS) Academic … 6.5 Overall"
+      },
+      {
+        "appliesTo": "Master of Teaching (Primary and Secondary) (M1390, M1391)",
+        "codes": [
+          "M1390",
+          "M1391"
+        ],
+        "ielts": 7.5,
+        "quote": "Master of Teaching (Primary and Secondary) (M1390, M1391) … International English Language Testing System (IELTS) Academic … 7.5 Overall"
+      },
+      {
+        "appliesTo": "Graduate Diploma in Australian Migration Law and Practice (G1104)",
+        "codes": [
+          "G1104"
+        ],
+        "ielts": 6.5,
+        "quote": "Graduate Diploma in Australian Migration Law and Practice (G1104) … International English Language Testing System (IELTS) Academic … 6.5 Overall"
+      },
+      {
+        "appliesTo": "Food Science (C1170, G1095, M1371, M1372); Systems Medicine (C1152); Infectious Disease (C1173, G1097, M1381, M1382)",
+        "codes": [
+          "C1170",
+          "G1095",
+          "M1371",
+          "M1372",
+          "C1152",
+          "C1173",
+          "G1097",
+          "M1381",
+          "M1382"
+        ],
+        "ielts": 6.5,
+        "quote": "Food Science (C1170, G1095, M1371, M1372) Systems Medicine (C1152) Infectious Disease (C1173, G1097, M1381, M1382) … International English Language Testing System (IELTS) Academic … 6.5 Overall"
+      },
+      {
+        "appliesTo": "Health Care Management (Specialisation) (M1358)",
+        "codes": [
+          "M1358"
+        ],
+        "ielts": 6.5,
+        "quote": "Health Care Management (Specialisation) (M1358) … International English Language Testing System (IELTS) Academic … 6.5 Overall"
+      },
+      {
+        "appliesTo": "Health Care Management (M1217, C1116)",
+        "codes": [
+          "M1217",
+          "C1116"
+        ],
+        "ielts": 6.5,
+        "quote": "Health Care Management (M1217, C1116) … International English Language Testing System (IELTS) Academic … 6.5 Overall"
+      },
+      {
+        "appliesTo": "Nursing Microcredential (N1117); Advanced Would Care (C1169); Graduate Certificate in Cancer Nursing (C1174)",
+        "codes": [
+          "N1117",
+          "C1169",
+          "C1174"
+        ],
+        "ielts": 7,
+        "quote": "Nursing Microcredential (N1117) Advanced Would Care (C1169) Graduate Certificate in Cancer Nursing (C1174) … International English Language Testing System (IELTS) Academic … 7.0 Overall"
+      },
+      {
+        "appliesTo": "Psychology (G1096, M1156, M1238, M1388)",
+        "codes": [
+          "G1096",
+          "M1156",
+          "M1238",
+          "M1388"
+        ],
+        "ielts": 7,
+        "quote": "Psychology (G1096, M1156, M1238, M1388) … International English Language Testing System (IELTS) Academic … 7.0 Overall"
+      },
+      {
+        "appliesTo": "Veterinary Clinical Studies (M1223, G1094, N1088, N1089, N1112)",
+        "codes": [
+          "M1223",
+          "G1094",
+          "N1088",
+          "N1089",
+          "N1112"
+        ],
+        "ielts": 7,
+        "quote": "Veterinary Clinical Studies (M1223, G1094, N1088, N1089, N1112) … International English Language Testing System (IELTS) Academic … 7.0 Overall"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+# university-of-turku https://www.utu.fi
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.utu.fi/sitemap.xml: 9 children (9 course-like)
+sitemaps read 10 · urls 43178 · master's-looking 622
+  187  www.utu.fi/en/news/events
+         https://www.utu.fi/en/news/events/dissertation-defence-geography-msc-jouni-salmela
+         https://www.utu.fi/en/news/events/dissertation-defence-information-and-communication-technology-msc-saeed-mehrang
+         https://www.utu.fi/en/news/events/dissertation-defence-physiology-msc-opeyemi-olotu
+         https://www.utu.fi/en/news/events/dissertation-defence-materials-engineering-msc-mahdi-moghaddam
+  187  www.utu.fi/fi/ajankohtaista/tapahtumat
+         https://www.utu.fi/fi/ajankohtaista/tapahtumat/vaitos-tieto-ja-viestintatekniikka-msc-saeed-mehrang
+         https://www.utu.fi/fi/ajankohtaista/tapahtumat/vaitos-fysiologia-msc-opeyemi-olotu
+         https://www.utu.fi/fi/ajankohtaista/tapahtumat/vaitos-materiaalitekniikka-msc-mahdi-moghaddam
+         https://www.utu.fi/fi/ajankohtaista/tapahtumat/vaitos-laaketieteellinen-biokemia-ja-genetiikka-msc-katri-vaparanta
+   76  www.utu.fi/fi/ajankohtaista/vaitos
+         https://www.utu.fi/fi/ajankohtaista/vaitos/uutta-teoreettisen-matematiikan-perustutkimusta-vaitos-msc-xiaohui-zhang
+         https://www.utu.fi/fi/ajankohtaista/vaitos/mita-reitteja-verisuonten-ambulanssit-valkosolut-liikkuvat-vaitos-msc-johannes
+         https://www.utu.fi/fi/ajankohtaista/vaitos/tietoliikenteen-tukot-aukeavat-reititysalgoritmeilla-vaitos-msc-masoumeh
+         https://www.utu.fi/fi/ajankohtaista/vaitos/vaitostutkimuksessa-esitellaan-uusi-visuaalinen-kulmametriikka-vaitos-msc
+   67  www.utu.fi/en/news/news
+         https://www.utu.fi/en/news/news/new-graduate-school-trains-future-experts
+         https://www.utu.fi/en/news/news/time-to-apply-for-international-masters-degree-programmes
+         https://www.utu.fi/en/news/news/new-masters-degree-programmes-add-to-the-international-education-offered-at-the
+         https://www.utu.fi/en/news/news/biomedical-imaging-masters-degree-programme-attracts-students-from-all-around-the-world
+   45  www.utu.fi/fi/ajankohtaista/uutinen
+         https://www.utu.fi/fi/ajankohtaista/uutinen/apply-now-for-masters-degree-programme-in-law-and-information-society
+         https://www.utu.fi/fi/ajankohtaista/uutinen/apply-now-for-masters-degree-programme-in-law-and-information-society-0
+         https://www.utu.fi/fi/ajankohtaista/uutinen/ehdotukset-faculty-of-medicine-postgraduate-education-unit-yksikon
+         https://www.utu.fi/fi/ajankohtaista/uutinen/international-students-baking-karelian-pies-with-the-masters
+   38  www.utu.fi/en/study-at-utu
+         https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-futures-studies
+         https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-education-and-learning
+         https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-global-innovation-management
+         https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-food-development
+    5  www.utu.fi/en/news/press-release
+         https://www.utu.fi/en/news/press-release/university-of-turku-to-expand-master-of-science-education-to-mechanical
+         https://www.utu.fi/en/news/press-release/record-number-of-applications-to-universitys-international-masters-degree
+         https://www.utu.fi/en/news/press-release/application-period-for-18-international-masters-programmes-of-university-of
+         https://www.utu.fi/en/news/press-release/discover-your-future-at-utu-apply-to-our-international-masters-programmes-on-3
+    2  www.utu.fi/en/news
+         https://www.utu.fi/en/news/new-masters-degree-programme-in-public-mental-health-launching-at-the-university-of-turku
+         https://www.utu.fi/en/news/international-masters-students-visit-rauma-region
+    2  www.utu.fi/fi/yliopisto/turun-kauppakorkeakoulu
+         https://www.utu.fi/fi/yliopisto/turun-kauppakorkeakoulu/yritysyhteistyo/executive-mba-turku
+         https://www.utu.fi/fi/yliopisto/turun-kauppakorkeakoulu/tulevaisuuden-tutkimuskeskus/opetus/masters
+    2  www.utu.fi/en/study-at-utu/registration
+         https://www.utu.fi/en/study-at-utu/registration/new-master
+         https://www.utu.fi/en/study-at-utu/registration/passive/instructions-for-postgraduate-students
+    2  www.utu.fi/en/university/faculty-of-medicine
+         https://www.utu.fi/en/university/faculty-of-medicine/doctoral-training-at-the-faculty-of-medicine/postgraduate-studies-at-the-faculty-of-medicine
+         https://www.utu.fi/en/university/faculty-of-medicine/department-of-nursing-science/studying/masters
+    1  www.utu.fi/fi/opiskelijaksi
+         https://www.utu.fi/fi/opiskelijaksi/international-masters-degree-programmes
+    1  www.utu.fi/en/news/dissertation
+         https://www.utu.fi/en/news/dissertation/wind-power-and-artificial-light-impact-finnish-bats-dissertation-defence-msc
+    1  www.utu.fi/en/university/faculty-of-humanities
+         https://www.utu.fi/en/university/faculty-of-humanities/doctoral-training/postgraduate-studies
+    1  www.utu.fi/en/university/turku-school-of-economics
+         https://www.utu.fi/en/university/turku-school-of-economics/finland-futures-research-centre/studying/masters
+    1  www.utu.fi/en/study-at-utu/masters-degree-programme-in-law-and-information-society
+         https://www.utu.fi/en/study-at-utu/masters-degree-programme-in-law-and-information-society/essay-question-and-case
+    1  www.utu.fi/en/university/global-educational-services
+         https://www.utu.fi/en/university/global-educational-services/trainings-and-services-for-schools/executive-mba-international-educational-leadership-and-management
+    1  www.utu.fi/en/research/utugs
+         https://www.utu.fi/en/research/utugs/postgraduate-move
+    1  www.utu.fi/en/people
+         https://www.utu.fi/en/people/lin-ma
+    1  www.utu.fi/fi/ihmiset
+         https://www.utu.fi/fi/ihmiset/lin-ma

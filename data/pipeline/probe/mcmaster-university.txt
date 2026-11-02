@@ -1,0 +1,89 @@
+# mcmaster-university https://gs.mcmaster.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 1
+index https://gs.mcmaster.ca/sitemap.xml: 19 children (19 course-like)
+sitemaps read 20 · urls 1555 · master's-looking 347
+  120  gs.mcmaster.ca/events
+         https://gs.mcmaster.ca/events/drawing-conclusions-creativity-for-graduate-students-series-2/
+         https://gs.mcmaster.ca/events/drawing-conclusions-creativity-for-graduate-students-series-3/
+         https://gs.mcmaster.ca/events/courageous-conversations-professional-skills-for-graduate-students-and-postdoctoral-fellows/
+         https://gs.mcmaster.ca/events/gsa-grad-essentials-workshop-graduate-students-public-transportation/
+   45  gs.mcmaster.ca/resources
+         https://gs.mcmaster.ca/resources/graduate-thesis-toolkit/
+         https://gs.mcmaster.ca/resources/audit-a-graduate-course/
+         https://gs.mcmaster.ca/resources/graduate-supervision-guidelines-for-faculty-and-students/
+         https://gs.mcmaster.ca/resources/guide-for-preparing-doctoral-and-masters-theses/
+    7  gs.mcmaster.ca/current-students/scholarships
+         https://gs.mcmaster.ca/current-students/scholarships/cihr-canada-graduate-scholarship-doctoral/
+         https://gs.mcmaster.ca/current-students/scholarships/cihr-nserc-and-sshrc-cgsm-masters/
+         https://gs.mcmaster.ca/current-students/scholarships/nserc-postgraduate-scholarships-doctoral/
+         https://gs.mcmaster.ca/current-students/scholarships/harvey-e-longboat-graduate-scholarship-for-first-nations-inuit-and-metis-students/
+    7  gs.mcmaster.ca/locations
+         https://gs.mcmaster.ca/locations/mcmaster/
+         https://gs.mcmaster.ca/locations/mcmaster-museum-of-art/
+         https://gs.mcmaster.ca/locations/mcmaster-university-student-centre-parking-lot/
+         https://gs.mcmaster.ca/locations/mcmaster-university-student-centre/
+    6  gs.mcmaster.ca/current-students/resources
+         https://gs.mcmaster.ca/current-students/resources/graduate-student-recognition-awards/
+         https://gs.mcmaster.ca/current-students/resources/graduate-writing/
+         https://gs.mcmaster.ca/current-students/resources/graduate-disability-and-accommodations/
+         https://gs.mcmaster.ca/current-students/resources/supervision-guidelines-graduate-students/
+    5  gs.mcmaster.ca/diploma_type
+         https://gs.mcmaster.ca/diploma_type/msc/
+         https://gs.mcmaster.ca/diploma_type/mba/
+         https://gs.mcmaster.ca/diploma_type/msc-ot/
+         https://gs.mcmaster.ca/diploma_type/msc-pt/
+    4  gs.mcmaster.ca/graduate-council
+         https://gs.mcmaster.ca/graduate-council/
+         https://gs.mcmaster.ca/graduate-council/how-to-become-a-student-member-of-graduate-council/
+         https://gs.mcmaster.ca/graduate-council/graduate-council-executive-committee/
+         https://gs.mcmaster.ca/graduate-council/committee-on-graduate-financial-support-10/
+    4  gs.mcmaster.ca/current-students/resources/graduate-supervision
+         https://gs.mcmaster.ca/current-students/resources/graduate-supervision/supervision-guidelines-for-supervisors/
+         https://gs.mcmaster.ca/current-students/resources/graduate-supervision/supervision-guidelines-for-programs/
+         https://gs.mcmaster.ca/current-students/resources/graduate-supervision/supervision-guidelines-for-committee/
+         https://gs.mcmaster.ca/current-students/resources/graduate-supervision/download-communication-tool-for-supervisory-relationship/
+    4  gs.mcmaster.ca/current-students/resources/unconscious-bias-in-graduate-admissions-and-scholarship-adjudication
+         https://gs.mcmaster.ca/current-students/resources/unconscious-bias-in-graduate-admissions-and-scholarship-adjudication/for-referees/
+         https://gs.mcmaster.ca/current-students/resources/unconscious-bias-in-graduate-admissions-and-scholarship-adjudication/for-reviewers-committee-members-and-chairs/
+         https://gs.mcmaster.ca/current-students/resources/unconscious-bias-in-graduate-admissions-and-scholarship-adjudication/developing-and-using-a-rubric/
+         https://gs.mcmaster.ca/current-students/resources/unconscious-bias-in-graduate-admissions-and-scholarship-adjudication/additional-resources/
+    3  gs.mcmaster.ca/current-students/resources/graduate-writing
+         https://gs.mcmaster.ca/current-students/resources/graduate-writing/research-article-abstracts/
+         https://gs.mcmaster.ca/current-students/resources/graduate-writing/edit-slow-advanced-principles-to-consider-when-editing-your-work/
+         https://gs.mcmaster.ca/current-students/resources/graduate-writing/resources-for-english-language-learners/
+    3  gs.mcmaster.ca/current-students/resources/graduate-disability-and-accommodations
+         https://gs.mcmaster.ca/current-students/resources/graduate-disability-and-accommodations/types-of-disabilities/
+         https://gs.mcmaster.ca/current-students/resources/graduate-disability-and-accommodations/community-and-peer-support/
+         https://gs.mcmaster.ca/current-students/resources/graduate-disability-and-accommodations/scholarships-for-students-with-disabilities/
+    2  gs.mcmaster.ca/ive-accepted-my-offer/how-to-enroll
+         https://gs.mcmaster.ca/ive-accepted-my-offer/how-to-enroll/graduate-student-responsibilities/
+         https://gs.mcmaster.ca/ive-accepted-my-offer/how-to-enroll/your-responsibilities-as-a-graduate-student/
+    2  gs.mcmaster.ca/current-students/completing-your-degree
+         https://gs.mcmaster.ca/current-students/completing-your-degree/completing-your-masters-degree-course-based-non-thesis/
+         https://gs.mcmaster.ca/current-students/completing-your-degree/masters-thesis/
+    2  gs.mcmaster.ca/ive-accepted-my-offer
+         https://gs.mcmaster.ca/ive-accepted-my-offer/graduate-student-orientation-fall/
+         https://gs.mcmaster.ca/ive-accepted-my-offer/graduate-student-hub-coming-soon/
+    2  gs.mcmaster.ca/current-students/resources/graduate-student-recognition-awards
+         https://gs.mcmaster.ca/current-students/resources/graduate-student-recognition-awards/congratulations-to-our-2021-graduate-student-recognition-award-recipients/
+         https://gs.mcmaster.ca/current-students/resources/graduate-student-recognition-awards/congratulations-to-our-20223-24-graduate-student-recognition-award-recipients-2/
+    1  gs.mcmaster.ca/disability-related-issues-are-the-topic-at-mcmasters-employee-accessibility-network
+         https://gs.mcmaster.ca/disability-related-issues-are-the-topic-at-mcmasters-employee-accessibility-network/
+    1  gs.mcmaster.ca/congratulations-to-our-first-graduate-wilson-scholars
+         https://gs.mcmaster.ca/congratulations-to-our-first-graduate-wilson-scholars/
+    1  gs.mcmaster.ca/call-open-for-macdata-graduate-fellowship
+         https://gs.mcmaster.ca/call-open-for-macdata-graduate-fellowship/
+    1  gs.mcmaster.ca/mcmaster-graduate-students-are-serving-up-important-conversations
+         https://gs.mcmaster.ca/mcmaster-graduate-students-are-serving-up-important-conversations/
+    1  gs.mcmaster.ca/volunteer-as-a-research-associate-at-mcmasters-research-shop-3
+         https://gs.mcmaster.ca/volunteer-as-a-research-associate-at-mcmasters-research-shop-3/
+    1  gs.mcmaster.ca/a-message-to-the-graduate-community
+         https://gs.mcmaster.ca/a-message-to-the-graduate-community/
+    1  gs.mcmaster.ca/a-message-to-our-international-graduate-students
+         https://gs.mcmaster.ca/a-message-to-our-international-graduate-students/
+    1  gs.mcmaster.ca/a-message-from-the-dean-of-graduate-studies-april-14
+         https://gs.mcmaster.ca/a-message-from-the-dean-of-graduate-studies-april-14/
+    1  gs.mcmaster.ca/dedicated-study-space-for-graduate-students-now-available-in-mills-library
+         https://gs.mcmaster.ca/dedicated-study-space-for-graduate-students-now-available-in-mills-library/
+    1  gs.mcmaster.ca/news-events-news-2019-mcmaster-graduate-students-are-serving-important-conversations
+         https://gs.mcmaster.ca/news-events-news-2019-mcmaster-graduate-students-are-serving-important-conversations/

@@ -1,0 +1,69 @@
+{
+  "id": "suda",
+  "status": "read",
+  "university": "苏州大学",
+  "universityEn": "Soochow University",
+  "tier": "211",
+  "url": "https://ygb.suda.edu.cn/_upload/article/files/49/5d/74156ed8462498d086b54c4b1e8a/f0abceb9-3af5-424c-bb0c-22af277771a6.pdf",
+  "title": null,
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 34,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": "2022届",
+      "count": 544,
+      "pct": 8.41,
+      "quote": "本科毕业生出国（境）留学总人数为544人，占比8.41%。"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": "2022届",
+      "count": null,
+      "pct": 26.84,
+      "quote": "本科毕业生出国（境）地区主要是英国（26.84%）"
+    },
+    {
+      "region": "新加坡",
+      "cohort": "2022届",
+      "count": null,
+      "pct": 21.32,
+      "quote": "其次是新加坡（21.32%）"
+    },
+    {
+      "region": "香港",
+      "cohort": "2022届",
+      "count": null,
+      "pct": 16.54,
+      "quote": "其次是新加坡（21.32%）和香港（16.54%）"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "2022QS世界大学排名前50",
+      "cohort": "2022届",
+      "count": 306,
+      "pct": 56.25,
+      "quote": "进入2022QS世界大学排名前50的高校人数（不含内地高校）为306人，占出国（境）总人数56.25%"
+    }
+  ],
+  "destinations": [],
+  "dropped": [
+    "新加坡国立大学",
+    "香港中文大学",
+    "香港大学",
+    "爱丁堡大学",
+    "曼彻斯特大学",
+    "帝国理工学院",
+    "伦敦大学学院",
+    "悉尼大学",
+    "香港科技大学",
+    "伦敦大学国王学院",
+    "南洋理工大学",
+    "约翰·霍普金斯大学"
+  ],
+  "checked": "2026-10-22"
+}

@@ -1,0 +1,2509 @@
+{
+  "source": "Fortune Global 500, 2026",
+  "sourceUrl": "https://fortune.com/ranking/global500/",
+  "publishedAt": "2026-07-28",
+  "retrievedAt": "2026-10-18",
+  "note": "Names and positions only, used to tag employers.",
+  "companies": [
+    {
+      "name": "Amazon",
+      "rank": 1,
+      "url": "https://fortune.com/company/amazon-com/"
+    },
+    {
+      "name": "Walmart",
+      "rank": 2,
+      "url": "https://fortune.com/company/walmart/"
+    },
+    {
+      "name": "State Grid",
+      "rank": 3,
+      "url": "https://fortune.com/company/state-grid/"
+    },
+    {
+      "name": "UnitedHealth Group",
+      "rank": 4,
+      "url": "https://fortune.com/company/unitedhealth-group/"
+    },
+    {
+      "name": "Saudi Aramco",
+      "rank": 5,
+      "url": "https://fortune.com/company/saudi-aramco/"
+    },
+    {
+      "name": "Apple",
+      "rank": 6,
+      "url": "https://fortune.com/company/apple/"
+    },
+    {
+      "name": "McKesson",
+      "rank": 7,
+      "url": "https://fortune.com/company/mckesson/"
+    },
+    {
+      "name": "Alphabet",
+      "rank": 8,
+      "url": "https://fortune.com/company/alphabet/"
+    },
+    {
+      "name": "CVS Health",
+      "rank": 9,
+      "url": "https://fortune.com/company/cvs-health/"
+    },
+    {
+      "name": "China National Petroleum",
+      "rank": 10,
+      "url": "https://fortune.com/company/china-national-petroleum/"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "rank": 11,
+      "url": "https://fortune.com/company/berkshire-hathaway/"
+    },
+    {
+      "name": "Sinopec Group",
+      "rank": 12,
+      "url": "https://fortune.com/company/sinopec-group/"
+    },
+    {
+      "name": "Volkswagen",
+      "rank": 13,
+      "url": "https://fortune.com/company/volkswagen/"
+    },
+    {
+      "name": "Toyota Motor",
+      "rank": 14,
+      "url": "https://fortune.com/company/toyota-motor/"
+    },
+    {
+      "name": "Exxon Mobil Holdings",
+      "rank": 15,
+      "url": "https://fortune.com/company/exxon-mobil/"
+    },
+    {
+      "name": "Cencora",
+      "rank": 16,
+      "url": "https://fortune.com/company/amerisourcebergen/"
+    },
+    {
+      "name": "China State Construction Engineering",
+      "rank": 17,
+      "url": "https://fortune.com/company/china-state-construction-engineering/"
+    },
+    {
+      "name": "Microsoft",
+      "rank": 18,
+      "url": "https://fortune.com/company/microsoft/"
+    },
+    {
+      "name": "JPMorgan Chase",
+      "rank": 19,
+      "url": "https://fortune.com/company/jpmorgan-chase/"
+    },
+    {
+      "name": "Costco Wholesale",
+      "rank": 20,
+      "url": "https://fortune.com/company/costco/"
+    },
+    {
+      "name": "Cigna Group",
+      "rank": 21,
+      "url": "https://fortune.com/company/cigna/"
+    },
+    {
+      "name": "Shell",
+      "rank": 22,
+      "url": "https://fortune.com/company/royal-dutch-shell/"
+    },
+    {
+      "name": "Hon Hai Precision Industry",
+      "rank": 23,
+      "url": "https://fortune.com/company/hon-hai-precision-industry/"
+    },
+    {
+      "name": "Glencore",
+      "rank": 24,
+      "url": "https://fortune.com/company/glencore/"
+    },
+    {
+      "name": "Trafigura Group",
+      "rank": 25,
+      "url": "https://fortune.com/company/trafigura-group/"
+    },
+    {
+      "name": "Samsung Electronics",
+      "rank": 26,
+      "url": "https://fortune.com/company/samsung-electronics/"
+    },
+    {
+      "name": "Cardinal Health",
+      "rank": 27,
+      "url": "https://fortune.com/company/cardinal-health/"
+    },
+    {
+      "name": "Nvidia",
+      "rank": 28,
+      "url": "https://fortune.com/company/nvidia/"
+    },
+    {
+      "name": "Industrial & Commercial Bank of China",
+      "rank": 29,
+      "url": "https://fortune.com/company/industrial-commercial-bank-of-china/"
+    },
+    {
+      "name": "Meta Platforms",
+      "rank": 30,
+      "url": "https://fortune.com/company/facebook/"
+    },
+    {
+      "name": "Elevance Health",
+      "rank": 31,
+      "url": "https://fortune.com/company/elevance-health/"
+    },
+    {
+      "name": "Centene",
+      "rank": 32,
+      "url": "https://fortune.com/company/centene/"
+    },
+    {
+      "name": "BP",
+      "rank": 33,
+      "url": "https://fortune.com/company/bp/"
+    },
+    {
+      "name": "Bank of America",
+      "rank": 34,
+      "url": "https://fortune.com/company/bank-of-america-corp/"
+    },
+    {
+      "name": "Agricultural Bank of China",
+      "rank": 35,
+      "url": "https://fortune.com/company/agricultural-bank-of-china/"
+    },
+    {
+      "name": "Chevron",
+      "rank": 36,
+      "url": "https://fortune.com/company/chevron/"
+    },
+    {
+      "name": "China Construction Bank",
+      "rank": 37,
+      "url": "https://fortune.com/company/china-construction-bank/"
+    },
+    {
+      "name": "Ford Motor",
+      "rank": 38,
+      "url": "https://fortune.com/company/ford-motor/"
+    },
+    {
+      "name": "General Motors",
+      "rank": 39,
+      "url": "https://fortune.com/company/general-motors/"
+    },
+    {
+      "name": "TotalEnergies",
+      "rank": 40,
+      "url": "https://fortune.com/company/total/"
+    },
+    {
+      "name": "JD.com",
+      "rank": 41,
+      "url": "https://fortune.com/company/jd-com/"
+    },
+    {
+      "name": "China Life Insurance",
+      "rank": 42,
+      "url": "https://fortune.com/company/china-life-insurance/"
+    },
+    {
+      "name": "Stellantis",
+      "rank": 43,
+      "url": "https://fortune.com/company/stellantis/"
+    },
+    {
+      "name": "Bank of China",
+      "rank": 44,
+      "url": "https://fortune.com/company/bank-of-china/"
+    },
+    {
+      "name": "Citigroup",
+      "rank": 45,
+      "url": "https://fortune.com/company/citigroup/"
+    },
+    {
+      "name": "Home Depot",
+      "rank": 46,
+      "url": "https://fortune.com/company/home-depot/"
+    },
+    {
+      "name": "Fannie Mae",
+      "rank": 47,
+      "url": "https://fortune.com/company/fannie-mae/"
+    },
+    {
+      "name": "Ping An Insurance",
+      "rank": 48,
+      "url": "https://fortune.com/company/ping-an-insurance/"
+    },
+    {
+      "name": "China Railway Engineering Group",
+      "rank": 49,
+      "url": "https://fortune.com/company/china-railway-engineering/"
+    },
+    {
+      "name": "BMW Group",
+      "rank": 50,
+      "url": "https://fortune.com/company/bmw-group/"
+    },
+    {
+      "name": "Mercedes-Benz Group",
+      "rank": 51,
+      "url": "https://fortune.com/company/daimler/"
+    },
+    {
+      "name": "Kroger",
+      "rank": 52,
+      "url": "https://fortune.com/company/kroger/"
+    },
+    {
+      "name": "China Mobile Communications",
+      "rank": 53,
+      "url": "https://fortune.com/company/china-mobile-communications/"
+    },
+    {
+      "name": "Banco Santander",
+      "rank": 54,
+      "url": "https://fortune.com/company/banco-santander/"
+    },
+    {
+      "name": "Honda Motor",
+      "rank": 55,
+      "url": "https://fortune.com/company/honda-motor/"
+    },
+    {
+      "name": "Alibaba Group",
+      "rank": 56,
+      "url": "https://fortune.com/company/alibaba-group-holding/"
+    },
+    {
+      "name": "China Railway Construction",
+      "rank": 57,
+      "url": "https://fortune.com/company/china-railway-construction/"
+    },
+    {
+      "name": "BNP Paribas",
+      "rank": 58,
+      "url": "https://fortune.com/company/bnp-paribas/"
+    },
+    {
+      "name": "CITIC Group",
+      "rank": 59,
+      "url": "https://fortune.com/company/citic-group/"
+    },
+    {
+      "name": "Verizon Communications",
+      "rank": 60,
+      "url": "https://fortune.com/company/verizon/"
+    },
+    {
+      "name": "Phillips 66",
+      "rank": 61,
+      "url": "https://fortune.com/company/phillips/"
+    },
+    {
+      "name": "HSBC Holdings",
+      "rank": 62,
+      "url": "https://fortune.com/company/hsbc-holdings/"
+    },
+    {
+      "name": "Marathon Petroleum",
+      "rank": 63,
+      "url": "https://fortune.com/company/marathon-petroleum/"
+    },
+    {
+      "name": "Sberbank",
+      "rank": 64,
+      "url": "https://fortune.com/company/sberbank/"
+    },
+    {
+      "name": "Deutsche Telekom",
+      "rank": 65,
+      "url": "https://fortune.com/company/deutsche-telekom/"
+    },
+    {
+      "name": "China Communications Construction",
+      "rank": 66,
+      "url": "https://fortune.com/company/china-communications-construction/"
+    },
+    {
+      "name": "Allianz",
+      "rank": 67,
+      "url": "https://fortune.com/company/allianz/"
+    },
+    {
+      "name": "China Resources",
+      "rank": 68,
+      "url": "https://fortune.com/company/china-resources-national/"
+    },
+    {
+      "name": "StoneX Group",
+      "rank": 69,
+      "url": "https://fortune.com/company/stonex-group/"
+    },
+    {
+      "name": "State Farm Insurance",
+      "rank": 70,
+      "url": "https://fortune.com/company/state-farm-insurance-cos/"
+    },
+    {
+      "name": "Freddie Mac",
+      "rank": 71,
+      "url": "https://fortune.com/company/freddie-mac/"
+    },
+    {
+      "name": "Hyundai Motor",
+      "rank": 72,
+      "url": "https://fortune.com/company/hyundai-motor/"
+    },
+    {
+      "name": "Humana",
+      "rank": 73,
+      "url": "https://fortune.com/company/humana/"
+    },
+    {
+      "name": "Electricité de France",
+      "rank": 74,
+      "url": "https://fortune.com/company/electricite-de-france/"
+    },
+    {
+      "name": "AT&T",
+      "rank": 75,
+      "url": "https://fortune.com/company/att/"
+    },
+    {
+      "name": "Mitsubishi Corporation",
+      "rank": 76,
+      "url": "https://fortune.com/company/mitsubishi/"
+    },
+    {
+      "name": "Goldman Sachs Group",
+      "rank": 77,
+      "url": "https://fortune.com/company/goldman-sachs-group/"
+    },
+    {
+      "name": "Hengli Group",
+      "rank": 78,
+      "url": "https://fortune.com/company/hengli-group/"
+    },
+    {
+      "name": "Comcast",
+      "rank": 79,
+      "url": "https://fortune.com/company/comcast/"
+    },
+    {
+      "name": "Wells Fargo",
+      "rank": 80,
+      "url": "https://fortune.com/company/wells-fargo/"
+    },
+    {
+      "name": "Huawei Investment & Holding",
+      "rank": 81,
+      "url": "https://fortune.com/company/huawei-investment-holding/"
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing",
+      "rank": 82,
+      "url": "https://fortune.com/company/taiwan-semiconductor-manufacturing/"
+    },
+    {
+      "name": "China National Offshore Oil",
+      "rank": 83,
+      "url": "https://fortune.com/company/china-national-offshore-oil/"
+    },
+    {
+      "name": "Morgan Stanley",
+      "rank": 84,
+      "url": "https://fortune.com/company/morgan-stanley/"
+    },
+    {
+      "name": "Reliance Industries",
+      "rank": 85,
+      "url": "https://fortune.com/company/reliance-industries/"
+    },
+    {
+      "name": "China Southern Power Grid",
+      "rank": 86,
+      "url": "https://fortune.com/company/china-southern-power-grid/"
+    },
+    {
+      "name": "Shandong Energy Group",
+      "rank": 87,
+      "url": "https://fortune.com/company/yankuang-group/"
+    },
+    {
+      "name": "Valero Energy",
+      "rank": 88,
+      "url": "https://fortune.com/company/valero-energy/"
+    },
+    {
+      "name": "Gazprom",
+      "rank": 89,
+      "url": "https://fortune.com/company/gazprom/"
+    },
+    {
+      "name": "Dell Technologies",
+      "rank": 90,
+      "url": "https://fortune.com/company/dell-technologies/"
+    },
+    {
+      "name": "BYD",
+      "rank": 91,
+      "url": "https://fortune.com/company/byd/"
+    },
+    {
+      "name": "Life Insurance Corp. of India",
+      "rank": 92,
+      "url": "https://fortune.com/company/life-insurance-corp-of-india/"
+    },
+    {
+      "name": "Nestlé",
+      "rank": 93,
+      "url": "https://fortune.com/company/nestle/"
+    },
+    {
+      "name": "AXA",
+      "rank": 94,
+      "url": "https://fortune.com/company/axa/"
+    },
+    {
+      "name": "Equinor",
+      "rank": 95,
+      "url": "https://fortune.com/company/equinor/"
+    },
+    {
+      "name": "Target",
+      "rank": 96,
+      "url": "https://fortune.com/company/target/"
+    },
+    {
+      "name": "Tencent Holdings",
+      "rank": 97,
+      "url": "https://fortune.com/company/tencent-holdings/"
+    },
+    {
+      "name": "Royal Ahold Delhaize",
+      "rank": 98,
+      "url": "https://fortune.com/company/royal-ahold-delhaize/"
+    },
+    {
+      "name": "China Minmetals",
+      "rank": 99,
+      "url": "https://fortune.com/company/china-minmetals/"
+    },
+    {
+      "name": "China Baowu Steel Group",
+      "rank": 100,
+      "url": "https://fortune.com/company/china-baowu-steel-group/"
+    },
+    {
+      "name": "REWE Group",
+      "rank": 101,
+      "url": "https://fortune.com/company/rewe-group/"
+    },
+    {
+      "name": "Bosch Group",
+      "rank": 102,
+      "url": "https://fortune.com/company/robert-bosch/"
+    },
+    {
+      "name": "Société Générale",
+      "rank": 103,
+      "url": "https://fortune.com/company/societe-generale/"
+    },
+    {
+      "name": "PowerChina",
+      "rank": 104,
+      "url": "https://fortune.com/company/powerchina/"
+    },
+    {
+      "name": "Tesco",
+      "rank": 105,
+      "url": "https://fortune.com/company/tesco/"
+    },
+    {
+      "name": "Carrefour",
+      "rank": 106,
+      "url": "https://fortune.com/company/carrefour/"
+    },
+    {
+      "name": "ITOCHU",
+      "rank": 107,
+      "url": "https://fortune.com/company/itochu/"
+    },
+    {
+      "name": "China Energy Investment",
+      "rank": 108,
+      "url": "https://fortune.com/company/shenhua-group/"
+    },
+    {
+      "name": "Rosneft Oil",
+      "rank": 109,
+      "url": "https://fortune.com/company/rosneft-oil/"
+    },
+    {
+      "name": "Royal Bank of Canada",
+      "rank": 110,
+      "url": "https://fortune.com/company/royal-bank-of-canada/"
+    },
+    {
+      "name": "Nippon Life Insurance",
+      "rank": 111,
+      "url": "https://fortune.com/company/nippon-life-insurance/"
+    },
+    {
+      "name": "Xiamen C&D",
+      "rank": 112,
+      "url": "https://fortune.com/company/xiamen-cd/"
+    },
+    {
+      "name": "Mitsubishi UFJ Financial Group",
+      "rank": 113,
+      "url": "https://fortune.com/company/mitsubishi-ufj-financial-group/"
+    },
+    {
+      "name": "NTT",
+      "rank": 114,
+      "url": "https://fortune.com/company/nippon-telegraph-telephone/"
+    },
+    {
+      "name": "Zhejiang Rongsheng Holding Group",
+      "rank": 115,
+      "url": "https://fortune.com/company/zhejiang-rongsheng-holding-group/"
+    },
+    {
+      "name": "Tesla",
+      "rank": 116,
+      "url": "https://fortune.com/company/tesla/"
+    },
+    {
+      "name": "Walt Disney",
+      "rank": 117,
+      "url": "https://fortune.com/company/disney/"
+    },
+    {
+      "name": "ENI",
+      "rank": 118,
+      "url": "https://fortune.com/company/eni-2/"
+    },
+    {
+      "name": "China Post Group",
+      "rank": 119,
+      "url": "https://fortune.com/company/china-post-group/"
+    },
+    {
+      "name": "Johnson & Johnson",
+      "rank": 120,
+      "url": "https://fortune.com/company/johnson-johnson/"
+    },
+    {
+      "name": "PepsiCo",
+      "rank": 121,
+      "url": "https://fortune.com/company/pepsico/"
+    },
+    {
+      "name": "DHL Group",
+      "rank": 122,
+      "url": "https://fortune.com/company/deutsche-post-dhl-group/"
+    },
+    {
+      "name": "People's Insurance Co. of China",
+      "rank": 123,
+      "url": "https://fortune.com/company/peoples-insurance-co-of-china/"
+    },
+    {
+      "name": "Mitsui",
+      "rank": 124,
+      "url": "https://fortune.com/company/mitsui/"
+    },
+    {
+      "name": "SAIC Motor",
+      "rank": 125,
+      "url": "https://fortune.com/company/saic-motor/"
+    },
+    {
+      "name": "Christian Dior",
+      "rank": 126,
+      "url": "https://fortune.com/company/christian-dior/"
+    },
+    {
+      "name": "Enel",
+      "rank": 127,
+      "url": "https://fortune.com/company/enel/"
+    },
+    {
+      "name": "Boeing",
+      "rank": 128,
+      "url": "https://fortune.com/company/boeing/"
+    },
+    {
+      "name": "Sinopharm",
+      "rank": 129,
+      "url": "https://fortune.com/company/sinopharm/"
+    },
+    {
+      "name": "Indian Oil",
+      "rank": 130,
+      "url": "https://fortune.com/company/indian-oil/"
+    },
+    {
+      "name": "Petrobras",
+      "rank": 131,
+      "url": "https://fortune.com/company/petrobras/"
+    },
+    {
+      "name": "E.ON",
+      "rank": 132,
+      "url": "https://fortune.com/company/e-on-2/"
+    },
+    {
+      "name": "UPS",
+      "rank": 133,
+      "url": "https://fortune.com/company/ups/"
+    },
+    {
+      "name": "China Telecommunications",
+      "rank": 134,
+      "url": "https://fortune.com/company/china-telecommunications/"
+    },
+    {
+      "name": "RTX",
+      "rank": 135,
+      "url": "https://fortune.com/company/raytheon-technologies/"
+    },
+    {
+      "name": "Rajesh Exports",
+      "rank": 136,
+      "url": "https://fortune.com/company/rajesh-exports/"
+    },
+    {
+      "name": "FedEx",
+      "rank": 137,
+      "url": "https://fortune.com/company/fedex/"
+    },
+    {
+      "name": "Zhejiang Geely Holding Group",
+      "rank": 138,
+      "url": "https://fortune.com/company/zhejiang-geely-holding-group/"
+    },
+    {
+      "name": "Progressive",
+      "rank": 139,
+      "url": "https://fortune.com/company/progressive/"
+    },
+    {
+      "name": "Toronto-Dominion Bank",
+      "rank": 140,
+      "url": "https://fortune.com/company/toronto-dominion-bank/"
+    },
+    {
+      "name": "Sony",
+      "rank": 141,
+      "url": "https://fortune.com/company/sony/"
+    },
+    {
+      "name": "SK",
+      "rank": 142,
+      "url": "https://fortune.com/company/sk-holdings/"
+    },
+    {
+      "name": "Siemens",
+      "rank": 143,
+      "url": "https://fortune.com/company/siemens/"
+    },
+    {
+      "name": "Banco Bilbao Vizcaya Argentaria",
+      "rank": 144,
+      "url": "https://fortune.com/company/banco-bilbao-vizcaya-argentaria/"
+    },
+    {
+      "name": "Lowe's",
+      "rank": 145,
+      "url": "https://fortune.com/company/lowes/"
+    },
+    {
+      "name": "JBS",
+      "rank": 146,
+      "url": "https://fortune.com/company/jbs/"
+    },
+    {
+      "name": "Energy Transfer",
+      "rank": 147,
+      "url": "https://fortune.com/company/energy-transfer-equity/"
+    },
+    {
+      "name": "Lloyds Banking Group",
+      "rank": 148,
+      "url": "https://fortune.com/company/lloyds-banking-group/"
+    },
+    {
+      "name": "Vinci",
+      "rank": 149,
+      "url": "https://fortune.com/company/vinci/"
+    },
+    {
+      "name": "Crédit Agricole",
+      "rank": 150,
+      "url": "https://fortune.com/company/credit-agricole/"
+    },
+    {
+      "name": "Procter & Gamble",
+      "rank": 151,
+      "url": "https://fortune.com/company/procter-gamble/"
+    },
+    {
+      "name": "Albertsons",
+      "rank": 152,
+      "url": "https://fortune.com/company/albertsons-cos/"
+    },
+    {
+      "name": "Lenovo Group",
+      "rank": 153,
+      "url": "https://fortune.com/company/lenovo-group/"
+    },
+    {
+      "name": "Wuchan Zhongda Group",
+      "rank": 154,
+      "url": "https://fortune.com/company/wuchan-zhongda-group/"
+    },
+    {
+      "name": "Airbus",
+      "rank": 155,
+      "url": "https://fortune.com/company/airbus-group/"
+    },
+    {
+      "name": "Shandong Weiqiao Pioneering Group",
+      "rank": 156,
+      "url": "https://fortune.com/company/shandong-weiqiao-pioneering-group/"
+    },
+    {
+      "name": "COFCO",
+      "rank": 157,
+      "url": "https://fortune.com/company/cofco/"
+    },
+    {
+      "name": "Shenghong Holding Group",
+      "rank": 158,
+      "url": "https://fortune.com/company/shenghong-holding-group/"
+    },
+    {
+      "name": "Sysco",
+      "rank": 159,
+      "url": "https://fortune.com/company/sysco/"
+    },
+    {
+      "name": "Engie",
+      "rank": 160,
+      "url": "https://fortune.com/company/engie/"
+    },
+    {
+      "name": "PTT",
+      "rank": 161,
+      "url": "https://fortune.com/company/ptt/"
+    },
+    {
+      "name": "State Bank of India",
+      "rank": 162,
+      "url": "https://fortune.com/company/state-bank-of-india/"
+    },
+    {
+      "name": "U.S. Postal Service",
+      "rank": 163,
+      "url": "https://fortune.com/company/u-s-postal-service/"
+    },
+    {
+      "name": "Jiangxi Copper",
+      "rank": 164,
+      "url": "https://fortune.com/company/jiangxi-copper/"
+    },
+    {
+      "name": "American Express",
+      "rank": 165,
+      "url": "https://fortune.com/company/american-express/"
+    },
+    {
+      "name": "Kia",
+      "rank": 166,
+      "url": "https://fortune.com/company/kia-motors/"
+    },
+    {
+      "name": "Archer Daniels Midland",
+      "rank": 167,
+      "url": "https://fortune.com/company/archer-daniels-midland/"
+    },
+    {
+      "name": "Nissan Motor",
+      "rank": 168,
+      "url": "https://fortune.com/company/nissan-motor/"
+    },
+    {
+      "name": "Pemex",
+      "rank": 169,
+      "url": "https://fortune.com/company/pemex/"
+    },
+    {
+      "name": "Pacific Construction Group",
+      "rank": 170,
+      "url": "https://fortune.com/company/pacific-construction-group/"
+    },
+    {
+      "name": "Groupe BPCE",
+      "rank": 171,
+      "url": "https://fortune.com/company/groupe-bpce/"
+    },
+    {
+      "name": "UBS Group",
+      "rank": 172,
+      "url": "https://fortune.com/company/ubs-group/"
+    },
+    {
+      "name": "MetLife",
+      "rank": 173,
+      "url": "https://fortune.com/company/metlife/"
+    },
+    {
+      "name": "Itau Unibanco Holding",
+      "rank": 174,
+      "url": "https://fortune.com/company/itau-unibanco-holding/"
+    },
+    {
+      "name": "Toyota Tsusho",
+      "rank": 175,
+      "url": "https://fortune.com/company/toyota-tsusho/"
+    },
+    {
+      "name": "Roche Group",
+      "rank": 176,
+      "url": "https://fortune.com/company/roche-group/"
+    },
+    {
+      "name": "Japan Post Holdings",
+      "rank": 177,
+      "url": "https://fortune.com/company/japan-post-holdings/"
+    },
+    {
+      "name": "HCA Healthcare",
+      "rank": 178,
+      "url": "https://fortune.com/company/hca-holdings/"
+    },
+    {
+      "name": "EP Group",
+      "rank": 179,
+      "url": "https://fortune.com/company/ep-group/"
+    },
+    {
+      "name": "Brookfield",
+      "rank": 180,
+      "url": "https://fortune.com/company/brookfield-asset-management/"
+    },
+    {
+      "name": "Lockheed Martin",
+      "rank": 181,
+      "url": "https://fortune.com/company/lockheed-martin/"
+    },
+    {
+      "name": "Daiichi Life Group",
+      "rank": 182,
+      "url": "https://fortune.com/company/dai-ichi-life-holdings/"
+    },
+    {
+      "name": "China FAW Group",
+      "rank": 183,
+      "url": "https://fortune.com/company/china-faw-group/"
+    },
+    {
+      "name": "New York Life Insurance",
+      "rank": 184,
+      "url": "https://fortune.com/company/new-york-life-insurance/"
+    },
+    {
+      "name": "Alimentation Couche-Tard",
+      "rank": 185,
+      "url": "https://fortune.com/company/alimentation-couche-tard/"
+    },
+    {
+      "name": "Barclays",
+      "rank": 186,
+      "url": "https://fortune.com/company/barclays/"
+    },
+    {
+      "name": "ING Group",
+      "rank": 187,
+      "url": "https://fortune.com/company/ing-group/"
+    },
+    {
+      "name": "Bank of Communications",
+      "rank": 188,
+      "url": "https://fortune.com/company/bank-of-communications/"
+    },
+    {
+      "name": "Deutsche Bank",
+      "rank": 189,
+      "url": "https://fortune.com/company/deutsche-bank/"
+    },
+    {
+      "name": "Sumitomo Mitsui Financial Group",
+      "rank": 190,
+      "url": "https://fortune.com/company/sumitomo-mitsui-financial-group/"
+    },
+    {
+      "name": "BASF",
+      "rank": 191,
+      "url": "https://fortune.com/company/basf/"
+    },
+    {
+      "name": "AEON",
+      "rank": 192,
+      "url": "https://fortune.com/company/aeon/"
+    },
+    {
+      "name": "Orlen",
+      "rank": 193,
+      "url": "https://fortune.com/company/orlen/"
+    },
+    {
+      "name": "Pertamina",
+      "rank": 194,
+      "url": "https://fortune.com/company/pertamina/"
+    },
+    {
+      "name": "Wilmar International",
+      "rank": 195,
+      "url": "https://fortune.com/company/wilmar-international/"
+    },
+    {
+      "name": "Bunge Global",
+      "rank": 196,
+      "url": "https://fortune.com/company/bunge/"
+    },
+    {
+      "name": "Hitachi",
+      "rank": 197,
+      "url": "https://fortune.com/company/hitachi/"
+    },
+    {
+      "name": "Wistron",
+      "rank": 198,
+      "url": "https://fortune.com/company/wistron/"
+    },
+    {
+      "name": "VTB Bank",
+      "rank": 199,
+      "url": "https://fortune.com/company/vtb-bank/"
+    },
+    {
+      "name": "Munich Re Group",
+      "rank": 200,
+      "url": "https://fortune.com/company/munich-re-group/"
+    },
+    {
+      "name": "Zhejiang Hengyi Group",
+      "rank": 201,
+      "url": "https://fortune.com/company/zhejiang-hengyi-group/"
+    },
+    {
+      "name": "Zurich Insurance Group",
+      "rank": 202,
+      "url": "https://fortune.com/company/zurich-insurance-group/"
+    },
+    {
+      "name": "Koç Holding",
+      "rank": 203,
+      "url": "https://fortune.com/company/koc-holding/"
+    },
+    {
+      "name": "Accenture",
+      "rank": 204,
+      "url": "https://fortune.com/company/accenture/"
+    },
+    {
+      "name": "Seven & I Holdings",
+      "rank": 205,
+      "url": "https://fortune.com/company/seven-i-holdings/"
+    },
+    {
+      "name": "Capital One Financial",
+      "rank": 206,
+      "url": "https://fortune.com/company/capital-one-financial/"
+    },
+    {
+      "name": "Aluminum Corp. of China",
+      "rank": 207,
+      "url": "https://fortune.com/company/aluminum-corp-of-china/"
+    },
+    {
+      "name": "Oil & Natural Gas",
+      "rank": 208,
+      "url": "https://fortune.com/company/oil-natural-gas/"
+    },
+    {
+      "name": "Uniper",
+      "rank": 209,
+      "url": "https://fortune.com/company/uniper/"
+    },
+    {
+      "name": "SK Hynix",
+      "rank": 210,
+      "url": "https://fortune.com/company/sk-hynix/"
+    },
+    {
+      "name": "Quanta Computer",
+      "rank": 211,
+      "url": "https://fortune.com/company/quanta-computer/"
+    },
+    {
+      "name": "China Poly Group",
+      "rank": 212,
+      "url": "https://fortune.com/company/china-poly-group/"
+    },
+    {
+      "name": "Jinchuan Group",
+      "rank": 213,
+      "url": "https://fortune.com/company/jinchuan-group/"
+    },
+    {
+      "name": "Korea Electric Power",
+      "rank": 214,
+      "url": "https://fortune.com/company/korea-electric-power/"
+    },
+    {
+      "name": "Allstate",
+      "rank": 215,
+      "url": "https://fortune.com/company/allstate/"
+    },
+    {
+      "name": "Caterpillar",
+      "rank": 216,
+      "url": "https://fortune.com/company/caterpillar/"
+    },
+    {
+      "name": "International Business Machines",
+      "rank": 217,
+      "url": "https://fortune.com/company/ibm/"
+    },
+    {
+      "name": "Assicurazioni Generali",
+      "rank": 218,
+      "url": "https://fortune.com/company/assicurazioni-generali/"
+    },
+    {
+      "name": "Nippon Steel",
+      "rank": 219,
+      "url": "https://fortune.com/company/nippon-steel-sumitomo-metal/"
+    },
+    {
+      "name": "Banco do Brasil",
+      "rank": 220,
+      "url": "https://fortune.com/company/banco-do-brasil/"
+    },
+    {
+      "name": "China Merchants Bank",
+      "rank": 221,
+      "url": "https://fortune.com/company/china-merchants-bank/"
+    },
+    {
+      "name": "Unilever",
+      "rank": 222,
+      "url": "https://fortune.com/company/unilever/"
+    },
+    {
+      "name": "Renault",
+      "rank": 223,
+      "url": "https://fortune.com/company/renault/"
+    },
+    {
+      "name": "Eli Lilly",
+      "rank": 224,
+      "url": "https://fortune.com/company/eli-lilly/"
+    },
+    {
+      "name": "Merck",
+      "rank": 225,
+      "url": "https://fortune.com/company/merck/"
+    },
+    {
+      "name": "Nationwide",
+      "rank": 226,
+      "url": "https://fortune.com/company/nationwide/"
+    },
+    {
+      "name": "XMXYG",
+      "rank": 227,
+      "url": "https://fortune.com/company/xiamen-xiangyu-group/"
+    },
+    {
+      "name": "ENEOS Holdings",
+      "rank": 228,
+      "url": "https://fortune.com/company/jxtg-holdings/"
+    },
+    {
+      "name": "Bouygues",
+      "rank": 229,
+      "url": "https://fortune.com/company/bouygues/"
+    },
+    {
+      "name": "Broadcom",
+      "rank": 230,
+      "url": "https://fortune.com/company/broadcom/"
+    },
+    {
+      "name": "Midea Group",
+      "rank": 231,
+      "url": "https://fortune.com/company/midea-group/"
+    },
+    {
+      "name": "Xiaomi",
+      "rank": 232,
+      "url": "https://fortune.com/company/xiaomi/"
+    },
+    {
+      "name": "Edeka Zentrale",
+      "rank": 233,
+      "url": "https://fortune.com/company/edeka-zentrale/"
+    },
+    {
+      "name": "China Energy Engineering Group",
+      "rank": 234,
+      "url": "https://fortune.com/company/china-energy-engineering-group/"
+    },
+    {
+      "name": "Delta Air Lines",
+      "rank": 235,
+      "url": "https://fortune.com/company/delta-air-lines/"
+    },
+    {
+      "name": "Publix Super Markets",
+      "rank": 236,
+      "url": "https://fortune.com/company/publix-super-markets/"
+    },
+    {
+      "name": "COSCO Shipping",
+      "rank": 237,
+      "url": "https://fortune.com/company/china-cosco-shipping/"
+    },
+    {
+      "name": "LG Electronics",
+      "rank": 238,
+      "url": "https://fortune.com/company/lg-electronics/"
+    },
+    {
+      "name": "Lukoil",
+      "rank": 239,
+      "url": "https://fortune.com/company/lukoil/"
+    },
+    {
+      "name": "Pfizer",
+      "rank": 240,
+      "url": "https://fortune.com/company/pfizer/"
+    },
+    {
+      "name": "TD Synnex",
+      "rank": 241,
+      "url": "https://fortune.com/company/synnex/"
+    },
+    {
+      "name": "Petronas",
+      "rank": 242,
+      "url": "https://fortune.com/company/petronas/"
+    },
+    {
+      "name": "ConocoPhillips",
+      "rank": 243,
+      "url": "https://fortune.com/company/conocophillips/"
+    },
+    {
+      "name": "Galaxy Digital",
+      "rank": 244,
+      "url": "https://fortune.com/company/galaxy-digital/"
+    },
+    {
+      "name": "ArcelorMittal",
+      "rank": 245,
+      "url": "https://fortune.com/company/arcelormittal/"
+    },
+    {
+      "name": "AbbVie",
+      "rank": 246,
+      "url": "https://fortune.com/company/abbvie/"
+    },
+    {
+      "name": "Prudential Financial",
+      "rank": 247,
+      "url": "https://fortune.com/company/prudential-financial/"
+    },
+    {
+      "name": "China Pacific Insurance (Group)",
+      "rank": 248,
+      "url": "https://fortune.com/company/china-pacific-insurance-group/"
+    },
+    {
+      "name": "Shaanxi Coal & Chemical Industry",
+      "rank": 249,
+      "url": "https://fortune.com/company/shaanxi-coal-chemical-industry/"
+    },
+    {
+      "name": "Banco Bradesco",
+      "rank": 250,
+      "url": "https://fortune.com/company/banco-bradesco/"
+    },
+    {
+      "name": "TJX",
+      "rank": 251,
+      "url": "https://fortune.com/company/tjx/"
+    },
+    {
+      "name": "Xiamen ITG Holding Group",
+      "rank": 252,
+      "url": "https://fortune.com/company/xiamen-itg-holding-group/"
+    },
+    {
+      "name": "Mizuho Financial Group",
+      "rank": 253,
+      "url": "https://fortune.com/company/mizuho-financial-group/"
+    },
+    {
+      "name": "Tsingshan Holding Group",
+      "rank": 254,
+      "url": "https://fortune.com/company/tsingshan-holding-group/"
+    },
+    {
+      "name": "PDD Holdings",
+      "rank": 255,
+      "url": "https://fortune.com/company/pinduoduo/"
+    },
+    {
+      "name": "Performance Food Group",
+      "rank": 256,
+      "url": "https://fortune.com/company/performance-food-group/"
+    },
+    {
+      "name": "Chubb",
+      "rank": 257,
+      "url": "https://fortune.com/company/chubb/"
+    },
+    {
+      "name": "Anheuser-Busch InBev",
+      "rank": 258,
+      "url": "https://fortune.com/company/anheuser-busch-inbev/"
+    },
+    {
+      "name": "United Airlines Holdings",
+      "rank": 259,
+      "url": "https://fortune.com/company/united-continental-holdings/"
+    },
+    {
+      "name": "Contemporary Amperex Technology (CATL)",
+      "rank": 260,
+      "url": "https://fortune.com/company/contemporary-amperex-technology/"
+    },
+    {
+      "name": "Tokio Marine Holdings",
+      "rank": 261,
+      "url": "https://fortune.com/company/tokio-marine-holdings/"
+    },
+    {
+      "name": "AstraZeneca",
+      "rank": 262,
+      "url": "https://fortune.com/company/astrazeneca/"
+    },
+    {
+      "name": "Rio Tinto Group",
+      "rank": 263,
+      "url": "https://fortune.com/company/rio-tinto-group/"
+    },
+    {
+      "name": "Crédit Mutuel Group",
+      "rank": 264,
+      "url": "https://fortune.com/company/credit-mutuel-group/"
+    },
+    {
+      "name": "Oracle",
+      "rank": 265,
+      "url": "https://fortune.com/company/oracle/"
+    },
+    {
+      "name": "HBIS Group",
+      "rank": 266,
+      "url": "https://fortune.com/company/hbis-group/"
+    },
+    {
+      "name": "Novartis",
+      "rank": 267,
+      "url": "https://fortune.com/company/novartis/"
+    },
+    {
+      "name": "Cisco Systems",
+      "rank": 268,
+      "url": "https://fortune.com/company/cisco-systems-inc/"
+    },
+    {
+      "name": "Talanx",
+      "rank": 269,
+      "url": "https://fortune.com/company/talanx/"
+    },
+    {
+      "name": "ACS",
+      "rank": 270,
+      "url": "https://fortune.com/company/acs/"
+    },
+    {
+      "name": "State Power Investment",
+      "rank": 271,
+      "url": "https://fortune.com/company/state-power-investment/"
+    },
+    {
+      "name": "HDFC Bank",
+      "rank": 272,
+      "url": "https://fortune.com/company/hdfc-bank/"
+    },
+    {
+      "name": "Bank of Montreal",
+      "rank": 273,
+      "url": "https://fortune.com/company/bank-of-montreal/"
+    },
+    {
+      "name": "Daimler Truck Holding",
+      "rank": 274,
+      "url": "https://fortune.com/company/daimler-truck-holding/"
+    },
+    {
+      "name": "X5 Group",
+      "rank": 275,
+      "url": "https://fortune.com/company/x5-retail-group/"
+    },
+    {
+      "name": "HP",
+      "rank": 276,
+      "url": "https://fortune.com/company/hp/"
+    },
+    {
+      "name": "Marubeni",
+      "rank": 277,
+      "url": "https://fortune.com/company/marubeni/"
+    },
+    {
+      "name": "Charter Communications",
+      "rank": 278,
+      "url": "https://fortune.com/company/charter-communications/"
+    },
+    {
+      "name": "Sanofi",
+      "rank": 279,
+      "url": "https://fortune.com/company/sanofi/"
+    },
+    {
+      "name": "American Airlines Group",
+      "rank": 280,
+      "url": "https://fortune.com/company/american-airlines-group/"
+    },
+    {
+      "name": "China United Network Communications",
+      "rank": 281,
+      "url": "https://fortune.com/company/china-united-network-communications/"
+    },
+    {
+      "name": "Repsol",
+      "rank": 282,
+      "url": "https://fortune.com/company/repsol/"
+    },
+    {
+      "name": "Tyson Foods",
+      "rank": 283,
+      "url": "https://fortune.com/company/tyson-foods/"
+    },
+    {
+      "name": "Maersk Group",
+      "rank": 284,
+      "url": "https://fortune.com/company/maersk-group/"
+    },
+    {
+      "name": "China Huaneng Group",
+      "rank": 285,
+      "url": "https://fortune.com/company/china-huaneng-group/"
+    },
+    {
+      "name": "Panasonic Holdings",
+      "rank": 286,
+      "url": "https://fortune.com/company/panasonic/"
+    },
+    {
+      "name": "Louis Dreyfus",
+      "rank": 287,
+      "url": "https://fortune.com/company/louis-dreyfus/"
+    },
+    {
+      "name": "Industrial Bank",
+      "rank": 288,
+      "url": "https://fortune.com/company/industrial-bank/"
+    },
+    {
+      "name": "Intel",
+      "rank": 289,
+      "url": "https://fortune.com/company/intel/"
+    },
+    {
+      "name": "Bank of Nova Scotia",
+      "rank": 290,
+      "url": "https://fortune.com/company/bank-of-nova-scotia/"
+    },
+    {
+      "name": "Hanwha",
+      "rank": 291,
+      "url": "https://fortune.com/company/hanwha/"
+    },
+    {
+      "name": "Enterprise Products Partners",
+      "rank": 292,
+      "url": "https://fortune.com/company/enterprise-products-partners/"
+    },
+    {
+      "name": "Ingram Micro Holding",
+      "rank": 293,
+      "url": "https://fortune.com/company/ingram-micro/"
+    },
+    {
+      "name": "General Dynamics",
+      "rank": 294,
+      "url": "https://fortune.com/company/general-dynamics/"
+    },
+    {
+      "name": "Saint-Gobain",
+      "rank": 295,
+      "url": "https://fortune.com/company/saint-gobain/"
+    },
+    {
+      "name": "Uber Technologies",
+      "rank": 296,
+      "url": "https://fortune.com/company/uber-technologies/"
+    },
+    {
+      "name": "Taikang Insurance Group",
+      "rank": 297,
+      "url": "https://fortune.com/company/taikang-insurance-group/"
+    },
+    {
+      "name": "Bharat Petroleum",
+      "rank": 298,
+      "url": "https://fortune.com/company/bharat-petroleum/"
+    },
+    {
+      "name": "Guangzhou Automobile Industry Group",
+      "rank": 299,
+      "url": "https://fortune.com/company/guangzhou-automobile-industry-group/"
+    },
+    {
+      "name": "SoftBank Group",
+      "rank": 300,
+      "url": "https://fortune.com/company/softbank-group/"
+    },
+    {
+      "name": "United Services Automobile Assn.",
+      "rank": 301,
+      "url": "https://fortune.com/company/usaa/"
+    },
+    {
+      "name": "Olam Group",
+      "rank": 302,
+      "url": "https://fortune.com/company/olam-group/"
+    },
+    {
+      "name": "Intesa Sanpaolo",
+      "rank": 303,
+      "url": "https://fortune.com/company/intesa-sanpaolo/"
+    },
+    {
+      "name": "Bayer",
+      "rank": 304,
+      "url": "https://fortune.com/company/bayer/"
+    },
+    {
+      "name": "Iberdrola",
+      "rank": 305,
+      "url": "https://fortune.com/company/iberdrola/"
+    },
+    {
+      "name": "Jingye Group",
+      "rank": 306,
+      "url": "https://fortune.com/company/jingye-group/"
+    },
+    {
+      "name": "BHP Group",
+      "rank": 307,
+      "url": "https://fortune.com/company/bhp-billiton/"
+    },
+    {
+      "name": "Caixa Econômica Federal",
+      "rank": 308,
+      "url": "https://fortune.com/company/caixa-economica-federal/"
+    },
+    {
+      "name": "Zhejiang Communications Investment Group",
+      "rank": 309,
+      "url": "https://fortune.com/company/zhejiang-communications-investment-group/"
+    },
+    {
+      "name": "MS&AD Insurance Group Holdings",
+      "rank": 310,
+      "url": "https://fortune.com/company/msad-insurance-group-holdings/"
+    },
+    {
+      "name": "Meituan",
+      "rank": 311,
+      "url": "https://fortune.com/company/meituan/"
+    },
+    {
+      "name": "TIAA",
+      "rank": 312,
+      "url": "https://fortune.com/company/tiaa/"
+    },
+    {
+      "name": "Liberty Mutual Insurance Group",
+      "rank": 313,
+      "url": "https://fortune.com/company/liberty-mutual-insurance-group/"
+    },
+    {
+      "name": "HD Hyundai",
+      "rank": 314,
+      "url": "https://fortune.com/company/hd-hyundai/"
+    },
+    {
+      "name": "Veolia Environnement",
+      "rank": 315,
+      "url": "https://fortune.com/company/veolia-environnement/"
+    },
+    {
+      "name": "Denso",
+      "rank": 316,
+      "url": "https://fortune.com/company/denso/"
+    },
+    {
+      "name": "L'Oréal",
+      "rank": 317,
+      "url": "https://fortune.com/company/loreal/"
+    },
+    {
+      "name": "Meiji Yasuda Life Insurance",
+      "rank": 318,
+      "url": "https://fortune.com/company/meiji-yasuda-life-insurance/"
+    },
+    {
+      "name": "Dongfeng Motor",
+      "rank": 319,
+      "url": "https://fortune.com/company/dongfeng-motor/"
+    },
+    {
+      "name": "América Móvil",
+      "rank": 320,
+      "url": "https://fortune.com/company/america-movil/"
+    },
+    {
+      "name": "Travelers",
+      "rank": 321,
+      "url": "https://fortune.com/company/travelers-cos/"
+    },
+    {
+      "name": "Volvo Group",
+      "rank": 322,
+      "url": "https://fortune.com/company/volvo/"
+    },
+    {
+      "name": "Heraeus Holding",
+      "rank": 323,
+      "url": "https://fortune.com/company/heraeus-holding/"
+    },
+    {
+      "name": "Sumitomo",
+      "rank": 324,
+      "url": "https://fortune.com/company/sumitomo/"
+    },
+    {
+      "name": "Zijin Mining Group",
+      "rank": 325,
+      "url": "https://fortune.com/company/zijin-mining-group/"
+    },
+    {
+      "name": "POSCO Holdings",
+      "rank": 326,
+      "url": "https://fortune.com/company/posco/"
+    },
+    {
+      "name": "SNCF Group",
+      "rank": 327,
+      "url": "https://fortune.com/company/sncf-group/"
+    },
+    {
+      "name": "Bristol-Myers Squibb",
+      "rank": 328,
+      "url": "https://fortune.com/company/bristol-myers-squibb/"
+    },
+    {
+      "name": "Coca-Cola",
+      "rank": 329,
+      "url": "https://fortune.com/company/coca-cola/"
+    },
+    {
+      "name": "Idemitsu Kosan",
+      "rank": 330,
+      "url": "https://fortune.com/company/idemitsu-kosan/"
+    },
+    {
+      "name": "Vodafone Group",
+      "rank": 331,
+      "url": "https://fortune.com/company/vodafone-group/"
+    },
+    {
+      "name": "George Weston",
+      "rank": 332,
+      "url": "https://fortune.com/company/george-weston/"
+    },
+    {
+      "name": "Novo Nordisk",
+      "rank": 333,
+      "url": "https://fortune.com/company/novo-nordisk/"
+    },
+    {
+      "name": "Fairfax Financial Holdings",
+      "rank": 334,
+      "url": "https://fortune.com/company/fairfax-financial-holdings/"
+    },
+    {
+      "name": "Enbridge",
+      "rank": 335,
+      "url": "https://fortune.com/company/enbridge/"
+    },
+    {
+      "name": "Nike",
+      "rank": 336,
+      "url": "https://fortune.com/company/nike/"
+    },
+    {
+      "name": "Luxshare Precision Industry",
+      "rank": 337,
+      "url": "https://fortune.com/company/luxshare-precision-industry/"
+    },
+    {
+      "name": "Compass Group",
+      "rank": 338,
+      "url": "https://fortune.com/company/compass-group/"
+    },
+    {
+      "name": "Massachusetts Mutual Life Insurance",
+      "rank": 339,
+      "url": "https://fortune.com/company/massachusetts-mutual-life-insurance/"
+    },
+    {
+      "name": "Susun Construction Group",
+      "rank": 340,
+      "url": "https://fortune.com/company/susun-construction-group/"
+    },
+    {
+      "name": "GE Aerospace",
+      "rank": 341,
+      "url": "https://fortune.com/company/general-electric/"
+    },
+    {
+      "name": "Deere",
+      "rank": 342,
+      "url": "https://fortune.com/company/deere/"
+    },
+    {
+      "name": "Plains GP Holdings",
+      "rank": 343,
+      "url": "https://fortune.com/company/plains-gp-holdings/"
+    },
+    {
+      "name": "Orange",
+      "rank": 344,
+      "url": "https://fortune.com/company/orange/"
+    },
+    {
+      "name": "Ingka Holding (IKEA)",
+      "rank": 345,
+      "url": "https://fortune.com/company/ingka-group/"
+    },
+    {
+      "name": "Inditex",
+      "rank": 346,
+      "url": "https://fortune.com/company/inditex/"
+    },
+    {
+      "name": "Molina Healthcare",
+      "rank": 347,
+      "url": "https://fortune.com/company/molina-healthcare/"
+    },
+    {
+      "name": "Schneider Electric",
+      "rank": 348,
+      "url": "https://fortune.com/company/schneider-electric/"
+    },
+    {
+      "name": "Shanghai Pudong Development Bank",
+      "rank": 349,
+      "url": "https://fortune.com/company/shanghai-pudong-development-bank/"
+    },
+    {
+      "name": "J Sainsbury",
+      "rank": 350,
+      "url": "https://fortune.com/company/j-sainsbury/"
+    },
+    {
+      "name": "Netflix",
+      "rank": 351,
+      "url": "https://fortune.com/company/netflix/"
+    },
+    {
+      "name": "Commonwealth Bank of Australia",
+      "rank": 352,
+      "url": "https://fortune.com/company/commonwealth-bank-of-australia/"
+    },
+    {
+      "name": "UniCredit Group",
+      "rank": 353,
+      "url": "https://fortune.com/company/unicredit-group/"
+    },
+    {
+      "name": "Woolworths Group",
+      "rank": 354,
+      "url": "https://fortune.com/company/woolworths/"
+    },
+    {
+      "name": "Lufthansa Group",
+      "rank": 355,
+      "url": "https://fortune.com/company/lufthansa-group/"
+    },
+    {
+      "name": "Thermo Fisher Scientific",
+      "rank": 356,
+      "url": "https://fortune.com/company/thermo-fisher-scientific/"
+    },
+    {
+      "name": "Canadian Imperial Bank of Commerce",
+      "rank": 357,
+      "url": "https://fortune.com/company/canadian-imperial-bank-of-commerce/"
+    },
+    {
+      "name": "Abbott Laboratories",
+      "rank": 358,
+      "url": "https://fortune.com/company/abbott-laboratories/"
+    },
+    {
+      "name": "Qualcomm",
+      "rank": 359,
+      "url": "https://fortune.com/company/qualcomm/"
+    },
+    {
+      "name": "Swiss Re",
+      "rank": 360,
+      "url": "https://fortune.com/company/swiss-re/"
+    },
+    {
+      "name": "China General Technology",
+      "rank": 361,
+      "url": "https://fortune.com/company/china-general-technology/"
+    },
+    {
+      "name": "ANZ Group Holdings",
+      "rank": 362,
+      "url": "https://fortune.com/company/australia-new-zealand-banking-group/"
+    },
+    {
+      "name": "Fomento Económico Mexicano",
+      "rank": 363,
+      "url": "https://fortune.com/company/fomento-economico-mexicano/"
+    },
+    {
+      "name": "ZF Friedrichshafen",
+      "rank": 364,
+      "url": "https://fortune.com/company/zf-friedrichshafen/"
+    },
+    {
+      "name": "Northwestern Mutual",
+      "rank": 365,
+      "url": "https://fortune.com/company/northwestern-mutual/"
+    },
+    {
+      "name": "China Huadian",
+      "rank": 366,
+      "url": "https://fortune.com/company/china-huadian/"
+    },
+    {
+      "name": "Russian Railways",
+      "rank": 367,
+      "url": "https://fortune.com/company/russian-railways/"
+    },
+    {
+      "name": "Siemens Energy",
+      "rank": 368,
+      "url": "https://fortune.com/company/siemens-energy/"
+    },
+    {
+      "name": "Mercadona",
+      "rank": 369,
+      "url": "https://fortune.com/company/mercadona/"
+    },
+    {
+      "name": "GSK",
+      "rank": 370,
+      "url": "https://fortune.com/company/glaxosmithkline/"
+    },
+    {
+      "name": "Hyundai Mobis",
+      "rank": 371,
+      "url": "https://fortune.com/company/hyundai-mobis/"
+    },
+    {
+      "name": "S.F. Holding",
+      "rank": 372,
+      "url": "https://fortune.com/company/sf-holding/"
+    },
+    {
+      "name": "U.S. Bancorp",
+      "rank": 373,
+      "url": "https://fortune.com/company/u-s-bancorp/"
+    },
+    {
+      "name": "Dollar General",
+      "rank": 374,
+      "url": "https://fortune.com/company/dollar-general/"
+    },
+    {
+      "name": "Coop Group",
+      "rank": 375,
+      "url": "https://fortune.com/company/coop-group/"
+    },
+    {
+      "name": "Telefónica",
+      "rank": 376,
+      "url": "https://fortune.com/company/telefonica/"
+    },
+    {
+      "name": "Sinomach",
+      "rank": 377,
+      "url": "https://fortune.com/company/sinomach/"
+    },
+    {
+      "name": "Haier Smart Home",
+      "rank": 378,
+      "url": "https://fortune.com/company/qingdao-haier/"
+    },
+    {
+      "name": "Magna International",
+      "rank": 379,
+      "url": "https://fortune.com/company/magna-international/"
+    },
+    {
+      "name": "Tokyo Electric Power",
+      "rank": 380,
+      "url": "https://fortune.com/company/tokyo-electric-power/"
+    },
+    {
+      "name": "Northrop Grumman",
+      "rank": 381,
+      "url": "https://fortune.com/company/northrop-grumman/"
+    },
+    {
+      "name": "Magnit",
+      "rank": 382,
+      "url": "https://fortune.com/company/magnit/"
+    },
+    {
+      "name": "Chery Automobile",
+      "rank": 383,
+      "url": "https://fortune.com/company/chery-automobile/"
+    },
+    {
+      "name": "Suzuki Motor",
+      "rank": 384,
+      "url": "https://fortune.com/company/suzuki-motor/"
+    },
+    {
+      "name": "Best Buy",
+      "rank": 385,
+      "url": "https://fortune.com/company/best-buy/"
+    },
+    {
+      "name": "Salesforce",
+      "rank": 386,
+      "url": "https://fortune.com/company/salesforce-com/"
+    },
+    {
+      "name": "SAP",
+      "rank": 387,
+      "url": "https://fortune.com/company/sap/"
+    },
+    {
+      "name": "KB Financial Group",
+      "rank": 388,
+      "url": "https://fortune.com/company/kb-financial-group/"
+    },
+    {
+      "name": "Guangzhou Industrial Investment Holdings",
+      "rank": 389,
+      "url": "https://fortune.com/company/guangzhou-industrial-investment-holdings/"
+    },
+    {
+      "name": "Jinneng Holding Group",
+      "rank": 390,
+      "url": "https://fortune.com/company/datong-coal-mine-group/"
+    },
+    {
+      "name": "Shandong Hi-Speed Group",
+      "rank": 391,
+      "url": "https://fortune.com/company/shandong-hi-speed-group/"
+    },
+    {
+      "name": "China National Building Material Group",
+      "rank": 392,
+      "url": "https://fortune.com/company/china-national-building-material-group/"
+    },
+    {
+      "name": "Shaanxi Yanchang Petroleum (Group)",
+      "rank": 393,
+      "url": "https://fortune.com/company/shaanxi-yanchang-petroleum-group/"
+    },
+    {
+      "name": "Bank of New York (BNY)",
+      "rank": 394,
+      "url": "https://fortune.com/company/bank-of-new-york-mellon-corp/"
+    },
+    {
+      "name": "Honeywell Technologies",
+      "rank": 395,
+      "url": "https://fortune.com/company/honeywell-international/"
+    },
+    {
+      "name": "Philip Morris International",
+      "rank": 396,
+      "url": "https://fortune.com/company/philip-morris-international/"
+    },
+    {
+      "name": "Standard Chartered",
+      "rank": 397,
+      "url": "https://fortune.com/company/standard-chartered/"
+    },
+    {
+      "name": "Jerónimo Martins",
+      "rank": 398,
+      "url": "https://fortune.com/company/jeronimo-martins/"
+    },
+    {
+      "name": "Tata Motors Passenger Vehicles",
+      "rank": 399,
+      "url": "https://fortune.com/company/tata-motors/"
+    },
+    {
+      "name": "CBRE Group",
+      "rank": 400,
+      "url": "https://fortune.com/company/cbre-group/"
+    },
+    {
+      "name": "KDDI",
+      "rank": 401,
+      "url": "https://fortune.com/company/kddi/"
+    },
+    {
+      "name": "DZ Bank",
+      "rank": 402,
+      "url": "https://fortune.com/company/dz-bank/"
+    },
+    {
+      "name": "Visa",
+      "rank": 403,
+      "url": "https://fortune.com/company/visa/"
+    },
+    {
+      "name": "Dow",
+      "rank": 404,
+      "url": "https://fortune.com/company/dow/"
+    },
+    {
+      "name": "NatWest Group",
+      "rank": 405,
+      "url": "https://fortune.com/company/natwest-group/"
+    },
+    {
+      "name": "Guangdong Guangxin Holdings Group",
+      "rank": 406,
+      "url": "https://fortune.com/company/guangdong-guangxin-holdings/"
+    },
+    {
+      "name": "St. James's Place",
+      "rank": 407,
+      "url": "https://fortune.com/company/stjamesplace/"
+    },
+    {
+      "name": "Sumitomo Life Insurance",
+      "rank": 408,
+      "url": "https://fortune.com/company/sumitomo-life-insurance/"
+    },
+    {
+      "name": "AIA",
+      "rank": 409,
+      "url": "https://fortune.com/company/aia-group/"
+    },
+    {
+      "name": "CRRC Group",
+      "rank": 410,
+      "url": "https://fortune.com/company/crrc-group/"
+    },
+    {
+      "name": "Shanghai Pharmaceuticals Holding",
+      "rank": 411,
+      "url": "https://fortune.com/company/shanghai-pharmaceuticals-holding/"
+    },
+    {
+      "name": "US Foods Holding",
+      "rank": 412,
+      "url": "https://fortune.com/company/us-foods-holding/"
+    },
+    {
+      "name": "Beijing Automotive Group",
+      "rank": 413,
+      "url": "https://fortune.com/company/beijing-automotive-group/"
+    },
+    {
+      "name": "New China Life Insurance",
+      "rank": 414,
+      "url": "https://fortune.com/company/new-china-life-insurance/"
+    },
+    {
+      "name": "Hangzhou Iron and Steel Group",
+      "rank": 415,
+      "url": "https://fortune.com/company/hangzhou-iron-and-steel-group/"
+    },
+    {
+      "name": "Mitsubishi Electric",
+      "rank": 416,
+      "url": "https://fortune.com/company/mitsubishi-electric/"
+    },
+    {
+      "name": "Energie Baden-Württemberg",
+      "rank": 417,
+      "url": "https://fortune.com/company/energie-baden-wurttemberg/"
+    },
+    {
+      "name": "La Poste",
+      "rank": 418,
+      "url": "https://fortune.com/company/la-poste/"
+    },
+    {
+      "name": "Hangzhou Industrial Investment Group",
+      "rank": 419,
+      "url": "https://fortune.com/company/hangzhou-industrial-investment-group/"
+    },
+    {
+      "name": "National Australia Bank",
+      "rank": 420,
+      "url": "https://fortune.com/company/national-australia-bank/"
+    },
+    {
+      "name": "Shenzhen Investment Holdings",
+      "rank": 421,
+      "url": "https://fortune.com/company/shenzhen-investment-holdings/"
+    },
+    {
+      "name": "Mondelēz International",
+      "rank": 422,
+      "url": "https://fortune.com/company/mondelez-international/"
+    },
+    {
+      "name": "Mapfre Group",
+      "rank": 423,
+      "url": "https://fortune.com/company/mapfre-group/"
+    },
+    {
+      "name": "Vale",
+      "rank": 424,
+      "url": "https://fortune.com/company/vale/"
+    },
+    {
+      "name": "CDP Group",
+      "rank": 425,
+      "url": "https://fortune.com/company/cdp-group/"
+    },
+    {
+      "name": "Lithia Motors",
+      "rank": 426,
+      "url": "https://fortune.com/company/lithia-motors/"
+    },
+    {
+      "name": "GE Vernova",
+      "rank": 427,
+      "url": "https://fortune.com/company/gevernova/"
+    },
+    {
+      "name": "Shandong Gold Group",
+      "rank": 428,
+      "url": "https://fortune.com/company/shandong-gold-group/"
+    },
+    {
+      "name": "QNB Group",
+      "rank": 429,
+      "url": "https://fortune.com/company/qnb-group/"
+    },
+    {
+      "name": "Guangzhou Municipal Construction Group",
+      "rank": 430,
+      "url": "https://fortune.com/company/guangzhou-municipal-construction-group/"
+    },
+    {
+      "name": "WT Microelectronics",
+      "rank": 431,
+      "url": "https://fortune.com/company/wt-microelectronics/"
+    },
+    {
+      "name": "Standard Life",
+      "rank": 432,
+      "url": "https://fortune.com/company/phoenix-group-holdings/"
+    },
+    {
+      "name": "Hailiang Group",
+      "rank": 433,
+      "url": "https://fortune.com/company/hailiang-group/"
+    },
+    {
+      "name": "International Airlines Group",
+      "rank": 434,
+      "url": "https://fortune.com/company/international-airlines-group/"
+    },
+    {
+      "name": "CRH",
+      "rank": 435,
+      "url": "https://fortune.com/company/crh/"
+    },
+    {
+      "name": "TongLing Nonferrous Metals Group",
+      "rank": 436,
+      "url": "https://fortune.com/company/tongling-nonferrous-metals-group/"
+    },
+    {
+      "name": "DSV",
+      "rank": 437,
+      "url": "https://fortune.com/company/dsv/"
+    },
+    {
+      "name": "Micron Technology",
+      "rank": 438,
+      "url": "https://fortune.com/company/micron-technology/"
+    },
+    {
+      "name": "Deutsche Bahn",
+      "rank": 439,
+      "url": "https://fortune.com/company/deutsche-bahn/"
+    },
+    {
+      "name": "Westpac Banking",
+      "rank": 440,
+      "url": "https://fortune.com/company/westpac-banking/"
+    },
+    {
+      "name": "BAE Systems",
+      "rank": 441,
+      "url": "https://fortune.com/company/bae-systems/"
+    },
+    {
+      "name": "Warner Bros. Discovery",
+      "rank": 442,
+      "url": "https://fortune.com/company/discovery/"
+    },
+    {
+      "name": "Mitsubishi Heavy Industries",
+      "rank": 443,
+      "url": "https://fortune.com/company/mitsubishi-heavy-industries/"
+    },
+    {
+      "name": "Air France-KLM Group",
+      "rank": 444,
+      "url": "https://fortune.com/company/air-france-klm-group/"
+    },
+    {
+      "name": "Shudao Investment Group",
+      "rank": 445,
+      "url": "https://fortune.com/company/shudao-investment-group/"
+    },
+    {
+      "name": "Starbucks",
+      "rank": 446,
+      "url": "https://fortune.com/company/starbucks/"
+    },
+    {
+      "name": "China Minsheng Banking",
+      "rank": 447,
+      "url": "https://fortune.com/company/china-minsheng-banking/"
+    },
+    {
+      "name": "Migros Group",
+      "rank": 448,
+      "url": "https://fortune.com/company/migros-group/"
+    },
+    {
+      "name": "Daiwa House Industry",
+      "rank": 449,
+      "url": "https://fortune.com/company/daiwa-house-industry/"
+    },
+    {
+      "name": "Jiangsu Shagang Group",
+      "rank": 450,
+      "url": "https://fortune.com/company/jiangsu-shagang-group/"
+    },
+    {
+      "name": "China Electronics",
+      "rank": 451,
+      "url": "https://fortune.com/company/china-electronics/"
+    },
+    {
+      "name": "World Kinect",
+      "rank": 452,
+      "url": "https://fortune.com/company/world-fuel-services/"
+    },
+    {
+      "name": "ASML Holding",
+      "rank": 453,
+      "url": "https://fortune.com/company/asml-holding/"
+    },
+    {
+      "name": "Amgen",
+      "rank": 454,
+      "url": "https://fortune.com/company/amgen/"
+    },
+    {
+      "name": "ThyssenKrupp",
+      "rank": 455,
+      "url": "https://fortune.com/company/thyssenkrupp/"
+    },
+    {
+      "name": "China Datang",
+      "rank": 456,
+      "url": "https://fortune.com/company/china-datang/"
+    },
+    {
+      "name": "CK Hutchison Holdings",
+      "rank": 457,
+      "url": "https://fortune.com/company/ck-hutchison-holdings/"
+    },
+    {
+      "name": "OMV Group",
+      "rank": 458,
+      "url": "https://fortune.com/company/omv-group/"
+    },
+    {
+      "name": "Pegatron",
+      "rank": 459,
+      "url": "https://fortune.com/company/pegatron/"
+    },
+    {
+      "name": "SLB",
+      "rank": 460,
+      "url": "https://fortune.com/company/schlumberger/"
+    },
+    {
+      "name": "Safran",
+      "rank": 461,
+      "url": "https://fortune.com/company/safran/"
+    },
+    {
+      "name": "Sompo Holdings",
+      "rank": 462,
+      "url": "https://fortune.com/company/sompo-holdings/"
+    },
+    {
+      "name": "Hunan Iron & Steel Group",
+      "rank": 463,
+      "url": "https://fortune.com/company/hunan-iron-amp-steel-group/"
+    },
+    {
+      "name": "Tongwei Group",
+      "rank": 464,
+      "url": "https://fortune.com/company/tongwei-group/"
+    },
+    {
+      "name": "Cenovus Energy",
+      "rank": 465,
+      "url": "https://fortune.com/company/cenovus-energy/"
+    },
+    {
+      "name": "ABB",
+      "rank": 466,
+      "url": "https://fortune.com/company/abb/"
+    },
+    {
+      "name": "Guangzhou Pharmaceutical Holdings",
+      "rank": 467,
+      "url": "https://fortune.com/company/guangzhou-pharmaceutical-holdings/"
+    },
+    {
+      "name": "CHS",
+      "rank": 468,
+      "url": "https://fortune.com/company/chs/"
+    },
+    {
+      "name": "Perusahaan Listrik Negara",
+      "rank": 469,
+      "url": "https://fortune.com/company/perusahaan-listrik-negara/"
+    },
+    {
+      "name": "CFE",
+      "rank": 470,
+      "url": "https://fortune.com/company/cfe/"
+    },
+    {
+      "name": "ICICI Bank",
+      "rank": 471,
+      "url": "https://fortune.com/company/icici-bank/"
+    },
+    {
+      "name": "Suncor Energy",
+      "rank": 472,
+      "url": "https://fortune.com/company/suncor-energy/"
+    },
+    {
+      "name": "Landesbank Baden-Württemberg",
+      "rank": 473,
+      "url": "https://fortune.com/company/landesbank-baden-wurttemberg/"
+    },
+    {
+      "name": "Emirates Group",
+      "rank": 474,
+      "url": "https://fortune.com/company/emirates-group/"
+    },
+    {
+      "name": "Delong Steel Industry Group",
+      "rank": 475,
+      "url": "https://fortune.com/company/shanghai-delong-steel-group/"
+    },
+    {
+      "name": "Power Corp. of Canada",
+      "rank": 476,
+      "url": "https://fortune.com/company/power-corp-of-canada/"
+    },
+    {
+      "name": "Rabobank Group",
+      "rank": 477,
+      "url": "https://fortune.com/company/rabobank/"
+    },
+    {
+      "name": "Advanced Micro Devices",
+      "rank": 478,
+      "url": "https://fortune.com/company/advanced-micro-devices/"
+    },
+    {
+      "name": "Coupang",
+      "rank": 479,
+      "url": "https://fortune.com/company/coupang/"
+    },
+    {
+      "name": "New Hope Holding Group",
+      "rank": 480,
+      "url": "https://fortune.com/company/new-hope-holding-group/"
+    },
+    {
+      "name": "Hewlett Packard Enterprise",
+      "rank": 481,
+      "url": "https://fortune.com/company/hewlett-packard-enterprise/"
+    },
+    {
+      "name": "D.R. Horton",
+      "rank": 482,
+      "url": "https://fortune.com/company/d-r-horton/"
+    },
+    {
+      "name": "Jardine Matheson",
+      "rank": 483,
+      "url": "https://fortune.com/company/jardine-matheson/"
+    },
+    {
+      "name": "Beijing Jianlong Heavy Industry Group",
+      "rank": 484,
+      "url": "https://fortune.com/company/beijing-jianlong-heavy-industry-group/"
+    },
+    {
+      "name": "Lennar Corporation",
+      "rank": 485,
+      "url": "https://fortune.com/company/lennar/"
+    },
+    {
+      "name": "Gazprombank",
+      "rank": 486,
+      "url": "https://fortune.com/company/gazprombank/"
+    },
+    {
+      "name": "PNC Financial Services Group",
+      "rank": 487,
+      "url": "https://fortune.com/company/pnc-financial-services/"
+    },
+    {
+      "name": "Linde",
+      "rank": 488,
+      "url": "https://fortune.com/company/linde/"
+    },
+    {
+      "name": "Aisin",
+      "rank": 489,
+      "url": "https://fortune.com/company/aisin-seiki/"
+    },
+    {
+      "name": "Sumitomo Electric Industries",
+      "rank": 490,
+      "url": "https://fortune.com/company/sumitomo-electric-industries/"
+    },
+    {
+      "name": "Ansteel Group",
+      "rank": 491,
+      "url": "https://fortune.com/company/ansteel-group/"
+    },
+    {
+      "name": "Vibra Energia",
+      "rank": 492,
+      "url": "https://fortune.com/company/vibra-energia/"
+    },
+    {
+      "name": "British American Tobacco",
+      "rank": 493,
+      "url": "https://fortune.com/company/british-american-tobacco/"
+    },
+    {
+      "name": "Cummins",
+      "rank": 494,
+      "url": "https://fortune.com/company/cummins/"
+    },
+    {
+      "name": "Oneok",
+      "rank": 495,
+      "url": "https://fortune.com/company/oneok/"
+    },
+    {
+      "name": "Medtronic",
+      "rank": 496,
+      "url": "https://fortune.com/company/medtronic/"
+    },
+    {
+      "name": "Guangxi Investment Group",
+      "rank": 497,
+      "url": "https://fortune.com/company/guangxi-investment-group/"
+    },
+    {
+      "name": "Daikin Industries",
+      "rank": 498,
+      "url": "https://fortune.com/company/daikin-industries/"
+    },
+    {
+      "name": "LG Chem",
+      "rank": 499,
+      "url": "https://fortune.com/company/lg-chem/"
+    },
+    {
+      "name": "PayPal Holdings",
+      "rank": 500,
+      "url": "https://fortune.com/company/paypal-holdings/"
+    }
+  ]
+}

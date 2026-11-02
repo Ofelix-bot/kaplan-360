@@ -1,0 +1,9 @@
+# tufts-university@1 https://www.tufts.edu
+robots sitemaps: https://www.tufts.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 103 · master's-looking 4
+    3  www.tufts.edu/graduate-programs
+         https://www.tufts.edu/graduate-programs
+         https://www.tufts.edu/graduate-programs/areas-of-study
+         https://www.tufts.edu/graduate-programs/request-information
+    1  www.tufts.edu/admissions
+         https://www.tufts.edu/admissions/graduate

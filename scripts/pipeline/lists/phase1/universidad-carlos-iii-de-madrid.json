@@ -1,0 +1,15 @@
+{
+  "source": "UC3M master's list https://www.uc3m.es/postgraduate/programs; each programme page's Language field checked, kept on-campus programmes with Language: English (plus International Advocacy, 'taught entirely in English'); Spanish and Bilingual programmes skipped. Plain fetch (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.uc3m.es/master/mba",
+    "https://www.uc3m.es/master/finance",
+    "https://www.uc3m.es/master/human-resources",
+    "https://www.uc3m.es/master/management",
+    "https://www.uc3m.es/master/marketing",
+    "https://www.uc3m.es/master/big-data-analytics",
+    "https://www.uc3m.es/master/information-health-engineering",
+    "https://www.uc3m.es/master/statistics-data-science",
+    "https://www.uc3m.es/master/international-advocacy"
+  ]
+}

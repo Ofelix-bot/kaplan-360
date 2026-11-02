@@ -1,0 +1,12 @@
+city-university-of-hong-kong https://www.cityu.edu.hk
+hong-kong-baptist-university https://gs.hkbu.edu.hk
+lingnan-university-hong-kong https://www.ln.edu.hk
+education-university-of-hong-kong https://www.eduhk.hk
+hong-kong-metropolitan-university https://www.hkmu.edu.hk
+hong-kong-shue-yan-university https://www.hksyu.edu
+hang-seng-university-of-hong-kong https://www.hsu.edu.hk
+university-of-macau https://grad.um.edu.mo
+macau-university-of-science-and-technology https://www.must.edu.mo
+macao-polytechnic-university https://www.mpu.edu.mo
+macao-university-of-tourism https://www.utm.edu.mo
+national-university-of-singapore https://nusgs.nus.edu.sg

@@ -1,0 +1,16 @@
+# university-of-california-santa-barbara@1 https://www.ucsb.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 147 · master's-looking 9
+    4  www.ucsb.edu/applying/graduate-admission
+         https://www.ucsb.edu/applying/graduate-admission/innovate
+         https://www.ucsb.edu/applying/graduate-admission/lead
+         https://www.ucsb.edu/applying/graduate-admission/build
+         https://www.ucsb.edu/applying/graduate-admission/innova
+    2  www.ucsb.edu/academics
+         https://www.ucsb.edu/academics/undergraduate
+         https://www.ucsb.edu/academics/graduate
+    2  www.ucsb.edu/applying
+         https://www.ucsb.edu/applying/undergraduate-admission
+         https://www.ucsb.edu/applying/graduate-admission
+    1  www.ucsb.edu/commencement/mark-the-occasion
+         https://www.ucsb.edu/commencement/mark-the-occasion/graduate-spotlights

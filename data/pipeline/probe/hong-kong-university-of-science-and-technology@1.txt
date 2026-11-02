@@ -1,0 +1,44 @@
+# hong-kong-university-of-science-and-technology@1 https://hkust.edu.hk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://hkust.edu.hk/sitemap.xml: 2 children (0 course-like)
+index https://hkust.edu.hk/news/sitemap.xml: 5 children (5 course-like)
+sitemaps read 8 · urls 8460 · master's-looking 313
+   99  hkust.edu.hk/news
+         https://hkust.edu.hk/news/experiencing-excitement-discovery-through-undergraduate-research-opportunity-program
+         https://hkust.edu.hk/news/25-faces-series-words-undergraduate-wons-julius-constantin
+         https://hkust.edu.hk/news/25-faces-series-words-undergraduate-li-yan-yung
+         https://hkust.edu.hk/news/hkust-committed-nurturing-young-research-talents-three-undergraduates-publish-paper-nature
+   98  hkust.edu.hk/zh-hant/news
+         https://hkust.edu.hk/zh-hant/news/experiencing-excitement-discovery-through-undergraduate-research-opportunity-program
+         https://hkust.edu.hk/zh-hant/news/25-faces-series-words-undergraduate-wons-julius-constantin
+         https://hkust.edu.hk/zh-hant/news/25-faces-series-words-undergraduate-li-yan-yung
+         https://hkust.edu.hk/zh-hant/news/hkust-committed-nurturing-young-research-talents-three-undergraduates-publish-paper-nature
+   98  hkust.edu.hk/zh-hans/news
+         https://hkust.edu.hk/zh-hans/news/experiencing-excitement-discovery-through-undergraduate-research-opportunity-program
+         https://hkust.edu.hk/zh-hans/news/25-faces-series-words-undergraduate-wons-julius-constantin
+         https://hkust.edu.hk/zh-hans/news/25-faces-series-words-undergraduate-li-yan-yung
+         https://hkust.edu.hk/zh-hans/news/hkust-committed-nurturing-young-research-talents-three-undergraduates-publish-paper-nature
+    4  hkust.edu.hk/about/leadership
+         https://hkust.edu.hk/about/leadership/ms-yvonne-ho-ba-mba
+         https://hkust.edu.hk/about/leadership/professor-penger-tong-bsc-msc-phd
+         https://hkust.edu.hk/about/leadership/dr-kitty-yam-ba-msc-mpa-dba
+         https://hkust.edu.hk/about/leadership/professor-king-chuen-li-md-frcpc-mba
+    4  hkust.edu.hk/zh-hant/about/leadership
+         https://hkust.edu.hk/zh-hant/about/leadership/hepeixiannushi-ba-mba
+         https://hkust.edu.hk/zh-hant/about/leadership/tongpengerjiaoshou-bsc-msc-phd
+         https://hkust.edu.hk/zh-hant/about/leadership/renwanwenboshi-ba-msc-mpa-dba
+         https://hkust.edu.hk/zh-hant/about/leadership/lijingcunjiaoshou-md-frcpc-mba
+    4  hkust.edu.hk/zh-hans/about/leadership
+         https://hkust.edu.hk/zh-hans/about/leadership/hepeixiannushi-ba-mba
+         https://hkust.edu.hk/zh-hans/about/leadership/tongpengerjiaoshou-bsc-msc-phd
+         https://hkust.edu.hk/zh-hans/about/leadership/renwanwenboshi-ba-msc-mpa-dba
+         https://hkust.edu.hk/zh-hans/about/leadership/lijingcunjiaoshou-md-frcpc-mba
+    2  hkust.edu.hk/boundless/article
+         https://hkust.edu.hk/boundless/article/bridging-east-and-west-two-strings-erhu-master-guo-gans-international-concert
+         https://hkust.edu.hk/boundless/article/masterclass-shared-creation-composing-through-dialogue
+    2  hkust.edu.hk/zh-hant/boundless/article
+         https://hkust.edu.hk/zh-hant/boundless/article/bridging-east-and-west-two-strings-erhu-master-guo-gans-international-concert
+         https://hkust.edu.hk/zh-hant/boundless/article/masterclass-shared-creation-composing-through-dialogue
+    2  hkust.edu.hk/zh-hans/boundless/article
+         https://hkust.edu.hk/zh-hans/boundless/article/bridging-east-and-west-two-strings-erhu-master-guo-gans-international-concert
+         https://hkust.edu.hk/zh-hans/boundless/article/masterclass-shared-creation-composing-through-dialogue

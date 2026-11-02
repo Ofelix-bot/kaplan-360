@@ -1,0 +1,53 @@
+# gadjah-mada-university https://ugm.ac.id
+robots sitemaps: https://ugm.ac.id/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://ugm.ac.id/sitemap_index.xml: 49 children (4 course-like)
+sitemaps read 50 · urls 42160 · master's-looking 539
+  377  ugm.ac.id/en/news
+         https://ugm.ac.id/en/news/6701-the-symbolic-cornerstone-laying-of-post-graduate-new-building-construction/
+         https://ugm.ac.id/en/news/6757-ugm-inaugurates-1530-graduates/
+         https://ugm.ac.id/en/news/6797-93-pharmacists-of-ugm-faculty-of-pharmacy-graduated-with-cum-laude-honor/
+         https://ugm.ac.id/en/news/6885-to-apply-research-results-graduates-need-to-return-to-the-village/
+   62  ugm.ac.id/en/prodi
+         https://ugm.ac.id/en/prodi/master-in-physics/
+         https://ugm.ac.id/en/prodi/master-in-computer-science/
+         https://ugm.ac.id/en/prodi/master-in-chemistry/
+         https://ugm.ac.id/en/prodi/master-in-mathematics/
+   43  ugm.ac.id/id/berita
+         https://ugm.ac.id/id/berita/993-peran-ma-dalam-membangun-hukum-melalui-putusan-putusannya/
+         https://ugm.ac.id/id/berita/995-peran-ma-dalam-membangun-hukum-melalui-putusan-putusannya/
+         https://ugm.ac.id/id/berita/1767-fe-ugm-7-universitas-jepang-buka-double-master/
+         https://ugm.ac.id/id/berita/461-revisi-uu-ma-penuh-kontroversi/
+   25  ugm.ac.id/en
+         https://ugm.ac.id/en/1853-encouraging-job-creation-government-prepares-venture-capital-package-for-graduates/
+         https://ugm.ac.id/en/1854-rector-inaugurated-director-of-graduate-school/
+         https://ugm.ac.id/en/1878-ugm-inaugurated-1-226-graduates/
+         https://ugm.ac.id/en/1879-580-graduates-of-ugm-diploma-program-inaugurated/
+   11  ugm.ac.id/id/agenda
+         https://ugm.ac.id/id/agenda/531-virtual-postgraduate-symposium/
+         https://ugm.ac.id/id/agenda/364-the-9th-international-graduate-students-and-scholars-conference-in-indonesia-igssci/
+         https://ugm.ac.id/id/agenda/7th-international-graduate-students-and-scholars-conference-in-indonesia-igssci-2/
+         https://ugm.ac.id/id/agenda/the-6th-international-graduate-student-conference-on-indonesia/
+    7  ugm.ac.id/en/agenda
+         https://ugm.ac.id/en/agenda/532-virtual-postgraduate-symposium/
+         https://ugm.ac.id/en/agenda/graduation-day-postgraduate-program/
+         https://ugm.ac.id/en/agenda/7th-international-graduate-students-and-scholars-conference-in-indonesia-igssci/
+         https://ugm.ac.id/en/agenda/the-13th-international-graduate-students-and-scholars-conference-in-indonesia-2/
+    6  ugm.ac.id/id
+         https://ugm.ac.id/id/570-mppdas-fakultas-geografi-ugm-menjadi-program-master-double-degree/
+         https://ugm.ac.id/id/590-beasiswa-program-undergraduate-tci/
+         https://ugm.ac.id/id/683-the-1st-place-undergraduate-country-winner-for-indonesia/
+         https://ugm.ac.id/id/1333-undergraduate-and-honours-programs/
+    3  ugm.ac.id/id/tag
+         https://ugm.ac.id/id/tag/graduate-readiness/
+         https://ugm.ac.id/id/tag/international-undergraduate-program/
+         https://ugm.ac.id/id/tag/simaster/
+    1  ugm.ac.id/en/fakultas
+         https://ugm.ac.id/en/fakultas/graduate-school/
+    1  ugm.ac.id/id/prodi
+         https://ugm.ac.id/id/prodi/magister-ilmu-hukum-llm-program-international/
+    1  ugm.ac.id/en/tag
+         https://ugm.ac.id/en/tag/graduate-school/
+    1  ugm.ac.id/id/strata
+         https://ugm.ac.id/id/strata/master/
+    1  ugm.ac.id/en/strata
+         https://ugm.ac.id/en/strata/master-degree/

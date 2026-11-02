@@ -1,0 +1,102 @@
+# university-of-california-davis@1 https://www.ucdavis.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.ucdavis.edu/sitemap.xml: 17 children (17 course-like)
+sitemaps read 18 · urls 32084 · master's-looking 578
+  352  www.ucdavis.edu/news
+         https://www.ucdavis.edu/news/mixed-bag-engineeringscience-graduates
+         https://www.ucdavis.edu/news/shortage-ag-graduates
+         https://www.ucdavis.edu/news/research-and-graduate-studies-remain-separate
+         https://www.ucdavis.edu/news/campus-homes-graduate-study-improvements
+   96  www.ucdavis.edu/graduate-programs
+         https://www.ucdavis.edu/graduate-programs/nursing-science-and-health-care-leadership-ms
+         https://www.ucdavis.edu/graduate-programs/nursing-science-and-health-care-leadership-phd
+         https://www.ucdavis.edu/graduate-programs/nutritional-biology
+         https://www.ucdavis.edu/graduate-programs/performance-studies
+   15  www.ucdavis.edu/admissions/undergraduate/transfer
+         https://www.ucdavis.edu/admissions/undergraduate/transfer/requirements
+         https://www.ucdavis.edu/admissions/undergraduate/transfer/planning
+         https://www.ucdavis.edu/admissions/undergraduate/transfer/timeline
+         https://www.ucdavis.edu/admissions/undergraduate/transfer/application-tips
+   15  www.ucdavis.edu/admissions/undergraduate
+         https://www.ucdavis.edu/admissions/undergraduate/international
+         https://www.ucdavis.edu/admissions/undergraduate/contact
+         https://www.ucdavis.edu/admissions/undergraduate/counselors
+         https://www.ucdavis.edu/admissions/undergraduate/transcripts-test-scores
+   13  www.ucdavis.edu/magazine
+         https://www.ucdavis.edu/magazine/recent-graduate-wins-uc-presidents-award
+         https://www.ucdavis.edu/magazine/meet-the-master-brewer
+         https://www.ucdavis.edu/magazine/master-chef
+         https://www.ucdavis.edu/magazine/new-graduate-center-promotes-community
+   10  www.ucdavis.edu/admissions/undergraduate/apply
+         https://www.ucdavis.edu/admissions/undergraduate/apply/personal-insight-questions
+         https://www.ucdavis.edu/admissions/undergraduate/apply/after-application
+         https://www.ucdavis.edu/admissions/undergraduate/apply/after-reporting-changes
+         https://www.ucdavis.edu/admissions/undergraduate/apply/application-review-criteria
+    9  www.ucdavis.edu/blog-tags
+         https://www.ucdavis.edu/blog-tags/undergraduate
+         https://www.ucdavis.edu/blog-tags/first-generation-college-graduate
+         https://www.ucdavis.edu/blog-tags/graduate-degree
+         https://www.ucdavis.edu/blog-tags/studio-art-graduate
+    8  www.ucdavis.edu/arts/blog
+         https://www.ucdavis.edu/arts/blog/jazz-master-eddie-palmieri-performs-mondavi-wednesday-nov-15
+         https://www.ucdavis.edu/arts/blog/graduate-art-museum-winner
+         https://www.ucdavis.edu/arts/blog/landscapes-masters-sculptures-alum
+         https://www.ucdavis.edu/arts/blog/graduate-exhibition-may-29
+    8  www.ucdavis.edu/admissions/undergraduate/first-year
+         https://www.ucdavis.edu/admissions/undergraduate/first-year/requirements
+         https://www.ucdavis.edu/admissions/undergraduate/first-year/timeline
+         https://www.ucdavis.edu/admissions/undergraduate/first-year/application-tips
+         https://www.ucdavis.edu/admissions/undergraduate/first-year/special-situations
+    5  www.ucdavis.edu/majors/blog/career-paths
+         https://www.ucdavis.edu/majors/blog/career-paths/graduate-combines-computer-science-education-career
+         https://www.ucdavis.edu/majors/blog/career-paths/biology-graduate-torn-between-being-doctor-teacher
+         https://www.ucdavis.edu/majors/blog/career-paths/uc-davis-graduate-paints-very-big-art-career
+         https://www.ucdavis.edu/majors/blog/career-paths/what-graduates-do-genetics-degree
+    4  www.ucdavis.edu/admissions/undergraduate/events
+         https://www.ucdavis.edu/admissions/undergraduate/events/aggie-to-be
+         https://www.ucdavis.edu/admissions/undergraduate/events/aggie-transfer-scholars-weekend
+         https://www.ucdavis.edu/admissions/undergraduate/events/discover
+         https://www.ucdavis.edu/admissions/undergraduate/events/aggie-day/cancellation
+    3  www.ucdavis.edu/majors/blog/exploring-options
+         https://www.ucdavis.edu/majors/blog/exploring-options/reasons-why-undergraduates-should-do-research
+         https://www.ucdavis.edu/majors/blog/exploring-options/5-ways-head-start-graduate-school
+         https://www.ucdavis.edu/majors/blog/exploring-options/10-top-graduate-programs-uc-davis
+    3  www.ucdavis.edu/majors/blog
+         https://www.ucdavis.edu/majors/blog/how-to-write-strong-personal-statement-for-graduate-school
+         https://www.ucdavis.edu/majors/blog/should-i-take-a-gap-year-before-graduate-school
+         https://www.ucdavis.edu/majors/blog/3-ways-to-find-undergraduate-research-opportunities
+    3  www.ucdavis.edu/admissions/undergraduate/international
+         https://www.ucdavis.edu/admissions/undergraduate/international/exams-visas
+         https://www.ucdavis.edu/admissions/undergraduate/international/records
+         https://www.ucdavis.edu/admissions/undergraduate/international/resources
+    2  www.ucdavis.edu/one-health
+         https://www.ucdavis.edu/one-health/undergraduate-helps-tackle-global-threat
+         https://www.ucdavis.edu/one-health/animal-science-graduate-prepares-leader-one-health
+    2  www.ucdavis.edu/commencement/videos/livestreams
+         https://www.ucdavis.edu/commencement/videos/livestreams/school-graduate-studies-commencement-livestream-spring-2019
+         https://www.ucdavis.edu/commencement/videos/livestreams/graduate-school-management-commencement-livestream-spring-2019
+    2  www.ucdavis.edu/arts
+         https://www.ucdavis.edu/arts/art-and-design-awards-given-graduate-students-museum-ceremony
+         https://www.ucdavis.edu/arts/blog-graduate-open-studio-first-person
+    2  www.ucdavis.edu/coronavirus/news
+         https://www.ucdavis.edu/coronavirus/news/undergraduate-admissions
+         https://www.ucdavis.edu/coronavirus/news/vice-chancellor-research-graduate-student-develop-covid-19-contact-tracing-tool
+    2  www.ucdavis.edu/admissions/blog
+         https://www.ucdavis.edu/admissions/blog/find-undergraduate-research-internships
+         https://www.ucdavis.edu/admissions/blog/master-time-management-success
+    2  www.ucdavis.edu/blog
+         https://www.ucdavis.edu/blog/lowering-barriers-undergraduate-research
+         https://www.ucdavis.edu/blog/graduate-exhibitors-win-prizes
+    2  www.ucdavis.edu/research
+         https://www.ucdavis.edu/research/graduate-professional
+         https://www.ucdavis.edu/research/undergraduate
+    2  www.ucdavis.edu/colleges-and-schools
+         https://www.ucdavis.edu/colleges-and-schools/graduate-school-management
+         https://www.ucdavis.edu/colleges-and-schools/graduate-studies
+    2  www.ucdavis.edu/admissions
+         https://www.ucdavis.edu/admissions/graduate-school
+         https://www.ucdavis.edu/admissions/undergraduate
+    1  www.ucdavis.edu/majors/blog/internships-jobs
+         https://www.ucdavis.edu/majors/blog/internships-jobs/tips-new-graduates-job
+    1  www.ucdavis.edu/capital-culture-list
+         https://www.ucdavis.edu/capital-culture-list/waitress-master-singers-christmas-jim-martinez-music-charlie-brown-christmas

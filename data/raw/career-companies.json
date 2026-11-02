@@ -1,0 +1,645 @@
+{
+  "builtAt": "2026-10-18",
+  "lists": {
+    "fortune-global-500-2026": {
+      "name": "Fortune Global 500, 2026",
+      "url": "https://fortune.com/ranking/global500/"
+    },
+    "linkedin-top-companies-sg-2026": {
+      "name": "LinkedIn Top Companies 2026: Singapore (published 28 April 2026), as reported by TechNode Global",
+      "url": "https://technode.global/2026/04/29/linkedin-names-top-companies-for-career-growth-in-singapore-for-2026/"
+    },
+    "kaplan-graduate-employers": {
+      "name": "Employers named in Kaplan's 2021/22 graduate employment survey (Degree Enrolment Day deck, p. 13)",
+      "url": null
+    }
+  },
+  "skipped": [
+    {
+      "employerId": "microsoft",
+      "company": "Microsoft",
+      "reason": "location filter not applied by URL and its search API is not reachable; to fix"
+    },
+    {
+      "employerId": "jpmorgan",
+      "company": "JPMorgan Chase",
+      "reason": "results load after the page settles; to fix"
+    },
+    {
+      "employerId": "citi",
+      "company": "Citi",
+      "reason": "robots.txt disallows the job search"
+    },
+    {
+      "employerId": "goldman-sachs",
+      "company": "Goldman Sachs",
+      "reason": "robots.txt disallows the job search"
+    },
+    {
+      "employerId": "hsbc",
+      "company": "HSBC",
+      "reason": "new careers site; to fix"
+    },
+    {
+      "employerId": "accenture",
+      "company": "Accenture",
+      "reason": "robots.txt disallows the job search"
+    },
+    {
+      "employerId": "nike",
+      "company": "Nike",
+      "reason": "location filter not applied by URL; to fix"
+    },
+    {
+      "employerId": "maersk",
+      "company": "Maersk",
+      "reason": "robots.txt disallows the job search"
+    },
+    {
+      "employerId": "roche",
+      "company": "Roche",
+      "reason": "location filter not applied by URL; to fix"
+    },
+    {
+      "employerId": "hp",
+      "company": "HP",
+      "reason": "search URL returns 404; to fix"
+    },
+    {
+      "employerId": "singapore-airlines",
+      "company": "Singapore Airlines",
+      "reason": "no searchable job list; to fix"
+    },
+    {
+      "employerId": "nuhs",
+      "company": "National University Health System (NUHS)",
+      "reason": "careers site unreachable; to fix"
+    },
+    {
+      "employerId": "public-service",
+      "company": "Singapore Public Service (Careers@Gov)",
+      "reason": "Careers@Gov search does not take a keyword in the URL; to fix"
+    },
+    {
+      "employerId": "mediacorp",
+      "company": "Mediacorp",
+      "reason": "no searchable job list; to fix"
+    }
+  ],
+  "rows": [
+    {
+      "careerId": "supply-chain-logistics-manager",
+      "employerId": "apple",
+      "company": "Apple",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://jobs.apple.com/en-sg/search",
+      "searchUrl": "https://jobs.apple.com/en-sg/search?search=supply%20chain&location=singapore-SGP",
+      "openings": 9,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "software-engineer",
+      "employerId": "amazon",
+      "company": "Amazon",
+      "lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.amazon.jobs",
+      "searchUrl": "https://www.amazon.jobs/en/search.json?base_query=software%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "financial-analyst-fintech",
+      "employerId": "standard-chartered",
+      "company": "Standard Chartered",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://jobs.standardchartered.com",
+      "searchUrl": "https://jobs.standardchartered.com/search/?q=financial%20analyst&locationsearch=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "financial-analyst-fintech",
+      "employerId": "barclays",
+      "company": "Barclays",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://search.jobs.barclays",
+      "searchUrl": "https://search.jobs.barclays/search-jobs/financial%20analyst/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "openings": 0,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "data-analyst-scientist",
+      "employerId": "google",
+      "company": "Google",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.google.com/about/careers/applications/jobs/results",
+      "searchUrl": "https://www.google.com/about/careers/applications/jobs/results?q=data%20analyst&location=Singapore",
+      "openings": 3,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "software-engineer",
+      "employerId": "apple",
+      "company": "Apple",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://jobs.apple.com/en-sg/search",
+      "searchUrl": "https://jobs.apple.com/en-sg/search?search=software%20engineer&location=singapore-SGP",
+      "openings": 4,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "cybersecurity-analyst",
+      "employerId": "standard-chartered",
+      "company": "Standard Chartered",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://jobs.standardchartered.com",
+      "searchUrl": "https://jobs.standardchartered.com/search/?q=cyber%20security&locationsearch=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "cybersecurity-analyst",
+      "employerId": "barclays",
+      "company": "Barclays",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://search.jobs.barclays",
+      "searchUrl": "https://search.jobs.barclays/search-jobs/cyber%20security/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "ai-ml-engineer",
+      "employerId": "apple",
+      "company": "Apple",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://jobs.apple.com/en-sg/search",
+      "searchUrl": "https://jobs.apple.com/en-sg/search?search=machine%20learning%20engineer&location=singapore-SGP",
+      "openings": 2,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "ai-ml-engineer",
+      "employerId": "amazon",
+      "company": "Amazon",
+      "lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.amazon.jobs",
+      "searchUrl": "https://www.amazon.jobs/en/search.json?base_query=machine%20learning%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "data-analyst-scientist",
+      "employerId": "standard-chartered",
+      "company": "Standard Chartered",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://jobs.standardchartered.com",
+      "searchUrl": "https://jobs.standardchartered.com/search/?q=data%20analyst&locationsearch=Singapore",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "ai-ml-engineer",
+      "employerId": "google",
+      "company": "Google",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.google.com/about/careers/applications/jobs/results",
+      "searchUrl": "https://www.google.com/about/careers/applications/jobs/results?q=machine%20learning%20engineer&location=Singapore",
+      "openings": 6,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "software-engineer",
+      "employerId": "standard-chartered",
+      "company": "Standard Chartered",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://jobs.standardchartered.com",
+      "searchUrl": "https://jobs.standardchartered.com/search/?q=software%20engineer&locationsearch=Singapore",
+      "openings": 3,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "data-analyst-scientist",
+      "employerId": "amazon",
+      "company": "Amazon",
+      "lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.amazon.jobs",
+      "searchUrl": "https://www.amazon.jobs/en/search.json?base_query=data%20analyst&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 2,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "data-analyst-scientist",
+      "employerId": "dbs",
+      "company": "DBS Bank",
+      "lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://www.dbs.com/careers",
+      "searchUrl": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=data%20analyst",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "communications-pr",
+      "employerId": "standard-chartered",
+      "company": "Standard Chartered",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://jobs.standardchartered.com",
+      "searchUrl": "https://jobs.standardchartered.com/search/?q=communications&locationsearch=Singapore",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "ai-ml-engineer",
+      "employerId": "dbs",
+      "company": "DBS Bank",
+      "lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://www.dbs.com/careers",
+      "searchUrl": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=machine%20learning%20engineer",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "supply-chain-logistics-manager",
+      "employerId": "procter-gamble",
+      "company": "Procter & Gamble",
+      "lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.pgcareers.com",
+      "searchUrl": "https://www.pgcareers.com/global/en/search-results?keywords=supply%20chain&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "cybersecurity-analyst",
+      "employerId": "dbs",
+      "company": "DBS Bank",
+      "lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://www.dbs.com/careers",
+      "searchUrl": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=cyber%20security",
+      "openings": 12,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "supply-chain-logistics-manager",
+      "employerId": "amazon",
+      "company": "Amazon",
+      "lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.amazon.jobs",
+      "searchUrl": "https://www.amazon.jobs/en/search.json?base_query=supply%20chain&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "cybersecurity-analyst",
+      "employerId": "amazon",
+      "company": "Amazon",
+      "lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.amazon.jobs",
+      "searchUrl": "https://www.amazon.jobs/en/search.json?base_query=cyber%20security&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "digital-marketing-manager",
+      "employerId": "procter-gamble",
+      "company": "Procter & Gamble",
+      "lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.pgcareers.com",
+      "searchUrl": "https://www.pgcareers.com/global/en/search-results?keywords=digital%20marketing&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "financial-analyst-fintech",
+      "employerId": "dbs",
+      "company": "DBS Bank",
+      "lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://www.dbs.com/careers",
+      "searchUrl": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=financial%20analyst",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "software-engineer",
+      "employerId": "google",
+      "company": "Google",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.google.com/about/careers/applications/jobs/results",
+      "searchUrl": "https://www.google.com/about/careers/applications/jobs/results?q=software%20engineer&location=Singapore",
+      "openings": 20,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "digital-marketing-manager",
+      "employerId": "amazon",
+      "company": "Amazon",
+      "lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.amazon.jobs",
+      "searchUrl": "https://www.amazon.jobs/en/search.json?base_query=digital%20marketing&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 2,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "supply-chain-logistics-manager",
+      "employerId": "micron",
+      "company": "Micron Technology",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://careers.micron.com",
+      "searchUrl": "https://careers.micron.com/careers?query=supply%20chain&location=Singapore",
+      "openings": 9,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "digital-marketing-manager",
+      "employerId": "google",
+      "company": "Google",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.google.com/about/careers/applications/jobs/results",
+      "searchUrl": "https://www.google.com/about/careers/applications/jobs/results?q=digital%20marketing&location=Singapore",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "financial-analyst-fintech",
+      "employerId": "procter-gamble",
+      "company": "Procter & Gamble",
+      "lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.pgcareers.com",
+      "searchUrl": "https://www.pgcareers.com/global/en/search-results?keywords=financial%20analyst&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "cybersecurity-analyst",
+      "employerId": "google",
+      "company": "Google",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careersUrl": "https://www.google.com/about/careers/applications/jobs/results",
+      "searchUrl": "https://www.google.com/about/careers/applications/jobs/results?q=cyber%20security&location=Singapore",
+      "openings": 8,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "registered-nurse",
+      "employerId": "singhealth",
+      "company": "SingHealth",
+      "lists": [],
+      "careersUrl": "https://www.singhealth.com.sg/careers",
+      "searchUrl": "https://careers.singhealth.com.sg/search/?q=staff%20nurse",
+      "openings": 12,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "counsellor-psychology-associate",
+      "employerId": "singhealth",
+      "company": "SingHealth",
+      "lists": [],
+      "careersUrl": "https://www.singhealth.com.sg/careers",
+      "searchUrl": "https://careers.singhealth.com.sg/search/?q=counsellor",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "data-analyst-scientist",
+      "employerId": "micron",
+      "company": "Micron Technology",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://careers.micron.com",
+      "searchUrl": "https://careers.micron.com/careers?query=data%20analyst&location=Singapore",
+      "openings": 4,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "data-analyst-scientist",
+      "employerId": "msd",
+      "company": "MSD",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://jobs.msd.com",
+      "searchUrl": "https://jobs.msd.com/gb/en/search-results?keywords=data%20analyst&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "software-engineer",
+      "employerId": "micron",
+      "company": "Micron Technology",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://careers.micron.com",
+      "searchUrl": "https://careers.micron.com/careers?query=software%20engineer&location=Singapore",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "supply-chain-logistics-manager",
+      "employerId": "msd",
+      "company": "MSD",
+      "lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://jobs.msd.com",
+      "searchUrl": "https://jobs.msd.com/gb/en/search-results?keywords=supply%20chain&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "software-engineer",
+      "employerId": "dbs",
+      "company": "DBS Bank",
+      "lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://www.dbs.com/careers",
+      "searchUrl": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=software%20engineer",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "digital-marketing-manager",
+      "employerId": "dbs",
+      "company": "DBS Bank",
+      "lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://www.dbs.com/careers",
+      "searchUrl": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=digital%20marketing",
+      "openings": 1,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "communications-pr",
+      "employerId": "dbs",
+      "company": "DBS Bank",
+      "lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careersUrl": "https://www.dbs.com/careers",
+      "searchUrl": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=communications",
+      "openings": 0,
+      "status": "no-listing",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "registered-nurse",
+      "employerId": "nhg",
+      "company": "National Healthcare Group (NHG Health)",
+      "lists": [],
+      "careersUrl": "https://careers.nhghealth.com.sg/",
+      "searchUrl": "https://careers.nhghealth.com.sg/search/?q=staff%20nurse",
+      "openings": 8,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    },
+    {
+      "careerId": "counsellor-psychology-associate",
+      "employerId": "nhg",
+      "company": "National Healthcare Group (NHG Health)",
+      "lists": [],
+      "careersUrl": "https://careers.nhghealth.com.sg/",
+      "searchUrl": "https://careers.nhghealth.com.sg/search/?q=counsellor",
+      "openings": 3,
+      "status": "ok",
+      "retrievedAt": "2026-10-18"
+    }
+  ]
+}

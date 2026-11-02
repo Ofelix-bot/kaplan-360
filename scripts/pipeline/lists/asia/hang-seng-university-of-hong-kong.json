@@ -1,0 +1,40 @@
+{
+  "id": "hang-seng-university-of-hong-kong",
+  "builtAt": "2026-10-19",
+  "seeds": [
+    "https://gs.hsu.edu.hk/en/programmes-on-offer/",
+    "https://gs.hsu.edu.hk/en/postgraduate-programmes-on-offer/",
+    "https://www.hsu.edu.hk/en/academic-programmes/postgraduate/"
+  ],
+  "pages": [
+    "https://aad.hsu.edu.hk/en/home/study-with-us-degree-programme/master-of-arts-in-art-business-ma-ab",
+    "https://aad.hsu.edu.hk/en/home/study-with-us-degree-programme/master-of-arts-in-cultural-heritage-management-ma-chm",
+    "https://dsai.hsu.edu.hk/en/master-degree",
+    "https://ecampus.hsu.edu.hk/gsm",
+    "https://elta.hsu.edu.hk/en/home",
+    "https://gelcs.hsu.edu.hk/en/home",
+    "https://gscm.hsu.edu.hk/en/home",
+    "https://mats.hsu.edu.hk/en/home",
+    "https://msi.hsu.edu.hk/en/ins/programme-information/overview-2",
+    "https://msi.hsu.edu.hk/ins",
+    "https://programme.hsu.edu.hk/en/dda",
+    "https://programme.hsu.edu.hk/en/ss",
+    "https://sbus.hsu.edu.hk/en/prog/master-of-business-management/programme-information",
+    "https://sbus.hsu.edu.hk/en/prog/master-of-science-in-entrepreneurial-management/programme-information",
+    "https://sbus.hsu.edu.hk/programmes/postgraduate-programmes/master-of-business-administration-in-chinese",
+    "https://sbus.hsu.edu.hk/programmes/postgraduate-programmes/master-of-business-management",
+    "https://sbus.hsu.edu.hk/programmes/postgraduate-programmes/master-of-science-in-entrepreneurial-management",
+    "https://sbus.hsu.edu.hk/programmes/postgraduate-programmes/master-of-science-in-global-finance-and-fintech",
+    "https://sbus.hsu.edu.hk/programmes/postgraduate-programmes/master-of-science-in-global-strategic-management-in-chinese",
+    "https://sbus.hsu.edu.hk/programmes/postgraduate-programmes/master-of-science-in-international-corporate-governance-with-sustainability",
+    "https://scm.hsu.edu.hk/mscditm",
+    "https://scom.hsu.edu.hk/en/master-of-arts-in-digital-media-for-online-communication",
+    "https://scom.hsu.edu.hk/en/master-of-arts-in-entertainment-media-management-and-communication",
+    "https://scom.hsu.edu.hk/en/master-of-arts-strategic-communication",
+    "https://scom.hsu.edu.hk/en/programmes/masc/about-the-programme",
+    "https://stfl.hsu.edu.hk/en/programme-objectives-master-computer-aided-translation-matcat",
+    "https://stfl.hsu.edu.hk/en/programme-objectives-master-in-translation-business-legal-matbl",
+    "https://stfl.hsu.edu.hk/en/programmes/master-of-arts-in-translation-business-and-legal-ma-tbl/programme-objectives",
+    "https://stfl.hsu.edu.hk/en/programmes/master-of-arts-in-translation-computer-aided-translation-ma-tcat/programme-objectives"
+  ]
+}

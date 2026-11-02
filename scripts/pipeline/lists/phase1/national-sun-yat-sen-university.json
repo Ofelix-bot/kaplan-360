@@ -1,0 +1,9 @@
+{
+ "source": "NSYSU OIA department directory JSON https://oia.nsysu.edu.tw/static/file/308/1308/img/4861/degree-application-departments.json (master's, English-taught, no Chinese certificate required, 13 disciplines) -> programme pages (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://cse.nsysu.edu.tw/p/412-1205-19765.php?Lang=en",
+  "https://ghrm.nsysu.edu.tw/p/412-1249-83.php?Lang=en",
+  "https://gpehd.nsysu.edu.tw/p/412-1146-18153.php?Lang=en"
+ ]
+}

@@ -1,0 +1,9 @@
+# university-of-virginia@1 https://www.virginia.edu
+robots sitemaps: https://www.virginia.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 41 · master's-looking 3
+    1  www.virginia.edu/graduate-admission
+         https://www.virginia.edu/graduate-admission/
+    1  www.virginia.edu/graduate-studies
+         https://www.virginia.edu/graduate-studies/
+    1  www.virginia.edu/undergraduate-studies
+         https://www.virginia.edu/undergraduate-studies/

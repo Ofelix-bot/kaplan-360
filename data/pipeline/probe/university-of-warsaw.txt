@@ -1,0 +1,3 @@
+# university-of-warsaw https://en.uw.edu.pl
+robots sitemaps: https://en.uw.edu.pl/wp-sitemap.xml https://en.uw.edu.pl/sitemap.xml https://en.uw.edu.pl/sitemap.html · crawl-delay: null · AI-agent groups: 0
+sitemaps read 3 · urls 196 · master's-looking 0

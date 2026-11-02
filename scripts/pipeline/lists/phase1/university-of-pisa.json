@@ -1,0 +1,13 @@
+{
+ "source": "UniPi master's degree course list https://www.unipi.it/en/education/courses/master-degree/ (rendered in browser; language English only), page URLs from https://www.unipi.it/cdss-eneducationcoursesmaster-degree.xml (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.unipi.it/en/education/courses/master-degree/artificial-intelligence-and-data-engineering-wai-lm-en/",
+  "https://www.unipi.it/en/education/courses/master-degree/computer-engineering-wcn-lm-en/",
+  "https://www.unipi.it/en/education/courses/master-degree/cybersecurity-wcyr-lm-en/",
+  "https://www.unipi.it/en/education/courses/master-degree/data-science-and-business-informatics-wdb-lm-en/",
+  "https://www.unipi.it/en/education/courses/master-degree/digital-intelligence-and-change-management-wdc-lm-en/",
+  "https://www.unipi.it/en/education/courses/master-degree/computer-science-wif-lm-en/",
+  "https://www.unipi.it/en/education/courses/master-degree/informatics-for-digital-health-wdh-lm-en/"
+ ]
+}

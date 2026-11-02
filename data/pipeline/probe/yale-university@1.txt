@@ -1,0 +1,17 @@
+# yale-university@1 https://www.yale.edu
+robots sitemaps: (none) · crawl-delay: 10 · AI-agent groups: 0
+sitemaps read 1 · urls 1069 · master's-looking 16
+   11  www.yale.edu/organization
+         https://www.yale.edu/organization/biological-biomedical-sciences-graduate-program
+         https://www.yale.edu/organization/division-undergraduate-ensembles
+         https://www.yale.edu/organization/graduate-professional-school-housing
+         https://www.yale.edu/organization/graduate-professional-student-center-yale-gpscy
+    2  www.yale.edu/academics
+         https://www.yale.edu/academics/undergraduate-study
+         https://www.yale.edu/academics/graduate-professional-study
+    1  www.yale.edu/graduate-school-arts-sciences-0
+         https://www.yale.edu/graduate-school-arts-sciences-0
+    1  www.yale.edu/undergraduate-admissions-0
+         https://www.yale.edu/undergraduate-admissions-0
+    1  www.yale.edu/explore-yale
+         https://www.yale.edu/explore-yale/yale-graduate-school-arts-sciences

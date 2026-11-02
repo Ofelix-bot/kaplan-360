@@ -1,0 +1,5258 @@
+{
+  "source": "Chinese universities' 飞跃手册 on GitHub",
+  "reports": [
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/aiq17/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/aiq17/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2017,
+      "gpa": 3.85,
+      "gpaScale": 4.3,
+      "ielts": 7.5,
+      "toefl": 111,
+      "gre": 327,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "EPFL",
+          "programme": "Ms",
+          "result": "reject"
+        },
+        {
+          "university": "MIT",
+          "programme": "Ms",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/baihy17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/baihy17.md",
+      "undergrad": "南方科技大学",
+      "year": 2017,
+      "gpa": 3.84,
+      "gpaScale": 4,
+      "ielts": 7,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北京大学工学院",
+          "programme": "电子所硕士",
+          "result": "admit"
+        },
+        {
+          "university": "清华大学",
+          "programme": "精仪系",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/anon22.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/anon22.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.86,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 105,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "MBZUAI",
+          "programme": "Computer Vision MSc",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/caid15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/caid15.md",
+      "undergrad": "南方科技大学",
+      "year": 2015,
+      "gpa": 3.65,
+      "gpaScale": 4,
+      "ielts": 6.5,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "中山大学",
+          "programme": "财经传媒专业",
+          "result": "admit"
+        },
+        {
+          "university": "哈尔滨工业大学（深圳）",
+          "programme": "财经传媒专业",
+          "result": "admit"
+        },
+        {
+          "university": "南方科技大学",
+          "programme": "金融学专业",
+          "result": "admit"
+        },
+        {
+          "university": "北大汇丰",
+          "programme": "财经传媒专业",
+          "result": "reject"
+        },
+        {
+          "university": "中国传媒大学",
+          "programme": "国际新闻专业",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/caiw16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/caiw16.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.72,
+      "gpaScale": 4,
+      "ielts": 6.5,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北京大学城市与环境学院",
+          "programme": "北京大学城市与环境学院",
+          "result": "reject"
+        },
+        {
+          "university": "北京大学环境科学与工程学院",
+          "programme": "北京大学环境科学与工程学院",
+          "result": "reject"
+        },
+        {
+          "university": "清华大学深圳研究生院",
+          "programme": "环境工程",
+          "result": "admit"
+        },
+        {
+          "university": "清华大学环境暑期学校",
+          "programme": "清华大学环境暑期学校",
+          "result": "other"
+        },
+        {
+          "university": "香港科技大学",
+          "programme": "Division of Life Science",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/caiyy16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/caiyy16.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.63,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 102,
+      "gre": 323,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Imperial College London",
+          "programme": "Master of Research in Molecular and Cellular Biosciences",
+          "result": "admit"
+        },
+        {
+          "university": "University of Edinburgh",
+          "programme": "MSc by Research",
+          "result": "admit"
+        },
+        {
+          "university": "University of Michigan",
+          "programme": "Master of Science",
+          "result": "admit"
+        },
+        {
+          "university": "Northwestern University",
+          "programme": "Master of Science in Biotechnology",
+          "result": "admit"
+        },
+        {
+          "university": "Johns Hopkins University",
+          "programme": "Master of Health Science",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/chenrw19.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/chenrw19.md",
+      "undergrad": "南方科技大学",
+      "year": 2023,
+      "gpa": 3.85,
+      "gpaScale": 4,
+      "ielts": 7,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "清华大学集成电路学院",
+          "programme": "直博（微电子科学与工程专业-集成电路设计与设计自动化方向）",
+          "result": "admit"
+        },
+        {
+          "university": "上海交通大学微纳电子学系",
+          "programme": "硕士",
+          "result": "reject"
+        },
+        {
+          "university": "中科大微电子学院",
+          "programme": "硕士",
+          "result": "other"
+        },
+        {
+          "university": "复旦大学微电子学院",
+          "programme": "硕士",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/chendy16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/chendy16.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.69,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 104,
+      "gre": 329,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "CMU",
+          "programme": "M.S. in Software Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "Rice",
+          "programme": "Master of Computer Science",
+          "result": "admit"
+        },
+        {
+          "university": "UCI",
+          "programme": "Master of Software Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "NYU Courant",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "NEU",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "CMU",
+          "programme": "MSE-SS",
+          "result": "reject"
+        },
+        {
+          "university": "Brown",
+          "programme": "ScM CS",
+          "result": "reject"
+        },
+        {
+          "university": "NYU Tandon",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "UCSD",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "Columbia",
+          "programme": "MSCS",
+          "result": "other"
+        },
+        {
+          "university": "UT Austin",
+          "programme": "ECE-SE",
+          "result": "other"
+        },
+        {
+          "university": "USC",
+          "programme": "MSCS",
+          "result": "other"
+        },
+        {
+          "university": "NWU",
+          "programme": "MSCS",
+          "result": "other"
+        },
+        {
+          "university": "UCI",
+          "programme": "MCS",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/chenwy22.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/chenwy22.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.9,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 108,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "CMU",
+          "programme": "BME",
+          "result": "reject"
+        },
+        {
+          "university": "CMU",
+          "programme": "ME",
+          "result": "other"
+        },
+        {
+          "university": "UCSD",
+          "programme": "COGS",
+          "result": "other"
+        },
+        {
+          "university": "UNC",
+          "programme": "DS",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/chenxw17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/chenxw17.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.77,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "复旦大学",
+          "programme": "硕士",
+          "result": "other"
+        },
+        {
+          "university": "西北工业大学",
+          "programme": "硕士",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/cheny16a.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/cheny16a.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.76,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 92,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "香港科技大学",
+          "programme": "PhD in Physics",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/chenxy19.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/chenxy19.md",
+      "undergrad": "南方科技大学",
+      "year": 2023,
+      "gpa": 3.82,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 104,
+      "gre": 325,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Columbia University",
+          "programme": "MSCS",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/chenzz17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/chenzz17.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.74,
+      "gpaScale": 4,
+      "ielts": 7.5,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Imperial College",
+          "programme": "MSc Advanced Chemical Engineering with Structured Product Design",
+          "result": "waitlist"
+        },
+        {
+          "university": "University of Edinburgh",
+          "programme": "MSc Advanced Chemical Engineering",
+          "result": "reject"
+        },
+        {
+          "university": "The University of Manchester",
+          "programme": "MSc Advanced Chemical Engineering",
+          "result": "reject"
+        },
+        {
+          "university": "University College London",
+          "programme": "MSc Chemical Process Engineering",
+          "result": "reject"
+        },
+        {
+          "university": "Delft University of Technology",
+          "programme": "Chemical Product Engineering",
+          "result": "reject"
+        },
+        {
+          "university": "Hong Kong University of Science and Technology",
+          "programme": "MSc in Chemical and Biomolecular Engineering",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/dengrb17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/dengrb17.md",
+      "undergrad": "南方科技大学",
+      "year": 2017,
+      "gpa": 3.66,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 109,
+      "gre": 325,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Technische Universiteit Delft",
+          "programme": "MSc Robotics",
+          "result": "admit"
+        },
+        {
+          "university": "Lund University",
+          "programme": "MSc Machine Learning, Systems and Control",
+          "result": "admit"
+        },
+        {
+          "university": "KTH Royal Institute of Technology",
+          "programme": "MSc Systems, Control and Robotics",
+          "result": "waitlist"
+        },
+        {
+          "university": "Technical University of Denmark",
+          "programme": "MSc in Autonomous Systems",
+          "result": "admit"
+        },
+        {
+          "university": "Tel Aviv University",
+          "programme": "MSc in Mechacnical Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "Imperial College London",
+          "programme": "MSc Human and Biological Robotics",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/dengyq16/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/dengyq16/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.81,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 98,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "John Hopkins University",
+          "programme": "MS in Mechanical Engineering",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/dingmy17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/dingmy17.md",
+      "undergrad": "南方科技大学",
+      "year": 17,
+      "gpa": 3.68,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "清华大学",
+          "programme": "基础医学专业直博",
+          "result": "admit"
+        },
+        {
+          "university": "协和医学院",
+          "programme": "基础医学专业直博",
+          "result": "admit"
+        },
+        {
+          "university": "中山大学",
+          "programme": "基础医学专业直博",
+          "result": "admit"
+        },
+        {
+          "university": "上海交通大学医学院",
+          "programme": "免疫所中以联合博士学位项目",
+          "result": "admit"
+        },
+        {
+          "university": "北京大学基础医学院",
+          "programme": "未入营",
+          "result": "reject"
+        },
+        {
+          "university": "北京大学生命科学院",
+          "programme": "未入营",
+          "result": "reject"
+        },
+        {
+          "university": "浙江大学生命科学院",
+          "programme": "未入营",
+          "result": "reject"
+        },
+        {
+          "university": "浙江大学医学院",
+          "programme": "基础医学专业",
+          "result": "reject"
+        },
+        {
+          "university": "南京大学医学院",
+          "programme": "基础医学专业",
+          "result": "reject"
+        },
+        {
+          "university": "复旦大学基础医学院",
+          "programme": "肿瘤方向&生化分子方向",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/dongzy16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/dongzy16.md",
+      "undergrad": "南方科技大学",
+      "year": 2016,
+      "gpa": 3.85,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 102,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "UIUC",
+          "programme": "MS",
+          "result": "reject"
+        },
+        {
+          "university": "Georgia Tech",
+          "programme": "MS",
+          "result": "reject"
+        },
+        {
+          "university": "Pennsylvania",
+          "programme": "MS",
+          "result": "reject"
+        },
+        {
+          "university": "Columbia",
+          "programme": "Applied Mathematics MS",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/fangyd15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/fangyd15.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.87,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 99,
+      "gre": 324,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "University of Wisconsin-Madison",
+          "programme": "M.S. in Computer Sciences",
+          "result": "admit"
+        },
+        {
+          "university": "University of Massachusetts Amherst",
+          "programme": "M.S.",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/fanzk16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/fanzk16.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.89,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": 104,
+      "gre": 322,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Gatech",
+          "programme": "MS in ECE",
+          "result": "admit"
+        },
+        {
+          "university": "UPenn",
+          "programme": "MS in ECE",
+          "result": "admit"
+        },
+        {
+          "university": "U of Rochester",
+          "programme": "MS in ECE",
+          "result": "admit"
+        },
+        {
+          "university": "UCSD",
+          "programme": "MS in ECE",
+          "result": "admit"
+        },
+        {
+          "university": "UCI",
+          "programme": "MS in ECE",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/dengzr17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/dengzr17.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.47,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北京大学",
+          "programme": "新时代青年经济论坛",
+          "result": "other"
+        },
+        {
+          "university": "上海财经大学",
+          "programme": "同德夏令营",
+          "result": "other"
+        },
+        {
+          "university": "上海交通大学",
+          "programme": "教育学院教育硕士夏令营",
+          "result": "other"
+        },
+        {
+          "university": "北京师范大学",
+          "programme": "教育经济研究所",
+          "result": "admit"
+        },
+        {
+          "university": "华中科技大学",
+          "programme": "教育管理研究所",
+          "result": "admit"
+        },
+        {
+          "university": "深圳大学",
+          "programme": "金融科技院",
+          "result": "admit"
+        },
+        {
+          "university": "南方科技大学",
+          "programme": "信息系统管理系",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/gaox17/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/gaox17/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.88,
+      "gpaScale": 4,
+      "ielts": 7,
+      "toefl": 104,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Tokyo University",
+          "programme": "Master in biomedical engineering",
+          "result": "other"
+        },
+        {
+          "university": "Carnegie Mellon University",
+          "programme": "Master in biomedical engineering",
+          "result": "other"
+        },
+        {
+          "university": "Delft University of Technology",
+          "programme": "Master in biomedical engineering",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/gaoyy21.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/gaoyy21.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.79,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 100,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北京大学光华管理学院",
+          "programme": "MFin",
+          "result": "admit"
+        },
+        {
+          "university": "清华大学经济管理学院",
+          "programme": "BA",
+          "result": "waitlist"
+        },
+        {
+          "university": "北大汇丰",
+          "programme": "<UNKNOWN>",
+          "result": "reject"
+        },
+        {
+          "university": "清华五道口",
+          "programme": "<UNKNOWN>",
+          "result": "reject"
+        },
+        {
+          "university": "复旦泛海",
+          "programme": "<UNKNOWN>",
+          "result": "reject"
+        },
+        {
+          "university": "人大财金",
+          "programme": "<UNKNOWN>",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/fuyz17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/fuyz17.md",
+      "undergrad": "南方科技大学",
+      "year": 2023,
+      "gpa": 3.88,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 90,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "南方科技大学深港微电子学院",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "清华大学深圳研究生院",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "中国科学院大学-微电子学院",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "清华大学-微纳电子系",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "北京大学-信息科学学院",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "复旦大学-微电子学院",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "上海交通大学-微电子学院",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "北京大学深研院-信息工程学院",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "北京大学深圳研究生院-信息工程学院",
+          "programme": "预推免 学硕-微电子学与固体电子学",
+          "result": "admit"
+        },
+        {
+          "university": "东南大学-微电子学院",
+          "programme": "预推免 专硕-集成电路设计",
+          "result": "admit"
+        },
+        {
+          "university": "中国科学院大学-信息工程学院",
+          "programme": "预推免 专硕-大数据方向",
+          "result": "admit"
+        },
+        {
+          "university": "复旦大学-微电子学院",
+          "programme": "预推免 直博-数字芯片设计方向",
+          "result": "other"
+        },
+        {
+          "university": "华中科技大学-光学与电子信息学院",
+          "programme": "预推免 学硕-电子科学与技术",
+          "result": "other"
+        },
+        {
+          "university": "清华大学深圳研究生院",
+          "programme": "预推免 专硕-集成电路与系统",
+          "result": "reject"
+        },
+        {
+          "university": "复旦大学-微电子学院",
+          "programme": "十推 直博-数字芯片设计方向",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/guanyj16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/guanyj16.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.85,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 90,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北大深信工",
+          "programme": "微电子学与固体电子学",
+          "result": "admit"
+        },
+        {
+          "university": "清华微电子",
+          "programme": "集成电路工程",
+          "result": "other"
+        },
+        {
+          "university": "北大信科",
+          "programme": "微电子学与固体电子学",
+          "result": "reject"
+        },
+        {
+          "university": "复旦微电子",
+          "programme": "集成电路与系统设计",
+          "result": "reject"
+        },
+        {
+          "university": "上交微电子",
+          "programme": "电子科学与技术",
+          "result": "reject"
+        },
+        {
+          "university": "东南大学微电子",
+          "programme": "电子信息",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/guxy17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/guxy17.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.8,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北京大学汇丰商学院",
+          "programme": "保研",
+          "result": "admit"
+        },
+        {
+          "university": "北京大学国际法学院",
+          "programme": "夏令营",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/hewq16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/hewq16.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.58,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 107,
+      "gre": 325,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "CMU",
+          "programme": "BME MS",
+          "result": "admit"
+        },
+        {
+          "university": "Columbia",
+          "programme": "BME MS",
+          "result": "admit"
+        },
+        {
+          "university": "Boston University",
+          "programme": "BME MS",
+          "result": "admit"
+        },
+        {
+          "university": "Duke",
+          "programme": "BME MS",
+          "result": "admit"
+        },
+        {
+          "university": "University of Pennsylvania",
+          "programme": "Bioengineering MS",
+          "result": "admit"
+        },
+        {
+          "university": "UCSD",
+          "programme": "Bioengineering MS",
+          "result": "admit"
+        },
+        {
+          "university": "University of Washington",
+          "programme": "BE MS",
+          "result": "reject"
+        },
+        {
+          "university": "Northwestern university",
+          "programme": "BE MS",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/hezl15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/hezl15.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.89,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 103,
+      "gre": 155,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "University of Minnesota",
+          "programme": "Mechanical Engineering (ME) PhD",
+          "result": "admit"
+        },
+        {
+          "university": "Purdue University",
+          "programme": "Mechanical Engineering (ME) PhD",
+          "result": "other"
+        },
+        {
+          "university": "Northwestern University",
+          "programme": "Mechanical Engineering (ME) MS",
+          "result": "other"
+        },
+        {
+          "university": "Yale",
+          "programme": "Mechanical Engineering (ME) MS",
+          "result": "reject"
+        },
+        {
+          "university": "Duke",
+          "programme": "Mechanical Engineering (ME) MS",
+          "result": "reject"
+        },
+        {
+          "university": "Rice",
+          "programme": "Mechanical Engineering (ME) MS",
+          "result": "reject"
+        },
+        {
+          "university": "Umich",
+          "programme": "Mechanical Engineering (ME) MS",
+          "result": "reject"
+        },
+        {
+          "university": "MIT",
+          "programme": "Mechanical Engineering (ME) MS",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/huanggc19/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/huanggc19/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2023,
+      "gpa": 3.69,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 112,
+      "gre": 324,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Carnegie Mellon University",
+          "programme": "MS ECE",
+          "result": "reject"
+        },
+        {
+          "university": "University of Illinois at Urbana-Champaign",
+          "programme": "MS ECE",
+          "result": "reject"
+        },
+        {
+          "university": "University of California San Diego",
+          "programme": "MS ECE EC79",
+          "result": "reject"
+        },
+        {
+          "university": "Georgia Institute of Technology",
+          "programme": "MS ECE",
+          "result": "reject"
+        },
+        {
+          "university": "University of Wisconsin-Madison",
+          "programme": "MS CS",
+          "result": "reject"
+        },
+        {
+          "university": "University of Wisconsin-Madison",
+          "programme": "MS ECE Research",
+          "result": "reject"
+        },
+        {
+          "university": "University of Wisconsin-Madison",
+          "programme": "MS ECE Professional",
+          "result": "admit"
+        },
+        {
+          "university": "University of Texas at Austin",
+          "programme": "MS ECE",
+          "result": "reject"
+        },
+        {
+          "university": "University of Notre Dame",
+          "programme": "MS CSE",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/jiangc16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/jiangc16.md",
+      "undergrad": "南方科技大学",
+      "year": 16,
+      "gpa": 3.78,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "清华大学深圳国际研究生院",
+          "programme": "功能材料与器件",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/humt17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/humt17.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.66,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 101,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "University of Southern California",
+          "programme": "ECE MS",
+          "result": "admit"
+        },
+        {
+          "university": "Purdue University - West Lafayette",
+          "programme": "ECE MS",
+          "result": "reject"
+        },
+        {
+          "university": "University of Maryland, College Park",
+          "programme": "ECE MS",
+          "result": "reject"
+        },
+        {
+          "university": "University of Illinois Urbana Champaign",
+          "programme": "ECE MS",
+          "result": "reject"
+        },
+        {
+          "university": "University of California-San Diego",
+          "programme": "ECE MS",
+          "result": "reject"
+        },
+        {
+          "university": "Georgia Institute of Technology",
+          "programme": "ECE MS",
+          "result": "admit"
+        },
+        {
+          "university": "Duke University",
+          "programme": "ECE MS",
+          "result": "admit"
+        },
+        {
+          "university": "University of California-Irvine",
+          "programme": "ECE MS",
+          "result": "admit"
+        },
+        {
+          "university": "University of Michigan Ann Arbor",
+          "programme": "ECE MS",
+          "result": "admit"
+        },
+        {
+          "university": "Columbia University",
+          "programme": "ECE MS",
+          "result": "admit"
+        },
+        {
+          "university": "Austin",
+          "programme": "ECE MS",
+          "result": "other"
+        },
+        {
+          "university": "UCSB",
+          "programme": "ECE MS",
+          "result": "reject"
+        },
+        {
+          "university": "UW-Seattle",
+          "programme": "ECE MS",
+          "result": "admit"
+        },
+        {
+          "university": "UCLA",
+          "programme": "ECE MS",
+          "result": "reject"
+        },
+        {
+          "university": "UCB",
+          "programme": "ECE MS",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/jianglw15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/jianglw15.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.52,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 101,
+      "gre": null,
+      "research": false,
+      "internships": true,
+      "workYears": 2,
+      "applications": [
+        {
+          "university": "Duke University",
+          "programme": "Master of Pubic Policy",
+          "result": "admit"
+        },
+        {
+          "university": "University of Southern California",
+          "programme": "Master of Public Administration",
+          "result": "admit"
+        },
+        {
+          "university": "University of Pittsburgh",
+          "programme": "Master of Public Administration",
+          "result": "admit"
+        },
+        {
+          "university": "University of Washington",
+          "programme": "Master of Public Administration",
+          "result": "admit"
+        },
+        {
+          "university": "American University",
+          "programme": "Master of Public Administration",
+          "result": "admit"
+        },
+        {
+          "university": "Northeastern University",
+          "programme": "Master of Public Administration",
+          "result": "admit"
+        },
+        {
+          "university": "Columbia University",
+          "programme": "Master of Public Administration",
+          "result": "reject"
+        },
+        {
+          "university": "New York University",
+          "programme": "Master of Public Administration",
+          "result": "reject"
+        },
+        {
+          "university": "Cornell University",
+          "programme": "Master of Public Administration",
+          "result": "reject"
+        },
+        {
+          "university": "University of North Carolina of Chapel Hill",
+          "programme": "Master of Public Administration",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/jinghy16/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/jinghy16/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": null,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": 96,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北大汇丰",
+          "programme": "金融硕士（金融科技方向）",
+          "result": "other"
+        },
+        {
+          "university": "央财金院",
+          "programme": "金融科技",
+          "result": "other"
+        },
+        {
+          "university": "央财信院",
+          "programme": "金融科技",
+          "result": "reject"
+        },
+        {
+          "university": "港中深",
+          "programme": "数据科学",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/jiangnf19.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/jiangnf19.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.87,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 105,
+      "gre": 325,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "UC Santa Barbara",
+          "programme": "PhD in ECE",
+          "result": "admit"
+        },
+        {
+          "university": "UC Santa Cruz",
+          "programme": "PhD in Applied Math",
+          "result": "admit"
+        },
+        {
+          "university": "Georgia Tech",
+          "programme": "PhD in CSE",
+          "result": "admit"
+        },
+        {
+          "university": "University of Washington, Seattle",
+          "programme": "Master in Applied Math",
+          "result": "admit"
+        },
+        {
+          "university": "Stanford",
+          "programme": "Master in CME",
+          "result": "reject"
+        },
+        {
+          "university": "UCLA",
+          "programme": "Master in ECE",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/kuangl21.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/kuangl21.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.86,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 103,
+      "gre": 318,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "CMU",
+          "programme": "MSIN",
+          "result": "reject"
+        },
+        {
+          "university": "CMU",
+          "programme": "ECE",
+          "result": "admit"
+        },
+        {
+          "university": "UCSD",
+          "programme": "MSCS(CS75)",
+          "result": "reject"
+        },
+        {
+          "university": "Columbia University",
+          "programme": "MSCS",
+          "result": "other"
+        },
+        {
+          "university": "Rice University",
+          "programme": "MCS",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "MsC AI-track",
+          "result": "other"
+        },
+        {
+          "university": "港中深",
+          "programme": "计算机与信息工程 理学硕士",
+          "result": "admit"
+        },
+        {
+          "university": "港中深",
+          "programme": "数据科学 理学硕士",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/laih15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/laih15.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.62,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 100,
+      "gre": 309,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "UQ",
+          "programme": "ME in Chemical Engineering",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/laidy16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/laidy16.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.7,
+      "gpaScale": 4,
+      "ielts": 7,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "KTH",
+          "programme": "Applied and Computational Mathematics",
+          "result": "admit"
+        },
+        {
+          "university": "UCPH",
+          "programme": "Statistics",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/liangr16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/liangr16.md",
+      "undergrad": "南方科技大学",
+      "year": 2016,
+      "gpa": 3.61,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 90,
+      "gre": 157,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "University of Florida",
+          "programme": "Master",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/liaocl17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/liaocl17.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.74,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 91,
+      "gre": 324,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "The University of Tokyo",
+          "programme": "GPES (Graduate Program on Environmental Sciences)",
+          "result": "reject"
+        },
+        {
+          "university": "Nagoya University",
+          "programme": "G30/SGU 土木与环境工程 (Civil and Environmental Engineering)",
+          "result": "admit"
+        },
+        {
+          "university": "University of Copenhagen",
+          "programme": "MSc in Environment and Development",
+          "result": "admit"
+        },
+        {
+          "university": "Technical University of Denmark",
+          "programme": "MSc in Environmental Engineering",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/lihm19.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/lihm19.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.62,
+      "gpaScale": 4,
+      "ielts": 7.5,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Columbia University",
+          "programme": "ERM",
+          "result": "admit"
+        },
+        {
+          "university": "WUSTL",
+          "programme": "MSFWAM",
+          "result": "admit"
+        },
+        {
+          "university": "UIUC",
+          "programme": "MSF",
+          "result": "admit"
+        },
+        {
+          "university": "UR",
+          "programme": "MSF",
+          "result": "admit"
+        },
+        {
+          "university": "BC",
+          "programme": "MSF",
+          "result": "admit"
+        },
+        {
+          "university": "WFU",
+          "programme": "MSBA",
+          "result": "admit"
+        },
+        {
+          "university": "HKU",
+          "programme": "MFin",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/linrj16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/linrj16.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.43,
+      "gpaScale": 4,
+      "ielts": 6.5,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "University of Copenhagen",
+          "programme": "MSc Programme in Mathematics",
+          "result": "admit"
+        },
+        {
+          "university": "University of Amsterdam",
+          "programme": "Master's Programme Mathematics",
+          "result": "admit"
+        },
+        {
+          "university": "Utrecht University",
+          "programme": "Mathematical Sciences Master's Programme",
+          "result": "admit"
+        },
+        {
+          "university": "Aarhus University",
+          "programme": "Master's Degree Programme in Mathematics, Summer Intake",
+          "result": "admit"
+        },
+        {
+          "university": "Uppsala University",
+          "programme": "Master's Programme in Mathematics",
+          "result": "admit"
+        },
+        {
+          "university": "Lund University",
+          "programme": "<UNKNOWN>",
+          "result": "admit"
+        },
+        {
+          "university": "Stockholm University",
+          "programme": "<UNKNOWN>",
+          "result": "admit"
+        },
+        {
+          "university": "University of Helsinki",
+          "programme": "Master's Programme in Mathematics and Statistics",
+          "result": "admit"
+        },
+        {
+          "university": "Imperial College London",
+          "programme": "MSc in Pure Mathematics 1-year full time",
+          "result": "reject"
+        },
+        {
+          "university": "University of Manchester",
+          "programme": "MSc in Pure Mathematics Programme",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/liugy15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/liugy15.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.85,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 114,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Johns Hopkins University",
+          "programme": "Master of Science in Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "Penn",
+          "programme": "PhD in MSE",
+          "result": "reject"
+        },
+        {
+          "university": "Northwestern",
+          "programme": "PhD in MSE",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/liubw18.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/liubw18.md",
+      "undergrad": "南方科技大学",
+      "year": 2022,
+      "gpa": 3.6,
+      "gpaScale": 4,
+      "ielts": 7.5,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "CUHK",
+          "programme": "MS in Finance",
+          "result": "admit"
+        },
+        {
+          "university": "HKU",
+          "programme": "MS in Global Management",
+          "result": "admit"
+        },
+        {
+          "university": "HKUST",
+          "programme": "MS in Global Operations",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "MS in Management",
+          "result": "admit"
+        },
+        {
+          "university": "CUHKSZ",
+          "programme": "MS in Finance",
+          "result": "other"
+        },
+        {
+          "university": "NTU",
+          "programme": "MS in Finance",
+          "result": "reject"
+        },
+        {
+          "university": "NUS",
+          "programme": "MS in Applied Economics",
+          "result": "reject"
+        },
+        {
+          "university": "HKU",
+          "programme": "MS in Finance",
+          "result": "reject"
+        },
+        {
+          "university": "HKU",
+          "programme": "MS in Economics",
+          "result": "reject"
+        },
+        {
+          "university": "HKUST",
+          "programme": "MS in Finance",
+          "result": "reject"
+        },
+        {
+          "university": "HKUST",
+          "programme": "MS in Economics",
+          "result": "reject"
+        },
+        {
+          "university": "HKUST",
+          "programme": "MS in Business Analytics",
+          "result": "reject"
+        },
+        {
+          "university": "CUHK",
+          "programme": "MS in Economics",
+          "result": "reject"
+        },
+        {
+          "university": "CUHK",
+          "programme": "MS in Business Analytics",
+          "result": "reject"
+        },
+        {
+          "university": "HEC Paris",
+          "programme": "MS in Management",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/lisr20.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/lisr20.md",
+      "undergrad": "南方科技大学",
+      "year": 2024,
+      "gpa": 3.76,
+      "gpaScale": 4,
+      "ielts": 7,
+      "toefl": 106,
+      "gre": 315,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "NYU Courant",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "NTU",
+          "programme": "MSAI",
+          "result": "admit"
+        },
+        {
+          "university": "UIUC",
+          "programme": "MCS",
+          "result": "reject"
+        },
+        {
+          "university": "JHU",
+          "programme": "MSECE",
+          "result": "reject"
+        },
+        {
+          "university": "CMU",
+          "programme": "MSECE",
+          "result": "reject"
+        },
+        {
+          "university": "UW Madison",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "Duke",
+          "programme": "MSECE",
+          "result": "reject"
+        },
+        {
+          "university": "UCSD",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "UCSD",
+          "programme": "MSDS",
+          "result": "reject"
+        },
+        {
+          "university": "CUHK",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "HKU",
+          "programme": "MSCS",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/liuy18.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/liuy18.md",
+      "undergrad": "南方科技大学",
+      "year": 2023,
+      "gpa": 3.7,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 98,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "哈佛大学",
+          "programme": "中国与哈佛合作能源经济环境项目PhD",
+          "result": "reject"
+        },
+        {
+          "university": "斯坦福大学",
+          "programme": "能源资源工程MS",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/liuyj17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/liuyj17.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.73,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 97,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Technische Universiteit Delft",
+          "programme": "Msc Mechanical Engineering（track: Biomechanical Design）",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/liyl16/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/liyl16/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.88,
+      "gpaScale": 4.3,
+      "ielts": null,
+      "toefl": 105,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "National University of Singapore",
+          "programme": "MS in Financial Engineering",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/lizc18.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/lizc18.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.77,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 108,
+      "gre": 327,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Carnegie Mellon University",
+          "programme": "信息管理硕士商业情报与数据分析专业（MISM-BIDA）",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/liuyz17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/liuyz17.md",
+      "undergrad": "南方科技大学",
+      "year": 2022,
+      "gpa": 3.89,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 94,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Georgia Institute of Technology",
+          "programme": "Mechanical Engineering PhD",
+          "result": "admit"
+        },
+        {
+          "university": "UT-Austin",
+          "programme": "Mechanical Engineering PhD",
+          "result": "admit"
+        },
+        {
+          "university": "CU Boulder",
+          "programme": "Mechanical Engineering PhD",
+          "result": "admit"
+        },
+        {
+          "university": "HKUST",
+          "programme": "Mechanical Engineering PhD",
+          "result": "admit"
+        },
+        {
+          "university": "NEU",
+          "programme": "Mechanical Engineering PhD",
+          "result": "admit"
+        },
+        {
+          "university": "Purdue University - West Lafayette",
+          "programme": "Mechanical Engineering PhD",
+          "result": "admit"
+        },
+        {
+          "university": "UCLA",
+          "programme": "Mechanical Engineering PhD",
+          "result": "admit"
+        },
+        {
+          "university": "Cornell",
+          "programme": "Mechanical Engineering PhD",
+          "result": "reject"
+        },
+        {
+          "university": "McGill",
+          "programme": "Mechanical Engineering PhD",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/lizq15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/lizq15.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.63,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "南方科技大学",
+          "programme": "MS",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/luoysh17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/luoysh17.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.81,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "浙江大学软件学院",
+          "programme": "专硕",
+          "result": "admit"
+        },
+        {
+          "university": "清华伯克利学院",
+          "programme": "<UNKNOWN>",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/luanwd17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/luanwd17.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.8,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 107,
+      "gre": 327,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "UCSD",
+          "programme": "CS75",
+          "result": "admit"
+        },
+        {
+          "university": "NEU",
+          "programme": "MSDS",
+          "result": "admit"
+        },
+        {
+          "university": "CUHK(Shenzhen)",
+          "programme": "MSDS",
+          "result": "admit"
+        },
+        {
+          "university": "Gatech",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "USC",
+          "programme": "MS in Applied Data Science",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "MSCS(course work)",
+          "result": "admit"
+        },
+        {
+          "university": "CMU",
+          "programme": "MCDS",
+          "result": "reject"
+        },
+        {
+          "university": "NWU",
+          "programme": "MS in Analytics",
+          "result": "reject"
+        },
+        {
+          "university": "UMich",
+          "programme": "MSDS",
+          "result": "reject"
+        },
+        {
+          "university": "Brown",
+          "programme": "Computer Science, ScM",
+          "result": "reject"
+        },
+        {
+          "university": "HKUST",
+          "programme": "Big Data Technology",
+          "result": "reject"
+        },
+        {
+          "university": "NYU",
+          "programme": "MSDS",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/menglz16/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/menglz16/index.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 2.7,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "瑞典卡罗琳斯卡医学院和瑞典皇家理工的合作硕士项目",
+          "programme": "<UNKNOWN>",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/maym16/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/maym16/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.84,
+      "gpaScale": 4,
+      "ielts": 8,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Imperial College London",
+          "programme": "Applied Mathematics (MSc)",
+          "result": "reject"
+        },
+        {
+          "university": "Imperial College London",
+          "programme": "Artificial Intelligence and Machine Learning (MSc)",
+          "result": "reject"
+        },
+        {
+          "university": "London School of Economics and Political Science",
+          "programme": "Operations Research and Analytics (MSc)",
+          "result": "admit"
+        },
+        {
+          "university": "London School of Economics and Political Science",
+          "programme": "Statistics (MSc)",
+          "result": "other"
+        },
+        {
+          "university": "University College London",
+          "programme": "Mathematical Modelling (MSc)",
+          "result": "admit"
+        },
+        {
+          "university": "University College London",
+          "programme": "Computational Statistics and Machine Learning (MSc)",
+          "result": "reject"
+        },
+        {
+          "university": "The University of Edinburgh",
+          "programme": "Operational Research with Computational Optimisation (MSc)",
+          "result": "admit"
+        },
+        {
+          "university": "The University of Edinburgh",
+          "programme": "Artificial Intelligence (MSc)",
+          "result": "other"
+        },
+        {
+          "university": "The University of Warwick",
+          "programme": "Mathematics of Systems (MSc leading to PhD)",
+          "result": "admit"
+        },
+        {
+          "university": "The University of Warwick",
+          "programme": "Computer Science (MSc)",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/qiuyl20.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/qiuyl20.md",
+      "undergrad": "南方科技大学",
+      "year": 2025,
+      "gpa": 3.75,
+      "gpaScale": 4,
+      "ielts": 7,
+      "toefl": null,
+      "gre": 322,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "HKU",
+          "programme": "CS",
+          "result": "admit"
+        },
+        {
+          "university": "HKUST",
+          "programme": "IT",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "MComp CS",
+          "result": "admit"
+        },
+        {
+          "university": "CUHK",
+          "programme": "CS",
+          "result": "reject"
+        },
+        {
+          "university": "HKU",
+          "programme": "DS",
+          "result": "other"
+        },
+        {
+          "university": "NTU",
+          "programme": "AI",
+          "result": "reject"
+        },
+        {
+          "university": "NUS",
+          "programme": "MComp GT",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/suicx15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/suicx15.md",
+      "undergrad": "南方科技大学",
+      "year": 15,
+      "gpa": 3.58,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 97,
+      "gre": 321,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Duke University",
+          "programme": "MS in Biomedical Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "CMU",
+          "programme": "MS",
+          "result": "admit"
+        },
+        {
+          "university": "Washington in St. Louis",
+          "programme": "MS",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/nanbz15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/nanbz15.md",
+      "undergrad": "南方科技大学",
+      "year": 2015,
+      "gpa": 3.66,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 92,
+      "gre": 312,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Notre Dame University",
+          "programme": "PhD in Chemistry",
+          "result": "admit"
+        },
+        {
+          "university": "Rutgers University",
+          "programme": "PhD in Chemistry",
+          "result": "admit"
+        },
+        {
+          "university": "Stony Brook University",
+          "programme": "PhD in Chemistry",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "PhD in Chemistry",
+          "result": "other"
+        },
+        {
+          "university": "U-Tokyo",
+          "programme": "MS in Chemistry",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/sunl15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/sunl15.md",
+      "undergrad": "南方科技大学",
+      "year": 15,
+      "gpa": 3.86,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 104,
+      "gre": 326,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "UVa",
+          "programme": "CS PhD",
+          "result": "reject"
+        },
+        {
+          "university": "CUHK",
+          "programme": "CS PhD",
+          "result": "reject"
+        },
+        {
+          "university": "UBC",
+          "programme": "CS Master",
+          "result": "reject"
+        },
+        {
+          "university": "University of Toronto",
+          "programme": "CS Master",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/sunyz16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/sunyz16.md",
+      "undergrad": "南方科技大学",
+      "year": 16,
+      "gpa": 3.7,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 96,
+      "gre": 319,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "南加州大学",
+          "programme": "Master",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/sunr17/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/sunr17/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.6,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 100,
+      "gre": 325,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Columbia University",
+          "programme": "BME MS/Ph.D.",
+          "result": "other"
+        },
+        {
+          "university": "UC Irvine",
+          "programme": "BME Ph.D.",
+          "result": "other"
+        },
+        {
+          "university": "Brown University",
+          "programme": "BME ScM",
+          "result": "other"
+        },
+        {
+          "university": "Rice University",
+          "programme": "BME ScM",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/tangy16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/tangy16.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.84,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北京大学汇丰商学院",
+          "programme": "<UNKNOWN>",
+          "result": "admit"
+        },
+        {
+          "university": "港中深",
+          "programme": "数据科学硕士",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/tangyl21.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/tangyl21.md",
+      "undergrad": "南方科技大学",
+      "year": 21,
+      "gpa": 3.89,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "南大 CS",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "清深 AI/CS",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "东南 palm",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "厦门 mac",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "人大信院",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "同济专硕 cs",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "复旦专硕 cs",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "杭高院",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "中科大 10 系",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "浙软",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "南大 cs",
+          "programme": "预推免",
+          "result": "admit"
+        },
+        {
+          "university": "浙软",
+          "programme": "预推免",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/tianl16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/tianl16.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.73,
+      "gpaScale": 4.3,
+      "ielts": null,
+      "toefl": 100,
+      "gre": 324,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "ETH Zurich",
+          "programme": "MS in Earth Science",
+          "result": "admit"
+        },
+        {
+          "university": "TUDelft + ETHz + RWTH (IDEA League)",
+          "programme": "MS Offer（双学位半奖）",
+          "result": "admit"
+        },
+        {
+          "university": "Columbia",
+          "programme": "降录为MS",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/taoyc21.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/taoyc21.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 91.35,
+      "gpaScale": 100,
+      "ielts": null,
+      "toefl": 106,
+      "gre": 322,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "HKUST",
+          "programme": "MSAI",
+          "result": "admit"
+        },
+        {
+          "university": "CUHK",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "Notre Dame",
+          "programme": "MSCSE",
+          "result": "admit"
+        },
+        {
+          "university": "UCSD",
+          "programme": "CS75",
+          "result": "admit"
+        },
+        {
+          "university": "NTU",
+          "programme": "MSAI",
+          "result": "admit"
+        },
+        {
+          "university": "CMU",
+          "programme": "MIIS",
+          "result": "admit"
+        },
+        {
+          "university": "USC",
+          "programme": "CS28",
+          "result": "admit"
+        },
+        {
+          "university": "JHU",
+          "programme": "MSCSE",
+          "result": "admit"
+        },
+        {
+          "university": "UChicago",
+          "programme": "MPCS",
+          "result": "reject"
+        },
+        {
+          "university": "GaTech",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "Cornell",
+          "programme": "MengCS",
+          "result": "reject"
+        },
+        {
+          "university": "CMU",
+          "programme": "MSAIM",
+          "result": "reject"
+        },
+        {
+          "university": "CMU",
+          "programme": "MSAIE",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wangc17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wangc17.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.61,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 109,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "University of California, Berkeley",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "Harvard University",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "Johns Hopkins University",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "UC San Francisco",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "Duke University",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "Washington University in St. Louis",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "Columbia University",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "UC Los Angeles",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "University of Pennsylvania",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "Baylor College of Medicine",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "Northwestern University",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "UC Irvine",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "Brandeis University",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        },
+        {
+          "university": "University of Pittsburgh",
+          "programme": "Neuroscience PhD Programs",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wangjh19.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wangjh19.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.88,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北京大学",
+          "programme": "物理学院凝聚态物理直博",
+          "result": "other"
+        },
+        {
+          "university": "清华大学",
+          "programme": "物理学院凝聚态物理直博",
+          "result": "reject"
+        },
+        {
+          "university": "复旦大学",
+          "programme": "物理学院凝聚态物理硕士",
+          "result": "reject"
+        },
+        {
+          "university": "南京大学",
+          "programme": "物理学院",
+          "result": "reject"
+        },
+        {
+          "university": "中国科学技术大学",
+          "programme": "合肥微尺度物质科学国家研究中心",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wangl14.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wangl14.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.95,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": 320,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Georgetown",
+          "programme": "Biostat",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wangdy16/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wangdy16/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.84,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 105,
+      "gre": 325,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "NYU Shanghai&Stern",
+          "programme": "MS in Quantitiative Finance",
+          "result": "admit"
+        },
+        {
+          "university": "NYU Tandon",
+          "programme": "MS in Financial Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "USC",
+          "programme": "MS in Financial Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "UW Seattle",
+          "programme": "MS in Computational Finance and Risk Management",
+          "result": "admit"
+        },
+        {
+          "university": "UMich Ann Arbor",
+          "programme": "MS in Quantitative Finance and Risk Management",
+          "result": "admit"
+        },
+        {
+          "university": "EPFL",
+          "programme": "MS in Financial Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "MIT",
+          "programme": "MS in Finance",
+          "result": "reject"
+        },
+        {
+          "university": "CMU",
+          "programme": "MS in Computational Finance",
+          "result": "reject"
+        },
+        {
+          "university": "Cornell",
+          "programme": "MS in Financial Engineering",
+          "result": "reject"
+        },
+        {
+          "university": "NTU",
+          "programme": "MS in Financial Engineering",
+          "result": "other"
+        },
+        {
+          "university": "UChicago",
+          "programme": "MS in Financial Mathematics",
+          "result": "other"
+        },
+        {
+          "university": "Columbia",
+          "programme": "MS in Financial Engineering",
+          "result": "other"
+        },
+        {
+          "university": "GaTech",
+          "programme": "MS in Quantitative and Computational Fianance",
+          "result": "other"
+        },
+        {
+          "university": "Baruch",
+          "programme": "MS in Financial Engineering",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wangsc18.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wangsc18.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.81,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 107,
+      "gre": 330,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "苏黎世联邦理工学院",
+          "programme": "MS in BME",
+          "result": "admit"
+        },
+        {
+          "university": "洛桑联邦理工学院",
+          "programme": "MS in Life Science Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "瑞典皇家理工",
+          "programme": "MS in Medical Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "波士顿大学",
+          "programme": "MS in BME",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wangwh21.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wangwh21.md",
+      "undergrad": "南方科技大学",
+      "year": 2026,
+      "gpa": 3.91,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 108,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "新加坡国立大学",
+          "programme": "PhD in Chemistry @ NUS",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wangyh18.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wangyh18.md",
+      "undergrad": "南方科技大学",
+      "year": 2022,
+      "gpa": 3.78,
+      "gpaScale": 4,
+      "ielts": 7,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "KCL",
+          "programme": "Microbiome in Health & Disease MSc",
+          "result": "admit"
+        },
+        {
+          "university": "Glasgow",
+          "programme": "Bioinformatics MSc",
+          "result": "admit"
+        },
+        {
+          "university": "Bristol",
+          "programme": "Bioinformatics MSc",
+          "result": "reject"
+        },
+        {
+          "university": "UCL",
+          "programme": "Biochemical Engineering MSc",
+          "result": "admit"
+        },
+        {
+          "university": "NTU",
+          "programme": "Biomedical Data Science MSc",
+          "result": "other"
+        },
+        {
+          "university": "NUS",
+          "programme": "Biotechnology MSc",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "Biomedical Engineering MSc",
+          "result": "admit"
+        },
+        {
+          "university": "CUHK",
+          "programme": "Biomedical and Biochemical Science MSc",
+          "result": "other"
+        },
+        {
+          "university": "HKUST(GZ)",
+          "programme": "Individualized Interdisciplinary Program MPhil",
+          "result": "reject"
+        },
+        {
+          "university": "KAUST",
+          "programme": "Bioengineering MSc",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wangyr15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wangyr15.md",
+      "undergrad": "南方科技大学",
+      "year": 2015,
+      "gpa": 3.59,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 90,
+      "gre": null,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "CUHK(SZ)",
+          "programme": "Master of Accounting",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wangyh16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wangyh16.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.88,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 106,
+      "gre": 322,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Penn State",
+          "programme": "PhD in Physics",
+          "result": "admit"
+        },
+        {
+          "university": "U Florida",
+          "programme": "PhD in Physics",
+          "result": "admit"
+        },
+        {
+          "university": "UT-Austin",
+          "programme": "PhD in Physics",
+          "result": "admit"
+        },
+        {
+          "university": "WUSTL",
+          "programme": "PhD in MSE",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "PhD in Mechanobiology (NGS)",
+          "result": "admit"
+        },
+        {
+          "university": "UIUC",
+          "programme": "PhD in Physics",
+          "result": "admit"
+        },
+        {
+          "university": "UC Berkeley",
+          "programme": "PhD in Physics",
+          "result": "reject"
+        },
+        {
+          "university": "Cornell",
+          "programme": "PhD in Physics",
+          "result": "reject"
+        },
+        {
+          "university": "Columbia",
+          "programme": "PhD in Physics",
+          "result": "reject"
+        },
+        {
+          "university": "UCSD",
+          "programme": "PhD in Physics",
+          "result": "reject"
+        },
+        {
+          "university": "U Washington",
+          "programme": "PhD in Physics",
+          "result": "reject"
+        },
+        {
+          "university": "U Michigan",
+          "programme": "PhD in Applied Physics",
+          "result": "reject"
+        },
+        {
+          "university": "Maryland",
+          "programme": "PhD in MSE",
+          "result": "reject"
+        },
+        {
+          "university": "HKU",
+          "programme": "PhD in EE",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/wenjp18.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/wenjp18.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.88,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 83,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "清华大学",
+          "programme": "经管学院金融硕士",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/xiedn15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/xiedn15.md",
+      "undergrad": "南方科技大学",
+      "year": 2015,
+      "gpa": 3.85,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 106,
+      "gre": 323,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Duke",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "USC",
+          "programme": "MSCS Spring",
+          "result": "admit"
+        },
+        {
+          "university": "CMU",
+          "programme": "MCDS",
+          "result": "reject"
+        },
+        {
+          "university": "CMU",
+          "programme": "MSAII",
+          "result": "reject"
+        },
+        {
+          "university": "CMU",
+          "programme": "MIIS",
+          "result": "reject"
+        },
+        {
+          "university": "UTAustin",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "UIUC",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "UCSD",
+          "programme": "MSCS(CS75)",
+          "result": "reject"
+        },
+        {
+          "university": "UMich",
+          "programme": "MS/PhD",
+          "result": "reject"
+        },
+        {
+          "university": "UWMadison",
+          "programme": "MS/PhD",
+          "result": "reject"
+        },
+        {
+          "university": "UMass",
+          "programme": "MS/PhD",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/xuyc16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/xuyc16.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.94,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 108,
+      "gre": 336,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "NYU",
+          "programme": "Math(master)",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yangrg22.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yangrg22.md",
+      "undergrad": "南方科技大学",
+      "year": 26,
+      "gpa": 3.78,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 105,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "USC",
+          "programme": "PhD",
+          "result": "reject"
+        },
+        {
+          "university": "UWseattle",
+          "programme": "PhD",
+          "result": "reject"
+        },
+        {
+          "university": "Columbia University",
+          "programme": "PhD",
+          "result": "other"
+        },
+        {
+          "university": "UCDavis",
+          "programme": "PhD",
+          "result": "other"
+        },
+        {
+          "university": "UIUC",
+          "programme": "PhD",
+          "result": "other"
+        },
+        {
+          "university": "Gatech",
+          "programme": "PhD",
+          "result": "other"
+        },
+        {
+          "university": "UCLA",
+          "programme": "PhD",
+          "result": "other"
+        },
+        {
+          "university": "NYU",
+          "programme": "PhD",
+          "result": "other"
+        },
+        {
+          "university": "UCI",
+          "programme": "SE PhD",
+          "result": "other"
+        },
+        {
+          "university": "UCSB",
+          "programme": "PhD",
+          "result": "other"
+        },
+        {
+          "university": "NEU",
+          "programme": "PhD",
+          "result": "admit"
+        },
+        {
+          "university": "Wiliam & Mary",
+          "programme": "PhD",
+          "result": "other"
+        },
+        {
+          "university": "IUB",
+          "programme": "PhD",
+          "result": "admit"
+        },
+        {
+          "university": "VT",
+          "programme": "PhD",
+          "result": "waitlist"
+        },
+        {
+          "university": "UCRiverside",
+          "programme": "PhD",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/xiangyz18.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/xiangyz18.md",
+      "undergrad": "南方科技大学",
+      "year": 2018,
+      "gpa": 3.8,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 101,
+      "gre": 319,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "苏黎世联邦理工学院（ETH Zürich）",
+          "programme": "机器人、系统与控制硕士（MS in Robotics, Systems and Control）",
+          "result": "admit"
+        },
+        {
+          "university": "苏黎世联邦理工学院（ETH Zürich）",
+          "programme": "机械工程硕士（MS in ME）",
+          "result": "admit"
+        },
+        {
+          "university": "代尔夫特理工大学 (TU Delft)",
+          "programme": "机器人学硕士 (MS in Robotics)",
+          "result": "admit"
+        },
+        {
+          "university": "密歇根大学安娜堡分校（UMich Ann Arbor）",
+          "programme": "机器人学硕士（MS in Robotics）",
+          "result": "waitlist"
+        },
+        {
+          "university": "密歇根大学安娜堡分校（UMich Ann Arbor）",
+          "programme": "机械工程硕士（MS in ME）",
+          "result": "admit"
+        },
+        {
+          "university": "宾夕法尼亚大学（UPenn）",
+          "programme": "机械工程硕士（MS in ME）",
+          "result": "admit"
+        },
+        {
+          "university": "加州大学伯克利分校（UC Berkeley）",
+          "programme": "机械工程工程硕士（MEng in ME）",
+          "result": "admit"
+        },
+        {
+          "university": "康奈尔大学（Cornell）",
+          "programme": "机械工程工程硕士（MEng in ME）",
+          "result": "admit"
+        },
+        {
+          "university": "洛桑联邦理工学院（EPFL）",
+          "programme": "机械工程硕士（MS in ME）",
+          "result": "reject"
+        },
+        {
+          "university": "宾夕法尼亚大学（UPenn）",
+          "programme": "机器人学硕士（MS in Robotics）",
+          "result": "reject"
+        },
+        {
+          "university": "卡耐基梅隆大学（CMU）",
+          "programme": "机械工程硕士（MS in ME）",
+          "result": "reject"
+        },
+        {
+          "university": "密歇根大学安娜堡分校（UMich Ann Arbor）",
+          "programme": "电子与计算机工程硕士（MS in ECE）",
+          "result": "reject"
+        },
+        {
+          "university": "加州大学圣地亚哥分校（UC San Diego）",
+          "programme": "电子与计算机工程硕士（MS in ECE）",
+          "result": "reject"
+        },
+        {
+          "university": "西北大学（NU）",
+          "programme": "机器人学硕士（MS in Robotics）",
+          "result": "reject"
+        },
+        {
+          "university": "西北大学（NU）",
+          "programme": "机械工程硕士（MS in ME）",
+          "result": "reject"
+        },
+        {
+          "university": "麻省理工学院（MIT）",
+          "programme": "机械工程硕士（MS in ME）",
+          "result": "other"
+        },
+        {
+          "university": "佐治亚理工学院（Gatech）",
+          "programme": "机器人学硕士（MS in Robotics）",
+          "result": "other"
+        },
+        {
+          "university": "约翰霍普金斯大学（JHU）",
+          "programme": "机器人学硕士（MS in Robotics）",
+          "result": "other"
+        },
+        {
+          "university": "多伦多大学（UofT）",
+          "programme": "机械工程硕士（MASC in ME）",
+          "result": "other"
+        },
+        {
+          "university": "卡耐基梅隆大学（CMU）",
+          "programme": "机器人学硕士（MS in Robotics）",
+          "result": "other"
+        },
+        {
+          "university": "哥伦比亚大学（Columbia）",
+          "programme": "机械工程硕士（MS in ME）",
+          "result": "other"
+        },
+        {
+          "university": "杜克大学（Duke）",
+          "programme": "机械工程硕士（MS in ME）",
+          "result": "other"
+        },
+        {
+          "university": "伊利诺伊大学香槟分校(UIUC)",
+          "programme": "自动系统和机器人学硕士(MS in Autonomous Systems and Robotics)",
+          "result": "other"
+        },
+        {
+          "university": "南加州大学(USC)",
+          "programme": "计算机科学硕士(MS in CS)",
+          "result": "other"
+        },
+        {
+          "university": "东北大学(NEU)",
+          "programme": "计算机科学硕士(Align MS in CS)",
+          "result": "other"
+        },
+        {
+          "university": "卡耐基梅隆大学(CMU)",
+          "programme": "其他硕士项目",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yangzy16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yangzy16.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.53,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 100,
+      "gre": 319,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "UMD",
+          "programme": "MS in Business Analytics",
+          "result": "admit"
+        },
+        {
+          "university": "GWU",
+          "programme": "Business Analytics",
+          "result": "admit"
+        },
+        {
+          "university": "UConn",
+          "programme": "Business Analytics",
+          "result": "admit"
+        },
+        {
+          "university": "NEU",
+          "programme": "Business Analytics (MSBA)",
+          "result": "admit"
+        },
+        {
+          "university": "Rutgers",
+          "programme": "Financial Statistics and Risk Management",
+          "result": "admit"
+        },
+        {
+          "university": "Fordham",
+          "programme": "Global Finance (MSGF)",
+          "result": "admit"
+        },
+        {
+          "university": "JHU",
+          "programme": "Finance (MSF)",
+          "result": "admit"
+        },
+        {
+          "university": "UR",
+          "programme": "Finance",
+          "result": "waitlist"
+        },
+        {
+          "university": "BU",
+          "programme": "Business Analytics",
+          "result": "waitlist"
+        },
+        {
+          "university": "UIUC",
+          "programme": "Finance",
+          "result": "reject"
+        },
+        {
+          "university": "RPI",
+          "programme": "Business Analytics",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yangwhf19.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yangwhf19.md",
+      "undergrad": "南方科技大学",
+      "year": 2024,
+      "gpa": 3.73,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 106,
+      "gre": 156,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "City University of Hong Kong",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "University of Washington(Tacoma)",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "Northeastern University(Silicon Valley)",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "University of Southern California",
+          "programme": "MSCE",
+          "result": "admit"
+        },
+        {
+          "university": "Rice University",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "Boston University",
+          "programme": "MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "National University of Singapore",
+          "programme": "CS general track",
+          "result": "reject"
+        },
+        {
+          "university": "New York University Tandon",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "Carnegie Mellon University(Silicon Valley)",
+          "programme": "MSSE",
+          "result": "reject"
+        },
+        {
+          "university": "University of California Irvine",
+          "programme": "MSWE",
+          "result": "reject"
+        },
+        {
+          "university": "University of California San Diego",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "University of California Davis",
+          "programme": "MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "University of Southern California",
+          "programme": "MSCS(CS28)",
+          "result": "reject"
+        },
+        {
+          "university": "Texas A&M University",
+          "programme": "MSCS",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yaoy15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yaoy15.md",
+      "undergrad": "南方科技大学",
+      "year": 2015,
+      "gpa": 3.79,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 87,
+      "gre": 316,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "HKUST",
+          "programme": "PhD in Environmental Science",
+          "result": "other"
+        },
+        {
+          "university": "CMU",
+          "programme": "MS in Environmental Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "CUHK",
+          "programme": "MS in Geoinformation Science",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yeym16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yeym16.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.47,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 107,
+      "gre": 319,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Columbia University",
+          "programme": "MS in Biomedical Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "Cornell",
+          "programme": "Meng",
+          "result": "other"
+        },
+        {
+          "university": "CMU",
+          "programme": "MS",
+          "result": "other"
+        },
+        {
+          "university": "NUS",
+          "programme": "MS",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yua20/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yua20/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.42,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 98,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Rensselaer Polytechnic Institute",
+          "programme": "PhD in Computer & System Engineering",
+          "result": "admit"
+        },
+        {
+          "university": "Rice",
+          "programme": "CS",
+          "result": "other"
+        },
+        {
+          "university": "University of Rochester",
+          "programme": "CE",
+          "result": "other"
+        },
+        {
+          "university": "NEU",
+          "programme": "CS",
+          "result": "other"
+        },
+        {
+          "university": "ASU",
+          "programme": "CS",
+          "result": "other"
+        },
+        {
+          "university": "UVA",
+          "programme": "CS",
+          "result": "other"
+        },
+        {
+          "university": "IUB",
+          "programme": "CS",
+          "result": "other"
+        },
+        {
+          "university": "TTIC",
+          "programme": "CS",
+          "result": "other"
+        },
+        {
+          "university": "NJIT",
+          "programme": "CS",
+          "result": "other"
+        },
+        {
+          "university": "RIT",
+          "programme": "CS",
+          "result": "other"
+        },
+        {
+          "university": "Auburn",
+          "programme": "CS",
+          "result": "other"
+        },
+        {
+          "university": "UAlbany",
+          "programme": "CS",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yuanjd15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yuanjd15.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.74,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 94,
+      "gre": 320,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "TAMU",
+          "programme": "PhD EE",
+          "result": "admit"
+        },
+        {
+          "university": "ASU",
+          "programme": "MS EE",
+          "result": "admit"
+        },
+        {
+          "university": "NYU",
+          "programme": "MS CE",
+          "result": "admit"
+        },
+        {
+          "university": "NEU",
+          "programme": "MS CE",
+          "result": "admit"
+        },
+        {
+          "university": "USC",
+          "programme": "MS EE & CE",
+          "result": "admit"
+        },
+        {
+          "university": "UT Dallas",
+          "programme": "MS EE",
+          "result": "admit"
+        },
+        {
+          "university": "UCLA",
+          "programme": "PhD EE",
+          "result": "reject"
+        },
+        {
+          "university": "UCSD",
+          "programme": "MS EE",
+          "result": "reject"
+        },
+        {
+          "university": "Cornell",
+          "programme": "MEng EE",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yunzx19.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yunzx19.md",
+      "undergrad": "南方科技大学",
+      "year": 2023,
+      "gpa": 3.68,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 108,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "卡耐基梅隆大学（CMU）",
+          "programme": "移动和物联网工程硕士（MS in Mobile and IoT Engineering ）a.k.a., MSMITE）",
+          "result": "admit"
+        },
+        {
+          "university": "华盛顿大学西雅图（UW Seattle）",
+          "programme": "电子工程硕士（MS in Electrical Engineering ）a.k.a., MSEE，24年开始可能会更名为MSECE）",
+          "result": "admit"
+        },
+        {
+          "university": "加州大学伯克利（UC Berkeley）",
+          "programme": "发展工程硕士（Master in Development Engineering）",
+          "result": "waitlist"
+        },
+        {
+          "university": "麻省理工大学（MIT）",
+          "programme": "Media Lab（MS in Media Arts & Science）",
+          "result": "reject"
+        },
+        {
+          "university": "斯坦福大学（Stanford）",
+          "programme": "电子工程硕士（MSEE）",
+          "result": "reject"
+        },
+        {
+          "university": "宾夕法尼亚大学（UPenn）",
+          "programme": "计算机硕士（CIS）",
+          "result": "reject"
+        },
+        {
+          "university": "康奈尔大学（Cornell）",
+          "programme": "电子与计算机工程硕士（MSECE）",
+          "result": "reject"
+        },
+        {
+          "university": "杜克大学（Duke）",
+          "programme": "电子与计算机工程硕士（MSECE）",
+          "result": "reject"
+        },
+        {
+          "university": "密歇根大学安娜堡（UMich）",
+          "programme": "计算机科学与工程硕士（MSCSE）",
+          "result": "reject"
+        },
+        {
+          "university": "卡耐基梅隆大学（CMU）",
+          "programme": "电子与计算机工程硕士（MSECE）",
+          "result": "reject"
+        },
+        {
+          "university": "佐治亚理工大学（GaTech）",
+          "programme": "计算科学与工程硕士硕士（MSCSE）",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yutg19.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yutg19.md",
+      "undergrad": "南方科技大学",
+      "year": 2024,
+      "gpa": 3.86,
+      "gpaScale": 4,
+      "ielts": 7,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "上海交通大学",
+          "programme": "设计学院 工业设计工程专硕 IIDE",
+          "result": "admit"
+        },
+        {
+          "university": "同济大学",
+          "programme": "设计创意学院 创新设计与创业方向夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "清华大学",
+          "programme": "美术学院 清华大学—美国华盛顿大学“智慧互联”双硕士学位项目（设计学方向）",
+          "result": "admit"
+        },
+        {
+          "university": "MIT",
+          "programme": "Mechanical Engineering (SM)",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/yuys18.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/yuys18.md",
+      "undergrad": "南方科技大学",
+      "year": 2022,
+      "gpa": 3.79,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 108,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "圣路易斯华盛顿大学",
+          "programme": "MS Finance (Track: Quant Finance )",
+          "result": "admit"
+        },
+        {
+          "university": "香港大学",
+          "programme": "MEcon (Track: Theory Stream) + 40% scholarship",
+          "result": "admit"
+        },
+        {
+          "university": "约翰斯·霍普金斯大学",
+          "programme": "M.A. in International Economics and Finance",
+          "result": "admit"
+        },
+        {
+          "university": "杜克大学",
+          "programme": "M.A. Economics",
+          "result": "admit"
+        },
+        {
+          "university": "芝加哥大学",
+          "programme": "Master of Arts in Public Policy with Certificate in Research Methods (MACRM)",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhangst15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhangst15.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.67,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北京大学",
+          "programme": "创新菁英计划+硕士",
+          "result": "admit"
+        },
+        {
+          "university": "清华大学深研院",
+          "programme": "精准医学与公共健康+硕士",
+          "result": "admit"
+        },
+        {
+          "university": "清华大学",
+          "programme": "叉院+硕士",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhangyj21.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhangyj21.md",
+      "undergrad": "南方科技大学",
+      "year": 2025,
+      "gpa": 3.7,
+      "gpaScale": 4,
+      "ielts": 6.5,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "CUHK",
+          "programme": "CS",
+          "result": "admit"
+        },
+        {
+          "university": "HKUST",
+          "programme": "TLE",
+          "result": "admit"
+        },
+        {
+          "university": "NTU",
+          "programme": "SPML",
+          "result": "admit"
+        },
+        {
+          "university": "HKU",
+          "programme": "IDT",
+          "result": "admit"
+        },
+        {
+          "university": "NTU",
+          "programme": "MSIS",
+          "result": "admit"
+        },
+        {
+          "university": "HKUST",
+          "programme": "IT",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "CE",
+          "result": "reject"
+        },
+        {
+          "university": "NUS",
+          "programme": "EDI",
+          "result": "reject"
+        },
+        {
+          "university": "NUS",
+          "programme": "Mcomp",
+          "result": "other"
+        },
+        {
+          "university": "HKUST",
+          "programme": "BDT",
+          "result": "other"
+        },
+        {
+          "university": "CUHK",
+          "programme": "SEEM",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhangc19.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhangc19.md",
+      "undergrad": "南方科技大学",
+      "year": 2023,
+      "gpa": 3.91,
+      "gpaScale": 4,
+      "ielts": 7,
+      "toefl": null,
+      "gre": 324,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "卡耐基梅隆大学",
+          "programme": "机器学习硕士 (CMU MSML)",
+          "result": "admit"
+        },
+        {
+          "university": "Columbia University",
+          "programme": "计算机科学硕士 (Columbia MSCS)",
+          "result": "admit"
+        },
+        {
+          "university": "卡耐基梅隆大学",
+          "programme": "电子与计算机工程硕士 (CMU MSECE)",
+          "result": "admit"
+        },
+        {
+          "university": "卡耐基梅隆大学",
+          "programme": "信息网络硕士 (CMU MSIN)",
+          "result": "admit"
+        },
+        {
+          "university": "加州大学圣迭戈分校",
+          "programme": "电子与计算机工程硕士 (UCSD EC93)",
+          "result": "admit"
+        },
+        {
+          "university": "卡耐基梅隆大学",
+          "programme": "计算机视觉硕士 (CMU MSCV)",
+          "result": "reject"
+        },
+        {
+          "university": "Harvard University",
+          "programme": "数据科学 (Harvard DS)",
+          "result": "reject"
+        },
+        {
+          "university": "卡耐基梅隆大学",
+          "programme": "智能信息系统硕士 (CMU MIIS)",
+          "result": "reject"
+        },
+        {
+          "university": "卡耐基梅隆大学",
+          "programme": "计算机科学硕士 (CMU MSCS)",
+          "result": "reject"
+        },
+        {
+          "university": "卡耐基梅隆大学",
+          "programme": "计算设计与计算机硕士 (CMU MCDS)",
+          "result": "reject"
+        },
+        {
+          "university": "EPFL",
+          "programme": "计算机科学硕士 (EPFL MSCS)",
+          "result": "reject"
+        },
+        {
+          "university": "卡耐基梅隆大学",
+          "programme": "应用人工智能硕士 (CMU MSAII)",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhangz17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhangz17.md",
+      "undergrad": "南方科技大学",
+      "year": 2017,
+      "gpa": 3.77,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 104,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "UPenn",
+          "programme": "Bioengineering Ph.D.",
+          "result": "admit"
+        },
+        {
+          "university": "UIUC",
+          "programme": "PhD Bioengineering",
+          "result": "other"
+        },
+        {
+          "university": "NUS",
+          "programme": "PhD Mechanobiology",
+          "result": "other"
+        },
+        {
+          "university": "University of Copenhagen",
+          "programme": "MS Biotechnology",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhaoyc16/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhaoyc16/index.md",
+      "undergrad": "南方科技大学",
+      "year": null,
+      "gpa": 3.86,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "清华大学",
+          "programme": "经管学院金融硕士",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhaolm15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhaolm15.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.92,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": 324,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Cornell",
+          "programme": "Mechanical Engineering PhD",
+          "result": "admit"
+        },
+        {
+          "university": "UCLA",
+          "programme": "MSE PhD",
+          "result": "admit"
+        },
+        {
+          "university": "Duke",
+          "programme": "Mechanical Engineering and Materials Science PhD",
+          "result": "admit"
+        },
+        {
+          "university": "UCB",
+          "programme": "Mechanical Engineering PhD",
+          "result": "waitlist"
+        },
+        {
+          "university": "Gatech",
+          "programme": "MSE PhD",
+          "result": "waitlist"
+        },
+        {
+          "university": "Rice",
+          "programme": "MSE PhD",
+          "result": "waitlist"
+        },
+        {
+          "university": "MIT",
+          "programme": "MSE PhD",
+          "result": "reject"
+        },
+        {
+          "university": "Stanford",
+          "programme": "MSE PhD",
+          "result": "reject"
+        },
+        {
+          "university": "Caltech",
+          "programme": "Mechanical Engineering PhD",
+          "result": "reject"
+        },
+        {
+          "university": "Northwestern",
+          "programme": "MSE PhD",
+          "result": "reject"
+        },
+        {
+          "university": "Upenn",
+          "programme": "MSE PhD",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhaoez21.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhaoez21.md",
+      "undergrad": "南方科技大学",
+      "year": 25,
+      "gpa": 3.89,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 96,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "华盛顿大学圣路易斯分校",
+          "programme": "PhD in Biomedical Engineering @ Washington University in St. Louis",
+          "result": "admit"
+        },
+        {
+          "university": "加州大学尔湾分校",
+          "programme": "PhD in Biomedical Engineering @ UCI",
+          "result": "admit"
+        },
+        {
+          "university": "东北大学",
+          "programme": "PhD in Bioengineering @ Northeastern University",
+          "result": "admit"
+        },
+        {
+          "university": "西北大学",
+          "programme": "Ms in Biomedical Engineering @ Northwestern University",
+          "result": "admit"
+        },
+        {
+          "university": "科罗拉多大学博尔德分校",
+          "programme": "Ms in Biomedical Engineering @ University of Colorado-Boulder",
+          "result": "admit"
+        },
+        {
+          "university": "普渡大学",
+          "programme": "PhD in Mechanical Engineering @ Purdue University",
+          "result": "admit"
+        },
+        {
+          "university": "梅奥诊所",
+          "programme": "PhD in Biomedical Engineering and Physiology (BMEP) @ Mayo Clinic",
+          "result": "reject"
+        },
+        {
+          "university": "密西根大学",
+          "programme": "PhD in Biomedical Engineering @ University of Michigan",
+          "result": "reject"
+        },
+        {
+          "university": "宾州州立大学",
+          "programme": "PhD in Biomedical Engineering @ Penn State University",
+          "result": "reject"
+        },
+        {
+          "university": "哥伦比亚大学",
+          "programme": "PhD in Biomedical Engineering @ Columbia University",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhengsh17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhengsh17.md",
+      "undergrad": "南方科技大学",
+      "year": 17,
+      "gpa": 3.84,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 107,
+      "gre": 322,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "东京大学-IME-EEIS",
+          "programme": "EEIS(Electrical Engineering and Information Systems)修士",
+          "result": "admit"
+        },
+        {
+          "university": "EPFL",
+          "programme": "Life Sciences Engineering Master program",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhongwz15.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhongwz15.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.77,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 91,
+      "gre": 312,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "SBU",
+          "programme": "CS PhD",
+          "result": "reject"
+        },
+        {
+          "university": "UIUC",
+          "programme": "CS PhD",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhongzy21.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhongzy21.md",
+      "undergrad": "南方科技大学",
+      "year": 2025,
+      "gpa": 3.94,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 109,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "UC Santa Barbara",
+          "programme": "CS PhD",
+          "result": "other"
+        },
+        {
+          "university": "Ohio State University",
+          "programme": "CS PhD",
+          "result": "other"
+        },
+        {
+          "university": "University of Utah",
+          "programme": "CS PhD",
+          "result": "admit"
+        },
+        {
+          "university": "University of Connecticut",
+          "programme": "CS PhD",
+          "result": "other"
+        },
+        {
+          "university": "University of Georgia",
+          "programme": "CS PhD",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhoual18.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhoual18.md",
+      "undergrad": "南方科技大学",
+      "year": 2022,
+      "gpa": 3.85,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 107,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "卡内基梅隆大学",
+          "programme": "计算数据科学硕士 CMU MCDS",
+          "result": "admit"
+        },
+        {
+          "university": "卡内基梅隆大学",
+          "programme": "信息网络硕士 CMU MSIN",
+          "result": "admit"
+        },
+        {
+          "university": "卡内基梅隆大学",
+          "programme": "信息管理学硕士 CMU MISM",
+          "result": "admit"
+        },
+        {
+          "university": "加州大学伯克利分校",
+          "programme": "工业工程与运筹学金融科技硕士 UC Berkeley IEOR Meng Fintech",
+          "result": "admit"
+        },
+        {
+          "university": "哥伦比亚大学",
+          "programme": "计算机科学硕士 Colombia MSCS",
+          "result": "admit"
+        },
+        {
+          "university": "纽约大学",
+          "programme": "计算机工程硕士 NYU MSCE",
+          "result": "admit"
+        },
+        {
+          "university": "卡内基梅隆大学",
+          "programme": "人机交互专业硕士 CMU MHCI",
+          "result": "reject"
+        },
+        {
+          "university": "布朗大学",
+          "programme": "计算机科学硕士 Brown MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "莱斯大学",
+          "programme": "计算机科学硕士 Rice MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "康奈尔大学",
+          "programme": "计算机科学硕士 Cornell MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "加州大学圣地亚哥分校",
+          "programme": "计算机科学硕士 UCSD CS75",
+          "result": "reject"
+        },
+        {
+          "university": "佐治亚理工大学",
+          "programme": "人机交互硕士 Georgia Tech HCI",
+          "result": "reject"
+        },
+        {
+          "university": "加州大学洛杉矶分校",
+          "programme": "计算机科学硕士 UCLA MSCS",
+          "result": "reject"
+        },
+        {
+          "university": "南加州大学",
+          "programme": "计算机科学硕士 USC CS28",
+          "result": "other"
+        },
+        {
+          "university": "新加坡国立大学",
+          "programme": "计算机科学硕士 NUS MSCS",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhuyy17.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhuyy17.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.5,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "HEC Paris",
+          "programme": "MiM (Master in Management) Grande Ecole",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhouj16.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhouj16.md",
+      "undergrad": "南方科技大学",
+      "year": 2020,
+      "gpa": 3.92,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "KAUST",
+          "programme": "MS/PhD in Computer Science",
+          "result": "admit"
+        },
+        {
+          "university": "马普所",
+          "programme": "<UNKNOWN>",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "SUSTech-Application/SUSTechapplication",
+      "file": "content/post/zhouky21/index.md",
+      "url": "https://github.com/SUSTech-Application/SUSTechapplication/blob/HEAD/content/post/zhouky21/index.md",
+      "undergrad": "南方科技大学",
+      "year": 2021,
+      "gpa": 3.93,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": 103,
+      "gre": 326,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "Aalto",
+          "programme": "MS HCI",
+          "result": "admit"
+        },
+        {
+          "university": "KTH",
+          "programme": "Interactive Media Technology (IMT)",
+          "result": "admit"
+        },
+        {
+          "university": "TUDelft",
+          "programme": "Design for Interaction (DFI)",
+          "result": "admit"
+        },
+        {
+          "university": "EIT 项目",
+          "programme": "Physical Interaction Design and Realization",
+          "result": "admit"
+        },
+        {
+          "university": "Umich",
+          "programme": "Master of Science in Information (MSI)",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "Engineering Design & Innovation (EDI)",
+          "result": "admit"
+        },
+        {
+          "university": "NUS",
+          "programme": "Division of Industrial Design (DID)",
+          "result": "admit"
+        },
+        {
+          "university": "Polimi",
+          "programme": "Digital and Interaction Design (DID)",
+          "result": "reject"
+        },
+        {
+          "university": "CMU",
+          "programme": "Master of Integrated Innovation for Products & Services (MIIPS)",
+          "result": "reject"
+        },
+        {
+          "university": "UT Austin",
+          "programme": "Master of Science in Information Studies (MSIS)",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "Hainanu-Application/Hainanu-Application.github.io",
+      "file": "docs/personal-summary/cs/18-网络工程-MRK-保研-@UCAS.md",
+      "url": "https://github.com/Hainanu-Application/Hainanu-Application.github.io/blob/HEAD/docs/personal-summary/cs/18-网络工程-MRK-保研-@UCAS.md",
+      "undergrad": "海南大学",
+      "year": 2022,
+      "gpa": 3.71,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "湖南大学",
+          "programme": "<UNKNOWN>",
+          "result": "reject"
+        },
+        {
+          "university": "中国科学院深圳先进技术研究院-数字所",
+          "programme": "<UNKNOWN>",
+          "result": "admit"
+        },
+        {
+          "university": "苏州大学",
+          "programme": "<UNKNOWN>",
+          "result": "other"
+        },
+        {
+          "university": "哈工大威海",
+          "programme": "<UNKNOWN>",
+          "result": "other"
+        },
+        {
+          "university": "上海科技大学",
+          "programme": "<UNKNOWN>",
+          "result": "other"
+        },
+        {
+          "university": "深圳大学",
+          "programme": "<UNKNOWN>",
+          "result": "other"
+        },
+        {
+          "university": "浙大软院",
+          "programme": "<UNKNOWN>",
+          "result": "other"
+        },
+        {
+          "university": "大连理工大学",
+          "programme": "<UNKNOWN>",
+          "result": "other"
+        },
+        {
+          "university": "南京理工大学",
+          "programme": "<UNKNOWN>",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "Hainanu-Application/Hainanu-Application.github.io",
+      "file": "docs/personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md",
+      "url": "https://github.com/Hainanu-Application/Hainanu-Application.github.io/blob/HEAD/docs/personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md",
+      "undergrad": "海南大学",
+      "year": null,
+      "gpa": null,
+      "gpaScale": null,
+      "ielts": 6,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "厦门大学",
+          "programme": "计算机学院 媒体分析与计算实验室（保研，Prof. Rongrong Ji）",
+          "result": "admit"
+        },
+        {
+          "university": "厦门大学",
+          "programme": "计算机学院夏令营",
+          "result": "other"
+        },
+        {
+          "university": "上海科技大学",
+          "programme": "信息科学与技术学院夏令营",
+          "result": "other"
+        },
+        {
+          "university": "南方科技大学",
+          "programme": "计算机系夏令营",
+          "result": "other"
+        },
+        {
+          "university": "山东大学",
+          "programme": "CS（聂礼强老师实验室，学硕申请）",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "Hainanu-Application/Hainanu-Application.github.io",
+      "file": "docs/personal-summary/law/16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学.md",
+      "url": "https://github.com/Hainanu-Application/Hainanu-Application.github.io/blob/HEAD/docs/personal-summary/law/16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学.md",
+      "undergrad": "海南大学",
+      "year": null,
+      "gpa": 3.88,
+      "gpaScale": 4,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "西南政法大学",
+          "programme": "行政法学院夏令营",
+          "result": "other"
+        },
+        {
+          "university": "中国人民大学",
+          "programme": "法硕",
+          "result": "admit"
+        },
+        {
+          "university": "中国政法大学",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "中南大学",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "上海交通大学",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "武汉大学",
+          "programme": "夏令营",
+          "result": "admit"
+        },
+        {
+          "university": "浙江大学",
+          "programme": "夏令营",
+          "result": "reject"
+        },
+        {
+          "university": "华东政法大学",
+          "programme": "法律学院夏令营",
+          "result": "reject"
+        }
+      ]
+    },
+    {
+      "repo": "Hainanu-Application/Hainanu-Application.github.io",
+      "file": "docs/personal-summary/shipin/19-食品质量与安全-黎文凯-保研-@浙江大学.md",
+      "url": "https://github.com/Hainanu-Application/Hainanu-Application.github.io/blob/HEAD/docs/personal-summary/shipin/19-食品质量与安全-黎文凯-保研-@浙江大学.md",
+      "undergrad": "海南大学",
+      "year": null,
+      "gpa": null,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": true,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "浙江大学",
+          "programme": "生物系统工程",
+          "result": "admit"
+        },
+        {
+          "university": "湖南师范大学",
+          "programme": "<UNKNOWN>",
+          "result": "admit"
+        },
+        {
+          "university": "中国海洋大学",
+          "programme": "食品科学与工程",
+          "result": "admit"
+        },
+        {
+          "university": "华南理工大学",
+          "programme": "食品科学与工程",
+          "result": "admit"
+        },
+        {
+          "university": "中国科学院大学中丹学院",
+          "programme": "食品健康与营养",
+          "result": "admit"
+        },
+        {
+          "university": "江南大学",
+          "programme": "<UNKNOWN>",
+          "result": "reject"
+        },
+        {
+          "university": "天津大学",
+          "programme": "<UNKNOWN>",
+          "result": "reject"
+        },
+        {
+          "university": "浙大华大研究所",
+          "programme": "<UNKNOWN>",
+          "result": "reject"
+        },
+        {
+          "university": "中国农业研究院",
+          "programme": "<UNKNOWN>",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "Hainanu-Application/Hainanu-Application.github.io",
+      "file": "docs/personal-summary/sthj/19-生态与环境学院-郭佳慧-留学-@UNC.md",
+      "url": "https://github.com/Hainanu-Application/Hainanu-Application.github.io/blob/HEAD/docs/personal-summary/sthj/19-生态与环境学院-郭佳慧-留学-@UNC.md",
+      "undergrad": "海南大学",
+      "year": null,
+      "gpa": 3.5,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": 90,
+      "gre": null,
+      "research": true,
+      "internships": true,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北卡罗来纳大学教堂山分校（UNC）",
+          "programme": "环境工程硕士",
+          "result": "admit"
+        }
+      ]
+    },
+    {
+      "repo": "west2-online/fzu-run",
+      "file": "docs/postgraduate/buaa/231213-1.md",
+      "url": "https://github.com/west2-online/fzu-run/blob/HEAD/docs/postgraduate/buaa/231213-1.md",
+      "undergrad": "福州大学",
+      "year": null,
+      "gpa": null,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北航计",
+          "programme": "计算机",
+          "result": "admit"
+        },
+        {
+          "university": "华师计",
+          "programme": "计算机",
+          "result": "reject"
+        },
+        {
+          "university": "天大",
+          "programme": "计算机",
+          "result": "admit"
+        },
+        {
+          "university": "国科大信工",
+          "programme": "信息与通信工程",
+          "result": "other"
+        },
+        {
+          "university": "厦大信院",
+          "programme": "计算机",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "west2-online/fzu-run",
+      "file": "docs/postgraduate/buaa/240626-1.md",
+      "url": "https://github.com/west2-online/fzu-run/blob/HEAD/docs/postgraduate/buaa/240626-1.md",
+      "undergrad": "福州大学",
+      "year": 2024,
+      "gpa": null,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "北航计院",
+          "programme": "0835软件工程学硕",
+          "result": "admit"
+        },
+        {
+          "university": "北航软院",
+          "programme": "夏令营",
+          "result": "other"
+        },
+        {
+          "university": "厦大信院",
+          "programme": "夏令营",
+          "result": "other"
+        },
+        {
+          "university": "华师计院",
+          "programme": "夏令营",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "west2-online/fzu-run",
+      "file": "docs/postgraduate/xmu/231218-1.md",
+      "url": "https://github.com/west2-online/fzu-run/blob/HEAD/docs/postgraduate/xmu/231218-1.md",
+      "undergrad": "福州大学",
+      "year": 2023,
+      "gpa": null,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "厦门大学信息学院",
+          "programme": "夏令营",
+          "result": "other"
+        }
+      ]
+    },
+    {
+      "repo": "west2-online/fzu-run",
+      "file": "docs/postgraduate/xmu/250314-1.md",
+      "url": "https://github.com/west2-online/fzu-run/blob/HEAD/docs/postgraduate/xmu/250314-1.md",
+      "undergrad": "福州大学",
+      "year": 2025,
+      "gpa": null,
+      "gpaScale": null,
+      "ielts": null,
+      "toefl": null,
+      "gre": null,
+      "research": false,
+      "internships": false,
+      "workYears": null,
+      "applications": [
+        {
+          "university": "港科大广州丨微电子",
+          "programme": "直博",
+          "result": "reject"
+        },
+        {
+          "university": "上科大&计算所联培(系统方向)",
+          "programme": "硕",
+          "result": "reject"
+        },
+        {
+          "university": "南京大学计算机学院",
+          "programme": "专硕",
+          "result": "reject"
+        },
+        {
+          "university": "哈工威",
+          "programme": "学硕",
+          "result": "reject"
+        },
+        {
+          "university": "中南大学",
+          "programme": "学硕",
+          "result": "reject"
+        },
+        {
+          "university": "同济大学",
+          "programme": "学硕",
+          "result": "reject"
+        },
+        {
+          "university": "中科大–苏州高等研究院",
+          "programme": "专硕",
+          "result": "reject"
+        },
+        {
+          "university": "四川大学 计算机学院",
+          "programme": "学硕",
+          "result": "admit"
+        },
+        {
+          "university": "深圳大学 计算机与软件学院",
+          "programme": "学硕",
+          "result": "admit"
+        },
+        {
+          "university": "南京大学 软件学院",
+          "programme": "专硕",
+          "result": "reject"
+        },
+        {
+          "university": "南京大学 智能软件与工程学院",
+          "programme": "专硕",
+          "result": "reject"
+        },
+        {
+          "university": "上海科技大学 SIST",
+          "programme": "专&学",
+          "result": "admit"
+        },
+        {
+          "university": "中山大学 计算机学院",
+          "programme": "学&专",
+          "result": "reject"
+        },
+        {
+          "university": "华东师大 数据工程学院",
+          "programme": "专",
+          "result": "reject"
+        },
+        {
+          "university": "浙江大学 软件学院",
+          "programme": "专",
+          "result": "other"
+        },
+        {
+          "university": "中山大学 软件学院",
+          "programme": "学&专",
+          "result": "reject"
+        },
+        {
+          "university": "国防科大 计算机学院",
+          "programme": "无区分",
+          "result": "admit"
+        },
+        {
+          "university": "东南大学 计算机学院",
+          "programme": "专硕",
+          "result": "admit"
+        },
+        {
+          "university": "复旦大学",
+          "programme": "工程硕",
+          "result": "reject"
+        },
+        {
+          "university": "南京大学 软/苏软",
+          "programme": "专硕",
+          "result": "reject"
+        },
+        {
+          "university": "同济大学",
+          "programme": "学硕",
+          "result": "reject"
+        },
+        {
+          "university": "厦门大学 信息学院",
+          "programme": "专硕",
+          "result": "admit"
+        }
+      ]
+    }
+  ]
+}

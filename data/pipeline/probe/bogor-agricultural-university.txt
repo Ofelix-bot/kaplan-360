@@ -1,0 +1,100 @@
+# bogor-agricultural-university https://ipb.ac.id
+robots sitemaps: https://www.ipb.ac.id/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.ipb.ac.id/sitemap_index.xml: 55 children (1 course-like)
+sitemap https://www.ipb.ac.id/post-sitemap19.xml: timeout no response in 25000 ms
+sitemap https://www.ipb.ac.id/post-sitemap20.xml: timeout no response in 25000 ms
+sitemap https://www.ipb.ac.id/post-sitemap21.xml: timeout no response in 25000 ms
+sitemap https://www.ipb.ac.id/post-sitemap22.xml: timeout no response in 25000 ms
+sitemap https://www.ipb.ac.id/post-sitemap23.xml: timeout no response in 25000 ms
+sitemap https://www.ipb.ac.id/post-sitemap24.xml: timeout no response in 25000 ms
+sitemaps read 56 · urls 36479 · master's-looking 377
+   92  www.ipb.ac.id/news/index/2023
+         https://www.ipb.ac.id/news/index/2023/03/two-winners-of-the-best-ipb-outstanding-students-2023-undergraduate-and-diploma-levels-officially-inaugurated-inviting-tears-of-happiness-05187db0a7ed9333bbc5e4caae7b8e36/
+         https://www.ipb.ac.id/news/index/2023/03/rector-of-ipb-university-graduated-800-graduates-for-multistrata-education-program-phase-iv-aee4a244ce9fc6470df432e9e514f558/
+         https://www.ipb.ac.id/news/index/2023/03/ipb-university-graduate-school-in-family-science-and-child-development-holds-open-house-2023-09982821ca5925164cc10524c26621ef/
+         https://www.ipb.ac.id/news/index/2023/03/ipb-university-postgraduate-school-explored-opportunities-for-educational-collaboration-programs-with-the-university-of-reading-england-6873bb9fe104f07ca04510b618a20355/
+   59  www.ipb.ac.id/news/index/tag
+         https://www.ipb.ac.id/news/index/tag/50th-anniversary-of-graduate-school/
+         https://www.ipb.ac.id/news/index/tag/50th-anniversary-of-the-graduate-school/
+         https://www.ipb.ac.id/news/index/tag/agromaritime-logistics-master-program/
+         https://www.ipb.ac.id/news/index/tag/applied-undergraduate/
+   54  www.ipb.ac.id/news/index/2024
+         https://www.ipb.ac.id/news/index/2024/01/welcoming-new-students-for-even-semester-2023-2024-ipb-university-graduate-school-holds-public-lecture/
+         https://www.ipb.ac.id/news/index/2024/01/skhb-ipb-university-holds-pre-workshop-for-undergraduate-curriculum-and-veterinary-professional-education-programme/
+         https://www.ipb.ac.id/news/index/2024/01/ipb-university-postgraduate-school-holds-engineers-oath-taking/
+         https://www.ipb.ac.id/news/index/2024/02/ipb-university-graduate-school-conducts-monev-of-bpi-scholarship-recipient-students/
+   37  www.ipb.ac.id/news/index/2018
+         https://www.ipb.ac.id/news/index/2018/01/messages-from-rector-for-ipb-graduates-146d397b54932b519bd9f196d1db2563/
+         https://www.ipb.ac.id/news/index/2018/02/school-of-postgraduate-of-ipb-held-the-curriculum-alignment-workshop-9acb8fe5a7a72c006cbb19887d50f269/
+         https://www.ipb.ac.id/news/index/2018/02/faculty-of-animal-husbandry-of-bogor-agricultural-university-is-ready-to-open-the-graduate-studies-program-on-livestock-logistics-d0afe0a03e75f402f0fd29668147c97d/
+         https://www.ipb.ac.id/news/index/2018/02/prof-erika-graduates-of-ipb-had-high-analysis-abilities-1d90f6064eadbff181529074d05ab6ef/
+   23  www.ipb.ac.id/news/index/2019
+         https://www.ipb.ac.id/news/index/2019/04/ipb-graduation-pre-stadium-generale-challenges-of-graduates-of-higher-education-in-the-disruptive-era-078ae59b6598af1b77d71358890460d8/
+         https://www.ipb.ac.id/news/index/2019/05/ipb-pkspl-graduates-16-students-reliable-for-fish-farming-5298667c50a5cf4a7197eeca36d5b901/
+         https://www.ipb.ac.id/news/index/2019/07/collaboration-between-ipb-university-and-pt-freeport-indonesia-inaugurates-special-classes-for-masters-in-management-and-business-a2d14325acec4d039a09c1477e70c6e9/
+         https://www.ipb.ac.id/news/index/2019/07/ipb-university-vocational-school-graduates-participates-in-pre-graduation-studium-general-7f69f7509c981b0f173dd98f1e352b20/
+   18  www.ipb.ac.id/news/index/2016
+         https://www.ipb.ac.id/news/index/2016/01/ipb-graduation-of-phase-iv-graduates-reach-133779-people-f26793b8c0db0f55c4733959ede807eb/
+         https://www.ipb.ac.id/news/index/2016/01/prof-anas-miftah-fauzi-graduates-should-have-initiative-integrity-and-creative-7deff55fdd8504e74aacd2ef5e53067d/
+         https://www.ipb.ac.id/news/index/2016/01/up-to-now-ipb-has-graduated-7-303-veterinarians-8643e8f59144be44eec91a89cfdfced8/
+         https://www.ipb.ac.id/news/index/2016/03/ipb-produced-another-800-new-graduates-0605e01ec2895e658f08b1d7703682a4/
+   16  www.ipb.ac.id/news/index/2014
+         https://www.ipb.ac.id/news/index/2014/01/faculty-of-agriculture-ipb-graduate-1st-winner-of-indonesian-young-entrepreneurs-8afb62a69c430230b6b5b0f9cfd89943/
+         https://www.ipb.ac.id/news/index/2014/03/ipb-refined-the-draft-of-research-agenda-and-research-master-plan-896d5c99edead5a1d5aadccc130fc3dd/
+         https://www.ipb.ac.id/news/index/2014/03/ipb-inaugurates-800-graduates-7beb7677af949e6f16d86cf333918a60/
+         https://www.ipb.ac.id/news/index/2014/03/rector-of-ipb-so-anxious-for-the-future-of-ipb-graduates-3b856733826958d894bfd5aaab223f22/
+   15  www.ipb.ac.id/news/index/2015
+         https://www.ipb.ac.id/news/index/2015/02/ipb-produced-another-812-new-graduates-26214580ebe20a3557d6198163a9dd98/
+         https://www.ipb.ac.id/news/index/2015/03/studium-generale-of-pre-graduation-of-ipb-graduates-prepared-to-welcome-the-mea-1e4bfac7983338b70c92d3c176b900f9/
+         https://www.ipb.ac.id/news/index/2015/03/800-graduates-of-ipb-were-inaugurated-d58a0b681b5ab88eba67e7b2019cbc81/
+         https://www.ipb.ac.id/news/index/2015/04/ipbs-graduate-students-stage-an-indonesian-postgraduate-student-conference-thursday-april-16-2015-9708b1eb3de379c915709d2ca006d9eb/
+   11  www.ipb.ac.id/news/index/2017
+         https://www.ipb.ac.id/news/index/2017/01/ipb-released-751-best-graduates-8c440d32a16fa1f9f5fbd0f12076040b/
+         https://www.ipb.ac.id/news/index/2017/03/ipb-conferred-750-graduates-in-march-2017-c6287cc05a75ffb1fa5af65613b2f3e9/
+         https://www.ipb.ac.id/news/index/2017/07/cool-students-of-ipb-taught-farmers-to-solve-the-problems-with-statistics-62da9010fc21dff564fdf3f2e7a7053e/
+         https://www.ipb.ac.id/news/index/2017/08/department-of-agroindustrial-technology-of-ipb-produces-high-calibre-graduates-for-the-most-competitive-job-markets-b127e21dbb1794cc893d08a81bbc885a/
+   10  www.ipb.ac.id/news/index/2011
+         https://www.ipb.ac.id/news/index/2011/01/online-registration-for-the-graduate-school-of-ipb-dc5b54ade1b100d671c68d4c21cad7da/
+         https://www.ipb.ac.id/news/index/2011/03/the-gpa-of-ipb-graduates-above-3-0-on-average-63c6db26c321c2dda8a67ecb0ae53434/
+         https://www.ipb.ac.id/news/index/2011/05/bank-syariah-mandiri-bsm-interested-to-recruit-the-ipb-graduates-f3fa656fecaba6ba8a2163f2d2b02040/
+         https://www.ipb.ac.id/news/index/2011/06/congratulation-to-dr-ir-illah-sailah-msc-a26b7dd915e39b9ba35a0276dcdc5db9/
+   10  www.ipb.ac.id/news/index/2012
+         https://www.ipb.ac.id/news/index/2012/04/5-years-is-enough-to-study-at-the-faculty-of-animal-husbandry-and-acquire-both-bachelor-and-master-degrees-5c044aa7481eb3695a982a5ceab83d7a/
+         https://www.ipb.ac.id/news/index/2012/04/graduates-of-sman-2-state-senior-high-school-2-of-north-cikarang-enter-favorite-departments-of-ipb-1ebaeeca0e08dbb943a66084989a428e/
+         https://www.ipb.ac.id/news/index/2012/04/record-setting-doctorate-graduate-leads-bogor-agricultural-university-graduation-rite-4d66dd09b75fa84048cc5e1b030b189e/
+         https://www.ipb.ac.id/news/index/2012/05/mikiga-taught-the-child-of-sd-to-love-agriculture-7bc297e2f4a0d23924e26ee6744ee4cc/
+    8  www.ipb.ac.id/news/index/2010
+         https://www.ipb.ac.id/news/index/2010/08/minister-of-agriculture-livestock-graduate-an-asset-toward-meat-self-reliance-dd55327068794d53356e78024bfb575f/
+         https://www.ipb.ac.id/news/index/2010/10/minister-for-disadvantaged-regions-motivated-fresh-graduate-students-of-bogor-agricultural-university-3d981ef2a56558c70fd686b9c388613e/
+         https://www.ipb.ac.id/news/index/2010/10/ipb-inaugurates-800-graduates-6cf7e9273b0fae15d27fb447bc3334a4/
+         https://www.ipb.ac.id/news/index/2010/10/prof-dr-ir-kudang-boro-seminar-msc-the-new-president-of-afita-the-president-of-isai-8e4f81b553ef3df396788488529febb4-2/
+    6  www.ipb.ac.id/news/index/2013
+         https://www.ipb.ac.id/news/index/2013/08/internal-quality-assurance-for-undergraduate-and-postgraduate-programs-of-ipb-4a037ab9cee898d986ba77398e512bc3/
+         https://www.ipb.ac.id/news/index/2013/08/ipb-inaugurates-diploma-program-graduates-by-its-50th-anniversary-60967a6a00a57690b7d6b853f0507ec9/
+         https://www.ipb.ac.id/news/index/2013/09/career-opportunities-of-ipb-graduates-a769dcb92fc8eb79762892b291517d2c/
+         https://www.ipb.ac.id/news/index/2013/09/the-team-of-ipb-won-the-third-wiinerof-the-4rd-asean-undergraduate-bowl-quiz-4f06441920836f934f47f989ade89997/
+    5  www.ipb.ac.id/page
+         https://www.ipb.ac.id/page/graduate/
+         https://www.ipb.ac.id/page/undergraduate/
+         https://www.ipb.ac.id/page/graduate-school/
+         https://www.ipb.ac.id/page/graduate-education/
+    4  www.ipb.ac.id/news/index/2009
+         https://www.ipb.ac.id/news/index/2009/06/dr-ir-ahmad-darobin-lubis-msc-staf-kantor-audit-internal-ipb-berhasil-meraih-sertifikat-qia-qualified-internal-auditor-dari-dewan-sertifikasi-qualified-internal-auditor-dsqia-ba73a0563a6931d99/
+         https://www.ipb.ac.id/news/index/2009/06/turut-berduka-cita-atas-meninggalnya-prof-dr-ir-rykson-situmorang-msc-8f9f8c0bdce882b08bf4d6c6d1823e46/
+         https://www.ipb.ac.id/news/index/2009/03/selamat-kepada-dr-ir-illah-sailah-msc-6912fe687e768ded0566d46b280d07c1/
+         https://www.ipb.ac.id/news/index/2009/01/turut-berduka-cita-atas-meninggalnya-dr-ir-basiman-hasudungan-tampubolon-msc-c2f2772d09988dd5db8026e914a3a985/
+    2  www.ipb.ac.id/news/index/2020
+         https://www.ipb.ac.id/news/index/2020/01/ipb-university-graduate-school-opens-agro-maritime-logistics-study-program-6e8055a4f6bb290e61dba9aa1a5487e4/
+         https://www.ipb.ac.id/news/index/2020/02/ipb-university-officiated-botani-laguna-cafe-a-gift-for-post-graduate-student-6f2c91816bb3b3197bef66cda8c2a66f/
+    2  www.ipb.ac.id/news/index/2006
+         https://www.ipb.ac.id/news/index/2006/09/tinggi-peminat-program-doktor-mb-dan-magister-ma-ipb-952b0e74f6cb6f0917f04297b53cd64d/
+         https://www.ipb.ac.id/news/index/2006/07/telah-meninggal-dunia-ir-ida-yuhana-f-tonny-ma-3a9e27be2579ebc5fe257dbc53d5fb3d/
+    2  www.ipb.ac.id/news/index/2026
+         https://www.ipb.ac.id/news/index/2026/10/a-corn-farmers-daughter-from-lampung-becomes-ipb-universitys-top-graduate-now-building-her-career-while-continuing-to-pursue-her-dreams/
+         https://www.ipb.ac.id/news/index/2026/07/dr-ivan-rizal-sini-gdrm-mmis-mba-franzcog-spog/
+    1  www.ipb.ac.id/page/studyprogram
+         https://www.ipb.ac.id/page/studyprogram/graduate-education/
+    1  www.ipb.ac.id/news/index/2008
+         https://www.ipb.ac.id/news/index/2008/08/turut-berduka-cita-atas-meninggalnya-dr-ir-unggul-aktani-msc-afa0a0782343c08bc4e88a729e0accf0/
+    1  www.ipb.ac.id/news/index/author
+         https://www.ipb.ac.id/news/index/author/webmaster/

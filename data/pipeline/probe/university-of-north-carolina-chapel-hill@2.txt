@@ -1,0 +1,80 @@
+# university-of-north-carolina-chapel-hill@2 https://gradschool.unc.edu
+robots sitemaps: https://gradschool.unc.edu/sitemap_index.xml · crawl-delay: 10 · AI-agent groups: 1
+index https://gradschool.unc.edu/sitemap_index.xml: 23 children (2 course-like)
+sitemaps read 24 · urls 1279 · master's-looking 75
+    9  gradschool.unc.edu/organizer
+         https://gradschool.unc.edu/organizer/the-graduate-school/
+         https://gradschool.unc.edu/organizer/graduate-altac-working-group/
+         https://gradschool.unc.edu/organizer/graduate-career-consortium/
+         https://gradschool.unc.edu/organizer/the-center-for-graduate-career-success/
+    9  gradschool.unc.edu/event
+         https://gradschool.unc.edu/event/generative-ai-and-graduate-work-at-unc-2/
+         https://gradschool.unc.edu/event/career-conversations-for-graduate-students-nov/
+         https://gradschool.unc.edu/event/graduate-research-symposium/
+         https://gradschool.unc.edu/event/change-careers-with-masters-2025/
+    8  gradschool.unc.edu/tag
+         https://gradschool.unc.edu/tag/graduate-orientation/
+         https://gradschool.unc.edu/tag/graduate-student-experience/
+         https://gradschool.unc.edu/tag/graduate-student-orientation/
+         https://gradschool.unc.edu/tag/graduate-student-recognition-celebration/
+    5  gradschool.unc.edu/funding/gfic/funding-opportunity
+         https://gradschool.unc.edu/funding/gfic/funding-opportunity/unc-undergraduate-testing-center-proctor/
+         https://gradschool.unc.edu/funding/gfic/funding-opportunity/events-graduate-assistant/
+         https://gradschool.unc.edu/funding/gfic/funding-opportunity/graduate-research-assistant-antimicrobial-stewardship/
+         https://gradschool.unc.edu/funding/gfic/funding-opportunity/pitap-graduate-teaching-assistant/
+    3  gradschool.unc.edu/2025/01
+         https://gradschool.unc.edu/2025/01/jan-7-gps-the-graduate-schools-newsletter-for-graduate-and-professional-students/
+         https://gradschool.unc.edu/2025/01/graduate-student-experience-fall-2024-update/
+         https://gradschool.unc.edu/2025/01/graduate-student-experience-fall-2024-update-2/
+    3  gradschool.unc.edu/2025/04
+         https://gradschool.unc.edu/2025/04/art-mfa-graduate-creates-works-inspired-by-her-own-mri-scans/
+         https://gradschool.unc.edu/2025/04/three-receive-inaugural-graduate-school-deans-award-2/
+         https://gradschool.unc.edu/2025/04/the-graduate-school-invests-in-faculty-mentorship/
+    3  gradschool.unc.edu/series
+         https://gradschool.unc.edu/series/dont-wait-job-search-strategies-for-busy-masters-students/
+         https://gradschool.unc.edu/series/effective-mentoring-skills-for-graduate-students-in-person/
+         https://gradschool.unc.edu/series/dont-wait-what-new-masters-students-need-to-know-about-finding-a-job/
+    2  gradschool.unc.edu/facultystaff/policies
+         https://gradschool.unc.edu/facultystaff/policies/mastersub/
+         https://gradschool.unc.edu/facultystaff/policies/graduate-course-syllabi/
+    2  gradschool.unc.edu/students/events/graduate-research-symposium
+         https://gradschool.unc.edu/students/events/graduate-research-symposium/2025-program/
+         https://gradschool.unc.edu/students/events/graduate-research-symposium/2026-program/
+    2  gradschool.unc.edu/degree-type
+         https://gradschool.unc.edu/degree-type/master-of-education/
+         https://gradschool.unc.edu/degree-type/masters/
+    2  gradschool.unc.edu/2022/11
+         https://gradschool.unc.edu/2022/11/identity-and-experience-from-the-military-to-a-masters-degree/
+         https://gradschool.unc.edu/2022/11/women-who-looked-like-me-the-graduate-schools-ronice-johnson-guy/
+    2  gradschool.unc.edu/2025/11
+         https://gradschool.unc.edu/2025/11/graduate-student-community-tour-highlights/
+         https://gradschool.unc.edu/2025/11/graduate-research-symposium-scenes/
+    2  gradschool.unc.edu/2026/04
+         https://gradschool.unc.edu/2026/04/unc-chapel-hill-earns-top-national-rankings-for-graduate-education/
+         https://gradschool.unc.edu/2026/04/second-graduate-student-community-tour/
+    2  gradschool.unc.edu/2026/06
+         https://gradschool.unc.edu/2026/06/graditude-for-graduate-students/
+         https://gradschool.unc.edu/2026/06/debra-w-stewart-honored-for-lifetime-of-leadership-in-graduate-education/
+    2  gradschool.unc.edu/events/category/student-affairs
+         https://gradschool.unc.edu/events/category/student-affairs/graduate-and-professional-student-appreciation-week/
+         https://gradschool.unc.edu/events/category/student-affairs/graduate-student-recognition-celebration/
+    1  gradschool.unc.edu/funding/gradschool
+         https://gradschool.unc.edu/funding/gradschool/mastersmerit/
+    1  gradschool.unc.edu/degree-programs
+         https://gradschool.unc.edu/degree-programs/masters/
+    1  gradschool.unc.edu/students/events/recognition
+         https://gradschool.unc.edu/students/events/recognition/2026-graduate-student-recognition-celebration/
+    1  gradschool.unc.edu/students
+         https://gradschool.unc.edu/students/graduate-student-orientation-resources/
+    1  gradschool.unc.edu/students/events
+         https://gradschool.unc.edu/students/events/graduate-research-symposium/
+    1  gradschool.unc.edu/2024/05
+         https://gradschool.unc.edu/2024/05/meet-a-maps-graduate-giovanni-biggers/
+    1  gradschool.unc.edu/2024/02
+         https://gradschool.unc.edu/2024/02/graduate-student-experience-initiative/
+    1  gradschool.unc.edu/2025/05
+         https://gradschool.unc.edu/2025/05/graduate-students-visit-nc-general-assembly-to-advocate-for-unc-research/
+    1  gradschool.unc.edu/2025/08
+         https://gradschool.unc.edu/2025/08/graduate-student-orientation-2025/
+    1  gradschool.unc.edu/2025/12
+         https://gradschool.unc.edu/2025/12/mpa-graduate-student-follows-familys-example/

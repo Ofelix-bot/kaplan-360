@@ -1,0 +1,57 @@
+# university-of-miami@2 https://grad.miami.edu
+robots sitemaps: https://grad.miami.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 88 · master's-looking 49
+   10  grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities
+         https://grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/deans-fellowship/index.html
+         https://grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/deans-fellow-travel-support/deans-fellow-travel-scholarship.html
+         https://grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/um-fellowship/index.html
+         https://grad.miami.edu/about/costs-fellowships-and-other-funding/fellowships,-financial-aid,-and-other-funding-opportunities/graduate-school-fellowships-and-scholarships/maytag-fellowship/index.html
+    2  grad.miami.edu/apply
+         https://grad.miami.edu/apply/graduate-school-text-messaging-terms-and-conditions.html
+         https://grad.miami.edu/apply/graduate-school-sms-privacy-notice.html
+    1  grad.miami.edu/about/grad-events-and-calendar/defenses-masters-and-doctoral
+         https://grad.miami.edu/about/grad-events-and-calendar/defenses-masters-and-doctoral/index.html
+    1  grad.miami.edu/about/grad-events-and-calendar/graduate-awards
+         https://grad.miami.edu/about/grad-events-and-calendar/graduate-awards/index.html
+    1  grad.miami.edu/about/grad-events-and-calendar/graduate-writing-retreat
+         https://grad.miami.edu/about/grad-events-and-calendar/graduate-writing-retreat/index.html
+    1  grad.miami.edu/about/student-organizations/clubs-and-organizations
+         https://grad.miami.edu/about/student-organizations/clubs-and-organizations/graduate-clubs-and-organizations.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/instructions-for-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/instructions-for-international-credentials/instructions-for-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/business-school-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/business-school-international-credentials/business-school-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/miller-school-of-medicine-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/miller-school-of-medicine-international-credentials/miller-school-of-medicine-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/school-of-communication-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/school-of-communication-international-credentials/school-of-communication-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/school-of-nursing-and-health-studies-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/school-of-nursing-and-health-studies-international-credentials/school-of-nursing-and-health-studies-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/frost-school-of-music-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/frost-school-of-music-international-credentials/Frost School of Music International Applicants.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/college-of-arts-and-sciences-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/college-of-arts-and-sciences-international-credentials/college-of-arts-and-sciences-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/rosenstiel-school-of-marine-and-atmospheric-sciences-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/rosenstiel-school-of-marine-and-atmospheric-sciences-international-credentials/rosenstiel-school-of-marine-and-atmospheric-sciences-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/school-of-education-and-human-development-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/school-of-education-and-human-development-international-credentials/school-of-education-and-human-development-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/school-of-architecture-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/school-of-architecture-international-credentials/school-of-architecture-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs/college-of-engineering-international-credentials
+         https://grad.miami.edu/apply/on-campus-graduate-programs/college-of-engineering-international-credentials/college-of-engineering-international-credentials.html
+    1  grad.miami.edu/apply/on-campus-graduate-programs
+         https://grad.miami.edu/apply/on-campus-graduate-programs/index.html
+    1  grad.miami.edu/graduate-education
+         https://grad.miami.edu/graduate-education/index.html
+    1  grad.miami.edu/graduate-education/a-z-listing-graduate-programs
+         https://grad.miami.edu/graduate-education/a-z-listing-graduate-programs/index.html
+    1  grad.miami.edu/graduate-education/um-fiu-exchange-program
+         https://grad.miami.edu/graduate-education/um-fiu-exchange-program/index.html
+    1  grad.miami.edu/graduate-education/international-credentials-and-applicants
+         https://grad.miami.edu/graduate-education/international-credentials-and-applicants/index.html
+    1  grad.miami.edu/graduate-education/associate-deans-of-graduate-education
+         https://grad.miami.edu/graduate-education/associate-deans-of-graduate-education/associate-deans-of-graduate-education-directory.html
+    1  grad.miami.edu/graduate-education/graduate-program-directors
+         https://grad.miami.edu/graduate-education/graduate-program-directors/index.html
+    1  grad.miami.edu/graduate-education/graduate-faculty/school-of-nursing-and-health-studies-graduate-faculty
+         https://grad.miami.edu/graduate-education/graduate-faculty/school-of-nursing-and-health-studies-graduate-faculty/school-of-nursing-and-health-studies-graduate-faculty.html

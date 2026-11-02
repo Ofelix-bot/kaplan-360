@@ -1,0 +1,29 @@
+{
+  "source": "sitemap https://www.concordia.ca/sitemap.xml, programme pages under /academics/graduate/ (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.concordia.ca/academics/graduate/applied-linguistics.html",
+    "https://www.concordia.ca/academics/graduate/art-education-ma.html",
+    "https://www.concordia.ca/academics/graduate/artificial-intelligence-for-systems-engineering-meng.html",
+    "https://www.concordia.ca/academics/graduate/business-analytics-and-technology-management-msc.html",
+    "https://www.concordia.ca/academics/graduate/computer-science-mcompsc.html",
+    "https://www.concordia.ca/academics/graduate/computer-science-mcompsci-applied.html",
+    "https://www.concordia.ca/academics/graduate/construction-engineering.html",
+    "https://www.concordia.ca/academics/graduate/cybersecurity-engineering-meng.html",
+    "https://www.concordia.ca/academics/graduate/digital-innovation-in-journalism-studies-ma.html",
+    "https://www.concordia.ca/academics/graduate/economics-ma.html",
+    "https://www.concordia.ca/academics/graduate/educational-studies.html",
+    "https://www.concordia.ca/academics/graduate/educational-technology-ma.html",
+    "https://www.concordia.ca/academics/graduate/exercise-science-msc.html",
+    "https://www.concordia.ca/academics/graduate/finance-msc.html",
+    "https://www.concordia.ca/academics/graduate/management-msc.html",
+    "https://www.concordia.ca/academics/graduate/marketing-msc.html",
+    "https://www.concordia.ca/academics/graduate/business-administration-mba.html",
+    "https://www.concordia.ca/academics/graduate/mba-with-complete-cfa-integration.html",
+    "https://www.concordia.ca/academics/graduate/media-studies.html",
+    "https://www.concordia.ca/academics/graduate/public-policy-administration.html",
+    "https://www.concordia.ca/academics/graduate/supply-chain-management.html",
+    "https://www.concordia.ca/academics/graduate/software-engineering-meng.html",
+    "https://www.concordia.ca/academics/graduate/mathematics-statistics-mamsc.html"
+  ]
+}

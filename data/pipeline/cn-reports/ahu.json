@@ -1,0 +1,72 @@
+{
+  "id": "ahu",
+  "status": "read",
+  "university": "安徽大学",
+  "universityEn": "Anhui University",
+  "tier": "211",
+  "url": "https://xxgk.ahu.edu.cn/_upload/article/files/e0/5d/497527fb4d49a57883ba4c93e2b3/72146d47-d9c7-402c-85b3-8aede43281f5.pdf",
+  "title": null,
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 21,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": "2022届",
+      "count": 138,
+      "pct": null,
+      "quote": "我校 2022 届本科毕业生升学率为 34.85%，其中国内升学 1855 人，出国出境 138 人。"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [
+    {
+      "nameZh": "帝国理工学院",
+      "nameEn": "Imperial College London",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "在境外升学院校主要有帝国理工学院、伦敦大学国王学院、新加坡国立大学、香港大学、悉尼大学等知名院校。",
+      "institutionId": "imperial-college-london"
+    },
+    {
+      "nameZh": "伦敦大学国王学院",
+      "nameEn": "King's College London",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "在境外升学院校主要有帝国理工学院、伦敦大学国王学院、新加坡国立大学、香港大学、悉尼大学等知名院校。",
+      "institutionId": "king-s-college-london"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "在境外升学院校主要有帝国理工学院、伦敦大学国王学院、新加坡国立大学、香港大学、悉尼大学等知名院校。",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "University of Hong Kong",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "在境外升学院校主要有帝国理工学院、伦敦大学国王学院、新加坡国立大学、香港大学、悉尼大学等知名院校。",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "悉尼大学",
+      "nameEn": "University of Sydney",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "在境外升学院校主要有帝国理工学院、伦敦大学国王学院、新加坡国立大学、香港大学、悉尼大学等知名院校。",
+      "institutionId": "university-of-sydney"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

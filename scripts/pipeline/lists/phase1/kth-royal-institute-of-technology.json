@@ -1,0 +1,17 @@
+{ "source": "KTH master's programme list https://www.kth.se/en/studies/master/programmes (all KTH master's programmes are taught in English; configured 2026-11-01)", "retrievedAt": "2026-11-01", "pages": [
+"https://www.kth.se/en/studies/master/real-estate-and-construction-management",
+"https://www.kth.se/en/studies/master/computer-science",
+"https://www.kth.se/en/studies/master/cybersecurity",
+"https://www.kth.se/en/studies/master/cybersecurity-and-assurance",
+"https://www.kth.se/en/studies/master/ict-innovation",
+"https://www.kth.se/en/studies/master/ict-innovation-eit",
+"https://www.kth.se/en/studies/master/interactive-media-technology",
+"https://www.kth.se/en/studies/master/machine-learning",
+"https://www.kth.se/en/studies/master/scalable-computing-systems",
+"https://www.kth.se/en/studies/master/systems-control-robotics",
+"https://www.kth.se/en/studies/master/data-driven-health",
+"https://www.kth.se/en/studies/master/sports-technology",
+"https://www.kth.se/en/studies/master/biostatistics-and-data-science",
+"https://www.kth.se/en/studies/master/industrial-management",
+"https://www.kth.se/en/studies/master/technology-based-entrepreneurship"
+] }

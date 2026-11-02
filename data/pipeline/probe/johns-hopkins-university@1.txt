@@ -1,0 +1,16 @@
+# johns-hopkins-university@1 https://www.jhu.edu
+robots sitemaps: https://www.jhu.edu/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.jhu.edu/wp-sitemap.xml: 2 children (1 course-like)
+sitemaps read 3 · urls 144 · master's-looking 7
+    2  www.jhu.edu/academics
+         https://www.jhu.edu/academics/undergraduate-studies/
+         https://www.jhu.edu/academics/graduate-studies/
+    2  www.jhu.edu/academics/undergraduate-studies
+         https://www.jhu.edu/academics/undergraduate-studies/study-abroad/
+         https://www.jhu.edu/academics/undergraduate-studies/academic-support/
+    1  www.jhu.edu/research
+         https://www.jhu.edu/research/undergraduate-research/
+    1  www.jhu.edu/admissions
+         https://www.jhu.edu/admissions/graduate-admissions/
+    1  www.jhu.edu/graduate-gift
+         https://www.jhu.edu/graduate-gift/

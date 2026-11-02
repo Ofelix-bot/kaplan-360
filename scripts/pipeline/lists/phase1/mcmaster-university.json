@@ -1,0 +1,24 @@
+{
+  "source": "sitemap https://gs.mcmaster.ca/sitemap.xml, programme pages /program/<slug>/ (course-based master's in scope; online-only left out) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://gs.mcmaster.ca/program/business-administration-mba/",
+    "https://gs.mcmaster.ca/program/communications-management/",
+    "https://gs.mcmaster.ca/program/economic-policy/",
+    "https://gs.mcmaster.ca/program/economics/",
+    "https://gs.mcmaster.ca/program/ehealth/",
+    "https://gs.mcmaster.ca/program/finance/",
+    "https://gs.mcmaster.ca/program/global-health/",
+    "https://gs.mcmaster.ca/program/nursing/",
+    "https://gs.mcmaster.ca/program/psychotherapy/",
+    "https://gs.mcmaster.ca/program/public-health/",
+    "https://gs.mcmaster.ca/program/social-work/",
+    "https://gs.mcmaster.ca/program/statistics/",
+    "https://gs.mcmaster.ca/program/ai-and-analytics/",
+    "https://gs.mcmaster.ca/program/public-policy/",
+    "https://gs.mcmaster.ca/program/communication-and-new-media/",
+    "https://gs.mcmaster.ca/program/health-science-education/",
+    "https://gs.mcmaster.ca/program/technology-entrepreneurship-and-innovation/",
+    "https://gs.mcmaster.ca/program/engineering-entrepreneurship-and-innovation/"
+  ]
+}

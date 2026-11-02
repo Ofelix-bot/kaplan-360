@@ -1,0 +1,46 @@
+/*
+ * /next-steps' four road colours (components/next-steps/roads.tsx roadVars): the site's chart tokens
+ * (globals.css), a lighter tint of each for the gradient tiles, and the icon and heading colour that
+ * reads at 3:1 or better on both ends of its gradient. Checked as a categorical palette with the dataviz
+ * validator in both modes: every pair passes CVD separation and the normal-vision floor; study's indigo
+ * sits outside the lightness band (light L 0.28, dark L 0.79), kept because every in-band indigo falls
+ * under the normal-vision floor against --chart-au.
+ */
+:root {
+  --road-study: var(--chart-emph);
+  --road-study-tint: #7d70dc;
+  --road-study-on: #ffffff;
+  --road-work: var(--chart-poly);
+  --road-work-tint: #c9eee7;
+  --road-work-on: #16132b;
+  --road-qualify: var(--chart-pei);
+  --road-qualify-tint: #fbe1bf;
+  --road-qualify-on: #16132b;
+  --road-other: var(--chart-au);
+  --road-other-tint: #8579dc;
+  --road-other-on: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --road-study-tint: #e6e1ff;
+    --road-study-on: #0f0c22;
+    --road-work-tint: #8fe0d1;
+    --road-work-on: #0f0c22;
+    --road-qualify-tint: #f7c886;
+    --road-qualify-on: #0f0c22;
+    --road-other-tint: #c9c1ff;
+    --road-other-on: #0f0c22;
+  }
+}
+
+:root[data-theme="dark"] {
+  --road-study-tint: #e6e1ff;
+  --road-study-on: #0f0c22;
+  --road-work-tint: #8fe0d1;
+  --road-work-on: #0f0c22;
+  --road-qualify-tint: #f7c886;
+  --road-qualify-on: #0f0c22;
+  --road-other-tint: #c9c1ff;
+  --road-other-on: #0f0c22;
+}

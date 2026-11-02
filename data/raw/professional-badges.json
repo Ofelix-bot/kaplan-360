@@ -1,0 +1,435 @@
+{
+  "checked": "2026-11-02",
+  "rules": {
+    "psychology": {
+      "text": "SRP registration needs a postgraduate applied-psychology master's or doctorate (minimum 2 years full-time, with assessment/intervention coursework, supervised practicum and a thesis) that enables practice as a psychologist and, if overseas, is accredited by that country's psychological society or registration body; counselling, psychotherapy, family therapy, behaviour analysis and research-only degrees do not qualify.",
+      "url": "https://psychology.org.sg/srp_membership/srp/"
+    },
+    "accounting": {
+      "text": "Only the listed direct-entry degrees (including NTU's MSc Accountancy and SMU's Master of Professional Accounting) admit straight to the Singapore CA Qualification Professional Programme; any other accredited or ACRA-recognised degree must first complete the SCAQ Foundation Programme.",
+      "url": "https://isca.org.sg/qualifications/scaq/professional-programme"
+    },
+    "law": {
+      "text": "A Qualified Person must hold an applicable law degree (LL.B or, from listed Australian and US schools, a J.D.) from a university in the Legal Profession (Qualified Persons) Rules schedules, rank in the top 70% of the cohort, and be a Singapore citizen or PR when it is conferred.",
+      "url": "https://www.sile.edu.sg/United-States-of-America-Approved-Universities"
+    }
+  },
+  "programmes": {
+    "adelaide-university-master-of-psychology-clinical": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "adelaide-university-master-of-psychology-health": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year health master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "adelaide-university-master-of-psychology-organisational-and-human-factors": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year organisational master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "australian-catholic-university-master-of-psychology-clinical": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "australian-catholic-university-master-of-psychology-educational-and-developmental": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year educational and developmental master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "australian-national-university-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "bond-university-master-of-psychology-clinical": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "central-queensland-university-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "charles-darwin-university-master-of-psychology-clinical": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "chinese-university-of-hong-kong-ma-in-professional-educational-psychology": [
+      {
+        "kind": "psychology",
+        "body": "HKPS",
+        "note": "HKPS-recognised 2-year educational psychology master's",
+        "url": "https://www.dep.hkps.org.hk/professional-training/training-cuhk/"
+      }
+    ],
+    "curtin-university-master-of-psychology-clinical": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "deakin-university-master-of-psychology-clinical": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "deakin-university-master-of-psychology-organisational": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year organisational master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "edith-cowan-university-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "griffith-university-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "la-trobe-university-master-of-clinical-neuropsychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical neuropsychology master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "la-trobe-university-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "macquarie-university-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "macquarie-university-master-of-organisational-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year organisational master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "monash-university-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "monash-university-master-of-educational-and-developmental-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year educational and developmental master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "murdoch-university-master-of-applied-psychology-in-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "nanyang-technological-university-singapore-master-of-science-in-accountancy": [
+      {
+        "kind": "accounting",
+        "body": "ISCA",
+        "note": "Direct-entry degree for the Singapore CA Qualification",
+        "url": "https://isca.org.sg/qualifications/scaq/professional-programme"
+      }
+    ],
+    "nanyang-technological-university-singapore-msc-accountancy": [
+      {
+        "kind": "accounting",
+        "body": "ISCA",
+        "note": "Direct-entry degree for the Singapore CA Qualification",
+        "url": "https://isca.org.sg/qualifications/scaq/professional-programme"
+      }
+    ],
+    "queensland-university-of-technology-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "queensland-university-of-technology-master-of-psychology-educational-and-developmental": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year educational and developmental master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "rmit-university-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "singapore-management-university-master-of-professional-accounting-mpa": [
+      {
+        "kind": "accounting",
+        "body": "ISCA",
+        "note": "Direct-entry degree for the Singapore CA Qualification",
+        "url": "https://isca.org.sg/qualifications/scaq/professional-programme"
+      }
+    ],
+    "swinburne-university-of-technology-master-of-psychology-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "swinburne-university-of-technology-master-of-psychology-educational-and-developmental-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year educational and developmental master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-canberra-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-hong-kong-master-of-social-sciences-in-the-field-of-educational-psychology": [
+      {
+        "kind": "psychology",
+        "body": "HKPS",
+        "note": "HKPS-recognised 2-year educational psychology master's",
+        "url": "https://www.dep.hkps.org.hk/professional-training/training-hku/"
+      }
+    ],
+    "university-of-melbourne-master-of-psychology-clinical-neuropsychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical neuropsychology master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-melbourne-master-of-psychology-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-melbourne-master-of-psychology-educational-and-developmental": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year educational and developmental master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-new-south-wales-master-of-psychology-clinical": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-new-south-wales-master-of-psychology-forensic": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year forensic master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-newcastle-australia-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-queensland-master-of-clinical-neuropsychology-and-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical neuropsychology master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-queensland-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-queensland-master-of-organisational-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year organisational master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-southern-queensland-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-sunshine-coast-master-of-psychology-clinical": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-sydney-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-tasmania-master-of-psychology-clinical-m7l": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-technology-sydney-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-western-australia-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-western-australia-master-of-industrial-and-organisational-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year organisational master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-western-australia-master-of-psychology-clinical-neuropsychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical neuropsychology master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "university-of-wollongong-master-of-psychology-clinical": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "victoria-university-master-of-applied-psychology-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ],
+    "western-sydney-university-master-of-clinical-psychology": [
+      {
+        "kind": "psychology",
+        "body": "APAC",
+        "note": "APAC-accredited 2-year clinical master's",
+        "url": "https://apac.au/accredited-programs/search-a-program/"
+      }
+    ]
+  }
+}

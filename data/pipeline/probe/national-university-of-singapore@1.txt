@@ -1,0 +1,8 @@
+# national-university-of-singapore@1 https://study.nus.edu.sg
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://study.nus.edu.sg/sitemap.xml: 1 children (1 course-like)
+sitemaps read 2 · urls 11 · master's-looking 2
+    1  study.nus.edu.sg/postgraduate-programmes-by-coursework
+         https://study.nus.edu.sg/postgraduate-programmes-by-coursework
+    1  study.nus.edu.sg/postgraduate-programmes-by-research
+         https://study.nus.edu.sg/postgraduate-programmes-by-research

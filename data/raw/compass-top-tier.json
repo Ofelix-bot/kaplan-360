@@ -1,0 +1,1382 @@
+{
+ "source": {
+  "url": "https://www.mom.gov.sg/-/media/mom/documents/work-passes-and-permits/compass/compass-c2-list-of-top-tier-institutions.pdf",
+  "title": "COMPASS C2 list of top-tier institutions",
+  "effective": "2026-01-01",
+  "published": "Released in November 2025",
+  "retrievedAt": "2026-11-02"
+ },
+ "institutions": {
+  "aalto-university": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Design",
+     "agency": "EDB",
+     "disciplines": []
+    }
+   ]
+  },
+  "aarhus-university": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "EDB",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Biological Sciences",
+     "agency": "EDB",
+     "disciplines": []
+    }
+   ]
+  },
+  "adelaide-university": {
+   "group": "A"
+  },
+  "alma-mater-studiorum-university-of-bologna": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "EDB",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Engineering",
+     "agency": "EDB",
+     "disciplines": []
+    }
+   ]
+  },
+  "australian-national-university": {
+   "group": "A"
+  },
+  "autonomous-university-of-barcelona": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "EDB",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Environmental Engineering",
+     "agency": "EDB",
+     "disciplines": []
+    },
+    {
+     "name": "Advanced Biotechnology",
+     "agency": "EDB",
+     "disciplines": []
+    }
+   ]
+  },
+  "bandung-institute-of-technology": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "EDB",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "EDB",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "EDB",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "EDB",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "boston-university": {
+   "group": "A"
+  },
+  "brown-university": {
+   "group": "A"
+  },
+  "california-institute-of-technology": {
+   "group": "A"
+  },
+  "carnegie-mellon-university": {
+   "group": "A"
+  },
+  "catholic-university-of-chile": {
+   "group": "A"
+  },
+  "catholic-university-of-leuven": {
+   "group": "A"
+  },
+  "chinese-university-of-hong-kong": {
+   "group": "A"
+  },
+  "chulalongkorn-university": {
+   "group": "A"
+  },
+  "city-university-of-hong-kong": {
+   "group": "A"
+  },
+  "columbia-university": {
+   "group": "A"
+  },
+  "cornell-university": {
+   "group": "A"
+  },
+  "delft-university-of-technology": {
+   "group": "A"
+  },
+  "duke-university": {
+   "group": "A"
+  },
+  "durham-university": {
+   "group": "A"
+  },
+  "duy-tan-university": {
+   "group": "A"
+  },
+  "ecole-national-superieure-mines-paris": {
+   "group": "A"
+  },
+  "ecole-normale-superieure-de-cachan": {
+   "group": "A"
+  },
+  "ecole-normale-superieure-paris": {
+   "group": "A"
+  },
+  "ecole-polytechnique": {
+   "group": "A"
+  },
+  "ecole-polytechnique-federale-de-lausanne": {
+   "group": "A"
+  },
+  "espci-paristech": {
+   "group": "A"
+  },
+  "eth-zurich-swiss-federal-institute-of-technology": {
+   "group": "A"
+  },
+  "freie-universitaet-berlin": {
+   "group": "A"
+  },
+  "fudan-university": {
+   "group": "A"
+  },
+  "gadjah-mada-university": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "harbin-engineering-university": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Naval Architecture",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Ocean Engineering",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "harvard-university": {
+   "group": "A"
+  },
+  "heidelberg-university": {
+   "group": "A"
+  },
+  "hong-kong-polytechnic-university": {
+   "group": "A"
+  },
+  "hong-kong-university-of-science-and-technology": {
+   "group": "A"
+  },
+  "imperial-college-london": {
+   "group": "A"
+  },
+  "imperial-college-of-science-technology-and-medicine": {
+   "group": "A"
+  },
+  "indian-institute-of-science": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "indian-institute-of-technology-bombay": {
+   "group": "A"
+  },
+  "indian-institute-of-technology-delhi": {
+   "group": "A"
+  },
+  "indian-institute-of-technology-guwahati": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "indian-institute-of-technology-kanpur": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "indian-institute-of-technology-kharagpur": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "indian-institute-of-technology-madras": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "indian-institute-of-technology-roorkee": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "industrial-physics-and-chemistry-higher-educational-institution-paris": {
+   "group": "A"
+  },
+  "institut-polytechnique-de-paris": {
+   "group": "A"
+  },
+  "johns-hopkins-university": {
+   "group": "A"
+  },
+  "kaist-korea-advanced-institute-of-science-and-technology": {
+   "group": "A"
+  },
+  "katholieke-universiteit-leuven": {
+   "group": "A"
+  },
+  "keio-university": {
+   "group": "A"
+  },
+  "king-fahd-university-of-petroleum-and-minerals": {
+   "group": "A"
+  },
+  "king-s-college-london": {
+   "group": "A"
+  },
+  "kit-karlsruhe-institute-of-technology": {
+   "group": "A"
+  },
+  "korea-university": {
+   "group": "A"
+  },
+  "kth-royal-institute-of-technology": {
+   "group": "A"
+  },
+  "ku-leuven": {
+   "group": "A"
+  },
+  "kyoto-university": {
+   "group": "A"
+  },
+  "lmu-munich": {
+   "group": "A"
+  },
+  "lomonosov-moscow-state-university": {
+   "group": "A"
+  },
+  "london-school-of-economics-and-political-science": {
+   "group": "A"
+  },
+  "ludwig-maximilian-university-of-munich": {
+   "group": "A"
+  },
+  "ludwig-maximilians-universitat-munchen": {
+   "group": "A"
+  },
+  "lund-university": {
+   "group": "A"
+  },
+  "massachusetts-institute-of-technology": {
+   "group": "A"
+  },
+  "mcgill-university": {
+   "group": "A"
+  },
+  "mines-paristech": {
+   "group": "A"
+  },
+  "monash-university": {
+   "group": "A"
+  },
+  "moscow-state-university": {
+   "group": "A"
+  },
+  "nanyang-technological-university-singapore": {
+   "group": "A"
+  },
+  "national-autonomous-university-of-mexico": {
+   "group": "A"
+  },
+  "national-cheng-kung-university": {
+   "group": "A"
+  },
+  "national-taiwan-ocean-university": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Ocean Engineering and Technology",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "national-taiwan-university": {
+   "group": "A"
+  },
+  "national-tsing-hua-university": {
+   "group": "A"
+  },
+  "national-university-of-singapore": {
+   "group": "A"
+  },
+  "new-york-university": {
+   "group": "A"
+  },
+  "newcastle-university": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Naval Architecture",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Marine Engineering",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Maritime Engineering",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "northwestern-university": {
+   "group": "A"
+  },
+  "norwegian-university-of-science-and-technology": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Marine Technology",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "norwegian-university-of-science-and-technology-ntnu": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Marine Technology",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "osaka-university": {
+   "group": "A"
+  },
+  "paris-dauphine-university": {
+   "group": "A"
+  },
+  "peking-university": {
+   "group": "A"
+  },
+  "pennsylvania-state-university": {
+   "group": "A"
+  },
+  "pennsylvania-state-university-university-park": {
+   "group": "A"
+  },
+  "pohang-university-of-science-and-technology": {
+   "group": "A"
+  },
+  "politecnico-di-milano": {
+   "group": "A"
+  },
+  "polytechnic-institute-of-milan": {
+   "group": "A"
+  },
+  "polytechnic-university-of-milan": {
+   "group": "A"
+  },
+  "pontifical-catholic-university-of-chile": {
+   "group": "A"
+  },
+  "pontificia-universidad-catolica-de-chile": {
+   "group": "A"
+  },
+  "princeton-university": {
+   "group": "A"
+  },
+  "purdue-university": {
+   "group": "A"
+  },
+  "purdue-university-west-lafayette": {
+   "group": "A"
+  },
+  "putra-university-malaysia": {
+   "group": "A"
+  },
+  "royal-veterinary-college": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Veterinary Medicine",
+     "agency": "STB",
+     "disciplines": []
+    }
+   ]
+  },
+  "ruprecht-karl-university-of-heidelberg": {
+   "group": "A"
+  },
+  "ruprecht-karls-universitat-heidelberg": {
+   "group": "A"
+  },
+  "rwth-aachen-university": {
+   "group": "A"
+  },
+  "sciences-po": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Politics and International Studies",
+     "agency": "EDB",
+     "disciplines": []
+    }
+   ]
+  },
+  "seoul-national-university": {
+   "group": "A"
+  },
+  "shanghai-jiao-tong-university": {
+   "group": "A"
+  },
+  "singapore-management-university": {
+   "group": "A"
+  },
+  "singapore-university-of-technology-and-design": {
+   "group": "A"
+  },
+  "sorbonne-university": {
+   "group": "A"
+  },
+  "stanford-university": {
+   "group": "A"
+  },
+  "swiss-federal-institute-of-technology-in-lausanne": {
+   "group": "A"
+  },
+  "swiss-federal-institute-of-technology-lausanne": {
+   "group": "A"
+  },
+  "swiss-federal-institute-of-technology-of-lausanne": {
+   "group": "A"
+  },
+  "swiss-federal-institute-of-technology-zurich": {
+   "group": "A"
+  },
+  "technical-university-munich": {
+   "group": "A"
+  },
+  "technical-university-of-munich": {
+   "group": "A"
+  },
+  "tohoku-university": {
+   "group": "A"
+  },
+  "tokyo-institute-of-technology": {
+   "group": "A"
+  },
+  "trinity-college-dublin-the-university-of-dublin": {
+   "group": "A"
+  },
+  "tsinghua-university": {
+   "group": "A"
+  },
+  "tufts-university": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Offshore Wind Energy Engineering",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "ucl": {
+   "group": "A"
+  },
+  "universidad-de-buenos-aires": {
+   "group": "A"
+  },
+  "universidad-nacional-autonoma-de-mexico": {
+   "group": "A"
+  },
+  "universidade-de-sao-paulo": {
+   "group": "A"
+  },
+  "universitas-indonesia": {
+   "group": "A"
+  },
+  "universitat-autonoma-de-barcelona": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "EDB",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Environmental Engineering",
+     "agency": "EDB",
+     "disciplines": []
+    },
+    {
+     "name": "Advanced Biotechnology",
+     "agency": "EDB",
+     "disciplines": []
+    }
+   ]
+  },
+  "universitat-de-barcelona": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Economics",
+     "agency": "EDB",
+     "disciplines": []
+    },
+    {
+     "name": "Environmental Sciences",
+     "agency": "EDB",
+     "disciplines": []
+    },
+    {
+     "name": "Biomedical Sciences",
+     "agency": "EDB",
+     "disciplines": []
+    }
+   ]
+  },
+  "universite-paris-saclay": {
+   "group": "A"
+  },
+  "universite-psl": {
+   "group": "A"
+  },
+  "universiti-brunei-darussalam": {
+   "group": "A"
+  },
+  "universiti-kebangsaan-malaysia": {
+   "group": "A"
+  },
+  "universiti-malaya": {
+   "group": "A"
+  },
+  "universiti-putra-malaysia": {
+   "group": "A"
+  },
+  "universiti-sains-malaysia": {
+   "group": "A"
+  },
+  "universiti-teknologi-malaysia": {
+   "group": "A"
+  },
+  "university-of-alberta": {
+   "group": "A"
+  },
+  "university-of-amsterdam": {
+   "group": "A"
+  },
+  "university-of-auckland": {
+   "group": "A"
+  },
+  "university-of-barcelona": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Economics",
+     "agency": "EDB",
+     "disciplines": []
+    },
+    {
+     "name": "Environmental Sciences",
+     "agency": "EDB",
+     "disciplines": []
+    },
+    {
+     "name": "Biomedical Sciences",
+     "agency": "EDB",
+     "disciplines": []
+    }
+   ]
+  },
+  "university-of-birmingham": {
+   "group": "A"
+  },
+  "university-of-bologna": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "EDB",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Engineering",
+     "agency": "EDB",
+     "disciplines": []
+    }
+   ]
+  },
+  "university-of-bristol": {
+   "group": "A"
+  },
+  "university-of-british-columbia": {
+   "group": "A"
+  },
+  "university-of-buenos-aires": {
+   "group": "A"
+  },
+  "university-of-california-berkeley": {
+   "group": "A"
+  },
+  "university-of-california-davis": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Food Science and Technology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Agriculture and Environmental Technology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Animal Biology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Animal Science",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Animal Science and Management",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Biotechnology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Clinical Nutrition",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Entomology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Global Disease Biology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "International Agriculture Development",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Plant Sciences",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Sustainable Agriculture and Food Systems",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "university-of-california-los-angeles": {
+   "group": "A"
+  },
+  "university-of-california-san-diego": {
+   "group": "A"
+  },
+  "university-of-cambridge": {
+   "group": "A"
+  },
+  "university-of-chicago": {
+   "group": "A"
+  },
+  "university-of-copenhagen": {
+   "group": "A"
+  },
+  "university-of-durham": {
+   "group": "A"
+  },
+  "university-of-edinburgh": {
+   "group": "A"
+  },
+  "university-of-glasgow": {
+   "group": "A"
+  },
+  "university-of-heidelberg": {
+   "group": "A"
+  },
+  "university-of-hong-kong": {
+   "group": "A"
+  },
+  "university-of-illinois-at-urbana-champaign": {
+   "group": "A"
+  },
+  "university-of-indonesia": {
+   "group": "A"
+  },
+  "university-of-leeds": {
+   "group": "A"
+  },
+  "university-of-malaya": {
+   "group": "A"
+  },
+  "university-of-manchester": {
+   "group": "A"
+  },
+  "university-of-melbourne": {
+   "group": "A"
+  },
+  "university-of-michigan": {
+   "group": "A"
+  },
+  "university-of-michigan-ann-arbor": {
+   "group": "A"
+  },
+  "university-of-munich": {
+   "group": "A"
+  },
+  "university-of-new-south-wales": {
+   "group": "A"
+  },
+  "university-of-north-carolina-chapel-hill": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Pharmacy (DPhil only)",
+     "agency": "MOH",
+     "disciplines": []
+    }
+   ]
+  },
+  "university-of-nottingham": {
+   "group": "A"
+  },
+  "university-of-oxford": {
+   "group": "A"
+  },
+  "university-of-paris-dauphine": {
+   "group": "A"
+  },
+  "university-of-pennsylvania": {
+   "group": "A"
+  },
+  "university-of-queensland": {
+   "group": "A"
+  },
+  "university-of-sao-paulo": {
+   "group": "A"
+  },
+  "university-of-sheffield": {
+   "group": "A"
+  },
+  "university-of-southampton": {
+   "group": "A"
+  },
+  "university-of-st-gallen": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Accounting",
+     "agency": "EDB",
+     "disciplines": [
+      "accounting-finance"
+     ]
+    },
+    {
+     "name": "Finance",
+     "agency": "EDB",
+     "disciplines": [
+      "accounting-finance"
+     ]
+    },
+    {
+     "name": "Economics",
+     "agency": "EDB",
+     "disciplines": []
+    },
+    {
+     "name": "Business",
+     "agency": "EDB",
+     "disciplines": [
+      "business",
+      "accounting-finance",
+      "marketing"
+     ]
+    }
+   ]
+  },
+  "university-of-strathclyde": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Naval Architecture",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Marine Engineering",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Offshore Wind Energy",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "university-of-sydney": {
+   "group": "A"
+  },
+  "university-of-technology-sydney": {
+   "group": "A"
+  },
+  "university-of-texas-at-austin": {
+   "group": "A"
+  },
+  "university-of-the-arts-london": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Fashion Studies",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "university-of-the-philippines": {
+   "group": "A"
+  },
+  "university-of-tokyo": {
+   "group": "A"
+  },
+  "university-of-toronto": {
+   "group": "A"
+  },
+  "university-of-warwick": {
+   "group": "A"
+  },
+  "university-of-washington": {
+   "group": "A"
+  },
+  "university-of-washington-seattle": {
+   "group": "A"
+  },
+  "university-of-western-australia": {
+   "group": "A"
+  },
+  "university-of-zurich": {
+   "group": "A"
+  },
+  "uppsala-university": {
+   "group": "A"
+  },
+  "viet-nam-national-university-ho-chi-minh-city": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "vietnam-national-university-hanoi": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Computer Science",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    },
+    {
+     "name": "Information Technology",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Programming & Systems Analysis",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it"
+     ]
+    },
+    {
+     "name": "Science (Computer Studies)",
+     "agency": "IMDA, MAS",
+     "disciplines": [
+      "it",
+      "ai-data"
+     ]
+    }
+   ]
+  },
+  "wageningen-university-and-research": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Food Science and Technology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Aquaculture and Marine Resource Management",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Plant Biotechnology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Plant Breeding",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Resilient Farming and Food Systems",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "wageningen-university-and-research-center": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Food Science and Technology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Aquaculture and Marine Resource Management",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Plant Biotechnology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Plant Breeding",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Resilient Farming and Food Systems",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "wageningen-university-and-research-centre": {
+   "group": "B",
+   "faculties": [
+    {
+     "name": "Food Science and Technology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Aquaculture and Marine Resource Management",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Plant Biotechnology",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Plant Breeding",
+     "agency": "ESG",
+     "disciplines": []
+    },
+    {
+     "name": "Resilient Farming and Food Systems",
+     "agency": "ESG",
+     "disciplines": []
+    }
+   ]
+  },
+  "waseda-university": {
+   "group": "A"
+  },
+  "yale-university": {
+   "group": "A"
+  },
+  "yonsei-university": {
+   "group": "A"
+  },
+  "zhejiang-university": {
+   "group": "A"
+  }
+ },
+ "unmatched": [
+  "Institut Mines-Telecom - Ecole Nationale Superieure Des Telecommunications (Telecom Paris) (Telecom Paristech) (France)",
+  "Institut Mines-Telecom - Telecom SudParis (France)",
+  "Groupe des Ecoles Nationales d'Economie et Statistique - Ecole Nationale de la Statistique et de l'Administration Economique (ENSAE) (France)",
+  "Ecole Nationale Superieure De Techniques Avancees (ENSTA Paris) (France)",
+  "Lasalle College of the Arts (Singapore)",
+  "Nanyang Academy Of Fine Arts (NAFA) (Singapore)",
+  "National Institute of Education (NIE) (Singapore)",
+  "Technical University of Munich (TUM) And Nanyang Technological University (NTU) (Singapore)",
+  "Yale NUS College of The National University of Singapore (Singapore)",
+  "Duke-NUS Medical School (Singapore)",
+  "Purdue University, North Central (United States of America)",
+  "Purdue University, Calumet (United States of America)",
+  "Purdue University, Fort Wayne (United States of America)",
+  "Purdue University, Northwest (United States of America)",
+  "Singapore Institute Of Technology (SIT) (Singapore)",
+  "Singapore University Of Social Sciences (SUSS) (Singapore)",
+  "Chimie Paristech (France)",
+  "Ecole Nationale Des Chartes (France)",
+  "Ecole Pratique Des Hautes Etudes (EPHE) (France)",
+  "Observatoire De Paris (France)",
+  "Conservatoire National Superieur D'Art Dramatique (France)",
+  "Instituts Universitaires Technologiques De Cachan (France)",
+  "Instituts Universitaires Technologiques D'Orsay (France)",
+  "Instituts Universitaires Technologiques De Sceaux (France)",
+  "Polytech Paris-Saclay (France)",
+  "Centralesupelec - Ecole Centrale Des Arts Et Manufactures (France)",
+  "Institut National Des Sciences Et Industries Du Vivant Et De L'Environnement (Agroparistech) (France)",
+  "Ecole Superieure D'Optique (Supoptique or Institut D'Optique Graduate School) (France)",
+  "University of the Arts Singapore (UAS) (Singapore)",
+  "University of The Philippines - Open University (Philippines)",
+  "University of The Philippines Baguio (Philippines)",
+  "University of The Philippines Cebu (Philippines)",
+  "University of The Philippines Diliman (UPD) (Philippines)",
+  "University of The Philippines Los Banos (UPLB) (Philippines)",
+  "University of The Philippines Manila (Philippines)",
+  "University of The Philippines Mindanao (Philippines)",
+  "University of The Philippines Visayas (Philippines)",
+  "Ecole Des Hautes Etudes Commerciales (HEC Paris) (France)",
+  "ESSEC Business School (France)",
+  "Iese Business School (Spain)",
+  "Indian Institute of Management Ahmedabad (India)",
+  "Indian Institute of Management Bangalore (India)",
+  "Indian Institute of Management Calcutta (India)",
+  "Instituto De Empresa (IE Business School) (Spain)",
+  "International Institute for Management Development (IMD) (Switzerland)",
+  "University of London, London Business School (United Kingdom)",
+  "INSEAD (Institut Europeen D'Administration Des Affaires) (France)",
+  "Ecole Hoteliere De Lausanne (EHL Hospitality Business School) (Switzerland)",
+  "Rhode Island School of Design (United States of America)",
+  "Shanghai Maritime University (China)",
+  "Dalian Maritime University (China)"
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx netlify-cli@27.8.1 deploy --build --prod*)",
+      "Bash(npx netlify-cli@27.8.1 deploy --prod --site 14274b35-c265-4eee-86f9-9361acd66789*)",
+      "Bash(npm run data:load*)",
+      "Bash(npx netlify-cli@27.8.1 deploy --build --context production --alias check*)"
+    ]
+  }
+}

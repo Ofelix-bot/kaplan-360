@@ -1,0 +1,129 @@
+# nottingham-trent-university https://www.ntu.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.ntu.ac.uk/sitemap.xml: 27 children (4 course-like)
+sitemaps read 28 · urls 4107 · master's-looking 577
+  120  www.ntu.ac.uk/study-and-courses/postgraduate/phd
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/phd/professional-doctorates
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/phd/phd-opportunities/find-a-phd-opportunity/projects/art-design/photography-and-the-digital-body
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/phd/phd-opportunities/find-a-phd-opportunity/projects/art-design/visual-culture-in-times-of-political-change
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/phd/phd-opportunities/find-a-phd-opportunity/projects/science-technology/the-role-of-molecular-regulators-in-breast-cancer-development-using-3d-models2
+   40  www.ntu.ac.uk/course/science-and-technology/pg
+         https://www.ntu.ac.uk/course/science-and-technology/pg/msc-biotechnology
+         https://www.ntu.ac.uk/course/science-and-technology/pg/msc-biomedical-science-flexible-learning
+         https://www.ntu.ac.uk/course/science-and-technology/pg/msc-molecular-cell-biology
+         https://www.ntu.ac.uk/course/science-and-technology/pg/msc-neuropharmacology
+   29  www.ntu.ac.uk/course/nottingham-business-school/pg
+         https://www.ntu.ac.uk/course/nottingham-business-school/pg/msc-management
+         https://www.ntu.ac.uk/course/nottingham-business-school/pg/msc-management-and-global-supply-chain-management
+         https://www.ntu.ac.uk/course/nottingham-business-school/pg/msc-management-and-international-business
+         https://www.ntu.ac.uk/course/nottingham-business-school/pg/msc-project-management
+   29  www.ntu.ac.uk/course/art-and-design/pg
+         https://www.ntu.ac.uk/course/art-and-design/pg/ma-fashion-knitwear-design
+         https://www.ntu.ac.uk/course/art-and-design/pg/ma-fashion-and-creative-pattern-cutting
+         https://www.ntu.ac.uk/course/art-and-design/pg/ma-fashion-and-textile-design
+         https://www.ntu.ac.uk/course/art-and-design/pg/ma-fashion-design
+   24  www.ntu.ac.uk/study-and-courses/academic-schools/architecture-design-built-environment
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/architecture-design-built-environment/study-at-adbe/postgraduate-study-adbe/choosing-your-postgraduate-construction-management-course
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/architecture-design-built-environment/study-at-adbe/postgraduate-study-adbe/choosing-your-postgraduate-civil-engineering-course
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/architecture-design-built-environment/study-at-adbe/postgraduate-study-adbe/choosing-your-postgraduate-property-management-and-development-course
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/architecture-design-built-environment/study-at-adbe/undergraduate-study-adbe/civil-engineering-at-ntu-which-course-is-right-for-you
+   23  www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/study-at-nbs/postgraduate-courses
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/your-pg-offer-nbs/your-postgraduate-economics-course
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/your-pg-offer-nbs/your-postgraduate-management-course
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/your-pg-offer-nbs/your-postgraduate-project-management-course
+   22  www.ntu.ac.uk/course/social-sciences/pg
+         https://www.ntu.ac.uk/course/social-sciences/pg/msc-pgdip-psychology
+         https://www.ntu.ac.uk/course/social-sciences/pg/msc-applied-child-psychology
+         https://www.ntu.ac.uk/course/social-sciences/pg/msc-mres-psychological-research-methods
+         https://www.ntu.ac.uk/course/social-sciences/pg/msc-forensic-mental-health
+   17  www.ntu.ac.uk/study-and-courses/academic-schools/science-and-technology
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/science-and-technology/your-pg-offer-science-technology/postgraduate-forensicscience
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/science-and-technology/your-pg-offer-science-technology/engineering-masters
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/science-and-technology/postgraduate-sport-science-talk-to-us
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/science-and-technology/your-ug-offer-science-tech/undergraduate-engineering
+   17  www.ntu.ac.uk/study-and-courses/undergraduate/fees-and-funding
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/fees-and-funding/bursaries-and-scholarships/dr-pauline-polkey-undergraduate-bursaries
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/fees-and-funding/bursaries-and-scholarships/alexander-jansons-bursary
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/fees-and-funding/bursaries-and-scholarships/jamaica-national-bank-and-nottingham-trent-university-scholarship
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/fees-and-funding/bursaries-and-scholarships/the-stoneygate-award-programme
+   16  www.ntu.ac.uk/study-and-courses/postgraduate/masters
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/masters/conversion-courses
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/masters/fees-and-funding/postgraduate-scholarships/pg-masters-scholarship-uk-students
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/masters/fees-and-funding/postgraduate-scholarships
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/masters/fees-and-funding/postgraduate-scholarships/pg-masters-scholarship-uk-students/eligible-course-for-the-postgraduate-masters-scholarship-for-uk-students
+   16  www.ntu.ac.uk/study-and-courses/academic-schools/social-sciences
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/social-sciences/your-pg-offer-social-sciences/english-linguistics-and-creative-writing-masters-degrees
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/social-sciences/your-pg-offer-social-sciences/history-and-heritage-masters-degrees
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/social-sciences/your-pg-offer-social-sciences/your-postgraduate-career-development-course
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/social-sciences/your-pg-offer-social-sciences/your-postgraduate-social-work-and-care-course
+   16  www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-law-school
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-law-school/your-offer-postgraduate/postgraduate-diploma-in-law-full-time
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-law-school/your-offer-postgraduate/pgcert-advanced-legal-skills-sqe-2-prep-course
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-law-school/your-offer-postgraduate/llm-law-and-legal-practice-sqe-1-preparation-course-full-time
+         https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-law-school/study-at-nls/undergraduate-at-nls
+   16  www.ntu.ac.uk/course/architecture-design-and-the-built-environment/pg
+         https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/pg/msc-digital-architecture-and-construction
+         https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/pg/ma-interior-architecture-and-design
+         https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/pg/march-architecture-arbriba-part-2
+         https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/pg/ma-design-products-and-furniture
+   13  www.ntu.ac.uk/study-and-courses/open-days/postgraduate-events
+         https://www.ntu.ac.uk/study-and-courses/open-days/postgraduate-events/postgraduate-open-event
+         https://www.ntu.ac.uk/study-and-courses/open-days/postgraduate-events/open-events
+         https://www.ntu.ac.uk/study-and-courses/open-days/postgraduate-events/open-events/uk
+         https://www.ntu.ac.uk/study-and-courses/open-days/postgraduate-events/open-events/international
+   13  www.ntu.ac.uk/business-and-employers/recruit-students-and-graduates/placements
+         https://www.ntu.ac.uk/business-and-employers/recruit-students-and-graduates/placements/case-studies/i-definitely-wouldnt-be-in-my-job-without-the-digital-marketing-academy
+         https://www.ntu.ac.uk/business-and-employers/recruit-students-and-graduates/placements/case-studies/ntu-employabilitys-spotlight-stories-edition-two-digital-marketing-academy
+         https://www.ntu.ac.uk/business-and-employers/recruit-students-and-graduates/placements/case-studies/ntu-employabilitys-spotlight-series-edition-three-graduate-internship-scheme
+         https://www.ntu.ac.uk/business-and-employers/recruit-students-and-graduates/placements/case-studies/NTU-Student-Sales-Academy-industry-leading-Employability-initiative-reveals-importance-of-transferable-sales-skills
+   12  www.ntu.ac.uk/study-and-courses/undergraduate
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/thinking-about-going-to-university
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/why-ntu
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/fees-and-funding
+   11  www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/ucas-tariff-calculator
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/how-to-apply-step-by-step
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/writing-your-personal-statement
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/preparing-for-your-ntu-interview
+   11  www.ntu.ac.uk/study-and-courses/open-days/undergraduate-open-days
+         https://www.ntu.ac.uk/study-and-courses/open-days/undergraduate-open-days/guide/city-campus-open-day-pre-arrival-guide
+         https://www.ntu.ac.uk/study-and-courses/open-days/undergraduate-open-days/guide/clifton-campus-open-day-pre-arrival-guide
+         https://www.ntu.ac.uk/study-and-courses/open-days/undergraduate-open-days/guide/brackenhurst-campus-open-day-pre-arrival-guide
+         https://www.ntu.ac.uk/study-and-courses/open-days/undergraduate-open-days/guide/brackenhurst-college-courses-open-day-pre-arrival-guide
+   10  www.ntu.ac.uk/study-and-courses/postgraduate
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/your-career
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/why-ntu
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/thinking-about-postgraduate-study
+         https://www.ntu.ac.uk/study-and-courses/postgraduate/which-postgraduate-course-is-right-for-me
+   10  www.ntu.ac.uk/course/nottingham-law-school/pg
+         https://www.ntu.ac.uk/course/nottingham-law-school/pg/llm-corporate-law
+         https://www.ntu.ac.uk/course/nottingham-law-school/pg/llm-health-law
+         https://www.ntu.ac.uk/course/nottingham-law-school/pg/llm-human-rights
+         https://www.ntu.ac.uk/course/nottingham-law-school/pg/llm-technology-law
+    8  www.ntu.ac.uk/about-us/teaching/academic-development-and-quality
+         https://www.ntu.ac.uk/about-us/teaching/academic-development-and-quality/quality-management/quality-handbook/section-3-undergraduate-awards-requirements
+         https://www.ntu.ac.uk/about-us/teaching/academic-development-and-quality/quality-management/quality-handbook/section-4-postgraduate-taught-and-research-awards-requirements
+         https://www.ntu.ac.uk/about-us/teaching/academic-development-and-quality/quality-management/quality-handbook/qh-supplement-13a-admissions-for-taught-course-guidance
+         https://www.ntu.ac.uk/about-us/teaching/academic-development-and-quality/quality-management/quality-handbook/qh-supplement-15d-assessment-schedule-and-feedback-plan-exemplar-semesters-undergraduate
+    7  www.ntu.ac.uk/study-and-courses/undergraduate/parent-and-carer-guide
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/parent-and-carer-guide/faq
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/parent-and-carer-guide/jargon-buster
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/parent-and-carer-guide/how-can-i-support-an-ntu-student
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/parent-and-carer-guide/preparing-your-son-or-daughter-for-university
+    7  www.ntu.ac.uk/study-and-courses/undergraduate/schools-colleges-liaison
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/schools-colleges-liaison/meet-the-team
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/schools-colleges-liaison/support-for-teachers
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/schools-colleges-liaison/post-16-core-workshops
+         https://www.ntu.ac.uk/study-and-courses/undergraduate/schools-colleges-liaison/additional-support
+    6  www.ntu.ac.uk/course/education/pg
+         https://www.ntu.ac.uk/course/education/pg/pgce-primary-education
+         https://www.ntu.ac.uk/course/education/pg/pgce-further-education-and-skills
+         https://www.ntu.ac.uk/course/education/pg/secondary-education
+         https://www.ntu.ac.uk/course/education/pg/education-with-specialist-pathways
+    6  www.ntu.ac.uk/course/nottingham-law-school/pr
+         https://www.ntu.ac.uk/course/nottingham-law-school/pr/barristers-training-course-llm-btc
+         https://www.ntu.ac.uk/course/nottingham-law-school/pr/llm-law-and-legal-practice-sqe-1-preparation-course
+         https://www.ntu.ac.uk/course/nottingham-law-school/pr/llm-sqe-1-and-sqe-2-preparation-course
+         https://www.ntu.ac.uk/course/nottingham-law-school/pr/llm-legal-practice-top-up-distance-learning

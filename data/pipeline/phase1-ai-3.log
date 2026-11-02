@@ -1,0 +1,560 @@
+Claude fills missing fields for 557 programmes (claude-haiku-5-5)…
+university-o Master of Science in Nursing                     +0 kept, 0 dropped
+university-o Master of Science in Economics                   +0 kept, 0 dropped
+university-o Master of Science in Finance                     +0 kept, 0 dropped
+university-o Master of Accounting                             +0 kept, 0 dropped
+university-o Master of Science in Accounting                  +0 kept, 0 dropped
+university-o Master of Public Health                          +0 kept, 0 dropped
+university-o Master of Science in Nurse-Midwifery             +0 kept, 0 dropped
+university-o Master of Science in Management                  +0 kept, 0 dropped
+university-o Master of Science in Computer Science            +0 kept, 0 dropped
+university-o Master of Science in Entrepreneurship            +1 kept, 0 dropped
+university-o Master of Cyber Operations                       +0 kept, 0 dropped
+university-o Master of Science in Business Analytics          +0 kept, 0 dropped
+university-o Master of Arts in Educational Psychology         +0 kept, 0 dropped
+university-o Master of Business Administration (MBA)          +0 kept, 0 dropped
+university-o Master of Science in Innovations in Aging        +1 kept, 0 dropped
+university-o Master of Science in Statistics and Data Science +0 kept, 0 dropped
+university-o Master of Science in Environmental Health Scienc +0 kept, 0 dropped
+victoria-uni Master of Laws LLM                               +1 kept, 0 dropped
+university-o Master of Science in Biosystems Analytics and Te +0 kept, 0 dropped
+university-o Master of Science in Management Information Syst +0 kept, 0 dropped
+victoria-uni Master of TESOL – MTESOL                         +3 kept, 0 dropped
+victoria-uni Master of Data Science – MDataSc                 +1 kept, 0 dropped
+victoria-uni Master of Communication – MC                     +2 kept, 0 dropped
+victoria-uni Master of Criminology – MCrim                    +2 kept, 1 dropped
+victoria-uni Master of Global Business – MGBus                +2 kept, 0 dropped
+victoria-uni Master of Construction – MConst                  +3 kept, 1 dropped
+victoria-uni Master of Nursing Science – MNS                  +2 kept, 0 dropped
+victoria-uni Master of Computer Science – MCompSc             +2 kept, 0 dropped
+victoria-uni Master of Construction Law – MConsLaw            +2 kept, 0 dropped
+victoria-uni Master of Nursing Practice – MNursPrac           +2 kept, 0 dropped
+victoria-uni Master of Actuarial Science – MActSc             +2 kept, 0 dropped
+victoria-uni Master of Public Management – MPM                +2 kept, 0 dropped
+victoria-uni Master of Health Psychology – MHlthPsyc          +3 kept, 0 dropped
+victoria-uni Master of International Trade – MIntTr           +2 kept, 0 dropped
+victoria-uni Master of Software Development – MSwDev          +1 kept, 0 dropped
+victoria-uni Master of Artificial Intelligence – MAI          +1 kept, 0 dropped
+victoria-uni Master of International Relations – MIR          +2 kept, 0 dropped
+victoria-uni Master of Secondary School Leadership – MSSL     +0 kept, 0 dropped
+victoria-uni Master of Professional Accounting MPA            +2 kept, 0 dropped
+victoria-uni Master of Physical Activity and Hauora – MPAH    +0 kept, 0 dropped
+victoria-uni Master of Teaching and Learning (Primary) – MTch +2 kept, 0 dropped
+victoria-uni Master of Professional Business Analysis – MBusA +2 kept, 0 dropped
+victoria-uni Master of Education MEd                          +2 kept, 0 dropped
+northwestern LLM for International Students                   +0 kept, 0 dropped
+northwestern LLM in Taxation                                  +0 kept, 0 dropped
+northwestern Data Science, MS                                 +0 kept, 0 dropped
+northwestern Global Health, MS                                +0 kept, 0 dropped
+victoria-uni Master of Intercultural Communication and Applie +2 kept, 0 dropped
+northwestern Health Informatics, MS                           +0 kept, 0 dropped
+northwestern Information Systems, MS                          +0 kept, 0 dropped
+northwestern Healthcare Data Science, MS                      +0 kept, 0 dropped
+northwestern Sports Administration, MA                        +0 kept, 0 dropped
+northwestern Healthcare Administration, MS                    +0 kept, 0 dropped
+northwestern Literature, MA Film, Literature, and Visual Cult +0 kept, 0 dropped
+northwestern Public Policy and Administration, MA             +0 kept, 0 dropped
+northwestern Enterprise Risk Management, MS General Enterpris +0 kept, 0 dropped
+northwestern Data Science, MS Analytics and Modeling Speciali +0 kept, 0 dropped
+northwestern Data Science, MS Analytics Management Specializa +0 kept, 0 dropped
+northwestern Enterprise Risk Management, MS AI and Technology +0 kept, 0 dropped
+northwestern Data Science, MS Artificial Intelligence Special +0 kept, 0 dropped
+northwestern Information Systems, MS Information Systems Secu +0 kept, 0 dropped
+northwestern Information Systems, MS Data Science Specializat +0 kept, 0 dropped
+northwestern Information Systems, MS Information Systems Mana +0 kept, 0 dropped
+northwestern Data Science, MS Technology Entrepreneurship Spe +0 kept, 0 dropped
+northwestern Sports Administration, MA Sports Analytics Speci +0 kept, 0 dropped
+northwestern Health Informatics, MS Healthcare AI and Digital +0 kept, 0 dropped
+northwestern Health Informatics, MS Clinical Informatics Spec +0 kept, 0 dropped
+northwestern Information Systems, MS Health Informatics Speci +0 kept, 0 dropped
+northwestern Public Policy and Administration, MA Global Poli +0 kept, 0 dropped
+northwestern Information Systems, MS Artificial Intelligence  +0 kept, 0 dropped
+northwestern Information Systems, MS Project Management Speci +0 kept, 0 dropped
+northwestern Sports Administration, MA College Sports Managem +0 kept, 0 dropped
+northwestern Public Policy and Administration, MA Global Heal +0 kept, 0 dropped
+northwestern Public Policy and Administration, MA Public Poli +0 kept, 0 dropped
+northwestern Information Systems, MS Database and Internet Te +0 kept, 0 dropped
+northwestern Public Policy and Administration, MA Data Analyt +0 kept, 0 dropped
+northwestern Public Policy and Administration, MA Public Admi +0 kept, 0 dropped
+new-york-uni Law (LLM)                                        +0 kept, 0 dropped
+new-york-uni Taxation (LLM)                                   +0 kept, 0 dropped
+new-york-uni Legal Theory (LLM)                               +0 kept, 0 dropped
+new-york-uni Fintech (MS)                                     +0 kept, 0 dropped
+new-york-uni Corporate Law (LLM)                              +0 kept, 0 dropped
+new-york-uni Economics (MS)                                   +0 kept, 0 dropped
+new-york-uni Media Producing (MA)                             +0 kept, 0 dropped
+new-york-uni Management (MS)                                  +1 kept, 0 dropped
+new-york-uni Accounting (MS)                                  +2 kept, 0 dropped
+new-york-uni Economics (MA)                                   +0 kept, 0 dropped
+new-york-uni Journalism (MA)                                  +0 kept, 0 dropped
+new-york-uni Psychology (MA)                                  +1 kept, 0 dropped
+new-york-uni Luxury and Retail (MBA)                          +0 kept, 0 dropped
+new-york-uni Health Law and Strategy (MS)                     +1 kept, 0 dropped
+new-york-uni Nurse-Midwifery (MS)                             +0 kept, 0 dropped
+new-york-uni Data Science (MS)                                +0 kept, 0 dropped
+new-york-uni Global Finance (MS)                              +1 kept, 1 dropped
+new-york-uni Cybersecurity (MS)                               +0 kept, 0 dropped
+new-york-uni Nursing Education (MS)                           +0 kept, 0 dropped
+new-york-uni Interactive Media Arts (MA)                      +0 kept, 0 dropped
+new-york-uni International Taxation (LLM)                     +0 kept, 0 dropped
+new-york-uni Nursing Informatics (MS)                         +0 kept, 0 dropped
+new-york-uni General Management (MBA)                         +0 kept, 0 dropped
+new-york-uni Quantitative Finance (MS)                        +0 kept, 0 dropped
+new-york-uni Environmental and Energy Law (LLM)               +0 kept, 0 dropped
+new-york-uni Stern at NYU Abu Dhabi (MBA)                     +0 kept, 0 dropped
+new-york-uni Cybersecurity Risk and Strategy (MS)             +2 kept, 0 dropped
+new-york-uni American Journalism (MA)                         +0 kept, 0 dropped
+new-york-uni Information Systems (MS)                         +0 kept, 0 dropped
+new-york-uni Mathematics in Finance (MS)                      +0 kept, 0 dropped
+new-york-uni Business Analytics and AI (MS)                   +1 kept, 1 dropped
+new-york-uni Real Estate (MS)                                 +0 kept, 0 dropped
+new-york-uni International Legal Studies (LLM)                +0 kept, 0 dropped
+new-york-uni Scientific Computing (MS)                        +0 kept, 0 dropped
+new-york-uni Management of Technology (MS)                    +0 kept, 0 dropped
+new-york-uni Marketing and Retail Science (MS)                +1 kept, 0 dropped
+new-york-uni Mechatronics and Robotics (MS)                   +0 kept, 0 dropped
+new-york-uni Global Sport (MS)                                +0 kept, 0 dropped
+new-york-uni Family Nurse Practitioner (MS)                   +0 kept, 0 dropped
+new-york-uni Quantitative Economics (MS)                      +1 kept, 1 dropped
+new-york-uni Computer Science Tandon (MS)                     +0 kept, 0 dropped
+new-york-uni Public Health (MPH)                              +0 kept, 0 dropped
+new-york-uni Construction Management (MS)                     +0 kept, 0 dropped
+new-york-uni International Relations (MA)                     +0 kept, 0 dropped
+new-york-uni Sports Business (MS)                             +0 kept, 0 dropped
+new-york-uni Computer Science Courant (MS)                    +0 kept, 0 dropped
+new-york-uni Technology and Entrepreneurship (MBA)            +0 kept, 0 dropped
+new-york-uni Journalism and French Studies (MA)               +0 kept, 0 dropped
+new-york-uni Project Management (MS)                          +0 kept, 0 dropped
+new-york-uni Journalism and Africana Studies (MA)             +0 kept, 0 dropped
+new-york-uni Health Policy and Management (MPA)               +2 kept, 0 dropped
+new-york-uni Environmental Health Science (MS)                +0 kept, 0 dropped
+new-york-uni Organization Management and Strategy (MS)        +1 kept, 0 dropped
+new-york-uni Integrated Marketing (MS)                        +0 kept, 0 dropped
+new-york-uni Journalism and East Asian Studies (MA)           +0 kept, 0 dropped
+new-york-uni Management and Analytics (MS)                    +1 kept, 0 dropped
+new-york-uni Data Analytics and Business Computing (MS)       +1 kept, 0 dropped
+new-york-uni Interdisciplinary Data Science and Artificial In +1 kept, 0 dropped
+new-york-uni Journalism and Near Eastern Studies (MA)         +0 kept, 0 dropped
+new-york-uni Competition, Innovation & Information Law (LLM)  +0 kept, 0 dropped
+new-york-uni Real Estate Development (MS)                     +0 kept, 0 dropped
+new-york-uni Human Capital Management (MS)                    +1 kept, 0 dropped
+new-york-uni Travel and Tourism Management (MS)               +0 kept, 0 dropped
+new-york-uni Journalism and Russian and Slavic Studies (MA)   +0 kept, 0 dropped
+new-york-uni Journalism and International Relations (MA)      +0 kept, 0 dropped
+new-york-uni Entrepreneurship and Management (MS)             +0 kept, 0 dropped
+new-york-uni Industrial/Organizational Psychology (MA)        +0 kept, 0 dropped
+new-york-uni Games for Learning (MS)                          +0 kept, 0 dropped
+new-york-uni Computing, Entrepreneurship and Innovation (MS)  +1 kept, 0 dropped
+new-york-uni Pediatrics Primary Care Nurse Practitioner (MS)  +0 kept, 0 dropped
+new-york-uni Global Hospitality Management (MS)               +0 kept, 0 dropped
+new-york-uni Psychiatric-Mental Health Nurse Practitioner (MS +0 kept, 0 dropped
+new-york-uni Public and Nonprofit Management and Policy (MPA) +2 kept, 0 dropped
+new-york-uni Journalism and European and Mediterranean Studie +0 kept, 0 dropped
+new-york-uni Human Capital Analytics and Technology (MS)      +0 kept, 0 dropped
+new-york-uni Adult-Gerontology Acute Care Nurse Practitioner  +0 kept, 0 dropped
+new-york-uni Journalism and Latin American and Caribbean Stud +0 kept, 0 dropped
+new-york-uni Pediatrics Nurse Practitioner Primary Care/Acute +0 kept, 0 dropped
+new-york-uni Adult-Gerontology Primary Care Nurse Practitione +0 kept, 0 dropped
+new-york-uni Global Security, Conflict, and Cyber Crime (MS)  +0 kept, 0 dropped
+new-york-uni International Education (MA)                     +1 kept, 0 dropped
+new-york-uni World Language Education (MA)                    +0 kept, 0 dropped
+new-york-uni Teaching Dance, All Grades (MA)                  +0 kept, 0 dropped
+new-york-uni International Business Regulation, Litigation &  +0 kept, 0 dropped
+new-york-uni Public Relations and Corporate Communication (MS +0 kept, 0 dropped
+new-york-uni Teaching Dance in the Professions (MA)           +0 kept, 0 dropped
+new-york-uni Visual Arts Administration (MA)                  +0 kept, 0 dropped
+new-york-uni Media, Culture, and Communication (MA)           +0 kept, 0 dropped
+new-york-uni Bilingual Education for Teachers (MA)            +0 kept, 0 dropped
+new-york-uni Specialized Studies in Education (MA)            +0 kept, 0 dropped
+new-york-uni Educational Theatre, All Grades (MA)             +0 kept, 0 dropped
+new-york-uni Performing Arts Administration (MA)              +0 kept, 0 dropped
+new-york-uni Higher Education and Student Affairs (MA)        +1 kept, 0 dropped
+new-york-uni Counseling for Mental Health and Wellness (MA)   +0 kept, 0 dropped
+new-york-uni Early Childhood Education/Special Education: Ear +0 kept, 0 dropped
+new-york-uni Educational Leadership, Politics, and Advocacy ( +0 kept, 0 dropped
+new-york-uni Teaching English to Speakers of Other Languages  +0 kept, 0 dropped
+new-york-uni Teaching World Languages 7-12/TESOL (All Grades) +0 kept, 0 dropped
+new-york-uni Educational Theatre, All Grades, and English, 7- +0 kept, 0 dropped
+new-york-uni Transformational Teaching in Middle and High Sch +1 kept, 0 dropped
+new-york-uni Childhood Education/Special Education: Childhood +0 kept, 0 dropped
+new-york-uni Educational Theatre, All Grades, and Social Stud +0 kept, 0 dropped
+new-york-uni Human Capital Management/Human Capital Analytics +2 kept, 0 dropped
+new-york-uni Transformational Teaching Students with Disabili +0 kept, 0 dropped
+new-york-uni Teaching English to Speakers of Other Languages  +0 kept, 0 dropped
+new-york-uni Teaching English 7-12 with 5-6 Extension/Student +0 kept, 0 dropped
+new-york-uni Teaching Social Studies 7-12 with 5-6 Extension/ +0 kept, 0 dropped
+university-o Economics, MS                                    +0 kept, 0 dropped
+university-o Finance, MS                                      +2 kept, 0 dropped
+university-o Management, MS                                   +1 kept, 1 dropped
+university-o Psychology, MS                                   +2 kept, 0 dropped
+university-o Law, LLM                                         +3 kept, 0 dropped
+university-o Journalism, MS                                   +1 kept, 0 dropped
+university-o Art Education, MA                                +1 kept, 0 dropped
+university-o Advertising, MS                                  +1 kept, 0 dropped
+university-o Communication, MA                                +2 kept, 0 dropped
+university-o Public Health, MPH                               +1 kept, 0 dropped
+university-o Game Development, MS                             +0 kept, 0 dropped
+university-o Epidemiology, MPH                                +2 kept, 0 dropped
+university-o Teaching of Latin, MA                            +2 kept, 1 dropped
+university-o Policy Economics, MS                             +0 kept, 0 dropped
+university-o Actuarial Science, MS                            +0 kept, 0 dropped
+university-o Law, MSL                                         +2 kept, 0 dropped
+university-o Business Analytics, MS                           +0 kept, 0 dropped
+university-o Information Management, MS                       +0 kept, 0 dropped
+university-o Teaching of Mathematics, MS                      +2 kept, 0 dropped
+university-o Technology Management, MS                        +1 kept, 0 dropped
+university-o Recreation, Sport & Tourism, MS                  +0 kept, 0 dropped
+university-o Psychological Science, MS                        +2 kept, 0 dropped
+university-o Computer Science, MS                             +0 kept, 0 dropped
+university-o Educational Psychology, MA                       +0 kept, 0 dropped
+university-o Mental Health Counseling, MS                     +2 kept, 0 dropped
+university-o Educational Psychology, MS                       +0 kept, 0 dropped
+university-o Strategic Brand Communications, MS               +2 kept, 0 dropped
+university-o Teaching of English as a Second Language, MA     +2 kept, 1 dropped
+university-o Economic Modeling, AI, and Data Science, MS      +0 kept, 0 dropped
+university-o Journalism, MS and Law, JD                       +0 kept, 0 dropped
+university-o Predictive Analytics and Risk Management, MS     +1 kept, 0 dropped
+university-o Education Policy, Organization & Leadership, MA  +0 kept, 0 dropped
+university-o Public Health, MPH & Urban Planning, MUP         +0 kept, 0 dropped
+university-o Law, JD and Library and Information Science, MS  +0 kept, 0 dropped
+university-o Political Science: Civic Leadership, MA & Law, J +1 kept, 0 dropped
+university-o Natural Resources & Environmental Sciences, MS a +0 kept, 0 dropped
+university-o Economics, MS                                    +0 kept, 0 dropped
+university-o Psychology, MS                                   +0 kept, 0 dropped
+university-o Data Science, MS                                 +1 kept, 0 dropped
+university-o Quantum Computing, MS                            +2 kept, 0 dropped
+university-o Nursing, MS                                      +0 kept, 0 dropped
+university-o Business, MS                                     +0 kept, 0 dropped
+university-o Financial Economics, MS                          +1 kept, 0 dropped
+university-o Business: Marketing, MBA                         +2 kept, 0 dropped
+university-o Counseling, MS                                   +2 kept, 0 dropped
+university-o Quantitative Economics, MS                       +1 kept, 0 dropped
+university-o Computer Sciences, MS                            +0 kept, 0 dropped
+university-o Communication Arts, MA                           +0 kept, 0 dropped
+university-o Business: Analytics, MS                          +0 kept, 0 dropped
+university-o School Psychology, MS                            +0 kept, 0 dropped
+university-o Learning Analytics, MS                           +1 kept, 0 dropped
+university-o Business: Finance, Investment, and Banking, MS   +0 kept, 0 dropped
+university-o Business: Finance, Investment, and Banking, MBA  +0 kept, 0 dropped
+university-o Applied and Computational Mathematics, MS        +2 kept, 0 dropped
+university-o Business: General Management, MBA                +0 kept, 0 dropped
+university-o Business: Risk Management and Insurance, MBA     +2 kept, 0 dropped
+university-o Business: Accounting, MAcc                       +0 kept, 0 dropped
+university-o Business: Data, Insights, and Analytics MS       +0 kept, 1 dropped
+university-o Educational Policy Studies, MA                   +1 kept, 0 dropped
+university-o Life Sciences Communication, MS                  +0 kept, 0 dropped
+university-o Business: Supply Chain Management, MBA           +3 kept, 0 dropped
+university-o Sports Leadership, MS                            +0 kept, 0 dropped
+university-o Business: Administration and Management, MBA     +0 kept, 0 dropped
+university-o Journalism and Mass Communication, MA            +0 kept, 0 dropped
+university-o Special Education, MS                            +0 kept, 0 dropped
+university-o Business: Management and Human Resources, MBA    +0 kept, 0 dropped
+university-o Communication Sciences and Disorders, MS         +2 kept, 0 dropped
+university-o Business: Accounting and Business Analysis, MS   +0 kept, 0 dropped
+university-o Business: Supply Chain Management, MS            +2 kept, 0 dropped
+university-o Business: Financial Management and Accounting, M +2 kept, 0 dropped
+university-o Business: Operations and Technology Management,  +0 kept, 0 dropped
+university-o Educational Leadership and Policy Analysis, MS   +0 kept, 0 dropped
+university-o Clinical Rehabilitation Counseling, MS           +1 kept, 0 dropped
+university-o Special Education Teacher Certification, MS      +1 kept, 0 dropped
+georgia-inst Master of Science in Robotics                    +0 kept, 0 dropped
+georgia-inst Master of Business Administration (MBA)          +0 kept, 0 dropped
+georgia-inst Master of Science in Analytics                   +0 kept, 0 dropped
+georgia-inst Master of Science in Economics                   +0 kept, 0 dropped
+georgia-inst Master of Science with a Major in Management     +0 kept, 0 dropped
+georgia-inst Master of Science in Psychology                  +0 kept, 0 dropped
+georgia-inst Master of Science in Cybersecurity               +0 kept, 0 dropped
+georgia-inst Master of Science in Digital Media               +1 kept, 0 dropped
+georgia-inst Master of Science in Global Media and Cultures   +0 kept, 0 dropped
+georgia-inst Master of Science in Computer Science            +1 kept, 0 dropped
+georgia-inst Master of Science in Human-Computer Interaction  +0 kept, 0 dropped
+georgia-inst Master of Business Administration - Global Busin +0 kept, 0 dropped
+georgia-inst Master of Real Estate Development                +2 kept, 0 dropped
+georgia-inst Master of Business Administration in Management  +0 kept, 1 dropped
+georgia-inst Master of Science in Quantitative and Computatio +0 kept, 0 dropped
+georgia-inst Master of Science in Building Construction and F +0 kept, 0 dropped
+texas-a-and- Master of Laws in Laws                           +0 kept, 0 dropped
+texas-a-and- Master of Science in Finance                     +0 kept, 0 dropped
+texas-a-and- Master of Science in Accounting                  +0 kept, 0 dropped
+texas-a-and- Master of Science in Marketing                   +0 kept, 0 dropped
+texas-a-and- Master of Science in Human Resource Management   +0 kept, 0 dropped
+texas-a-and- Master of Laws in Cross-Border Advocacy          +0 kept, 0 dropped
+texas-a-and- Master of Science in Business                    +2 kept, 0 dropped
+texas-a-and- Master of Science in Nursing in Forensic Nursing +0 kept, 0 dropped
+texas-a-and- Master of Laws in Intellectual Property          +0 kept, 0 dropped
+texas-a-and- Master of Science in Nursing in Nursing Educatio +0 kept, 0 dropped
+texas-a-and- Master of Science in Economics                   +0 kept, 0 dropped
+texas-a-and- Master of Business Administration in Business Ad +0 kept, 0 dropped
+texas-a-and- Master of Science in Computer Science            +0 kept, 0 dropped
+texas-a-and- Master of Computer Science in Computer Science   +0 kept, 0 dropped
+texas-a-and- Master of Science in Data Science                +0 kept, 0 dropped
+texas-a-and- Master of Public Health in Health Behavior       +0 kept, 0 dropped
+texas-a-and- Master of Science in Nursing in Family Nurse Pra +0 kept, 0 dropped
+texas-a-and- Master of Science in Construction Management     +0 kept, 0 dropped
+texas-a-and- Master of Science in Analytics                   +0 kept, 0 dropped
+texas-a-and- Master of Science in Quantitative Finance        +0 kept, 0 dropped
+texas-a-and- Master of Public Health in Health Policy and Man +0 kept, 0 dropped
+texas-a-and- Master of Science in Public Health in Health Pol +0 kept, 0 dropped
+texas-a-and- Mays Professional MBA Program                    +1 kept, 0 dropped
+texas-a-and- Master of Science in Management Information Syst +0 kept, 0 dropped
+texas-a-and- Master of Science in Cybersecurity               +1 kept, 0 dropped
+texas-a-and- Master of Science in Entrepreneurial Leadership  +0 kept, 0 dropped
+texas-a-and- Master of Science in Educational Psychology      +0 kept, 0 dropped
+texas-a-and- Master of Science in Sport Business Analytics    +0 kept, 0 dropped
+texas-a-and- Master of Education in Educational Psychology    +0 kept, 0 dropped
+texas-a-and- Master of Public Health in Epidemiology          +0 kept, 0 dropped
+texas-a-and- Master of Science in Statistical Data Science    +0 kept, 0 dropped
+texas-a-and- Master of Science in Bilingual/ESL Education     +0 kept, 0 dropped
+texas-a-and- Master of Science in Artificial Intelligence     +0 kept, 0 dropped
+texas-a-and- Master of Public Health in Health Policy and Man +0 kept, 0 dropped
+texas-a-and- Master of Science in Supply Chain and Analytics  +0 kept, 0 dropped
+texas-a-and- Master of Education in Bilingual/ESL Education   +0 kept, 0 dropped
+texas-a-and- Master of Equine Industry Management             +1 kept, 0 dropped
+texas-a-and- Master of Science in Education for Health Care P +0 kept, 0 dropped
+texas-a-and- Master of Science in Special Education           +0 kept, 0 dropped
+texas-a-and- Master of Science In Veterinary Public Health-Ep +0 kept, 1 dropped
+texas-a-and- Master of Public Health in Environmental Health  +0 kept, 0 dropped
+texas-a-and- Master of Science in Psychological Sciences      +0 kept, 0 dropped
+texas-a-and- Master of Public Health in Occupational Safety a +0 kept, 0 dropped
+texas-a-and- Master of Public Health in Biostatistics         error: 429 {"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your rate limit of 500,000 input tokens per minute (org: 5c360f3e-fa6b-403e-8aaa-f84f70e6aed8, model: claude
+texas-a-and- Master of Science in Sport Management            +0 kept, 0 dropped
+texas-a-and- Master of Land and Property Development in Land  +0 kept, 0 dropped
+texas-a-and- Master of Science in Educational Administration  +0 kept, 0 dropped
+texas-a-and- Master of Science in Science and Technology Jour +0 kept, 0 dropped
+texas-a-and- Master of Science in Hospitality, Tourism and Re +0 kept, 0 dropped
+texas-a-and- Master of Education in Special Education         +0 kept, 0 dropped
+texas-a-and- Master of Science in Veterinary Public Health Ep +0 kept, 0 dropped
+university-o Master of Public Health                          +1 kept, 0 dropped
+texas-a-and- Master of Science in Educational Human Resource  +0 kept, 0 dropped
+university-o Master of Finance                                +2 kept, 0 dropped
+texas-a-and- Master of Education in Educational Administratio +2 kept, 0 dropped
+university-o Master of Innovation and Entrepreneurship        +0 kept, 1 dropped
+university-o Master of Professional Accountancy               +2 kept, 0 dropped
+university-o Master of Embedded and Cyber-Physical Systems    +0 kept, 0 dropped
+university-o Master of Data Science                           +1 kept, 0 dropped
+university-o Master of Public Administration                  +1 kept, 0 dropped
+university-o Master of Computer Science                       +1 kept, 0 dropped
+university-o Master of Legal and Forensic Psychology          +1 kept, 0 dropped
+university-o Economics, Master of Arts (M.A.)                 +0 kept, 0 dropped
+university-o Finance, Master of Finance (M.Fin.)              +0 kept, 0 dropped
+university-o Journalism, Master of Arts (M.A.)                +0 kept, 0 dropped
+university-o Psychology, Master of Science (M.S.)             +0 kept, 0 dropped
+university-o Finance, Master of Finance (M.Fin.)              +0 kept, 0 dropped
+university-o Data Science, Master of Science (M.S.)           +0 kept, 0 dropped
+university-o Communication, Master of Arts (M.A.)             +0 kept, 0 dropped
+university-o Accounting, Master of Science (M.S.)             +0 kept, 0 dropped
+university-o Epidemiology, Master of Public Health (M.P.H.)   +0 kept, 0 dropped
+university-o Biostatistics, Master of Public Health (M.P.H.)  +0 kept, 0 dropped
+university-o Health Equity, Master of Public Health (M.P.H.)  +0 kept, 0 dropped
+university-o Human Development, Master of Education (off camp +0 kept, 0 dropped
+university-o Higher Education, Student Affairs, and Internati +0 kept, 0 dropped
+university-o Data Journalism, Master of Professional Studies  +0 kept, 0 dropped
+university-o Computer Science, Master of Science (M.S.)       +0 kept, 0 dropped
+university-o Computer Science, Master of Science (M.S.)       +0 kept, 0 dropped
+university-o Creative Initiatives in Teacher Education, Maste +2 kept, 0 dropped
+university-o Higher Education, Student Affairs, and Internati +0 kept, 0 dropped
+university-o Higher Education, Student Affairs, and Internati +0 kept, 0 dropped
+university-o Machine Learning, Master of Professional Studies +0 kept, 0 dropped
+university-o Quantum Computing, Master of Science (M.S.)      +0 kept, 0 dropped
+university-o School Psychology, Master of Arts (M.A.)         +0 kept, 0 dropped
+university-o Accounting, Master of Science (M.S.)             +0 kept, 0 dropped
+university-o Special Education, Master of Arts (M.A.)         +0 kept, 0 dropped
+university-o Human Development, Master of Education (M.Ed.)   +2 kept, 0 dropped
+university-o Physical Activity, Master of Public Health (M.P. +0 kept, 0 dropped
+university-o Quantum Computing, Master of Professional Studie +0 kept, 0 dropped
+university-o Public Management, Master of Public Management ( +0 kept, 0 dropped
+university-o School Counseling, Master of Education (M.Ed.)   +1 kept, 0 dropped
+university-o Special Education, Master of Education (M.Ed.)   +0 kept, 0 dropped
+university-o Business Analytics, Master of Science (M.S.)     +0 kept, 0 dropped
+university-o Business Analytics, Master of Science (M.S.)     +0 kept, 0 dropped
+university-o Management Studies, Master of Science (M.S.)     +0 kept, 0 dropped
+university-o Justice Leadership, Master of Professional Studi +0 kept, 0 dropped
+university-o Telecommunications, Master of Science (M.S.)     +0 kept, 0 dropped
+university-o PreK-12 Art Education, Master of Education (cert +0 kept, 0 dropped
+university-o Elementary Education, Master of Education (certi +0 kept, 0 dropped
+university-o Information Systems, Master of Science (M.S.)    +0 kept, 0 dropped
+university-o Marketing Analytics, Master of Science (M.S.)    +0 kept, 0 dropped
+university-o Supply Chain Management, Master of Science (M.S. +0 kept, 0 dropped
+university-o Survey and Data Science, Master of Science (M.S. +0 kept, 0 dropped
+university-o PreK-12 Dance Education, Master of Education (ce +0 kept, 0 dropped
+university-o Community Counseling, Master of Arts (M.A.)      +0 kept, 0 dropped
+university-o PreK-12 Teaching English to Speakers of Other La +0 kept, 0 dropped
+university-o Product Management, Master of Professional Studi +0 kept, 0 dropped
+university-o Community Counseling, Master of Education (M.Ed. +0 kept, 0 dropped
+university-o Middle School Education, Master of Education (ce +0 kept, 0 dropped
+university-o Game, Entertainment, and Media Analytics, Master +0 kept, 0 dropped
+university-o Quantitative Finance, Master of Quantitative Fin +0 kept, 0 dropped
+university-o Counseling Psychology, Master of Arts (M.A.)     +0 kept, 0 dropped
+university-o Machine Learning, Master of Professional Studies +0 kept, 0 dropped
+university-o World Languages Education, Master of Education ( +1 kept, 0 dropped
+university-o Management Studies, Master of Science (M.S.)     +0 kept, 0 dropped
+university-o Public Administration, Master of Professional St +1 kept, 0 dropped
+university-o Art Education, Master of Education (M.Ed.)       +0 kept, 0 dropped
+university-o Applied Economics, Master of Science (M.S.)      +0 kept, 0 dropped
+university-o Applied Economics, Master of Professional Studie +0 kept, 0 dropped
+university-o Secondary English Education, Master of Education +0 kept, 0 dropped
+university-o Data Science and Analytics, Master of Profession +0 kept, 0 dropped
+university-o Applied Economics, Master of Science (M.S.)      +0 kept, 0 dropped
+university-o Health Care Management, Master of Public Health  +0 kept, 0 dropped
+university-o Information Management, Master of Information Ma +1 kept, 0 dropped
+university-o Information Systems, Master of Science (M.S.)    +0 kept, 0 dropped
+university-o Marketing Analytics, Master of Science (M.S.)    +0 kept, 0 dropped
+university-o Applied Economics, Master of Professional Studie +0 kept, 0 dropped
+university-o Artificial Intelligence, Master of Science (M.S. +0 kept, 0 dropped
+university-o Reading Education & Reading Specialist, Master o +0 kept, 0 dropped
+university-o Secondary Sciences Education, Master of Educatio +0 kept, 0 dropped
+university-o STEM Elementary Education, Master of Education ( +0 kept, 0 dropped
+university-o International Relations, Master of Arts (M.A.)   +0 kept, 0 dropped
+university-o Supply Chain Management, Master of Science (M.S. +0 kept, 0 dropped
+university-o Survey and Data Science, Master of Professional  +0 kept, 0 dropped
+university-o Arts Integration, Master of Education (M.Ed.)    +0 kept, 0 dropped
+university-o Business Administration, Master of Business Admi +0 kept, 0 dropped
+university-o Real Estate Development, Master of Professional  +0 kept, 0 dropped
+university-o Applied Machine Learning, Master of Science (M.S +0 kept, 0 dropped
+university-o Reading Education, Master of Education (M.Ed.)   +0 kept, 0 dropped
+university-o Science Education, Master of Education (M.Ed.)   +0 kept, 0 dropped
+university-o Quantitative Finance, Master of Quantitative Fin +0 kept, 0 dropped
+university-o Physical Activity, Master of Public Health (M.P. +0 kept, 0 dropped
+university-o Secondary Mathematics Education, Master of Educa +0 kept, 0 dropped
+university-o Public Safety Leadership and Administration, Mas +0 kept, 0 dropped
+university-o PreK-12 Health Education, Master of Education (c +0 kept, 0 dropped
+university-o Secondary Social Studies Education, Master of Ed +0 kept, 0 dropped
+university-o Mathematics Education, Master of Education (M.Ed +0 kept, 0 dropped
+university-o PreK-12 World Languages, Master of Education (ce +1 kept, 0 dropped
+university-o Data Science and Analytics, Master of Profession +0 kept, 0 dropped
+university-o Human-Computer Interaction, Master of Science (M +0 kept, 0 dropped
+university-o Information Management, Master of Information Ma +0 kept, 0 dropped
+university-o Applied Political Analytics, Master of Science ( +0 kept, 0 dropped
+university-o PreK-12 Physical Education, Master of Education  +1 kept, 0 dropped
+university-o Secondary Computer Science Education, Master of  +1 kept, 0 dropped
+university-o Behavioral and Community Health, Master of Publi +1 kept, 0 dropped
+university-o Social Studies Education, Master of Education (M +0 kept, 0 dropped
+university-o TESOL Teacher Leadership, Master of Education (M +0 kept, 0 dropped
+university-o Technology Entrepreneurship and Corporate Innova +0 kept, 0 dropped
+university-o Criminology and Criminal Justice, Master of Arts +0 kept, 0 dropped
+university-o English Literacy Education, Master of Education  +0 kept, 0 dropped
+university-o Environmental Health Sciences, Master of Science +0 kept, 0 dropped
+university-o Environmental Health Sciences, Master of Public  +0 kept, 0 dropped
+university-o Public Health Practice and Policy, Master of Pub +0 kept, 0 dropped
+university-o Higher Education, Student Affairs, and Internati +1 kept, 0 dropped
+university-o Artificial Intelligence, Master of Science (M.S. +0 kept, 0 dropped
+university-o Clinical Psychological Science, Master of Profes +0 kept, 0 dropped
+university-o Business Administration, Master of Business Admi +0 kept, 0 dropped
+university-o Middle School Mathematics Education, Master of E +0 kept, 0 dropped
+university-o Leadership Education & Development, Master of Pr +0 kept, 0 dropped
+university-o Behavioral and Community Health, Master of Publi +1 kept, 0 dropped
+university-o Measurement, Statistics and Evaluation, Master o +0 kept, 0 dropped
+university-o Teaching and Learning, Policy and Leadership, Ma +0 kept, 0 dropped
+university-o Health Policy Analysis and Evaluation, Master of +0 kept, 0 dropped
+university-o Industrial/Organizational Psychology, Master of  +0 kept, 0 dropped
+university-o Quantitative Methodology: Measurement and Statis +0 kept, 0 dropped
+georgetown-u Finance, MS                                      +1 kept, 0 dropped
+university-o Applied Mathematics & Statistics, and Scientific +0 kept, 0 dropped
+georgetown-u Nursing, MS                                      +0 kept, 0 dropped
+georgetown-u Economics, MA                                    +0 kept, 0 dropped
+georgetown-u Management, MS                                   +1 kept, 0 dropped
+georgetown-u Economics, MS                                    +1 kept, 0 dropped
+georgetown-u Global Health, MS                                +0 kept, 0 dropped
+georgetown-u Epidemiology, MPH                                +1 kept, 0 dropped
+georgetown-u Computer Science, MS                             +0 kept, 0 dropped
+georgetown-u Business Analytics, MS                           +1 kept, 0 dropped
+georgetown-u Global Finance, MS                               +1 kept, 0 dropped
+georgetown-u Financial Economics, MS                          +0 kept, 0 dropped
+georgetown-u Entry to Nursing Program, MS                     +0 kept, 0 dropped
+georgetown-u Data Science & Analytics, MS                     +1 kept, 0 dropped
+georgetown-u Applied Economics, MA                            +0 kept, 0 dropped
+georgetown-u Business Administration, MBA                     +1 kept, 0 dropped
+georgetown-u Educational Transformation, MA                   +1 kept, 0 dropped
+georgetown-u Computational Linguistics, MS                    +0 kept, 0 dropped
+georgetown-u Data Science for Public Policy, MS               +0 kept, 0 dropped
+georgetown-u Health Systems Administration, MS                +0 kept, 0 dropped
+georgetown-u Global Real Estate, MBA Certificate              +0 kept, 0 dropped
+georgetown-u International Business & Policy, MA              +1 kept, 0 dropped
+georgetown-u Business of Healthcare, MBA Certificate          +0 kept, 0 dropped
+georgetown-u Health Informatics & Data Science, MS            +0 kept, 0 dropped
+georgetown-u Communication, Culture & Technology, MA          +0 kept, 0 dropped
+georgetown-u Women’s Health Nurse Practitioner, MS            +0 kept, 0 dropped
+georgetown-u Sustainable Business, MBA Certificate            +0 kept, 0 dropped
+georgetown-u Nonmarket Strategy, MBA Certificate              +0 kept, 0 dropped
+georgetown-u Family Nurse Practitioner Program, MS            +0 kept, 0 dropped
+georgetown-u Adult Gerontology Acute Care Nurse Practitioner, +0 kept, 0 dropped
+georgetown-u Consumer Analytics and Insights, MBA Certificate +0 kept, 0 dropped
+georgetown-u Nurse-Midwifery/Women’s Health Nurse Practitione +0 kept, 0 dropped
+north-caroli Teaching (MA)                                    +0 kept, 0 dropped
+north-caroli Economics (MS)                                   +0 kept, 0 dropped
+north-caroli Cybersecurity (MS)                               +0 kept, 0 dropped
+north-caroli Special Education (MS)                           +0 kept, 0 dropped
+north-caroli Computer Science (MS)                            +0 kept, 0 dropped
+north-caroli Special Education (MEd)                          +0 kept, 0 dropped
+north-caroli Analytics (MS)                                   +0 kept, 0 dropped
+north-caroli Elementary Education (MS)                        +0 kept, 0 dropped
+north-caroli School Counseling (MEd)                          +0 kept, 0 dropped
+north-caroli Computer Networking (MS)                         +0 kept, 0 dropped
+north-caroli Elementary Education (MEd)                       +0 kept, 0 dropped
+north-caroli Training & Development (MEd)                     +0 kept, 0 dropped
+north-caroli Communication (MS)                               +0 kept, 0 dropped
+north-caroli Teaching (MA): K-12 Reading Concentration        +0 kept, 0 dropped
+north-caroli Teaching (MA): Math Education Concentration      +0 kept, 0 dropped
+north-caroli Teaching (MA): English Education Concentration   +0 kept, 0 dropped
+north-caroli Teaching (MA): Science Education Concentration   +0 kept, 0 dropped
+north-caroli Teaching (MA): Special Education Concentration   +0 kept, 0 dropped
+north-caroli Teaching (MA): Elementary Education Concentratio +0 kept, 0 dropped
+north-caroli Teaching (MA): Middle Grades Math Concentration  +0 kept, 0 dropped
+north-caroli Teaching (MA): Technology Education Concentratio +0 kept, 0 dropped
+north-caroli Teaching (MA): Middle Grades English Language Ar +0 kept, 0 dropped
+north-caroli Teaching (MA): Multilingual Education Concentrat +0 kept, 0 dropped
+north-caroli Teaching (MA): Social Studies Education Concentr +0 kept, 0 dropped
+north-caroli Teaching (MA): Middle Grades Science Concentrati +0 kept, 0 dropped
+north-caroli English (MA): Film Studies Concentration         +0 kept, 0 dropped
+north-caroli Teaching (MA): Middle Grades Social Studies Conc +0 kept, 0 dropped
+north-caroli Higher Education Administration (MEd)            +0 kept, 0 dropped
+north-caroli Foundations of Data Science (MS)                 +0 kept, 0 dropped
+north-caroli Technical Communication (MS)                     +0 kept, 0 dropped
+north-caroli Computer Networking (MS): Internship Concentrati +0 kept, 0 dropped
+north-caroli Adult and Community College Education (MS)       +0 kept, 0 dropped
+north-caroli Adult and Community College Education (MEd)      +1 kept, 0 dropped
+north-caroli College Counseling and Student Development (MEd) +0 kept, 0 dropped
+north-caroli Parks, Recreation and Tourism Management (MS)    +0 kept, 0 dropped
+north-caroli Clinical Mental Health Counseling (MEd)          +0 kept, 0 dropped
+north-caroli Psychology (MS): School Psychology Concentration +0 kept, 0 dropped
+north-caroli World Languages and Cultures (MA): Teaching of E +0 kept, 0 dropped
+university-o Law - Master of Laws (LLM)                       +0 kept, 0 dropped
+university-o Finance - Master of Science (MS)                 +0 kept, 1 dropped
+university-o Law - Master of Studies in Law (MSL)             +1 kept, 0 dropped
+university-o Accounting - Master of Science (MS)              +2 kept, 0 dropped
+university-o Real Estate - Master of Science (MS)             +0 kept, 1 dropped
+university-o Business Analytics - Master of Science (MS)      +1 kept, 0 dropped
+university-o Taxation - Master of Science (MS)                +2 kept, 0 dropped
+university-o Marketing Analytics - Master of Science (MS)     +0 kept, 1 dropped
+university-o Economics - Master of Arts (MA)                  +0 kept, 0 dropped
+university-o Supply Chain Analytics - Master of Science (MS)  +0 kept, 1 dropped
+university-o Sustainable Business - Master of Science (MSSB)  +0 kept, 1 dropped
+university-o Teacher Leadership - Master of Arts (MA)         +0 kept, 0 dropped
+university-o Psychology - Master of Arts (MA)                 +0 kept, 0 dropped
+university-o Data Science - Master of Science (MS)            +0 kept, 0 dropped
+university-o Computational Linguistics, Analytics, Search and +0 kept, 0 dropped
+university-o Journalism - Master of Arts (MA)                 +0 kept, 0 dropped
+university-o Communication - Master of Arts (MA)              +0 kept, 0 dropped
+university-o Robotics - Master of Science (MS)                +0 kept, 0 dropped
+university-o Computer Science - Master of Science (MS)        +0 kept, 0 dropped
+university-o Artificial Intelligence - Master of Science (MSA +0 kept, 0 dropped
+university-o Media and Public Engagement - Master of Arts (MA +1 kept, 0 dropped
+university-o Education - Equity, Bilingualism and Biliteracy  +0 kept, 0 dropped
+university-o Higher Education - Master of Arts (MA)           +0 kept, 0 dropped
+university-o Computer Science - Professional Master of Scienc +0 kept, 0 dropped
+university-o Corporate Communication - Master of Arts (MA)    +1 kept, 0 dropped
+stanford-uni Computer Science (MS)                            +0 kept, 0 dropped
+university-o Educational Foundations, Policy and Practice - M +0 kept, 0 dropped
+stanford-uni Education (MS)                                   +1 kept, 0 dropped
+stanford-uni Health Policy (MS)                               +0 kept, 0 dropped
+university-o Business Administration - Master of Business Adm +0 kept, 0 dropped
+stanford-uni Business Administration (MBA)                    +0 kept, 0 dropped
+stanford-uni Education (MA)                                   +2 kept, 0 dropped
+stanford-uni Communication (MA)                               +0 kept, 0 dropped
+stanford-uni Law (LLM)                                        +0 kept, 0 dropped
+stanford-uni Economics (MA)                                   +0 kept, 0 dropped
+stanford-uni Clinical Informatics Management (MS)             +0 kept, 0 dropped
+stanford-uni HMN GEN-MS - Human Genetics and Genetic Counseli +2 kept, 0 dropped
+stanford-uni Psychology (MA)                                  +0 kept, 0 dropped
+1 programmes failed; run again to retry them
+Tokens: input 2293334, output 104864 · cost ≈ US0.282 (Haiku 5.5: $0.10 / $0.50 per MTok)

@@ -1,0 +1,128 @@
+# james-cook-university https://www.jcu.edu.au
+robots sitemaps: https://www.jcu.edu.au/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 9340 · master's-looking 386
+   69  www.jcu.edu.au/courses
+         https://www.jcu.edu.au/courses/postgrad
+         https://www.jcu.edu.au/courses/undergraduate
+         https://www.jcu.edu.au/courses/master-of-science
+         https://www.jcu.edu.au/courses/master-of-public-health
+   26  www.jcu.edu.au/careers/example-resumes
+         https://www.jcu.edu.au/careers/example-resumes/Graduate-Resume-Example-Nursing.pdf
+         https://www.jcu.edu.au/careers/example-resumes/Graduate-Resume-Example-Education.pdf
+         https://www.jcu.edu.au/careers/example-resumes/Graduate-Resume-Example-Law.pdf
+         https://www.jcu.edu.au/careers/example-resumes/Graduate-Resume-Example-Geology.pdf
+   21  www.jcu.edu.au/researcher-development/researcher-development-hub/provider-content
+         https://www.jcu.edu.au/researcher-development/researcher-development-hub/provider-content/graduate-research-school/idea-mapping
+         https://www.jcu.edu.au/researcher-development/researcher-development-hub/provider-content/graduate-research-school/the-balanced-researcher
+         https://www.jcu.edu.au/researcher-development/researcher-development-hub/provider-content/graduate-research-school/time-for-research
+         https://www.jcu.edu.au/researcher-development/researcher-development-hub/provider-content/graduate-research-school/career-planning-workshop
+   20  www.jcu.edu.au/graduate-research-school
+         https://www.jcu.edu.au/graduate-research-school
+         https://www.jcu.edu.au/graduate-research-school/contacts
+         https://www.jcu.edu.au/graduate-research-school/thesis-examination
+         https://www.jcu.edu.au/graduate-research-school/phd@work
+   17  www.jcu.edu.au/tropical-fisheries-and-aquaculture/our-people/postgraduate-students
+         https://www.jcu.edu.au/tropical-fisheries-and-aquaculture/our-people/postgraduate-students/weiyu-chen
+         https://www.jcu.edu.au/tropical-fisheries-and-aquaculture/our-people/postgraduate-students/shiori-kanno
+         https://www.jcu.edu.au/tropical-fisheries-and-aquaculture/our-people/postgraduate-students/jon-irish-aquino
+         https://www.jcu.edu.au/tropical-fisheries-and-aquaculture/our-people/postgraduate-students/renee-chin
+   16  www.jcu.edu.au/arcsta/teams/post-graduate-students
+         https://www.jcu.edu.au/arcsta/teams/post-graduate-students/students/joshua-ching
+         https://www.jcu.edu.au/arcsta/teams/post-graduate-students/students/anna-wilson
+         https://www.jcu.edu.au/arcsta/teams/post-graduate-students/students/agus-wibowo
+         https://www.jcu.edu.au/arcsta/teams/post-graduate-students/students/nicole-sallis
+   14  www.jcu.edu.au/graduation/celebrating-our-graduates/pdfs
+         https://www.jcu.edu.au/graduation/celebrating-our-graduates/pdfs/2019-Dec.pdf
+         https://www.jcu.edu.au/graduation/celebrating-our-graduates/pdfs/1-July-31-December-2025.pdf
+         https://www.jcu.edu.au/graduation/celebrating-our-graduates/pdfs/1-July-to-31-December-2024-1.pdf
+         https://www.jcu.edu.au/graduation/celebrating-our-graduates/pdfs/1-January-2025-30-June-2025.tmp.pdf
+   13  www.jcu.edu.au/students/fees-and-financial-support/domestic-postgraduate-fees-and-payment-options
+         https://www.jcu.edu.au/students/fees-and-financial-support/domestic-postgraduate-fees-and-payment-options/2017-postgraduate-subject-fee-amounts-for-domestic-tuition-fee-paying-students-commencing-students-2017
+         https://www.jcu.edu.au/students/fees-and-financial-support/domestic-postgraduate-fees-and-payment-options/2017-postgraduate-subject-fee-amounts-for-domestic-tuition-fee-paying-students-continuing-students-pre-2017
+         https://www.jcu.edu.au/students/fees-and-financial-support/domestic-postgraduate-fees-and-payment-options/2026-Domestic-PG-Tuition-Fees-table.pdf
+         https://www.jcu.edu.au/students/fees-and-financial-support/domestic-postgraduate-fees-and-payment-options/2024-Domestic-PG-Tuition-Fees.pdf
+   10  www.jcu.edu.au/graduate-research-school/formstemplates
+         https://www.jcu.edu.au/graduate-research-school/formstemplates/APP-FORM-01.docx
+         https://www.jcu.edu.au/graduate-research-school/formstemplates/CAA-FORM-01-20.04.2026.docx
+         https://www.jcu.edu.au/graduate-research-school/formstemplates/HDR-RPL-Application-form.pdf
+         https://www.jcu.edu.au/graduate-research-school/formstemplates/PRO-FORM-01.docx
+   10  www.jcu.edu.au/students/fees-and-financial-support/undergraduate-subject-fees
+         https://www.jcu.edu.au/students/fees-and-financial-support/undergraduate-subject-fees/2026-Domestic-Tuition-Fee-Schedule-table.pdf
+         https://www.jcu.edu.au/students/fees-and-financial-support/undergraduate-subject-fees/2024-Domestic-Tuition-Fee-Schedule.pdf
+         https://www.jcu.edu.au/students/fees-and-financial-support/undergraduate-subject-fees/2025-Domestic-Tuition-Fee-Schedule-table.pdf
+         https://www.jcu.edu.au/students/fees-and-financial-support/undergraduate-subject-fees/2023-Domestic-Tuition-Fee-Schedule.pdf
+    8  www.jcu.edu.au/graduate-research-school/hdr-candidates-old
+         https://www.jcu.edu.au/graduate-research-school/hdr-candidates-old/getting-started
+         https://www.jcu.edu.au/graduate-research-school/hdr-candidates-old/managing-your-candidature
+         https://www.jcu.edu.au/graduate-research-school/hdr-candidates-old/postgraduate-research-scholarships
+         https://www.jcu.edu.au/graduate-research-school/hdr-candidates-old/student-fees
+    8  www.jcu.edu.au/graduate-research-school/Workshops-and-training
+         https://www.jcu.edu.au/graduate-research-school/Workshops-and-training/grs-genai-guidelines
+         https://www.jcu.edu.au/graduate-research-school/Workshops-and-training/professional-development-program
+         https://www.jcu.edu.au/graduate-research-school/Workshops-and-training/statshelp
+         https://www.jcu.edu.au/graduate-research-school/Workshops-and-training/leadership-and-initiative
+    7  www.jcu.edu.au/graduate-research-school/forms-and-policies
+         https://www.jcu.edu.au/graduate-research-school/forms-and-policies/hdr-thesis-library-deposit-guide
+         https://www.jcu.edu.au/graduate-research-school/forms-and-policies/guidelines-oral-thesis-exam
+         https://www.jcu.edu.au/graduate-research-school/forms-and-policies/FoEs.pdf
+         https://www.jcu.edu.au/graduate-research-school/forms-and-policies/Under-Review-Flowchart.pdf
+    6  www.jcu.edu.au/employability-edge/graduate-job-search
+         https://www.jcu.edu.au/employability-edge/graduate-job-search/enact-your-job-search
+         https://www.jcu.edu.au/employability-edge/graduate-job-search/graduate-opportunities
+         https://www.jcu.edu.au/employability-edge/graduate-job-search/identify-opportunities-online
+         https://www.jcu.edu.au/employability-edge/graduate-job-search/proactive-job-search-approaches
+    5  www.jcu.edu.au/students/fees-and-financial-support
+         https://www.jcu.edu.au/students/fees-and-financial-support/undergraduate-subject-fees
+         https://www.jcu.edu.au/students/fees-and-financial-support/postgraduate-subject-fees
+         https://www.jcu.edu.au/students/fees-and-financial-support/domestic-postgraduate-fees-and-payment-options
+         https://www.jcu.edu.au/students/fees-and-financial-support/postgraduate-commonwealth-supported-places
+    5  www.jcu.edu.au/graduate-research-school/thesis-examination/my-milestones
+         https://www.jcu.edu.au/graduate-research-school/thesis-examination/my-milestones/precompletion
+         https://www.jcu.edu.au/graduate-research-school/thesis-examination/my-milestones/confirmation-of-candidature
+         https://www.jcu.edu.au/graduate-research-school/thesis-examination/my-milestones/midcandidature-review
+         https://www.jcu.edu.au/graduate-research-school/thesis-examination/my-milestones/thesis-examination
+    5  www.jcu.edu.au/employability-edge/master-written-applications
+         https://www.jcu.edu.au/employability-edge/master-written-applications/resumes
+         https://www.jcu.edu.au/employability-edge/master-written-applications/cover-letters
+         https://www.jcu.edu.au/employability-edge/master-written-applications/written-applications
+         https://www.jcu.edu.au/employability-edge/master-written-applications/successful-written-communication
+    5  www.jcu.edu.au/graduate-research-school/innovate-with-us
+         https://www.jcu.edu.au/graduate-research-school/innovate-with-us/innovation-and-entrepreneurship-programs
+         https://www.jcu.edu.au/graduate-research-school/innovate-with-us/innovation-resources
+         https://www.jcu.edu.au/graduate-research-school/innovate-with-us/innovation-challenges
+         https://www.jcu.edu.au/graduate-research-school/innovate-with-us/cairns-innovation-ecosystem-contributors
+    5  www.jcu.edu.au/graduate-research-school/doctor-of-philosophy-candidates/postgraduate-research-scholarships
+         https://www.jcu.edu.au/graduate-research-school/doctor-of-philosophy-candidates/postgraduate-research-scholarships/hdr-scholarships-for-domestic-candidates
+         https://www.jcu.edu.au/graduate-research-school/doctor-of-philosophy-candidates/postgraduate-research-scholarships/hdr-scholarships-for-international-candidates
+         https://www.jcu.edu.au/graduate-research-school/doctor-of-philosophy-candidates/postgraduate-research-scholarships/externally-funded-hdr-scholarships
+         https://www.jcu.edu.au/graduate-research-school/doctor-of-philosophy-candidates/postgraduate-research-scholarships/scholarship-information-for-hdr-advisors
+    4  www.jcu.edu.au/scholarships/search
+         https://www.jcu.edu.au/scholarships/search/monkman-postgraduate-awards
+         https://www.jcu.edu.au/scholarships/search/the-george-alexander-foundation-undergraduate-scholarship
+         https://www.jcu.edu.au/scholarships/search/aims@jcu-indigenous-undergraduate-scholarships
+         https://www.jcu.edu.au/scholarships/search/wandering-warriors-indigenous-veterans-undergraduate-scholarship
+    4  www.jcu.edu.au/graduate-research-school/thesis-examination
+         https://www.jcu.edu.au/graduate-research-school/thesis-examination/my-milestones
+         https://www.jcu.edu.au/graduate-research-school/thesis-examination/information-for-students
+         https://www.jcu.edu.au/graduate-research-school/thesis-examination/information-for-advisors
+         https://www.jcu.edu.au/graduate-research-school/thesis-examination/information-for-examiners
+    4  www.jcu.edu.au/graduate-research-school/advisors
+         https://www.jcu.edu.au/graduate-research-school/advisors/progressing-candidates
+         https://www.jcu.edu.au/graduate-research-school/advisors/becoming-an-advisor
+         https://www.jcu.edu.au/graduate-research-school/advisors/completing-candidates
+         https://www.jcu.edu.au/graduate-research-school/advisors/Advisor-Application-Form_version-02-2025.pdf
+    4  www.jcu.edu.au/jcu-prizes/browse-all-prizes/prizes-a-c
+         https://www.jcu.edu.au/jcu-prizes/browse-all-prizes/prizes-a-c/asi-undergraduate-steel-design-award
+         https://www.jcu.edu.au/jcu-prizes/browse-all-prizes/prizes-a-c/australian-veterinary-association-prize-for-undergraduates-in-veterinary-pathology
+         https://www.jcu.edu.au/jcu-prizes/browse-all-prizes/prizes-a-c/bev-frangos-graduate-instructor-prize-in-electrical-and-electronic-engineering-and-electronic-systems-and-internet-of-things-engineering-or-information-technology
+         https://www.jcu.edu.au/jcu-prizes/browse-all-prizes/prizes-a-c/centre-for-rural-and-remote-health-mount-isa-nurse-graduate-prize
+    4  www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/cum-laude
+         https://www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/cum-laude/cum-laude-2026
+         https://www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/cum-laude/cum-laude-2023
+         https://www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/cum-laude/cum-laude-2025
+         https://www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/cum-laude/cum-laude-2022
+    4  www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/deans-list
+         https://www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/deans-list/deans-award-for-excellence-2026
+         https://www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/deans-list/deans-award-for-excellence-2025
+         https://www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/deans-list/deans-award-for-excellence-2024
+         https://www.jcu.edu.au/graduate-research-school/celebrating-research-excellence/deans-list/deans-award-for-excellence-2023

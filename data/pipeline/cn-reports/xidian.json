@@ -1,0 +1,63 @@
+{
+  "id": "xidian",
+  "status": "read",
+  "university": "西安电子科技大学",
+  "universityEn": "Xidian University",
+  "tier": "211",
+  "url": "https://job.xidian.edu.cn/attachment/xidian/ueditor/file/20260128/3325_%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A62025%E5%B1%8A%E5%B0%B1%E4%B8%9A%E8%B4%A8%E9%87%8F%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf",
+  "title": null,
+  "year": 2025,
+  "cohort": "2025届",
+  "pages": 50,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": "2025届",
+      "count": 491,
+      "pct": 9.09,
+      "quote": "出国、出境留学共 491 人，占本科毕业生总人数的 9.09%"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [
+    {
+      "nameZh": "南洋理工大学",
+      "nameEn": "Nanyang Technological University",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "留学人数相对较多的学校是南洋理工大学、新加坡国立大学、布里斯托大学、悉尼大学等",
+      "institutionId": "nanyang-technological-university-singapore"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "留学人数相对较多的学校是南洋理工大学、新加坡国立大学、布里斯托大学、悉尼大学等",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "布里斯托大学",
+      "nameEn": "University of Bristol",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "留学人数相对较多的学校是南洋理工大学、新加坡国立大学、布里斯托大学、悉尼大学等",
+      "institutionId": "university-of-bristol"
+    },
+    {
+      "nameZh": "悉尼大学",
+      "nameEn": "University of Sydney",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "留学人数相对较多的学校是南洋理工大学、新加坡国立大学、布里斯托大学、悉尼大学等",
+      "institutionId": "university-of-sydney"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

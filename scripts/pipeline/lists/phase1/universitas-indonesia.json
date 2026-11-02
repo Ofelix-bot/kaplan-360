@@ -1,0 +1,16 @@
+{
+ "source": "UI International Office master's list for international applicants https://international.ui.ac.id/master/ -> faculty English programme pages (configured 2026-11-01; language of instruction per programme not stated on the pages)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://fkm.ui.ac.id/en/academic/study-program/masters-degree-program/master-of-public-health/",
+  "https://cs.ui.ac.id/en/magister-ilmu-komputer/",
+  "https://cs.ui.ac.id/en/magister-teknologi-informasi/",
+  "https://feb.ui.ac.id/en/master-of-management/",
+  "https://feb.ui.ac.id/en/master-of-accounting-program-accounting-profession-education/",
+  "https://feb.ui.ac.id/en/graduate-program-in-economics/",
+  "https://feb.ui.ac.id/en/graduate-program-in-management/",
+  "https://feb.ui.ac.id/en/graduate-program-in-accounting/",
+  "https://feb.ui.ac.id/en/master-program-in-population-and-labor-economics/",
+  "https://pascakomunikasi.fisip.ui.ac.id/en/master/"
+ ]
+}

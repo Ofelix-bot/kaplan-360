@@ -1,0 +1,7 @@
+    0 /      0  bournemouth-university@1  https://www.bournemouth.ac.uk  (3 sitemaps)
+    0 /      0  city-st-george-s-university-of-london@1  https://www.citystgeorges.ac.uk  (robots.txt unreachable)
+    0 /      0  university-of-otago@1  https://www.otago.ac.nz  (1 sitemaps · https://www.otago.ac.nz/sitemap.xml: blocked)
+    1 /   1361  london-school-of-hygiene-and-tropical-medicine@1  https://www.lshtm.ac.uk  (3 sitemaps)
+   20 /   3833  london-south-bank-university@1  https://www.lsbu.ac.uk  (1 sitemaps)
+   20 /   6465  university-of-new-england-australia@1  https://www.une.edu.au  (1 sitemaps)
+   35 /   6608  ulster-university@1  https://www.ulster.ac.uk  (28 sitemaps)

@@ -1,0 +1,250 @@
+{
+  "id": "neu",
+  "status": "read",
+  "university": "东北大学",
+  "universityEn": "Northeastern University (China)",
+  "tier": "985",
+  "url": "http://info.neu.edu.cn/_upload/article/files/e6/43/5b4a6ae24eb89b9936fa44bdfb9e/7a6a8867-0585-4812-8e24-1694ae60a397.pdf",
+  "title": "东北大学2022届毕业生年度就业质量报告",
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 29,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": null,
+      "pct": 5.6,
+      "quote": "本科毕业生升学比例为 47.6%，其中境内升学占 42.0%，出国（境）留学占 5.6%"
+    },
+    {
+      "group": "硕士生",
+      "cohort": null,
+      "count": null,
+      "pct": 0.5,
+      "quote": "研究生升学比例为 8.2%，其中境内升学占 7.7%，留学占 0.5%"
+    },
+    {
+      "group": "全体",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "注：此表中升学包含境内升学和出国（境）留学。"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "留学地区主要集中在英国、美国、新加坡、澳大利亚等国家（地区）"
+    },
+    {
+      "region": "美国",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "留学地区主要集中在英国、美国、新加坡、澳大利亚等国家（地区）"
+    },
+    {
+      "region": "新加坡",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "留学地区主要集中在英国、美国、新加坡、澳大利亚等国家（地区）"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "留学地区主要集中在英国、美国、新加坡、澳大利亚等国家（地区）"
+    }
+  ],
+  "ranked": [],
+  "destinations": [
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": 43,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "1 新加坡国立大学 新加坡 41 2 43",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "香港城市大学",
+      "nameEn": "City University of Hong Kong",
+      "count": 20,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "2 香港城市大学 中国香港 20 0 20",
+      "institutionId": "city-university-of-hong-kong"
+    },
+    {
+      "nameZh": "伦敦大学学院",
+      "nameEn": "University College London",
+      "count": 19,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "3 伦敦大学学院 英国 19 0 19",
+      "institutionId": "ucl"
+    },
+    {
+      "nameZh": "东京日本语言学校",
+      "nameEn": "Tokyo Japanese Language School",
+      "count": 11,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "4 东京日本语言学校 日本 11 0 11",
+      "institutionId": null
+    },
+    {
+      "nameZh": "爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": 9,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "5 爱丁堡大学 英国 8 1 9",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "格拉斯哥大学",
+      "nameEn": "University of Glasgow",
+      "count": 9,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "6 格拉斯哥大学 英国 9 0 9",
+      "institutionId": "university-of-glasgow"
+    },
+    {
+      "nameZh": "华威大学",
+      "nameEn": "University of Warwick",
+      "count": 9,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "7 华威大学 英国 9 0 9",
+      "institutionId": "university-of-warwick"
+    },
+    {
+      "nameZh": "南洋理工大学",
+      "nameEn": "Nanyang Technological University",
+      "count": 8,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "8 南洋理工大学 新加坡 8 0 8",
+      "institutionId": "nanyang-technological-university-singapore"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "University of Hong Kong",
+      "count": 8,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "9 香港大学 中国香港 8 0 8",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "图卢兹第三大学",
+      "nameEn": "Université Toulouse III - Paul Sabatier",
+      "count": 7,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "10 图卢兹第三大学 法国 7 0 7",
+      "institutionId": null
+    },
+    {
+      "nameZh": "香港中文大学",
+      "nameEn": "Chinese University of Hong Kong",
+      "count": 7,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "11 香港中文大学 中国香港 7 0 7",
+      "institutionId": "chinese-university-of-hong-kong"
+    },
+    {
+      "nameZh": "纽约大学",
+      "nameEn": "New York University",
+      "count": 6,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "12 纽约大学 美国 5 1 6",
+      "institutionId": "new-york-university"
+    },
+    {
+      "nameZh": "香港科技大学",
+      "nameEn": "Hong Kong University of Science and Technology",
+      "count": 6,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "13 香港科技大学 中国香港 5 1 6",
+      "institutionId": "hong-kong-university-of-science-and-technology"
+    },
+    {
+      "nameZh": "曼彻斯特大学",
+      "nameEn": "University of Manchester",
+      "count": 5,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "14 曼彻斯特大学 英国 5 0 5",
+      "institutionId": "university-of-manchester"
+    },
+    {
+      "nameZh": "谢菲尔德大学",
+      "nameEn": "University of Sheffield",
+      "count": 5,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "15 谢菲尔德大学 英国 4 1 5",
+      "institutionId": "university-of-sheffield"
+    },
+    {
+      "nameZh": "澳大利亚国立大学",
+      "nameEn": "Australian National University",
+      "count": 4,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "16 澳大利亚国立大学 澳大利亚 4 0 4",
+      "institutionId": "australian-national-university"
+    },
+    {
+      "nameZh": "大西洋矿业电信学院",
+      "nameEn": "Institut Mines-Télécom Atlantique",
+      "count": 4,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "17 大西洋矿业电信学院 法国 4 0 4",
+      "institutionId": null
+    },
+    {
+      "nameZh": "代尔夫特理工大学",
+      "nameEn": "Delft University of Technology",
+      "count": 4,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "18 代尔夫特理工大学 荷兰 3 1 4",
+      "institutionId": "delft-university-of-technology"
+    },
+    {
+      "nameZh": "墨尔本大学",
+      "nameEn": "University of Melbourne",
+      "count": 4,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "19 墨尔本大学 澳大利亚 4 0 4",
+      "institutionId": "university-of-melbourne"
+    },
+    {
+      "nameZh": "澳门大学",
+      "nameEn": "University of Macau",
+      "count": 3,
+      "group": "全体",
+      "list": "表 2.4 2022 届毕业生留学人数较为集中的高校",
+      "quote": "20 澳门大学 中国澳门 2 1 3",
+      "institutionId": "university-of-macau"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

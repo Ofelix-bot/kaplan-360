@@ -1,0 +1,5885 @@
+{
+  "dataset": "Class profiles from official programme pages",
+  "builtAt": "2026-10-21",
+  "notes": [
+    "Figures describe a programme's admitted or enrolled class as its official page or brochure states them: read by Claude (Haiku), each with the quote it came from, checked word for word against the page. Unchecked figures are dropped.",
+    "scope = school: the figures cover several programmes or a school's master's students together. programmeIds is empty when the programme isn't in data/raw/programmes.json yet."
+  ],
+  "counts": {
+    "profiles": 99,
+    "matched": 67,
+    "programmes": 67
+  },
+  "profiles": [
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/26 cohort",
+        "quote": "2025/26 cohort statistics:"
+      },
+      "classSize": {
+        "value": 94,
+        "quote": "94 students"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 83,
+        "quote": "83 per cent women and 17 per cent men."
+      },
+      "nationalities": {
+        "value": 25,
+        "quote": "25 nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age of 23"
+      },
+      "institutionId": "london-school-of-economics-and-political-science",
+      "programmeIds": [
+        "london-school-of-economics-and-political-science-msc-marketing"
+      ],
+      "programmeName": "MSc Marketing",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-marketing",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/26 cohort",
+        "quote": "2025/26 cohort statistics:"
+      },
+      "classSize": {
+        "value": 87,
+        "quote": "87 students"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 62,
+        "quote": "62 per cent women and 38 per cent men"
+      },
+      "nationalities": {
+        "value": 19,
+        "quote": "19 nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age of 23"
+      },
+      "institutionId": "london-school-of-economics-and-political-science",
+      "programmeIds": [
+        "london-school-of-economics-and-political-science-msc-management-strategy-and-economic-analysis"
+      ],
+      "programmeName": "MSc Management, Strategy and Economic Analysis",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-strategy-and-economic-analysis",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/26 cohort",
+        "quote": "2025/26 cohort statistics:"
+      },
+      "classSize": {
+        "value": 115,
+        "quote": "115 students"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 57,
+        "quote": "57 per cent women and 43 per cent men"
+      },
+      "nationalities": {
+        "value": 46,
+        "quote": "46 nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 25,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age of 25"
+      },
+      "institutionId": "london-school-of-economics-and-political-science",
+      "programmeIds": [
+        "london-school-of-economics-and-political-science-msc-management-of-information-systems-and-digital-innovation"
+      ],
+      "programmeName": "MSc Management Information Systems and Digital Innovation",
+      "url": "https://www.lse.ac.uk/study-at-lse/graduate/msc-management-information-systems-and-digital-innovation",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2025/26",
+        "quote": "Based on the class of 2025/26."
+      },
+      "classSize": {
+        "value": 38,
+        "quote": "38\nClass size"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 50,
+        "quote": "50% of our full-time MBA students identify as female, and 50% as male."
+      },
+      "nationalities": {
+        "value": 8,
+        "quote": "8\nNationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 6,
+        "quote": "6\nAverage years’ work experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 30,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "30\nAverage age"
+      },
+      "institutionId": "university-of-bath",
+      "programmeIds": [
+        "university-of-bath-full-time-mba"
+      ],
+      "programmeName": "MBA Full-time",
+      "url": "https://www.bath.ac.uk/courses/postgraduate-2027/taught-postgraduate-courses/mba-full-time",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Classes of 2018-2021",
+        "quote": "Student profiles taken from Classes of 2018-2021 (Full-time & Part-time)."
+      },
+      "classSize": null,
+      "intake_placeholder": null,
+      "intake_note": null,
+      "internationalPct": {
+        "value": 65,
+        "quote": "International Students 65%"
+      },
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 11,
+        "quote": "Average Years of Work Experience 11 years"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 39,
+        "median": null,
+        "low": 22,
+        "high": 57,
+        "quote": "Typical Age Range 22-57 Average Age 39"
+      },
+      "institutionId": "singapore-management-university",
+      "programmeIds": [
+        "singapore-management-university-master-of-laws-llm"
+      ],
+      "programmeName": "Master of Laws",
+      "url": "https://masters.smu.edu.sg/programme/master-of-laws",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Classes of 2022-2023",
+        "quote": "Student profiles taken from Classes of 2022-2023 (Full-time & Part-time)."
+      },
+      "classSize": null,
+      "internationalPct": {
+        "value": 82,
+        "quote": "International Students 82%"
+      },
+      "womenPct": null,
+      "nationalities": {
+        "value": 14,
+        "quote": "Nationalities 14"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 3,
+        "quote": "Average Years of Work Experience 3 yrs"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "singapore-management-university",
+      "programmeIds": [
+        "singapore-management-university-master-of-science-in-accounting-msa"
+      ],
+      "programmeName": "Master in Accounting",
+      "url": "https://masters.smu.edu.sg/programme/master-in-accounting",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Classes of 2018-2021",
+        "quote": "Student profiles taken from Classes of 2018-2021 (Full-time & Part-time)."
+      },
+      "classSize": null,
+      "internationalPct": {
+        "value": 81,
+        "quote": "International Students\n81%"
+      },
+      "womenPct": null,
+      "nationalities": {
+        "value": 13,
+        "quote": "Nationalities\n13"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 1.8,
+        "quote": "Average Years of Work Experience\n1.8"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 25,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age\n25"
+      },
+      "institutionId": "singapore-management-university",
+      "programmeIds": [
+        "singapore-management-university-msc-in-applied-finance-maf"
+      ],
+      "programmeName": "MSc in Applied Finance",
+      "url": "https://masters.smu.edu.sg/programme/msc-in-applied-finance",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2025",
+        "quote": "Student profiles taken from Class of 2025 (Full-time & Part-time)."
+      },
+      "classSize": null,
+      "internationalPct": {
+        "value": 47,
+        "quote": "International Student 47%"
+      },
+      "womenPct": null,
+      "nationalities": {
+        "value": 18,
+        "quote": "Total Nationalities 18"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": {
+        "average": 625,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average GMAT 625"
+      },
+      "gre": null,
+      "workYears": {
+        "value": 4.1,
+        "quote": "Average Years of Work Experience 4.1"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": null,
+        "median": null,
+        "low": 22,
+        "high": 32,
+        "quote": "Typical Age Range 22 - 32"
+      },
+      "institutionId": "singapore-management-university",
+      "programmeIds": [
+        "singapore-management-university-master-of-it-in-business-mitb"
+      ],
+      "programmeName": "Master of IT in Business",
+      "url": "https://masters.smu.edu.sg/programme/master-of-it-in-business",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": {
+        "value": 65,
+        "quote": "International Students 65%"
+      },
+      "womenPct": null,
+      "nationalities": {
+        "value": 10,
+        "quote": "Nationalities 10"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 10,
+        "quote": "Average Years of Work Experience 10"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 35,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age 35"
+      },
+      "institutionId": "singapore-management-university",
+      "programmeIds": [
+        "singapore-management-university-msc-in-wealth-management-mwm"
+      ],
+      "programmeName": "MSc in Wealth Management",
+      "url": "https://masters.smu.edu.sg/programme/msc-in-wealth-management",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": {
+        "value": 73,
+        "quote": "International Students\n73%"
+      },
+      "womenPct": null,
+      "nationalities": {
+        "value": 8,
+        "quote": "Nationalities\n8"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 2.3,
+        "quote": "Average Years of Work Experience\n2.3"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 26,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age\n26"
+      },
+      "institutionId": "singapore-management-university",
+      "programmeIds": [
+        "singapore-management-university-msc-in-quantitative-finance-mqf"
+      ],
+      "programmeName": "MSc in Quantitative Finance",
+      "url": "https://masters.smu.edu.sg/programme/msc-in-quantitative-finance",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": {
+        "value": 63,
+        "quote": "International Students 63%"
+      },
+      "womenPct": null,
+      "nationalities": {
+        "value": 26,
+        "quote": "Nationalities 26"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 5.9,
+        "quote": "Average Years of Working Experience 5.9"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 30,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age 30"
+      },
+      "institutionId": "singapore-management-university",
+      "programmeIds": [
+        "singapore-management-university-master-of-business-administration-mba"
+      ],
+      "programmeName": "Master of Business Administration",
+      "url": "https://masters.smu.edu.sg/programme/master-of-business-administration",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": {
+        "value": 84,
+        "quote": "International Students 84%"
+      },
+      "womenPct": null,
+      "nationalities": {
+        "value": 9,
+        "quote": "NATIONALITIES 9"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 3,
+        "quote": "Average Years of Work Experience 3 yrs"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "singapore-management-university",
+      "programmeIds": [
+        "singapore-management-university-master-of-professional-accounting-mpa"
+      ],
+      "programmeName": "Master of Professional Accounting",
+      "url": "https://masters.smu.edu.sg/programme/master-of-professional-accounting",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Classes of 2018-2021",
+        "quote": "Student profiles taken from Classes of 2018-2021 (Full-time & Part-time)."
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 11,
+        "quote": "Average Years of Work Experience\n11"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 36,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age\n36"
+      },
+      "institutionId": "singapore-management-university",
+      "programmeIds": [
+        "singapore-management-university-master-of-science-in-entrepreneurship-and-innovation-mei"
+      ],
+      "programmeName": "Master of Entrepreneurship and Innovation",
+      "url": "https://masters.smu.edu.sg/programme/master-entrepreneurship-innovation",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025-26 cohort",
+        "quote": "Here is an overview of the current 2025-26 cohort."
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": {
+        "value": [
+          {
+            "name": "University of Alberta",
+            "pct": null
+          },
+          {
+            "name": "Athabasca University",
+            "pct": null
+          },
+          {
+            "name": "University of British Columbia",
+            "pct": null
+          },
+          {
+            "name": "Dalhousie University",
+            "pct": null
+          },
+          {
+            "name": "University of Dhaka",
+            "pct": null
+          },
+          {
+            "name": "Université Laval",
+            "pct": null
+          },
+          {
+            "name": "MacEwan University",
+            "pct": null
+          },
+          {
+            "name": "McMaster University",
+            "pct": null
+          },
+          {
+            "name": "NAIT",
+            "pct": null
+          },
+          {
+            "name": "University of Ottawa",
+            "pct": null
+          },
+          {
+            "name": "University of Regina",
+            "pct": null
+          },
+          {
+            "name": "SAIT",
+            "pct": null
+          }
+        ],
+        "quote": "Undergraduate Degrees University of Alberta Athabasca University University of British Columbia Dalhousie University University of Dhaka Université Laval MacEwan University McMaster University NAIT University of Ottawa University of Regina SAIT"
+      },
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-alberta",
+      "programmeIds": [],
+      "programmeName": "Master of Accounting (MAcc)",
+      "url": "https://www.ualberta.ca/en/business/programs/master-of-accounting/class-profile.html",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 59,
+        "quote": "59 Students"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 50.8,
+        "quote": "50.8% Female"
+      },
+      "nationalities": {
+        "value": 4,
+        "quote": "4 Countries"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": {
+        "average": 3.25,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "3.25 GPA"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 8.2,
+        "quote": "8.2 Years\nAvg. Work Experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 33.6,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "33.6 Years\nAvg. Age"
+      },
+      "institutionId": "university-of-alberta",
+      "programmeIds": [],
+      "programmeName": "Part-Time MBA",
+      "url": "https://www.ualberta.ca/en/business/programs/mba/part-time/class-profiles.html",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 57,
+        "quote": "57 Students"
+      },
+      "internationalPct": {
+        "value": 60.7,
+        "quote": "60.7% International"
+      },
+      "womenPct": {
+        "value": 52.6,
+        "quote": "52.6% Female"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": {
+        "average": 3.49,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "3.49 GPA"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 5.8,
+        "quote": "5.8 Years Avg. Work Experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 29.9,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "29.9 Years Average Age"
+      },
+      "institutionId": "university-of-alberta",
+      "programmeIds": [],
+      "programmeName": "Full Time MBA",
+      "url": "https://www.ualberta.ca/en/business/programs/mba/full-time/class-profile.html",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "school",
+      "intake": {
+        "value": "2022/23",
+        "quote": "Below is a profile of the students admitted for academic year 2022/23:"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": {
+        "value": [
+          {
+            "name": "Akita International University",
+            "pct": null
+          },
+          {
+            "name": "Central University of Finance and Economics",
+            "pct": null
+          },
+          {
+            "name": "Fudan University",
+            "pct": null
+          },
+          {
+            "name": "Indiana University",
+            "pct": null
+          },
+          {
+            "name": "Nankai University",
+            "pct": null
+          },
+          {
+            "name": "New York University",
+            "pct": null
+          },
+          {
+            "name": "Nanjing University",
+            "pct": null
+          },
+          {
+            "name": "Northeastern University",
+            "pct": null
+          },
+          {
+            "name": "Peking University",
+            "pct": null
+          },
+          {
+            "name": "Princeton University",
+            "pct": null
+          },
+          {
+            "name": "Renmin University of China",
+            "pct": null
+          },
+          {
+            "name": "Shanghai Jiao Tong University",
+            "pct": null
+          },
+          {
+            "name": "Shanghai University of Finance and Economics",
+            "pct": null
+          },
+          {
+            "name": "Sichuan University",
+            "pct": null
+          },
+          {
+            "name": "South China University of Technology",
+            "pct": null
+          },
+          {
+            "name": "Sun Yat-Sen University",
+            "pct": null
+          },
+          {
+            "name": "The Chinese University of Hong Kong",
+            "pct": null
+          },
+          {
+            "name": "The City University of New York",
+            "pct": null
+          },
+          {
+            "name": "The Hong Kong University of Science and Technology",
+            "pct": null
+          },
+          {
+            "name": "The University of Hong Kong",
+            "pct": null
+          },
+          {
+            "name": "The University of Sydney",
+            "pct": null
+          },
+          {
+            "name": "Tongji University",
+            "pct": null
+          },
+          {
+            "name": "Tsinghua University",
+            "pct": null
+          },
+          {
+            "name": "University of California San Diego",
+            "pct": null
+          },
+          {
+            "name": "University of International Business and Economics",
+            "pct": null
+          },
+          {
+            "name": "University of Melbourne",
+            "pct": null
+          },
+          {
+            "name": "University of Auckland",
+            "pct": null
+          },
+          {
+            "name": "University of Iowa",
+            "pct": null
+          },
+          {
+            "name": "University of London",
+            "pct": null
+          },
+          {
+            "name": "University of Oregon",
+            "pct": null
+          },
+          {
+            "name": "University of Southern California",
+            "pct": null
+          },
+          {
+            "name": "University of Toronto",
+            "pct": null
+          },
+          {
+            "name": "Washington State University",
+            "pct": null
+          },
+          {
+            "name": "Wuhan University",
+            "pct": null
+          },
+          {
+            "name": "Xiamen University",
+            "pct": null
+          },
+          {
+            "name": "Xi'an Jiaotong University",
+            "pct": null
+          },
+          {
+            "name": "Others",
+            "pct": null
+          }
+        ],
+        "quote": "Our students are from… Akita International University"
+      },
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 5.9,
+        "quote": "< 1 year / 5.9 years Average work experience"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "chinese-university-of-hong-kong",
+      "programmeIds": [],
+      "programmeName": "CUHK Business Master's (Masters class profile)",
+      "url": "https://masters.bschool.cuhk.edu.hk/masters-class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2026-27",
+        "quote": "Class Profile 2026-27"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": {
+        "value": 10,
+        "quote": "Place of Origin 10 | 1 Countries | Regions"
+      },
+      "regions": null,
+      "undergradRegions": {
+        "value": [
+          {
+            "name": "Hong Kong SAR, China",
+            "pct": 13.9
+          },
+          {
+            "name": "Macao SAR, China",
+            "pct": 7.06
+          },
+          {
+            "name": "Canada",
+            "pct": 8.6
+          },
+          {
+            "name": "United States",
+            "pct": 10.2
+          },
+          {
+            "name": "United Kingdom",
+            "pct": 9.7
+          },
+          {
+            "name": "Germany",
+            "pct": 0.53
+          },
+          {
+            "name": "Netherlands",
+            "pct": 0.53
+          },
+          {
+            "name": "France",
+            "pct": 0.53
+          },
+          {
+            "name": "Russian Federation",
+            "pct": 0.53
+          },
+          {
+            "name": "Malaysia",
+            "pct": 1.1
+          },
+          {
+            "name": "Mongolia",
+            "pct": 0.53
+          },
+          {
+            "name": "Japan",
+            "pct": 0.53
+          },
+          {
+            "name": "Philippines",
+            "pct": 0.53
+          },
+          {
+            "name": "India",
+            "pct": 0.53
+          },
+          {
+            "name": "Australia",
+            "pct": 2.2
+          }
+        ],
+        "quote": "Country of First Degree institution"
+      },
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business & Management",
+            "pct": null
+          },
+          {
+            "name": "Science & Mathematics and Statistics",
+            "pct": null
+          },
+          {
+            "name": "Others",
+            "pct": null
+          }
+        ],
+        "quote": "1st Degree Disciplines 7 : 1 : 2 Business & Management : Science & Mathematics and Statistics : Others"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "hong-kong-university-of-science-and-technology",
+      "programmeIds": [
+        "hong-kong-university-of-science-and-technology-master-of-science-in-business-analytics"
+      ],
+      "programmeName": "MSBA (Master of Science in Business Analytics)",
+      "url": "https://msba.hkust.edu.hk/student-life/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2023-24",
+        "quote": "Class 2023-24"
+      },
+      "classSize": null,
+      "intake_note": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": {
+        "value": [
+          {
+            "name": "Canada",
+            "pct": 17
+          },
+          {
+            "name": "United States",
+            "pct": 11
+          },
+          {
+            "name": "United Kingdom",
+            "pct": 9
+          },
+          {
+            "name": "Germany",
+            "pct": 1
+          },
+          {
+            "name": "Chinese Mainland",
+            "pct": 44
+          },
+          {
+            "name": "Hong Kong, China",
+            "pct": 13
+          },
+          {
+            "name": "Macao, China",
+            "pct": 1
+          },
+          {
+            "name": "South Korea",
+            "pct": 1
+          },
+          {
+            "name": "Australia",
+            "pct": 3
+          }
+        ],
+        "quote": "Country of 1st Degree Institution Canada 17% United States 11% United Kingdom 9% Germany 1% Chinese Mainland 44%"
+      },
+      "undergradInstitutionsCount": {
+        "value": 7,
+        "quote": "Countries of 1st Degree Institution 7"
+      },
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Accounting / Finance",
+            "pct": 29
+          },
+          {
+            "name": "Business Management",
+            "pct": 20
+          },
+          {
+            "name": "Economics",
+            "pct": 15
+          },
+          {
+            "name": "Supply Chain / Operations / Information Systems",
+            "pct": 10
+          },
+          {
+            "name": "Mathematics / Statistics",
+            "pct": 6
+          },
+          {
+            "name": "Language / Culture Studies",
+            "pct": 4
+          },
+          {
+            "name": "Engineering / Science",
+            "pct": 3
+          },
+          {
+            "name": "Marketing",
+            "pct": 3
+          },
+          {
+            "name": "Social Science / Psychology",
+            "pct": 3
+          },
+          {
+            "name": "Others",
+            "pct": 11
+          }
+        ],
+        "quote": "Major of Bachelor Degree Subject of Study Accounting / Finance 29% Business Management 20%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "hong-kong-university-of-science-and-technology",
+      "programmeIds": [
+        "hong-kong-university-of-science-and-technology-master-of-science-in-global-operations"
+      ],
+      "programmeName": "HKUST MSGO",
+      "url": "https://msgo.hkust.edu.hk/student-life/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2024-25",
+        "quote": "Class 2024-25"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": {
+        "value": [
+          {
+            "name": "Canada",
+            "pct": 28
+          },
+          {
+            "name": "United States",
+            "pct": 15
+          },
+          {
+            "name": "United Kingdom",
+            "pct": 14
+          },
+          {
+            "name": "France",
+            "pct": 1
+          },
+          {
+            "name": "Switzerland",
+            "pct": 1
+          },
+          {
+            "name": "Chinese Mainland",
+            "pct": 20
+          },
+          {
+            "name": "Hong Kong, China",
+            "pct": 16
+          },
+          {
+            "name": "Macao, China",
+            "pct": 2
+          },
+          {
+            "name": "Philippines",
+            "pct": 1
+          },
+          {
+            "name": "Australia",
+            "pct": 3
+          }
+        ],
+        "quote": "Country of 1st Degree Institution Canada 28% United States 15% United Kingdom 14%"
+      },
+      "undergradInstitutionsCount": {
+        "value": 8,
+        "quote": "Countries of 1st Degree Institution 8"
+      },
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Accounting / Finance",
+            "pct": 32
+          },
+          {
+            "name": "Language / Education",
+            "pct": 2
+          },
+          {
+            "name": "Business Management",
+            "pct": 26
+          },
+          {
+            "name": "Engineering / Science",
+            "pct": 2
+          },
+          {
+            "name": "Economics",
+            "pct": 21
+          },
+          {
+            "name": "Marketing",
+            "pct": 2
+          },
+          {
+            "name": "Mathematics / Statistics",
+            "pct": 9
+          },
+          {
+            "name": "Social Science / Psychology",
+            "pct": 1
+          },
+          {
+            "name": "Supply Chain / Operations / Information Systems",
+            "pct": 3
+          },
+          {
+            "name": "Others",
+            "pct": 3
+          }
+        ],
+        "quote": "Major of Bachelor Degree Subject of Study Accounting / Finance 32%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "hong-kong-university-of-science-and-technology",
+      "programmeIds": [
+        "hong-kong-university-of-science-and-technology-master-of-science-in-global-operations"
+      ],
+      "programmeName": "HKUST MSGO",
+      "url": "https://msgo.hkust.edu.hk/student-life/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025-26",
+        "quote": "Class 2025-26"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": {
+        "value": [
+          {
+            "name": "United States",
+            "pct": 16
+          },
+          {
+            "name": "Canada",
+            "pct": 11
+          },
+          {
+            "name": "United Kingdom",
+            "pct": 13
+          },
+          {
+            "name": "France",
+            "pct": 1
+          },
+          {
+            "name": "Switzerland",
+            "pct": 1
+          },
+          {
+            "name": "Chinese Mainland",
+            "pct": 39
+          },
+          {
+            "name": "Hong Kong, China",
+            "pct": 7
+          },
+          {
+            "name": "Macao, China",
+            "pct": 4
+          },
+          {
+            "name": "Japan",
+            "pct": 1
+          },
+          {
+            "name": "Singapore",
+            "pct": 1
+          },
+          {
+            "name": "Australia",
+            "pct": 8
+          }
+        ],
+        "quote": "Country of 1st Degree Institution United States 16% Canada 11% United Kingdom 13%"
+      },
+      "undergradInstitutionsCount": {
+        "value": 9,
+        "quote": "Countries of 1st Degree Institution 9"
+      },
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Finance",
+            "pct": 20
+          },
+          {
+            "name": "Marketing",
+            "pct": 4
+          },
+          {
+            "name": "Accounting",
+            "pct": 16
+          },
+          {
+            "name": "Human Resource",
+            "pct": 4
+          },
+          {
+            "name": "Economics",
+            "pct": 15
+          },
+          {
+            "name": "Sciences",
+            "pct": 3
+          },
+          {
+            "name": "Business Administration & Commerce",
+            "pct": 14
+          },
+          {
+            "name": "Hospitality and Tourism",
+            "pct": 3
+          },
+          {
+            "name": "Mathematics / Statistics",
+            "pct": 5
+          },
+          {
+            "name": "Others",
+            "pct": 11
+          },
+          {
+            "name": "Supply Chain Management",
+            "pct": 5
+          }
+        ],
+        "quote": "Major of Bachelor Degree Subject of Study Finance 20%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "hong-kong-university-of-science-and-technology",
+      "programmeIds": [
+        "hong-kong-university-of-science-and-technology-master-of-science-in-global-operations"
+      ],
+      "programmeName": "HKUST MSGO",
+      "url": "https://msgo.hkust.edu.hk/student-life/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class 2025-26",
+        "quote": "Class 2025-26"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": {
+        "value": 7,
+        "quote": "Countries of 1st Degree Institution\n7"
+      },
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business/ Management/ Marketing",
+            "pct": null
+          },
+          {
+            "name": "Accounting/ Banking/ Finance",
+            "pct": null
+          },
+          {
+            "name": "Economics",
+            "pct": null
+          },
+          {
+            "name": "Information Systems Management",
+            "pct": null
+          },
+          {
+            "name": "Computer Science",
+            "pct": null
+          },
+          {
+            "name": "Mathematics/ Statistics",
+            "pct": null
+          },
+          {
+            "name": "Engineering",
+            "pct": null
+          },
+          {
+            "name": "Others",
+            "pct": null
+          }
+        ],
+        "quote": "Majority of the students possess a degree in business disciplines, such as Business Management & Marketing, Accounting, Banking & Finance, Information Systems Management, and Economics. About 27% of students are from non-business backgrounds"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "hong-kong-university-of-science-and-technology",
+      "programmeIds": [
+        "hong-kong-university-of-science-and-technology-master-of-science-in-information-systems-management"
+      ],
+      "programmeName": "MSc in Information Systems Management",
+      "url": "https://mscism.hkust.edu.hk/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class 2024-25",
+        "quote": "Class 2024-25"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": {
+        "value": 8,
+        "quote": "Countries of 1st Degree Institution\n8"
+      },
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Accounting / Banking / Finance",
+            "pct": null
+          },
+          {
+            "name": "Business / Management / Marketing",
+            "pct": null
+          },
+          {
+            "name": "Economics",
+            "pct": null
+          },
+          {
+            "name": "Mathematics / Statistics",
+            "pct": null
+          },
+          {
+            "name": "Computer Science",
+            "pct": null
+          },
+          {
+            "name": "Information System Management",
+            "pct": null
+          },
+          {
+            "name": "Engineering",
+            "pct": null
+          },
+          {
+            "name": "Others",
+            "pct": null
+          }
+        ],
+        "quote": "About 47% of students are from non-business backgrounds, with degrees in areas such as Engineering, Computer Science, and Mathematics & Statistics."
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "hong-kong-university-of-science-and-technology",
+      "programmeIds": [
+        "hong-kong-university-of-science-and-technology-master-of-science-in-information-systems-management"
+      ],
+      "programmeName": "MSc in Information Systems Management",
+      "url": "https://mscism.hkust.edu.hk/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class 2023-24",
+        "quote": "Class 2023-24"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": {
+        "value": [
+          {
+            "name": "Place of Origin (Country)",
+            "pct": null
+          }
+        ],
+        "quote": "Place of Origin\n1\nCountry\nPlace of Origin\n3\nRegions"
+      },
+      "undergradRegions": null,
+      "undergradInstitutionsCount": {
+        "value": 9,
+        "quote": "Countries of 1st Degree Institution\n9"
+      },
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business / Management / Marketing",
+            "pct": null
+          },
+          {
+            "name": "Accounting / Banking / Finance",
+            "pct": null
+          },
+          {
+            "name": "Information System Management",
+            "pct": null
+          },
+          {
+            "name": "Mathematics / Statistics",
+            "pct": null
+          },
+          {
+            "name": "Economics",
+            "pct": null
+          },
+          {
+            "name": "Engineering",
+            "pct": null
+          },
+          {
+            "name": "Computer Science",
+            "pct": null
+          },
+          {
+            "name": "Others",
+            "pct": null
+          }
+        ],
+        "quote": "About 34% of students are from non-business backgrounds, with degrees in areas such as Engineering, Computer Science, and Mathematics & Statistics."
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "hong-kong-university-of-science-and-technology",
+      "programmeIds": [
+        "hong-kong-university-of-science-and-technology-master-of-science-in-information-systems-management"
+      ],
+      "programmeName": "MSc in Information Systems Management",
+      "url": "https://mscism.hkust.edu.hk/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 140,
+        "quote": "Class Size: 140"
+      },
+      "internationalPct": {
+        "value": 90,
+        "quote": "International Students: 90%+"
+      },
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": null
+          },
+          {
+            "name": "STEM",
+            "pct": null
+          },
+          {
+            "name": "Economics & Social Sciences",
+            "pct": null
+          }
+        ],
+        "quote": "Top 3 Undergraduate Majors: Business; STEM; Economics & Social Sciences"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age: 23"
+      },
+      "institutionId": "nanyang-technological-university-singapore",
+      "programmeIds": [
+        "nanyang-technological-university-singapore-msc-business-analytics",
+        "nanyang-technological-university-singapore-master-of-science-in-business-analytics"
+      ],
+      "programmeName": "MSc Business Analytics (Full-Time)",
+      "url": "https://www.ntu.edu.sg/business/events/nbsgradfair/graduate-programmes/msc-business-analytics",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 100,
+        "quote": "Class Size: 100"
+      },
+      "internationalPct": {
+        "value": 95,
+        "quote": "International Students: 95%"
+      },
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 2,
+        "quote": "Average Years Of Experience: <2"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age: 23"
+      },
+      "institutionId": "nanyang-technological-university-singapore",
+      "programmeIds": [
+        "nanyang-technological-university-singapore-master-in-management"
+      ],
+      "programmeName": "Master in Management (Full-Time)",
+      "url": "https://www.ntu.edu.sg/business/events/nbsgradfair/graduate-programmes/master-in-management",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 60,
+        "quote": "Class Size: 60"
+      },
+      "internationalPct": {
+        "value": 80,
+        "quote": "International Students: 80%+"
+      },
+      "womenPct": {
+        "value": 33,
+        "quote": "Female Representation: 33%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 22,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age: 22"
+      },
+      "institutionId": "nanyang-technological-university-singapore",
+      "programmeIds": [
+        "nanyang-technological-university-singapore-msc-financial-engineering",
+        "nanyang-technological-university-singapore-master-of-science-in-financial-engineering"
+      ],
+      "programmeName": "MSc Financial Engineering",
+      "url": "https://www.ntu.edu.sg/business/events/nbsgradfair/graduate-programmes/msc-financial-engineering",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 110,
+        "quote": "Class Size: 110"
+      },
+      "internationalPct": {
+        "value": 90,
+        "quote": "International Students: 90%+"
+      },
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": null
+          },
+          {
+            "name": "Humanities / Social Sciences",
+            "pct": null
+          },
+          {
+            "name": "Communications / Journalism",
+            "pct": null
+          }
+        ],
+        "quote": "Top 3 Undergraduate Majors: Business Humanities / Social Sciences Communications / Journalism"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age: 23"
+      },
+      "institutionId": "nanyang-technological-university-singapore",
+      "programmeIds": [
+        "nanyang-technological-university-singapore-msc-marketing-science",
+        "nanyang-technological-university-singapore-master-of-science-in-marketing-science"
+      ],
+      "programmeName": "MSc Marketing Science (Full-Time)",
+      "url": "https://www.ntu.edu.sg/business/events/nbsgradfair/graduate-programmes/msc-marketing-science",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 160,
+        "quote": "Class Size: 160"
+      },
+      "internationalPct": {
+        "value": 90,
+        "quote": "International Students: 90%+"
+      },
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 22,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age: 22"
+      },
+      "institutionId": "nanyang-technological-university-singapore",
+      "programmeIds": [
+        "nanyang-technological-university-singapore-msc-accountancy",
+        "nanyang-technological-university-singapore-master-of-science-in-accountancy"
+      ],
+      "programmeName": "MSc Accountancy (Full-Time)",
+      "url": "https://www.ntu.edu.sg/business/events/nbsgradfair/graduate-programmes/msc-accountancy",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 150,
+        "quote": "Class Size: 150"
+      },
+      "internationalPct": {
+        "value": 90,
+        "quote": "International Students: 90%+"
+      },
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Finance & Business",
+            "pct": null
+          },
+          {
+            "name": "Economics & Social Sciences",
+            "pct": null
+          },
+          {
+            "name": "STEM",
+            "pct": null
+          }
+        ],
+        "quote": "Top 3 Undergraduate Majors: Finance & Business Economics & Social Sciences STEM"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age: 23"
+      },
+      "institutionId": "nanyang-technological-university-singapore",
+      "programmeIds": [
+        "nanyang-technological-university-singapore-master-of-science-in-finance"
+      ],
+      "programmeName": "MSc Finance (Full-Time)",
+      "url": "https://www.ntu.edu.sg/business/events/nbsgradfair/graduate-programmes/msc-finance",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 50,
+        "quote": "Class Size:\n50"
+      },
+      "internationalPct": {
+        "value": 90,
+        "quote": "International Students:\n90%+"
+      },
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Economics & Finance",
+            "pct": null
+          },
+          {
+            "name": "Actuarial Science",
+            "pct": null
+          },
+          {
+            "name": "Business",
+            "pct": null
+          }
+        ],
+        "quote": "Top 3 Undergraduate Majors:\nEconomics & Finance\nActuarial Science\nBusiness"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age:\n23"
+      },
+      "institutionId": "nanyang-technological-university-singapore",
+      "programmeIds": [
+        "nanyang-technological-university-singapore-master-of-science-in-actuarial-and-risk-analytics"
+      ],
+      "programmeName": "MSc Actuarial and Risk Analytics (Full-Time)",
+      "url": "https://www.ntu.edu.sg/business/events/nbsgradfair/graduate-programmes/msc-actuarial-and-risk-analytics",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2025",
+        "quote": "Nicole Lee Saavedra Philippines, Class of 2025"
+      },
+      "classSize": null,
+      "internationalPct": {
+        "value": 95,
+        "quote": "95% international"
+      },
+      "womenPct": {
+        "value": 70,
+        "quote": "70% female"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 22,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age: 22 years"
+      },
+      "intake2": null,
+      "institutionId": "national-university-of-singapore",
+      "programmeIds": [
+        "national-university-of-singapore-msc-in-management"
+      ],
+      "programmeName": "NUS MSc in Management",
+      "url": "https://mim.nus.edu.sg/wp-content/uploads/sites/108/2025/11/MIM-Brochure-2025-WEBRES-Edited.pdf",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": {
+        "value": 92,
+        "quote": "92% international"
+      },
+      "womenPct": {
+        "value": 52,
+        "quote": "52% female"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 22,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age: 22 years"
+      },
+      "institutionId": "national-university-of-singapore",
+      "programmeIds": [
+        "national-university-of-singapore-msc-in-finance"
+      ],
+      "programmeName": "The NUS MSc in Finance",
+      "url": "https://mscfin.nus.edu.sg/wp-content/uploads/sites/118/2026/01/MFIN-Brochure-2025-WEBRES-Edited-V2-1.pdf",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": {
+        "value": 92,
+        "quote": "92% international"
+      },
+      "womenPct": {
+        "value": 53,
+        "quote": "53% female"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 25,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age: 25 years"
+      },
+      "institutionId": "national-university-of-singapore",
+      "programmeIds": [
+        "national-university-of-singapore-msc-in-sustainable-and-green-finance-msgfin"
+      ],
+      "programmeName": "NUS MSc in Sustainable & Green Finance",
+      "url": "https://msgfin.nus.edu.sg/wp-content/uploads/sites/90/2026/06/2026-SGF-Brochure-Lowres-1.pdf",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MSc in Management (MiM) Class of 2027"
+      },
+      "classSize": {
+        "value": 268,
+        "quote": "268\nstudents"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 49,
+        "quote": "49%\nfemale students"
+      },
+      "nationalities": {
+        "value": 54,
+        "quote": "54\nnationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business/Management",
+            "pct": 48
+          },
+          {
+            "name": "Arts/Humanities",
+            "pct": 17
+          },
+          {
+            "name": "Engineering/Technology",
+            "pct": 16
+          },
+          {
+            "name": "Finance/Accounting",
+            "pct": 7
+          },
+          {
+            "name": "Economics",
+            "pct": 6
+          },
+          {
+            "name": "Science/Medicine/Maths",
+            "pct": 6
+          }
+        ],
+        "quote": "Degree background\nBusiness/Management : 48%\nArts/Humanities : 17%\nEngineering/Technology : 16%\nFinance/Accounting : 7%\nEconomics : 6%\nScience/Medicine/Maths : 6%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "imperial-college-london",
+      "programmeIds": [],
+      "programmeName": "MSc in Management (MiM)",
+      "url": "https://www.imperial.ac.uk/business-school/masters/management/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MSc Economics & Strategy for Business Class of 2027"
+      },
+      "classSize": {
+        "value": 190,
+        "quote": "190\nstudents"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 59,
+        "quote": "59%\nfemale students"
+      },
+      "nationalities": {
+        "value": 48,
+        "quote": "48\nnationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Economics",
+            "pct": 42
+          },
+          {
+            "name": "Business/Management",
+            "pct": 37
+          },
+          {
+            "name": "Finance/Accounting",
+            "pct": 11
+          },
+          {
+            "name": "Arts/Humanities",
+            "pct": 5
+          },
+          {
+            "name": "Science/Medicine/Maths",
+            "pct": 3
+          },
+          {
+            "name": "Engineering/Technology",
+            "pct": 2
+          }
+        ],
+        "quote": "Degree background\nEconomics : 42%\nBusiness/Management : 37%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "imperial-college-london",
+      "programmeIds": [
+        "imperial-college-london-economics-and-strategy-for-business-msc"
+      ],
+      "programmeName": "MSc Economics & Strategy for Business",
+      "url": "https://www.imperial.ac.uk/business-school/masters/economics-strategy-business/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MSc Finance Class of 2027"
+      },
+      "classSize": {
+        "value": 101,
+        "quote": "101\nstudents"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 49,
+        "quote": "49%\nfemale students"
+      },
+      "nationalities": {
+        "value": 43,
+        "quote": "43\nnationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Economics",
+            "pct": 46
+          },
+          {
+            "name": "Engineering/Technology",
+            "pct": 16
+          },
+          {
+            "name": "Finance/Accounting",
+            "pct": 16
+          },
+          {
+            "name": "Mathematics",
+            "pct": 10
+          },
+          {
+            "name": "Computing",
+            "pct": 7
+          },
+          {
+            "name": "Business/Management",
+            "pct": 4
+          },
+          {
+            "name": "Arts/Humanities",
+            "pct": 1
+          }
+        ],
+        "quote": "Degree background\nEconomics : 46%\nEngineering/Technology : 16%\nFinance/Accounting : 16%\nMathematics : 10%\nComputing : 7%\nBusiness/Management : 4%\nArts/Humanities : 1%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "imperial-college-london",
+      "programmeIds": [
+        "imperial-college-london-finance-msc"
+      ],
+      "programmeName": "MSc Finance",
+      "url": "https://www.imperial.ac.uk/business-school/masters/finance/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MSc Strategic Marketing Class of 2027"
+      },
+      "classSize": {
+        "value": 359,
+        "quote": "359\nstudents"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 87,
+        "quote": "87%\nfemale students"
+      },
+      "nationalities": {
+        "value": 53,
+        "quote": "53\nnationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business/Management",
+            "pct": 55
+          },
+          {
+            "name": "Arts/Humanities",
+            "pct": 33
+          },
+          {
+            "name": "Economics",
+            "pct": 4
+          },
+          {
+            "name": "Engineering/Technology",
+            "pct": 3
+          },
+          {
+            "name": "Finance/Accounting",
+            "pct": 3
+          },
+          {
+            "name": "Science/Medicine/Maths",
+            "pct": 2
+          }
+        ],
+        "quote": "Degree background\nBusiness/Management : 55%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "imperial-college-london",
+      "programmeIds": [
+        "imperial-college-london-strategic-marketing-msc"
+      ],
+      "programmeName": "MSc Strategic Marketing",
+      "url": "https://www.imperial.ac.uk/business-school/masters/strategic-marketing/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MSc Finance & Accounting class of 2027"
+      },
+      "classSize": {
+        "value": 215,
+        "quote": "215\nstudents"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 39,
+        "quote": "39%\nfemale students"
+      },
+      "nationalities": {
+        "value": 47,
+        "quote": "47\nnationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business/Management",
+            "pct": 54
+          },
+          {
+            "name": "Finance/Accounting",
+            "pct": 31
+          },
+          {
+            "name": "Economics",
+            "pct": 12
+          },
+          {
+            "name": "Arts/Humanities",
+            "pct": 2
+          },
+          {
+            "name": "Engineering/Technology",
+            "pct": 1
+          }
+        ],
+        "quote": "Degree background\nBusiness/Management : 54%\nFinance/Accounting : 31%\nEconomics : 12%\nArts/Humanities : 2%\nEngineering/Technology : 1%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "imperial-college-london",
+      "programmeIds": [
+        "imperial-college-london-finance-and-accounting-msc"
+      ],
+      "programmeName": "MSc Finance & Accounting",
+      "url": "https://www.imperial.ac.uk/business-school/masters/finance-accounting/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MSc Innovation, Entrepreneurship & Management Class of 2027"
+      },
+      "classSize": {
+        "value": 204,
+        "quote": "204\nstudents"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 47,
+        "quote": "47%\nfemale students"
+      },
+      "nationalities": {
+        "value": 52,
+        "quote": "52\nnationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business/Management",
+            "pct": 46
+          },
+          {
+            "name": "Engineering/Technology",
+            "pct": 25
+          },
+          {
+            "name": "Arts/Humanities",
+            "pct": 10
+          },
+          {
+            "name": "Economics",
+            "pct": 7
+          },
+          {
+            "name": "Finance/Accounting",
+            "pct": 7
+          },
+          {
+            "name": "Science/Medicine",
+            "pct": 5
+          }
+        ],
+        "quote": "Degree background\nBusiness/Management : 46%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "imperial-college-london",
+      "programmeIds": [
+        "imperial-college-london-innovation-entrepreneurship-and-management-msc"
+      ],
+      "programmeName": "MSc Innovation, Entrepreneurship & Management",
+      "url": "https://www.imperial.ac.uk/business-school/masters/innovation-entrepreneurship-management/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MSc Financial Technology Class of 2027"
+      },
+      "classSize": {
+        "value": 94,
+        "quote": "94\nstudents"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 34,
+        "quote": "34%\nfemale students"
+      },
+      "nationalities": {
+        "value": 32,
+        "quote": "32\nnationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Computing",
+            "pct": 38
+          },
+          {
+            "name": "Mathematics",
+            "pct": 21
+          },
+          {
+            "name": "Engineering/Technology",
+            "pct": 15
+          },
+          {
+            "name": "Finance/Accounting",
+            "pct": 13
+          },
+          {
+            "name": "Economics",
+            "pct": 11
+          },
+          {
+            "name": "Business/Management",
+            "pct": 2
+          }
+        ],
+        "quote": "Degree background\nComputing : 38%\nMathematics : 21%\nEngineering/Technology : 15%\nFinance/Accounting : 13%\nEconomics : 11%\nBusiness/Management : 2%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "imperial-college-london",
+      "programmeIds": [
+        "imperial-college-london-financial-technology-msc"
+      ],
+      "programmeName": "MSc Financial Technology",
+      "url": "https://www.imperial.ac.uk/business-school/masters/financial-technology/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MSc Climate Change, Management & Finance Class of 2027"
+      },
+      "classSize": {
+        "value": 164,
+        "quote": "164\nstudents"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 61,
+        "quote": "61%\nfemale students"
+      },
+      "nationalities": {
+        "value": 40,
+        "quote": "40\nnationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Science/Medicine",
+            "pct": 22
+          },
+          {
+            "name": "Economics",
+            "pct": 20
+          },
+          {
+            "name": "Business/Management",
+            "pct": 19
+          },
+          {
+            "name": "Engineering/Technology",
+            "pct": 15
+          },
+          {
+            "name": "Finance/Accounting",
+            "pct": 13
+          },
+          {
+            "name": "Arts/Humanities",
+            "pct": 11
+          }
+        ],
+        "quote": "Degree background\nScience/Medicine : 22%\nEconomics : 20%\nBusiness/Management : 19%\nEngineering/Technology : 15%\nFinance/Accounting : 13%\nArts/Humanities : 11%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "imperial-college-london",
+      "programmeIds": [
+        "imperial-college-london-climate-change-management-and-finance-msc"
+      ],
+      "programmeName": "MSc Climate Change, Management & Finance",
+      "url": "https://imperial.ac.uk/business-school/programmes/msc-climate-change/meet-our-students/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025 intake",
+        "quote": "Class Profile (2025 intake)"
+      },
+      "classSize": {
+        "value": 74,
+        "quote": "74 Cohort size"
+      },
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": {
+        "value": 18,
+        "quote": "18 Nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 22,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "22 Average age"
+      },
+      "intake_placeholder": null,
+      "programme_placeholder": null,
+      "intake_extra": null,
+      "institutionId": "university-of-warwick",
+      "programmeIds": [
+        "university-of-warwick-international-business-msc"
+      ],
+      "programmeName": "MSc International Business",
+      "url": "https://www.wbs.ac.uk/courses/masters/international-business",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 112,
+        "quote": "112 Students"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 47,
+        "quote": "47 Female students"
+      },
+      "nationalities": {
+        "value": 36,
+        "quote": "36 Nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 5,
+        "quote": "5 Years of average work experience"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-cambridge",
+      "programmeIds": [
+        "university-of-cambridge-master-of-finance-mfin"
+      ],
+      "programmeName": "Master of Finance (MFin)",
+      "url": "https://www.jbs.cam.ac.uk/programmes/master-of-finance-mfin/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 55,
+        "quote": "55 Class size"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 35,
+        "quote": "35% Female students"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 16,
+        "quote": "16 Average years of work experience"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-oxford",
+      "programmeIds": [],
+      "programmeName": "MSc in Major Programme Management",
+      "url": "https://www.sbs.ox.ac.uk/programmes/degrees/msc-major-programme-management",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025",
+        "quote": "2025 class profile"
+      },
+      "classSize": {
+        "value": 30,
+        "quote": "30 Class size"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 45,
+        "quote": "45% Female Participants"
+      },
+      "nationalities": {
+        "value": 18,
+        "quote": "18 Nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 14,
+        "quote": "14 Average years' experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 40,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "40 Average age"
+      },
+      "institutionId": "university-of-oxford",
+      "programmeIds": [],
+      "programmeName": "MSc Global Healthcare Leadership",
+      "url": "https://www.sbs.ox.ac.uk/programmes/degrees/msc-global-healthcare-leadership",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 105,
+        "quote": "105 Class size"
+      },
+      "internationalPct": {
+        "value": 93,
+        "quote": "93% International students"
+      },
+      "womenPct": {
+        "value": 39,
+        "quote": "39% Female"
+      },
+      "nationalities": {
+        "value": 28,
+        "quote": "28 Nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 22,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "22 Average age"
+      },
+      "institutionId": "university-of-oxford",
+      "programmeIds": [],
+      "programmeName": "MSc Financial Economics",
+      "url": "https://www.sbs.ox.ac.uk/programmes/degrees/msc-financial-economics",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025-26",
+        "quote": "Class profile (2025-26)"
+      },
+      "classSize": {
+        "value": 332,
+        "quote": "332\nClass size"
+      },
+      "internationalPct": {
+        "value": 96,
+        "quote": "96%\nInternational students"
+      },
+      "womenPct": {
+        "value": 48,
+        "quote": "48%\nFemale"
+      },
+      "nationalities": {
+        "value": 63,
+        "quote": "63\nNationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": {
+        "average": null,
+        "median": 690,
+        "low": null,
+        "high": null,
+        "quote": "690\nMedian GMAT"
+      },
+      "gre": null,
+      "workYears": {
+        "value": 5,
+        "quote": "5 years\nAverage work experience"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-oxford",
+      "programmeIds": [],
+      "programmeName": "Oxford MBA",
+      "url": "https://www.sbs.ox.ac.uk/programmes/mbas/oxford-mba",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/26",
+        "quote": "Class profile 2025/26*"
+      },
+      "classSize": {
+        "value": 42,
+        "quote": "Class size:\n42"
+      },
+      "internationalPct": {
+        "value": 86,
+        "quote": "UK: 14% - International: 86%"
+      },
+      "womenPct": {
+        "value": 38,
+        "quote": "Male: 62% - Female: 38%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": null,
+        "median": null,
+        "low": 20,
+        "high": 49,
+        "quote": "Age range:\n20 - 49 years"
+      },
+      "institutionId": "cranfield-university",
+      "programmeIds": [],
+      "programmeName": "Banking, Economics and Finance MSc",
+      "url": "https://www.cranfield.ac.uk/som/masters-courses/banking-economics-and-finance",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/26",
+        "quote": "Class profile 2025/26"
+      },
+      "classSize": {
+        "value": 25,
+        "quote": "Class size:\n25"
+      },
+      "internationalPct": {
+        "value": 92,
+        "quote": "UK: 8% - International: 92%"
+      },
+      "womenPct": {
+        "value": 24,
+        "quote": "Male: 64% - Female: 24% - Other: 8%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": null,
+        "median": null,
+        "low": 19,
+        "high": 34,
+        "quote": "Age range:\n19 - 34 years"
+      },
+      "institutionId": "cranfield-university",
+      "programmeIds": [],
+      "programmeName": "Management MSc",
+      "url": "https://www.cranfield.ac.uk/som/masters-courses/-management",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/26",
+        "quote": "Class profile 2025/26*"
+      },
+      "classSize": {
+        "value": 98,
+        "quote": "Average class size:\n98"
+      },
+      "internationalPct": {
+        "value": 79,
+        "quote": "UK: 21% - International: 79%"
+      },
+      "womenPct": {
+        "value": 46,
+        "quote": "Male: 54% - Female: 46%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": null,
+        "median": null,
+        "low": 19,
+        "high": 54,
+        "quote": "Age range:\n19 - 54 years"
+      },
+      "institutionId": "cranfield-university",
+      "programmeIds": [],
+      "programmeName": "Procurement and Supply Chain Management MSc",
+      "url": "https://www.cranfield.ac.uk/som/masters-courses/procurement-and-supply-chain-management",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/26",
+        "quote": "Class profile 2025/26*"
+      },
+      "classSize": {
+        "value": 98,
+        "quote": "Average class size:\n98"
+      },
+      "internationalPct": {
+        "value": 79,
+        "quote": "UK: 21% - International: 79%"
+      },
+      "womenPct": {
+        "value": 46,
+        "quote": "Male: 54% - Female: 46%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": null,
+        "median": null,
+        "low": 19,
+        "high": 54,
+        "quote": "Age range:\n19 - 54 years"
+      },
+      "institutionId": "cranfield-university",
+      "programmeIds": [],
+      "programmeName": "Logistics and Supply Chain Management MSc",
+      "url": "https://www.cranfield.ac.uk/som/masters-courses/logistics-and-supply-chain-management",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/26",
+        "quote": "Class profile 2025/26"
+      },
+      "classSize": {
+        "value": 38,
+        "quote": "Class size: 38"
+      },
+      "internationalPct": {
+        "value": 92,
+        "quote": "UK: 8% - International: 92%"
+      },
+      "womenPct": {
+        "value": 53,
+        "quote": "Male: 47% - Female 53%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": null,
+        "median": null,
+        "low": 20,
+        "high": 39,
+        "quote": "Age range: 20 to 39 years"
+      },
+      "institutionId": "cranfield-university",
+      "programmeIds": [],
+      "programmeName": "Strategic Marketing MSc",
+      "url": "https://www.cranfield.ac.uk/som/masters-courses/strategic-marketing",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2025/26",
+        "quote": "Based on the class of 2025/26."
+      },
+      "classSize": {
+        "value": 38,
+        "quote": "38\nClass size"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 50,
+        "quote": "50% of our full-time MBA students identify as female, and 50% as male."
+      },
+      "nationalities": {
+        "value": 8,
+        "quote": "8\nNationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 6,
+        "quote": "6\nAverage years’ work experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 30,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "30\nAverage age"
+      },
+      "institutionId": "university-of-bath",
+      "programmeIds": [],
+      "programmeName": "Full-time MBA",
+      "url": "https://mba.bath.ac.uk/full-time-mba",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/2026",
+        "quote": "Based on the class of 2025/2026"
+      },
+      "classSize": {
+        "value": 150,
+        "quote": "150\nClass size"
+      },
+      "internationalPct": {
+        "value": 100,
+        "quote": "100%\nInternational class %"
+      },
+      "womenPct": {
+        "value": 46,
+        "quote": "46%/54%\nFemale/Male"
+      },
+      "nationalities": {
+        "value": 15,
+        "quote": "15\nNationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-college-dublin",
+      "programmeIds": [
+        "university-college-dublin-business-analytics-and-ai"
+      ],
+      "programmeName": "MSc in Business Analytics & AI",
+      "url": "https://www.smurfitschool.ie/programmes/masters/mscinbusinessanalytics",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/2026",
+        "quote": "Based on the class of 2025/2026"
+      },
+      "classSize": {
+        "value": 81,
+        "quote": "81\nClass size"
+      },
+      "internationalPct": {
+        "value": 94,
+        "quote": "94%\nInternational class %"
+      },
+      "womenPct": {
+        "value": 38,
+        "quote": "38%/62%\nFemale/Male"
+      },
+      "nationalities": {
+        "value": 12,
+        "quote": "12\nNationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 25,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "25\nAverage Age"
+      },
+      "institutionId": "university-college-dublin",
+      "programmeIds": [
+        "university-college-dublin-sustainable-supply-chain-management"
+      ],
+      "programmeName": "MSc in Sustainable Supply Chain Management",
+      "url": "https://www.smurfitschool.ie/programmes/masters/mscinsustainablesupplychainmanagement",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/2026",
+        "quote": "Based on the class of 2025/2026"
+      },
+      "classSize": {
+        "value": 87,
+        "quote": "87 Class size"
+      },
+      "internationalPct": {
+        "value": 98,
+        "quote": "98% International class %"
+      },
+      "womenPct": {
+        "value": 55,
+        "quote": "55%/43% Female/Male"
+      },
+      "nationalities": {
+        "value": 9,
+        "quote": "9 Nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 24,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "24 Average Age"
+      },
+      "institutionId": "university-college-dublin",
+      "programmeIds": [
+        "university-college-dublin-accounting-and-financial-management"
+      ],
+      "programmeName": "MSc in Accounting and Financial Management",
+      "url": "https://www.smurfitschool.ie/programmes/masters/mscinaccountingandfinancialmanagement",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/2026",
+        "quote": "Based on the class of 2025/2026"
+      },
+      "classSize": {
+        "value": 59,
+        "quote": "59 Class size"
+      },
+      "internationalPct": {
+        "value": 73,
+        "quote": "73% International class %"
+      },
+      "womenPct": {
+        "value": 33,
+        "quote": "33%/67% Female/Male"
+      },
+      "nationalities": {
+        "value": 14,
+        "quote": "14 Nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 25,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "25 Average Age"
+      },
+      "programmeIntake": null,
+      "institutionId": "university-college-dublin",
+      "programmeIds": [
+        "university-college-dublin-strategic-management"
+      ],
+      "programmeName": "MSc Strategic Management",
+      "url": "https://www.smurfitschool.ie/programmes/masters/mscstrategicmanagement",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/2026",
+        "quote": "Based on the class of 2025/2026"
+      },
+      "classSize": {
+        "value": 94,
+        "quote": "94\nClass size"
+      },
+      "internationalPct": {
+        "value": 83,
+        "quote": "83%\nInternational class %"
+      },
+      "womenPct": {
+        "value": 72,
+        "quote": "72%/28%\nFemale/Male"
+      },
+      "nationalities": {
+        "value": 12,
+        "quote": "12\nNationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 25,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "25\nAverage Age"
+      },
+      "institutionId": "university-college-dublin",
+      "programmeIds": [
+        "university-college-dublin-digital-marketing"
+      ],
+      "programmeName": "MSc in Digital Marketing",
+      "url": "https://www.smurfitschool.ie/programmes/masters/mscindigitalmarketing",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/2026",
+        "quote": "Based on the class of 2025/2026"
+      },
+      "classSize": {
+        "value": 19,
+        "quote": "19\nClass size"
+      },
+      "internationalPct": {
+        "value": 74,
+        "quote": "74%\nInternational class %"
+      },
+      "womenPct": {
+        "value": 58,
+        "quote": "58%/42%\nFemale/Male"
+      },
+      "nationalities": {
+        "value": 9,
+        "quote": "9\nNationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 26,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "26\nAverage Age"
+      },
+      "institutionId": "university-college-dublin",
+      "programmeIds": [
+        "university-college-dublin-sustainable-finance"
+      ],
+      "programmeName": "MSc in Sustainable Finance",
+      "url": "https://www.smurfitschool.ie/programmes/masters/mscinsustainablefinance",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2025/2026",
+        "quote": "Based on class of 2025/2026"
+      },
+      "classSize": {
+        "value": 141,
+        "quote": "141\nClass size"
+      },
+      "internationalPct": {
+        "value": 72,
+        "quote": "72%\n% International"
+      },
+      "womenPct": {
+        "value": 32,
+        "quote": "32%/68%\nFemale/Male"
+      },
+      "nationalities": {
+        "value": 16,
+        "quote": "16\nNationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "23\nAverage Age"
+      },
+      "institutionId": "university-college-dublin",
+      "programmeIds": [
+        "university-college-dublin-finance"
+      ],
+      "programmeName": "MSc in Finance",
+      "url": "https://www.smurfitschool.ie/programmes/masters/mscinfinance",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2025/2026",
+        "quote": "Based on the class of 2025/2026"
+      },
+      "classSize": {
+        "value": 30,
+        "quote": "30 Class size"
+      },
+      "internationalPct": {
+        "value": 13,
+        "quote": "13% % International"
+      },
+      "womenPct": {
+        "value": 73,
+        "quote": "73%/27% Females/Males"
+      },
+      "nationalities": {
+        "value": 4,
+        "quote": "4 Nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "23 Average Age"
+      },
+      "institutionId": "university-college-dublin",
+      "programmeIds": [
+        "university-college-dublin-marketing-practice"
+      ],
+      "programmeName": "MSc in Marketing Practice",
+      "url": "https://www.smurfitschool.ie/programmes/masters/mscinmarketingpractice",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2025/2026",
+        "quote": "Based on class of 2025/2026"
+      },
+      "classSize": {
+        "value": 31,
+        "quote": "31\nClass size"
+      },
+      "internationalPct": {
+        "value": 74,
+        "quote": "74%\nInternational class %"
+      },
+      "womenPct": {
+        "value": 35,
+        "quote": "35%/65%\nFemale/Male"
+      },
+      "nationalities": {
+        "value": 7,
+        "quote": "7\nNationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 24,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "24\nAverage Age"
+      },
+      "institutionId": "university-college-dublin",
+      "programmeIds": [
+        "university-college-dublin-financial-data-science"
+      ],
+      "programmeName": "MSc in Financial Data Science",
+      "url": "https://www.smurfitschool.ie/programmes/masters/mscinfinancialdatascience",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2021",
+        "quote": "2021 Class Profile"
+      },
+      "classSize": null,
+      "internationalPct": {
+        "value": 74,
+        "quote": "74% of student population are international students"
+      },
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 11,
+        "quote": "11 years average work experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 33,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "33 Average age"
+      },
+      "institutionId": "trinity-college-dublin-the-university-of-dublin",
+      "programmeIds": [],
+      "programmeName": "Full Time MBA",
+      "url": "https://www.tcd.ie/business/programmes/mba/full-time-mba/alumni-testimonials",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": {
+        "value": 36,
+        "quote": "Female\n36"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-hong-kong",
+      "programmeIds": [
+        "university-of-hong-kong-master-of-science-in-business-analytics"
+      ],
+      "programmeName": "Master of Science in Business Analytics",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-science-in-business-analytics",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": {
+        "value": 22,
+        "quote": "Female\n22"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-hong-kong",
+      "programmeIds": [
+        "university-of-hong-kong-master-of-science-in-marketing"
+      ],
+      "programmeName": "Master of Science in Marketing",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-science-in-marketing",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": {
+        "value": 31,
+        "quote": "Female\n31"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-hong-kong",
+      "programmeIds": [
+        "university-of-hong-kong-master-of-global-management"
+      ],
+      "programmeName": "Master of Global Management",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-global-management",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": {
+        "value": 98,
+        "quote": "98 With Prior Internship Experience"
+      },
+      "age": null,
+      "institutionId": "university-of-hong-kong",
+      "programmeIds": [
+        "university-of-hong-kong-master-of-sustainable-accounting-and-finance"
+      ],
+      "programmeName": "Master of Sustainable Accounting and Finance",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-sustainable-accounting-and-finance",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": {
+        "value": 48,
+        "quote": "Female\n48"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-hong-kong",
+      "programmeIds": [
+        "university-of-hong-kong-master-of-artificial-intelligence-in-business"
+      ],
+      "programmeName": "Master of Artificial Intelligence in Business",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-artificial-intelligence-in-business",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": {
+        "value": 98,
+        "quote": "98 With Prior Internship Experience"
+      },
+      "age": null,
+      "institutionId": "university-of-hong-kong",
+      "programmeIds": [
+        "university-of-hong-kong-master-of-wealth-management"
+      ],
+      "programmeName": "Master of Wealth Management",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-wealth-management",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": {
+        "value": 28,
+        "quote": "Female\n28"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-hong-kong",
+      "programmeIds": [
+        "university-of-hong-kong-master-of-accounting-analytics"
+      ],
+      "programmeName": "Master of Accounting Analytics",
+      "url": "https://masters.hkubs.hku.hk/our-programmes/master-of-accounting-analytics",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 4.8,
+        "quote": "4.8 years Average Work Experience"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "hong-kong-baptist-university",
+      "programmeIds": [],
+      "programmeName": "Master of Human Resource Management (HKBU)",
+      "url": "https://mhrm.hkbu.edu.hk/programme/student-profile.html",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "Full-time MBA Class of 2027"
+      },
+      "classSize": {
+        "value": 321,
+        "quote": "321 Number Enrolled"
+      },
+      "internationalPct": {
+        "value": 43,
+        "quote": "Students with International Citizenship: 43%"
+      },
+      "womenPct": {
+        "value": 45,
+        "quote": "Women: 45%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 30
+          },
+          {
+            "name": "Engineering, Math, Science",
+            "pct": 25
+          },
+          {
+            "name": "Economics",
+            "pct": 19
+          },
+          {
+            "name": "Social Science",
+            "pct": 16
+          },
+          {
+            "name": "Humanities, Arts, Other",
+            "pct": 10
+          }
+        ],
+        "quote": "Undergraduate Majors Business: 30% Engineering, Math, Science: 25% Economics: 19% Social Science: 16% Humanities, Arts, Other: 10%"
+      },
+      "gpa": {
+        "average": 3.64,
+        "median": null,
+        "low": 3.36,
+        "high": 3.89,
+        "scale": 4,
+        "label": "80% Range",
+        "quote": "GPA Statistics Average: 3.64 80% Range: 3.36 - 3.89"
+      },
+      "gmat": {
+        "average": 737,
+        "median": null,
+        "low": 690,
+        "high": 760,
+        "quote": "GMAT 10th Edition Statistics Average: 737 80% Range: 690 - 760"
+      },
+      "gre": {
+        "average": 163,
+        "median": null,
+        "low": 158,
+        "high": 168,
+        "quote": "V Average: 163 V 80% Range: 158 - 168"
+      },
+      "workYears": {
+        "value": 5,
+        "quote": "5.0 Average Years of Work Experience**"
+      },
+      "withWorkPct": {
+        "value": 98,
+        "quote": "98% Students with Work Experience"
+      },
+      "age": null,
+      "institutionId": "new-york-university",
+      "programmeIds": [],
+      "programmeName": "Full-time MBA",
+      "url": "https://www.stern.nyu.edu/programs-admissions/full-time-mba/community/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Fall 2026",
+        "quote": "Fall 2026 Class Information"
+      },
+      "classSize": {
+        "value": 281,
+        "quote": "Fall 2026\n281"
+      },
+      "internationalPct": {
+        "value": 22,
+        "quote": "International+\n22%"
+      },
+      "womenPct": {
+        "value": 48,
+        "quote": "Female\n48%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 35
+          },
+          {
+            "name": "Engineering, Math, Science",
+            "pct": 24
+          },
+          {
+            "name": "Social Science",
+            "pct": 16
+          },
+          {
+            "name": "Economics",
+            "pct": 12
+          },
+          {
+            "name": "Humanities, Arts, Other",
+            "pct": 12
+          }
+        ],
+        "quote": "Undergraduate Majors\nBusiness\n35%"
+      },
+      "gpa": {
+        "average": 3.49,
+        "median": null,
+        "low": 2.94,
+        "high": 3.89,
+        "scale": null,
+        "label": "90% Range",
+        "quote": "GPA\nAverage\n3.49\n90% Range\n2.94 - 3.89"
+      },
+      "gmat": {
+        "average": 669,
+        "median": null,
+        "low": 580,
+        "high": 730,
+        "quote": "GMAT\nBased on the past 3 years of enrolled students\nAverage\n669\n80% Range\n580 - 730"
+      },
+      "gre": {
+        "average": 161,
+        "median": null,
+        "low": 155,
+        "high": 167,
+        "quote": "GRE\nBased on the past 3 years of enrolled students\nAverage\n161 Verbal\n160 Quantitative\n80% Range\n155 - 167 Verbal"
+      },
+      "workYears": {
+        "value": 13,
+        "quote": "90% Range - Years of Work Experience\n1 - 13"
+      },
+      "withWorkPct": {
+        "value": 97,
+        "quote": "Students with Work Experience\n97%"
+      },
+      "age": null,
+      "institutionId": "new-york-university",
+      "programmeIds": [],
+      "programmeName": "Part-time MBA",
+      "url": "https://www.stern.nyu.edu/programs-admissions/mba-programs/part-time-mba-manhattan/admissions/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "Luxury & Retail MBA Class of 2027"
+      },
+      "classSize": {
+        "value": 25,
+        "quote": "25 Number Enrolled"
+      },
+      "intake_note": null,
+      "internationalPct": {
+        "value": 24,
+        "quote": "24% Students with International Citizenship"
+      },
+      "womenPct": {
+        "value": 88,
+        "quote": "88% Women"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 40
+          },
+          {
+            "name": "Engineering, Math, Science",
+            "pct": 24
+          },
+          {
+            "name": "Humanities, Arts, Other",
+            "pct": 20
+          },
+          {
+            "name": "Economics",
+            "pct": 8
+          },
+          {
+            "name": "Social Science",
+            "pct": 8
+          }
+        ],
+        "quote": "Undergraduate Majors Business: 40% Engineering, Math, Science: 24% Humanities, Arts, Other: 20% Economics: 8% Social Science: 8%"
+      },
+      "gpa": {
+        "average": null,
+        "median": null,
+        "low": 3.37,
+        "high": 3.84,
+        "scale": null,
+        "label": "80% Range",
+        "quote": "GPA 80% Range: 3.37 - 3.84"
+      },
+      "gmat": {
+        "average": null,
+        "median": null,
+        "low": 625,
+        "high": 701,
+        "quote": "GMAT* 80% Range: 625 - 701"
+      },
+      "gre": {
+        "average": null,
+        "median": null,
+        "low": 152,
+        "high": 159,
+        "quote": "GRE Q 80% Range: 152-159"
+      },
+      "workYears": {
+        "value": 6,
+        "quote": "6.0 Average Years of Work Experience"
+      },
+      "withWorkPct": {
+        "value": 100,
+        "quote": "100% Enrolled Students with Prior Work Experience"
+      },
+      "age": {
+        "average": 29,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "29 Average Age"
+      },
+      "institutionId": "new-york-university",
+      "programmeIds": [
+        "new-york-university-luxury-and-retail-mba"
+      ],
+      "programmeName": "Luxury & Retail MBA",
+      "url": "https://stern.nyu.edu/programs-admissions/fashion-luxury-mba/community/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "Meet a few students from the MSBA Full-time Class of 2027"
+      },
+      "classSize": {
+        "value": 56,
+        "quote": "The 56-student cohort represents 16 countries"
+      },
+      "internationalPct": {
+        "value": 39,
+        "quote": "International students make up 39% of the class."
+      },
+      "womenPct": {
+        "value": 46,
+        "quote": "The cohort is 46% female"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 46
+          },
+          {
+            "name": "Economics",
+            "pct": 20
+          },
+          {
+            "name": "Computer science",
+            "pct": 11
+          },
+          {
+            "name": "Social and behavioral sciences",
+            "pct": 9
+          },
+          {
+            "name": "Arts and humanities",
+            "pct": 4
+          },
+          {
+            "name": "Engineering",
+            "pct": 4
+          },
+          {
+            "name": "Health and medical sciences",
+            "pct": 2
+          },
+          {
+            "name": "Physical and earth sciences",
+            "pct": 2
+          },
+          {
+            "name": "Other fields of study",
+            "pct": 4
+          }
+        ],
+        "quote": "Nearly half of the class (46%) studied business as undergraduates, while 20% studied economics and 11% studied computer science. Others come from social and behavioral sciences (9%), arts and humanities (4%), engineering (4%), health and medical sciences (2%), physical and earth sciences (2%), and other fields of study (4%)."
+      },
+      "gpa": {
+        "average": 3.5,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "The class has an average GPA of 3.5, an average age of 24, and an average of one year of professional experience."
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 24,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "an average age of 24"
+      },
+      "institutionId": "georgetown-university",
+      "programmeIds": [
+        "georgetown-university-business-analytics-ms"
+      ],
+      "programmeName": "Full-time M.S. in Business Analytics (MSBA)",
+      "url": "https://msb.georgetown.edu/news-story/admissions-blog/meet-the-inaugural-full-time-m-s-in-business-analytics-class",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MiM Class of 2027 Class Profile"
+      },
+      "classSize": {
+        "value": 23,
+        "quote": "Cohort at a Glance\n23"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 52,
+        "quote": "Female 52%"
+      },
+      "nationalities": {
+        "value": 43,
+        "quote": "Countries of Citizenship Represented 43"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 43
+          },
+          {
+            "name": "Economics",
+            "pct": 15
+          },
+          {
+            "name": "Social and Behavioral Sciences",
+            "pct": 14
+          },
+          {
+            "name": "Other Fields",
+            "pct": 12
+          },
+          {
+            "name": "Biological and Agricultural Sciences",
+            "pct": 5
+          },
+          {
+            "name": "Engineering",
+            "pct": 4
+          },
+          {
+            "name": "Mathematics and Computer Sciences",
+            "pct": 4
+          },
+          {
+            "name": "Arts and Humanities",
+            "pct": 3
+          }
+        ],
+        "quote": "Undergraduate Field of Study: Business 43% Economics 15% Social and Behavioral Sciences 14% Other Fields 12% Biological and Agricultural Sciences 5% Engineering 4% Mathematics and Computer Sciences 4% and Arts and Humanities 3%"
+      },
+      "gpa": {
+        "average": 3.6,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "3.6 Average GPA"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 0.5,
+        "quote": "Average Years of Work Experience: 0.5"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average Age: 23"
+      },
+      "institutionId": "georgetown-university",
+      "programmeIds": [],
+      "programmeName": "MiM (Master's in Management)",
+      "url": "https://msb.georgetown.edu/masters-in-management/student-experience",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class Entering 2025",
+        "quote": "Class Entering 2025"
+      },
+      "classSize": {
+        "value": 84,
+        "quote": "Class size, 84 enrolled students"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 30,
+        "quote": "30% women"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Computer Sciences",
+            "pct": 20
+          },
+          {
+            "name": "Engineering",
+            "pct": 19
+          },
+          {
+            "name": "Math",
+            "pct": 18
+          },
+          {
+            "name": "Finance",
+            "pct": 12
+          },
+          {
+            "name": "Statistics",
+            "pct": 11
+          },
+          {
+            "name": "Actuarial Science",
+            "pct": 6
+          },
+          {
+            "name": "Business Commerce",
+            "pct": 4
+          },
+          {
+            "name": "Economics",
+            "pct": 4
+          },
+          {
+            "name": "Physics & Natural Sciences",
+            "pct": 4
+          },
+          {
+            "name": "Other",
+            "pct": 4
+          }
+        ],
+        "quote": "Undergraduate Majors: Computer Sciences 20% Engineering 19% Math 18% Finance 12% Statistics 11% Actuarial Science 6% Business Commerce 4% Economics 4% Physics & Natural Sciences 4% Other 4%"
+      },
+      "gpa": {
+        "average": 3.77,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "3.77 average undergraduate GPA (U.S.)"
+      },
+      "gmat": null,
+      "gre": {
+        "average": 91,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "91% average GRE quant score percentile"
+      },
+      "workYears": {
+        "value": 2.47,
+        "quote": "2.47 average years of work experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 25,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age 25"
+      },
+      "institutionId": "university-of-california-berkeley",
+      "programmeIds": [],
+      "programmeName": "Berkeley MFE",
+      "url": "https://mfe.haas.berkeley.edu/admissions/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": null,
+      "classSize": {
+        "value": 60,
+        "quote": "60\nTotal Students"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 27,
+        "quote": "27%\nFemale"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Engineering",
+            "pct": 34
+          },
+          {
+            "name": "Finance/Econ",
+            "pct": 28
+          },
+          {
+            "name": "Math/Stats",
+            "pct": 26
+          },
+          {
+            "name": "Computer Science",
+            "pct": 7
+          },
+          {
+            "name": "Others",
+            "pct": 5
+          }
+        ],
+        "quote": "Undergrad Majors\n34% Engineering\n28% Finance/Econ\n26% Math/Stats\n7% Computer Science\n5% Others"
+      },
+      "gpa": {
+        "average": 3.47,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "3.47\nUndergrad Average GPA"
+      },
+      "gmat": {
+        "average": null,
+        "median": 675,
+        "low": null,
+        "high": null,
+        "quote": "675 or 95%\nGMAT Total Median"
+      },
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 24.5,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "24.5\nAverage Age"
+      },
+      "institutionId": "university-of-california-los-angeles",
+      "programmeIds": [
+        "university-of-california-los-angeles-management-master-of-financial-engineering"
+      ],
+      "programmeName": "Master of Financial Engineering",
+      "url": "https://www.anderson.ucla.edu/degrees/master-of-financial-engineering/admissions",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2023",
+        "quote": "MSBA Class of 2023 Cohort"
+      },
+      "classSize": {
+        "value": 138,
+        "quote": "Class Size 138"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 51,
+        "quote": "Women 51% Men 49%"
+      },
+      "nationalities": null,
+      "regions": {
+        "value": [
+          {
+            "name": "Bangladesh",
+            "pct": null
+          },
+          {
+            "name": "Canada",
+            "pct": null
+          },
+          {
+            "name": "Cambodia",
+            "pct": null
+          },
+          {
+            "name": "China",
+            "pct": null
+          },
+          {
+            "name": "Indonesia",
+            "pct": null
+          },
+          {
+            "name": "India",
+            "pct": null
+          },
+          {
+            "name": "Iran",
+            "pct": null
+          },
+          {
+            "name": "Jamaica",
+            "pct": null
+          },
+          {
+            "name": "Japan",
+            "pct": null
+          },
+          {
+            "name": "Kazakhstan",
+            "pct": null
+          },
+          {
+            "name": "Korea",
+            "pct": null
+          },
+          {
+            "name": "Pakistan",
+            "pct": null
+          },
+          {
+            "name": "Peru",
+            "pct": null
+          },
+          {
+            "name": "Russia",
+            "pct": null
+          },
+          {
+            "name": "Thailand",
+            "pct": null
+          },
+          {
+            "name": "Taiwan",
+            "pct": null
+          },
+          {
+            "name": "United States",
+            "pct": null
+          },
+          {
+            "name": "Vietnam",
+            "pct": null
+          }
+        ],
+        "quote": "Bangladesh, Canada, Cambodia, China, Indonesia, India, Iran, Jamaica, Japan, Kazakhstan, Korea, Pakistan, Peru, Russia, Thailand, Taiwan, United States, and Vietnam"
+      },
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": {
+        "value": [
+          {
+            "name": "UC Irvine",
+            "pct": 13
+          },
+          {
+            "name": "Other UC Schools",
+            "pct": 10
+          },
+          {
+            "name": "Other U.S. Schools",
+            "pct": 25
+          },
+          {
+            "name": "International Schools",
+            "pct": 52
+          }
+        ],
+        "quote": "UC Irvine 13% Other UC Schools 10% Other U.S. Schools 25% International Schools 52%"
+      },
+      "majors": null,
+      "gpa": {
+        "average": 3.5,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "Average GPA 3.5"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 3.22,
+        "quote": "Average Work Experience 3.22 Years"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 25.76,
+        "median": null,
+        "low": 21.2,
+        "high": 44.7,
+        "quote": "Average Age 25.76\nAge Range 21.2 - 44.7"
+      },
+      "institutionId": "university-of-california-irvine",
+      "programmeIds": [
+        "university-of-california-irvine-master-of-science-in-business-analytics"
+      ],
+      "programmeName": "Master of Science in Business Analytics (MSBA)",
+      "url": "https://merage.uci.edu/_files/documents/programs/MSBA/Business-Analytics-MSBA-profile-sheet23.pdf",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2023",
+        "quote": "Master of Finance Class of 2023"
+      },
+      "classSize": {
+        "value": 132,
+        "quote": "Total 132 100%"
+      },
+      "internationalPct": {
+        "value": 90,
+        "quote": "International 90%"
+      },
+      "womenPct": {
+        "value": 36,
+        "quote": "Women 36%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": {
+        "average": null,
+        "median": 3.83,
+        "low": null,
+        "high": null,
+        "scale": 4,
+        "label": "Median Undergraduate GPA (out of 4.0)",
+        "quote": "Median Undergraduate GPA (out of 4.0) 3.83"
+      },
+      "gmat": null,
+      "gre": {
+        "average": null,
+        "median": null,
+        "low": 166,
+        "high": 170,
+        "quote": "GRE Quantitative Range (middle 80%) 166-170"
+      },
+      "workYears": {
+        "value": 17,
+        "quote": "Average Full-Time Work Experience Prior to MIT Sloan2 17 months"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "massachusetts-institute-of-technology",
+      "programmeIds": [],
+      "programmeName": "Master of Finance",
+      "url": "https://mitsloan.mit.edu/sites/default/files/2024-02/MFin-Employment-Report_2023FT_2024_1.pdf",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2023",
+        "quote": "the Stanford MSx Class of 2023 represents a uniquely seasoned cohort"
+      },
+      "classSize": {
+        "value": 84,
+        "quote": "The 84 students in this year's class"
+      },
+      "internationalPct": {
+        "value": 68,
+        "quote": "with 68% of the class coming from outside the U.S."
+      },
+      "womenPct": {
+        "value": 37,
+        "quote": "Additionally, 37% of the class are women."
+      },
+      "nationalities": {
+        "value": 37,
+        "quote": "Students come from 37 different nationalities"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 13,
+        "quote": "students in the Class of 2023 have, on average, more than 13 years of work experience"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "stanford-university",
+      "programmeIds": [],
+      "programmeName": "Stanford MSx Program",
+      "url": "https://www.gsb.stanford.edu/newsroom/school-news/meet-msx-class-2023-accomplished-leaders-ready-make-impact",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2026",
+        "quote": "MiM 2026 Class Profile"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": {
+        "value": 66,
+        "quote": "The Class of 2026 represents 66 colleges and universities ."
+      },
+      "undergradInstitutions": {
+        "value": [
+          {
+            "name": "Boston University",
+            "pct": null
+          },
+          {
+            "name": "Bocconi University",
+            "pct": null
+          },
+          {
+            "name": "Emory University",
+            "pct": null
+          },
+          {
+            "name": "Howard University",
+            "pct": null
+          },
+          {
+            "name": "National Taiwan University",
+            "pct": null
+          },
+          {
+            "name": "New York University",
+            "pct": null
+          },
+          {
+            "name": "Northwestern University",
+            "pct": null
+          },
+          {
+            "name": "Princeton University",
+            "pct": null
+          },
+          {
+            "name": "Trinity University",
+            "pct": null
+          },
+          {
+            "name": "University of California, Berkeley",
+            "pct": null
+          },
+          {
+            "name": "University of Florida",
+            "pct": null
+          },
+          {
+            "name": "University of Michigan",
+            "pct": null
+          }
+        ],
+        "quote": "Here is just a small selection of where our students earned their undergraduate degrees:"
+      },
+      "majors": null,
+      "gpa": {
+        "average": null,
+        "median": null,
+        "low": 3,
+        "high": 4,
+        "scale": 4,
+        "label": "range",
+        "quote": "The class of 2026 came to us with GPAs ranging from 3.0 to 4.0."
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "northwestern-university",
+      "programmeIds": [],
+      "programmeName": "Master in Management",
+      "url": "https://www.kellogg.northwestern.edu/programs/master-in-management/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "2017",
+        "quote": "MS IN MANAGEMENT STUDIES CLASS PROFILE 2017"
+      },
+      "classSize": {
+        "value": 69,
+        "quote": "69\nCLASS SIZE"
+      },
+      "internationalPct": {
+        "value": 35,
+        "quote": "35%\nINTERNATIONAL"
+      },
+      "womenPct": {
+        "value": 49,
+        "quote": "49% WOMEN"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": {
+        "value": 29,
+        "quote": "29 UNDERGRADUATE SCHOOLS"
+      },
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Liberal Arts",
+            "pct": 55
+          },
+          {
+            "name": "Economics",
+            "pct": 33
+          },
+          {
+            "name": "Engineering",
+            "pct": 12
+          },
+          {
+            "name": "Sciences",
+            "pct": 10
+          },
+          {
+            "name": "Arts",
+            "pct": 6
+          }
+        ],
+        "quote": "DIVERSE UNDERGRADUATE\nMAJORS\nLiberal Arts . . . . . . . . . . . . . . . . . . . . . 55%"
+      },
+      "gpa": {
+        "average": 3.5,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "3.5\nAVERAGE GPA"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": {
+        "average": 22,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "22\nAVERAGE AGE"
+      },
+      "institutionId": "northwestern-university",
+      "programmeIds": [],
+      "programmeName": "MS in Management Studies",
+      "url": "https://www.kellogg.northwestern.edu/~/media/Files/Russell-Fellows/2017-MSMS-class-profile.ashx",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "The Full-Time Class of 2027 has arrived"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": {
+        "average": null,
+        "median": null,
+        "low": 2.7,
+        "high": 4,
+        "scale": 4,
+        "label": "range",
+        "quote": "Our newest Full-Time class of Kellogg Leaders came to us with GPAs ranging from 2.7 to 4.0."
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "northwestern-university",
+      "programmeIds": [],
+      "programmeName": "Full-Time MBA",
+      "url": "https://www.kellogg.northwestern.edu/programs/full-time-mba/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Entering class of 2025",
+        "quote": "The entering class of 2025 exemplifies the ambition, collaboration and academic excellence"
+      },
+      "classSize": null,
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": {
+        "average": null,
+        "median": 635,
+        "low": null,
+        "high": null,
+        "quote": "The median GMAT Focus score of 635 is equivalent to a 690 on the legacy GMAT"
+      },
+      "gre": null,
+      "workYears": {
+        "value": 9.5,
+        "quote": "The median work experience range (mid 80) is 3 years to 9.5 years"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": null,
+        "median": null,
+        "low": 25,
+        "high": 33,
+        "quote": "The median age range (mid-80) is 25 to 33"
+      },
+      "institutionId": "northwestern-university",
+      "programmeIds": [],
+      "programmeName": "Evening & Weekend MBA",
+      "url": "https://www.kellogg.northwestern.edu/programs/part-time-mba/student-experience/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2026",
+        "quote": "Master in Management Class Profile 2026"
+      },
+      "classSize": {
+        "value": 128,
+        "quote": "128\nClass size"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 43,
+        "quote": "43%\nWomen"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": {
+        "value": 95,
+        "quote": "95\nUndergraduate schools represented"
+      },
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Economics",
+            "pct": 28
+          },
+          {
+            "name": "Psychology",
+            "pct": 7
+          },
+          {
+            "name": "Finance",
+            "pct": 5
+          },
+          {
+            "name": "Political Science",
+            "pct": 5
+          },
+          {
+            "name": "Communications",
+            "pct": 4
+          },
+          {
+            "name": "Other",
+            "pct": 51
+          }
+        ],
+        "quote": "28%\nEconomics\n7%\nPsychology\n5%\nFinance\n5%\nPolitical Science\n4%\nCommunications\n51%\nOther"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": null,
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-chicago",
+      "programmeIds": [
+        "university-of-chicago-master-of-management"
+      ],
+      "programmeName": "Master in Management",
+      "url": "https://www.chicagobooth.edu/master-in-management",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "Chicago Booth Full-Time MBA Class of 2027 Profile"
+      },
+      "classSize": {
+        "value": 635,
+        "quote": "635\nFull-Time MBA Students"
+      },
+      "internationalPct": {
+        "value": 37,
+        "quote": "37%\nInternational"
+      },
+      "womenPct": {
+        "value": 41,
+        "quote": "41% Women"
+      },
+      "nationalities": {
+        "value": 63,
+        "quote": "63\nCountries Represented"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": {
+        "value": 286,
+        "quote": "286\nUndergraduate Institutions"
+      },
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 26
+          },
+          {
+            "name": "Engineering",
+            "pct": 21
+          },
+          {
+            "name": "Economics",
+            "pct": 24
+          },
+          {
+            "name": "Liberal Arts",
+            "pct": 13
+          },
+          {
+            "name": "Physical Sciences",
+            "pct": 9
+          },
+          {
+            "name": "Law",
+            "pct": 2
+          },
+          {
+            "name": "Other",
+            "pct": 5
+          }
+        ],
+        "quote": "26%\nBusiness\n21%\nEngineering\n24%\nEconomics\n13%\nLiberal Arts\n9%\nPhysical Sciences\n2%\nLaw\n5%\nOther"
+      },
+      "gpa": {
+        "average": 3.6,
+        "median": null,
+        "low": 2.5,
+        "high": 4,
+        "scale": 4,
+        "label": "range",
+        "quote": "3.6\nAverage GPA 2\n3.6\n2.5-4\nGPA Range 3"
+      },
+      "gmat": {
+        "average": 729,
+        "median": 730,
+        "low": null,
+        "high": null,
+        "quote": "73% GMAT\n729\n730"
+      },
+      "gre": {
+        "average": 163,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "26% GRE - Quantitative\n164\n26% GRE - Verbal\n163"
+      },
+      "workYears": {
+        "value": 5,
+        "quote": "5\nAverage Years Work Experience"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-chicago",
+      "programmeIds": [
+        "university-of-chicago-master-of-business-administration"
+      ],
+      "programmeName": "Full-Time MBA",
+      "url": "https://www.chicagobooth.edu/mba/full-time/admissions/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2025",
+        "quote": "The Chicago Booth Part-Time MBA Class of 2025 includes 256 students"
+      },
+      "classSize": {
+        "value": 256,
+        "quote": "The Chicago Booth Part-Time MBA Class of 2025 includes 256 students"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 27,
+        "quote": "27% Women"
+      },
+      "nationalities": {
+        "value": 30,
+        "quote": "drawn from 29 states and 30 countries"
+      },
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": {
+        "value": 181,
+        "quote": "Chicago Booth Part-Time MBA students come from 181 different undergraduate institutions"
+      },
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": {
+        "average": 3.4,
+        "median": null,
+        "low": 2.9,
+        "high": 3.9,
+        "scale": 4,
+        "label": "range",
+        "quote": "They have a GPA of 3.4 (ranging from 2.9 to 3.9)"
+      },
+      "gmat": {
+        "average": 640,
+        "median": null,
+        "low": 585,
+        "high": 695,
+        "quote": "29 percent submit GMAT Focus Edition scores (average total score of 640, ranging from 585 to 695)."
+      },
+      "gre": {
+        "average": 159,
+        "median": null,
+        "low": 150,
+        "high": 169,
+        "quote": "34 percent submit GRE scores (average Quantitative score of 159, ranging from 150 to 169, and average Verbal score of 158, ranging from 149 to 167)."
+      },
+      "workYears": {
+        "value": 6,
+        "quote": "a median of 6 years, ranging from 3 to 11"
+      },
+      "withWorkPct": {
+        "value": 32,
+        "quote": "32 percent already hold a graduate-level degree"
+      },
+      "age": null,
+      "intake2": null,
+      "programme2": null,
+      "gpa2": null,
+      "institutionId": "university-of-chicago",
+      "programmeIds": [
+        "university-of-chicago-master-of-business-administration"
+      ],
+      "programmeName": "Chicago Booth Part-Time MBA",
+      "url": "https://www.chicagobooth.edu/mba/part-time/admissions/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "school",
+      "intake": {
+        "value": "Class of 2026",
+        "quote": "Wharton MBA Class of 2026 Class Profile"
+      },
+      "classSize": {
+        "value": 866,
+        "quote": "Wharton MBA Program Class of 2026 Class Size : 866"
+      },
+      "internationalPct": {
+        "value": 31,
+        "quote": "International Students: 31%"
+      },
+      "womenPct": {
+        "value": 47,
+        "quote": "Female: 47%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": {
+        "value": [
+          {
+            "name": "U.S. Schools",
+            "pct": 78
+          },
+          {
+            "name": "Non-U.S. Schools",
+            "pct": 22
+          }
+        ],
+        "quote": "Wharton MBA Undergraduate Schools\nU.S. Schools: 78%\nNon-U.S. Schools: 22%"
+      },
+      "majors": {
+        "value": [
+          {
+            "name": "Humanities",
+            "pct": 36
+          },
+          {
+            "name": "STEM",
+            "pct": 32
+          },
+          {
+            "name": "Business",
+            "pct": 32
+          }
+        ],
+        "quote": "Wharton MBA Undergraduate Major\nHumanities: 36%\nSTEM: 32%\nBusiness: 32%"
+      },
+      "gpa": {
+        "average": 3.68,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "Undergraduate GPA: 3.68 average undergraduate GPA"
+      },
+      "gmat": {
+        "average": 732,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Wharton MBA GMAT Score\nAverage: 732"
+      },
+      "gre": null,
+      "workYears": {
+        "value": 5,
+        "quote": "5 years average work experience"
+      },
+      "withWorkPct": null,
+      "age": null,
+      "institutionId": "university-of-pennsylvania",
+      "programmeIds": [],
+      "programmeName": "Wharton MBA",
+      "url": "https://mba.wharton.upenn.edu/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "Class of 2027"
+      },
+      "classSize": {
+        "value": 43,
+        "quote": "43\nEnrollment"
+      },
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 49
+          },
+          {
+            "name": "Social Science",
+            "pct": 33
+          },
+          {
+            "name": "Science",
+            "pct": 14
+          },
+          {
+            "name": "Engineering",
+            "pct": 2
+          },
+          {
+            "name": "Humanities",
+            "pct": 2
+          }
+        ],
+        "quote": "49\nBusiness\n33\nSocial Science\n14\nScience\n2\nEngineering\n2\nHumanities"
+      },
+      "gpa": {
+        "average": 3.33,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": 4,
+        "label": null,
+        "quote": "3.33/4.0\nAverage undergraduate GPA"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 0.25,
+        "quote": "0.25\nAverage years of professional work experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 23,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "23\nAverage Age"
+      },
+      "institutionId": "university-of-wisconsin-madison",
+      "programmeIds": [
+        "university-of-wisconsin-madison-business-analytics-ms"
+      ],
+      "programmeName": "MS in Business Analytics",
+      "url": "https://business.wisc.edu/graduate/masters/business-analytics/admissions/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "Class of 2027"
+      },
+      "classSize": {
+        "value": 8,
+        "quote": "8\nEnrollment"
+      },
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 63
+          },
+          {
+            "name": "Social Sciences",
+            "pct": 38
+          }
+        ],
+        "quote": "63\nBusiness\n38\nSocial Sciences"
+      },
+      "gpa": {
+        "average": 3.49,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": 4,
+        "label": null,
+        "quote": "3.49/4.0\nAverage Undergraduate GPA"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 0.83,
+        "quote": "0.83\nAverage years of professional work experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 24,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "24\nAverage Age"
+      },
+      "institutionId": "university-of-wisconsin-madison",
+      "programmeIds": [
+        "university-of-wisconsin-madison-business-supply-chain-management-mba",
+        "university-of-wisconsin-madison-business-supply-chain-management-ms"
+      ],
+      "programmeName": "MS in Supply Chain Management",
+      "url": "https://business.wisc.edu/graduate/masters/supply-chain/admissions/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "Class of 2027"
+      },
+      "classSize": {
+        "value": 36,
+        "quote": "36 Enrollment"
+      },
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 33
+          },
+          {
+            "name": "Social Sciences",
+            "pct": 28
+          },
+          {
+            "name": "Engineering",
+            "pct": 17
+          },
+          {
+            "name": "Science",
+            "pct": 17
+          },
+          {
+            "name": "Humanities",
+            "pct": 6
+          }
+        ],
+        "quote": "Backgrounds 33 Business 28 Social Sciences 17 Engineering 17 Science 6 Humanities"
+      },
+      "gpa": {
+        "average": 3.48,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": 4,
+        "label": "Average Undergraduate GPA",
+        "quote": "3.48/4.0 Average Undergraduate GPA"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 5.3,
+        "quote": "5.3 Average years of professional work experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 33,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "33 Average Age"
+      },
+      "institutionId": "university-of-wisconsin-madison",
+      "programmeIds": [
+        "university-of-wisconsin-madison-business-data-insights-and-analytics-ms"
+      ],
+      "programmeName": "MS in Data, Insights, and Analytics",
+      "url": "https://business.wisc.edu/graduate/masters/data-insights-analytics/admissions/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "Full-Time MBA Class of 2027"
+      },
+      "classSize": {
+        "value": 79,
+        "quote": "79 enrollment"
+      },
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 34
+          },
+          {
+            "name": "Social Sciences",
+            "pct": 32
+          },
+          {
+            "name": "Science",
+            "pct": 21
+          },
+          {
+            "name": "Engineering",
+            "pct": 8
+          },
+          {
+            "name": "Humanities",
+            "pct": 5
+          }
+        ],
+        "quote": "Academic backgrounds 34 Business 32 Social Sciences 21 Science 8 Engineering 5 Humanities"
+      },
+      "gpa": {
+        "average": 3.42,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": 4,
+        "label": null,
+        "quote": "3.42/4.0 average GPA"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 4.2,
+        "quote": "4.2 average years of professional work experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 28,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "28 average age"
+      },
+      "institutionId": "university-of-wisconsin-madison",
+      "programmeIds": [],
+      "programmeName": "Full-Time MBA",
+      "url": "https://business.wisc.edu/graduate/mba/full-time/admissions/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Incoming Spring 2026 and Fall 2026 classes",
+        "quote": "Incoming Spring 2026 and Fall 2026 classes"
+      },
+      "classSize": {
+        "value": 63,
+        "quote": "63 Number of students in cohort"
+      },
+      "internationalPct": null,
+      "womenPct": null,
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": null,
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 5.8,
+        "quote": "5.8 Average years of professional work experience"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 31,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "31 Average age"
+      },
+      "institutionId": "university-of-wisconsin-madison",
+      "programmeIds": [],
+      "programmeName": "Professional MBA",
+      "url": "https://business.wisc.edu/graduate/mba/professional/admissions/class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "MSBA Student Profile – Class of 2027"
+      },
+      "classSize": {
+        "value": 52,
+        "quote": "Entering class size\n52"
+      },
+      "internationalPct": {
+        "value": 13,
+        "quote": "International students\n13%"
+      },
+      "womenPct": {
+        "value": 44,
+        "quote": "Women\n44%"
+      },
+      "nationalities": null,
+      "regions": {
+        "value": [
+          {
+            "name": "Colorado residents",
+            "pct": 58
+          },
+          {
+            "name": "Other US state residents",
+            "pct": 29
+          }
+        ],
+        "quote": "Colorado residents\n58%\nOther US state residents\n29%"
+      },
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business Administration",
+            "pct": 60
+          },
+          {
+            "name": "Engineering/Computer Science",
+            "pct": 15
+          },
+          {
+            "name": "Science/Math",
+            "pct": 13
+          },
+          {
+            "name": "Humanities/Liberal Arts",
+            "pct": 6
+          },
+          {
+            "name": "Other",
+            "pct": 6
+          }
+        ],
+        "quote": "Undergraduate Degree\nBusiness Administration\n60%\nEngineering/Computer Science\n15%\nScience/Math\n13%\nHumanities/Liberal Arts\n6%\nOther\n6%"
+      },
+      "gpa": {
+        "average": 3.36,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "Average undergraduate GPA\n3.36"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 4,
+        "quote": "Average years of work experience\n4"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 26,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age\n26"
+      },
+      "institutionId": "university-of-colorado-boulder",
+      "programmeIds": [
+        "university-of-colorado-boulder-business-analytics-master-of-science-ms"
+      ],
+      "programmeName": "MS Business Analytics",
+      "url": "https://www.colorado.edu/business/ms-programs/masters-program-business-analytics/msba-class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Class of 2027",
+        "quote": "the Class of 2027 arrives with an average of 1 year work experience"
+      },
+      "classSize": {
+        "value": 12,
+        "quote": "Entering class size\n12"
+      },
+      "internationalPct": null,
+      "womenPct": {
+        "value": 42,
+        "quote": "Women\n42%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": null,
+      "majors": {
+        "value": [
+          {
+            "name": "Business Administration",
+            "pct": 75
+          },
+          {
+            "name": "Engineering/Computer Science",
+            "pct": 9
+          },
+          {
+            "name": "Science/Math",
+            "pct": 8
+          },
+          {
+            "name": "Humanities/Liberal Arts",
+            "pct": 8
+          },
+          {
+            "name": "Other",
+            "pct": 0
+          }
+        ],
+        "quote": "Undergraduate Degree\nBusiness Administration\n75%\nEngineering/Computer Science\n9%\nScience/Math\n8%\nHumanities/Liberal Arts\n8%\nOther\n0%"
+      },
+      "gpa": {
+        "average": 3.32,
+        "median": null,
+        "low": null,
+        "high": null,
+        "scale": null,
+        "label": null,
+        "quote": "average undergraduate GPA of 3.32"
+      },
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 1,
+        "quote": "Average years of work experience\n1"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 24,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age\n24"
+      },
+      "institutionId": "university-of-colorado-boulder",
+      "programmeIds": [
+        "university-of-colorado-boulder-marketing-analytics-master-of-science-ms"
+      ],
+      "programmeName": "MS Marketing Analytics",
+      "url": "https://www.colorado.edu/business/ms-programs/ms-marketing-analytics/msma-class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Fall 2026 Admissions",
+        "quote": "Fall 2026 Admissions"
+      },
+      "classSize": {
+        "value": 51,
+        "quote": "Total students\n51"
+      },
+      "internationalPct": {
+        "value": 10,
+        "quote": "International\n10%"
+      },
+      "womenPct": {
+        "value": 39,
+        "quote": "Female\n39%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": {
+        "value": [
+          {
+            "name": "NC State University",
+            "pct": 43
+          },
+          {
+            "name": "North Carolina (Other)",
+            "pct": 21
+          },
+          {
+            "name": "U.S. (Other)",
+            "pct": 28
+          },
+          {
+            "name": "International",
+            "pct": 8
+          }
+        ],
+        "quote": "Undergraduate Institutions\nNC State University\n43%\nNorth Carolina (Other)\n21%\nU.S. (Other)\n28%\nInternational\n8%"
+      },
+      "majors": {
+        "value": [
+          {
+            "name": "Business",
+            "pct": 61
+          },
+          {
+            "name": "Math/Science",
+            "pct": 20
+          },
+          {
+            "name": "Social Science/Law",
+            "pct": 9
+          },
+          {
+            "name": "Engineering",
+            "pct": 4
+          },
+          {
+            "name": "Humanities",
+            "pct": 4
+          },
+          {
+            "name": "Fine Arts",
+            "pct": 2
+          }
+        ],
+        "quote": "Undergraduate Field of Study\nBusiness\n61%\nMath/Science\n20%\nSocial Science/Law\n9%\nEngineering\n4%\nHumanities\n4%\nFine Arts\n2%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 2.32,
+        "quote": "Average years work experience\n2.32"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 26,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age\n26"
+      },
+      "institutionId": "north-carolina-state-university",
+      "programmeIds": [],
+      "programmeName": "Full-Time MBA",
+      "url": "https://mba.ncsu.edu/full-time-mba/full-time-class-profile",
+      "checked": "2026-10-21"
+    },
+    {
+      "scope": "programme",
+      "intake": {
+        "value": "Fall 2025 Admissions",
+        "quote": "Fall 2025 Admissions"
+      },
+      "classSize": {
+        "value": 57,
+        "quote": "Total students\n57"
+      },
+      "internationalPct": {
+        "value": 15,
+        "quote": "International\n15%"
+      },
+      "womenPct": {
+        "value": 47,
+        "quote": "Female\n47%"
+      },
+      "nationalities": null,
+      "regions": null,
+      "undergradRegions": null,
+      "undergradInstitutionsCount": null,
+      "undergradInstitutions": {
+        "value": [
+          {
+            "name": "NC State University",
+            "pct": 35
+          },
+          {
+            "name": "North Carolina (Other)",
+            "pct": 20
+          },
+          {
+            "name": "U.S. (Other)",
+            "pct": 36
+          },
+          {
+            "name": "International",
+            "pct": 9
+          }
+        ],
+        "quote": "Undergraduate Institutions\nNC State University\n35%\nNorth Carolina (Other)\n20%\nU.S. (Other)\n36%\nInternational\n9%"
+      },
+      "majors": {
+        "value": [
+          {
+            "name": "Humanities/Social Sciences",
+            "pct": 15
+          },
+          {
+            "name": "Business",
+            "pct": 68
+          },
+          {
+            "name": "Math/Science",
+            "pct": 12
+          },
+          {
+            "name": "Engineering",
+            "pct": 2
+          },
+          {
+            "name": "Fine Arts",
+            "pct": 2
+          }
+        ],
+        "quote": "Undergraduate Field of Study\nHumanities/Social Sciences\n15%\nBusiness\n68%\nMath/Science\n12%\nEngineering\n2%\nFine Arts\n2%"
+      },
+      "gpa": null,
+      "gmat": null,
+      "gre": null,
+      "workYears": {
+        "value": 2.7,
+        "quote": "Average years work experience\n2.7"
+      },
+      "withWorkPct": null,
+      "age": {
+        "average": 26,
+        "median": null,
+        "low": null,
+        "high": null,
+        "quote": "Average age\n26"
+      },
+      "institutionId": "north-carolina-state-university",
+      "programmeIds": [],
+      "programmeName": "Full-Time MBA",
+      "url": "https://mba.ncsu.edu/full-time-mba/full-time-class-profile",
+      "checked": "2026-10-21"
+    }
+  ]
+}

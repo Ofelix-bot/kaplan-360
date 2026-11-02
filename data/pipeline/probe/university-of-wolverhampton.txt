@@ -1,0 +1,99 @@
+# university-of-wolverhampton https://www.wlv.ac.uk
+robots sitemaps: https://www.wlv.ac.uk/sitemap-en.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 5671 · master's-looking 368
+  133  www.wlv.ac.uk/courses
+         https://www.wlv.ac.uk/courses/msc-data-science/
+         https://www.wlv.ac.uk/courses/msc-digital-marketing-management---extended/
+         https://www.wlv.ac.uk/courses/undergraduate-credit-best-interests-assessor-training/
+         https://www.wlv.ac.uk/courses/mba-business-administration---extended/
+   85  www.wlv.ac.uk/symlink-main-channel/schools-and-institutes/faculty-of-business-arts-social-sciences-and-education
+         https://www.wlv.ac.uk/symlink-main-channel/schools-and-institutes/faculty-of-business-arts-social-sciences-and-education/university-of-wolverhampton-business-school/business-blog/a-brief-highlight-of-my-experience-studying-ma-international-tourism-and-hospitality-management/
+         https://www.wlv.ac.uk/symlink-main-channel/schools-and-institutes/faculty-of-business-arts-social-sciences-and-education/university-of-wolverhampton-business-school/postgraduate-and-professional-courses/pg-business-acca-enquiries/thank-you/
+         https://www.wlv.ac.uk/symlink-main-channel/schools-and-institutes/faculty-of-business-arts-social-sciences-and-education/school-of-creative-industries/ma-show-2024/profiles/andy-newell/
+         https://www.wlv.ac.uk/symlink-main-channel/schools-and-institutes/faculty-of-business-arts-social-sciences-and-education/school-of-creative-industries/ma-show-2025/profiles/rosaria-margani/
+   25  www.wlv.ac.uk/symlink-main-channel/news-and-events/open-day
+         https://www.wlv.ac.uk/symlink-main-channel/news-and-events/open-day/postgraduate-open-evening/msc-strength-and-conditioning/
+         https://www.wlv.ac.uk/symlink-main-channel/news-and-events/open-day/postgraduate-open-evening/online-virtual-event/all-subjects-and-research/
+         https://www.wlv.ac.uk/symlink-main-channel/news-and-events/open-day/open-day-archive/postgraduate-open-evening-23-november-2017/
+         https://www.wlv.ac.uk/symlink-main-channel/news-and-events/open-day/open-day-archive/postgraduate-open-evening-5-march-2015/
+   23  www.wlv.ac.uk/courses/undergraduate
+         https://www.wlv.ac.uk/courses/undergraduate/search/
+         https://www.wlv.ac.uk/courses/undergraduate/midwifery/
+         https://www.wlv.ac.uk/courses/undergraduate/undergraduate-courses-a---z/
+         https://www.wlv.ac.uk/courses/undergraduate/english/
+   14  www.wlv.ac.uk/symlink-main-channel/alumni/benefits
+         https://www.wlv.ac.uk/symlink-main-channel/alumni/benefits/graduate-services/
+         https://www.wlv.ac.uk/symlink-main-channel/alumni/benefits/graduate-services/verification-documents/transcripts/pre-1992-awards/
+         https://www.wlv.ac.uk/symlink-main-channel/alumni/benefits/graduate-services/certificates/
+         https://www.wlv.ac.uk/symlink-main-channel/alumni/benefits/graduate-services/verification-documents/
+   13  www.wlv.ac.uk/courses/postgraduate
+         https://www.wlv.ac.uk/courses/postgraduate/education/
+         https://www.wlv.ac.uk/courses/postgraduate/law/
+         https://www.wlv.ac.uk/courses/postgraduate/postgraduate-taught-degrees/
+         https://www.wlv.ac.uk/courses/postgraduate/health-sciences/
+   12  www.wlv.ac.uk/symlink-main-channel/current-students/central-timetabling-unit
+         https://www.wlv.ac.uk/symlink-main-channel/current-students/central-timetabling-unit/university-rooms/ma-building/ma202/
+         https://www.wlv.ac.uk/symlink-main-channel/current-students/central-timetabling-unit/university-rooms/ma-building/ma133/
+         https://www.wlv.ac.uk/symlink-main-channel/current-students/central-timetabling-unit/university-rooms/ma-building/ma213/
+         https://www.wlv.ac.uk/symlink-main-channel/current-students/central-timetabling-unit/university-rooms/ma-building/ma221/
+   11  www.wlv.ac.uk/symlink-main-channel/current-students/careers-employability-and-success
+         https://www.wlv.ac.uk/symlink-main-channel/current-students/careers-employability-and-success/employers/our-graduate-schemes/the-pontoon-and-dock-company-case-study/
+         https://www.wlv.ac.uk/symlink-main-channel/current-students/careers-employability-and-success/jobs-and-placements/graduate-support/graduate-outcomes/
+         https://www.wlv.ac.uk/symlink-main-channel/current-students/careers-employability-and-success/jobs-and-placements/graduate-support/update-details-form-/
+         https://www.wlv.ac.uk/symlink-main-channel/current-students/careers-employability-and-success/jobs-and-placements/graduate-support/
+   10  www.wlv.ac.uk/symlink-main-channel/research/research-degrees
+         https://www.wlv.ac.uk/symlink-main-channel/research/research-degrees/meet-our-postgraduate-researchers/dr-bogdan-butkovic/
+         https://www.wlv.ac.uk/symlink-main-channel/research/research-degrees/meet-our-postgraduate-researchers/hamlet-reynoso-vanderhorst-/
+         https://www.wlv.ac.uk/symlink-main-channel/research/research-degrees/meet-our-postgraduate-researchers/dr-hussaini-bello/
+         https://www.wlv.ac.uk/symlink-main-channel/research/research-degrees/meet-our-postgraduate-researchers/dr-bright-kwakye-awuah/
+    6  www.wlv.ac.uk/symlink-main-channel/apply/how-to-apply
+         https://www.wlv.ac.uk/symlink-main-channel/apply/how-to-apply/after-you-have-applied/subject-specific-applications/postgraduate-nursing-interviews/
+         https://www.wlv.ac.uk/symlink-main-channel/apply/how-to-apply/after-you-have-applied/subject-specific-applications/undergraduate-nursing-interviews/
+         https://www.wlv.ac.uk/symlink-main-channel/apply/how-to-apply/after-you-have-applied/subject-specific-applications/postgraduate-physiotherapy-interviews/
+         https://www.wlv.ac.uk/symlink-main-channel/apply/how-to-apply/after-you-have-applied/subject-specific-applications/postgraduate-occupational-therapy-interviews-/
+    5  www.wlv.ac.uk/courses/continuing-professional-development-cpd-short-courses
+         https://www.wlv.ac.uk/courses/continuing-professional-development-cpd-short-courses/msc-professional-practice-in-healthcare-speciality-practice/
+         https://www.wlv.ac.uk/courses/continuing-professional-development-cpd-short-courses/msc-professional-practice-in-healthcare-teaching-and-learning/
+         https://www.wlv.ac.uk/courses/continuing-professional-development-cpd-short-courses/msc-professional-practice-in-healthcare-leadership-and-management/
+         https://www.wlv.ac.uk/courses/continuing-professional-development-cpd-short-courses/so020z31uv-postgraduate-credit-in-social-work-/
+    4  www.wlv.ac.uk/symlink-main-channel/apply/funding-costs-fees-and-support
+         https://www.wlv.ac.uk/symlink-main-channel/apply/funding-costs-fees-and-support/financial-support/postgraduate-study/postgraduate-loyalty-discount/
+         https://www.wlv.ac.uk/symlink-main-channel/apply/funding-costs-fees-and-support/financial-support/full-time-undergraduate-study/
+         https://www.wlv.ac.uk/symlink-main-channel/apply/funding-costs-fees-and-support/financial-support/postgraduate-study/
+         https://www.wlv.ac.uk/symlink-main-channel/apply/funding-costs-fees-and-support/financial-support/postgraduate-study/loyalty-discount-for-postgraduate-research-students/
+    3  www.wlv.ac.uk/symlink-main-channel/business-services/funding-and-support
+         https://www.wlv.ac.uk/symlink-main-channel/business-services/funding-and-support/aptime/education-and-training/train-the-trainer/io-7---engineering-project-msc-dissertation/
+         https://www.wlv.ac.uk/symlink-main-channel/business-services/funding-and-support/aptime/education-and-training/intellectual-outputs/io-7---engineering-project-msc-dissertation/
+         https://www.wlv.ac.uk/symlink-main-channel/business-services/funding-and-support/knowledge-transfer-partnerships/ktp-graduate/
+    3  www.wlv.ac.uk/symlink-main-channel/about-us/governance
+         https://www.wlv.ac.uk/symlink-main-channel/about-us/governance/legal-information/data-protection/graduate-services-privacy-notice/
+         https://www.wlv.ac.uk/symlink-main-channel/about-us/governance/legal-information/data-protection/postgraduate-taught-experience-survey-privacy-notice/
+         https://www.wlv.ac.uk/symlink-main-channel/about-us/governance/legal-information/data-protection/graduate-outcomes-survey-privacy-notice/
+    3  www.wlv.ac.uk/symlink-main-channel/apply/postgraduate-progression
+         https://www.wlv.ac.uk/symlink-main-channel/apply/postgraduate-progression/fast-track-application/
+         https://www.wlv.ac.uk/symlink-main-channel/apply/postgraduate-progression/fast-track-scheme/
+         https://www.wlv.ac.uk/symlink-main-channel/apply/postgraduate-progression/postgraduate-events/
+    3  www.wlv.ac.uk/symlink-main-channel/schools-and-institutes/faculty-of-science-and-engineering
+         https://www.wlv.ac.uk/symlink-main-channel/schools-and-institutes/faculty-of-science-and-engineering/department-of-built-environment/undergraduate-courses/
+         https://www.wlv.ac.uk/symlink-main-channel/schools-and-institutes/faculty-of-science-and-engineering/department-of-built-environment/undergraduate-courses/environmental-health/
+         https://www.wlv.ac.uk/symlink-main-channel/schools-and-institutes/faculty-of-science-and-engineering/school-of-engineering-computing-and-mathematical-sciences/department-of-civil-engineering/undergraduate-courses/
+    2  www.wlv.ac.uk/symlink-main-channel/alumni/get-involved
+         https://www.wlv.ac.uk/symlink-main-channel/alumni/get-involved/mentoring/information-for-graduates/
+         https://www.wlv.ac.uk/symlink-main-channel/alumni/get-involved/groups/graduate-teaching-alumni-association-gta/
+    2  www.wlv.ac.uk/courses/order-a-prospectus
+         https://www.wlv.ac.uk/courses/order-a-prospectus/view-our-postgraduate-prospectus/
+         https://www.wlv.ac.uk/courses/order-a-prospectus/view-our-undergraduate-prospectus/
+    1  www.wlv.ac.uk/training/admin/jons-page
+         https://www.wlv.ac.uk/training/admin/jons-page/postgraduate-virtual-open-day/
+    1  www.wlv.ac.uk/courses/apprenticeship-courses
+         https://www.wlv.ac.uk/courses/apprenticeship-courses/postgraduate-teaching-apprenticeship-/
+    1  www.wlv.ac.uk/symlink-main-channel/business-services
+         https://www.wlv.ac.uk/symlink-main-channel/business-services/accessing-our-graduate-talent-pool/
+    1  www.wlv.ac.uk/symlink-main-channel/research/research-centres
+         https://www.wlv.ac.uk/symlink-main-channel/research/research-centres/the-sport-and-physical-activity-research-centre/postgraduate-study/
+    1  www.wlv.ac.uk/symlink-main-channel/business-services/activities-for-schools-and-colleges
+         https://www.wlv.ac.uk/symlink-main-channel/business-services/activities-for-schools-and-colleges/masterclasses/
+    1  www.wlv.ac.uk/symlink-main-channel/research/research-policies-procedures--guidelines
+         https://www.wlv.ac.uk/symlink-main-channel/research/research-policies-procedures--guidelines/research-degree-regulations/regulations-for-the-degree-awards-of-master-of-philosophy-and-doctor-of-philosophy/
+    1  www.wlv.ac.uk/symlink-main-channel/about-us/corporate-information
+         https://www.wlv.ac.uk/symlink-main-channel/about-us/corporate-information/wlv-policies/policy-on-research-support--fees-for-postgraduate-research--students/

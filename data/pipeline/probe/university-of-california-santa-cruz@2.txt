@@ -1,0 +1,43 @@
+# university-of-california-santa-cruz@2 https://graddiv.ucsc.edu
+robots sitemaps: https://graduate.ucsc.edu/wp-sitemap.xml · crawl-delay: 30 · AI-agent groups: 0
+index https://graduate.ucsc.edu/wp-sitemap.xml: 3 children (3 course-like)
+sitemaps read 4 · urls 139 · master's-looking 39
+   11  graduate.ucsc.edu/academics/graduate-handbook
+         https://graduate.ucsc.edu/academics/graduate-handbook/vii-financial-support/
+         https://graduate.ucsc.edu/academics/graduate-handbook/ix-academic-requirements-and-standards/
+         https://graduate.ucsc.edu/academics/graduate-handbook/i-introduction/
+         https://graduate.ucsc.edu/academics/graduate-handbook/iv-admissions/
+   11  graduate.ucsc.edu/events/graduate-research-symposium
+         https://graduate.ucsc.edu/events/graduate-research-symposium/2023-awards/
+         https://graduate.ucsc.edu/events/graduate-research-symposium/2022-awards/
+         https://graduate.ucsc.edu/events/graduate-research-symposium/2020-awards/
+         https://graduate.ucsc.edu/events/graduate-research-symposium/2026-awards/
+    3  graduate.ucsc.edu/academics/mentoring
+         https://graduate.ucsc.edu/academics/mentoring/graduate-division-enhanced-mentoring-support-initiative/
+         https://graduate.ucsc.edu/academics/mentoring/graduate-division-enhanced-mentoring-support-initiative-justification-and-need/
+         https://graduate.ucsc.edu/academics/mentoring/graduate-division-enhanced-mentoring-support-initiative-requirements/
+    2  graduate.ucsc.edu/events
+         https://graduate.ucsc.edu/events/graduate-research-symposium/
+         https://graduate.ucsc.edu/events/graduate-student-appreciation-week-april-6-10/
+    2  graduate.ucsc.edu/staff-resources
+         https://graduate.ucsc.edu/staff-resources/graduate-student-success-incentive-program-gss-ip/
+         https://graduate.ucsc.edu/staff-resources/graduate-student-success-incentive-program-gss-ip-2/
+    2  graduate.ucsc.edu/financial-support/employment
+         https://graduate.ucsc.edu/financial-support/employment/graduate-student-childcare/
+         https://graduate.ucsc.edu/financial-support/employment/child-dependent-health-premium-benefit-program-for-graduate-student-employees/
+    1  graduate.ucsc.edu/financial-support/fellowships
+         https://graduate.ucsc.edu/financial-support/fellowships/fellowships-through-the-ucsc-graduate-division/
+    1  graduate.ucsc.edu/staff-resources/graduate-student-success-incentive-program-gss-ip
+         https://graduate.ucsc.edu/staff-resources/graduate-student-success-incentive-program-gss-ip/gss-ip-frequently-asked-questions/
+    1  graduate.ucsc.edu/prospective-students
+         https://graduate.ucsc.edu/prospective-students/faculty-direct-admitted-graduate-students-faqs/
+    1  graduate.ucsc.edu/justification-and-need-for-enhanced-mentoring-practices-for-graduate-students
+         https://graduate.ucsc.edu/justification-and-need-for-enhanced-mentoring-practices-for-graduate-students/
+    1  graduate.ucsc.edu/student-life/student-profiles
+         https://graduate.ucsc.edu/student-life/student-profiles/rick-flores-curator-graduate-student/
+    1  graduate.ucsc.edu/academics/academic-regulations
+         https://graduate.ucsc.edu/academics/academic-regulations/academic-integrity-for-graduate-students/
+    1  graduate.ucsc.edu/financial-support
+         https://graduate.ucsc.edu/financial-support/graduate-support-programs/
+    1  graduate.ucsc.edu/academics
+         https://graduate.ucsc.edu/academics/graduate-handbook/

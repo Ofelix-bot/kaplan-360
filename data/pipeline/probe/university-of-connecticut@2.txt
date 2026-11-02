@@ -1,0 +1,71 @@
+# university-of-connecticut@2 https://grad.uconn.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://grad.uconn.edu/sitemap.xml: 3 children (1 course-like)
+sitemaps read 4 · urls 267 · master's-looking 99
+   18  grad.uconn.edu/graduate-students
+         https://grad.uconn.edu/graduate-students/news/
+         https://grad.uconn.edu/graduate-students/veterans/
+         https://grad.uconn.edu/graduate-students/steps-to-graduation/
+         https://grad.uconn.edu/graduate-students/voluntary-separation/
+    7  grad.uconn.edu/faculty-staff-resources/graduate-assistantships
+         https://grad.uconn.edu/faculty-staff-resources/graduate-assistantships/appointing-a-graduate-assistant-in-a-non-academic-unit/
+         https://grad.uconn.edu/faculty-staff-resources/graduate-assistantships/before-you-hire-a-ga/
+         https://grad.uconn.edu/faculty-staff-resources/graduate-assistantships/completing-and-finishing/
+         https://grad.uconn.edu/faculty-staff-resources/graduate-assistantships/transitioning-to-a-ga-getting-started/
+    5  grad.uconn.edu/faculty/graduate-faculty-council
+         https://grad.uconn.edu/faculty/graduate-faculty-council/bylaws/
+         https://grad.uconn.edu/faculty/graduate-faculty-council/calendar/
+         https://grad.uconn.edu/faculty/graduate-faculty-council/executive-committee-members/
+         https://grad.uconn.edu/faculty/graduate-faculty-council/executive-committee-calendar/
+    5  grad.uconn.edu/faculty-staff-resources
+         https://grad.uconn.edu/faculty-staff-resources/graduate-alumni-data/
+         https://grad.uconn.edu/faculty-staff-resources/graduate-student-mentoring/
+         https://grad.uconn.edu/faculty-staff-resources/managing-graduate-programs/
+         https://grad.uconn.edu/faculty-staff-resources/graduate-student-data/
+    5  grad.uconn.edu/graduate-students/student-resources
+         https://grad.uconn.edu/graduate-students/student-resources/career-support/
+         https://grad.uconn.edu/graduate-students/student-resources/academic-resources/
+         https://grad.uconn.edu/graduate-students/student-resources/guidance-support/
+         https://grad.uconn.edu/graduate-students/student-resources/financing-resources/
+    2  grad.uconn.edu/graduate-assistantships
+         https://grad.uconn.edu/graduate-assistantships/offer-letters-in-slate/
+         https://grad.uconn.edu/graduate-assistantships/
+    2  grad.uconn.edu/2025/03/17
+         https://grad.uconn.edu/2025/03/17/graduate-student-appreciation-week-2/
+         https://grad.uconn.edu/2025/03/17/the-graduate-student-symposium-poster-competition/
+    1  grad.uconn.edu/graduate-students/dissertation
+         https://grad.uconn.edu/graduate-students/dissertation/application/
+    1  grad.uconn.edu/graduate-students/conference-participation-award
+         https://grad.uconn.edu/graduate-students/conference-participation-award/application/
+    1  grad.uconn.edu/faculty-staff-resources/managing-graduate-programs
+         https://grad.uconn.edu/faculty-staff-resources/managing-graduate-programs/annual-academic-evaluations/
+    1  grad.uconn.edu/faculty
+         https://grad.uconn.edu/faculty/graduate-faculty-council/
+    1  grad.uconn.edu/graduate-students/student-resources/academic-resources
+         https://grad.uconn.edu/graduate-students/student-resources/academic-resources/graduate-internship-courses/
+    1  grad.uconn.edu/events
+         https://grad.uconn.edu/events/graduate-student-life-fair/
+    1  grad.uconn.edu/3mt-and-graduate-student-showcase-faq
+         https://grad.uconn.edu/3mt-and-graduate-student-showcase-faq/
+    1  grad.uconn.edu/2020/08/17
+         https://grad.uconn.edu/2020/08/17/decision-on-fee-reductions-for-graduate-students/
+    1  grad.uconn.edu/2020/04/14
+         https://grad.uconn.edu/2020/04/14/announcement-regarding-options-for-course-conversions-by-graduate-students/
+    1  grad.uconn.edu/2021/05/05
+         https://grad.uconn.edu/2021/05/05/graduate-dismissal-process/
+    1  grad.uconn.edu/2021/08/30
+         https://grad.uconn.edu/2021/08/30/the-graduate-schools-strategic-plan/
+    1  grad.uconn.edu/2022/01/26
+         https://grad.uconn.edu/2022/01/26/navigating-graduate-school-with-disabilities/
+    1  grad.uconn.edu/2022/02/03
+         https://grad.uconn.edu/2022/02/03/apply-to-graduate/
+    1  grad.uconn.edu/2022/01/27
+         https://grad.uconn.edu/2022/01/27/posting-graduate-admissions-team-manager/
+    1  grad.uconn.edu/2022/02/16
+         https://grad.uconn.edu/2022/02/16/posting-associate-dean-of-the-graduate-school/
+    1  grad.uconn.edu/2022/03/04
+         https://grad.uconn.edu/2022/03/04/myuconn-app-graduate-student-persona/
+    1  grad.uconn.edu/2022/03/11
+         https://grad.uconn.edu/2022/03/11/navigating-graduate-school-as-a-first-gen-grad-student/
+    1  grad.uconn.edu/2022/03/30
+         https://grad.uconn.edu/2022/03/30/graduate-student-appreciation-week/

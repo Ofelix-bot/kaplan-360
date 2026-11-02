@@ -1,0 +1,129 @@
+# leeds-beckett-university https://www.leedsbeckett.ac.uk
+robots sitemaps: https://www.leedsbeckett.ac.uk/sitemap.xml https://www.leedsbeckett.ac.uk/website.xml https://www.leedsbeckett.ac.uk/courses.xml https://www.leedsbeckett.ac.uk/academicstaff.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.leedsbeckett.ac.uk/sitemap.xml: 4 children (1 course-like)
+sitemaps read 5 · urls 16399 · master's-looking 585
+  136  www.leedsbeckett.ac.uk/news
+         https://www.leedsbeckett.ac.uk/news/boost-your-business-with-leeds-met-graduate-scheme/
+         https://www.leedsbeckett.ac.uk/news/graduate-makes-event-planning-easy-with-new-app/
+         https://www.leedsbeckett.ac.uk/news/graduates-make-a-difference-with-new-business-vent/
+         https://www.leedsbeckett.ac.uk/news/leeds-met-music-graduates-are-number-1/
+  126  www.leedsbeckett.ac.uk/courses
+         https://www.leedsbeckett.ac.uk/courses/integrated-master-of-architecture/
+         https://www.leedsbeckett.ac.uk/courses/digital-dispute-resolution-llm/
+         https://www.leedsbeckett.ac.uk/courses/international-human-rights-law-llm/
+         https://www.leedsbeckett.ac.uk/courses/international-commercial-law-llm/
+   15  www.leedsbeckett.ac.uk/research/centre-for-culture-and-humanities/our-postgraduate-community
+         https://www.leedsbeckett.ac.uk/research/centre-for-culture-and-humanities/our-postgraduate-community/brogan-waller-parkinson/
+         https://www.leedsbeckett.ac.uk/research/centre-for-culture-and-humanities/our-postgraduate-community/christina-schlegel/
+         https://www.leedsbeckett.ac.uk/research/centre-for-culture-and-humanities/our-postgraduate-community/colin-bailey/
+         https://www.leedsbeckett.ac.uk/research/centre-for-culture-and-humanities/our-postgraduate-community/debbie-morris/
+   14  www.leedsbeckett.ac.uk/blogs/student-blog-squad/2021
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2021/01/5-great-things-about-being-a-masters-student/
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2021/01/choosing-the-right-postgraduate-course/
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2021/01/debunking-myths-about-studying-a-postgrad-course/
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2021/01/hiking-the-postgraduate-vs-undergraduate-trails-how-are-they-different/
+   14  www.leedsbeckett.ac.uk/postgraduate
+         https://www.leedsbeckett.ac.uk/postgraduate/
+         https://www.leedsbeckett.ac.uk/postgraduate/campus-guide-city/
+         https://www.leedsbeckett.ac.uk/postgraduate/campus-guide-headingley/
+         https://www.leedsbeckett.ac.uk/postgraduate/continuing-your-studies/
+   13  www.leedsbeckett.ac.uk/research/centre-for-psychological-research/our-postgraduate-community
+         https://www.leedsbeckett.ac.uk/research/centre-for-psychological-research/our-postgraduate-community/ben-bolton-grant/
+         https://www.leedsbeckett.ac.uk/research/centre-for-psychological-research/our-postgraduate-community/debbie-rigby/
+         https://www.leedsbeckett.ac.uk/research/centre-for-psychological-research/our-postgraduate-community/ella-ford/
+         https://www.leedsbeckett.ac.uk/research/centre-for-psychological-research/our-postgraduate-community/georgie-forshall/
+   11  www.leedsbeckett.ac.uk/undergraduate
+         https://www.leedsbeckett.ac.uk/undergraduate/
+         https://www.leedsbeckett.ac.uk/undergraduate/curiosity/
+         https://www.leedsbeckett.ac.uk/undergraduate/facts/
+         https://www.leedsbeckett.ac.uk/undergraduate/offer-holder-days/
+    9  www.leedsbeckett.ac.uk/blogs/student-blog-squad/2020
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2020/03/how-to-prepare-for-postgraduate-study/
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2020/05/how-to-budget-as-a-postgraduate-student/
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2020/05/the-difference-between-undergraduate-and-postgraduate-study/
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2020/06/how-i-manage-my-time-as-a-postgraduate-student/
+    8  www.leedsbeckett.ac.uk/events/business
+         https://www.leedsbeckett.ac.uk/events/business/living-lab-business-support-masterclass/
+         https://www.leedsbeckett.ac.uk/events/business/living-lab-business-support-masterclass-demystifying-ai/
+         https://www.leedsbeckett.ac.uk/events/business/living-lab-business-support-masterclass-esg-and-sustainability/
+         https://www.leedsbeckett.ac.uk/events/business/masterclass-boost-your-entrepreneurial-vision/
+    7  www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2019
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2019/03/hospitality-business-management-graduate-to-utter-waffles-ceo/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2019/11/graduate-teaching-assistant-success/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2019/11/international-tourism-graduate-wins-second-prestigious-award/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2019/11/responsible-tourism-management-msc-students-wins-athe-best-pg-student-award/
+    7  www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2022
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2022/02/why-are-graduate-employability-skills-important-to-employers/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2022/03/10-questions-with-spex-graduate-and-head-of-nutrition-at-tottenham-hotspur/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2022/03/phd-success-for-pe-postgrads/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2022/08/josh-cherrington-msc-international-events-management/
+    6  www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2021
+         https://www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2021/01/architecture-graduate-wins-urban-landscape-competition/
+         https://www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2021/01/ma-urban-design/
+         https://www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2021/03/interior-architecture-and-design-graduate-stories/
+         https://www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2021/04/landscape-architecture-graduate-stories/
+    6  www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2021
+         https://www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2021/02/graduate-publishes-debut-novel/
+         https://www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2021/02/lsss-graduate-is-helping-covid19-patients-find-their-voices-once-again/
+         https://www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2021/06/graduate-story-ciaron-boles/
+         https://www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2021/06/history-graduate-discovers-passion-for-heritage-and-collection-alumni/
+    6  www.leedsbeckett.ac.uk/undergraduate/applying-to-university
+         https://www.leedsbeckett.ac.uk/undergraduate/applying-to-university/after-you-apply/
+         https://www.leedsbeckett.ac.uk/undergraduate/applying-to-university/before-you-apply/
+         https://www.leedsbeckett.ac.uk/undergraduate/applying-to-university/dates-for-the-diary/
+         https://www.leedsbeckett.ac.uk/undergraduate/applying-to-university/how-to-write-a-personal-statement/
+    5  www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2020
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2020/01/physical-education-alumni-graduates-with-first-class-honours-degree/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2020/02/graduate-offers-paid-opportunities-to-students/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2020/06/spotlight-on-msc-responsible-tourism-management-for-sustainability-leaders-project-interview/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2020/10/graduate-partners-with-adidas-to-launch-new-shoe/
+    5  www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2021
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2021/02/kellys-postgraduate-progress-report/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2021/02/pe-graduate-working-with-the-fa-and-kick-it-out-to-eradicate-discrimination-in-football/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2021/04/graduate-bosworth-books-olympic-spot/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2021/07/how-a-graduate-is-helping-to-bring-the-olympics-into-our-homes/
+    5  www.leedsbeckett.ac.uk/blogs/student-blog-squad/2025
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2025/03/everything-you-need-to-know-about-a-postgraduate-open-day/
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2025/03/the-benefits-of-attending-a-postgraduate-open-day/
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2025/03/why-i-chose-to-study-a-masters-degree/
+         https://www.leedsbeckett.ac.uk/blogs/student-blog-squad/2025/05/why-i-chose-to-study-a-masters-degree-as-an-international-student-at-lbu/
+    5  www.leedsbeckett.ac.uk/news/2021/08
+         https://www.leedsbeckett.ac.uk/news/2021/08/leeds-beckett-graduate-emily-campbell-makes-olympic-weightlifting-history/
+         https://www.leedsbeckett.ac.uk/news/2021/08/leeds-beckett-graduate-joint-most-successful-paralympian/
+         https://www.leedsbeckett.ac.uk/news/2021/08/leeds-beckett-graduate-kadeena-cox-mbe-retains-cycling-gold-medal-at-tokyo-2020/
+         https://www.leedsbeckett.ac.uk/news/2021/08/leeds-beckett-graduate-kadeena-cox-mbe-secures-second-gold-medal-at-toyko-2020/
+    5  www.leedsbeckett.ac.uk/undergraduate/open-days
+         https://www.leedsbeckett.ac.uk/undergraduate/open-days/autumn-pre-reg/
+         https://www.leedsbeckett.ac.uk/undergraduate/open-days/faqs/
+         https://www.leedsbeckett.ac.uk/undergraduate/open-days/online-thank-you/
+         https://www.leedsbeckett.ac.uk/undergraduate/open-days/study-local/
+    4  www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2023
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2023/01/msc-sports-events-management-student-shares-volunteering-experience-with-leeds-2023/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2023/04/msc-performance-analysis-students-team-up-with-england-lionesses/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2023/05/msc-obesity/
+         https://www.leedsbeckett.ac.uk/blogs/carnegie-xchange/2023/09/ma-pe-and-youth-sport-alumni-louis-francis-edge-publication-success/
+    4  www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2020
+         https://www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2020/02/oscar-winning-graduate-encourages-students-to-showcase-their-work-at-public-events/
+         https://www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2020/05/post-graduate-landscape-architecture/
+         https://www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2020/11/recent-graduate-is-releasing-second-single-on-record-label-monomyth-records/
+         https://www.leedsbeckett.ac.uk/blogs/leeds-school-of-arts/2020/11/recent-graduate-wins-riba-boyd-auger-scholarship/
+    4  www.leedsbeckett.ac.uk/blogs/research-enterprise/2024
+         https://www.leedsbeckett.ac.uk/blogs/research-enterprise/2024/04/ktps-give-graduate-careers-a-highflying-start/
+         https://www.leedsbeckett.ac.uk/blogs/research-enterprise/2024/05/thinking-about-hiring-our-students-and-graduates/
+         https://www.leedsbeckett.ac.uk/blogs/research-enterprise/2024/07/postgraduate-research-student-conference/
+         https://www.leedsbeckett.ac.uk/blogs/research-enterprise/2024/11/harnessing-our-graduate-skills-to-revolutionise-the-future-of-water-monitoring/
+    4  www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2022
+         https://www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2022/04/ma-public-policy/
+         https://www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2022/04/why-i-chose-to-progress-onto-a-masters/
+         https://www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2022/05/balancing-my-part-time-masters-with-work-and-home-life/
+         https://www.leedsbeckett.ac.uk/blogs/school-of-humanities-and-social-sciences/2022/09/i-enjoyed-being-taught-by-professionals-that-were-passionate-about-their-subject/
+    4  www.leedsbeckett.ac.uk/business-services/work-with-our-students-and-graduates
+         https://www.leedsbeckett.ac.uk/business-services/work-with-our-students-and-graduates/advertise-a-vacancy/
+         https://www.leedsbeckett.ac.uk/business-services/work-with-our-students-and-graduates/careers-fairs-and-events/
+         https://www.leedsbeckett.ac.uk/business-services/work-with-our-students-and-graduates/placements-and-work-experience/
+         https://www.leedsbeckett.ac.uk/business-services/work-with-our-students-and-graduates/share-your-expertise/
+    4  www.leedsbeckett.ac.uk/news/2022/12
+         https://www.leedsbeckett.ac.uk/news/2022/12/lbu-honorary-graduate-dr-malcolm-brown-mbe-wins-ioc-coaches-lifetime-achievement-award/
+         https://www.leedsbeckett.ac.uk/news/2022/12/lbu-honorary-graduate-kevin-sinfield-raises-more-than-2-million-in-ultra-7-in-7-challenge/
+         https://www.leedsbeckett.ac.uk/news/2022/12/leeds-beckett-university-honorary-graduates-recognised-at-bbc-sports-personality-of-the-year-awards/
+         https://www.leedsbeckett.ac.uk/news/2022/12/new-year-honours-for-leeds-beckett-university-graduate/

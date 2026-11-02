@@ -1,0 +1,57 @@
+# aarhus-university https://masters.au.dk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://masters.au.dk/sitemap.xml: 15 children (15 course-like)
+sitemaps read 16 · urls 14136 · master's-looking 59
+    7  www.au.dk/en
+         https://www.au.dk/en/llm@edu.au.dk/
+         https://www.au.dk/en/msc@adm.au.dk/
+         https://www.au.dk/en/webmaster@auff.au.dk/
+         https://www.au.dk/en/mba@envs.au.dk/
+    1  masters.au.dk/electrical-engineering-msc-in-engineering
+         https://masters.au.dk/electrical-engineering-msc-in-engineering
+    1  masters.au.dk/computer-engineering-msc-in-engineering
+         https://masters.au.dk/computer-engineering-msc-in-engineering
+    1  masters.au.dk/economics-and-business-administration-msc
+         https://masters.au.dk/economics-and-business-administration-msc
+    1  masters.au.dk/masters-degree-programme-childrens-literature-media-and-cultural-entrepreneurship
+         https://masters.au.dk/masters-degree-programme-childrens-literature-media-and-cultural-entrepreneurship
+    1  masters.au.dk/admission/admission-requirements
+         https://masters.au.dk/admission/admission-requirements/calculation-of-gpa-for-the-masters-degree-programmes-in-education
+    1  masters.au.dk/deadlines-and-important-dates/masters-degree-programmes-with-commencement-of-studies-in-january
+         https://masters.au.dk/deadlines-and-important-dates/masters-degree-programmes-with-commencement-of-studies-in-january/february
+    1  masters.au.dk/masters-degree-programmes
+         https://masters.au.dk/masters-degree-programmes
+    1  masters.au.dk/how-to-apply
+         https://masters.au.dk/how-to-apply/find-your-masters-degree-programme
+    1  masters.au.dk/how-to-apply/gather-documentation
+         https://masters.au.dk/how-to-apply/gather-documentation/have-you-started-a-masters-but-not-completed-it
+    1  masters.au.dk/supplementary-subject-and-masters-degree-fair
+         https://masters.au.dk/supplementary-subject-and-masters-degree-fair
+    1  masters.au.dk/how-to-apply/admission-requirements
+         https://masters.au.dk/how-to-apply/admission-requirements/the-masters-degree-rule
+    1  masters.au.dk/technologybasedbusinessdevelopment-workintegratedmasters
+         https://masters.au.dk/technologybasedbusinessdevelopment-workintegratedmasters
+    1  masters.au.dk/computerscience-workintegratedmaster
+         https://masters.au.dk/computerscience-workintegratedmaster
+    1  masters.au.dk/bioinformatics-workintegratedmaster
+         https://masters.au.dk/bioinformatics-workintegratedmaster
+    1  masters.au.dk/biology-workintegratedmaster
+         https://masters.au.dk/biology-workintegratedmaster
+    1  masters.au.dk/datascience-workintegratedmaster
+         https://masters.au.dk/datascience-workintegratedmaster
+    1  masters.au.dk/physics-workintegratedmaster
+         https://masters.au.dk/physics-workintegratedmaster
+    1  masters.au.dk/geoscience-workintegratedmaster
+         https://masters.au.dk/geoscience-workintegratedmaster
+    1  masters.au.dk/itproductdevelopment-workintegratedmaster
+         https://masters.au.dk/itproductdevelopment-workintegratedmaster
+    1  masters.au.dk/chemistry-workintegratedmaster
+         https://masters.au.dk/chemistry-workintegratedmaster
+    1  masters.au.dk/mathematics-workintegratedmaster
+         https://masters.au.dk/mathematics-workintegratedmaster
+    1  masters.au.dk/mathematicseconomics-workintegratedmaster
+         https://masters.au.dk/mathematicseconomics-workintegratedmaster
+    1  masters.au.dk/medicinal-chemistry-workintegratedmaster
+         https://masters.au.dk/medicinal-chemistry-workintegratedmaster
+    1  masters.au.dk/molecularbiology-workintegratedmaster
+         https://masters.au.dk/molecularbiology-workintegratedmaster

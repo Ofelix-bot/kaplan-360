@@ -1,0 +1,39 @@
+
+> kaplan-360pp-v201@0.1.0 data:load
+> node scripts/data/load-supabase.mjs
+
+sources: 18
+disciplines: 13
+institutions: 2077
+kaplan_programmes: 94
+kaplan_facts (kaplan-ded-2026-03-09-cn): 70
+pathways (kaplan-ded-2026-03-09-cn): 36
+employment_records: 36
+programmes: 4816
+programme_evidence: 28089
+programme_matches: 74928
+sources: 3
+careers: 10
+career_requirements (data-analyst-scientist): 147
+career_requirements (ai-ml-engineer): 129
+career_requirements (cybersecurity-analyst): 134
+career_requirements (financial-analyst-fintech): 85
+career_requirements (digital-marketing-manager): 120
+career_requirements (supply-chain-logistics-manager): 64
+career_requirements (software-engineer): 204
+career_requirements (registered-nurse): 72
+career_requirements (counsellor-psychology-associate): 64
+career_requirements (communications-pr): 97
+career_occupations: 15
+career_companies (supply-chain-logistics-manager): 5
+career_companies (software-engineer): 6
+career_companies (financial-analyst-fintech): 4
+career_companies (data-analyst-scientist): 6
+career_companies (cybersecurity-analyst): 5
+career_companies (ai-ml-engineer): 4
+career_companies (communications-pr): 2
+career_companies (digital-marketing-manager): 4
+career_companies (registered-nurse): 2
+career_companies (counsellor-psychology-associate): 2
+benefits: 273
+storage: uploaded the Degree Enrolment Day deck to source-documents (private)

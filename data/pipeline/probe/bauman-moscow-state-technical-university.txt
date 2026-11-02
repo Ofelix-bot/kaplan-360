@@ -1,0 +1,4 @@
+# bauman-moscow-state-technical-university https://bmstu.ru
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 1
+sitemap https://bmstu.ru/sitemap.xml: robots disallowed by robots.txt: /sitemap.xml
+sitemaps read 1 · urls 0 · master's-looking 0

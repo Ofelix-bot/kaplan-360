@@ -1,0 +1,129 @@
+# concordia-university https://www.concordia.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.concordia.ca/sitemap.xml: 6 children (1 course-like)
+sitemaps read 7 · urls 69025 · master's-looking 3812
+  686  www.concordia.ca/academics/undergraduate/calendar
+         https://www.concordia.ca/academics/undergraduate/calendar/current.html
+         https://www.concordia.ca/academics/undergraduate/calendar/current/about-the-calendar.html
+         https://www.concordia.ca/academics/undergraduate/calendar/current/about-the-university.html
+         https://www.concordia.ca/academics/undergraduate/calendar/current/section-11-academic-calendar.html
+  660  www.concordia.ca/finearts/art-history/programs
+         https://www.concordia.ca/finearts/art-history/programs/undergraduate.html
+         https://www.concordia.ca/finearts/art-history/programs/undergraduate/courses.html
+         https://www.concordia.ca/finearts/art-history/programs/undergraduate/courses/2019-2020-graduate/fall/arth-396.html
+         https://www.concordia.ca/finearts/art-history/programs/undergraduate/courses/2022-2023.html
+  260  www.concordia.ca/academics/graduate/calendar
+         https://www.concordia.ca/academics/graduate/calendar/current.html
+         https://www.concordia.ca/academics/graduate/calendar/current/disclaimer.html
+         https://www.concordia.ca/academics/graduate/calendar/current/about-the-calendar.html
+         https://www.concordia.ca/academics/graduate/calendar/current/university-overview.html
+  202  www.concordia.ca/cunews/main/stories
+         https://www.concordia.ca/cunews/main/stories/2017/01/10/graduate-research-mechanical-heart-to-simulate-effects-of-aging-valves.html
+         https://www.concordia.ca/cunews/main/stories/2017/01/16/politics-of-health-care-latin-american-drug-war-graduate-students-investigate.html
+         https://www.concordia.ca/cunews/main/stories/2017/01/23/justin-powlowski-interim-vp-research-graduate-studies-next-generation-research-university.html
+         https://www.concordia.ca/cunews/main/stories/2017/01/25/message-president-search-for-new-vp-research-and-graduate-studies.html
+  166  www.concordia.ca/academics/undergraduate
+         https://www.concordia.ca/academics/undergraduate/calendar.html
+         https://www.concordia.ca/academics/undergraduate/accountancy.html
+         https://www.concordia.ca/academics/undergraduate/accountancy-cert.html
+         https://www.concordia.ca/academics/undergraduate/acting-theatre.html
+  124  www.concordia.ca/academics/graduate
+         https://www.concordia.ca/academics/graduate/calendar.html
+         https://www.concordia.ca/academics/graduate/aerospace-engineering-meng.html
+         https://www.concordia.ca/academics/graduate/applied-linguistics.html
+         https://www.concordia.ca/academics/graduate/art-education-ma.html
+  121  www.concordia.ca/jmsb/programs/graduate
+         https://www.concordia.ca/jmsb/programs/graduate/msc-batm.html
+         https://www.concordia.ca/jmsb/programs/graduate/msc-batm/advantage.html
+         https://www.concordia.ca/jmsb/programs/graduate/msc-batm/program-structure.html
+         https://www.concordia.ca/jmsb/programs/graduate/msc-batm/program-structure/experiential-learning.html
+  117  www.concordia.ca/profiles/students/undergraduate
+         https://www.concordia.ca/profiles/students/undergraduate/co-op/afroza-khanam-chowdhury.html
+         https://www.concordia.ca/profiles/students/undergraduate/co-op/amara-ngadi.html
+         https://www.concordia.ca/profiles/students/undergraduate/co-op/chloe-ann-berce.html
+         https://www.concordia.ca/profiles/students/undergraduate/co-op/emmanuel-gaisie.html
+   98  www.concordia.ca/cunews/jmsb/graduate
+         https://www.concordia.ca/cunews/jmsb/graduate/recruitment/2018/08/10/Finding-the-right-fit.html
+         https://www.concordia.ca/cunews/jmsb/graduate/recruitment/2018/08/20/Finding-the-right-fit-2.html
+         https://www.concordia.ca/cunews/jmsb/graduate/recruitment/2018/08/23/Finding-the-right-fit-2.html
+         https://www.concordia.ca/cunews/jmsb/graduate/recruitment/2018/08/28/CPA-Recruiting-Big-4.html
+   80  www.concordia.ca/finearts/about/galleries-venues
+         https://www.concordia.ca/finearts/about/galleries-venues/fofa-gallery/exhibitions/2022/undergraduate-student-exhibition.html
+         https://www.concordia.ca/finearts/about/galleries-venues/fofa-gallery/exhibitions/2022/undergraduate-student-exhibition/kassandra-walters.html
+         https://www.concordia.ca/finearts/about/galleries-venues/fofa-gallery/exhibitions/2022/undergraduate-student-exhibition/sara-sadawi.html
+         https://www.concordia.ca/finearts/about/galleries-venues/fofa-gallery/exhibitions/2022/undergraduate-student-exhibition/alice-zerini-le-reste.html
+   67  www.concordia.ca/jmsb/programs/undergraduate
+         https://www.concordia.ca/jmsb/programs/undergraduate/neoma-business-school-double-major.html
+         https://www.concordia.ca/jmsb/programs/undergraduate/bachelor.html
+         https://www.concordia.ca/jmsb/programs/undergraduate/bachelor/advantage.html
+         https://www.concordia.ca/jmsb/programs/undergraduate/bachelor/majors.html
+   42  www.concordia.ca/cunews/offices/vpaer
+         https://www.concordia.ca/cunews/offices/vpaer/aar/2010/11/09/two-proud-graduates-honoured-at-21st-john-molson-school-of-business-awards-of-distinction-ceremony.html
+         https://www.concordia.ca/cunews/offices/vpaer/aar/2011/10/12/executive-mba-alumnus-david-devine-is-canadas-new-high-commissioner-to-guyana.html
+         https://www.concordia.ca/cunews/offices/vpaer/aar/2011/11/17/business-savvy-engineer-sami-girgis-beng-89-mba-98-brings-real-life-experiences-back-to-the-classroo.html
+         https://www.concordia.ca/cunews/offices/vpaer/aar/2012/04/03/speedy-advice-for-graduate-students.html
+   38  www.concordia.ca/profiles/jmsb/ambassadors
+         https://www.concordia.ca/profiles/jmsb/ambassadors/mba/shafqat-ali.html
+         https://www.concordia.ca/profiles/jmsb/ambassadors/mba/ankit-kumar.html
+         https://www.concordia.ca/profiles/jmsb/ambassadors/mba/siavash-samei.html
+         https://www.concordia.ca/profiles/jmsb/ambassadors/mba/vijay-bidnurmath.html
+   36  www.concordia.ca/cuevents/jmsb/2025
+         https://www.concordia.ca/cuevents/jmsb/2025/01/15/john-molson-mba-information-session.html
+         https://www.concordia.ca/cuevents/jmsb/2025/01/14/john-molson-graduate-diploma-in-cpa-information-session.html
+         https://www.concordia.ca/cuevents/jmsb/2025/01/29/john-molson-mba-in-investment-management-info-session.html
+         https://www.concordia.ca/cuevents/jmsb/2025/01/08/john-molson-executive-mba-info-session.html
+   35  www.concordia.ca/fr/etudes/programmes-des-cycles-superieurs
+         https://www.concordia.ca/fr/etudes/programmes-des-cycles-superieurs/biologie-msc.html
+         https://www.concordia.ca/fr/etudes/programmes-des-cycles-superieurs/chimie-msc.html
+         https://www.concordia.ca/fr/etudes/programmes-des-cycles-superieurs/histoire-de-lart-ma.html
+         https://www.concordia.ca/fr/etudes/programmes-des-cycles-superieurs/sciences-economiques-ma.html
+   33  www.concordia.ca/cuevents/offices/vprgs
+         https://www.concordia.ca/cuevents/offices/vprgs/sgs/2024/09/11/graduate-studies-at-concordia-admissions-funding-and-professional-development.html
+         https://www.concordia.ca/cuevents/offices/vprgs/sgs/2024/12/18/graduate-studies-at-concordia-admissions-funding-and-professional-development.html
+         https://www.concordia.ca/cuevents/offices/vprgs/sgs/2026/10/01/phd-oral-exam-zeyang-ma-computer-science.html
+         https://www.concordia.ca/cuevents/offices/vprgs/sgs/2026/11/03/graduate-studies-virtual-info-day-2026.html
+   32  www.concordia.ca/cunews/offices/advancement
+         https://www.concordia.ca/cunews/offices/advancement/2019/07/04/meet-the-mastermind-working-to-move-theatre-into-zero-waste-era.html
+         https://www.concordia.ca/cunews/offices/advancement/2020/08/18/concordia-mba-grad-helps-give-recycled-plastic-new-life.html
+         https://www.concordia.ca/cunews/offices/advancement/2020/09/23/meet-jacky-blisson-a-newly-crowned-master-of-wine.html
+         https://www.concordia.ca/cunews/offices/advancement/2021/02/16/meet-stephanie-wakeham-london-based-equity-research-analyst-and-john-molson-mba-grad.html
+   29  www.concordia.ca/cuevents/jmsb/2026
+         https://www.concordia.ca/cuevents/jmsb/2026/01/14/john-molson-mba-information-session.html
+         https://www.concordia.ca/cuevents/jmsb/2026/01/28/john-molson-mba-in-investment-management-info-session.html
+         https://www.concordia.ca/cuevents/jmsb/2026/01/15/john-molson-research-based-masters-info-session.html
+         https://www.concordia.ca/cuevents/jmsb/2026/01/21/john-molson-graduate-admissions-tips-and-tricks-info-session.html
+   27  www.concordia.ca/cunews/offices/vprgs
+         https://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars-19/2019/07/23/5-tips-to-get-into-psychology-graduate-school.html
+         https://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars-21/2021/07/15/downsizing-isnt-a-dirty-word-the-pandemic-taught-us-that.html
+         https://www.concordia.ca/cunews/offices/vprgs/sgs/public-scholars-21/2021/07/29/the-elephant-in-the-room-of-academia-the-salaries-of-graduate-student-researchers.html
+         https://www.concordia.ca/cunews/offices/vprgs/sgs/accolades/2023/12/11/effrosyni-diamantoudi-board-of-directors-canadian-association-of-graduate-studies.html
+   26  www.concordia.ca/cuevents/offices/provost
+         https://www.concordia.ca/cuevents/offices/provost/fourth-space/2025/03/20/annual-graduate-research-exposition.html
+         https://www.concordia.ca/cuevents/offices/provost/fourth-space/2025/10/25/masters-or-phd.html
+         https://www.concordia.ca/cuevents/offices/provost/fourth-space/2026/03/19/annual-graduate-research-exposition.html
+         https://www.concordia.ca/cuevents/offices/provost/equity/2026/05/22/mastering-the-art-of-research-proposals-part-2.html
+   23  www.concordia.ca/admissions/undergraduate/program-quiz
+         https://www.concordia.ca/admissions/undergraduate/program-quiz/discovery.html
+         https://www.concordia.ca/admissions/undergraduate/program-quiz/discovery/references.html
+         https://www.concordia.ca/admissions/undergraduate/program-quiz/arts-media.html
+         https://www.concordia.ca/admissions/undergraduate/program-quiz/arts-media/references.html
+   22  www.concordia.ca/admissions/undergraduate
+         https://www.concordia.ca/admissions/undergraduate/common.html
+         https://www.concordia.ca/admissions/undergraduate/quebec.html
+         https://www.concordia.ca/admissions/undergraduate/canada.html
+         https://www.concordia.ca/admissions/undergraduate/programs.html
+   22  www.concordia.ca/profiles/students/graduate
+         https://www.concordia.ca/profiles/students/graduate/arielle-dascal.html
+         https://www.concordia.ca/profiles/students/graduate/gabriel-safi.html
+         https://www.concordia.ca/profiles/students/graduate/riya-dutta.html
+         https://www.concordia.ca/profiles/students/graduate/karina-garcia-casanova.html
+   21  www.concordia.ca/finearts/studio-arts/programs
+         https://www.concordia.ca/finearts/studio-arts/programs/undergraduate.html
+         https://www.concordia.ca/finearts/studio-arts/programs/undergraduate/ceramics.html
+         https://www.concordia.ca/finearts/studio-arts/programs/undergraduate/fibres-material-practices.html
+         https://www.concordia.ca/finearts/studio-arts/programs/undergraduate/intermedia.html
+   18  www.concordia.ca/finearts/design/programs
+         https://www.concordia.ca/finearts/design/programs/undergraduate/how-to-apply.html
+         https://www.concordia.ca/finearts/design/programs/undergraduate/computation-arts-philosophy.html
+         https://www.concordia.ca/finearts/design/programs/undergraduate/student-work.html
+         https://www.concordia.ca/finearts/design/programs/undergraduate/student-work/design.html

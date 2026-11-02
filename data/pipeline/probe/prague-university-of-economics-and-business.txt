@@ -1,0 +1,55 @@
+# prague-university-of-economics-and-business https://www.vse.cz
+robots sitemaps: https://www.vse.cz/sitemap.xml https://www.vse.cz/english/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.vse.cz/sitemap.xml: 9 children (1 course-like)
+index https://www.vse.cz/english/sitemap.xml: 6 children (1 course-like)
+sitemaps read 17 · urls 4873 · master's-looking 142
+   37  www.vse.cz/english/news
+         https://www.vse.cz/english/news/phenomenal-success-of-the-faculty-of-business-administration-in-the-financial-times-master-in-management-ranking-2018/
+         https://www.vse.cz/english/news/success-of-the-faculty-of-business-administration-and-cems-in-qs-global-master-in-management-ranking-2019/
+         https://www.vse.cz/english/news/mos-received-the-accreditation-european-master-in-official-statistics/
+         https://www.vse.cz/english/news/the-full-time-master-of-arts-m-a-in-economics-of-globalization-and-european-integration/
+   30  www.vse.cz/aktuality
+         https://www.vse.cz/aktuality/francouzsky-program-mba-mae-na-vse/
+         https://www.vse.cz/aktuality/programy-mba-v-anglictine-a-francouzstine/
+         https://www.vse.cz/aktuality/fenomenalni-uspech-fakulty-podnikohospodarske-v-zebricku-financial-times-master-in-management-ranking-2018/
+         https://www.vse.cz/aktuality/uspech-fakulty-podnikohospodarske-a-programu-cems-v-qs-global-master-in-management-ranking-2019/
+   18  www.vse.cz/tiskove-zpravy
+         https://www.vse.cz/tiskove-zpravy/vse-otevira-mezinarodni-program-mba/
+         https://www.vse.cz/tiskove-zpravy/vse-otevira-26-rocnik-programu-mba-pro-frankofonni-zajemce/
+         https://www.vse.cz/tiskove-zpravy/ceska-asociace-mba-skol-na-vse/
+         https://www.vse.cz/tiskove-zpravy/na-vse-probehne-prvni-rocnik-veletrhu-programu-mba-akreditovanych-cambas/
+   18  www.vse.cz/zpravodaj
+         https://www.vse.cz/zpravodaj/vse-ma-tri-nove-docenty-2/
+         https://www.vse.cz/zpravodaj/vse-ma-tri-nove-docenty/
+         https://www.vse.cz/zpravodaj/vse-ma-nove-vybavene-ucebny-i-spolecne-prostory/
+         https://www.vse.cz/zpravodaj/obor-official-statistics-fis-ziskal-akreditaci-european-master-in-official-statistics/
+   10  www.vse.cz/english/press-releases
+         https://www.vse.cz/english/press-releases/vse-opens-an-international-mba/
+         https://www.vse.cz/english/press-releases/isbm-mba-program-at-the-faculty-of-business-administration-re-accredited/
+         https://www.vse.cz/english/press-releases/vse-opens-for-the-23rd-year-an-mba-program-for-french-speaking-applicants/
+         https://www.vse.cz/english/press-releases/award-for-the-international-mba-program-at-the-university-of-economics-prague/
+    9  www.vse.cz/english/study-at-vse/master-programmes
+         https://www.vse.cz/english/study-at-vse/master-programmes/international-business-central-european-business-realities/
+         https://www.vse.cz/english/study-at-vse/master-programmes/international-diplomatic-studies/
+         https://www.vse.cz/english/study-at-vse/master-programmes/international-management-cems-mim/
+         https://www.vse.cz/english/study-at-vse/master-programmes/information-systems-management/
+    8  www.vse.cz/english/bulletin
+         https://www.vse.cz/english/bulletin/the-rector-of-vse-was-elected-to-the-head-of-the-czech-association-of-mba-schools/
+         https://www.vse.cz/english/bulletin/graduation-ceremony-of-the-french-czech-double-degree-program-mba/
+         https://www.vse.cz/english/bulletin/mba_master-management-et-administration-des-entreprises-accredited-by-cambas-for-5-years/
+         https://www.vse.cz/english/bulletin/faculty-of-business-administration-signed-agreement-on-double-masters-degree-programme-with-neoma-business-school-france/
+    6  www.vse.cz/zajemci-o-studium/studium-mba
+         https://www.vse.cz/zajemci-o-studium/studium-mba/v-anglictine-fakulta-podnikohospodarska-isbm/
+         https://www.vse.cz/zajemci-o-studium/studium-mba/mba-c-mbare/
+         https://www.vse.cz/zajemci-o-studium/studium-mba/v-cestine-fakulta-informatiky-a-statistiky-dabm/
+         https://www.vse.cz/zajemci-o-studium/studium-mba/v-cestine-mpa-sportovni-diplomacie/
+    3  www.vse.cz/english/farewell
+         https://www.vse.cz/english/farewell/i-have-completed-my-masters-degree-ing-and-plan-to-continue-with-a-ph-d/
+         https://www.vse.cz/english/farewell/i-am-a-graduate-ing-of-vse/
+         https://www.vse.cz/english/farewell/i-am-a-bachelors-graduate-and-i-am-continuing-to-a-follow-up-masters-programme/
+    1  www.vse.cz/zajemci-o-studium
+         https://www.vse.cz/zajemci-o-studium/studium-mba/
+    1  www.vse.cz/english/study-at-vse
+         https://www.vse.cz/english/study-at-vse/master-programmes/
+    1  www.vse.cz/english/study-at-vse/other-programmes
+         https://www.vse.cz/english/study-at-vse/other-programmes/mba-programmes/

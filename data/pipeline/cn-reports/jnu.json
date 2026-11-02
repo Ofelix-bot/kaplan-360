@@ -1,0 +1,40 @@
+{
+  "id": "jnu",
+  "status": "read",
+  "university": "暨南大学",
+  "universityEn": "Jinan University",
+  "tier": "211",
+  "url": "https://xxgk.jnu.edu.cn/_upload/article/files/5c/4d/e69060a54c64b596bb4a47627f8a/cec3f5eb-e8ec-4c42-89b2-dfd64be902ba.pdf",
+  "title": "2022年暨南大学毕业生就业质量年度报告",
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 79,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": "2022届",
+      "count": null,
+      "pct": 13.8,
+      "quote": "境外升学 13.8"
+    },
+    {
+      "group": "硕士生",
+      "cohort": "2022届",
+      "count": null,
+      "pct": 0.6,
+      "quote": "境外升学 0.6"
+    },
+    {
+      "group": "博士生",
+      "cohort": "2022届",
+      "count": null,
+      "pct": 1.1,
+      "quote": "境外升学 1.1"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

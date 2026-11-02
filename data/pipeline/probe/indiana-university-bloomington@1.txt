@@ -1,0 +1,30 @@
+# indiana-university-bloomington@1 https://bloomington.iu.edu
+robots sitemaps: https://bloomington.iu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 289 · master's-looking 34
+   22  bloomington.iu.edu/academics/degrees-majors/interests
+         https://bloomington.iu.edu/academics/degrees-majors/interests/graduate/art-design-performance.html
+         https://bloomington.iu.edu/academics/degrees-majors/interests/graduate/business-organizations.html
+         https://bloomington.iu.edu/academics/degrees-majors/interests/graduate/communication.html
+         https://bloomington.iu.edu/academics/degrees-majors/interests/graduate/education.html
+    2  bloomington.iu.edu/cost-aid/cost-attendance
+         https://bloomington.iu.edu/cost-aid/cost-attendance/graduate.html
+         https://bloomington.iu.edu/cost-aid/cost-attendance/undergraduate.html
+    2  bloomington.iu.edu/cost-aid/cost-attendance/international
+         https://bloomington.iu.edu/cost-aid/cost-attendance/international/graduate.html
+         https://bloomington.iu.edu/cost-aid/cost-attendance/international/undergraduate.html
+    1  bloomington.iu.edu/academics/degrees-majors/accelerated-masters
+         https://bloomington.iu.edu/academics/degrees-majors/accelerated-masters/browse-programs.html
+    1  bloomington.iu.edu/academics/degrees-majors
+         https://bloomington.iu.edu/academics/degrees-majors/accelerated-masters/
+    1  bloomington.iu.edu/admissions/apply/graduate
+         https://bloomington.iu.edu/admissions/apply/graduate/application-fees.html
+    1  bloomington.iu.edu/admissions/apply
+         https://bloomington.iu.edu/admissions/apply/graduate/
+    1  bloomington.iu.edu/admissions/apply/international
+         https://bloomington.iu.edu/admissions/apply/international/graduate/
+    1  bloomington.iu.edu/admissions/enroll
+         https://bloomington.iu.edu/admissions/enroll/graduate/
+    1  bloomington.iu.edu/admissions/enroll/international
+         https://bloomington.iu.edu/admissions/enroll/international/graduate/
+    1  bloomington.iu.edu/admissions
+         https://bloomington.iu.edu/admissions/orientation-graduate/

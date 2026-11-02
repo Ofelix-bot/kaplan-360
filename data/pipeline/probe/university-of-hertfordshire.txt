@@ -1,0 +1,104 @@
+# university-of-hertfordshire https://www.herts.ac.uk
+robots sitemaps: https://www.herts.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 4601 · master's-looking 805
+  284  www.herts.ac.uk/courses/postgraduate-masters
+         https://www.herts.ac.uk/courses/postgraduate-masters/ma-games-art-and-design
+         https://www.herts.ac.uk/courses/postgraduate-masters/pgdip-human-resource-management
+         https://www.herts.ac.uk/courses/postgraduate-masters/pgdip-specialist-community-nursing-community-district-nursing
+         https://www.herts.ac.uk/courses/postgraduate-masters/pgdip-specialist-community-nursing-general-practice-nurse
+  164  www.herts.ac.uk/life/blog/student-blogs
+         https://www.herts.ac.uk/life/blog/student-blogs/undergraduate/ameisha-clarke
+         https://www.herts.ac.uk/life/blog/student-blogs/undergraduate/dilek-selin-ucan
+         https://www.herts.ac.uk/life/blog/student-blogs/undergraduate/dobromir-churov
+         https://www.herts.ac.uk/life/blog/student-blogs/undergraduate/eleanor-bennett
+  156  www.herts.ac.uk/courses/undergraduate
+         https://www.herts.ac.uk/courses/undergraduate/ba-hons-accounting-with-optional-sandwich-placement-study-abroad
+         https://www.herts.ac.uk/courses/undergraduate/bsc-hons-information-technology-online
+         https://www.herts.ac.uk/courses/undergraduate/bsc-hons-computer-science-online
+         https://www.herts.ac.uk/courses/undergraduate/bsc-hons-information-technology-top-up-online
+   57  www.herts.ac.uk/courses/research
+         https://www.herts.ac.uk/courses/research/masters-by-research-creative-arts
+         https://www.herts.ac.uk/courses/research/masters-by-research-law
+         https://www.herts.ac.uk/courses/research/masters-by-research-social-work
+         https://www.herts.ac.uk/courses/research/masters-by-research-primary-and-community-care
+   22  www.herts.ac.uk/courses/undergraduate-courses/law-and-criminology
+         https://www.herts.ac.uk/courses/undergraduate-courses/law-and-criminology/co-curricular-courses/adjudication
+         https://www.herts.ac.uk/courses/undergraduate-courses/law-and-criminology/pro-bono-activities/streetlaw
+         https://www.herts.ac.uk/courses/undergraduate-courses/law-and-criminology/pro-bono-activities/citizens-advice-training
+         https://www.herts.ac.uk/courses/undergraduate-courses/law-and-criminology/pro-bono-activities/herts-law-clinic
+   22  www.herts.ac.uk/courses/postgraduate-masters-study
+         https://www.herts.ac.uk/courses/postgraduate-masters-study/progressing-to-postgraduate-study
+         https://www.herts.ac.uk/courses/postgraduate-masters-study/uk-postgraduate-student-enquiries
+         https://www.herts.ac.uk/courses/postgraduate-masters-study/apply-to-postgraduate-study-herts-via-fast-track
+         https://www.herts.ac.uk/courses/postgraduate-masters-study/accounting-finance
+   19  www.herts.ac.uk/courses/undergraduate-courses
+         https://www.herts.ac.uk/courses/undergraduate-courses/accounting-and-finance
+         https://www.herts.ac.uk/courses/undergraduate-courses/animation-film-games-and-creative-media
+         https://www.herts.ac.uk/courses/undergraduate-courses/architecture
+         https://www.herts.ac.uk/courses/undergraduate-courses/art-design-and-fashion
+   17  www.herts.ac.uk/about-us/news-and-events/news
+         https://www.herts.ac.uk/about-us/news-and-events/news/archive/university-of-hertfordshire-celebrates-2019-graduates-achievements-with-ceremonies-at-st-albans-cathedral
+         https://www.herts.ac.uk/about-us/news-and-events/news/20223/university-of-hertfordshire-placed-sixth-in-the-uk-for-postgraduate-student-experience
+         https://www.herts.ac.uk/about-us/news-and-events/news/20223/herts-ranked-second-for-student-experience-in-latest-postgraduate-survey
+         https://www.herts.ac.uk/about-us/news-and-events/news/2024/herts-graduates-supporting-the-next-generation
+   11  www.herts.ac.uk/courses/undergraduate-courses/education-and-teaching
+         https://www.herts.ac.uk/courses/undergraduate-courses/education-and-teaching/initial-teacher-education/the-first-step-school-direct-pgce-and-salaried-primary
+         https://www.herts.ac.uk/courses/undergraduate-courses/education-and-teaching/initial-teacher-education
+         https://www.herts.ac.uk/courses/undergraduate-courses/education-and-teaching/initial-teacher-education/school-based
+         https://www.herts.ac.uk/courses/undergraduate-courses/education-and-teaching/initial-teacher-education/school-based/entry-requirements
+    4  www.herts.ac.uk/courses/undergraduate-courses/art-design-and-fashion
+         https://www.herts.ac.uk/courses/undergraduate-courses/art-design-and-fashion/undergraduate-art-and-design-applicant
+         https://www.herts.ac.uk/courses/undergraduate-courses/art-design-and-fashion/undergraduate-art-and-design-applicant/undergraduate-art-and-design-portfolio-advice
+         https://www.herts.ac.uk/courses/undergraduate-courses/art-design-and-fashion/undergraduate-art-and-design-applicant/art-and-design-applicant-interviews
+         https://www.herts.ac.uk/courses/undergraduate-courses/art-design-and-fashion/undergraduate-art-and-design-applicant/digital-portfolios
+    4  www.herts.ac.uk/courses/undergraduate-courses/animation-film-games-and-creative-media
+         https://www.herts.ac.uk/courses/undergraduate-courses/animation-film-games-and-creative-media/animation,-games-and-visual-effects-applicants
+         https://www.herts.ac.uk/courses/undergraduate-courses/animation-film-games-and-creative-media/animation,-games-and-visual-effects-applicants/animation-portfolio-interviews
+         https://www.herts.ac.uk/courses/undergraduate-courses/animation-film-games-and-creative-media/animation,-games-and-visual-effects-applicants/skills-we-look-for
+         https://www.herts.ac.uk/courses/undergraduate-courses/animation-film-games-and-creative-media/animation,-games-and-visual-effects-applicants/useful-resources
+    4  www.herts.ac.uk/courses/short
+         https://www.herts.ac.uk/courses/short/mastering-excel-basics
+         https://www.herts.ac.uk/courses/short/mastering-excel
+         https://www.herts.ac.uk/courses/short/6hsk2041-academic-skills-for-postgraduate-study
+         https://www.herts.ac.uk/courses/short/6hsk2042-academic-skills-and-writing-for-postgraduate-study
+    3  www.herts.ac.uk/study/open-days-and-events
+         https://www.herts.ac.uk/study/open-days-and-events/postgraduate-open-days
+         https://www.herts.ac.uk/study/open-days-and-events/undergraduate-open-days
+         https://www.herts.ac.uk/study/open-days-and-events/undergraduate-open-day-interest
+    3  www.herts.ac.uk/study/our-prospectuses
+         https://www.herts.ac.uk/study/our-prospectuses/undergraduate-prospectus
+         https://www.herts.ac.uk/study/our-prospectuses/your-undergraduate-prospectus
+         https://www.herts.ac.uk/study/our-prospectuses/your-postgraduate-prospectus
+    3  www.herts.ac.uk/courses/undergraduate-courses/medicine
+         https://www.herts.ac.uk/courses/undergraduate-courses/medicine/mbbs-int-ent-req
+         https://www.herts.ac.uk/courses/undergraduate-courses/medicine/medicine-interview-guidance
+         https://www.herts.ac.uk/courses/undergraduate-courses/medicine/medicine-mbbs-register-for-updates
+    3  www.herts.ac.uk/about-us/news-and-events/events
+         https://www.herts.ac.uk/about-us/news-and-events/events/acquisition-events/2026/undergraduate-open-day-event-21-november-2026
+         https://www.herts.ac.uk/about-us/news-and-events/events/acquisition-events/2026/postgraduate-open-evening-4-november-2026
+         https://www.herts.ac.uk/about-us/news-and-events/events/acquisition-events/2026/postgraduate-open-evening-12-may-2027
+    3  www.herts.ac.uk/study/how-to-apply
+         https://www.herts.ac.uk/study/how-to-apply/undergraduate
+         https://www.herts.ac.uk/study/how-to-apply/postgraduate-taught
+         https://www.herts.ac.uk/study/how-to-apply/postgraduate-research
+    2  www.herts.ac.uk/study/open-days-and-events/postgraduate-open-days
+         https://www.herts.ac.uk/study/open-days-and-events/postgraduate-open-days/postgraduate-event-interest
+         https://www.herts.ac.uk/study/open-days-and-events/postgraduate-open-days/postgraduate-live-chat-confirmation
+    2  www.herts.ac.uk/study/fees-and-funding/scholarships
+         https://www.herts.ac.uk/study/fees-and-funding/scholarships/postgraduate-funding
+         https://www.herts.ac.uk/study/fees-and-funding/scholarships/undergraduate-funding
+    2  www.herts.ac.uk/courses
+         https://www.herts.ac.uk/courses/undergraduate-courses
+         https://www.herts.ac.uk/courses/postgraduate-masters-study
+    2  www.herts.ac.uk/link/volume-3,-issue-2
+         https://www.herts.ac.uk/link/volume-3,-issue-2/undergraduate-students-reflections-on-engaging-in-a-student-staff-collaborative-study
+         https://www.herts.ac.uk/link/volume-3,-issue-2/a-teacher-led-masters-programme-the-hertscam-med-in-leading-teaching-and-learning
+    2  www.herts.ac.uk/link/volume-6,-issue-1,-april-2022
+         https://www.herts.ac.uk/link/volume-6,-issue-1,-april-2022/can-higher-education-institutions-really-guarantee-the-development-of-graduate-attributes
+         https://www.herts.ac.uk/link/volume-6,-issue-1,-april-2022/can-higher-education-institutions-really-guarantee-the-development-of-graduate-attributes2
+    1  www.herts.ac.uk/for-business/specialist-services-in-our-schools-of-study/business-support-and-consultancy
+         https://www.herts.ac.uk/for-business/specialist-services-in-our-schools-of-study/business-support-and-consultancy/university-of-hertfordshire-urbanism-unit/uh-tarmac-sustainable-living/uh-tarmac-three-year-master-planning-research
+    1  www.herts.ac.uk/research/centres/car
+         https://www.herts.ac.uk/research/centres/car/research-degrees-and-studentships/msc-projects
+    1  www.herts.ac.uk/research/groups-and-units/history-research-at-hertfordshire
+         https://www.herts.ac.uk/research/groups-and-units/history-research-at-hertfordshire/study-for-a-postgraduate-degree

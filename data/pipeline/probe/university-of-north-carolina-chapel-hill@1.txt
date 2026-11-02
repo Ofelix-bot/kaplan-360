@@ -1,0 +1,98 @@
+# university-of-north-carolina-chapel-hill@1 https://www.unc.edu
+robots sitemaps: https://www.unc.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.unc.edu/sitemap_index.xml: 19 children (1 course-like)
+sitemaps read 20 · urls 7263 · master's-looking 170
+   41  www.unc.edu/discover
+         https://www.unc.edu/discover/graduate-student-combines-passion-for-art-and-the-library/
+         https://www.unc.edu/discover/mba-student-launches-virtual-workout-platform/
+         https://www.unc.edu/discover/winter-graduate-continues-serve/
+         https://www.unc.edu/discover/training-new-wave-graduate-researchers/
+   12  www.unc.edu/story
+         https://www.unc.edu/story/congratulations-graduates/
+         https://www.unc.edu/story/celebrating-our-graduates/
+         https://www.unc.edu/story/graduate-school/
+         https://www.unc.edu/story/2020-graduate-celebration/
+    8  www.unc.edu/posts/2025/12
+         https://www.unc.edu/posts/2025/12/02/graduate-with-orphan-diseases-transformed-by-quantitative-genomics/
+         https://www.unc.edu/posts/2025/12/12/carolina-relaunches-undergraduate-elementary-education-degree/
+         https://www.unc.edu/posts/2025/12/14/graduate-fellow-brings-ghanaians-stories-into-colonial-era-library/
+         https://www.unc.edu/posts/2025/12/16/winter-commencement-marks-next-step-for-2025-graduates/
+    6  www.unc.edu/posts/2026/04
+         https://www.unc.edu/posts/2026/04/06/graduate-tas-honored-with-2026-tanner-awards/
+         https://www.unc.edu/posts/2026/04/07/unc-chapel-hill-earns-top-national-rankings-for-graduate-education/
+         https://www.unc.edu/posts/2026/04/09/get-to-know-graduate-researcher-rodney-earl-mcclendon-jr/
+         https://www.unc.edu/posts/2026/04/10/school-of-government-debuts-undergraduate-minor-in-fall-2026/
+    4  www.unc.edu/posts/2023/02
+         https://www.unc.edu/posts/2023/02/02/student-leaders-in-applied-physical-sciences-help-build-graduate-student-community/
+         https://www.unc.edu/posts/2023/02/03/a-message-from-the-chancellor-the-impact-of-our-graduate-students/
+         https://www.unc.edu/posts/2023/02/21/carolina-wins-grant-for-undergraduate-climate-change-research-in-ecuador/
+         https://www.unc.edu/posts/2023/02/01/graduate-education-opportunities-move-university-forward/
+    4  www.unc.edu/posts/2025/04
+         https://www.unc.edu/posts/2025/04/10/school-of-medicine-launches-new-9-month-biomedical-masters-degree/
+         https://www.unc.edu/posts/2025/04/30/master-of-accounting-student-trusts-her-gut/
+         https://www.unc.edu/posts/2025/04/23/pharmacy-graduate-shoots-for-the-stars/
+         https://www.unc.edu/posts/2025/04/08/unc-chapel-hill-graduate-programs-ranked-among-best-in-nation-4/
+    3  www.unc.edu/posts/2018/03
+         https://www.unc.edu/posts/2018/03/19/graduate-school-announces-impact-award-and-horizon-award-winners/
+         https://www.unc.edu/posts/2018/03/29/public-service-efforts-new-campus-master-plan-connected-broader-mission/
+         https://www.unc.edu/posts/2018/03/20/carolina-graduate-programs-ranked-among-best-graduate-schools/
+    3  www.unc.edu/posts/2023/05
+         https://www.unc.edu/posts/2023/05/11/shes-graduated-from-unc-twice-but-is-not-a-double-tar-heel/
+         https://www.unc.edu/posts/2023/05/12/graduates-celebrate-their-achievements/
+         https://www.unc.edu/posts/2023/05/30/carolina-ranked-highly-among-doctoral-degrees-to-underrepresented-graduates/
+    3  www.unc.edu/posts/2024/03
+         https://www.unc.edu/posts/2024/03/01/undergraduate-data-science-degree-programs-approved/
+         https://www.unc.edu/posts/2024/03/28/2024-tanner-awards-honor-excellence-in-undergraduate-teaching/
+         https://www.unc.edu/posts/2024/03/28/graduate-tas-given-2024-tanner-awards/
+    3  www.unc.edu/posts/2025/03
+         https://www.unc.edu/posts/2025/03/04/graduate-tas-honored-with-2025-tanner-awards/
+         https://www.unc.edu/posts/2025/03/12/mac-graduate-recovers-from-tragedy/
+         https://www.unc.edu/posts/2025/03/27/graduate-students-pursue-peaceful-solutions/
+    3  www.unc.edu/posts/2025/05
+         https://www.unc.edu/posts/2025/05/16/maps-graduate-credits-resilience-for-achievements/
+         https://www.unc.edu/posts/2025/05/01/data-science-school-celebrates-first-graduates/
+         https://www.unc.edu/posts/2025/05/12/sils-graduate-creates-hairmatch/
+    3  www.unc.edu/posts/2025/11
+         https://www.unc.edu/posts/2025/11/14/diplomacy-week-spotlights-return-of-star-graduate/
+         https://www.unc.edu/posts/2025/11/12/graduate-students-squeeze-research-into-3-minutes/
+         https://www.unc.edu/posts/2025/11/11/service-meets-innovation-for-education-graduate-student/
+    3  www.unc.edu/posts/2026/05
+         https://www.unc.edu/posts/2026/05/04/2025-graduates-give-advice-to-class-of-2026/
+         https://www.unc.edu/posts/2026/05/14/graduate-school-announces-2026-impact-award-winners/
+         https://www.unc.edu/posts/2026/05/15/air-force-marine-veterans-earn-data-science-masters-degrees/
+    2  www.unc.edu/posts/2018/06
+         https://www.unc.edu/posts/2018/06/15/graduate-student-receives-boren-fellowship/
+         https://www.unc.edu/posts/2018/06/11/two-unc-chapel-hill-graduates-selected-as-pickering-fellows/
+    2  www.unc.edu/posts/2019/03
+         https://www.unc.edu/posts/2019/03/06/graduate-school-announces-impact-award-and-horizon-award-winners-2/
+         https://www.unc.edu/posts/2019/03/12/unc-chapel-hill-graduate-programs-ranked-among-best-in-the-country/
+    2  www.unc.edu/posts/2019/05
+         https://www.unc.edu/posts/2019/05/30/trustees-hear-from-school-of-nursing-pass-campus-master-plan/
+         https://www.unc.edu/posts/2019/05/30/carolinas-campus-master-plan-approved-by-board-of-trustees/
+    2  www.unc.edu/posts/2021/02
+         https://www.unc.edu/posts/2021/02/05/undergraduate-research-at-unc-hussman-reveals-a-decline-in-public-health-funding-trends-in-north-carolina/
+         https://www.unc.edu/posts/2021/02/07/message-from-university-leaders-on-last-night-and-in-person-undergraduate-classes/
+    2  www.unc.edu/posts/2021/05
+         https://www.unc.edu/posts/2021/05/15/virtual-ceremony-celebrates-carolinas-doctoral-graduates/
+         https://www.unc.edu/posts/2021/05/27/preparing-graduate-students-for-the-future-of-work-outside-academia/
+    2  www.unc.edu/posts/2022/04
+         https://www.unc.edu/posts/2022/04/04/graduate-and-professional-student-appreciation-week-message/
+         https://www.unc.edu/posts/2022/04/06/austin-greaser-begins-masters-this-morning/
+    2  www.unc.edu/posts/2022/11
+         https://www.unc.edu/posts/2022/11/01/unc-school-of-law-to-unveil-portrait-of-sylvia-x-allen-the-schools-first-black-female-graduate/
+         https://www.unc.edu/posts/2022/11/09/higher-stipends-for-graduate-students-announced-at-faculty-council/
+    2  www.unc.edu/posts/2023/04
+         https://www.unc.edu/posts/2023/04/17/graduate-student-examines-sanitation-in-nc-communities/
+         https://www.unc.edu/posts/2023/04/25/unc-chapel-hill-graduate-programs-ranked-among-best-in-nation-2/
+    2  www.unc.edu/posts/2024/04
+         https://www.unc.edu/posts/2024/04/09/unc-chapel-hill-graduate-programs-ranked-among-best-in-nation-3/
+         https://www.unc.edu/posts/2024/04/30/nsf-graduate-research-fellowships-go-to-16-tar-heels/
+    2  www.unc.edu/posts/2024/05
+         https://www.unc.edu/posts/2024/05/11/campus-ceremonies-celebrate-graduates/
+         https://www.unc.edu/posts/2024/05/02/hussman-graduate-student-launches-space-career/
+    2  www.unc.edu/posts/2025/07
+         https://www.unc.edu/posts/2025/07/01/james-orr-named-senior-vice-provost-for-undergraduate-student-success/
+         https://www.unc.edu/posts/2025/07/07/public-policy-graduate-wants-to-make-a-difference/
+    2  www.unc.edu/posts/2026/01
+         https://www.unc.edu/posts/2026/01/12/carolina-graduate-brings-forever-chemicals-documentary-to-campus/
+         https://www.unc.edu/posts/2026/01/23/hussman-graduate-exercises-her-advertising-skills/

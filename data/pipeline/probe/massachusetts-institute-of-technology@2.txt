@@ -1,0 +1,100 @@
+# massachusetts-institute-of-technology@2 https://oge.mit.edu
+robots sitemaps: https://oge.mit.edu/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://oge.mit.edu/wp-sitemap.xml: 22 children (3 course-like)
+sitemaps read 23 · urls 3074 · master's-looking 219
+   52  oge.mit.edu/oge_news
+         https://oge.mit.edu/oge_news/mit-graduate-engineering-business-science-programs-ranked-highly-by-u-s-news-for-2023/
+         https://oge.mit.edu/oge_news/letter-regarding-graduate-student-unionization-election/
+         https://oge.mit.edu/oge_news/zoom-out-kealoha-wong-99-calls-on-mit-graduates-to-consider-their-lives-within-the-enormity-of-the-universe/
+         https://oge.mit.edu/oge_news/oge-website-integrates-graduate-admissions-families-and-orientation-content/
+   38  oge.mit.edu/events
+         https://oge.mit.edu/events/california-forum-for-diversity-in-graduate-education/
+         https://oge.mit.edu/events/applying-to-graduate-fellowships-2/
+         https://oge.mit.edu/events/georgia-tech-virtual-graduate-showcase/
+         https://oge.mit.edu/events/california-forum-for-diversity-in-graduate-education-2/
+   23  oge.mit.edu/community-belonging/funds-for-grad-activities/graduate-student-experience-grants
+         https://oge.mit.edu/community-belonging/funds-for-grad-activities/graduate-student-experience-grants/funded-in-2020-2021/
+         https://oge.mit.edu/community-belonging/funds-for-grad-activities/graduate-student-experience-grants/funded-in-2019-2020/
+         https://oge.mit.edu/community-belonging/funds-for-grad-activities/graduate-student-experience-grants/funded-in-2018-19/
+         https://oge.mit.edu/community-belonging/funds-for-grad-activities/graduate-student-experience-grants/funded-in-2017-18/
+    9  oge.mit.edu/graduate-admissions
+         https://oge.mit.edu/graduate-admissions/admissions-policies/
+         https://oge.mit.edu/graduate-admissions/
+         https://oge.mit.edu/graduate-admissions/applications/
+         https://oge.mit.edu/graduate-admissions/programs/
+    9  oge.mit.edu/graduate-admissions/applications
+         https://oge.mit.edu/graduate-admissions/applications/procedures/
+         https://oge.mit.edu/graduate-admissions/applications/prospective-student-programs/
+         https://oge.mit.edu/graduate-admissions/applications/summer-research-programs/
+         https://oge.mit.edu/graduate-admissions/applications/standardized-tests/
+    7  oge.mit.edu/programs
+         https://oge.mit.edu/programs/mit-sloan-executive-mba-program/
+         https://oge.mit.edu/programs/mit-sloan-fellows-mba-program/
+         https://oge.mit.edu/programs/mit-sloan-master-of-business-analytics/
+         https://oge.mit.edu/programs/mit-sloan-master-of-finance/
+    6  oge.mit.edu/gpp/advanced-degrees/masters-degree
+         https://oge.mit.edu/gpp/advanced-degrees/masters-degree/master-of-science/
+         https://oge.mit.edu/gpp/advanced-degrees/masters-degree/master-of-architecture/
+         https://oge.mit.edu/gpp/advanced-degrees/masters-degree/master-in-city-planning/
+         https://oge.mit.edu/gpp/advanced-degrees/masters-degree/master-of-applied-science/
+    5  oge.mit.edu/graduate-admissions/programs
+         https://oge.mit.edu/graduate-admissions/programs/fields-of-study/
+         https://oge.mit.edu/graduate-admissions/programs/doctoral-degrees/
+         https://oge.mit.edu/graduate-admissions/programs/masters-degrees/
+         https://oge.mit.edu/graduate-admissions/programs/certificate-online-programs/
+    5  oge.mit.edu/graduate-admissions/applications/standardized-tests
+         https://oge.mit.edu/graduate-admissions/applications/standardized-tests/toefl-ibt/
+         https://oge.mit.edu/graduate-admissions/applications/standardized-tests/ielts/
+         https://oge.mit.edu/graduate-admissions/applications/standardized-tests/det/
+         https://oge.mit.edu/graduate-admissions/applications/standardized-tests/graduate-record-examination-gre/
+    4  oge.mit.edu/graduate-admissions/costs-funding
+         https://oge.mit.edu/graduate-admissions/costs-funding/cost-of-attendance/
+         https://oge.mit.edu/graduate-admissions/costs-funding/stipend-rates/
+         https://oge.mit.edu/graduate-admissions/costs-funding/estimated-living-expenses-for-12-months/
+         https://oge.mit.edu/graduate-admissions/costs-funding/additional-considerations-and-information/
+    4  oge.mit.edu/gpp/faculty-oversight
+         https://oge.mit.edu/gpp/faculty-oversight/committee-on-graduate-programs/
+         https://oge.mit.edu/gpp/faculty-oversight/graduate-officers/
+         https://oge.mit.edu/gpp/faculty-oversight/graduate-administrators/
+         https://oge.mit.edu/gpp/faculty-oversight/graduate-academic-performance-group-gapg/
+    3  oge.mit.edu/graduate-admissions/admitted-student-resources
+         https://oge.mit.edu/graduate-admissions/admitted-student-resources/whole-you-at-mit/
+         https://oge.mit.edu/graduate-admissions/admitted-student-resources/supporting-you-at-mit/
+         https://oge.mit.edu/graduate-admissions/admitted-student-resources/housing/
+    3  oge.mit.edu/graduate-admissions/admissions-policies
+         https://oge.mit.edu/graduate-admissions/admissions-policies/legal-considerations/
+         https://oge.mit.edu/graduate-admissions/admissions-policies/privacy/
+         https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/
+    3  oge.mit.edu/gpp/advanced-degrees
+         https://oge.mit.edu/gpp/advanced-degrees/masters-degree/
+         https://oge.mit.edu/gpp/advanced-degrees/simultaneous-registration-for-two-masters-degrees/
+         https://oge.mit.edu/gpp/advanced-degrees/simultaneous-award-of-bachelors-and-masters-degrees/
+    3  oge.mit.edu/gpp/faculty-oversight/graduate-academic-performance-group-gapg
+         https://oge.mit.edu/gpp/faculty-oversight/graduate-academic-performance-group-gapg/gapg-role-and-function/
+         https://oge.mit.edu/gpp/faculty-oversight/graduate-academic-performance-group-gapg/gapg-membership/
+         https://oge.mit.edu/gpp/faculty-oversight/graduate-academic-performance-group-gapg/gapg-end-of-term-academic-review/
+    3  oge.mit.edu/faqs
+         https://oge.mit.edu/faqs/can-i-transfer-to-an-mit-graduate-program/
+         https://oge.mit.edu/faqs/what-is-the-impact-of-the-parental-leave-pl-policy-for-eligible-graduate-students/
+         https://oge.mit.edu/faqs/where-can-i-learn-more-about-the-mit-graduate-student-union/
+    2  oge.mit.edu/finances-employment/financial-assistance-and-grants
+         https://oge.mit.edu/finances-employment/financial-assistance-and-grants/mit-grant-for-graduate-students-with-children/
+         https://oge.mit.edu/finances-employment/financial-assistance-and-grants/graduate-student-short-term-emergency-fund/
+    2  oge.mit.edu/finances-employment
+         https://oge.mit.edu/finances-employment/graduate-student-benefits/
+         https://oge.mit.edu/finances-employment/graduate-appointments/
+    2  oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement
+         https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/elp-exemptions/
+         https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/department-elp-waivers/
+    1  oge.mit.edu/graduate-policies-and-procedures
+         https://oge.mit.edu/graduate-policies-and-procedures/
+    1  oge.mit.edu/community-belonging/communities-networks/cultural-student-orgs
+         https://oge.mit.edu/community-belonging/communities-networks/cultural-student-orgs/graduate-student-of-color-advisory-council/
+    1  oge.mit.edu/community-belonging/awards-recognition
+         https://oge.mit.edu/community-belonging/awards-recognition/celebration-of-graduate-women/
+    1  oge.mit.edu/community-belonging/awards-recognition/celebration-of-graduate-women
+         https://oge.mit.edu/community-belonging/awards-recognition/celebration-of-graduate-women/photo-gallery/
+    1  oge.mit.edu/community-belonging/get-involved
+         https://oge.mit.edu/community-belonging/get-involved/graduate-community-fellows/
+    1  oge.mit.edu/community-belonging/get-involved/graduate-community-fellows
+         https://oge.mit.edu/community-belonging/get-involved/graduate-community-fellows/request-a-new-fellow-position/

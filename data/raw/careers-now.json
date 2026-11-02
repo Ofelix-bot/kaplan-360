@@ -1,0 +1,670 @@
+{
+ "built": "2026-10-29",
+ "rows": [
+  {
+   "industry_id": "infocomm-technology",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-ic-vacancy-decline",
+   "label": "Job vacancies, down from 5,300"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "macro-169",
+   "label": "Real value added growth"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-170",
+   "label": "Sector share of GDP"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "mom-lmr26q2-t63-information-and-communications-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "asia-pacific",
+   "slot": 1,
+   "fact_id": "regional-bain-012",
+   "label": "Deal value to core AI firms"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "asia-pacific",
+   "slot": 2,
+   "fact_id": "regional-bain-013",
+   "label": "AI infrastructure deals, US$"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "asia-pacific",
+   "slot": 3,
+   "fact_id": "regional-bain-014",
+   "label": "Data centre growth needed"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "asia-pacific",
+   "slot": 4,
+   "fact_id": "regional-dt64-006",
+   "label": "Economy share, 4 hit sectors"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-wef-014",
+   "label": "Among fastest-growing jobs"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "global",
+   "slot": 2,
+   "fact_id": "regional-wef-020",
+   "label": "Among top net job growth"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "global",
+   "slot": 3,
+   "fact_id": "regional-wef-026",
+   "label": "Workforce needing training"
+  },
+  {
+   "industry_id": "infocomm-technology",
+   "region": "global",
+   "slot": 4,
+   "fact_id": "regional-pwcg-005",
+   "label": "Share of AI job growth"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-fs-vacancy-decline",
+   "label": "Job vacancies, down from 5,800"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "macro-177",
+   "label": "Tech job postings needing AI"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-181",
+   "label": "Firms adopting AI"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-159",
+   "label": "Real growth, sector group"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "asia-pacific",
+   "slot": 1,
+   "fact_id": "regional-bain-010",
+   "label": "Digital payments value, US$"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "asia-pacific",
+   "slot": 2,
+   "fact_id": "regional-bain-011",
+   "label": "Digital lending balances, US$"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "asia-pacific",
+   "slot": 3,
+   "fact_id": "regional-pwcawm-001",
+   "label": "Asia Pacific assets managed"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "asia-pacific",
+   "slot": 4,
+   "fact_id": "regional-pwcawm-002",
+   "label": "Firms citing tech disruption"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-wef-015",
+   "label": "Among fastest-declining roles"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "global",
+   "slot": 2,
+   "fact_id": "regional-wef-024",
+   "label": "Employers expecting AI impact"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "global",
+   "slot": 3,
+   "fact_id": "regional-wef-025",
+   "label": "Task cuts from automation"
+  },
+  {
+   "industry_id": "financial-services",
+   "region": "global",
+   "slot": 4,
+   "fact_id": "regional-eyai-002",
+   "label": "Let AI manage banking, global"
+  },
+  {
+   "industry_id": "media",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-telecommunications-broadcasting-publishing-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "media",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-telecommunications-broadcasting-publishing-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "media",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-004",
+   "label": "Real GDP growth, per cent"
+  },
+  {
+   "industry_id": "media",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-092",
+   "label": "Value added per worker, % up"
+  },
+  {
+   "industry_id": "media",
+   "region": "asia-pacific",
+   "slot": 1,
+   "fact_id": "regional-bain-008",
+   "label": "Online media revenue, US$"
+  },
+  {
+   "industry_id": "media",
+   "region": "asia-pacific",
+   "slot": 2,
+   "fact_id": "regional-dt64-007",
+   "label": "Economy share, 4 hit sectors"
+  },
+  {
+   "industry_id": "media",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-wef-021",
+   "label": "Near top 10 declining roles"
+  },
+  {
+   "industry_id": "wholesale-trade",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-wholesale-and-retail-trade-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "wholesale-trade",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-wholesale-and-retail-trade-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "wholesale-trade",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-161",
+   "label": "Real growth, sector group"
+  },
+  {
+   "industry_id": "wholesale-trade",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-110",
+   "label": "Wholesale trade real growth"
+  },
+  {
+   "industry_id": "retail",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-wholesale-and-retail-trade-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "retail",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-wholesale-and-retail-trade-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "retail",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-161",
+   "label": "Real growth, sector group"
+  },
+  {
+   "industry_id": "retail",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-110",
+   "label": "Wholesale trade real growth"
+  },
+  {
+   "industry_id": "retail",
+   "region": "asia-pacific",
+   "slot": 1,
+   "fact_id": "regional-bain-003",
+   "label": "E-commerce sales value, US$"
+  },
+  {
+   "industry_id": "retail",
+   "region": "asia-pacific",
+   "slot": 2,
+   "fact_id": "regional-bain-004",
+   "label": "Shoppers comparing with AI"
+  },
+  {
+   "industry_id": "retail",
+   "region": "asia-pacific",
+   "slot": 3,
+   "fact_id": "regional-bain-005",
+   "label": "Users open to AI buying"
+  },
+  {
+   "industry_id": "retail",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-pwcg-002",
+   "label": "AI wage premium"
+  },
+  {
+   "industry_id": "human-resource",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-administrative-and-support-services-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "human-resource",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-administrative-and-support-services-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "human-resource",
+   "region": "asia-pacific",
+   "slot": 1,
+   "fact_id": "regional-hays2-003",
+   "label": "Retention top obstacle, Asia"
+  },
+  {
+   "industry_id": "accountancy",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-professional-services-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "accountancy",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-professional-services-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "accountancy",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-178",
+   "label": "Tech job postings needing AI"
+  },
+  {
+   "industry_id": "accountancy",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-180",
+   "label": "Firms adopting AI"
+  },
+  {
+   "industry_id": "social-service",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-health-social-services-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "social-service",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-health-social-services-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "social-service",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-202",
+   "label": "Biopharma output"
+  },
+  {
+   "industry_id": "social-service",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-203",
+   "label": "Biopharma workers"
+  },
+  {
+   "industry_id": "social-service",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-wef-017",
+   "label": "Care jobs set to grow"
+  },
+  {
+   "industry_id": "logistics",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-transportation-and-storage-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "logistics",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-transportation-and-storage-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "logistics",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-205",
+   "label": "World Bank logistics ranking"
+  },
+  {
+   "industry_id": "logistics",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-116",
+   "label": "Real growth"
+  },
+  {
+   "industry_id": "logistics",
+   "region": "asia-pacific",
+   "slot": 1,
+   "fact_id": "regional-bain-009",
+   "label": "Mobility & food delivery GMV"
+  },
+  {
+   "industry_id": "logistics",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-wef-018",
+   "label": "Top frontline job growth"
+  },
+  {
+   "industry_id": "early-childhood",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-public-administration-education-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "early-childhood",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-public-administration-education-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "early-childhood",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-015",
+   "label": "Real GDP growth, per cent"
+  },
+  {
+   "industry_id": "early-childhood",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-046",
+   "label": "Value added per worker, % up"
+  },
+  {
+   "industry_id": "hotel-and-accommodation-services",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-accommodation-and-food-services-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "hotel-and-accommodation-services",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-accommodation-and-food-services-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "hotel-and-accommodation-services",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-082",
+   "label": "Tourism receipts, S$ million"
+  },
+  {
+   "industry_id": "hotel-and-accommodation-services",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-083",
+   "label": "Food & beverage receipts, S$m"
+  },
+  {
+   "industry_id": "hotel-and-accommodation-services",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-wef-027",
+   "label": "Firms relying on public funds"
+  },
+  {
+   "industry_id": "tourism",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-accommodation-and-food-services-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "tourism",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-accommodation-and-food-services-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "tourism",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-082",
+   "label": "Tourism receipts, S$ million"
+  },
+  {
+   "industry_id": "tourism",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-083",
+   "label": "Food & beverage receipts, S$m"
+  },
+  {
+   "industry_id": "tourism",
+   "region": "asia-pacific",
+   "slot": 1,
+   "fact_id": "regional-bain-006",
+   "label": "Online travel sales value, US$"
+  },
+  {
+   "industry_id": "tourism",
+   "region": "asia-pacific",
+   "slot": 2,
+   "fact_id": "regional-bain-007",
+   "label": "Trip planning via GenAI"
+  },
+  {
+   "industry_id": "built-environment",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-construction-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "built-environment",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-construction-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "built-environment",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-163",
+   "label": "Real growth"
+  },
+  {
+   "industry_id": "built-environment",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-127",
+   "label": "Real growth"
+  },
+  {
+   "industry_id": "built-environment",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-wef-019",
+   "label": "Top frontline job growth"
+  },
+  {
+   "industry_id": "healthcare",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-health-social-services-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "healthcare",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-health-social-services-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "healthcare",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-202",
+   "label": "Biopharma output"
+  },
+  {
+   "industry_id": "healthcare",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-203",
+   "label": "Biopharma workers"
+  },
+  {
+   "industry_id": "healthcare",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-wef-016",
+   "label": "Care jobs set to grow"
+  },
+  {
+   "industry_id": "healthcare",
+   "region": "global",
+   "slot": 2,
+   "fact_id": "regional-pwcg-006",
+   "label": "Share of AI job growth"
+  },
+  {
+   "industry_id": "intellectual-property",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-legal-accounting-management-services-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "intellectual-property",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-legal-accounting-management-services-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "intellectual-property",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "lab-in-34",
+   "label": "Rise in remote-work postings"
+  },
+  {
+   "industry_id": "legal-services",
+   "region": "singapore",
+   "slot": 1,
+   "fact_id": "mom-lmr26q2-t63-legal-accounting-management-services-job-vacancies-total",
+   "label": "Job vacancies, thousands"
+  },
+  {
+   "industry_id": "legal-services",
+   "region": "singapore",
+   "slot": 2,
+   "fact_id": "mom-lmr26q2-t63-legal-accounting-management-services-job-vacancy-rate-total",
+   "label": "Job vacancy rate"
+  },
+  {
+   "industry_id": "legal-services",
+   "region": "singapore",
+   "slot": 3,
+   "fact_id": "macro-108",
+   "label": "Real growth"
+  },
+  {
+   "industry_id": "legal-services",
+   "region": "singapore",
+   "slot": 4,
+   "fact_id": "macro-060",
+   "label": "Net firms planning to hire, %"
+  },
+  {
+   "industry_id": "legal-services",
+   "region": "global",
+   "slot": 1,
+   "fact_id": "regional-wef-022",
+   "label": "Near top 10 declining roles"
+  }
+ ]
+}

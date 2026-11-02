@@ -1,0 +1,823 @@
+{
+ "sources": {
+  "oxford-2024-25": "https://assets-oxweb.admin.ox.ac.uk/2026-06/Graduate admissions statistics 2024-25.pdf",
+  "oxford-2023-24": "https://assets-oxweb.admin.ox.ac.uk/2026-03/Graduate admissions statistics entry 2023-24.pdf",
+  "cambridge-2024-25": "https://www.postgraduate.study.cam.ac.uk/sites/default/files/pg_admissions_statistics_2024-2025.pdf",
+  "cambridge-2023-24": "https://www.postgraduate.study.cam.ac.uk/sites/default/files/pg_admissions_statistics_2023-2024_0.pdf"
+ },
+ "retrieved": "2026-11-01",
+ "global": {
+  "yieldPooled": 0.5954,
+  "pooled": {
+   "applications": 104206,
+   "offers": 30518,
+   "acceptances": 18170,
+   "offerRate": 0.2929,
+   "yield": 0.5954
+  },
+  "byOrigin": {
+   "China (Cambridge citizenship)": {
+    "offerRate": 0.1936,
+    "allApplicants": 0.3018,
+    "ratio": 0.641,
+    "yield": 0.5288
+   },
+   "Asia (Oxford domicile)": {
+    "offerRate": 0.1956,
+    "allApplicants": 0.2848,
+    "ratio": 0.687,
+    "yield": 0.5766
+   },
+   "Asia (Cambridge citizenship)": {
+    "offerRate": 0.2308,
+    "allApplicants": 0.3018,
+    "ratio": 0.765,
+    "yield": 0.5312
+   },
+   "Non-EU (Oxford domicile)": {
+    "offerRate": 0.2425,
+    "allApplicants": 0.2848,
+    "ratio": 0.851,
+    "yield": 0.5635
+   },
+   "UK (Oxford domicile)": {
+    "offerRate": 0.3843,
+    "allApplicants": 0.2848,
+    "ratio": 1.349,
+    "yield": 0.7015
+   },
+   "UK (Cambridge citizenship)": {
+    "offerRate": 0.4672,
+    "allApplicants": 0.3018,
+    "ratio": 1.548,
+    "yield": 0.7236
+   },
+   "Hong Kong (Cambridge citizenship)": {
+    "offerRate": 0.3283,
+    "allApplicants": 0.3018,
+    "ratio": 1.088,
+    "yield": 0.6239
+   },
+   "Singapore (Cambridge citizenship, 2024-25)": {
+    "offerRateAtLeast": 0.3089,
+    "allApplicants": 0.2835,
+    "note": "Singapore is in the top ten for offers (114) but not for applications, so it had at most 369 applications (the tenth country's count)."
+   }
+  }
+ },
+ "units": {
+  "oxford: Anthropology and Museum Ethnography": {
+   "applications": 733,
+   "offers": 262,
+   "acceptances": 151,
+   "offerRate": 0.3574,
+   "yield": 0.5763
+  },
+  "oxford: Archaeology": {
+   "applications": 367,
+   "offers": 198,
+   "acceptances": 107,
+   "offerRate": 0.5395,
+   "yield": 0.5404
+  },
+  "oxford: Blavatnik School of Government": {
+   "applications": 2251,
+   "offers": 507,
+   "acceptances": 316,
+   "offerRate": 0.2252,
+   "yield": 0.6233
+  },
+  "oxford: Economics": {
+   "applications": 1452,
+   "offers": 456,
+   "acceptances": 187,
+   "offerRate": 0.314,
+   "yield": 0.4101
+  },
+  "oxford: Education": {
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806,
+   "offerRate": 0.3167,
+   "yield": 0.6773
+  },
+  "oxford: Geography and the Environment": {
+   "applications": 3251,
+   "offers": 393,
+   "acceptances": 271,
+   "offerRate": 0.1209,
+   "yield": 0.6896
+  },
+  "oxford: Global and Area Studies": {
+   "applications": 1161,
+   "offers": 537,
+   "acceptances": 293,
+   "offerRate": 0.4625,
+   "yield": 0.5456
+  },
+  "oxford: International Development": {
+   "applications": 2601,
+   "offers": 518,
+   "acceptances": 279,
+   "offerRate": 0.1992,
+   "yield": 0.5386
+  },
+  "oxford: Law": {
+   "applications": 4240,
+   "offers": 1041,
+   "acceptances": 756,
+   "offerRate": 0.2455,
+   "yield": 0.7262
+  },
+  "oxford: Oxford Internet Institute": {
+   "applications": 1507,
+   "offers": 217,
+   "acceptances": 152,
+   "offerRate": 0.144,
+   "yield": 0.7005
+  },
+  "oxford: Politics and International Relations": {
+   "applications": 1207,
+   "offers": 271,
+   "acceptances": 163,
+   "offerRate": 0.2245,
+   "yield": 0.6015
+  },
+  "oxford: Saïd Business School": {
+   "applications": 6986,
+   "offers": 3131,
+   "acceptances": 1862,
+   "offerRate": 0.4482,
+   "yield": 0.5947
+  },
+  "oxford: Social Policy and Intervention": {
+   "applications": 1080,
+   "offers": 230,
+   "acceptances": 123,
+   "offerRate": 0.213,
+   "yield": 0.5348
+  },
+  "oxford: Sociology": {
+   "applications": 466,
+   "offers": 159,
+   "acceptances": 96,
+   "offerRate": 0.3412,
+   "yield": 0.6038
+  },
+  "oxford: Ancient History and Classical Archaeology": {
+   "applications": 116,
+   "offers": 47,
+   "acceptances": 32,
+   "offerRate": 0.4052,
+   "yield": 0.6809
+  },
+  "oxford: Asian and Middle Eastern Studies": {
+   "applications": 647,
+   "offers": 234,
+   "acceptances": 134,
+   "offerRate": 0.3617,
+   "yield": 0.5726
+  },
+  "oxford: Classical Languages and Literature": {
+   "applications": 163,
+   "offers": 133,
+   "acceptances": 75,
+   "offerRate": 0.816,
+   "yield": 0.5639
+  },
+  "oxford: English": {
+   "applications": 1221,
+   "offers": 266,
+   "acceptances": 164,
+   "offerRate": 0.2179,
+   "yield": 0.6165
+  },
+  "oxford: History": {
+   "applications": 1742,
+   "offers": 559,
+   "acceptances": 354,
+   "offerRate": 0.3209,
+   "yield": 0.6333
+  },
+  "oxford: Interdisciplinary courses": {
+   "applications": 979,
+   "offers": 196,
+   "acceptances": 119,
+   "offerRate": 0.2002,
+   "yield": 0.6071
+  },
+  "oxford: Linguistics, Philology and Phonetics": {
+   "applications": 281,
+   "offers": 93,
+   "acceptances": 57,
+   "offerRate": 0.331,
+   "yield": 0.6129
+  },
+  "oxford: Medieval and Modern Languages": {
+   "applications": 240,
+   "offers": 171,
+   "acceptances": 112,
+   "offerRate": 0.7125,
+   "yield": 0.655
+  },
+  "oxford: Music": {
+   "applications": 182,
+   "offers": 104,
+   "acceptances": 64,
+   "offerRate": 0.5714,
+   "yield": 0.6154
+  },
+  "oxford: Philosophy": {
+   "applications": 710,
+   "offers": 137,
+   "acceptances": 64,
+   "offerRate": 0.193,
+   "yield": 0.4672
+  },
+  "oxford: Ruskin School of Art": {
+   "applications": 358,
+   "offers": 52,
+   "acceptances": 37,
+   "offerRate": 0.1453,
+   "yield": 0.7115
+  },
+  "oxford: Theology and Religion": {
+   "applications": 390,
+   "offers": 187,
+   "acceptances": 112,
+   "offerRate": 0.4795,
+   "yield": 0.5989
+  },
+  "oxford: Computer Science": {
+   "applications": 2147,
+   "offers": 413,
+   "acceptances": 290,
+   "offerRate": 0.1924,
+   "yield": 0.7022
+  },
+  "oxford: Engineering Science": {
+   "applications": 572,
+   "offers": 99,
+   "acceptances": 77,
+   "offerRate": 0.1731,
+   "yield": 0.7778
+  },
+  "oxford: Mathematical Institute": {
+   "applications": 3667,
+   "offers": 965,
+   "acceptances": 447,
+   "offerRate": 0.2632,
+   "yield": 0.4632
+  },
+  "oxford: Physical and Theoretical Chemistry": {
+   "applications": 138,
+   "offers": 47,
+   "acceptances": 34,
+   "offerRate": 0.3406,
+   "yield": 0.7234
+  },
+  "oxford: Statistics": {
+   "applications": 1226,
+   "offers": 211,
+   "acceptances": 119,
+   "offerRate": 0.1721,
+   "yield": 0.564
+  },
+  "oxford: Clinical Medicine": {
+   "applications": 1541,
+   "offers": 365,
+   "acceptances": 159,
+   "offerRate": 0.2369,
+   "yield": 0.4356
+  },
+  "oxford: Clinical Neurosciences": {
+   "applications": 68,
+   "offers": 52,
+   "acceptances": 38,
+   "offerRate": 0.7647,
+   "yield": 0.7308
+  },
+  "oxford: Experimental Psychology": {
+   "applications": 520,
+   "offers": 45,
+   "acceptances": 36,
+   "offerRate": 0.0865,
+   "yield": 0.8
+  },
+  "oxford: Neuroscience": {
+   "applications": 699,
+   "offers": 80,
+   "acceptances": 41,
+   "offerRate": 0.1144,
+   "yield": 0.5125
+  },
+  "oxford: Oncology": {
+   "applications": 372,
+   "offers": 150,
+   "acceptances": 111,
+   "offerRate": 0.4032,
+   "yield": 0.74
+  },
+  "oxford: Orthopaedics, Rheumatology and Musculoskeletal Sciences": {
+   "applications": 20,
+   "offers": 15,
+   "acceptances": 13,
+   "offerRate": 0.75,
+   "yield": 0.8667
+  },
+  "oxford: Paediatrics": {
+   "applications": 39,
+   "offers": 27,
+   "acceptances": 23,
+   "offerRate": 0.6923,
+   "yield": 0.8519
+  },
+  "oxford: Pharmacology": {
+   "applications": 270,
+   "offers": 75,
+   "acceptances": 45,
+   "offerRate": 0.2778,
+   "yield": 0.6
+  },
+  "oxford: Population Health": {
+   "applications": 1137,
+   "offers": 111,
+   "acceptances": 93,
+   "offerRate": 0.0976,
+   "yield": 0.8378
+  },
+  "oxford: Primary Care": {
+   "applications": 414,
+   "offers": 151,
+   "acceptances": 102,
+   "offerRate": 0.3647,
+   "yield": 0.6755
+  },
+  "oxford: Psychiatry": {
+   "applications": 306,
+   "offers": 58,
+   "acceptances": 39,
+   "offerRate": 0.1895,
+   "yield": 0.6724
+  },
+  "oxford: Surgical Sciences": {
+   "applications": 286,
+   "offers": 82,
+   "acceptances": 45,
+   "offerRate": 0.2867,
+   "yield": 0.5488
+  },
+  "oxford: Women's and Reproductive Health": {
+   "applications": 165,
+   "offers": 76,
+   "acceptances": 46,
+   "offerRate": 0.4606,
+   "yield": 0.6053
+  },
+  "oxford: Oxford Lifelong Learning": {
+   "applications": 3147,
+   "offers": 1305,
+   "acceptances": 946,
+   "offerRate": 0.4147,
+   "yield": 0.7249
+  },
+  "cambridge: Arts and Humanities": {
+   "applications": 5251,
+   "offers": 2099,
+   "acceptances": 1334,
+   "offerRate": 0.3997,
+   "yield": 0.6355
+  },
+  "cambridge: Clinical Medicine": {
+   "applications": 2540,
+   "offers": 607,
+   "acceptances": 409,
+   "offerRate": 0.239,
+   "yield": 0.6738
+  },
+  "cambridge: Technology": {
+   "applications": 13276,
+   "offers": 3766,
+   "acceptances": 2153,
+   "offerRate": 0.2837,
+   "yield": 0.5717
+  },
+  "cambridge: Biological Sciences": {
+   "applications": 2059,
+   "offers": 476,
+   "acceptances": 316,
+   "offerRate": 0.2312,
+   "yield": 0.6639
+  },
+  "cambridge: Humanities and Social Sciences": {
+   "applications": 20268,
+   "offers": 6321,
+   "acceptances": 3474,
+   "offerRate": 0.3119,
+   "yield": 0.5496
+  },
+  "cambridge: Physical Sciences": {
+   "applications": 5921,
+   "offers": 1615,
+   "acceptances": 879,
+   "offerRate": 0.2728,
+   "yield": 0.5443
+  },
+  "cambridge: Humanities and Social Sciences (doctoral)": {
+   "applications": 2105,
+   "offers": 546,
+   "acceptances": 253,
+   "offerRate": 0.2594,
+   "yield": 0.4634
+  }
+ },
+ "programmes": {
+  "university-of-oxford-msc-in-law-and-finance": {
+   "university": "oxford",
+   "unit": "Law",
+   "offerRate": 0.2455,
+   "yield": 0.7262,
+   "applications": 4240,
+   "offers": 1041,
+   "acceptances": 756
+  },
+  "university-of-oxford-mst-in-film-aesthetics": {
+   "university": "oxford",
+   "unit": "Medieval and Modern Languages",
+   "offerRate": 0.7125,
+   "yield": 0.655,
+   "applications": 240,
+   "offers": 171,
+   "acceptances": 112
+  },
+  "university-of-oxford-msc-in-teacher-education": {
+   "university": "oxford",
+   "unit": "Education",
+   "offerRate": 0.3167,
+   "yield": 0.6773,
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806
+  },
+  "university-of-oxford-msc-in-autonomous-robotics": {
+   "university": "oxford",
+   "unit": "Engineering Science",
+   "offerRate": 0.1731,
+   "yield": 0.7778,
+   "applications": 572,
+   "offers": 99,
+   "acceptances": 77
+  },
+  "university-of-oxford-msc-in-social-data-science": {
+   "university": "oxford",
+   "unit": "Oxford Internet Institute",
+   "offerRate": 0.144,
+   "yield": 0.7005,
+   "applications": 1507,
+   "offers": 217,
+   "acceptances": 152
+  },
+  "university-of-oxford-msc-in-software-engineering": {
+   "university": "oxford",
+   "unit": "Computer Science",
+   "offerRate": 0.1924,
+   "yield": 0.7022,
+   "applications": 2147,
+   "offers": 413,
+   "acceptances": 290
+  },
+  "university-of-oxford-msc-in-economics-for-development": {
+   "university": "oxford",
+   "unit": "International Development",
+   "offerRate": 0.1992,
+   "yield": 0.5386,
+   "applications": 2601,
+   "offers": 518,
+   "acceptances": 279
+  },
+  "university-of-oxford-msc-in-intellectual-property": {
+   "university": "oxford",
+   "unit": "Law",
+   "offerRate": 0.2455,
+   "yield": 0.7262,
+   "applications": 4240,
+   "offers": 1041,
+   "acceptances": 756
+  },
+  "university-of-oxford-msc-in-learning-and-teaching": {
+   "university": "oxford",
+   "unit": "Education",
+   "offerRate": 0.3167,
+   "yield": 0.6773,
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806
+  },
+  "university-of-oxford-mph-in-public-health-research": {
+   "university": "oxford",
+   "unit": "Population Health",
+   "offerRate": 0.0976,
+   "yield": 0.8378,
+   "applications": 1137,
+   "offers": 111,
+   "acceptances": 93
+  },
+  "university-of-oxford-msc-in-applied-digital-health": {
+   "university": "oxford",
+   "unit": "Primary Care",
+   "offerRate": 0.3647,
+   "yield": 0.6755,
+   "applications": 414,
+   "offers": 151,
+   "acceptances": 102
+  },
+  "university-of-oxford-msc-in-educational-assessment": {
+   "university": "oxford",
+   "unit": "Education",
+   "offerRate": 0.3167,
+   "yield": 0.6773,
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806
+  },
+  "university-of-oxford-msc-in-advanced-computer-science": {
+   "university": "oxford",
+   "unit": "Computer Science",
+   "offerRate": 0.1924,
+   "yield": 0.7022,
+   "applications": 2147,
+   "offers": 413,
+   "acceptances": 290
+  },
+  "university-of-oxford-msc-in-education-higher-education": {
+   "university": "oxford",
+   "unit": "Education",
+   "offerRate": 0.3167,
+   "yield": 0.6773,
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806
+  },
+  "university-of-oxford-msc-in-evidence-based-health-care": {
+   "university": "oxford",
+   "unit": "Primary Care",
+   "offerRate": 0.3647,
+   "yield": 0.6755,
+   "applications": 414,
+   "offers": 151,
+   "acceptances": 102
+  },
+  "university-of-oxford-msc-in-modelling-for-global-health": {
+   "university": "oxford",
+   "unit": "Population Health",
+   "offerRate": 0.0976,
+   "yield": 0.8378,
+   "applications": 1137,
+   "offers": 111,
+   "acceptances": 93
+  },
+  "university-of-oxford-said-business-school": {
+   "university": "oxford",
+   "unit": "Saïd Business School",
+   "offerRate": 0.4482,
+   "yield": 0.5947,
+   "applications": 6986,
+   "offers": 3131,
+   "acceptances": 1862
+  },
+  "university-of-oxford-msc-in-software-and-systems-security": {
+   "university": "oxford",
+   "unit": "Computer Science",
+   "offerRate": 0.1924,
+   "yield": 0.7022,
+   "applications": 2147,
+   "offers": 413,
+   "acceptances": 290
+  },
+  "university-of-oxford-msc-in-translational-health-sciences": {
+   "university": "oxford",
+   "unit": "Primary Care",
+   "offerRate": 0.3647,
+   "yield": 0.6755,
+   "applications": 414,
+   "offers": 151,
+   "acceptances": 102
+  },
+  "university-of-oxford-msc-in-international-human-rights-law": {
+   "university": "oxford",
+   "unit": "Oxford Lifelong Learning",
+   "offerRate": 0.4147,
+   "yield": 0.7249,
+   "applications": 3147,
+   "offers": 1305,
+   "acceptances": 946
+  },
+  "university-of-oxford-msc-in-criminology-and-criminal-justice": {
+   "university": "oxford",
+   "unit": "Law",
+   "offerRate": 0.2455,
+   "yield": 0.7262,
+   "applications": 4240,
+   "offers": 1041,
+   "acceptances": 756
+  },
+  "university-of-oxford-msc-in-education-digital-and-social-change": {
+   "university": "oxford",
+   "unit": "Education",
+   "offerRate": 0.3167,
+   "yield": 0.6773,
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806
+  },
+  "university-of-oxford-msc-in-artificial-intelligence-for-business": {
+   "university": "oxford",
+   "unit": "Saïd Business School",
+   "offerRate": 0.4482,
+   "yield": 0.5947,
+   "applications": 6986,
+   "offers": 3131,
+   "acceptances": 1862
+  },
+  "university-of-oxford-msc-in-cognitive-behavioural-therapy-clinical": {
+   "university": "oxford",
+   "unit": "Psychiatry",
+   "offerRate": 0.1895,
+   "yield": 0.6724,
+   "applications": 306,
+   "offers": 58,
+   "acceptances": 39
+  },
+  "university-of-oxford-msc-in-global-health-science-and-epidemiology": {
+   "university": "oxford",
+   "unit": "Population Health",
+   "offerRate": 0.0976,
+   "yield": 0.8378,
+   "applications": 1137,
+   "offers": 111,
+   "acceptances": 93
+  },
+  "university-of-oxford-msc-in-mathematical-and-computational-finance": {
+   "university": "oxford",
+   "unit": "Mathematical Institute",
+   "offerRate": 0.2632,
+   "yield": 0.4632,
+   "applications": 3667,
+   "offers": 965,
+   "acceptances": 447
+  },
+  "university-of-oxford-msc-in-applied-linguistics-for-language-teaching": {
+   "university": "oxford",
+   "unit": "Education",
+   "offerRate": 0.3167,
+   "yield": 0.6773,
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806
+  },
+  "university-of-oxford-msc-in-education-child-development-and-education": {
+   "university": "oxford",
+   "unit": "Education",
+   "offerRate": 0.3167,
+   "yield": 0.6773,
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806
+  },
+  "university-of-oxford-msc-in-education-research-design-and-methodology": {
+   "university": "oxford",
+   "unit": "Education",
+   "offerRate": 0.3167,
+   "yield": 0.6773,
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806
+  },
+  "university-of-oxford-msc-in-health-service-improvement-and-evaluation": {
+   "university": "oxford",
+   "unit": "Population Health",
+   "offerRate": 0.0976,
+   "yield": 0.8378,
+   "applications": 1137,
+   "offers": 111,
+   "acceptances": 93
+  },
+  "university-of-oxford-msc-in-law-governance-and-artificial-intelligence": {
+   "university": "oxford",
+   "unit": "Law",
+   "offerRate": 0.2455,
+   "yield": 0.7262,
+   "applications": 4240,
+   "offers": 1041,
+   "acceptances": 756
+  },
+  "university-of-oxford-msc-in-education-comparative-and-international-education": {
+   "university": "oxford",
+   "unit": "Education",
+   "offerRate": 0.3167,
+   "yield": 0.6773,
+   "applications": 3758,
+   "offers": 1190,
+   "acceptances": 806
+  },
+  "university-of-oxford-msc-in-evidence-based-health-care-medical-statistics": {
+   "university": "oxford",
+   "unit": "Primary Care",
+   "offerRate": 0.3647,
+   "yield": 0.6755,
+   "applications": 414,
+   "offers": 151,
+   "acceptances": 102
+  },
+  "university-of-oxford-msc-in-mathematical-modelling-and-scientific-computing": {
+   "university": "oxford",
+   "unit": "Mathematical Institute",
+   "offerRate": 0.2632,
+   "yield": 0.4632,
+   "applications": 3667,
+   "offers": 965,
+   "acceptances": 447
+  },
+  "university-of-oxford-msc-in-mathematics-and-foundations-of-computer-science": {
+   "university": "oxford",
+   "unit": "Mathematical Institute",
+   "offerRate": 0.2632,
+   "yield": 0.4632,
+   "applications": 3667,
+   "offers": 965,
+   "acceptances": 447
+  },
+  "university-of-cambridge-master-of-law-llm": {
+   "university": "cambridge",
+   "unit": "Humanities and Social Sciences",
+   "offerRate": 0.3119,
+   "yield": 0.5496,
+   "applications": 20268,
+   "offers": 6321,
+   "acceptances": 3474
+  },
+  "university-of-cambridge-master-of-business-administration-mba": {
+   "university": "cambridge",
+   "unit": "Technology",
+   "offerRate": 0.2837,
+   "yield": 0.5717,
+   "applications": 13276,
+   "offers": 3766,
+   "acceptances": 2153
+  },
+  "university-of-cambridge-master-of-education-med": {
+   "university": "cambridge",
+   "unit": "Humanities and Social Sciences",
+   "offerRate": 0.3119,
+   "yield": 0.5496,
+   "applications": 20268,
+   "offers": 6321,
+   "acceptances": 3474
+  },
+  "university-of-cambridge-the-cambridge-mba": {
+   "university": "cambridge",
+   "unit": "Technology",
+   "offerRate": 0.2837,
+   "yield": 0.5717,
+   "applications": 13276,
+   "offers": 3766,
+   "acceptances": 2153
+  },
+  "university-of-cambridge-mlitt-in-law": {
+   "university": "cambridge",
+   "unit": "Humanities and Social Sciences",
+   "offerRate": 0.3119,
+   "yield": 0.5496,
+   "applications": 20268,
+   "offers": 6321,
+   "acceptances": 3474
+  },
+  "university-of-cambridge-phd-in-law": {
+   "university": "cambridge",
+   "unit": "Humanities and Social Sciences (doctoral)",
+   "offerRate": 0.2594,
+   "yield": 0.4634,
+   "applications": 2105,
+   "offers": 546,
+   "acceptances": 253
+  },
+  "university-of-cambridge-master-of-accounting-macc": {
+   "university": "cambridge",
+   "unit": "Technology",
+   "offerRate": 0.2837,
+   "yield": 0.5717,
+   "applications": 13276,
+   "offers": 3766,
+   "acceptances": 2153
+  },
+  "university-of-cambridge-master-of-finance-mfin": {
+   "university": "cambridge",
+   "unit": "Technology",
+   "offerRate": 0.2837,
+   "yield": 0.5717,
+   "applications": 13276,
+   "offers": 3766,
+   "acceptances": 2153
+  }
+ }
+}

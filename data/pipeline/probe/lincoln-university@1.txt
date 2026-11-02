@@ -1,0 +1,40 @@
+# lincoln-university@1 https://www.lincoln.ac.nz
+robots sitemaps: https://www.lincoln.ac.nz/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.lincoln.ac.nz/sitemap.xml: 3 children (0 course-like)
+sitemaps read 4 · urls 1903 · master's-looking 124
+   57  www.lincoln.ac.nz/study/study-programmes/programme-search
+         https://www.lincoln.ac.nz/study/study-programmes/programme-search/doctor-of-philosophy-phd/available-masters-and-phd-supervisors/
+         https://www.lincoln.ac.nz/study/study-programmes/programme-search/graduate-certificate-in-applied-science/
+         https://www.lincoln.ac.nz/study/study-programmes/programme-search/graduate-certificate-in-business-and-sustainability/
+         https://www.lincoln.ac.nz/study/study-programmes/programme-search/graduate-certificate-in-commerce/
+   30  www.lincoln.ac.nz/study/scholarships/search-scholarships
+         https://www.lincoln.ac.nz/study/scholarships/search-scholarships/central-plateau-vet-society-inc-undergraduate-scholarship/
+         https://www.lincoln.ac.nz/study/scholarships/search-scholarships/c-alma-baker-trust-postgraduate-scholarship/
+         https://www.lincoln.ac.nz/study/scholarships/search-scholarships/branz-postgraduate-scholarships/
+         https://www.lincoln.ac.nz/study/scholarships/search-scholarships/bragato-undergraduate-award/
+   25  www.lincoln.ac.nz/news-and-events
+         https://www.lincoln.ac.nz/news-and-events/lincoln-graduate-helping-farmers-to-navigate-significant-change/
+         https://www.lincoln.ac.nz/news-and-events/landscape-architecture-graduate-on-a-mission-to-support-kaupapa-maori/
+         https://www.lincoln.ac.nz/news-and-events/congratulations-to-our-graduates/
+         https://www.lincoln.ac.nz/news-and-events/recent-graduate-an-inspiration-to-working-parents/
+    3  www.lincoln.ac.nz/study/study-programmes/postgraduate-study
+         https://www.lincoln.ac.nz/study/study-programmes/postgraduate-study/types-of-postgrad-study/
+         https://www.lincoln.ac.nz/study/study-programmes/postgraduate-study/make-postgraduate-study-work/
+         https://www.lincoln.ac.nz/study/study-programmes/postgraduate-study/industry-project-host-information/
+    2  www.lincoln.ac.nz/study/scholarships/find-a-funded-postgraduate-research-project
+         https://www.lincoln.ac.nz/study/scholarships/find-a-funded-postgraduate-research-project/research-opportunity-pacific-food-production-systems/
+         https://www.lincoln.ac.nz/study/scholarships/find-a-funded-postgraduate-research-project/meadow-mushrooms-masters-scholarship-at-the-waterways-centre/
+    1  www.lincoln.ac.nz/study/study-programmes
+         https://www.lincoln.ac.nz/study/study-programmes/postgraduate-study/
+    1  www.lincoln.ac.nz/life-at-lincoln/graduation
+         https://www.lincoln.ac.nz/life-at-lincoln/graduation/applying-to-graduate/
+    1  www.lincoln.ac.nz/study/scholarships
+         https://www.lincoln.ac.nz/study/scholarships/find-a-funded-postgraduate-research-project/
+    1  www.lincoln.ac.nz/life-at-lincoln/international-students/our-programmes
+         https://www.lincoln.ac.nz/life-at-lincoln/international-students/our-programmes/postgraduate-study/
+    1  www.lincoln.ac.nz/study/apply-and-enrol/apply
+         https://www.lincoln.ac.nz/study/apply-and-enrol/apply/international-undergraduate-entry-criteria/
+    1  www.lincoln.ac.nz/study
+         https://www.lincoln.ac.nz/study/graduate-profile/
+    1  www.lincoln.ac.nz/study/courses-2/course-search
+         https://www.lincoln.ac.nz/study/courses-2/course-search/academic-communication-for-undergraduates/

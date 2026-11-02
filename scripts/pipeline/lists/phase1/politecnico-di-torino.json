@@ -1,0 +1,12 @@
+{
+ "source": "PoliTo master's degree programme list https://www.polito.it/en/education/master-s-degree-programmes, kept programmes with Language: English (or Italian/English with a full English track) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.polito.it/en/education/master-s-degree-programmes/computer-engineering",
+  "https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity-engineering",
+  "https://www.polito.it/en/education/master-s-degree-programmes/data-science-and-engineering",
+  "https://www.polito.it/en/education/master-s-degree-programmes/digital-skills-for-sustainable-societal-transitions",
+  "https://www.polito.it/en/education/master-s-degree-programmes/engineering-and-management",
+  "https://www.polito.it/en/education/master-s-degree-programmes/ict-engineering-for-smart-societies"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "shu",
+  "status": "read",
+  "university": "上海大学",
+  "universityEn": "Shanghai University",
+  "tier": "211",
+  "url": "https://xxgk.shu.edu.cn/info/1115/10781.htm",
+  "title": null,
+  "year": 2021,
+  "cohort": "2021届",
+  "pages": 1,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": null,
+      "count": 644,
+      "pct": null,
+      "quote": "境内外深造人数共计 1952 人，其中境内升学 1308 人，境外深造 644 人，总体深造率 22 . 40 %"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

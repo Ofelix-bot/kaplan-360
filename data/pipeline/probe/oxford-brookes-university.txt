@@ -1,0 +1,71 @@
+# oxford-brookes-university https://www.brookes.ac.uk
+robots sitemaps: https://www.brookes.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.brookes.ac.uk/sitemap.xml: 6 children (1 course-like)
+sitemap https://www.brookes.ac.uk/sitemap/opendays: http HTTP 404
+sitemaps read 7 · urls 3784 · master's-looking 414
+  235  www.brookes.ac.uk/courses/undergraduate
+         https://www.brookes.ac.uk/courses/undergraduate/accounting-and-economics
+         https://www.brookes.ac.uk/courses/undergraduate/accounting-and-finance
+         https://www.brookes.ac.uk/courses/undergraduate/architecture
+         https://www.brookes.ac.uk/courses/undergraduate/foundation-diploma-art-design
+   85  www.brookes.ac.uk/courses/postgraduate
+         https://www.brookes.ac.uk/courses/postgraduate/conservation-ecology
+         https://www.brookes.ac.uk/courses/postgraduate/medical-genetics-and-genomics
+         https://www.brookes.ac.uk/courses/postgraduate/global-public-health-leadership
+         https://www.brookes.ac.uk/courses/postgraduate/psychology-msc
+   55  www.brookes.ac.uk/students/research-degrees-team/current-students
+         https://www.brookes.ac.uk/students/research-degrees-team/current-students/graduate-college/training/2024/research-degrees-strategies-for-successful-part-ti
+         https://www.brookes.ac.uk/students/research-degrees-team/current-students/graduate-college/training/2024/what-can-open-research-do-for-you
+         https://www.brookes.ac.uk/students/research-degrees-team/current-students/graduate-college/training/2024/strategies-for-successful-networking
+         https://www.brookes.ac.uk/students/research-degrees-team/current-students/graduate-college/training/2024/three-minute-thesis-workshop
+    8  www.brookes.ac.uk/open-days/pg-webinars/2027
+         https://www.brookes.ac.uk/open-days/pg-webinars/2027/mastering-operational-excellence-an-inside-loo-1
+         https://www.brookes.ac.uk/open-days/pg-webinars/2027/discover-msc-spatial-planning-at-oxford-brookes-un
+         https://www.brookes.ac.uk/open-days/pg-webinars/2027/unlock-your-potential-discover-our-business-ma-1
+         https://www.brookes.ac.uk/open-days/pg-webinars/2027/msc-project-management-live-webinar-and-course-inf
+    5  www.brookes.ac.uk/open-days/ug-oxford/2026
+         https://www.brookes.ac.uk/open-days/ug-oxford/2026/undergraduate-open-day-14-nov
+         https://www.brookes.ac.uk/open-days/ug-oxford/2026/undergraduate-open-day-24-oct
+         https://www.brookes.ac.uk/open-days/ug-oxford/2026/undergraduate-open-day-10-oct
+         https://www.brookes.ac.uk/open-days/ug-oxford/2026/undergraduate-open-day-20-june
+    4  www.brookes.ac.uk/courses/pathways
+         https://www.brookes.ac.uk/courses/pathways/pre-masters-cert-english-language-study-skills
+         https://www.brookes.ac.uk/courses/pathways/pre-masters-cert-study-skills
+         https://www.brookes.ac.uk/courses/pathways/pre-masters-diploma-english-language-study-skills
+         https://www.brookes.ac.uk/courses/pathways/two-year-masters
+    3  www.brookes.ac.uk/courses/cpd
+         https://www.brookes.ac.uk/courses/cpd/mastering-professional-practice
+         https://www.brookes.ac.uk/courses/cpd/postgraduate-dissertation
+         https://www.brookes.ac.uk/courses/cpd/sact-postgraduate
+    3  www.brookes.ac.uk/students/think-space/motivation-and-wellbeing-events
+         https://www.brookes.ac.uk/students/think-space/motivation-and-wellbeing-events/postgraduate-peer-lunch-and-support-3-1
+         https://www.brookes.ac.uk/students/think-space/motivation-and-wellbeing-events/postgraduate-peer-lunch-and-support-2-1
+         https://www.brookes.ac.uk/students/think-space/motivation-and-wellbeing-events/postgraduate-peer-lunch-and-support-1-1
+    2  www.brookes.ac.uk/students/news/2025
+         https://www.brookes.ac.uk/students/news/2025/08/meet-our-honorary-graduates
+         https://www.brookes.ac.uk/students/news/2025/01/apply-for-a-double-honours-degree-with-business-ma
+    2  www.brookes.ac.uk/open-days/pg-webinars/2026
+         https://www.brookes.ac.uk/open-days/pg-webinars/2026/ma-journalism-programme-information-session
+         https://www.brookes.ac.uk/open-days/pg-webinars/2026/ma-publishing-live-webinar-and-course-informat-1
+    2  www.brookes.ac.uk/about-brookes/events/2025
+         https://www.brookes.ac.uk/about-brookes/events/2025/04/graduate-college-annual-research-student-exhibitio
+         https://www.brookes.ac.uk/about-brookes/events/2025/03/cherwell-collective-make-your-own-reusable-pads-ma
+    2  www.brookes.ac.uk/about-brookes/events/2024
+         https://www.brookes.ac.uk/about-brookes/events/2024/05/ba-ma-architecture-show
+         https://www.brookes.ac.uk/about-brookes/events/2024/05/ba-ma-urban-design-show
+    1  ssrc.ac.ir/en/page/56
+         https://ssrc.ac.ir/en/page/56/research-post-graduate-affairs-division
+    1  www.brookes.ac.uk/about-brookes/news/news-from-2026
+         https://www.brookes.ac.uk/about-brookes/news/news-from-2026/09/introducing-year-s-new-honorary-graduates
+    1  www.brookes.ac.uk/students/news/news-from-2026
+         https://www.brookes.ac.uk/students/news/news-from-2026/09/introducing-this-year-s-honorary-graduates
+    1  www.brookes.ac.uk/open-days/pg-webinars
+         https://www.brookes.ac.uk/open-days/pg-webinars/msc-pgd-real-estate-investment-finance-1
+    1  www.brookes.ac.uk/students/think-space/employability-and-communication-skills-events
+         https://www.brookes.ac.uk/students/think-space/employability-and-communication-skills-events/thinking-about-postgraduate-study-9-november
+    1  www.brookes.ac.uk/about-brookes/events/2026
+         https://www.brookes.ac.uk/about-brookes/events/2026/06/ma-professional-photography-show
+    1  no.studyacrossthepond.com/oppdag-masterstudier-i-storbritannia
+         https://no.studyacrossthepond.com/oppdag-masterstudier-i-storbritannia/oslo
+    1  www.britishcouncil.it/en/events
+         https://www.britishcouncil.it/en/events/postgraduate-uk-university-event

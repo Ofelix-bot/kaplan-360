@@ -1,0 +1,17 @@
+{
+  "source": "SGSPA Programs and Degrees https://www.queensu.ca/grad-postdoc/grad-studies/programs-degrees, followed to each faculty's programme page (Smith, SPS, PHS, Education, Nursing); online-only left out (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://smith.queensu.ca/grad_studies/mma/index.php",
+    "https://smith.queensu.ca/grad_studies/mmai/index.php",
+    "https://smith.queensu.ca/grad_studies/mib/index.php",
+    "https://smith.queensu.ca/mba_programs/mba/index.php",
+    "https://smith.queensu.ca/mba_programs/amba/index.php",
+    "https://www.queensu.ca/sps/graduate-program/mpa",
+    "https://phs.queensu.ca/programs-courses/degree-programs/master-public-health",
+    "https://smith.queensu.ca/grad_studies/mfin/index.php",
+    "https://educ.queensu.ca/graduate/on-campus/masters",
+    "https://nursing.queensu.ca/graduate/master-nursing-science",
+    "https://nursing.queensu.ca/graduate/master-nursing-mnphcnp"
+  ]
+}

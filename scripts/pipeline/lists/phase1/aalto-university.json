@@ -1,0 +1,33 @@
+{
+ "source": "Sitemap https://www.aalto.fi/sitemap.xml (/en/study-options/* master's admission pages), each stating 'Language of instruction: English' (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.aalto.fi/en/study-options/accounting-master-of-science-economics-and-business-administration",
+  "https://www.aalto.fi/en/study-options/business-analytics-master-of-science-economics-and-business-administration",
+  "https://www.aalto.fi/en/study-options/computer-science-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/cybersecurity-and-assurance-cybersure-erasmus-mundus-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/finance-master-of-science-economics-and-business-administration",
+  "https://www.aalto.fi/en/study-options/game-design-and-development-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/game-design-and-development-master-of-arts-art-and-design",
+  "https://www.aalto.fi/en/study-options/human-computer-interaction-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/human-computer-interaction-and-design-ict-innovation-eit-digital-master-school-master-of-science",
+  "https://www.aalto.fi/en/study-options/industrial-engineering-and-management-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/information-and-service-management-master-of-science-economics-and-business-administration",
+  "https://www.aalto.fi/en/study-options/information-networks-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/international-design-business-management-master-of-arts-art-and-design",
+  "https://www.aalto.fi/en/study-options/international-design-business-management-master-of-science-economics-and-business-administration",
+  "https://www.aalto.fi/en/study-options/international-design-business-management-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/international-design-business-management-master-of-science-technology-school-of-science",
+  "https://www.aalto.fi/en/study-options/machine-learning-data-science-and-artificial-intelligence-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/marketing-master-of-science-economics-and-business-administration",
+  "https://www.aalto.fi/en/study-options/people-management-and-organizational-development-master-of-science-economics-and-business",
+  "https://www.aalto.fi/en/study-options/real-estate-economics-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/urban-studies-and-planning-in-real-estate-economics-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/software-engineering-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/strategic-management-in-a-changing-world-master-of-science-economics-and-business-administration",
+  "https://www.aalto.fi/en/study-options/sustainable-entrepreneurship-master-of-science-economics-and-business-administration",
+  "https://www.aalto.fi/en/study-options/signal-processing-and-data-science-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/communications-and-data-science-master-of-science-technology",
+  "https://www.aalto.fi/en/study-options/new-media-master-of-arts-art-and-design"
+ ]
+}

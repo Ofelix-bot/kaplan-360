@@ -1,0 +1,128 @@
+# university-of-leicester https://le.ac.uk
+robots sitemaps: https://le.ac.uk/website.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 5909 · master's-looking 529
+   32  le.ac.uk/study/postgraduates/fees-funding
+         https://le.ac.uk/study/postgraduates/fees-funding/how-to-pay
+         https://le.ac.uk/study/postgraduates/fees-funding/postgraduate-loans
+         https://le.ac.uk/study/postgraduates/fees-funding/eu-guaranteed-loans
+         https://le.ac.uk/study/postgraduates/fees-funding/scholarships-discounts
+   26  le.ac.uk/study/undergraduates/scholarships-bursaries-discounts
+         https://le.ac.uk/study/undergraduates/scholarships-bursaries-discounts/international-citizens-of-change-scholarship
+         https://le.ac.uk/study/undergraduates/scholarships-bursaries-discounts/international-full-fee-waiver
+         https://le.ac.uk/study/undergraduates/scholarships-bursaries-discounts/care-leavers-bursary
+         https://le.ac.uk/study/undergraduates/scholarships-bursaries-discounts/chancellor
+   21  le.ac.uk/law/study/undergraduate
+         https://le.ac.uk/law/study/undergraduate/international
+         https://le.ac.uk/law/study/undergraduate/scholarships
+         https://le.ac.uk/law/study/undergraduate/societies
+         https://le.ac.uk/law/study/undergraduate/offer-holder-info
+   19  le.ac.uk/study/undergraduates
+         https://le.ac.uk/study/undergraduates/accommodation
+         https://le.ac.uk/study/undergraduates/careers
+         https://le.ac.uk/study/undergraduates/fees-funding
+         https://le.ac.uk/study/undergraduates/how-to-apply
+   18  le.ac.uk/study/undergraduates/accommodation
+         https://le.ac.uk/study/undergraduates/accommodation/travel
+         https://le.ac.uk/study/undergraduates/accommodation/oadby
+         https://le.ac.uk/study/undergraduates/accommodation/city-living
+         https://le.ac.uk/study/undergraduates/accommodation/room-types
+   15  le.ac.uk/archaeology/study/undergraduate
+         https://le.ac.uk/archaeology/study/undergraduate/facilities
+         https://le.ac.uk/archaeology/study/undergraduate/suggested-reading
+         https://le.ac.uk/archaeology/study/undergraduate/fieldwork
+         https://le.ac.uk/archaeology/study/undergraduate/careers
+   15  le.ac.uk/museum-studies/study/graduate-profiles
+         https://le.ac.uk/museum-studies/study/graduate-profiles/yu-chun-kao
+         https://le.ac.uk/museum-studies/study/graduate-profiles/dr-hesperia-lliadou-suppiej
+         https://le.ac.uk/museum-studies/study/graduate-profiles/emily-tilley
+         https://le.ac.uk/museum-studies/study/graduate-profiles/catherine-sargent
+   12  le.ac.uk/study/undergraduates/courses
+         https://le.ac.uk/study/undergraduates/courses/27-28
+         https://le.ac.uk/study/undergraduates/courses/26-27
+         https://le.ac.uk/study/undergraduates/courses/25-26
+         https://le.ac.uk/study/undergraduates/courses/24-25
+   12  le.ac.uk/study/postgraduates/accommodation
+         https://le.ac.uk/study/postgraduates/accommodation/fees
+         https://le.ac.uk/study/postgraduates/accommodation/how-to-apply
+         https://le.ac.uk/study/postgraduates/accommodation/renting-privately
+         https://le.ac.uk/study/postgraduates/accommodation/life-in-halls
+   10  le.ac.uk/study/postgraduates
+         https://le.ac.uk/study/postgraduates/events
+         https://le.ac.uk/study/postgraduates/accommodation
+         https://le.ac.uk/study/postgraduates/careers
+         https://le.ac.uk/study/postgraduates/fees-funding
+   10  le.ac.uk/study/postgraduates/courses
+         https://le.ac.uk/study/postgraduates/courses/27-28
+         https://le.ac.uk/study/postgraduates/courses/26-27
+         https://le.ac.uk/study/postgraduates/courses/25-26
+         https://le.ac.uk/study/postgraduates/courses/24-25
+    9  le.ac.uk/career-development-service/access-graduate-opportunities/sector-resources
+         https://le.ac.uk/career-development-service/access-graduate-opportunities/sector-resources/business-management
+         https://le.ac.uk/career-development-service/access-graduate-opportunities/sector-resources/charities
+         https://le.ac.uk/career-development-service/access-graduate-opportunities/sector-resources/creative
+         https://le.ac.uk/career-development-service/access-graduate-opportunities/sector-resources/digital
+    8  le.ac.uk/study/undergraduates/fees-funding
+         https://le.ac.uk/study/undergraduates/fees-funding/tuition-fees
+         https://le.ac.uk/study/undergraduates/fees-funding/paying-your-fees
+         https://le.ac.uk/study/undergraduates/fees-funding/tuition-maintenance-loans
+         https://le.ac.uk/study/undergraduates/fees-funding/budgeting
+    7  le.ac.uk/study/undergraduates/careers
+         https://le.ac.uk/study/undergraduates/careers/career-development-service
+         https://le.ac.uk/study/undergraduates/careers/festival-of-careers
+         https://le.ac.uk/study/undergraduates/careers/unitemps
+         https://le.ac.uk/study/undergraduates/careers/volunteering
+    7  le.ac.uk/study/undergraduates/how-to-apply
+         https://le.ac.uk/study/undergraduates/how-to-apply/applications
+         https://le.ac.uk/study/undergraduates/how-to-apply/your-offer
+         https://le.ac.uk/study/undergraduates/how-to-apply/accepting-your-offer
+         https://le.ac.uk/study/undergraduates/how-to-apply/after-applying
+    7  le.ac.uk/study/undergraduates/mature-students
+         https://le.ac.uk/study/undergraduates/mature-students/supporting-you
+         https://le.ac.uk/study/undergraduates/mature-students/facilities
+         https://le.ac.uk/study/undergraduates/mature-students/accommodation
+         https://le.ac.uk/study/undergraduates/mature-students/funding-and-finances
+    7  le.ac.uk/school-of-business/study/undergraduate
+         https://le.ac.uk/school-of-business/study/undergraduate/facilities
+         https://le.ac.uk/school-of-business/study/undergraduate/year-abroad
+         https://le.ac.uk/school-of-business/study/undergraduate/year-in-industry
+         https://le.ac.uk/school-of-business/study/undergraduate/careers-employability
+    7  le.ac.uk/english-local-history/study/postgraduate
+         https://le.ac.uk/english-local-history/study/postgraduate/dissertations-and-theses
+         https://le.ac.uk/english-local-history/study/postgraduate/dissertations-and-theses/dissertations
+         https://le.ac.uk/english-local-history/study/postgraduate/dissertations-and-theses/older-dissertations
+         https://le.ac.uk/english-local-history/study/postgraduate/dissertations-and-theses/phd-theses
+    6  le.ac.uk/history/study/undergraduate
+         https://le.ac.uk/history/study/undergraduate/introductory-reading
+         https://le.ac.uk/history/study/undergraduate/facilities
+         https://le.ac.uk/history/study/undergraduate/year-abroad
+         https://le.ac.uk/history/study/undergraduate/student-work
+    5  le.ac.uk/study/undergraduates/offer-holders
+         https://le.ac.uk/study/undergraduates/offer-holders/attending
+         https://le.ac.uk/study/undergraduates/offer-holders/book
+         https://le.ac.uk/study/undergraduates/offer-holders/travel-discount
+         https://le.ac.uk/study/undergraduates/offer-holders/marketing
+    5  le.ac.uk/study/postgraduates/great-minds
+         https://le.ac.uk/study/postgraduates/great-minds/andrea-cooper
+         https://le.ac.uk/study/postgraduates/great-minds/dan-ladley
+         https://le.ac.uk/study/postgraduates/great-minds/isobel-whitelegg
+         https://le.ac.uk/study/postgraduates/great-minds/leena-sodha
+    5  le.ac.uk/school-of-business/alumni-newsletter
+         https://le.ac.uk/school-of-business/alumni-newsletter/mba-edition-five-december-2023
+         https://le.ac.uk/school-of-business/alumni-newsletter/mba-edition-four-march-2023
+         https://le.ac.uk/school-of-business/alumni-newsletter/mba-edition-one-winter-2021
+         https://le.ac.uk/school-of-business/alumni-newsletter/mba-edition-three-december-2022
+    5  le.ac.uk/law/study/careers
+         https://le.ac.uk/law/study/careers/graduate-profiles
+         https://le.ac.uk/law/study/careers/graduate-profiles/barrister
+         https://le.ac.uk/law/study/careers/graduate-profiles/solicitor
+         https://le.ac.uk/law/study/careers/graduate-profiles/outside-uk
+    4  le.ac.uk/study/undergraduates/teaching-learning
+         https://le.ac.uk/study/undergraduates/teaching-learning/learning-support
+         https://le.ac.uk/study/undergraduates/teaching-learning/library
+         https://le.ac.uk/study/undergraduates/teaching-learning/uni-vs-college
+         https://le.ac.uk/study/undergraduates/teaching-learning/glossary
+    4  le.ac.uk/policies/admissions/after-applying
+         https://le.ac.uk/policies/admissions/after-applying/undergraduates
+         https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer
+         https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual
+         https://le.ac.uk/policies/admissions/after-applying/ts-and-cs/ug-pgt

@@ -1,0 +1,26 @@
+{
+  "id": "upc",
+  "status": "read",
+  "university": "中国石油大学（华东）",
+  "universityEn": "China University of Petroleum (East China)",
+  "tier": "211",
+  "url": "https://xxgk.upc.edu.cn/_upload/article/files/b7/3a/eeb0a15444f59607a1d61504b0ba/211b4703-c797-4b74-8448-5b3d18a1413d.pdf",
+  "title": "中国石油大学（华东）2024-2025学年本科教学质量报告",
+  "year": 2025,
+  "cohort": "2024年",
+  "pages": 52,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": 176,
+      "pct": 7.97,
+      "quote": "其中出国（境）留学 176 人，占 7.97%"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

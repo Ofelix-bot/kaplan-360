@@ -1,0 +1,107 @@
+# university-of-brighton https://www.brighton.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 3422 · master's-looking 406
+   80  www.brighton.ac.uk/courses/study
+         https://www.brighton.ac.uk/courses/study/accounting-acca-msc-pgcert-pgdip.aspx
+         https://www.brighton.ac.uk/courses/study/advanced-clinical-practice-msc-pgdip.aspx
+         https://www.brighton.ac.uk/courses/study/advanced-clinical-practitioner-masters-degree-apprenticeship.aspx
+         https://www.brighton.ac.uk/courses/study/advanced-manufacturing-msc.aspx
+   64  www.brighton.ac.uk/about-us/news-and-events/news
+         https://www.brighton.ac.uk/about-us/news-and-events/news/2019/02-26-brighton-graduate-curates-student-exhibition.aspx
+         https://www.brighton.ac.uk/about-us/news-and-events/news/2019/02-20-brighton-graduate-hits-screens-in-sky-portrait-artist-of-the-year-award.aspx
+         https://www.brighton.ac.uk/about-us/news-and-events/news/2019/03-05-brighton-graduate-in-contention-for-top-photography-prize.aspx
+         https://www.brighton.ac.uk/about-us/news-and-events/news/2019/05-03-brighton-graduate-nominated-for-40000-turner-prize.aspx
+   50  www.brighton.ac.uk/studying-here/applying-to-brighton/undergraduate
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/undergraduate/index.aspx
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/undergraduate/the-application-timeline/
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/undergraduate/the-application-timeline/index.aspx
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/undergraduate/deciding-what-to-study/
+   38  www.brighton.ac.uk/research/postgraduate-research-degrees/programme-areas
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/programme-areas/built-environment-phd.aspx
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/programme-areas/arts-practices.aspx
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/programme-areas/biomedical-science.aspx
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/programme-areas/business-and-management.aspx
+   32  www.brighton.ac.uk/studying-here/fees-and-finance/postgraduate
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/postgraduate/index.aspx
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/postgraduate/uk-students/
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/postgraduate/uk-students/index.aspx
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/postgraduate/uk-students/bursaries/
+   27  www.brighton.ac.uk/studying-here/fees-and-finance/undergraduate
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/undergraduate/index.aspx
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/undergraduate/uk-students/
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/undergraduate/uk-students/scholarships/
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/undergraduate/uk-students/scholarships/index.aspx
+   23  www.brighton.ac.uk/studying-here/applying-to-brighton/postgraduate
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/postgraduate/january-starts/
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/postgraduate/january-starts/index.aspx
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/postgraduate/postgraduate-conversion-courses-career-change.aspx
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/postgraduate/index.aspx
+   12  www.brighton.ac.uk/careers/plan-your-career/postgraduate-study
+         https://www.brighton.ac.uk/careers/plan-your-career/postgraduate-study/further-study-week.aspx
+         https://www.brighton.ac.uk/careers/plan-your-career/postgraduate-study/study-outside-the-uk/
+         https://www.brighton.ac.uk/careers/plan-your-career/postgraduate-study/study-outside-the-uk/index.aspx
+         https://www.brighton.ac.uk/careers/plan-your-career/postgraduate-study/index.aspx
+   12  www.brighton.ac.uk/research/postgraduate-research-degrees/funding-opportunities-and-studentships
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/funding-opportunities-and-studentships/funded-phds-uob-open-call-2526.aspx
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/funding-opportunities-and-studentships/funded-phd-nhs-social-care.aspx
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/funding-opportunities-and-studentships/funded-phds-ahrc-landscape-award.aspx
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/funding-opportunities-and-studentships/index.aspx
+   11  www.brighton.ac.uk/research/postgraduate-research-degrees
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/index.aspx
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/programme-areas/
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/applying/
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/funding-opportunities-and-studentships/
+    6  www.brighton.ac.uk/studying-here/visit-us/postgraduate-events
+         https://www.brighton.ac.uk/studying-here/visit-us/postgraduate-events/pg-information-sessions.aspx
+         https://www.brighton.ac.uk/studying-here/visit-us/postgraduate-events/pg-subject-sessions.aspx
+         https://www.brighton.ac.uk/studying-here/visit-us/postgraduate-events/2026/11-14-postgraduate-training-to-teach-info-day.aspx
+         https://www.brighton.ac.uk/studying-here/visit-us/postgraduate-events/pg-open-events.aspx
+    4  www.brighton.ac.uk/careers/plan-your-career/looking-for-a-job
+         https://www.brighton.ac.uk/careers/plan-your-career/looking-for-a-job/find-a-job/international-students-and-graduates/
+         https://www.brighton.ac.uk/careers/plan-your-career/looking-for-a-job/find-a-job/international-students-and-graduates/index.aspx
+         https://www.brighton.ac.uk/careers/plan-your-career/looking-for-a-job/find-a-job/graduate-jobs/
+         https://www.brighton.ac.uk/careers/plan-your-career/looking-for-a-job/find-a-job/graduate-jobs/index.aspx
+    4  www.brighton.ac.uk/studying-here/find-a-course/cpe-in-health-sciences
+         https://www.brighton.ac.uk/studying-here/find-a-course/cpe-in-health-sciences/undergraduate/
+         https://www.brighton.ac.uk/studying-here/find-a-course/cpe-in-health-sciences/undergraduate/index.aspx
+         https://www.brighton.ac.uk/studying-here/find-a-course/cpe-in-health-sciences/postgraduate-education/
+         https://www.brighton.ac.uk/studying-here/find-a-course/cpe-in-health-sciences/postgraduate-education/index.aspx
+    4  www.brighton.ac.uk/studying-here/subject-areas/education-and-teaching
+         https://www.brighton.ac.uk/studying-here/subject-areas/education-and-teaching/teaching-undergraduate/
+         https://www.brighton.ac.uk/studying-here/subject-areas/education-and-teaching/teaching-undergraduate/index.aspx
+         https://www.brighton.ac.uk/studying-here/subject-areas/education-and-teaching/teaching-postgraduate/
+         https://www.brighton.ac.uk/studying-here/subject-areas/education-and-teaching/teaching-postgraduate/index.aspx
+    3  www.brighton.ac.uk/brighton-students/your-student-life/finances
+         https://www.brighton.ac.uk/brighton-students/your-student-life/finances/scholarships/alumni-postgraduate-scholarships.aspx
+         https://www.brighton.ac.uk/brighton-students/your-student-life/finances/hardship-funding/student-support-fund-undergraduates.aspx
+         https://www.brighton.ac.uk/brighton-students/your-student-life/finances/hardship-funding/student-support-fund-postgraduates.aspx
+    3  www.brighton.ac.uk/research/postgraduate-research-degrees/applying
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/applying/use-of-gen-ai-for-pgr-admissions.aspx
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/applying/writing-a-research-proposal-for-a-phd-application.aspx
+         https://www.brighton.ac.uk/research/postgraduate-research-degrees/applying/apply-for-your-phd.aspx
+    2  www.brighton.ac.uk/alumni/news-and-events/news
+         https://www.brighton.ac.uk/alumni/news-and-events/news/2015/01-27_architecture-graduate-wins-riba-award.aspx
+         https://www.brighton.ac.uk/alumni/news-and-events/news/2015/03-26_graduate-launches-walk-in-books-with-kickstarter.aspx
+    2  www.brighton.ac.uk/business-services/work-with-students
+         https://www.brighton.ac.uk/business-services/work-with-students/recruit-a-graduate-enquiry.aspx
+         https://www.brighton.ac.uk/business-services/work-with-students/recruiting-our-graduates.aspx
+    2  www.brighton.ac.uk/business-services/case-studies
+         https://www.brighton.ac.uk/business-services/case-studies/gatwick-airport-graduate-engineering-programme.aspx
+         https://www.brighton.ac.uk/business-services/case-studies/hospitality-graduate-role.aspx
+    2  www.brighton.ac.uk/business-services/professional-development/apprenticeships
+         https://www.brighton.ac.uk/business-services/professional-development/apprenticeships/construction-and-the-environment/chartered-town-planner-masters-apprenticeship.aspx
+         https://www.brighton.ac.uk/business-services/professional-development/apprenticeships/education/postgraduate-teacher-apprenticeship.aspx
+    2  www.brighton.ac.uk/careers/gain-experience/mentoring
+         https://www.brighton.ac.uk/careers/gain-experience/mentoring/graduate-mentoring/
+         https://www.brighton.ac.uk/careers/gain-experience/mentoring/graduate-mentoring/index.aspx
+    2  www.brighton.ac.uk/international/preparing-for-university/before-you-get-here
+         https://www.brighton.ac.uk/international/preparing-for-university/before-you-get-here/postgraduate/
+         https://www.brighton.ac.uk/international/preparing-for-university/before-you-get-here/postgraduate/index.aspx
+    2  www.brighton.ac.uk/studying-here/applying-to-brighton
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/undergraduate/
+         https://www.brighton.ac.uk/studying-here/applying-to-brighton/postgraduate/
+    2  www.brighton.ac.uk/studying-here/fees-and-finance
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/undergraduate/
+         https://www.brighton.ac.uk/studying-here/fees-and-finance/postgraduate/
+    1  www.brighton.ac.uk/about-us/statistics-and-legal/facts-and-figures
+         https://www.brighton.ac.uk/about-us/statistics-and-legal/facts-and-figures/graduate-employment.aspx

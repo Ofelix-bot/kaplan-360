@@ -1,0 +1,106 @@
+{
+  "id": "ncu",
+  "status": "read",
+  "university": "南昌大学",
+  "universityEn": "Nanchang University",
+  "tier": "211",
+  "url": "https://o.bysjy.com.cn/document/1700813430-1933.pdf",
+  "title": null,
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 68,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": "2022届",
+      "count": 161,
+      "pct": 1.29,
+      "quote": "共有 161 人选择出国（境）深造（1.29%）"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": "2022届",
+      "count": 42,
+      "pct": 28.77,
+      "quote": "英国 中国香港 法国 日本 澳大利亚 美国 德国 俄罗斯 瑞典 中国澳门 新加坡 人数 42 29 24 14 12 9 3 2 2 2 2 比例 28.77%"
+    },
+    {
+      "region": "中国香港",
+      "cohort": "2022届",
+      "count": 29,
+      "pct": 19.86,
+      "quote": "中国香港 法国 日本 澳大利亚 美国 德国 俄罗斯 瑞典 中国澳门 新加坡 人数 42 29 24 14 12 9 3 2 2 2 2 比例 28.77% 19.86%"
+    },
+    {
+      "region": "法国",
+      "cohort": "2022届",
+      "count": 24,
+      "pct": 16.44,
+      "quote": "法国 日本 澳大利亚 美国 德国 俄罗斯 瑞典 中国澳门 新加坡 人数 42 29 24 14 12 9 3 2 2 2 2 比例 28.77% 19.86% 16.44%"
+    },
+    {
+      "region": "日本",
+      "cohort": "2022届",
+      "count": 14,
+      "pct": 9.59,
+      "quote": "日本 澳大利亚 美国 德国 俄罗斯 瑞典 中国澳门 新加坡 人数 42 29 24 14 12 9 3 2 2 2 2 比例 28.77% 19.86% 16.44% 9.59%"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": "2022届",
+      "count": 12,
+      "pct": 8.22,
+      "quote": "澳大利亚 美国 德国 俄罗斯 瑞典 中国澳门 新加坡 人数 42 29 24 14 12 9 3 2 2 2 2 比例 28.77% 19.86% 16.44% 9.59% 8.22%"
+    }
+  ],
+  "ranked": [],
+  "destinations": [
+    {
+      "nameZh": "爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": null,
+      "group": "本科生",
+      "list": "留学院校",
+      "quote": "留学院校主要为爱丁堡大学、东京大学、曼彻斯特大学、悉尼大学等",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "东京大学",
+      "nameEn": "University of Tokyo",
+      "count": null,
+      "group": "本科生",
+      "list": "留学院校",
+      "quote": "留学院校主要为爱丁堡大学、东京大学、曼彻斯特大学、悉尼大学等",
+      "institutionId": "university-of-tokyo"
+    },
+    {
+      "nameZh": "曼彻斯特大学",
+      "nameEn": "University of Manchester",
+      "count": null,
+      "group": "本科生",
+      "list": "留学院校",
+      "quote": "留学院校主要为爱丁堡大学、东京大学、曼彻斯特大学、悉尼大学等",
+      "institutionId": "university-of-manchester"
+    },
+    {
+      "nameZh": "悉尼大学",
+      "nameEn": "University of Sydney",
+      "count": null,
+      "group": "本科生",
+      "list": "留学院校",
+      "quote": "留学院校主要为爱丁堡大学、东京大学、曼彻斯特大学、悉尼大学等",
+      "institutionId": "university-of-sydney"
+    }
+  ],
+  "dropped": [
+    "region 美国",
+    "region 德国",
+    "region 俄罗斯",
+    "region 瑞典",
+    "region 中国澳门",
+    "region 新加坡"
+  ],
+  "checked": "2026-10-22"
+}

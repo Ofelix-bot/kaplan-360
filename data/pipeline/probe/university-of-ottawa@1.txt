@@ -1,0 +1,133 @@
+# university-of-ottawa@1 https://www.uottawa.ca
+robots sitemaps: https://www.uottawa.ca/sitemap.xml https://www.uottawa.ca/about-us/sitemap.xml https://www.uottawa.ca/study/sitemap.xml https://www.uottawa.ca/campus-life/sitemap.xml https://www.uottawa.ca/current-students/sitemap.xml https://www.uottawa.ca/alumni/sitemap.xml https://www.uottawa.ca/giving/sitemap.xml https://www.uottawa.ca/research-innovation/sitemap.xml https://www.uottawa.ca/faculty-arts/sitemap.xml https://www.uottawa.ca/faculty-education/sitemap.xml https://www.uottawa.ca/faculty-engineering/sitemap.xml https://www.uottawa.ca/faculty-health-sciences/sitemap.xml https://www.uottawa.ca/faculty-law/sitemap.xml https://www.uottawa.ca/library/sitemap.xml https://www.uottawa.ca/faculty-medicine/sitemap.xml https://www.uottawa.ca/faculty-science/sitemap.xml https://www.uottawa.ca/faculty-social-sciences/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.uottawa.ca/sitemap.xml: 4 children (4 course-like)
+index https://www.uottawa.ca/about-us/sitemap.xml: 3 children (3 course-like)
+index https://www.uottawa.ca/research-innovation/sitemap.xml: 3 children (3 course-like)
+index https://www.uottawa.ca/faculty-medicine/sitemap.xml: 3 children (3 course-like)
+index https://www.uottawa.ca/faculty-social-sciences/sitemap.xml: 2 children (2 course-like)
+sitemaps read 32 · urls 66414 · master's-looking 2179
+  105  www.uottawa.ca/faculty-arts/programs/undergraduate
+         https://www.uottawa.ca/faculty-arts/programs/undergraduate/communication/course-sequence-joint-honours-communication-political-science
+         https://www.uottawa.ca/faculty-arts/programs/undergraduate/art-history/course-sequence-major-art-history
+         https://www.uottawa.ca/faculty-arts/programs/undergraduate/art-history/course-sequence-minor-art-history
+         https://www.uottawa.ca/faculty-arts/programs/undergraduate/interdisciplinary-studies/course-sequence-interdisciplinary-studies-3-years-90-course-units
+  100  www.uottawa.ca/en/news-all
+         https://www.uottawa.ca/en/news-all/alum-tiffany-ticky-llm-22-appointed-senior-director-uottawa-human-rights-office
+         https://www.uottawa.ca/en/news-all/university-ottawa-mcmaster-university-join-forces-prepare-canada-future-pandemics
+         https://www.uottawa.ca/en/news-all/lyon-ottawa-decouvrez-nouveau-double-diplome-llm-master-droit-civil-approfondi
+         https://www.uottawa.ca/en/news-all/trailblazers-x-uottawa-gwen-madiba-ma-12-bsocsc-08-builds-communities-care-opportunity
+   94  www.uottawa.ca/about-us/leadership-governance/senate
+         https://www.uottawa.ca/about-us/leadership-governance/senate/committees/council-undergraduate-studies/meetings
+         https://www.uottawa.ca/about-us/leadership-governance/senate/committees/council-graduate-studies/meetings
+         https://www.uottawa.ca/about-us/leadership-governance/senate/committees/council-graduate-studies/meetings/january-19-2022
+         https://www.uottawa.ca/about-us/leadership-governance/senate/committees/strategic-committee-graduate-postdoctoral-studies/meetings
+   66  www.uottawa.ca/en/events-all
+         https://www.uottawa.ca/en/events-all/undergraduate-engineering-welcome-day
+         https://www.uottawa.ca/en/events-all/engineering-graduate-welcome-information-session-masters-thesis-phds
+         https://www.uottawa.ca/en/events-all/undergraduate-science-welcome-day
+         https://www.uottawa.ca/en/events-all/graduate-professional-studies-information-fair
+   66  www.uottawa.ca/faculty-medicine/graduate-postdoctoral/student-hub
+         https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/student-hub/mentorship-matters
+         https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/student-hub/research-project-guidelines
+         https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/student-hub/program-information
+         https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/student-hub/tac-annual-research-progress-reports
+   58  www.uottawa.ca/faculty-social-sciences/psychology/graduate
+         https://www.uottawa.ca/faculty-social-sciences/psychology/graduate/experimental-psychology/applied-research-practicum-psy-6002
+         https://www.uottawa.ca/faculty-social-sciences/psychology/graduate/list-professors-accepting-new-student
+         https://www.uottawa.ca/faculty-social-sciences/psychology/graduate/clinical-psychology/documents-submitted-candidates
+         https://www.uottawa.ca/faculty-social-sciences/psychology/graduate/clinical-psychology/timetable-modules
+   54  www.uottawa.ca/faculty-social-sciences/programs/undergraduate
+         https://www.uottawa.ca/faculty-social-sciences/programs/undergraduate/course-sequences/bachelor-social-sciences
+         https://www.uottawa.ca/faculty-social-sciences/programs/undergraduate/course-sequences/bachelor-social-sciences-minor
+         https://www.uottawa.ca/faculty-social-sciences/programs/undergraduate/course-sequences/honours-anthropology
+         https://www.uottawa.ca/faculty-social-sciences/programs/undergraduate/course-sequences/honours-ba-psychology
+   48  www.uottawa.ca/faculty-social-sciences/news-all
+         https://www.uottawa.ca/faculty-social-sciences/news-all/dr-sarah-saska-ma-graduate-institute-feminist-and-gender-studies-among-womens-executive-networks
+         https://www.uottawa.ca/faculty-social-sciences/news-all/farinaz-basmechi-received-scholarship-chair-sexist-sexual-violence-graduate-studies-uqam
+         https://www.uottawa.ca/faculty-social-sciences/news-all/congratulations-recent-graduate-rayene-bouzitoun-lll-2022-who-has-been-selected-canadian
+         https://www.uottawa.ca/faculty-social-sciences/news-all/admission-scholarships-master-course-and-major-research-paper
+   40  www.uottawa.ca/study/undergraduate-studies/international-applicants
+         https://www.uottawa.ca/study/undergraduate-studies/international-applicants/burundi
+         https://www.uottawa.ca/study/undergraduate-studies/international-applicants/algeria
+         https://www.uottawa.ca/study/undergraduate-studies/international-applicants/china
+         https://www.uottawa.ca/study/undergraduate-studies/international-applicants/cameroon
+   39  www.uottawa.ca/campus-life/events-all
+         https://www.uottawa.ca/campus-life/events-all/undergraduate-engineering-welcome-day
+         https://www.uottawa.ca/campus-life/events-all/engineering-graduate-welcome-information-session-masters-thesis-phds
+         https://www.uottawa.ca/campus-life/events-all/undergraduate-science-welcome-day
+         https://www.uottawa.ca/campus-life/events-all/graduate-students-support-group
+   30  www.uottawa.ca/study/graduate-studies
+         https://www.uottawa.ca/study/graduate-studies/thesis
+         https://www.uottawa.ca/study/graduate-studies/becoming-postdoctoral-fellow
+         https://www.uottawa.ca/study/graduate-studies/microprograms
+         https://www.uottawa.ca/study/graduate-studies/cotutelle
+   30  www.uottawa.ca/faculty-medicine/postgraduate-medical-education
+         https://www.uottawa.ca/faculty-medicine/postgraduate-medical-education/standing-committees
+         https://www.uottawa.ca/faculty-medicine/postgraduate-medical-education/registration
+         https://www.uottawa.ca/faculty-medicine/postgraduate-medical-education/awards-and-grants
+         https://www.uottawa.ca/faculty-medicine/postgraduate-medical-education/updates-covid-19
+   29  www.uottawa.ca/faculty-medicine/undergraduate-medical-education
+         https://www.uottawa.ca/faculty-medicine/undergraduate-medical-education/executive-committees
+         https://www.uottawa.ca/faculty-medicine/undergraduate-medical-education/accreditation
+         https://www.uottawa.ca/faculty-medicine/undergraduate-medical-education/schedules-objectives
+         https://www.uottawa.ca/faculty-medicine/undergraduate-medical-education/about-admissions
+   28  www.uottawa.ca/faculte-medecine/superieures-postdoctorales/carrefour-etudiant
+         https://www.uottawa.ca/faculte-medecine/superieures-postdoctorales/carrefour-etudiant/passage-accelere-msc-au-phd/epidemiologie-passage-accelere-maitrise-au-doctorat
+         https://www.uottawa.ca/faculte-medecine/superieures-postdoctorales/carrefour-etudiant/sequence-cours/msc-biochimie-projet-recherche
+         https://www.uottawa.ca/faculte-medecine/superieures-postdoctorales/carrefour-etudiant/sequence-cours/msc-microbiologie-immunologie-projet-recherche
+         https://www.uottawa.ca/faculte-medecine/superieures-postdoctorales/carrefour-etudiant/sequence-cours/msc-neuroscience-projet-recherche
+   27  www.uottawa.ca/study/events-all
+         https://www.uottawa.ca/study/events-all/graduate-professional-studies-information-fair
+         https://www.uottawa.ca/study/events-all/graduate-programs-information-session-engineering-technology
+         https://www.uottawa.ca/study/events-all/virtual-information-session-graduate-school-international-public-affairs-french
+         https://www.uottawa.ca/study/events-all/virtual-information-session-graduate-school-international-public-affairs-english
+   26  www.uottawa.ca/faculty-medicine/graduate-postdoctoral/programs-admission
+         https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/programs-admission/international-candidates
+         https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/programs-admission/admission-faq
+         https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/programs-admission/program-information/msc-research-project
+         https://www.uottawa.ca/faculty-medicine/graduate-postdoctoral/programs-admission/program-information/biochemistry
+   26  www.uottawa.ca/faculty-social-sciences/events-all
+         https://www.uottawa.ca/faculty-social-sciences/events-all/meet-future-you-graduate-elias-leon
+         https://www.uottawa.ca/faculty-social-sciences/events-all/graduate-professional-studies-information-fair
+         https://www.uottawa.ca/faculty-social-sciences/events-all/graduate-studies-social-sciences-open-house
+         https://www.uottawa.ca/faculty-social-sciences/events-all/information-session-prospective-masters-students-gspia
+   25  www.uottawa.ca/faculty-arts/events-all
+         https://www.uottawa.ca/faculty-arts/events-all/graduate-professional-studies-information-fair
+         https://www.uottawa.ca/faculty-arts/events-all/2023-master-arts-contemporary-art-theory-information-session
+         https://www.uottawa.ca/faculty-arts/events-all/information-session-external-funding-graduate-students
+         https://www.uottawa.ca/faculty-arts/events-all/information-session-external-funding-graduate-students-french
+   24  www.uottawa.ca/fr/toutes-nouvelles
+         https://www.uottawa.ca/fr/toutes-nouvelles/nomination-diplomee-tiffany-ticky-llm-2022-au-poste-directrice-principale-bureau
+         https://www.uottawa.ca/fr/toutes-nouvelles/luniversite-dottawa-luniversite-mcmaster-unissent-leurs-forces-preparer-canada-aux
+         https://www.uottawa.ca/fr/toutes-nouvelles/ma-francophonie-cest
+         https://www.uottawa.ca/fr/toutes-nouvelles/lyon-ottawa-decouvrez-nouveau-double-diplome-llm-master-droit-civil-approfondi
+   23  www.uottawa.ca/faculty-engineering/undergraduate-studies/programs
+         https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/biomedical-mechanical/course-sequence
+         https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/chemical-engineering/course-sequence
+         https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/civil-engineering/course-sequence
+         https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/computer-engineering/course-sequence
+   22  www.uottawa.ca/faculty-arts/news-all
+         https://www.uottawa.ca/faculty-arts/news-all/lets-celebrate-our-2022-graduates-convocation
+         https://www.uottawa.ca/faculty-arts/news-all/networking-activity-master-arts-bilingualism-studies-students
+         https://www.uottawa.ca/faculty-arts/news-all/latest-published-memoirs-theses-master-arts-ma-bilingualism-studies
+         https://www.uottawa.ca/faculty-arts/news-all/valuable-advice-our-graduates
+   21  www.uottawa.ca/study/graduate-studies/funding-financing
+         https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/admission-scholarship
+         https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/fonds-quebecois-recherche
+         https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/ontario
+         https://www.uottawa.ca/study/graduate-studies/funding-financing/awards/graduate-studies-scholarship
+   19  www.uottawa.ca/study/undergraduate-studies
+         https://www.uottawa.ca/study/undergraduate-studies/applied
+         https://www.uottawa.ca/study/undergraduate-studies/request-information-future-students
+         https://www.uottawa.ca/study/undergraduate-studies/international-applicants
+         https://www.uottawa.ca/study/undergraduate-studies/info-admission
+   19  www.uottawa.ca/faculty-engineering/events-all
+         https://www.uottawa.ca/faculty-engineering/events-all/engineering-graduate-welcome-information-session-masters-thesis-phds
+         https://www.uottawa.ca/faculty-engineering/events-all/engineering-computer-science-graduate-poster-competition
+         https://www.uottawa.ca/faculty-engineering/events-all/undergraduate-engineering-welcome-day
+         https://www.uottawa.ca/faculty-engineering/events-all/workshop-mastering-time-management-student
+   18  www.uottawa.ca/research-innovation/news-all
+         https://www.uottawa.ca/research-innovation/news-all/malorie-kanaan-recipient-jacques-gaudreau-graduate-scholarship
+         https://www.uottawa.ca/research-innovation/news-all/navraj-kaushick-awarded-jacques-gaudreau-graduate-scholarship
+         https://www.uottawa.ca/research-innovation/news-all/university-ottawa-mcmaster-university-join-forces-prepare-canada-future-pandemics
+         https://www.uottawa.ca/research-innovation/news-all/erin-dobbelsteyn-recipient-jacques-gaudreau-graduate-scholarship-2023

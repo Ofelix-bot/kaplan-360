@@ -1,0 +1,17 @@
+{
+ "source": "sitemap https://university.taylors.edu.my/en.sitemap.xml, master-coursework pages only, online and research excluded (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/architecture-building-and-design/master-coursework/master-of-science-in-virtual-design-and-construction.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-coursework/master-of-business-administration.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/business/master-coursework/master-of-management.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/media-and-communication/master-coursework/master-of-communication.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/computer-science/master-coursework/master-in-applied-computing.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/education/master-coursework/master-of-teaching-and-learning.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/hospitality-tourism-and-events/master-coursework/master-of-international-hospitality-management.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/master-coursework/master-of-laws-in-healthcare-and-medical-law.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/law-and-governance/master-coursework/master-of-laws.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/master-coursework/master-of-counselling.html",
+  "https://university.taylors.edu.my/en/study/explore-all-programmes/liberal-arts-and-sciences/master-coursework/master-of-clinical-psychology.html"
+ ]
+}

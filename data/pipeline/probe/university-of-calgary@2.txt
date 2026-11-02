@@ -1,0 +1,69 @@
+# university-of-calgary@2 https://grad.ucalgary.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1223 · master's-looking 214
+  170  grad.ucalgary.ca/future-students/graduate/discover-opportunities
+         https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs
+         https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/understanding-graduate-studies
+         https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/anthropology-ma-thesis
+         https://grad.ucalgary.ca/future-students/graduate/discover-opportunities/explore-programs/anthropology-phd
+    7  grad.ucalgary.ca/future-students/supervisor
+         https://grad.ucalgary.ca/future-students/supervisor/frank-macmaster
+         https://grad.ucalgary.ca/future-students/supervisor/martina-ann-kelly-mbbch-ma-phd-ccfp
+         https://grad.ucalgary.ca/future-students/supervisor/sonia-butalia-md-frcpc-msc
+         https://grad.ucalgary.ca/future-students/supervisor/craig-johansen-mba-phd-peng
+    5  grad.ucalgary.ca/awards-and-funding/award-opportunities
+         https://grad.ucalgary.ca/awards-and-funding/award-opportunities/graduate-award-competition
+         https://grad.ucalgary.ca/awards-and-funding/award-opportunities/indigenous-graduate-award-competition
+         https://grad.ucalgary.ca/awards-and-funding/award-opportunities/canada-graduate-scholarships-indigenous-scholars
+         https://grad.ucalgary.ca/awards-and-funding/award-opportunities/CIHR_Strategic_Master
+    3  grad.ucalgary.ca/future-students/graduate/admissions
+         https://grad.ucalgary.ca/future-students/graduate/admissions/how-apply
+         https://grad.ucalgary.ca/future-students/graduate/admissions/how-apply/transcript-faq-applicants
+         https://grad.ucalgary.ca/future-students/graduate/admissions/visiting-student-researchers
+    3  grad.ucalgary.ca/future-students/graduate-student-life
+         https://grad.ucalgary.ca/future-students/graduate-student-life/living-campus
+         https://grad.ucalgary.ca/future-students/graduate-student-life/why-ucalgary
+         https://grad.ucalgary.ca/future-students/graduate-student-life/grad-experience
+    3  grad.ucalgary.ca/future-students/graduate/supports-and-contacts
+         https://grad.ucalgary.ca/future-students/graduate/supports-and-contacts/connect-current-graduate-student
+         https://grad.ucalgary.ca/future-students/graduate/supports-and-contacts/meet-our-graduate-recruiters
+         https://grad.ucalgary.ca/future-students/graduate/supports-and-contacts/find-graduate-supervisor/christian-frisson
+    2  grad.ucalgary.ca/professional-development/wil-and-internships
+         https://grad.ucalgary.ca/professional-development/wil-and-internships/graduate-supervisors
+         https://grad.ucalgary.ca/professional-development/wil-and-internships/graduate-students
+    2  grad.ucalgary.ca/current-students/newly-admitted/graduate-student-orientation-portal
+         https://grad.ucalgary.ca/current-students/newly-admitted/graduate-student-orientation-portal/fall-graduate-orientation
+         https://grad.ucalgary.ca/current-students/newly-admitted/graduate-student-orientation-portal/winter-graduate-orientation
+    2  grad.ucalgary.ca/future-students/graduate/information
+         https://grad.ucalgary.ca/future-students/graduate/information/international-graduate-students
+         https://grad.ucalgary.ca/future-students/graduate/information/indigenous-graduate-students
+    2  grad.ucalgary.ca/current-students/important-resources-and-supports
+         https://grad.ucalgary.ca/current-students/important-resources-and-supports/find-graduate-program-staff
+         https://grad.ucalgary.ca/current-students/important-resources-and-supports/graduate-ai-guidelines
+    2  grad.ucalgary.ca/supervisory-resources/graduate-supervisors/supervisor-resources
+         https://grad.ucalgary.ca/supervisory-resources/graduate-supervisors/supervisor-resources/running-productive-lab
+         https://grad.ucalgary.ca/supervisory-resources/graduate-supervisors/supervisor-resources/best-practices-supervisory-committees
+    2  grad.ucalgary.ca/future-students/explore-programs
+         https://grad.ucalgary.ca/future-students/explore-programs/philosophy-ma-course
+         https://grad.ucalgary.ca/future-students/explore-programs/veterinary-%20medical%20-%20sciences-msc-thesis
+    2  grad.ucalgary.ca/current-students
+         https://grad.ucalgary.ca/current-students/canadian-graduate-and-professional-student-survey-cgpss
+         https://grad.ucalgary.ca/current-students/indigenous-graduate-students
+    1  grad.ucalgary.ca/future-students/graduate/fees-and-finances
+         https://grad.ucalgary.ca/future-students/graduate/fees-and-finances/financing-grad-school
+    1  grad.ucalgary.ca/future-students/graduate/why-ucalgary
+         https://grad.ucalgary.ca/future-students/graduate/why-ucalgary/graduate-student-life
+    1  grad.ucalgary.ca/awards/award-opportunities/indigenous-graduate-award-competition
+         https://grad.ucalgary.ca/awards/award-opportunities/indigenous-graduate-award-competition/tips-completing-your-iga
+    1  grad.ucalgary.ca/services/faculty-and-staff
+         https://grad.ucalgary.ca/services/faculty-and-staff/find-graduate-program-officer
+    1  grad.ucalgary.ca/grad-life/graduate-mental-health-survey-home-page
+         https://grad.ucalgary.ca/grad-life/graduate-mental-health-survey-home-page/gmhs-test-metrics
+    1  grad.ucalgary.ca/professional-development/internships/internships
+         https://grad.ucalgary.ca/professional-development/internships/internships/graduate-students/making-your-internship-tti
+    1  grad.ucalgary.ca/future-students/supports-and-contacts
+         https://grad.ucalgary.ca/future-students/supports-and-contacts/find-a-graduate-supervisor
+    1  grad.ucalgary.ca/current-students/thesis-based-students
+         https://grad.ucalgary.ca/current-students/thesis-based-students/graduate-supervision
+    1  grad.ucalgary.ca/future-students
+         https://grad.ucalgary.ca/future-students/graduate-recruitment-events

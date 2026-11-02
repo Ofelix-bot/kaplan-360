@@ -1,0 +1,129 @@
+# ludwig-maximilians-universitat-munchen https://www.lmu.de
+robots sitemaps: https://www.lmu.de/sitemap.xml https://www.lmu.de/mzn/sitemap.xml https://www.lmu.de/koordinierungsstellesub/sitemap.xml https://www.lmu.de/isi/sitemap.xml https://www.lmu.de/zmr/sitemap.xml https://www.lmu.de/lmu-sprachenzentrum/sitemap.xml https://www.lmu.de/o-phase/sitemap.xml https://www.lmu.de/zfgm/sitemap.xml https://www.lmu.de/religionswissenschaft/sitemap.xml https://www.lmu.de/frauenbeauftragte/sitemap.xml https://www.lmu.de/alumni-econ/sitemap.xml https://www.lmu.de/ai-hub/sitemap.xml https://www.lmu.de/psy/sitemap.xml https://www.lmu.de/psyedu/sitemap.xml https://www.lmu.de/mhz/sitemap.xml https://www.lmu.de/mzaw/sitemap.xml https://www.lmu.de/isc/sitemap.xml https://www.lmu.de/musaph/sitemap.xml https://www.lmu.de/profil/sitemap.xml https://www.lmu.de/crossculturalphilology/sitemap.xml https://www.lmu.de/wcms-service/sitemap.xml https://www.lmu.de/digillab/sitemap.xml https://www.lmu.de/edu/sitemap.xml https://www.lmu.de/kunstwissenschaften/sitemap.xml https://www.lmu.de/med-mecumplus/sitemap.xml https://www.lmu.de/lateinamerika-netzwerk/sitemap.xml https://www.lmu.de/geschichts-und-kunstwissenschaften/sitemap.xml https://www.lmu.de/gsn/sitemap.xml https://www.lmu.de/center-geoastronomy/sitemap.xml https://www.lmu.de/sfb1369/sitemap.xml https://www.lmu.de/graduatecenter/sitemap.xml https://www.lmu.de/stuve/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.lmu.de/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/mzn/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/koordinierungsstellesub/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/isi/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/zmr/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/lmu-sprachenzentrum/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/o-phase/sitemap.xml: 1 children (0 course-like)
+sitemap https://www.lmu.de/zfgm/sitemap.xml: http HTTP 404
+index https://www.lmu.de/religionswissenschaft/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/frauenbeauftragte/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/alumni-econ/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/ai-hub/sitemap.xml: 1 children (0 course-like)
+index https://www.lmu.de/psy/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/psyedu/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/mhz/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/mzaw/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/isc/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/musaph/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/profil/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/crossculturalphilology/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/wcms-service/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/digillab/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/edu/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/kunstwissenschaften/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/med-mecumplus/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/lateinamerika-netzwerk/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/geschichts-und-kunstwissenschaften/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/gsn/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/center-geoastronomy/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/sfb1369/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/graduatecenter/sitemap.xml: 2 children (0 course-like)
+index https://www.lmu.de/stuve/sitemap.xml: 2 children (0 course-like)
+sitemap https://www.lmu.de/koordinierungsstellesub/en/sitemap_en.xml: http HTTP 404
+sitemap https://www.lmu.de/zmr/en/sitemap_en.xml: http HTTP 404
+sitemap https://www.lmu.de/sprachenzentrum/en/sitemap_en.xml: http HTTP 404
+sitemap https://www.lmu.de/religionswissenschaft/en/sitemap_en.xml: http HTTP 404
+sitemap https://www.lmu.de/mzaw/en/sitemap_en.xml: http HTTP 404
+sitemap https://www.lmu.de/musaph/de/sitemap_de.xml: http HTTP 404
+sitemap https://www.lmu.de/profil/en/sitemap_en.xml: http HTTP 404
+sitemap https://www.lmu.de/digillab/en/sitemap_en.xml: http HTTP 404
+sitemap https://www.lmu.de/kunstwissenschaften/en/sitemap_en.xml: http HTTP 404
+sitemap https://www.lmu.de/med-mecumplus/en/sitemap_en.xml: http HTTP 404
+sitemaps read 80 · urls 22480 · master's-looking 410
+  121  www.lmu.de/de/studium/studienangebot
+         https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/studiengaenge/listen/studiengangsliste-master.html
+         https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/praezisionsonkologie-master-hauptfach-30336.html
+         https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/theater-dance-and-performance-research-master-hauptfach-30208.html
+         https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/theater-tanz-und-performance-forschung-master-hauptfach-30080.html
+   94  www.lmu.de/de/studium/wichtige-kontakte
+         https://www.lmu.de/de/studium/wichtige-kontakte/pruefungsaemter/pruefungsamt-fuer-geistes-und-sozialwissenschaften/abschluesse/master/fakultaets-oder-universitaetsuebergreifende-masterstudiengaenge/berufliche-bildung-tum/berufssprache-deutsch/
+         https://www.lmu.de/de/studium/wichtige-kontakte/pruefungsaemter/pruefungsamt-fuer-geistes-und-sozialwissenschaften/abschluesse/master/fakultaets-oder-universitaetsuebergreifende-masterstudiengaenge/berufliche-bildung-tum/berufliche-bildung-mit-unterrichtsfach-deutsch/
+         https://www.lmu.de/de/studium/wichtige-kontakte/pruefungsaemter/pruefungsamt-fuer-geistes-und-sozialwissenschaften/abschluesse/master/fakultaets-oder-universitaetsuebergreifende-masterstudiengaenge/berufliche-bildung-tum/berufliche-bildung-mit-unterrichtsfach-englisch/
+         https://www.lmu.de/de/studium/wichtige-kontakte/pruefungsaemter/pruefungsamt-fuer-geistes-und-sozialwissenschaften/abschluesse/master/fakultaets-oder-universitaetsuebergreifende-masterstudiengaenge/berufliche-bildung-tum/berufliche-bildung-mit-unterrichtsfach-evangelische-religionslehre/
+   91  www.lmu.de/en/study/important-contacts
+         https://www.lmu.de/en/study/important-contacts/examination-offices/examination-office-for-humanities-and-social-sciences/degrees/master/across-faculty-of-across-university-masters-degree-programs/vocational-education-tum/german-language-and-communication/
+         https://www.lmu.de/en/study/important-contacts/examination-offices/examination-office-for-humanities-and-social-sciences/degrees/master/across-faculty-of-across-university-masters-degree-programs/vocational-education-tum/vocational-education-tum-with-the-teaching-subject-german/
+         https://www.lmu.de/en/study/important-contacts/examination-offices/examination-office-for-humanities-and-social-sciences/degrees/master/across-faculty-of-across-university-masters-degree-programs/vocational-education-tum/vocational-education-tum-with-the-teaching-subject-english/
+         https://www.lmu.de/en/study/important-contacts/examination-offices/examination-office-for-humanities-and-social-sciences/degrees/master/across-faculty-of-across-university-masters-degree-programs/vocational-education-tum/vocational-education-tum-with-the-teaching-subject-protestant-theology/
+   15  www.lmu.de/de/newsroom/newsuebersicht
+         https://www.lmu.de/de/newsroom/newsuebersicht/news/lmu-erweitert-internationales-masterstudienangebot-0454bf3d.html
+         https://www.lmu.de/de/newsroom/newsuebersicht/news/master-absolventin-erhaelt-ersten-weltenmensch-preis-223ab09f.html
+         https://www.lmu.de/de/newsroom/newsuebersicht/news/soziologie-abschlussarbeit-mit-bestmasters-award-ausgezeichnet-c4a77956.html
+         https://www.lmu.de/de/newsroom/newsuebersicht/news/ein-magazin-zur-masterarbeit-1790f9f5.html
+   15  www.lmu.de/en/newsroom/news-overview
+         https://www.lmu.de/en/newsroom/news-overview/news/lmu-expands-its-international-masters-program-portfolio-0454bf3d.html
+         https://www.lmu.de/en/newsroom/news-overview/news/masters-graduate-receives-first-ever-weltenmensch-award-223ab09f.html
+         https://www.lmu.de/en/newsroom/news-overview/news/sociology-masters-thesis-receives-bestmasters-award-c4a77956.html
+         https://www.lmu.de/en/newsroom/news-overview/news/master-of-disguise-new-species-of-leaf-tailed-gecko-discovered-in-madagascar-8811631e.html
+   14  www.lmu.de/en/about-lmu/structure
+         https://www.lmu.de/en/about-lmu/structure/central-university-administration/media-relations-and-communications/press-room/press-release/lmu-expands-its-international-masters-program-portfolio-0454bf3d.html
+         https://www.lmu.de/en/about-lmu/structure/central-university-administration/media-relations-and-communications/press-room/press-release/masters-graduate-receives-first-ever-weltenmensch-award-223ab09f.html
+         https://www.lmu.de/en/about-lmu/structure/central-university-administration/media-relations-and-communications/press-room/press-release/sociology-masters-thesis-receives-bestmasters-award-c4a77956.html
+         https://www.lmu.de/en/about-lmu/structure/central-university-administration/media-relations-and-communications/press-room/press-release/master-of-disguise-new-species-of-leaf-tailed-gecko-discovered-in-madagascar-8811631e.html
+   13  www.lmu.de/de/die-lmu/struktur
+         https://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/presse-und-kommunikation-puk/press-room/pressemitteilung/lmu-erweitert-internationales-masterstudienangebot-0454bf3d.html
+         https://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/presse-und-kommunikation-puk/press-room/pressemitteilung/master-absolventin-erhaelt-ersten-weltenmensch-preis-223ab09f.html
+         https://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/presse-und-kommunikation-puk/press-room/pressemitteilung/soziologie-abschlussarbeit-mit-bestmasters-award-ausgezeichnet-c4a77956.html
+         https://www.lmu.de/de/die-lmu/struktur/zentrale-universitaetsverwaltung/presse-und-kommunikation-puk/press-room/pressemitteilung/ein-magazin-zur-masterarbeit-1790f9f5.html
+   10  www.lmu.de/kunstwissenschaften/de/faecher
+         https://www.lmu.de/kunstwissenschaften/de/faecher/musikpaedagogik/studium/mp_eignungsverfahren-ma.html
+         https://www.lmu.de/kunstwissenschaften/de/faecher/kunstgeschichte/kunstgeschichte-studieren/masterstudiengang-kunstgeschichte/vergangene-master-forschungsseminare/
+         https://www.lmu.de/kunstwissenschaften/de/faecher/kunstgeschichte/kunstgeschichte-studieren/masterstudiengang-kunstgeschichte/
+         https://www.lmu.de/kunstwissenschaften/de/faecher/theaterwissenschaft/theaterwissenschaft-studieren/theater-tanz-und-performance-forschung-master-hauptfach/
+    9  www.lmu.de/en/newsroom/calendar-of-events
+         https://www.lmu.de/en/newsroom/calendar-of-events/event/starting-a-career-with-bachelors-and-masters-degrees-649d7044.html
+         https://www.lmu.de/en/newsroom/calendar-of-events/event/workshop-confidently-mastering-your-studies-491216ed.html
+         https://www.lmu.de/en/newsroom/calendar-of-events/event/ki-lectures-reconstructing-masterpieces-of-ancient-near-eastern-literature-with-the-help-of-ai-6dc080e0.html
+         https://www.lmu.de/en/newsroom/calendar-of-events/event/confidently-mastering-your-studies-ebc8a2b6.html
+    5  www.lmu.de/de/newsroom/veranstaltungskalender
+         https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/mit-bachelor-und-master-in-den-beruf-649d7044.html
+         https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/mit-bachelor-und-master-in-den-beruf-6f41b918.html
+         https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/llm-study-at-a-us-law-school-how-to-apply-and-what-to-expect-e5e3e0ee.html
+         https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/eugloh-international-workshop-of-the-graduate-school-sport-movement-and-human-factors-5f7b2c84.html
+    5  www.lmu.de/de/workspace-fuer-studierende/meldungen-und-termine
+         https://www.lmu.de/de/workspace-fuer-studierende/meldungen-und-termine/details/online-informationsveranstaltung-zum-elite-masterstudiengang-osteuropastudien.html
+         https://www.lmu.de/de/workspace-fuer-studierende/meldungen-und-termine/details/mit-bachelor-und-master-in-den-beruf-welche-chancen-habe-ich.html
+         https://www.lmu.de/de/workspace-fuer-studierende/meldungen-und-termine/details/infostunden-zu-den-masterstudiengaengen-ethnologie-und-empirische-kulturwissenschaft-und-europaeische-ethnologie.html
+         https://www.lmu.de/de/workspace-fuer-studierende/meldungen-und-termine/details/mit-bachelor-und-master-in-den-beruf.html
+    5  www.lmu.de/zmr/de/masterstudiengang
+         https://www.lmu.de/zmr/de/masterstudiengang/ihr-individueller-studienplan/
+         https://www.lmu.de/zmr/de/masterstudiengang/zulassung-und-immatrikulation/
+         https://www.lmu.de/zmr/de/masterstudiengang/kontakt/
+         https://www.lmu.de/zmr/de/masterstudiengang/alumnae-und-alumni/
+    2  www.lmu.de/en/workspace-for-students/news-and-events
+         https://www.lmu.de/en/workspace-for-students/news-and-events/details/getting-a-job-with-a-bachelors-or-masters-degree.html
+         https://www.lmu.de/en/workspace-for-students/news-and-events/details/graduate-school-of-quantitative-bioscience-munich-qbm-applications-open.html
+    2  www.lmu.de/edu/de/studium
+         https://www.lmu.de/edu/de/studium/master-paedagogik/
+         https://www.lmu.de/edu/de/studium/master-pir/
+    1  www.lmu.de/de/studium/internationale-vollzeit-studierende
+         https://www.lmu.de/de/studium/internationale-vollzeit-studierende/studienbewerbung/bewerbungshilfen-und-faq/leitfaden-fuer-die-bewerbung-zum-masterstudium/
+    1  www.lmu.de/de/workspace-fuer-studierende/1x1-des-studiums
+         https://www.lmu.de/de/workspace-fuer-studierende/1x1-des-studiums/postgraduiertenstudium/
+    1  www.lmu.de/en/study/degree-students
+         https://www.lmu.de/en/study/degree-students/applications-for-admission/guidelines-and-faqs/guide-to-applying-for-a-masters-degree/
+    1  www.lmu.de/en/workspace-for-students/abc-study-guide
+         https://www.lmu.de/en/workspace-for-students/abc-study-guide/postgraduate-studies/
+    1  www.lmu.de/zmr/de
+         https://www.lmu.de/zmr/de/masterstudiengang/
+    1  www.lmu.de/ai-hub/en/ai-hub-lmu-prizes
+         https://www.lmu.de/ai-hub/en/ai-hub-lmu-prizes/ai-hub-lmu-prize-for-the-best-masters-thesis-in-the-field-of-ai.html
+    1  www.lmu.de/isc/de/isc-studi-wiki
+         https://www.lmu.de/isc/de/isc-studi-wiki/studiengaenge/master-in-management-and-digital-technologies-mmt/
+    1  www.lmu.de/edu/en/studies
+         https://www.lmu.de/edu/en/studies/master-educational-sciences/
+    1  www.lmu.de/med-mecumplus/de/teams
+         https://www.lmu.de/med-mecumplus/de/teams/paul-ehrlich-contest-muenchner-pettenkofer-contest/wahlfach-medical-master-minds/

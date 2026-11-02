@@ -1,0 +1,1499 @@
+{
+  "source": "UCD Course Catalogue (hub.ucd.ie course browser, Graduate Taught)",
+  "sourceUrl": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSES&LEVEL=GT",
+  "retrievedAt": "2026-10-18",
+  "note": "Master's awards, full-time, on campus (delivery not Online or Blended). Read from the data the catalogue page loads in a browser.",
+  "programmes": [
+    {
+      "majr": "B008",
+      "title": "Accounting",
+      "award": "MAcc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B008"
+    },
+    {
+      "majr": "B714",
+      "title": "Accounting & Financial Management",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B714"
+    },
+    {
+      "majr": "F034",
+      "title": "Actuarial Science",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F034"
+    },
+    {
+      "majr": "T413",
+      "title": "Advanced Artificial Intelligence",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T413"
+    },
+    {
+      "majr": "F267",
+      "title": "Advanced Synthetic Chemistry",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F267"
+    },
+    {
+      "majr": "Z234",
+      "title": "American Politics & Foreign Policy",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z234"
+    },
+    {
+      "majr": "F311",
+      "title": "Applied Environmental Science",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F311"
+    },
+    {
+      "majr": "F124",
+      "title": "Applied Mathematics & Theoretical Physics",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F124"
+    },
+    {
+      "majr": "Z020",
+      "title": "Archives & Records Management",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z020"
+    },
+    {
+      "majr": "B531",
+      "title": "Aviation Finance",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B531"
+    },
+    {
+      "majr": "F104",
+      "title": "Biological & Biomolecular Science (Negotiated Learning)",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F104"
+    },
+    {
+      "majr": "F302",
+      "title": "Biomolecular Data Analytics & AI",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F302"
+    },
+    {
+      "majr": "X439",
+      "title": "Biotechnology",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X439"
+    },
+    {
+      "majr": "X447",
+      "title": "Biotechnology & Business",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X447"
+    },
+    {
+      "majr": "F102",
+      "title": "Biotherapeutics",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F102"
+    },
+    {
+      "majr": "F103",
+      "title": "Biotherapeutics & Business",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F103"
+    },
+    {
+      "majr": "B154",
+      "title": "Business Analytics",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B154"
+    },
+    {
+      "majr": "B857",
+      "title": "Business Analytics & AI",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B857"
+    },
+    {
+      "majr": "F042",
+      "title": "Chemistry (Negotiated Learning)",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F042"
+    },
+    {
+      "majr": "Z044",
+      "title": "Classics",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z044"
+    },
+    {
+      "majr": "X820",
+      "title": "Clinical Nutrition & Dietetics",
+      "award": "MSc",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X820"
+    },
+    {
+      "majr": "F120",
+      "title": "Computational Physics",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F120"
+    },
+    {
+      "majr": "X075",
+      "title": "Computed Tomography",
+      "award": "MSc",
+      "duration": "16 Months",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X075"
+    },
+    {
+      "majr": "T195",
+      "title": "Computer Science (Conversion)",
+      "award": "MSc",
+      "duration": "16 Months",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T195"
+    },
+    {
+      "majr": "Z197",
+      "title": "Creative Writing",
+      "award": "MFA",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z197"
+    },
+    {
+      "majr": "Z012",
+      "title": "Creative Writing",
+      "award": "MA",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z012"
+    },
+    {
+      "majr": "B220",
+      "title": "Criminology & Criminal Justice",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B220"
+    },
+    {
+      "majr": "B292",
+      "title": "Criminology & Criminal Justice",
+      "award": "LLM",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B292"
+    },
+    {
+      "majr": "W589",
+      "title": "Critical Geographies: Crises, Climate & Inequality",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W589"
+    },
+    {
+      "majr": "Z041",
+      "title": "Cultural Policy & Arts Management",
+      "award": "MA",
+      "duration": "1/3 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z041"
+    },
+    {
+      "majr": "T306",
+      "title": "Data & Computational Science",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T306"
+    },
+    {
+      "majr": "F252",
+      "title": "Design Thinking for Sustainability",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F252"
+    },
+    {
+      "majr": "W622",
+      "title": "Digital & AI Policy",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W622"
+    },
+    {
+      "majr": "B551",
+      "title": "Digital Innovation",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B551"
+    },
+    {
+      "majr": "B859",
+      "title": "Digital Innovation & AI",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B859"
+    },
+    {
+      "majr": "B424",
+      "title": "Digital Marketing",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B424"
+    },
+    {
+      "majr": "B820",
+      "title": "EU Law & Governance",
+      "award": "LLM",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B820"
+    },
+    {
+      "majr": "F290",
+      "title": "Environmental & Engineering Geoscience",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F290"
+    },
+    {
+      "majr": "X966",
+      "title": "Epidemiology",
+      "award": "MPH",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X966"
+    },
+    {
+      "majr": "Z222",
+      "title": "European History",
+      "award": "MA",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z222"
+    },
+    {
+      "majr": "X913",
+      "title": "European Master in Public Health (Europubhealth+)",
+      "award": "MPH",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X913"
+    },
+    {
+      "majr": "B269",
+      "title": "Finance",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B269"
+    },
+    {
+      "majr": "B746",
+      "title": "Financial Data Science",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B746"
+    },
+    {
+      "majr": "T341",
+      "title": "Financial Mathematics",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T341"
+    },
+    {
+      "majr": "D042",
+      "title": "Food Business Strategy",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=D042"
+    },
+    {
+      "majr": "W599",
+      "title": "GIS & Remote Sensing",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W599"
+    },
+    {
+      "majr": "Z162",
+      "title": "Gender, Sexuality & Culture",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z162"
+    },
+    {
+      "majr": "W051",
+      "title": "Geography",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W051"
+    },
+    {
+      "majr": "W262",
+      "title": "Geopolitics & the Global Economy",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W262"
+    },
+    {
+      "majr": "B693",
+      "title": "Global Business Practice",
+      "award": "MSc",
+      "duration": "23 Months",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B693"
+    },
+    {
+      "majr": "F038",
+      "title": "Global Change: Ecosystem Science & Policy",
+      "award": "MSc",
+      "duration": "16 Months",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F038"
+    },
+    {
+      "majr": "Z347",
+      "title": "Global History",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z347"
+    },
+    {
+      "majr": "Z240",
+      "title": "History of Welfare & Medicine in Society",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z240"
+    },
+    {
+      "majr": "B265",
+      "title": "Human Resource Management",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B265"
+    },
+    {
+      "majr": "D062",
+      "title": "Humanitarian Action",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=D062"
+    },
+    {
+      "majr": "D061",
+      "title": "Humanitarian Action",
+      "award": "MSc",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=D061"
+    },
+    {
+      "majr": "B296",
+      "title": "Intellectual Property & Information Technology",
+      "award": "LLM",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B296"
+    },
+    {
+      "majr": "B263",
+      "title": "International Business",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B263"
+    },
+    {
+      "majr": "W435",
+      "title": "International Financial Services Law",
+      "award": "LLM",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W435"
+    },
+    {
+      "majr": "B440",
+      "title": "International Human Rights",
+      "award": "LLM",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B440"
+    },
+    {
+      "majr": "B438",
+      "title": "International Law & Business",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B438"
+    },
+    {
+      "majr": "B743",
+      "title": "International Management (CEMS)",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B743"
+    },
+    {
+      "majr": "Z258",
+      "title": "International War Studies",
+      "award": "MA",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z258"
+    },
+    {
+      "majr": "Z264",
+      "title": "Irish History",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z264"
+    },
+    {
+      "majr": "Z365",
+      "title": "Journalism & International Affairs",
+      "award": "MA",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z365"
+    },
+    {
+      "majr": "B294",
+      "title": "LLM General",
+      "award": "LLM",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B294"
+    },
+    {
+      "majr": "B453",
+      "title": "LLM International Commercial Law FT",
+      "award": "LLM",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B453"
+    },
+    {
+      "majr": "Z251",
+      "title": "Literature & Culture",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z251"
+    },
+    {
+      "majr": "Z344",
+      "title": "MA Art History, Collections and Curating",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z344"
+    },
+    {
+      "majr": "W456",
+      "title": "MA Contemporary European Philosophy",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W456"
+    },
+    {
+      "majr": "W027",
+      "title": "MA Education",
+      "award": "MA",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W027"
+    },
+    {
+      "majr": "W398",
+      "title": "MA Ethics: Theory and Practice",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W398"
+    },
+    {
+      "majr": "W346",
+      "title": "MA European Politics & Policy",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W346"
+    },
+    {
+      "majr": "W383",
+      "title": "MA Gender Studies",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W383"
+    },
+    {
+      "majr": "W458",
+      "title": "MA Gender, Politics and International Relations",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W458"
+    },
+    {
+      "majr": "W301",
+      "title": "MA International Development",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W301"
+    },
+    {
+      "majr": "W290",
+      "title": "MA International Political Economy",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W290"
+    },
+    {
+      "majr": "W235",
+      "title": "MA International Relations",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W235"
+    },
+    {
+      "majr": "Z253",
+      "title": "MA Irish Folklore & Ethnology",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z253"
+    },
+    {
+      "majr": "Z372",
+      "title": "MA Languages & Image Studies",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z372"
+    },
+    {
+      "majr": "W393",
+      "title": "MA Middle East Politics",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W393"
+    },
+    {
+      "majr": "W410",
+      "title": "MA Peace and Conflict",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W410"
+    },
+    {
+      "majr": "W021",
+      "title": "MA Philosophy",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W021"
+    },
+    {
+      "majr": "W179",
+      "title": "MA Philosophy & Literature",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W179"
+    },
+    {
+      "majr": "W595",
+      "title": "MA Philosophy of Mind and Embodied Cognition",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W595"
+    },
+    {
+      "majr": "W277",
+      "title": "MA Political Theory",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W277"
+    },
+    {
+      "majr": "W023",
+      "title": "MA Politics",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W023"
+    },
+    {
+      "majr": "Z030",
+      "title": "MA Scríobh & Cumarsáid na Gaeilge",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z030"
+    },
+    {
+      "majr": "W438",
+      "title": "MA Sociology",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W438"
+    },
+    {
+      "majr": "Z155",
+      "title": "MA TESOL (Teaching English to Speakers of Other Languages)",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z155"
+    },
+    {
+      "majr": "Z378",
+      "title": "MA TESOL (applicants with no teaching experience)",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z378"
+    },
+    {
+      "majr": "Z195",
+      "title": "MA in Irish Studies",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z195"
+    },
+    {
+      "majr": "Z360",
+      "title": "MA in Linguistics and Applied Linguistics",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z360"
+    },
+    {
+      "majr": "W182",
+      "title": "MA in Philosophy & Public Affairs",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W182"
+    },
+    {
+      "majr": "Z029",
+      "title": "MA sa Nua-Ghaeilge",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z029"
+    },
+    {
+      "majr": "B009",
+      "title": "MBA FT",
+      "award": "MBA",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B009"
+    },
+    {
+      "majr": "T335",
+      "title": "ME in Electrical Power Engineering",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T335"
+    },
+    {
+      "majr": "W216",
+      "title": "MEconSc European Public Affairs & Law",
+      "award": "MEconSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W216"
+    },
+    {
+      "majr": "T070",
+      "title": "MEngSc in Biopharmaceutical Engineering",
+      "award": "MEngSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T070"
+    },
+    {
+      "majr": "T218",
+      "title": "MEngSc in Chemical Engineering",
+      "award": "MEngSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T218"
+    },
+    {
+      "majr": "T378",
+      "title": "MEngSc in Electrical Power Networks",
+      "award": "MEngSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T378"
+    },
+    {
+      "majr": "T257",
+      "title": "MEngSc in Electronic & Computer Engineering",
+      "award": "MEngSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T257"
+    },
+    {
+      "majr": "T288",
+      "title": "MEngSc in Engineering Management",
+      "award": "MEngSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T288"
+    },
+    {
+      "majr": "X082",
+      "title": "MEngSc in Food Engineering",
+      "award": "MEngSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X082"
+    },
+    {
+      "majr": "T286",
+      "title": "MEngSc in Materials Science and Engineering",
+      "award": "MEngSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T286"
+    },
+    {
+      "majr": "T279",
+      "title": "MEngSc in Structural Engineering",
+      "award": "MEngSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T279"
+    },
+    {
+      "majr": "T430",
+      "title": "MEngSc in Water and Environmental Engineering",
+      "award": "MEngSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T430"
+    },
+    {
+      "majr": "Z357",
+      "title": "MMus Music & Culture",
+      "award": "MMus",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z357"
+    },
+    {
+      "majr": "D049",
+      "title": "MSc Agricultural Extension and Innovation",
+      "award": "MAgrSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=D049"
+    },
+    {
+      "majr": "W626",
+      "title": "MSc Applied Catchment Science & Management",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W626"
+    },
+    {
+      "majr": "W369",
+      "title": "MSc Applied Economics",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W369"
+    },
+    {
+      "majr": "W491",
+      "title": "MSc Archaeology",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W491"
+    },
+    {
+      "majr": "F297",
+      "title": "MSc Artificial Intelligence for Weather & Climate Change FT",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F297"
+    },
+    {
+      "majr": "W376",
+      "title": "MSc Behavioural Economics",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W376"
+    },
+    {
+      "majr": "W461",
+      "title": "MSc Behavioural Neuroscience",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W461"
+    },
+    {
+      "majr": "X789",
+      "title": "MSc Clinical & Translational Research Full-Time",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X789"
+    },
+    {
+      "majr": "W358",
+      "title": "MSc Cognitive Science",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W358"
+    },
+    {
+      "majr": "W440",
+      "title": "MSc Communication and Media",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W440"
+    },
+    {
+      "majr": "W360",
+      "title": "MSc Comparative Social Change",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W360"
+    },
+    {
+      "majr": "T150",
+      "title": "MSc Computer Science (Negotiated Learning)",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T150"
+    },
+    {
+      "majr": "W480",
+      "title": "MSc Education, Children & Youth",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W480"
+    },
+    {
+      "majr": "X089",
+      "title": "MSc Environmental Resource Management",
+      "award": "MSc(Agr)",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X089"
+    },
+    {
+      "majr": "W105",
+      "title": "MSc Equality Studies",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W105"
+    },
+    {
+      "majr": "W351",
+      "title": "MSc European Governance",
+      "award": "MSc",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W351"
+    },
+    {
+      "majr": "W344",
+      "title": "MSc European Politics & Policy",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W344"
+    },
+    {
+      "majr": "X846",
+      "title": "MSc Experimental Physiology",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X846"
+    },
+    {
+      "majr": "D098",
+      "title": "MSc Food Science with Nutrition",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=D098"
+    },
+    {
+      "majr": "W525",
+      "title": "MSc Gender, Politics & International Relations",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W525"
+    },
+    {
+      "majr": "D064",
+      "title": "MSc Horticulture",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=D064"
+    },
+    {
+      "majr": "W521",
+      "title": "MSc Human Computer Interaction",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W521"
+    },
+    {
+      "majr": "W035",
+      "title": "MSc Human Rights",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W035"
+    },
+    {
+      "majr": "W501",
+      "title": "MSc Hunter-Gatherer Archaeology",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W501"
+    },
+    {
+      "majr": "W267",
+      "title": "MSc Information Systems",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W267"
+    },
+    {
+      "majr": "W303",
+      "title": "MSc International Development",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W303"
+    },
+    {
+      "majr": "W293",
+      "title": "MSc International Political Economy",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W293"
+    },
+    {
+      "majr": "W036",
+      "title": "MSc International Relations",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W036"
+    },
+    {
+      "majr": "W629",
+      "title": "MSc Mediterranean Archaeology",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W629"
+    },
+    {
+      "majr": "W628",
+      "title": "MSc Multilingual Education",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W628"
+    },
+    {
+      "majr": "W408",
+      "title": "MSc Peace and Conflict",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W408"
+    },
+    {
+      "majr": "W233",
+      "title": "MSc Politics",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W233"
+    },
+    {
+      "majr": "W473",
+      "title": "MSc Politics & Data Science",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W473"
+    },
+    {
+      "majr": "X954",
+      "title": "MSc Precision Medicine Full-time",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X954"
+    },
+    {
+      "majr": "W559",
+      "title": "MSc Social Data Science",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W559"
+    },
+    {
+      "majr": "W436",
+      "title": "MSc Sociology",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W436"
+    },
+    {
+      "majr": "T414",
+      "title": "MSc Sustainability Engineering Leadership",
+      "award": "MSc",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T414"
+    },
+    {
+      "majr": "X376",
+      "title": "MSc Sustainable Agriculture and Rural Development",
+      "award": "MSc(Agr)",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X376"
+    },
+    {
+      "majr": "W601",
+      "title": "MSc Urban Data Analytics",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W601"
+    },
+    {
+      "majr": "D027",
+      "title": "MSc Wildlife Conservation and Management",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=D027"
+    },
+    {
+      "majr": "T339",
+      "title": "MSc in Architecture, Urbanism & Climate Action",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T339"
+    },
+    {
+      "majr": "T385",
+      "title": "MSc in Digital Technology for Sustainable Agriculture",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T385"
+    },
+    {
+      "majr": "W530",
+      "title": "MSc in Disability",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W530"
+    },
+    {
+      "majr": "T431",
+      "title": "MSc in Environmental Policy, Strategy & Leadership",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T431"
+    },
+    {
+      "majr": "X565",
+      "title": "MSc in Environmental Technology",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X565"
+    },
+    {
+      "majr": "W349",
+      "title": "MSc in Experimental Archaeology & Material Culture",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W349"
+    },
+    {
+      "majr": "T407",
+      "title": "MSc in Global Change Landscape Design",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T407"
+    },
+    {
+      "majr": "X413",
+      "title": "MSc in Sustainable Energy & Green Technologies",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X413"
+    },
+    {
+      "majr": "W332",
+      "title": "MSc in Urban Design & Planning",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W332"
+    },
+    {
+      "majr": "B429",
+      "title": "Management",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B429"
+    },
+    {
+      "majr": "B261",
+      "title": "Management Consultancy",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B261"
+    },
+    {
+      "majr": "B259",
+      "title": "Marketing",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B259"
+    },
+    {
+      "majr": "B658",
+      "title": "Marketing & Retail Innovation",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B658"
+    },
+    {
+      "majr": "B025",
+      "title": "Marketing Practice",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B025"
+    },
+    {
+      "majr": "X076",
+      "title": "Master in Magnetic Resonance Imaging",
+      "award": "MSc",
+      "duration": "16 Months",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X076"
+    },
+    {
+      "majr": "X677",
+      "title": "Master in Medical Imaging Full-time",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X677"
+    },
+    {
+      "majr": "X545",
+      "title": "Master in Ultrasound",
+      "award": "MSc",
+      "duration": "18 Months",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X545"
+    },
+    {
+      "majr": "T273",
+      "title": "Master of Architecture",
+      "award": "MArch",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T273"
+    },
+    {
+      "majr": "W006",
+      "title": "Master of Library & Information Studies",
+      "award": "MLIS",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W006"
+    },
+    {
+      "majr": "W241",
+      "title": "Master of Psychological Science",
+      "award": "MPsychSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W241"
+    },
+    {
+      "majr": "W279",
+      "title": "Master of Public Policy",
+      "award": "MPP",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W279"
+    },
+    {
+      "majr": "T399",
+      "title": "Master of Regional & Urban Planning",
+      "award": "MRUP",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T399"
+    },
+    {
+      "majr": "W178",
+      "title": "Master of Regional & Urban Planning",
+      "award": "MRUP",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W178"
+    },
+    {
+      "majr": "B209",
+      "title": "Masters Common Law",
+      "award": "MCL",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B209"
+    },
+    {
+      "majr": "T160",
+      "title": "Masters in Biomedical Engineering",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T160"
+    },
+    {
+      "majr": "T299",
+      "title": "Masters in Biosystems & Food Engineering",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T299"
+    },
+    {
+      "majr": "T308",
+      "title": "Masters in Civil Engineering",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T308"
+    },
+    {
+      "majr": "T298",
+      "title": "Masters in Civil, Structural & Environmental Engineering",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T298"
+    },
+    {
+      "majr": "T163",
+      "title": "Masters in Electronic & Computer Engineering",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T163"
+    },
+    {
+      "majr": "T164",
+      "title": "Masters in Energy Systems Engineering",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T164"
+    },
+    {
+      "majr": "T166",
+      "title": "Masters in Engineering with Business",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T166"
+    },
+    {
+      "majr": "T275",
+      "title": "Masters in Materials Science and Engineering",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T275"
+    },
+    {
+      "majr": "T165",
+      "title": "Masters in Mechanical Engineering",
+      "award": "ME",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T165"
+    },
+    {
+      "majr": "T405",
+      "title": "Masters in Robotics and Intelligent Manufacturing",
+      "award": "MEngSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T405"
+    },
+    {
+      "majr": "Z137",
+      "title": "Media & International Conflict",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z137"
+    },
+    {
+      "majr": "Z182",
+      "title": "Medieval Studies",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z182"
+    },
+    {
+      "majr": "F303",
+      "title": "Nano- & Biophysics (NanoBio)",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F303"
+    },
+    {
+      "majr": "T149",
+      "title": "NanoBio Science",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T149"
+    },
+    {
+      "majr": "F122",
+      "title": "Nanotechnology",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F122"
+    },
+    {
+      "majr": "X373",
+      "title": "Occupational Safety & Health",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X373"
+    },
+    {
+      "majr": "XA52",
+      "title": "One Health",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=XA52"
+    },
+    {
+      "majr": "F012",
+      "title": "Physics (Negotiated Learning)",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F012"
+    },
+    {
+      "majr": "F080",
+      "title": "Plant Biology & Biotechnology",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F080"
+    },
+    {
+      "majr": "B257",
+      "title": "Project Management",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B257"
+    },
+    {
+      "majr": "X065",
+      "title": "Public Health",
+      "award": "MPH",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X065"
+    },
+    {
+      "majr": "X299",
+      "title": "Public Health (Nutrition)",
+      "award": "MPH",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X299"
+    },
+    {
+      "majr": "Z247",
+      "title": "Public History",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z247"
+    },
+    {
+      "majr": "B158",
+      "title": "Quantitative Finance",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B158"
+    },
+    {
+      "majr": "F167",
+      "title": "Regulatory Affairs & Toxicology",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F167"
+    },
+    {
+      "majr": "F306",
+      "title": "Restoration Ecology",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F306"
+    },
+    {
+      "majr": "W464",
+      "title": "Risk, Resilience & Sustainability",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W464"
+    },
+    {
+      "majr": "F060",
+      "title": "Space Science & Technology",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F060"
+    },
+    {
+      "majr": "X762",
+      "title": "Sport Management (Sport)",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=X762"
+    },
+    {
+      "majr": "T387",
+      "title": "Statistical Data Science",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=T387"
+    },
+    {
+      "majr": "B715",
+      "title": "Strategic Management",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B715"
+    },
+    {
+      "majr": "F283",
+      "title": "Subsurface Geomodelling",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F283"
+    },
+    {
+      "majr": "B806",
+      "title": "Sustainable Finance",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B806"
+    },
+    {
+      "majr": "W618",
+      "title": "Sustainable Societies",
+      "award": "MSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W618"
+    },
+    {
+      "majr": "B793",
+      "title": "Sustainable Supply Chain Management",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B793"
+    },
+    {
+      "majr": "B745",
+      "title": "Teaching Chinese Language & Culture",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=B745"
+    },
+    {
+      "majr": "Z243",
+      "title": "Theatre Practice",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z243"
+    },
+    {
+      "majr": "D051",
+      "title": "UCD Teagasc Knowledge Transfer Funded Masters",
+      "award": "MAgrSc",
+      "duration": "2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=D051"
+    },
+    {
+      "majr": "W585",
+      "title": "Welfare & Justice",
+      "award": "MSocSc",
+      "duration": "1 Year",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W585"
+    },
+    {
+      "majr": "F098",
+      "title": "World Heritage Management & Conservation",
+      "award": "MSc",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=F098"
+    },
+    {
+      "majr": "Z351",
+      "title": "Writing for Stage & Screen",
+      "award": "MA",
+      "duration": "1/2 Years",
+      "url": "https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=Z351"
+    }
+  ]
+}

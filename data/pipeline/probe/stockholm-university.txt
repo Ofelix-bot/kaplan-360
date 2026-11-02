@@ -1,0 +1,129 @@
+# stockholm-university https://www.su.se
+robots sitemaps: https://www.su.se/rest-api/sitemap · crawl-delay: null · AI-agent groups: 0
+index https://www.su.se/rest-api/sitemap: 3 children (0 course-like)
+sitemaps read 4 · urls 90891 · master's-looking 502
+   20  www.su.se/english/news/articles
+         https://www.su.se/english/news/articles/2026-01-26-more-applicants-for-stockholm-universitys-international-masters-programmes
+         https://www.su.se/english/news/articles/2026-01-16-masters-student-in-the-forefront-of-research
+         https://www.su.se/english/news/articles/2026-05-13-proud-scholarship-graduates-received-their-diplomas
+         https://www.su.se/english/news/articles/2026-05-12-new-masters-programme-to-strengthen-swedish-influence-in-the-eu
+   19  www.su.se/english/divisions/department-of-media-studies
+         https://www.su.se/english/divisions/department-of-media-studies/education/study-abroad/cinema-masters-programme-student-david-walsh-made-his-exchange-in-paris
+         https://www.su.se/english/divisions/department-of-media-studies/education/study-abroad/cinema-masters-student-felicia-did-her-exchange-at-new-york-university
+         https://www.su.se/english/divisions/department-of-media-studies/education/study-abroad/mariapia---exchange-semester-within-masterprogramme-in-global-media-studies
+         https://www.su.se/english/divisions/department-of-media-studies/education/study-abroad/masters-programme-in-global-media-studies-exchange
+   18  www.su.se/english/divisions/department-of-biology-education
+         https://www.su.se/english/divisions/department-of-biology-education/calendar/events/2026-03-30-new-masters-student-activate-your-university-account
+         https://www.su.se/english/divisions/department-of-biology-education/calendar/events/2026-03-30-new-masters-student-register-for-your-autumn-studies
+         https://www.su.se/english/divisions/department-of-biology-education/calendar/events/2026-03-30-new-masters-student-last-day-to-select-courses-for-autumn-2026
+         https://www.su.se/english/divisions/department-of-biology-education/calendar/events/2026-03-26-webinar-for-newly-admitted-masters-students
+   17  www.su.se/english/divisions/department-of-ecology-environment-and-plant-sciences
+         https://www.su.se/english/divisions/department-of-ecology-environment-and-plant-sciences/calendar/events/2023-06-02-msc-thesis-presentation-markus-olsson
+         https://www.su.se/english/divisions/department-of-ecology-environment-and-plant-sciences/calendar/events/2023-06-02-msc-thesis-chloe-marshall
+         https://www.su.se/english/divisions/department-of-ecology-environment-and-plant-sciences/calendar/events/2022-10-17-msc-project-presentation-jonna-kallas
+         https://www.su.se/english/divisions/department-of-ecology-environment-and-plant-sciences/calendar/events/2022-10-17-msc-project-presentation-leo-nasstrom
+   15  www.su.se/english/divisions/department-of-physics
+         https://www.su.se/english/divisions/department-of-physics/news/articles/2026-04-14-call-for-wise-research-masters-thesis-2026-2027
+         https://www.su.se/english/divisions/department-of-physics/about-the-department/organisation/committee-for-postgraduate-education
+         https://www.su.se/english/divisions/department-of-physics/about-the-department/organisation/the-committee-for-undergraduate-education
+         https://www.su.se/english/divisions/department-of-physics/news/articles/2024-08-16-aiste-attends-the-masters-programme-in-computational-physics-at-fysikum
+   14  www.su.se/english/divisions/department-of-asian-and-middle-eastern-studies
+         https://www.su.se/english/divisions/department-of-asian-and-middle-eastern-studies/calendar/events/2024-05-29-master-ceremony-for-ma-students-who-defended-their-thesis
+         https://www.su.se/english/divisions/department-of-asian-and-middle-eastern-studies/calendar/events/2024-05-28-ma-asian-studies-programme-masters-thesis-defenses
+         https://www.su.se/english/divisions/department-of-asian-and-middle-eastern-studies/calendar/events/2023-08-23-ma-asian-studies-programme-masters-thesis-defenses
+         https://www.su.se/english/divisions/department-of-asian-and-middle-eastern-studies/calendar/events/2023-06-07-ma-asian-studies-programme-masters-thesis-defenses
+   12  www.su.se/english/education/course-catalogue
+         https://www.su.se/english/education/course-catalogue/fk/fk8039/articles/alex-sulaj-is-a-master-student-in-physics-at-fysikum
+         https://www.su.se/english/education/course-catalogue/fk/fk8026/articles/alex-sulaj-is-a-master-student-in-physics-at-fysikum
+         https://www.su.se/english/education/course-catalogue/hm/hmfao/articles/faq-fashion-master
+         https://www.su.se/english/education/course-catalogue/no/nokeo/articles/meet-tessa-msc-student-in-organic-chemistry
+   12  www.su.se/english/calendar/events
+         https://www.su.se/english/calendar/events/2025-11-25-change-main-subject-for-your-masters
+         https://www.su.se/english/calendar/events/2025-09-16-celebrate-your-masters-degree
+         https://www.su.se/english/calendar/events/2025-08-08-notification-of-selection-results-for-masters-first-admissions-round
+         https://www.su.se/english/calendar/events/2026-01-20-writing-group-for-masters-thesis-writers
+   11  www.su.se/nyheter/nyhetsartiklar
+         https://www.su.se/nyheter/nyhetsartiklar/2026-01-26-fler-soker-internationella-masterprogram-vid-stockholms-universitet
+         https://www.su.se/nyheter/nyhetsartiklar/2024-09-13-sveriges-forsta-masterprogram-i-miljohumaniora-invigt
+         https://www.su.se/nyheter/nyhetsartiklar/2025-03-24-forma-morgondagens-hallbara-samhalle-ansok-till-masterprogram-med-inriktning-miljohumaniora
+         https://www.su.se/nyheter/nyhetsartiklar/2026-06-30-ny-master-i-ai-och-sprak-visar-starka-resultat---hela-forsta-kullen-tog-examen-i-tid
+   11  www.su.se/english/divisions/chemistry-section
+         https://www.su.se/english/divisions/chemistry-section/news/articles/2023-06-22-first-student-has-completed-their-studies-at-the-masters-program-in-sustainable-chemistry
+         https://www.su.se/english/divisions/chemistry-section/calendar/events/2026-03-20-webinar-about-the-masters-programmes-in-biochemistry-and-neurochemistry
+         https://www.su.se/english/divisions/chemistry-section/calendar/events/2025-10-21-webinar-about-the-masters-programmes-in-biochemistry-and-neurochemistry
+         https://www.su.se/english/divisions/chemistry-section/calendar/events/2021-11-17-meet-us-at-stockholm-university-virtual-masters-fair
+   10  www.su.se/enheter/institutionen-for-asien--och-mellanosternstudier/kalender
+         https://www.su.se/enheter/institutionen-for-asien--och-mellanosternstudier/kalender/kalenderartiklar/2026-05-25-uppsatsopponering-ma-programmet-i-asienstudier
+         https://www.su.se/enheter/institutionen-for-asien--och-mellanosternstudier/kalender/kalenderartiklar/2025-06-02-framlaggning-av-ma-uppsatser-i-asiens-sprak-och-kulturer-2025
+         https://www.su.se/enheter/institutionen-for-asien--och-mellanosternstudier/kalender/kalenderartiklar/2024-05-29-masterceremoni-for-studenter-som-forsvarat-sin-uppsats
+         https://www.su.se/enheter/institutionen-for-asien--och-mellanosternstudier/kalender/kalenderartiklar/2024-05-28-uppsatsopponeringar-ma-programmet-i-asienstudier
+   10  www.su.se/english/education/masters-of-science-at-stockholm-university
+         https://www.su.se/english/education/masters-of-science-at-stockholm-university/why-study-science-at-stockholm-university
+         https://www.su.se/english/education/masters-of-science-at-stockholm-university/master-programmes-in-science
+         https://www.su.se/english/education/masters-of-science-at-stockholm-university/master-programmes-in-science/masters-programmes-in-science
+         https://www.su.se/english/education/masters-of-science-at-stockholm-university/courses-in-science
+    9  www.su.se/enheter/institutionen-for-arkeologi-och-antikens-kultur/utbildning
+         https://www.su.se/enheter/institutionen-for-arkeologi-och-antikens-kultur/utbildning/studera-hos-oss/masteruppsatser-2024-2025
+         https://www.su.se/enheter/institutionen-for-arkeologi-och-antikens-kultur/utbildning/studera-hos-oss/masteruppsatser-2020-2023
+         https://www.su.se/enheter/institutionen-for-arkeologi-och-antikens-kultur/utbildning/studera-hos-oss/masteruppsatser-2010-2019
+         https://www.su.se/enheter/institutionen-for-arkeologi-och-antikens-kultur/utbildning/studera-hos-oss/masteruppsatser-fore-2010
+    9  www.su.se/enheter/executive-education/nyheter
+         https://www.su.se/enheter/executive-education/nyheter/nyhetsartiklar/2026-10-26-executive-mba-kullen-2024-firade-examen-i-albano
+         https://www.su.se/enheter/executive-education/nyheter/nyhetsartiklar/2026-09-23-uppstart-for-executive-mba-programmet-2026
+         https://www.su.se/enheter/executive-education/nyheter/nyhetsartiklar/2025-10-23-examensceremoni-executive-mba
+         https://www.su.se/enheter/executive-education/nyheter/nyhetsartiklar/2025-10-01-uppstart-for-executive-mba-programmet-2025
+    8  www.su.se/enheter/sociologiska-institutionen/kalender
+         https://www.su.se/enheter/sociologiska-institutionen/kalender/kalenderartiklar/2026-10-12-antagningsbesked-for-masterprogram-som-startar-hostterminen-2027
+         https://www.su.se/enheter/sociologiska-institutionen/kalender/kalenderartiklar/2025-09-17-ansok-till-vara-masterprogram-i-sociologi-och-demografi-hosten-2026
+         https://www.su.se/enheter/sociologiska-institutionen/kalender/kalenderartiklar/2025-10-03-webbinarium-om-vara-masterprogram-i-sociologi-och-demografi
+         https://www.su.se/enheter/sociologiska-institutionen/kalender/kalenderartiklar/2025-10-06-chatta-med-oss---stall-dina-sista-minuten-fragor-om-ansokan-till-masterprogrammen-ht-26
+    8  www.su.se/english/divisions/department-of-sociology
+         https://www.su.se/english/divisions/department-of-sociology/calendar/events/2023-10-24-meet-us-at-international-masters-days
+         https://www.su.se/english/divisions/department-of-sociology/calendar/events/2023-09-11-last-day-to-apply-to-masters-programme-for-autumn-2024
+         https://www.su.se/english/divisions/department-of-sociology/calendar/events/2025-01-15-application-for-masters-courses-autumn-semester-2025-opens
+         https://www.su.se/english/divisions/department-of-sociology/calendar/events/2025-09-17-apply-to-a-masters-programme-in-sociology-or-demography-starting-autumn-2026
+    7  www.su.se/english/divisions/stockholm-business-school
+         https://www.su.se/english/divisions/stockholm-business-school/education/new-student/faq-for-master-students
+         https://www.su.se/english/divisions/stockholm-business-school/education/new-student/admission-for-masters-students
+         https://www.su.se/english/divisions/stockholm-business-school/education/study-abroad/masters-programmes
+         https://www.su.se/english/divisions/stockholm-business-school/education/courses-and-programmes/how-to-apply---masters-programmes
+    7  www.su.se/english/divisions/department-of-education
+         https://www.su.se/english/divisions/department-of-education/news/articles/2023-11-06-meet-masters-student-diana-garcia-huaman
+         https://www.su.se/english/divisions/department-of-education/calendar/events/2024-03-18-masters-programme-in-education-with-international-and-comparative-specialisation
+         https://www.su.se/english/divisions/department-of-education/calendar/events/2026-03-19-information-webinar-for-newly-accepted-masters-students
+         https://www.su.se/english/divisions/department-of-education/calendar/events/2022-10-13-meet-us-at-the-stockholm-university-virtual-masters-fair
+    7  www.su.se/english/divisions/department-of-philosophy
+         https://www.su.se/english/divisions/department-of-philosophy/news/articles/2025-11-21-the-9th-stockholm-philosophy-graduate-conference-2025-4-5-dec
+         https://www.su.se/english/divisions/department-of-philosophy/news/articles/2023-02-01-graduate-school-on-norms-and-normativity
+         https://www.su.se/english/divisions/department-of-philosophy/calendar/events/2021-12-07-7th-stockholm-graduate-conference-in-philosophy
+         https://www.su.se/english/divisions/department-of-philosophy/calendar/events/2025-11-21-9th-stockholm-philosophy-graduate-conference-2025
+    6  www.su.se/kalender/kalenderartiklar
+         https://www.su.se/kalender/kalenderartiklar/2025-10-22-infomote-om-tvarvetenskapligt-masterprogram-tracee
+         https://www.su.se/kalender/kalenderartiklar/2025-08-08-antagningsbesked-for-internationella-masterprogram-ht26
+         https://www.su.se/kalender/kalenderartiklar/2025-08-08-sista-anmalningsdag-till-internationella-masterprogram-ht26
+         https://www.su.se/kalender/kalenderartiklar/2026-08-18-fira-din-masterexamen
+    6  www.su.se/enheter/barn--och-ungdomsvetenskapliga-institutionen/utbildning
+         https://www.su.se/enheter/barn--och-ungdomsvetenskapliga-institutionen/utbildning/studera-hos-oss/intervju-med-klara-pa-masterprogrammet
+         https://www.su.se/enheter/barn--och-ungdomsvetenskapliga-institutionen/utbildning/studera-hos-oss/en-masterstudents-tankar-om-utbildningen
+         https://www.su.se/enheter/barn--och-ungdomsvetenskapliga-institutionen/utbildning/studera-hos-oss/emelie-om-masterprogrammet-i-forskoledidaktik-och-vidare-karriar
+         https://www.su.se/enheter/barn--och-ungdomsvetenskapliga-institutionen/utbildning/studera-utomlands/internationalisering-inom-masterprogram-i-barn--och-ungdomsvetenskap
+    6  www.su.se/enheter/institutionen-for-biologisk-grundutbildning/kalender
+         https://www.su.se/enheter/institutionen-for-biologisk-grundutbildning/kalender/kalenderartiklar/2026-04-27-sista-dag-att-soka-till-senare-del-av-masterprogram
+         https://www.su.se/enheter/institutionen-for-biologisk-grundutbildning/kalender/kalenderartiklar/2026-04-27-ansokan-till-senare-del-av-master-oppnar
+         https://www.su.se/enheter/institutionen-for-biologisk-grundutbildning/kalender/kalenderartiklar/2026-03-27-ny-masterstudent-aktiverera-ditt-universitetskonto
+         https://www.su.se/enheter/institutionen-for-biologisk-grundutbildning/kalender/kalenderartiklar/2026-03-27-ny-masterstudent-sista-dag-att-valja-kurser-infor-hosten-2026
+    6  www.su.se/enheter/executive-education/om-executive-mba-programmet
+         https://www.su.se/enheter/executive-education/om-executive-mba-programmet/fragor-och-svar-om-executive-mba-programmet
+         https://www.su.se/enheter/executive-education/om-executive-mba-programmet/lisen-thulin-vd-akademikerforsakring
+         https://www.su.se/enheter/executive-education/om-executive-mba-programmet/fick-direkt-nytta-av-utbildningen
+         https://www.su.se/enheter/executive-education/om-executive-mba-programmet/avgorande-for-var-grona-omstallning
+    6  www.su.se/english/research/research-catalogue
+         https://www.su.se/english/research/research-catalogue/research-projects/a/national-graduate-school-in-digital-philology
+         https://www.su.se/english/research/research-catalogue/research-projects/4/professional-development-in-biomedical-laboratory-scientist-undergraduate-students--
+         https://www.su.se/english/research/research-catalogue/research-projects/9/remath---researching-practice-based-mathematics-teacher-education.-a-national-graduate-school
+         https://www.su.se/english/research/research-catalogue/research-projects/c/schooling-in-perspective-a-graduate-school-in-applied-history-of-education
+    6  www.su.se/english/divisions/department-of-computer-and-systems-sciences
+         https://www.su.se/english/divisions/department-of-computer-and-systems-sciences/news/articles/2024-01-24-dsv-continues-to-attract-master-students
+         https://www.su.se/english/divisions/department-of-computer-and-systems-sciences/education/study-with-us/masters-application-faq
+         https://www.su.se/english/divisions/department-of-computer-and-systems-sciences/education/during-your-studies/masters-thesis
+         https://www.su.se/english/divisions/department-of-computer-and-systems-sciences/education/during-your-studies/masters-thesis-in-collaboration-with-companies-or-organisations

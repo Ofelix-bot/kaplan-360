@@ -1,0 +1,17 @@
+{
+ "source": "International degree programs list https://www.lmu.de/en/study/all-degrees-and-programs/international-degree-programs/ plus LMU sitemap master's pages (master-hauptfach), each checked for 'Unterrichtssprache/Studiensprache Englisch'; central programme pages exist in German only, English department pages used where available (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/european-and-international-economic-law-master-hauptfach-29824.html",
+  "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/global-public-policy-master-hauptfach-29568.html",
+  "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/journalism-media-and-globalisation-master-hauptfach-19264.html",
+  "https://www.som.lmu.de/en/studies/study-offer/master-international-triple-degree/index.html",
+  "https://www.stat.lmu.de/en/studies/interested-master/",
+  "https://www.fm.math.lmu.de/en/study-programs/international-master-financial-and-insurance-mathematics-and-green-finance/",
+  "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/software-engineering-master-hauptfach-4558.html",
+  "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/psychology-learning-sciences-and-human-development-master-hauptfach-4549.html",
+  "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/neuro-cognitive-psychology-master-hauptfach-4525.html",
+  "https://www.lmu.de/de/studium/studienangebot/alle-studienfaecher-und-studiengaenge/management-and-digital-technologies-master-hauptfach-4521.html",
+  "https://www.som.lmu.de/eminsurance/en/"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "About": "关于",
+  "About us": "关于我们",
+  "At your own pace.": "按你自己的节奏。",
+  "This site is built with Next.js, React, Tailwind CSS, Motion and shadcn/ui on Base UI. Programme data is stored in Supabase, and the site is hosted on Netlify.": "网站用 Next.js、React、Tailwind CSS、基于 Base UI 的 shadcn/ui 和 Motion 搭建。项目数据存放在 Supabase，网站托管在 Netlify。",
+  "Declaration": "声明",
+  "Disclaimer": "免责声明",
+  "How the site is built, and where its numbers come from, is set out in the <a>Declaration</a>.": "网站怎么搭建、数字从哪里来，写在<a>声明</a>里。",
+  "How this site is built": "网站是怎么搭建的",
+  "Kaplan 360++ is for Kaplan diploma and degree students working out what comes next. Every option on it comes with the official page it was read from, so the decision stays yours, made at your own pace.": "Kaplan 360++ 写给正在考虑下一步的 Kaplan 国际大一和本科学生。网站上的每个选项都附有它所依据的官方页面，决定始终由你来做，按你自己的节奏。",
+  "ReFly.X, the team building Kaplan 360++ for Kaplan (Singapore) AI For Impact 2026.": "ReFly.X，为 Kaplan（新加坡）AI For Impact 2026 打造 Kaplan 360++ 的团队。",
+  "Routes": "路径",
+  "Site information": "网站信息",
+  "Studying now": "目前在读",
+  "The team": "团队成员",
+  "To check": "需核实",
+  "We’re <b>ReFly.X</b>, a team of four building Kaplan 360++ for Kaplan (Singapore) AI For Impact 2026.": "我们是 <b>ReFly.X</b>，一支四人团队，正在为 Kaplan（新加坡）AI For Impact 2026 打造 Kaplan 360++。",
+  "Your decision.": "由你决定。"
+}

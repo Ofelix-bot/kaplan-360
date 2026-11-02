@@ -1,0 +1,22 @@
+{
+  "id": "macao-polytechnic-university",
+  "builtAt": "2026-10-19",
+  "seeds": [
+    "https://mpusite.mpu.edu.mo/postgraduate/en/master_list.php"
+  ],
+  "pages": [
+    "https://mpusite.mpu.edu.mo/esa/en/master_iarts.php",
+    "https://mpusite.mpu.edu.mo/esce/en/master_bagm_2324.php",
+    "https://mpusite.mpu.edu.mo/esce/en/master_fda.php",
+    "https://mpusite.mpu.edu.mo/esce/en/master_mba.php",
+    "https://mpusite.mpu.edu.mo/eschs/en/master_edcce.php",
+    "https://mpusite.mpu.edu.mo/eschs/en/master_mpa.php",
+    "https://mpusite.mpu.edu.mo/escsd/en/master_sn_2324.php",
+    "https://mpusite.mpu.edu.mo/escsd/en/master_sspe_2324.php",
+    "https://mpusite.mpu.edu.mo/eslt/en/master_cpti.php",
+    "https://mpusite.mpu.edu.mo/postgraduate/en/master_list.php",
+    "https://www.mpu.edu.mo/esca/en/master_ei.php",
+    "https://www.mpu.edu.mo/esca/en/master_sbdit_2324.php",
+    "https://www.mpu.edu.mo/esca/en/master_sti.php"
+  ]
+}

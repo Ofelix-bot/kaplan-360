@@ -1,0 +1,4 @@
+# norwegian-university-of-science-and-technology https://www.ntnu.edu
+robots sitemaps: https://www.ntnu.no/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.ntnu.no/sitemap.xml: 68 children (0 course-like)
+sitemaps read 69 · urls 68 · master's-looking 0

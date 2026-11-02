@@ -1,0 +1,95 @@
+# university-of-illinois-at-chicago@2 https://grad.uic.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://grad.uic.edu/sitemap.xml: 14 children (1 course-like)
+sitemaps read 15 · urls 1474 · master's-looking 210
+   54  grad.uic.edu/events
+         https://grad.uic.edu/events/2019-combined-graduate-faculty-dgs/
+         https://grad.uic.edu/events/2018-combined-graduate-faculty-dgs/
+         https://grad.uic.edu/events/2017-combined-graduate-faculty-dgs/
+         https://grad.uic.edu/events/fall-2019-deadline-for-graduate-college-to-receive-certificates-of-approval-for-masters-professional-doctorate-project/
+   46  grad.uic.edu/faculty-staff-resources/graduate-data-resources/degree-thesis-lists
+         https://grad.uic.edu/faculty-staff-resources/graduate-data-resources/degree-thesis-lists/spring-2006-degree-thesis-lists/
+         https://grad.uic.edu/faculty-staff-resources/graduate-data-resources/degree-thesis-lists/fall-2009-degree-thesis-lists/
+         https://grad.uic.edu/faculty-staff-resources/graduate-data-resources/degree-thesis-lists/summer-2006-degree-thesis-lists/
+         https://grad.uic.edu/faculty-staff-resources/graduate-data-resources/degree-thesis-lists/fall-2004-degree-thesis-lists/
+   28  grad.uic.edu/news-stories
+         https://grad.uic.edu/news-stories/graduate-school-debt-is-it-a-crisis/
+         https://grad.uic.edu/news-stories/introduction-of-new-advice-column-by-graduate-career-advisers/
+         https://grad.uic.edu/news-stories/essay-on-five-professional-skills-for-graduate-students-to-learn/
+         https://grad.uic.edu/news-stories/essay-on-what-graduate-students-should-know-about-job-hunting-at-the-start-of-ph-d-programs/
+   13  grad.uic.edu/funding-awards/graduate-college-fellowships
+         https://grad.uic.edu/funding-awards/graduate-college-fellowships/access-fellowship/
+         https://grad.uic.edu/funding-awards/graduate-college-fellowships/student-presenter-awards/
+         https://grad.uic.edu/funding-awards/graduate-college-fellowships/ds/
+         https://grad.uic.edu/funding-awards/graduate-college-fellowships/uf/
+    7  grad.uic.edu/academic-support/graduate-college-policies
+         https://grad.uic.edu/academic-support/graduate-college-policies/continuing-student-status/
+         https://grad.uic.edu/academic-support/graduate-college-policies/auditors-course-visitors/
+         https://grad.uic.edu/academic-support/graduate-college-policies/withdrawing-from-all-courses/
+         https://grad.uic.edu/academic-support/graduate-college-policies/course-loads-and-full-three-quarter-and-half-time/
+    7  grad.uic.edu/academic-support/programs/graduate-college-courses
+         https://grad.uic.edu/academic-support/programs/graduate-college-courses/animal-research-and-comparative-medicine-courses/
+         https://grad.uic.edu/academic-support/programs/graduate-college-courses/scientific-integrity-responsible-research/
+         https://grad.uic.edu/academic-support/programs/graduate-college-courses/gc512/
+         https://grad.uic.edu/academic-support/programs/graduate-college-courses/principles-of-sustainability/
+    5  grad.uic.edu/faculty-staff-resources
+         https://grad.uic.edu/faculty-staff-resources/graduate-college-faculty-meetings/
+         https://grad.uic.edu/faculty-staff-resources/graduate-data-resources/
+         https://grad.uic.edu/faculty-staff-resources/graduate-college-elections/
+         https://grad.uic.edu/faculty-staff-resources/graduate-college-faculty/
+    5  grad.uic.edu/faculty-staff-resources/graduate-college-elections
+         https://grad.uic.edu/faculty-staff-resources/graduate-college-elections/election-ec-ac-2007/
+         https://grad.uic.edu/faculty-staff-resources/graduate-college-elections/election-ec-ac-2006/
+         https://grad.uic.edu/faculty-staff-resources/graduate-college-elections/election-ec-ac-2005/
+         https://grad.uic.edu/faculty-staff-resources/graduate-college-elections/election-ec-ac-2004/
+    5  grad.uic.edu/graduate-college-news-events
+         https://grad.uic.edu/graduate-college-news-events/
+         https://grad.uic.edu/graduate-college-news-events/events-listings/
+         https://grad.uic.edu/graduate-college-news-events/orientations/
+         https://grad.uic.edu/graduate-college-news-events/news-listings/
+    4  grad.uic.edu/graduate-college-news-events/orientations
+         https://grad.uic.edu/graduate-college-news-events/orientations/fall-2020/
+         https://grad.uic.edu/graduate-college-news-events/orientations/fall-2021/
+         https://grad.uic.edu/graduate-college-news-events/orientations/fall-2022/
+         https://grad.uic.edu/graduate-college-news-events/orientations/fall-2024/
+    3  grad.uic.edu/funding-awards
+         https://grad.uic.edu/funding-awards/graduate-college-fellowships/
+         https://grad.uic.edu/funding-awards/graduate-funding-overview/
+         https://grad.uic.edu/funding-awards/graduate-college-waivers/
+    3  grad.uic.edu/academic-support/programs
+         https://grad.uic.edu/academic-support/programs/graduate-catalogs/
+         https://grad.uic.edu/academic-support/programs/graduate-college-courses/
+         https://grad.uic.edu/academic-support/programs/graduate-program-in-neuroscience/
+    2  grad.uic.edu/faculty-staff-resources/governance
+         https://grad.uic.edu/faculty-staff-resources/governance/graduate-college-bylaws/
+         https://grad.uic.edu/faculty-staff-resources/governance/graduate-college-diversity-awards-committee-members/
+    2  grad.uic.edu/faculty-staff-resources/graduate-data-resources
+         https://grad.uic.edu/faculty-staff-resources/graduate-data-resources/degree-thesis-lists/
+         https://grad.uic.edu/faculty-staff-resources/graduate-data-resources/application-status-reports/
+    2  grad.uic.edu/academic-support/student-resources
+         https://grad.uic.edu/academic-support/student-resources/graduate-student-forms/
+         https://grad.uic.edu/academic-support/student-resources/graduate-programs-personnel/
+    2  grad.uic.edu/about
+         https://grad.uic.edu/about/graduate-college-directory/
+         https://grad.uic.edu/about/statement-supporting-black-graduate-students/
+    2  grad.uic.edu/event_categories
+         https://grad.uic.edu/event_categories/annual-meeting-of-the-graduate-faculty/
+         https://grad.uic.edu/event_categories/director-of-graduate-studies-meeting/
+    2  grad.uic.edu/news_tags
+         https://grad.uic.edu/news_tags/graduate-education/
+         https://grad.uic.edu/news_tags/graduateenrollment/
+    2  grad.uic.edu/roles
+         https://grad.uic.edu/roles/dean-of-the-graduate-college/
+         https://grad.uic.edu/roles/director-of-graduate-student-professional-career-development/
+    1  grad.uic.edu/academic-support/registration-information/degree-requirements
+         https://grad.uic.edu/academic-support/registration-information/degree-requirements/masters-degrees/
+    1  grad.uic.edu/academic-support/exams-defense
+         https://grad.uic.edu/academic-support/exams-defense/masters-thesis-defense/
+    1  grad.uic.edu/faculty-staff-resources/other-resources
+         https://grad.uic.edu/faculty-staff-resources/other-resources/graduate-mentoring-awards/
+    1  grad.uic.edu/admissions
+         https://grad.uic.edu/admissions/graduate-college-policy-on-conflicts-of-interest-in-the-admissions-process/
+    1  grad.uic.edu/faculty-staff-resources/governance/executive-committee-meeting-schedule
+         https://grad.uic.edu/faculty-staff-resources/governance/executive-committee-meeting-schedule/graduate-college-execuitve-schedule-ay-2011-2012/
+    1  grad.uic.edu/academic-support
+         https://grad.uic.edu/academic-support/graduate-college-policies/

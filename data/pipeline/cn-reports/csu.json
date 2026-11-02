@@ -1,0 +1,236 @@
+{
+  "id": "csu",
+  "status": "read",
+  "university": "中南大学",
+  "universityEn": "Central South University",
+  "tier": "985",
+  "url": "https://xxgk.csu.edu.cn/__local/F/D9/E1/843A804B0D4461ADA69D3EB0D88_68027467_217526.pdf",
+  "title": "中南大学2021年毕业生就业质量报告",
+  "year": 2021,
+  "cohort": "2021届",
+  "pages": 39,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": 405,
+      "pct": 5.06,
+      "quote": "国（境）外升学 405 5.06"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": null,
+      "count": 175,
+      "pct": null,
+      "quote": "1 英国 162 14 0 175"
+    },
+    {
+      "region": "中国香港",
+      "cohort": null,
+      "count": 89,
+      "pct": null,
+      "quote": "2 中国香港 72 14 3 89"
+    },
+    {
+      "region": "美国",
+      "cohort": null,
+      "count": 51,
+      "pct": null,
+      "quote": "3 美国 43 6 3 51"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": null,
+      "count": 43,
+      "pct": null,
+      "quote": "4 澳大利亚 33 10 0 43"
+    },
+    {
+      "region": "新加坡",
+      "cohort": null,
+      "count": 31,
+      "pct": null,
+      "quote": "5 新加坡 31 0 0 31"
+    },
+    {
+      "region": "日本",
+      "cohort": null,
+      "count": 30,
+      "pct": null,
+      "quote": "6 日本 28 2 0 30"
+    },
+    {
+      "region": "德国",
+      "cohort": null,
+      "count": 21,
+      "pct": null,
+      "quote": "7 德国 5 16 0 21"
+    },
+    {
+      "region": "荷兰",
+      "cohort": null,
+      "count": 10,
+      "pct": null,
+      "quote": "8 荷兰 5 5 0 10"
+    },
+    {
+      "region": "爱尔兰",
+      "cohort": null,
+      "count": 8,
+      "pct": null,
+      "quote": "9 爱尔兰 1 7 0 8"
+    },
+    {
+      "region": "法国",
+      "cohort": null,
+      "count": 7,
+      "pct": null,
+      "quote": "10 法国 3 4 0 7"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "世界排名前100（QS）",
+      "cohort": null,
+      "count": 302,
+      "pct": 59.92,
+      "quote": "2021 届毕业生 302 人赴世界排名前 100 的高校（不含内地高校）升学，占赴国（境）外升学毕业生总人数的 59.92%"
+    }
+  ],
+  "destinations": [
+    {
+      "nameZh": "曼彻斯特大学",
+      "nameEn": "University of Manchester",
+      "count": 33,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "1 曼彻斯特大学 33",
+      "institutionId": "university-of-manchester"
+    },
+    {
+      "nameZh": "香港城市大学",
+      "nameEn": "City University of Hong Kong",
+      "count": 28,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "2 香港城市大学 28",
+      "institutionId": "city-university-of-hong-kong"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "University of Hong Kong",
+      "count": 23,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "3 香港大学 23",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": 22,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "4 爱丁堡大学 22",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "伦敦大学学院",
+      "nameEn": "University College London",
+      "count": 21,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "5 伦敦大学学院 21",
+      "institutionId": "ucl"
+    },
+    {
+      "nameZh": "莫纳什大学",
+      "nameEn": "Monash University",
+      "count": 17,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "6 莫纳什大学 17",
+      "institutionId": "monash-university"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": 17,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "7 新加坡国立大学 17",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "华威大学",
+      "nameEn": "University of Warwick",
+      "count": 16,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "8 华威大学 16",
+      "institutionId": "university-of-warwick"
+    },
+    {
+      "nameZh": "伦敦国王学院",
+      "nameEn": "King's College London",
+      "count": 15,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "9 伦敦国王学院 15",
+      "institutionId": "king-s-college-london"
+    },
+    {
+      "nameZh": "南洋理工大学",
+      "nameEn": "Nanyang Technological University",
+      "count": 13,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "10 南洋理工大学 13",
+      "institutionId": "nanyang-technological-university-singapore"
+    },
+    {
+      "nameZh": "香港中文大学",
+      "nameEn": "The Chinese University of Hong Kong",
+      "count": 13,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "11 香港中文大学 13",
+      "institutionId": "chinese-university-of-hong-kong"
+    },
+    {
+      "nameZh": "布里斯托大学",
+      "nameEn": "University of Bristol",
+      "count": 12,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "12 布里斯托大学 12",
+      "institutionId": "university-of-bristol"
+    },
+    {
+      "nameZh": "香港理工大学",
+      "nameEn": "The Hong Kong Polytechnic University",
+      "count": 11,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "13 香港理工大学 11",
+      "institutionId": "hong-kong-polytechnic-university"
+    },
+    {
+      "nameZh": "帝国理工学院",
+      "nameEn": "Imperial College London",
+      "count": 10,
+      "group": "全体",
+      "list": "表 1-12 接受我校毕业生升学人数超 10 人的国（境）外高校",
+      "quote": "14 帝国理工学院 10",
+      "institutionId": "imperial-college-london"
+    }
+  ],
+  "dropped": [
+    "abroad 硕士生",
+    "abroad 博士生",
+    "abroad 全体"
+  ],
+  "checked": "2026-10-22"
+}

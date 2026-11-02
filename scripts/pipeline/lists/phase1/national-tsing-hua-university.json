@@ -1,0 +1,15 @@
+{
+ "source": "NTHU international admission department list https://apply.nthu.edu.tw/en/department/list, kept departments labelled English-taught (sufficient English courses to graduate) in the 13 disciplines (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://apply.nthu.edu.tw/en/department/104-imba",
+  "https://apply.nthu.edu.tw/en/department/22-statistics-and-data-science",
+  "https://apply.nthu.edu.tw/en/department/62-computer-science",
+  "https://apply.nthu.edu.tw/en/department/71-information-systems-and-applications",
+  "https://apply.nthu.edu.tw/en/department/73-information-security",
+  "https://apply.nthu.edu.tw/en/department/108-early-childhood-education",
+  "https://apply.nthu.edu.tw/en/department/110-education-and-learning-technology",
+  "https://apply.nthu.edu.tw/en/department/121-graduate",
+  "https://apply.nthu.edu.tw/en/department/123-learning-sciences-and-technologies"
+ ]
+}

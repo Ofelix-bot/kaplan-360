@@ -1,0 +1,122 @@
+# northeastern-university@2 https://graduate.northeastern.edu
+robots sitemaps: https://graduate.northeastern.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://graduate.northeastern.edu/sitemap_index.xml: 13 children (3 course-like)
+sitemaps read 14 · urls 1494 · master's-looking 592
+   93  graduate.northeastern.edu/knowledge-hub
+         https://graduate.northeastern.edu/knowledge-hub/economics-vs-finance-vs-mba/
+         https://graduate.northeastern.edu/knowledge-hub/masters-degree-benefits/
+         https://graduate.northeastern.edu/knowledge-hub/professional-degrees-vs-academic-graduate-degrees/
+         https://graduate.northeastern.edu/knowledge-hub/what-can-i-do-with-a-masters-in-engineering-management/
+   10  graduate.northeastern.edu/programs/mps-analytics-cps
+         https://graduate.northeastern.edu/programs/mps-analytics-cps/master-of-professional-studies-in-analytics-toronto/
+         https://graduate.northeastern.edu/programs/mps-analytics-cps/master-of-professional-studies-in-analytics-seattle/
+         https://graduate.northeastern.edu/programs/mps-analytics-cps/master-of-professional-studies-in-analytics-silicon-valley/
+         https://graduate.northeastern.edu/programs/mps-analytics-cps/master-of-professional-studies-in-analytics-arlington/
+    9  graduate.northeastern.edu/events
+         https://graduate.northeastern.edu/events/master-of-science-in-applied-behavior-analysis-information-webinar/
+         https://graduate.northeastern.edu/events/master-of-science-in-applied-behavior-analysis-information-webinar-2/
+         https://graduate.northeastern.edu/events/master-of-public-health-mph-information-webinar/
+         https://graduate.northeastern.edu/events/new-york-on-campus-graduate-fair/
+    8  graduate.northeastern.edu/programs/mscs-computer-science-align
+         https://graduate.northeastern.edu/programs/mscs-computer-science-align/master-of-science-in-computer-science-align-arlington/
+         https://graduate.northeastern.edu/programs/mscs-computer-science-align/master-of-science-in-computer-science-align-vancouver/
+         https://graduate.northeastern.edu/programs/mscs-computer-science-align/master-of-science-in-computer-science-align-online/
+         https://graduate.northeastern.edu/programs/mscs-computer-science-align/master-of-science-in-computer-science-align-seattle/
+    8  graduate.northeastern.edu/programs/ms-project-management
+         https://graduate.northeastern.edu/programs/ms-project-management/master-of-science-in-project-management-toronto/
+         https://graduate.northeastern.edu/programs/ms-project-management/master-of-science-in-project-management-miami/
+         https://graduate.northeastern.edu/programs/ms-project-management/master-of-science-in-project-management-arlington/
+         https://graduate.northeastern.edu/programs/ms-project-management/master-of-science-in-project-management-portland/
+    8  graduate.northeastern.edu/programs/msis-information-systems
+         https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-arlington/
+         https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-boston/
+         https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-miami/
+         https://graduate.northeastern.edu/programs/msis-information-systems/master-of-science-in-information-systems-portland/
+    8  graduate.northeastern.edu/events/master-of-science-in-applied-behavior-analysis-information-webinar-5
+         https://graduate.northeastern.edu/events/master-of-science-in-applied-behavior-analysis-information-webinar-5/2026-10-20/
+         https://graduate.northeastern.edu/events/master-of-science-in-applied-behavior-analysis-information-webinar-5/2026-11-17/
+         https://graduate.northeastern.edu/events/master-of-science-in-applied-behavior-analysis-information-webinar-5/2027-01-19/
+         https://graduate.northeastern.edu/events/master-of-science-in-applied-behavior-analysis-information-webinar-5/2027-02-16/
+    7  graduate.northeastern.edu/programs/ms-biotechnology-sc
+         https://graduate.northeastern.edu/programs/ms-biotechnology-sc/master-of-science-in-biotechnology-portland/
+         https://graduate.northeastern.edu/programs/ms-biotechnology-sc/master-of-science-in-biotechnology-toronto/
+         https://graduate.northeastern.edu/programs/ms-biotechnology-sc/master-of-science-in-biotechnology-boston/
+         https://graduate.northeastern.edu/programs/ms-biotechnology-sc/master-of-science-in-biotechnology-oakland/
+    7  graduate.northeastern.edu/programs/mscs-computer-science
+         https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-vancouver/
+         https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-seattle/
+         https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-miami/
+         https://graduate.northeastern.edu/programs/mscs-computer-science/master-of-science-in-computer-science-boston/
+    7  graduate.northeastern.edu/programs/msis-information-syst-bridge
+         https://graduate.northeastern.edu/programs/msis-information-syst-bridge/master-of-science-in-information-systems-bridge-arlington/
+         https://graduate.northeastern.edu/programs/msis-information-syst-bridge/master-of-science-in-information-systems-bridge-boston/
+         https://graduate.northeastern.edu/programs/msis-information-syst-bridge/master-of-science-in-information-systems-bridge-portland/
+         https://graduate.northeastern.edu/programs/msis-information-syst-bridge/master-of-science-in-information-systems-bridge-seattle/
+    6  graduate.northeastern.edu/programs/mps-applied-ai
+         https://graduate.northeastern.edu/programs/mps-applied-ai/master-of-professional-studies-in-applied-ai-online/
+         https://graduate.northeastern.edu/programs/mps-applied-ai/master-of-professional-studies-in-applied-ai-miami/
+         https://graduate.northeastern.edu/programs/mps-applied-ai/master-of-professional-studies-in-applied-ai-boston/
+         https://graduate.northeastern.edu/programs/mps-applied-ai/master-of-professional-studies-in-applied-ai-arlington/
+    6  graduate.northeastern.edu/programs/mps-applied-ai-connect
+         https://graduate.northeastern.edu/programs/mps-applied-ai-connect/master-of-professional-studies-in-applied-ai-connect-online/
+         https://graduate.northeastern.edu/programs/mps-applied-ai-connect/master-of-professional-studies-in-applied-ai-connect-miami/
+         https://graduate.northeastern.edu/programs/mps-applied-ai-connect/master-of-professional-studies-in-applied-ai-connect-arlington/
+         https://graduate.northeastern.edu/programs/mps-applied-ai-connect/master-of-professional-studies-in-applied-ai-connect-boston/
+    5  graduate.northeastern.edu/programs/ms-bioinformatics
+         https://graduate.northeastern.edu/programs/ms-bioinformatics/master-of-science-in-bioinformatics-toronto/
+         https://graduate.northeastern.edu/programs/ms-bioinformatics/master-of-science-in-bioinformatics-portland/
+         https://graduate.northeastern.edu/programs/ms-bioinformatics/master-of-science-in-bioinformatics-boston/
+         https://graduate.northeastern.edu/programs/ms-bioinformatics/master-of-science-in-bioinformatics-oakland/
+    5  graduate.northeastern.edu/events/graduate-application-prep-sessions-16
+         https://graduate.northeastern.edu/events/graduate-application-prep-sessions-16/2026-10-23/
+         https://graduate.northeastern.edu/events/graduate-application-prep-sessions-16/2026-11-06/
+         https://graduate.northeastern.edu/events/graduate-application-prep-sessions-16/2026-11-20/
+         https://graduate.northeastern.edu/events/graduate-application-prep-sessions-16/2026-12-11/
+    5  graduate.northeastern.edu/events/master-of-public-health-information-webinar
+         https://graduate.northeastern.edu/events/master-of-public-health-information-webinar/2026-11-18/
+         https://graduate.northeastern.edu/events/master-of-public-health-information-webinar/2026-12-16/
+         https://graduate.northeastern.edu/events/master-of-public-health-information-webinar/2027-01-13/
+         https://graduate.northeastern.edu/events/master-of-public-health-information-webinar/2027-02-17/
+    4  graduate.northeastern.edu/programs/ms-artificial-intelligence
+         https://graduate.northeastern.edu/programs/ms-artificial-intelligence/master-of-science-in-artificial-intelligence-seattle/
+         https://graduate.northeastern.edu/programs/ms-artificial-intelligence/master-of-science-in-artificial-intelligence-silicon-valley/
+         https://graduate.northeastern.edu/programs/ms-artificial-intelligence/master-of-science-in-artificial-intelligence-portland/
+         https://graduate.northeastern.edu/programs/ms-artificial-intelligence/master-of-science-in-artificial-intelligence/
+    4  graduate.northeastern.edu/programs/ms-artificial-intelligence-al
+         https://graduate.northeastern.edu/programs/ms-artificial-intelligence-al/master-of-science-in-artificial-intelligence-align/
+         https://graduate.northeastern.edu/programs/ms-artificial-intelligence-al/master-of-science-in-artificial-intelligence-align-silicon-valley/
+         https://graduate.northeastern.edu/programs/ms-artificial-intelligence-al/master-of-science-in-artificial-intelligence-align-portland/
+         https://graduate.northeastern.edu/programs/ms-artificial-intelligence-al/master-of-science-in-artificial-intelligence-align-seattle/
+    4  graduate.northeastern.edu/events/graduate-programs-welcome-day-2
+         https://graduate.northeastern.edu/events/graduate-programs-welcome-day-2/2026-10-21/
+         https://graduate.northeastern.edu/events/graduate-programs-welcome-day-2/2026-12-02/
+         https://graduate.northeastern.edu/events/graduate-programs-welcome-day-2/2027-01-27/
+         https://graduate.northeastern.edu/events/graduate-programs-welcome-day-2/2027-05-12/
+    3  graduate.northeastern.edu/programs
+         https://graduate.northeastern.edu/programs/dmsc-healthcare-leadership-po/
+         https://graduate.northeastern.edu/programs/mba-business-analytics/
+         https://graduate.northeastern.edu/programs/ma-national-security-and-intel/
+    3  graduate.northeastern.edu/programs/certg-omics
+         https://graduate.northeastern.edu/programs/certg-omics/graduate-certificate-in-omics-portland/
+         https://graduate.northeastern.edu/programs/certg-omics/graduate-certificate-in-omics-online/
+         https://graduate.northeastern.edu/programs/certg-omics/graduate-certificate-in-omics-boston/
+    3  graduate.northeastern.edu/programs/certg-agile-project-management
+         https://graduate.northeastern.edu/programs/certg-agile-project-management/graduate-certificate-in-agile-project-management-online/
+         https://graduate.northeastern.edu/programs/certg-agile-project-management/graduate-certificate-in-agile-project-management-boston/
+         https://graduate.northeastern.edu/programs/certg-agile-project-management/graduate-certificate-in-agile-project-management-portland/
+    3  graduate.northeastern.edu/programs/certg-applied-analytics
+         https://graduate.northeastern.edu/programs/certg-applied-analytics/graduate-certificate-in-applied-analytics-portland/
+         https://graduate.northeastern.edu/programs/certg-applied-analytics/graduate-certificate-in-applied-analytics-boston/
+         https://graduate.northeastern.edu/programs/certg-applied-analytics/graduate-certificate-in-applied-analytics-online/
+    3  graduate.northeastern.edu/programs/certg-bioinformatics
+         https://graduate.northeastern.edu/programs/certg-bioinformatics/graduate-certificate-in-bioinformatics-online/
+         https://graduate.northeastern.edu/programs/certg-bioinformatics/graduate-certificate-in-bioinformatics-portland/
+         https://graduate.northeastern.edu/programs/certg-bioinformatics/graduate-certificate-in-bioinformatics-boston/
+    3  graduate.northeastern.edu/programs/certg-biotechnology
+         https://graduate.northeastern.edu/programs/certg-biotechnology/graduate-certificate-in-biotechnology-boston/
+         https://graduate.northeastern.edu/programs/certg-biotechnology/graduate-certificate-in-biotechnology-portland/
+         https://graduate.northeastern.edu/programs/certg-biotechnology/graduate-certificate-in-biotechnology-online/
+    3  graduate.northeastern.edu/programs/certg-computational-social-sci
+         https://graduate.northeastern.edu/programs/certg-computational-social-sci/graduate-certificate-in-computational-social-science/
+         https://graduate.northeastern.edu/programs/certg-computational-social-sci/graduate-certificate-in-computational-social-science-online/
+         https://graduate.northeastern.edu/programs/certg-computational-social-sci/graduate-certificate-in-computational-social-science-arlington/

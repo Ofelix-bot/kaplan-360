@@ -1,0 +1,39 @@
+{
+  "id": "hong-kong-metropolitan-university",
+  "builtAt": "2026-10-19",
+  "seeds": [
+    "https://admissions.hkmu.edu.hk/tpg/programmes/"
+  ],
+  "pages": [
+    "https://www.hkmu.edu.hk/as/programmes-courses/tpg/maacsf",
+    "https://www.hkmu.edu.hk/as/programmes-courses/tpg/maaelf",
+    "https://www.hkmu.edu.hk/as/programmes-courses/tpg/mabptf",
+    "https://www.hkmu.edu.hk/as/programmes-courses/tpg/macahtf",
+    "https://www.hkmu.edu.hk/as/programmes-courses/tpg/macicaf",
+    "https://www.hkmu.edu.hk/as/programmes-courses/tpg/msscf",
+    "https://www.hkmu.edu.hk/ba/macf",
+    "https://www.hkmu.edu.hk/ba/mbaf",
+    "https://www.hkmu.edu.hk/ba/mcgcf",
+    "https://www.hkmu.edu.hk/ba/mpmfbbcf",
+    "https://www.hkmu.edu.hk/ba/mpmgbmf",
+    "https://www.hkmu.edu.hk/ba/mpmgsbcf",
+    "https://www.hkmu.edu.hk/ba/mpmoecf",
+    "https://www.hkmu.edu.hk/ba/mpmwmf",
+    "https://www.hkmu.edu.hk/ba/tc/mbacf",
+    "https://www.hkmu.edu.hk/el/programmes-courses/postgraduate-2/medetif",
+    "https://www.hkmu.edu.hk/el/programmes-courses/postgraduate-2/mlsc",
+    "https://www.hkmu.edu.hk/el/programmes-courses/postgraduate/mscscldf",
+    "https://www.hkmu.edu.hk/el/programmes-courses/taught-postgraduate/medele",
+    "https://www.hkmu.edu.hk/el/programmes-courses/taught-postgraduate/medtcil",
+    "https://www.hkmu.edu.hk/nhs/programmes-courses/master-of-applied-science-in-medical-laboratory-science",
+    "https://www.hkmu.edu.hk/nhs/programmes-courses/nursing-and-health-studies/postgraduate-programmes/master-of-nursing-with-specialization",
+    "https://www.hkmu.edu.hk/nhs/programmes-courses/nursing-and-health-studies/postgraduate-programmes/master-of-nursing-with-specialization-pc",
+    "https://www.hkmu.edu.hk/nhs/programmes-courses/nursing-and-health-studies/postgraduate-programmes/master-of-science-in-smart-ageing-and-gerontology",
+    "https://www.hkmu.edu.hk/physio/programmes/taught-postgraduate-programmes",
+    "https://www.hkmu.edu.hk/st/computing/programmes/full-time/3-credit-unit/mcompf",
+    "https://www.hkmu.edu.hk/st/programmes/department-of-applied-science/master-of-science-global-environmental-management-for-sustainable-development-mscgemsdf",
+    "https://www.hkmu.edu.hk/st/programmes/department-of-applied-science/master-of-science-in-scientific-research",
+    "https://www.hkmu.edu.hk/st/programmes/department-of-construction-and-quality-management/masc-msc-in-intelligent-construction-and-building-information-modelling-mascicbim-mscicbim",
+    "https://www.hkmu.edu.hk/st/programmes/department-of-construction-and-quality-management/msc-in-cosmetic-technology-and-management"
+  ]
+}

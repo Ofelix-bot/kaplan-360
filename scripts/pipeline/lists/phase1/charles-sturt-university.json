@@ -1,0 +1,12 @@
+{
+  "source": "sitemap https://study.csu.edu.au/sitemap.xml (browser), course pages whose offerings include on-campus (Sydney/Melbourne study centres, Wagga Wagga); online-only masters left out (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://study.csu.edu.au/courses/master-of-business-data-analytics",
+    "https://study.csu.edu.au/courses/master-professional-accounting-professional-practice",
+    "https://study.csu.edu.au/courses/master-professional-information-technology",
+    "https://study.csu.edu.au/courses/master-of-project-management-and-leadership",
+    "https://study.csu.edu.au/courses/master-social-work-professional-qualifying",
+    "https://study.csu.edu.au/courses/master-nursing-pre-registration"
+  ]
+}

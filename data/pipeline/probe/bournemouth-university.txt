@@ -1,0 +1,4 @@
+# bournemouth-university https://www.bournemouth.ac.uk
+robots sitemaps: (none) · crawl-delay: 10 · AI-agent groups: 0
+index https://www.bournemouth.ac.uk/sitemap.xml: 2 children (2 course-like)
+sitemaps read 3 · urls 0 · master's-looking 0

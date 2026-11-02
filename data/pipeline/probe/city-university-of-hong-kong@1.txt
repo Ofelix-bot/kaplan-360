@@ -1,0 +1,128 @@
+# city-university-of-hong-kong@1 https://www.cityu.edu.hk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 28959 · master's-looking 711
+  157  www.cityu.edu.hk/zh-hk/media/news
+         http://www.cityu.edu.hk/zh-hk/media/news/2026/06/23/wishing-cityuhk-graduates-a-bright-future-and-continued-success
+         http://www.cityu.edu.hk/zh-hk/media/news/2026/08/31/cityuhk-wins-three-first-prizes-at-china-graduate-electronics-design-contest
+         http://www.cityu.edu.hk/zh-hk/media/news/2026/09/16/cityuhks-mba-programme-climbs-12-places-globally
+         http://www.cityu.edu.hk/zh-hk/media/news/2026/09/29/cityuhk-undergraduate-info-day-2026
+  157  www.cityu.edu.hk/zh-cn/media/news
+         http://www.cityu.edu.hk/zh-cn/media/news/2026/06/23/wishing-cityuhk-graduates-a-bright-future-and-continued-success
+         http://www.cityu.edu.hk/zh-cn/media/news/2026/08/31/cityuhk-wins-three-first-prizes-at-china-graduate-electronics-design-contest
+         http://www.cityu.edu.hk/zh-cn/media/news/2026/09/16/cityuhks-mba-programme-climbs-12-places-globally
+         http://www.cityu.edu.hk/zh-cn/media/news/2026/09/29/cityuhk-undergraduate-info-day-2026
+   77  www.cityu.edu.hk/zh-hk/media/press-release
+         http://www.cityu.edu.hk/zh-hk/media/press-release/2026/08/31/cityuhk-wins-three-first-prizes-at-china-graduate-electronics-design-contest
+         http://www.cityu.edu.hk/zh-hk/media/press-release/2026/09/16/cityuhks-mba-programme-climbs-12-places-globally
+         http://www.cityu.edu.hk/zh-hk/media/press-release/2026/09/29/cityuhk-undergraduate-info-day-2026
+         http://www.cityu.edu.hk/zh-hk/media/press-release/2026/10/03/cityuhk-undergraduate-info-day-2026-draws-enthusiastic-response
+   77  www.cityu.edu.hk/zh-cn/media/press-release
+         http://www.cityu.edu.hk/zh-cn/media/press-release/2026/08/31/cityuhk-wins-three-first-prizes-at-china-graduate-electronics-design-contest
+         http://www.cityu.edu.hk/zh-cn/media/press-release/2026/09/16/cityuhks-mba-programme-climbs-12-places-globally
+         http://www.cityu.edu.hk/zh-cn/media/press-release/2026/09/29/cityuhk-undergraduate-info-day-2026
+         http://www.cityu.edu.hk/zh-cn/media/press-release/2026/10/03/cityuhk-undergraduate-info-day-2026-draws-enthusiastic-response
+   18  www.cityu.edu.hk/media/news/2007
+         http://www.cityu.edu.hk/media/news/2007/01/08/cityu-phd-graduate-clinches-top-prize-asia-pacific-microwave-conference
+         http://www.cityu.edu.hk/media/news/2007/01/13/cityu-held-its-first-graduate-studies-information-day
+         http://www.cityu.edu.hk/media/news/2007/02/26/cityu-graduate-awarded-prestigious-scholarship-japanese-government
+         http://www.cityu.edu.hk/media/news/2007/03/19/cityu-graduate-honoured-tokyo-video-festival
+   16  www.cityu.edu.hk/media/press-release/2007
+         http://www.cityu.edu.hk/media/press-release/2007/01/07/cityu-phd-graduate-clinches-top-prize-asia-pacific-microwave-conference
+         http://www.cityu.edu.hk/media/press-release/2007/02/08/hon-frederick-ma-and-other-prominent-professionals-share-experiences-happiness-work-cityu-students
+         http://www.cityu.edu.hk/media/press-release/2007/02/11/hon-frederick-ma-advises-cityu-students-get-job-done
+         http://www.cityu.edu.hk/media/press-release/2007/02/25/cityu-graduate-awarded-prestigious-scholarship-japanese-government
+   11  www.cityu.edu.hk/media/news/2005
+         http://www.cityu.edu.hk/media/news/2005/02/21/new-organization-structure-enhance-undergraduate-education
+         http://www.cityu.edu.hk/media/news/2005/04/04/hong-kong-international-film-festival-screens-scm-graduates-work
+         http://www.cityu.edu.hk/media/news/2005/04/08/builtexpo-2005-showcases-students-sustainable-development-masterpieces
+         http://www.cityu.edu.hk/media/news/2005/04/19/2004-graduates-achieve-high-employment-rate
+   11  www.cityu.edu.hk/media/news/2013
+         http://www.cityu.edu.hk/media/news/2013/02/04/creative-media-graduates-shine-hong-kong-and-taiwan-film-festivals
+         http://www.cityu.edu.hk/media/news/2013/03/12/master-calligraphy-artist-wang-dongling-brings-large-scale-calligraphy-cityu
+         http://www.cityu.edu.hk/media/news/2013/04/09/creative-media-graduates-shine-ifva
+         http://www.cityu.edu.hk/media/news/2013/05/21/seniors-graduate-cityus-elder-academy
+    9  www.cityu.edu.hk/media/news/2006
+         http://www.cityu.edu.hk/media/news/2006/03/20/agreement-signed-foster-high-calibre-engineering-graduates
+         http://www.cityu.edu.hk/media/news/2006/07/04/four-year-curriculum-nurtures-ideal-graduates
+         http://www.cityu.edu.hk/media/news/2006/07/26/cityu-and-renmin-university-hold-graduation-ceremony-joint-master-law-programme
+         http://www.cityu.edu.hk/media/news/2006/08/14/management-graduates-provide-voluntary-service-jiangxi
+    9  www.cityu.edu.hk/media/news/2010
+         http://www.cityu.edu.hk/media/news/2010/01/13/postgraduate-info-day-focus-globalisation
+         http://www.cityu.edu.hk/media/news/2010/01/29/chinese-senior-judges-graduate-cityu-programme
+         http://www.cityu.edu.hk/media/news/2010/04/07/cityu-psychology-graduate-receives-international-student-research-award
+         http://www.cityu.edu.hk/media/news/2010/04/20/reception-celebrates-mathematics-masters-election-chinese-academy-sciences
+    8  www.cityu.edu.hk/media/news/2002
+         http://www.cityu.edu.hk/media/news/2002/01/15/new-postgraduate-prospectus
+         http://www.cityu.edu.hk/media/news/2002/01/29/cityu-graduates-awarded-social-work-skills-0
+         http://www.cityu.edu.hk/media/news/2002/01/29/cityu-graduates-awarded-social-work-skills
+         http://www.cityu.edu.hk/media/news/2002/02/01/biotechnology-postgraduate-student-wins-poster-award
+    8  www.cityu.edu.hk/media/news/2008
+         http://www.cityu.edu.hk/media/news/2008/01/14/cityu-encourages-continuing-education-through-graduate-studies-information-day
+         http://www.cityu.edu.hk/media/news/2008/02/04/creative-media-fresh-graduate-shines-asian-international-youth-film-festival
+         http://www.cityu.edu.hk/media/news/2008/02/21/cityu-offers-llm-programme-mainland-judges
+         http://www.cityu.edu.hk/media/news/2008/05/19/president-praises-emba-graduates-contributions-society
+    8  www.cityu.edu.hk/media/news/2009
+         http://www.cityu.edu.hk/media/news/2009/01/12/keen-interest-cityus-postgraduate-programmes
+         http://www.cityu.edu.hk/media/news/2009/04/03/scm-students-graduates-shine-independent-film-and-video-awards
+         http://www.cityu.edu.hk/media/news/2009/04/29/dinner-reception-showcases-achievements-cse-graduates
+         http://www.cityu.edu.hk/media/news/2009/07/17/future-biomedical-scientist-admitted-prestigious-oxford-graduate-programme
+    8  www.cityu.edu.hk/media/news/2011
+         http://www.cityu.edu.hk/media/news/2011/01/17/cityu-graduate-wins-major-scholarship-study-sea-turtles-australia
+         http://www.cityu.edu.hk/media/news/2011/02/08/creative-media-graduate-wins-three-prizes-mobile-film-festival
+         http://www.cityu.edu.hk/media/news/2011/03/22/cityu-postgraduate-students-win-prestigious-award-mathematics-competition
+         http://www.cityu.edu.hk/media/news/2011/03/30/innovative-discovery-enriched-curriculum-transform-cityu-undergraduate-experience
+    8  www.cityu.edu.hk/media/press-release/2010
+         http://www.cityu.edu.hk/media/press-release/2010/04/04/cityus-psychology-graduate-receives-international-student-research-award
+         http://www.cityu.edu.hk/media/press-release/2010/04/04/cityus-psychology-graduate-receives-international-student-research-award-0
+         http://www.cityu.edu.hk/media/press-release/2010/04/19/reception-celebrates-cityus-mathematics-master-elected-foreign-member-chinese-academy-sciences
+         http://www.cityu.edu.hk/media/press-release/2010/06/24/school-creative-media-graduate-show-2010-press-tour
+    8  www.cityu.edu.hk/media/press-release/2009
+         http://www.cityu.edu.hk/media/press-release/2009/01/21/inauguration-master-laws-llm-programme-chinese-judges
+         http://www.cityu.edu.hk/media/press-release/2009/04/05/five-cityu-creative-media-graduates-students-shine-14th-hong-kong-independent-short-film-video-award
+         http://www.cityu.edu.hk/media/press-release/2009/04/05/fivecityucreativemediagraduatesstudentsshine14thhongkongindependentshortfilmvideoaward0
+         http://www.cityu.edu.hk/media/press-release/2009/09/30/cityu-graduate-portrays-life-old-shatin-village
+    7  www.cityu.edu.hk/media/news/2003
+         http://www.cityu.edu.hk/media/news/2003/01/14/new-postgraduate-prospectus-prepares-you-leap
+         http://www.cityu.edu.hk/media/news/2003/02/20/shanghai-mba-students-hone-management-skills-hong-kong
+         http://www.cityu.edu.hk/media/news/2003/02/28/forum-prepares-postgraduates-challenges-globalization
+         http://www.cityu.edu.hk/media/news/2003/05/01/cityu-graduate-wins-japanese-studies-scholarship
+    7  www.cityu.edu.hk/media/news/2020
+         http://www.cityu.edu.hk/media/news/2020/01/27/cityu-mba-enters-fts-top-100
+         http://www.cityu.edu.hk/media/news/2020/01/28/cityu-mba-enters-fts-top-100
+         http://www.cityu.edu.hk/media/news/2020/07/27/outstanding-graduates-kick-brilliant-careers
+         http://www.cityu.edu.hk/media/news/2020/09/23/applications-admission-undergraduate-programmes-2021-entry-closing-soon
+    6  www.cityu.edu.hk/media/news/2022
+         http://www.cityu.edu.hk/media/news/2022/01/07/applications-admission-undergraduate-programmes-2022-entry-closing-soon
+         http://www.cityu.edu.hk/media/news/2022/03/11/cityu-virtual-undergraduate-open-day-19-march-2022
+         http://www.cityu.edu.hk/media/news/2022/08/03/cityu-graduate-named-best-new-director-hong-kong-film-awards
+         http://www.cityu.edu.hk/media/news/2022/08/31/record-high-employment-cityu-graduates
+    6  www.cityu.edu.hk/media/news/2024
+         http://www.cityu.edu.hk/media/news/2024/06/21/cityuhk-dba-and-emba-graduates-celebrate-learning-achievements
+         http://www.cityu.edu.hk/media/news/2024/09/09/cityuhk-undergraduate-info-day-2024
+         http://www.cityu.edu.hk/media/news/2024/09/19/cityuhklauncheshomehospitalityprogrammefosteringculturalconnectionsnonlocalpostgraduatestudents
+         http://www.cityu.edu.hk/media/news/2024/10/02/cityuhkundergraduateinfoday2024exploreshundredseventsshowcasinglatestprogrammeandadmissionsinformati
+    5  www.cityu.edu.hk/media/news/2026
+         http://www.cityu.edu.hk/media/news/2026/06/23/wishing-cityuhk-graduates-a-bright-future-and-continued-success
+         http://www.cityu.edu.hk/media/news/2026/08/31/cityuhk-wins-three-first-prizes-at-china-graduate-electronics-design-contest
+         http://www.cityu.edu.hk/media/news/2026/09/16/cityuhks-mba-programme-climbs-12-places-globally
+         http://www.cityu.edu.hk/media/news/2026/09/29/cityuhk-undergraduate-info-day-2026
+    5  www.cityu.edu.hk/media/news/2014
+         http://www.cityu.edu.hk/media/news/2014/03/28/scm-graduate-artworks-featured-exhibition
+         http://www.cityu.edu.hk/media/news/2014/04/07/creative-media-graduate-wins-award-japan-media-arts-festival
+         http://www.cityu.edu.hk/media/news/2014/10/08/cityus-professional-programme-helps-local-vets-master-new-fracture-fixation-techniques
+         http://www.cityu.edu.hk/media/news/2014/12/01/algorithm-master-awarded-william-benter-prize-2014
+    5  www.cityu.edu.hk/media/press-release/2020
+         http://www.cityu.edu.hk/media/press-release/2020/02/02/cityu-mba-enters-fts-top-100
+         http://www.cityu.edu.hk/media/press-release/2020/06/02/cityus-requirement-and-awards-undergraduate-degrees-us-system
+         http://www.cityu.edu.hk/media/press-release/2020/07/26/outstanding-graduates-kick-brilliant-careers
+         http://www.cityu.edu.hk/media/press-release/2020/11/16/press-conference-new-undergraduate-programmes-offered-cityus-college-science
+    5  www.cityu.edu.hk/media/press-release/2013
+         http://www.cityu.edu.hk/media/press-release/2013/02/03/creative-media-graduates-shine-hong-kong-and-taiwan-film-festivals
+         http://www.cityu.edu.hk/media/press-release/2013/04/09/creative-media-graduates-shine-ifva
+         http://www.cityu.edu.hk/media/press-release/2013/07/08/school-creative-media-graduates-create-works-resonate
+         http://www.cityu.edu.hk/media/press-release/2013/10/25/cityu-undergraduates-undertake-antarctica-expedition
+    5  www.cityu.edu.hk/media/press-release/2008
+         http://www.cityu.edu.hk/media/press-release/2008/02/04/creative-media-fresh-graduate-shines-asian-international-youth-film-festival
+         http://www.cityu.edu.hk/media/press-release/2008/02/20/cityu-offers-llm-programme-mainland-judges
+         http://www.cityu.edu.hk/media/press-release/2008/06/26/cityu-graduate-exhibition-showcases-talent-creative-media-students
+         http://www.cityu.edu.hk/media/press-release/2008/11/05/cityu-creative-media-graduate-makes-cinema-debut

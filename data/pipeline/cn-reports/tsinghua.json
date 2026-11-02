@@ -1,0 +1,40 @@
+{
+  "id": "tsinghua",
+  "status": "read",
+  "university": "清华大学",
+  "universityEn": "Tsinghua University",
+  "tier": "985",
+  "url": "https://www.tsinghua.edu.cn/info/1182/124579.htm",
+  "title": null,
+  "year": 2025,
+  "cohort": "2025届",
+  "pages": 1,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": "2025届",
+      "count": null,
+      "pct": 8.5,
+      "quote": "2025届清华毕业生出国（境）深造比例为8.5%"
+    },
+    {
+      "group": "本科生",
+      "cohort": "2025届",
+      "count": null,
+      "pct": 17.3,
+      "quote": "本科生出国（境）深造比例为17.3%"
+    },
+    {
+      "group": "全体",
+      "cohort": "近十年",
+      "count": null,
+      "pct": 10,
+      "quote": "近十年来，清华毕业生平均出国（境）深造比例为10.0%"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

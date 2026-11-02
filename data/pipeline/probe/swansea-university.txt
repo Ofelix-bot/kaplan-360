@@ -1,0 +1,128 @@
+# swansea-university https://www.swansea.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 5060 · master's-looking 860
+  120  www.swansea.ac.uk/cy/ol-raddedig/addysgir
+         https://www.swansea.ac.uk/cy/ol-raddedig/addysgir/awyrofod-sifil-drydanol-mecanyddol-peirianneg/awyrofod/msc-mewn-peirianneg-awyrofod/
+         https://www.swansea.ac.uk/cy/ol-raddedig/addysgir/awyrofod-sifil-drydanol-mecanyddol-peirianneg/awyrofod/msc-peirianneg-gofod/
+         https://www.swansea.ac.uk/cy/ol-raddedig/addysgir/awyrofod-sifil-drydanol-mecanyddol-peirianneg/awyrofod/msc-peirianneg-gynaliadwy/
+         https://www.swansea.ac.uk/cy/ol-raddedig/addysgir/awyrofod-sifil-drydanol-mecanyddol-peirianneg/sifil/msc-mewn-peirianneg-sifil/
+   59  www.swansea.ac.uk/cy/ol-raddedig/ymchwil
+         https://www.swansea.ac.uk/cy/ol-raddedig/ymchwil/awyrofod-sifil-drydanol-mecanyddol-peirianneg/awyrofod/msc-drwy-ymchwil-mewn-peirianneg-awyrofod/
+         https://www.swansea.ac.uk/cy/ol-raddedig/ymchwil/awyrofod-sifil-drydanol-mecanyddol-peirianneg/sifil/msc-drwy-ymchwil-mewn-peirianneg-sifil/
+         https://www.swansea.ac.uk/cy/ol-raddedig/ymchwil/awyrofod-sifil-drydanol-mecanyddol-peirianneg/thrydanol/msc-drwy-ymchwil-mewn-peirianneg-electronig-a-thrydanol/
+         https://www.swansea.ac.uk/cy/ol-raddedig/ymchwil/awyrofod-sifil-drydanol-mecanyddol-peirianneg/thrydanol/msc-drwy-ymchwil-mewn-nanodechnoleg/
+   42  www.swansea.ac.uk/undergraduate/courses/culture-communication
+         https://www.swansea.ac.uk/undergraduate/courses/culture-communication/american-studies/
+         https://www.swansea.ac.uk/undergraduate/courses/culture-communication/american-studies/ba-american-studies/
+         https://www.swansea.ac.uk/undergraduate/courses/culture-communication/american-studies/ba-american-studies-history/
+         https://www.swansea.ac.uk/undergraduate/courses/culture-communication/american-studies/ba-american-studies-politics/
+   35  www.swansea.ac.uk/postgraduate/research/culture-communication
+         https://www.swansea.ac.uk/postgraduate/research/culture-communication/american-studies/
+         https://www.swansea.ac.uk/postgraduate/research/culture-communication/american-studies/ma-research-american-studies/
+         https://www.swansea.ac.uk/postgraduate/research/culture-communication/american-studies/phd-mphil-american-studies/
+         https://www.swansea.ac.uk/postgraduate/research/culture-communication/american-studies/phd--american-studies-distance-learning/
+   33  www.swansea.ac.uk/postgraduate/taught/social-sciences
+         https://www.swansea.ac.uk/postgraduate/taught/social-sciences/criminology-sociology-social-policy/
+         https://www.swansea.ac.uk/postgraduate/taught/social-sciences/criminology-sociology-social-policy/ma-cyber-crime-terrorism/
+         https://www.swansea.ac.uk/postgraduate/taught/social-sciences/criminology-sociology-social-policy/ma-applied-criminal-justice-criminology/
+         https://www.swansea.ac.uk/postgraduate/taught/social-sciences/criminology-sociology-social-policy/msc-social-research-methods/
+   30  www.swansea.ac.uk/undergraduate/courses/health-social-care
+         https://www.swansea.ac.uk/undergraduate/courses/health-social-care/healthcare-science-audiology-bsc-hons/
+         https://www.swansea.ac.uk/undergraduate/courses/health-social-care/healthcare-science-cardiac-physiology-bsc-hons/
+         https://www.swansea.ac.uk/undergraduate/courses/health-social-care/healthcare-science-medical-engineering-bsc-hons/
+         https://www.swansea.ac.uk/undergraduate/courses/health-social-care/healthcare-science-audiology-part-time/
+   30  www.swansea.ac.uk/postgraduate/taught/som
+         https://www.swansea.ac.uk/postgraduate/taught/som/accounting-finance/
+         https://www.swansea.ac.uk/postgraduate/taught/som/accounting-finance/msc-accounting-finance/
+         https://www.swansea.ac.uk/postgraduate/taught/som/accounting-finance/msc-banking-finance/
+         https://www.swansea.ac.uk/postgraduate/taught/som/accounting-finance/msc-finance/
+   29  www.swansea.ac.uk/undergraduate/courses/social-sciences
+         https://www.swansea.ac.uk/undergraduate/courses/social-sciences/criminology-sociology-social-policy/
+         https://www.swansea.ac.uk/undergraduate/courses/social-sciences/criminology-sociology-social-policy/bsc-criminology-criminal-justice/
+         https://www.swansea.ac.uk/undergraduate/courses/social-sciences/criminology-sociology-social-policy/bsc-criminology-social-policy/
+         https://www.swansea.ac.uk/undergraduate/courses/social-sciences/criminology-sociology-social-policy/bsc-criminology-sociology/
+   24  www.swansea.ac.uk/postgraduate/research/biosciences-geography-physics
+         https://www.swansea.ac.uk/postgraduate/research/biosciences-geography-physics/geography/
+         https://www.swansea.ac.uk/postgraduate/research/biosciences-geography-physics/geography/msc-by-research-global-migration/
+         https://www.swansea.ac.uk/postgraduate/research/biosciences-geography-physics/geography/msc-by-research-earth-observation/
+         https://www.swansea.ac.uk/postgraduate/research/biosciences-geography-physics/geography/msc-by-research-glaciology/
+   23  www.swansea.ac.uk/postgraduate/taught/culture-communication
+         https://www.swansea.ac.uk/postgraduate/taught/culture-communication/classics-ancient-history-egyptology/
+         https://www.swansea.ac.uk/postgraduate/taught/culture-communication/classics-ancient-history-egyptology/ma-classics-ancient-history/
+         https://www.swansea.ac.uk/postgraduate/taught/culture-communication/english-language-tesol-applied-linguistics/
+         https://www.swansea.ac.uk/postgraduate/taught/culture-communication/english-language-tesol-applied-linguistics/ma-tesol/
+   22  www.swansea.ac.uk/postgraduate/research/aerospace-civil-electrical-mechanical-engineering
+         https://www.swansea.ac.uk/postgraduate/research/aerospace-civil-electrical-mechanical-engineering/aerospace/
+         https://www.swansea.ac.uk/postgraduate/research/aerospace-civil-electrical-mechanical-engineering/aerospace/phd-mphil-aerospace-engineering/
+         https://www.swansea.ac.uk/postgraduate/research/aerospace-civil-electrical-mechanical-engineering/aerospace/msc-by-research-aerospace-engineering/
+         https://www.swansea.ac.uk/postgraduate/research/aerospace-civil-electrical-mechanical-engineering/aerospace/phd-aerospace-engineering-distance-learning/
+   22  www.swansea.ac.uk/postgraduate/research/engineering-applied-sciences
+         https://www.swansea.ac.uk/postgraduate/research/engineering-applied-sciences/chemistry/
+         https://www.swansea.ac.uk/postgraduate/research/engineering-applied-sciences/chemistry/phd-msc-by-research-chemistry/
+         https://www.swansea.ac.uk/postgraduate/research/engineering-applied-sciences/chemistry/phd-chemistry-distance-learning/
+         https://www.swansea.ac.uk/postgraduate/research/engineering-applied-sciences/chemical/
+   21  www.swansea.ac.uk/postgraduate/research/social-sciences
+         https://www.swansea.ac.uk/postgraduate/research/social-sciences/criminology-sociology-social-policy/
+         https://www.swansea.ac.uk/postgraduate/research/social-sciences/criminology-sociology-social-policy/phd-mphil-criminology/
+         https://www.swansea.ac.uk/postgraduate/research/social-sciences/criminology-sociology-social-policy/professional-doctorate-criminology/
+         https://www.swansea.ac.uk/postgraduate/research/social-sciences/criminology-sociology-social-policy/professional-doctorate-social-and-public-policy/
+   20  www.swansea.ac.uk/the-college/undergraduate
+         https://www.swansea.ac.uk/the-college/undergraduate/accounting/
+         https://www.swansea.ac.uk/the-college/undergraduate/actuarial/
+         https://www.swansea.ac.uk/the-college/undergraduate/biochemistry-genetics/
+         https://www.swansea.ac.uk/the-college/undergraduate/business/
+   17  www.swansea.ac.uk/postgraduate/taught/aerospace-civil-electrical-mechanical-engineering
+         https://www.swansea.ac.uk/postgraduate/taught/aerospace-civil-electrical-mechanical-engineering/aerospace/
+         https://www.swansea.ac.uk/postgraduate/taught/aerospace-civil-electrical-mechanical-engineering/aerospace/msc-aerospace-engineering/
+         https://www.swansea.ac.uk/postgraduate/taught/aerospace-civil-electrical-mechanical-engineering/aerospace/msc-space-engineering/
+         https://www.swansea.ac.uk/postgraduate/taught/aerospace-civil-electrical-mechanical-engineering/aerospace/msc-sustainable-aviation/
+   17  www.swansea.ac.uk/postgraduate/taught/health-social-care
+         https://www.swansea.ac.uk/postgraduate/taught/health-social-care/adult-critical-care-nursing-pgcert/
+         https://www.swansea.ac.uk/postgraduate/taught/health-social-care/advanced-practice-in-healthcare-msc-pgdip/
+         https://www.swansea.ac.uk/postgraduate/taught/health-social-care/approved-mental-health-professional-pgcert/
+         https://www.swansea.ac.uk/postgraduate/taught/health-social-care/community-and-primary-health-care-practice-msc-pgdip-pgcert/
+   15  www.swansea.ac.uk/postgraduate/taught/medicine
+         https://www.swansea.ac.uk/postgraduate/taught/medicine/drug-discovery-development-and-translation-msc/
+         https://www.swansea.ac.uk/postgraduate/taught/medicine/msc-biomedical-sciences-cellular-molecular-pathology/
+         https://www.swansea.ac.uk/postgraduate/taught/medicine/biomedical-science-haematology-and-blood-transfusion-sciences/
+         https://www.swansea.ac.uk/postgraduate/taught/medicine/biomedical-science-clinical-biochemistry-msc-pgdip/
+   14  www.swansea.ac.uk/research/research-with-us/postgraduate-research
+         https://www.swansea.ac.uk/research/research-with-us/postgraduate-research/pgrdevelopment/
+         https://www.swansea.ac.uk/research/research-with-us/postgraduate-research/postgraduate-researcher-in-the-spotlight/
+         https://www.swansea.ac.uk/research/research-with-us/postgraduate-research/postgraduate-researcher-in-the-spotlight/caitlin-tanner/
+         https://www.swansea.ac.uk/research/research-with-us/postgraduate-research/postgraduate-researcher-in-the-spotlight/angelo-robles/
+   14  www.swansea.ac.uk/undergraduate/courses/medicine
+         https://www.swansea.ac.uk/undergraduate/courses/medicine/microbiology-and-immunology-bsc/
+         https://www.swansea.ac.uk/undergraduate/courses/medicine/medicine-mbbch/
+         https://www.swansea.ac.uk/undergraduate/courses/medicine/data-science-population-health/
+         https://www.swansea.ac.uk/undergraduate/courses/medicine/biomedical-science/
+   13  www.swansea.ac.uk/undergraduate/courses
+         https://www.swansea.ac.uk/undergraduate/courses/law/
+         https://www.swansea.ac.uk/undergraduate/courses/health-social-care/
+         https://www.swansea.ac.uk/undergraduate/courses/psychology/
+         https://www.swansea.ac.uk/undergraduate/courses/medicine/
+   13  www.swansea.ac.uk/postgraduate/research
+         https://www.swansea.ac.uk/postgraduate/research/health-social-care/
+         https://www.swansea.ac.uk/postgraduate/research/medicine/
+         https://www.swansea.ac.uk/postgraduate/research/coming-soon/
+         https://www.swansea.ac.uk/postgraduate/research/apply/
+   13  www.swansea.ac.uk/undergraduate/courses/law
+         https://www.swansea.ac.uk/undergraduate/courses/law/llb-law/
+         https://www.swansea.ac.uk/undergraduate/courses/law/llb-law-practice/
+         https://www.swansea.ac.uk/undergraduate/courses/law/llb-business-law/
+         https://www.swansea.ac.uk/undergraduate/courses/law/llb-business-law-practice/
+   13  www.swansea.ac.uk/undergraduate/courses/som
+         https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/
+         https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-accounting-finance/
+         https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-finance/
+         https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/financial-management/
+   12  www.swansea.ac.uk/postgraduate
+         https://www.swansea.ac.uk/postgraduate/apply/
+         https://www.swansea.ac.uk/postgraduate/research/
+         https://www.swansea.ac.uk/postgraduate/
+         https://www.swansea.ac.uk/postgraduate/postgraduate-study-introduction/
+   12  www.swansea.ac.uk/postgraduate/taught
+         https://www.swansea.ac.uk/postgraduate/taught/law/
+         https://www.swansea.ac.uk/postgraduate/taught/health-social-care/
+         https://www.swansea.ac.uk/postgraduate/taught/psychology/
+         https://www.swansea.ac.uk/postgraduate/taught/medicine/

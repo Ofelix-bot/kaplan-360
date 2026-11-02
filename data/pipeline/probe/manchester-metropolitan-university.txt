@@ -1,0 +1,4 @@
+# manchester-metropolitan-university https://www.mmu.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemap https://www.mmu.ac.uk/sitemap.xml: blocked HTTP 403 (not bypassed)
+sitemaps read 1 · urls 0 · master's-looking 0

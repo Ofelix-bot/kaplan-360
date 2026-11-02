@@ -1,0 +1,4 @@
+# university-of-wales-trinity-saint-david https://www.uwtsd.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemap https://www.uwtsd.ac.uk/sitemap.xml: http HTTP 405
+sitemaps read 1 · urls 0 · master's-looking 0

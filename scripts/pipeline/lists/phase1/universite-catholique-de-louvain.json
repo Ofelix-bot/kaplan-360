@@ -1,0 +1,17 @@
+{
+  "source": "UCLouvain study programme 'Masters in English' https://uclouvain.be/en/study-programme/masters-2026-en-langues and 'Advanced masters in English' https://uclouvain.be/en/study-programme/masters-de-specialisation-2026-en-langues (plain fetch; 2026-2027 programme pages; bilingual, economics-only and work-linked variants skipped) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://uclouvain.be/en-prog-2026-gest2m",
+    "https://uclouvain.be/en-prog-2026-inge2m",
+    "https://uclouvain.be/en-prog-2026-sinf2m",
+    "https://uclouvain.be/en-prog-2026-sinf2m1",
+    "https://uclouvain.be/en-prog-2026-info2m",
+    "https://uclouvain.be/en-prog-2026-date2m",
+    "https://uclouvain.be/en-prog-2026-dati2m",
+    "https://uclouvain.be/en-prog-2026-ling2m",
+    "https://uclouvain.be/en-prog-2026-eucb2m",
+    "https://uclouvain.be/en-prog-2026-mphm2mc",
+    "https://uclouvain.be/en-prog-2026-drin2mc"
+  ]
+}

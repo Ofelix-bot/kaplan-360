@@ -1,0 +1,24 @@
+# universite-libre-de-bruxelles https://www.ulb.be
+robots sitemaps: https://www.ulb.be/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 4164 · master's-looking 389
+  192  www.ulb.be/fr/programme
+         https://www.ulb.be/fr/programme/ma-es4mc
+         https://www.ulb.be/fr/programme/ma-es4ci
+         https://www.ulb.be/fr/programme/ma-es4ph
+         https://www.ulb.be/fr/programme/ma-es4hi
+  190  www.ulb.be/en/programme
+         https://www.ulb.be/en/programme/ma-geol
+         https://www.ulb.be/en/programme/2025-ma-pint
+         https://www.ulb.be/en/programme/2025-ma-coop
+         https://www.ulb.be/en/programme/2025-ma-psyc
+    3  www.ulb.be/fr/etudier
+         https://www.ulb.be/fr/etudier/choisir-lenseignement-leducation-master-de-specialisation-en-pedagogie-universitaire-et-de-lenseignement-superieur
+         https://www.ulb.be/fr/etudier/choisir-lenseignement-leducation-master-a-finalité-didactique
+         https://www.ulb.be/fr/etudier/choisir-lenseignement-leducation-master-en-sciences-éducation
+    2  www.ulb.be/fr/doctorat
+         https://www.ulb.be/fr/doctorat/ma-these-en-180-secondes
+         https://www.ulb.be/fr/doctorat/ma-these-en-180-secondes-1
+    1  www.ulb.be/fr/se-former
+         https://www.ulb.be/fr/se-former/masters-erasmus-mundus
+    1  www.ulb.be/fr/preparer-un-dossier
+         https://www.ulb.be/fr/preparer-un-dossier/criteria-of-the-central-admissions-committee-for-undergraduate-programmes

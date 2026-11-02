@@ -1,0 +1,12 @@
+{ "source": "UCPH all master's programmes https://www.ku.dk/studies/masters/all-programmes, each page checked for language (Danish-only and CBS-enrolled programmes skipped; economics-only skipped) (configured 2026-11-01)", "retrievedAt": "2026-11-01", "pages": [
+"https://www.ku.dk/studies/masters/actuarial-mathematics",
+"https://www.ku.dk/studies/masters/cognition-and-communication",
+"https://www.ku.dk/studies/masters/computer-science",
+"https://www.ku.dk/studies/masters/combined-master-computer-science",
+"https://www.ku.dk/studies/masters/data-stewardship",
+"https://www.ku.dk/studies/masters/global-health",
+"https://www.ku.dk/studies/masters/it-and-cognition",
+"https://www.ku.dk/studies/masters/security-risk-management",
+"https://www.ku.dk/studies/masters/social-data-science",
+"https://www.ku.dk/studies/masters/statistics"
+] }

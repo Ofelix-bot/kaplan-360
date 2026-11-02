@@ -1,0 +1,76 @@
+# university-of-illinois-at-urbana-champaign@2 https://grad.illinois.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1053 · master's-looking 183
+  114  grad.illinois.edu/news
+         https://grad.illinois.edu/news/graduate-student-leadership-award-winners-announced
+         https://grad.illinois.edu/news/twenty-nine-u-i-students-awarded-nsf-graduate-research-fellowships
+         https://grad.illinois.edu/news/chodzko-zajko-named-illinois-graduate-college-dean
+         https://grad.illinois.edu/news/two-u.-i.-graduate-students-receive-boren-fellowships
+   22  grad.illinois.edu/document/archived/comms
+         https://grad.illinois.edu/document/archived/comms/2024-graduate-college-handbook-archive
+         https://grad.illinois.edu/document/archived/comms/2001-graduate-college-handbook-archive
+         https://grad.illinois.edu/document/archived/comms/2004-graduate-college-handbook-archive
+         https://grad.illinois.edu/document/archived/comms/2006-graduate-college-handbook-archive
+   10  grad.illinois.edu/document/student-success
+         https://grad.illinois.edu/document/student-success/thesis-masters-titlepage-example
+         https://grad.illinois.edu/document/student-success/thesis-masters-templates.docx
+         https://grad.illinois.edu/document/student-success/thesis-masters-titlepage-template
+         https://grad.illinois.edu/document/student-success/annual-reviews-graduate-students
+    4  grad.illinois.edu/faculty-staff
+         https://grad.illinois.edu/faculty-staff/graduate-faculty-membership
+         https://grad.illinois.edu/faculty-staff/graduate-college-annual-workshop
+         https://grad.illinois.edu/faculty-staff/graduate-program-contacts
+         https://grad.illinois.edu/faculty-staff/directors-graduate-study
+    3  grad.illinois.edu/about
+         https://grad.illinois.edu/about/graduate-college-deans
+         https://grad.illinois.edu/about/recent-graduate-college-communications
+         https://grad.illinois.edu/about/graduate-college-bylaws
+    3  grad.illinois.edu/academics/registration-records
+         https://grad.illinois.edu/academics/registration-records/understanding-academic-standing-graduate-students
+         https://grad.illinois.edu/academics/registration-records/graduate-college-petitions
+         https://grad.illinois.edu/academics/registration-records/alternative-registration-options-available-graduate-students
+    2  grad.illinois.edu/document/business
+         https://grad.illinois.edu/document/business/research-experience-undergraduates-reu-information-form
+         https://grad.illinois.edu/document/business/completing-research-experience-undergraduate-information-forms
+    2  grad.illinois.edu/document/comms
+         https://grad.illinois.edu/document/comms/graduate-college-podcast-kamau-grantham-transcript-otter.ai
+         https://grad.illinois.edu/document/comms/graduate-college-podcast-mental-health-vincent-carlson-transcript-otter.ai
+    2  grad.illinois.edu/document/fellowships
+         https://grad.illinois.edu/document/fellowships/fellowship-masters-travel-grant-nomination-form
+         https://grad.illinois.edu/document/fellowships/masters-travel-worksheet-excel
+    2  grad.illinois.edu/funding
+         https://grad.illinois.edu/funding/funding-graduate-school
+         https://grad.illinois.edu/funding/graduate-student-emergency-grants
+    2  grad.illinois.edu/funding/assistantships
+         https://grad.illinois.edu/funding/assistantships/benefits-graduate-students-graduate-assistants
+         https://grad.illinois.edu/funding/assistantships/federal-work-study-fws-funded-graduate-assistantships
+    2  grad.illinois.edu/academics/registration-records/understanding-academic-standing-graduate-students
+         https://grad.illinois.edu/academics/registration-records/understanding-academic-standing-graduate-students/academic-warning
+         https://grad.illinois.edu/academics/registration-records/understanding-academic-standing-graduate-students/academic-standing
+    2  grad.illinois.edu/admissions/programs
+         https://grad.illinois.edu/admissions/programs/professional-science-masters-illinois-psm
+         https://grad.illinois.edu/admissions/programs/law-llm
+    1  grad.illinois.edu/document/academics
+         https://grad.illinois.edu/document/academics/instructions-graduate-college-electronic-form-drop
+    1  grad.illinois.edu/academics
+         https://grad.illinois.edu/academics/graduate-student-portal
+    1  grad.illinois.edu/professional-development/graduate-college-mentoring-certificate
+         https://grad.illinois.edu/professional-development/graduate-college-mentoring-certificate/undergraduate-research
+    1  grad.illinois.edu/admissions/application-instructions
+         https://grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application
+    1  grad.illinois.edu/admissions
+         https://grad.illinois.edu/admissions/graduate-admissions-minimum-requirements
+    1  grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application
+         https://grad.illinois.edu/admissions/application-instructions/completing-your-graduate-application/freeapp
+    1  grad.illinois.edu/academics/handbook-policies
+         https://grad.illinois.edu/academics/handbook-policies/other-policies-laws-affect-graduate-students
+    1  grad.illinois.edu/professional-development
+         https://grad.illinois.edu/professional-development/graduate-college-mentoring-certificate
+    1  grad.illinois.edu/faculty-staff/roles/graduate-contacts
+         https://grad.illinois.edu/faculty-staff/roles/graduate-contacts/graduate-college-excellence-award-graduate-contacts
+    1  grad.illinois.edu/engagement/access-engagement
+         https://grad.illinois.edu/engagement/access-engagement/illinois-excellence-graduate-mentoring-program
+    1  grad.illinois.edu/funding/fellowships
+         https://grad.illinois.edu/funding/fellowships/graduate-college-travel-grant-reimbursement
+    1  grad.illinois.edu/mentoring-toolkit
+         https://grad.illinois.edu/mentoring-toolkit/suggested-guidelines-graduate-student-mentoring

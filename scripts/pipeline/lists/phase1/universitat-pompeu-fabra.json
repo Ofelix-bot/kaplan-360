@@ -1,0 +1,19 @@
+{
+  "source": "upf.edu answers 403 even in the browser; configured from UPF Barcelona School of Management (UPF's own management school, UPF degrees) sitemap https://production-cms.bsm.upf.edu/sitemap.xml, keeping on-campus /en/ programme pages whose Language field is English (Spanish-taught and online editions skipped). Plain fetch (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.bsm.upf.edu/en/master-of-science-in-marketing",
+    "https://www.bsm.upf.edu/en/master-science-finance-and-banking",
+    "https://www.bsm.upf.edu/en/master-accounting-financial-management",
+    "https://www.bsm.upf.edu/en/master-of-science-in-international-business",
+    "https://www.bsm.upf.edu/en/master-arts-communication-management",
+    "https://www.bsm.upf.edu/en/master-science-sustainability-management",
+    "https://www.bsm.upf.edu/en/master-science-management-business-analytics",
+    "https://www.bsm.upf.edu/en/master-science-management-entrepreneurship",
+    "https://www.bsm.upf.edu/en/master-science-management-marketing",
+    "https://www.bsm.upf.edu/en/master-science-management-supply-chain",
+    "https://www.bsm.upf.edu/en/international-mba-english",
+    "https://www.bsm.upf.edu/en/master-marketing-english",
+    "https://www.bsm.upf.edu/en/full-time-mba-english"
+  ]
+}

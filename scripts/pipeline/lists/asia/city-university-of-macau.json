@@ -1,0 +1,34 @@
+{
+  "id": "city-university-of-macau",
+  "builtAt": "2026-10-21",
+  "seeds": [
+    "https://www.cityu.edu.mo/en/admissions/masters-degree-progammes/"
+  ],
+  "pages": [
+    "https://fds.cityu.edu.mo/en/MastersProgramme",
+    "https://fds.cityu.edu.mo/en/page-136",
+    "https://fds.cityu.edu.mo/en/page-248",
+    "https://fhss.cityu.edu.mo/en/MA-in-Applied-Linguistics",
+    "https://fhss.cityu.edu.mo/en/Master-of-Cultural-Industries-Management",
+    "https://fhss.cityu.edu.mo/en/page-31",
+    "https://fhw.cityu.edu.mo/course/188",
+    "https://fhw.cityu.edu.mo/course/7",
+    "https://fhw.cityu.edu.mo/course/8",
+    "https://fiad.cityu.edu.mo/en/mfa",
+    "https://fiad.cityu.edu.mo/en/page-80",
+    "https://fitm.cityu.edu.mo/en/Course-2/43",
+    "https://fitm.cityu.edu.mo/en/Course-2/44",
+    "https://fitm.cityu.edu.mo/en/Course-2/45",
+    "https://fitm.cityu.edu.mo/en/Course-2/46",
+    "https://fob.cityu.edu.mo/en/master/982",
+    "https://fob.cityu.edu.mo/en/master/983",
+    "https://fob.cityu.edu.mo/en/page-48",
+    "https://fof.cityu.edu.mo/en/list-15/12",
+    "https://fof.cityu.edu.mo/en/masterofscienceinfintech",
+    "https://iropc.cityu.edu.mo/Application2",
+    "https://iropc.cityu.edu.mo/en/page-47",
+    "https://soe.cityu.edu.mo/en/courses/12",
+    "https://soe.cityu.edu.mo/en/courses/13",
+    "https://sol.cityu.edu.mo/list-25/24"
+  ]
+}

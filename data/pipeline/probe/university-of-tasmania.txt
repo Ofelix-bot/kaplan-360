@@ -1,0 +1,67 @@
+# university-of-tasmania https://www.utas.edu.au
+robots sitemaps: https://www.utas.edu.au/sitemap.xml https://www.utas.edu.au/courses/sitemap.xml https://www.utas.edu.au/imas/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 3 · urls 4004 · master's-looking 247
+   47  www.utas.edu.au/courses/health/courses
+         https://www.utas.edu.au/courses/health/courses/h5p-graduate-certificate-in-health-protection
+         https://www.utas.edu.au/courses/health/courses/m5i-graduate-certificate-of-counselling
+         https://www.utas.edu.au/courses/health/courses/m5x-graduate-certificate-in-dementia
+         https://www.utas.edu.au/courses/health/courses/m6e-graduate-diploma-of-pharmaceutical-science
+   44  www.utas.edu.au/courses/sci-eng/courses
+         https://www.utas.edu.au/courses/sci-eng/courses/70d-undergraduate-certificate-in-data-and-environmental-management
+         https://www.utas.edu.au/courses/sci-eng/courses/70h-undergraduate-certificate-in-antarctic-and-climate-science
+         https://www.utas.edu.au/courses/sci-eng/courses/70i-undergraduate-certificate-in-climate-change-awareness-and-action
+         https://www.utas.edu.au/courses/sci-eng/courses/70j-undergraduate-certificate-in-ict-professional-practice
+   40  www.utas.edu.au/study/undergraduate
+         https://www.utas.edu.au/study/undergraduate/double-degrees
+         https://www.utas.edu.au/study/undergraduate/a-z-listing
+         https://www.utas.edu.au/study/undergraduate/agribusiness
+         https://www.utas.edu.au/study/undergraduate/agricultural-science
+   37  www.utas.edu.au/courses/dvc-research/courses
+         https://www.utas.edu.au/courses/dvc-research/courses/c8c-master-of-commerce
+         https://www.utas.edu.au/courses/dvc-research/courses/c8e-master-of-economics
+         https://www.utas.edu.au/courses/dvc-research/courses/d8a-master-of-design
+         https://www.utas.edu.au/courses/dvc-research/courses/d8c-master-of-architecture-research
+   27  www.utas.edu.au/study/postgraduate
+         https://www.utas.edu.au/study/postgraduate/a-z-listing
+         https://www.utas.edu.au/study/postgraduate/advanced-practice
+         https://www.utas.edu.au/study/postgraduate/allied-health
+         https://www.utas.edu.au/study/postgraduate/advanced-nursing
+   17  www.utas.edu.au/courses/tsbe/courses
+         https://www.utas.edu.au/courses/tsbe/courses/c0w-cross-institution-postgrad-commerce
+         https://www.utas.edu.au/courses/tsbe/courses/z0c-undergraduate-certificate-in-community-support
+         https://www.utas.edu.au/courses/tsbe/courses/z0d-undergraduate-certificate-in-agriculture
+         https://www.utas.edu.au/courses/tsbe/courses/z0l-undergraduate-certificate-in-agribusiness
+   17  www.utas.edu.au/courses/arts-soc/courses
+         https://www.utas.edu.au/courses/arts-soc/courses/r5w-graduate-certificate-in-arts-specialisation
+         https://www.utas.edu.au/courses/arts-soc/courses/r7z-master-of-strategic-communication
+         https://www.utas.edu.au/courses/arts-soc/courses/40b-undergraduate-certificate-in-education-support
+         https://www.utas.edu.au/courses/arts-soc/courses/e5y-bachelor-of-education-primary-and-graduate-certificate-in-early-childhood-education
+    3  www.utas.edu.au/study/apply
+         https://www.utas.edu.au/study/apply/undergraduate-domestic-applications
+         https://www.utas.edu.au/study/apply/postgraduate-domestic-applications
+         https://www.utas.edu.au/study/apply/health-postgraduate-research-pathway
+    3  www.utas.edu.au/courses/sci-eng/units
+         https://www.utas.edu.au/courses/sci-eng/units/jvd304-medical-care-for-shipmasters
+         https://www.utas.edu.au/courses/sci-eng/units/kla711-master-of-agriculture-and-food-science-thesis-a
+         https://www.utas.edu.au/courses/sci-eng/units/kla714-master-of-agriculture-and-food-science-thesis-b
+    2  www.utas.edu.au/study
+         https://www.utas.edu.au/study/undergraduate
+         https://www.utas.edu.au/study/postgraduate
+    2  www.utas.edu.au/courses/acad/units
+         https://www.utas.edu.au/courses/acad/units/xpd503-critical-thinking-for-postgraduate-studies
+         https://www.utas.edu.au/courses/acad/units/xpd504-english-for-postgraduate-studies
+    2  www.utas.edu.au/courses/uc/units
+         https://www.utas.edu.au/courses/uc/units/hej705-masters-research-project-a
+         https://www.utas.edu.au/courses/uc/units/hej706-masters-research-project-b
+    1  www.utas.edu.au/study/postgraduate/advanced-nursing
+         https://www.utas.edu.au/study/postgraduate/advanced-nursing/nursing-prescriber-pathway
+    1  www.utas.edu.au/research/institutes-and-centres/tiles
+         https://www.utas.edu.au/research/institutes-and-centres/tiles/research/postgraduate-study
+    1  www.utas.edu.au/research/degrees
+         https://www.utas.edu.au/research/degrees/graduate-research-resources
+    1  www.utas.edu.au/community-and-partners/aboriginal-business
+         https://www.utas.edu.au/community-and-partners/aboriginal-business/postgraduate
+    1  www.utas.edu.au/community-and-partners/alumni/our-alumni
+         https://www.utas.edu.au/community-and-partners/alumni/our-alumni/foundation-graduate-award2
+    1  www.utas.edu.au/imas/study
+         https://www.utas.edu.au/imas/study/honours-and-masters-projects

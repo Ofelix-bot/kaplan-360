@@ -1,0 +1,120 @@
+# university-of-nottingham@1 https://www.nottingham.ac.uk
+robots sitemaps: https://www.nottingham.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 2
+sitemaps read 1 · urls 19836 · master's-looking 764
+  360  www.nottingham.ac.uk/studentservices/welcome/school-and-department-welcome
+         https://www.nottingham.ac.uk/studentservices/welcome/school-and-department-welcome/american-and-canadian-studies/masters-mres/
+         https://www.nottingham.ac.uk/studentservices/welcome/school-and-department-welcome/american-and-canadian-studies/masters-mres/index.aspx
+         https://www.nottingham.ac.uk/studentservices/welcome/school-and-department-welcome/american-and-canadian-studies/postgraduate-research-timetable/
+         https://www.nottingham.ac.uk/studentservices/welcome/school-and-department-welcome/american-and-canadian-studies/postgraduate-research-timetable/phd.aspx
+  158  www.nottingham.ac.uk/careers/students/graduatejobs
+         https://www.nottingham.ac.uk/careers/students/graduatejobs/what-is-a-graduate-job/
+         https://www.nottingham.ac.uk/careers/students/graduatejobs/what-is-a-graduate-job/graduate-roles.aspx
+         https://www.nottingham.ac.uk/careers/students/graduatejobs/what-is-a-graduate-job/time-out.aspx
+         https://www.nottingham.ac.uk/careers/students/graduatejobs/what-is-a-graduate-job/knowledge-transfer-partnerships2.aspx
+   17  www.nottingham.ac.uk/careers/students/career-insights
+         https://www.nottingham.ac.uk/careers/students/career-insights/how-i-gained-permanent-work-in-the-uk-as-a-chinese-graduate.aspx
+         https://www.nottingham.ac.uk/careers/students/career-insights/a-graduate-in-search-of-a-job.aspx
+         https://www.nottingham.ac.uk/careers/students/career-insights/an-english-graduate-employable-it&#39;s-more-likely-than-you&#39;d-think.aspx
+         https://www.nottingham.ac.uk/careers/students/career-insights/applying-for-graduate-entry-medicine-gem.aspx
+    9  www.nottingham.ac.uk/qualitymanual/academic-regulations
+         https://www.nottingham.ac.uk/qualitymanual/academic-regulations/pgt-regs-sep21.aspx
+         https://www.nottingham.ac.uk/qualitymanual/academic-regulations/pgt-regs-sep20.aspx
+         https://www.nottingham.ac.uk/qualitymanual/academic-regulations/pgt-study-regs.aspx
+         https://www.nottingham.ac.uk/qualitymanual/academic-regulations/pgt-regs-sep1920.aspx
+    9  www.nottingham.ac.uk/careers/postgraduate-researchers
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/exploring/
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/online-course.aspx
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/work-experience.aspx
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/academic-careers/
+    9  www.nottingham.ac.uk/careers/postgraduate-researchers/applying
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/applying/vacancies.aspx
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/applying/cvs/
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/applying/cvs/verbs.aspx
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/applying/cvs/index.aspx
+    9  www.nottingham.ac.uk/fees/tuitionfees/archive
+         https://www.nottingham.ac.uk/fees/tuitionfees/archive/202223/postgraduate-research.aspx
+         https://www.nottingham.ac.uk/fees/tuitionfees/archive/202223/postgraduate-taught.aspx
+         https://www.nottingham.ac.uk/fees/tuitionfees/archive/202223/undergraduate.aspx
+         https://www.nottingham.ac.uk/fees/tuitionfees/archive/202122/undergraduate.aspx
+    7  www.nottingham.ac.uk/advancedtherapeutics/newsandevents/news
+         https://www.nottingham.ac.uk/advancedtherapeutics/newsandevents/news/2018/undergraduate-students-supporting-the-science-in-the-park-event.aspx
+         https://www.nottingham.ac.uk/advancedtherapeutics/newsandevents/news/2019/rebeca-obenza-otero-awarded-graduate-school-travel-prize.aspx
+         https://www.nottingham.ac.uk/advancedtherapeutics/newsandevents/news/cdt-student-naim-hage-joins-school-of-pharmacy-postgraduate-blogging-team-(2nd-february-2015).aspx
+         https://www.nottingham.ac.uk/advancedtherapeutics/newsandevents/news/cdt-student-naim-hage-receives-2015-postgraduate-endowed-.aspx
+    7  www.nottingham.ac.uk/home/motd/highlights
+         https://www.nottingham.ac.uk/home/motd/highlights/250,000th-graduate.aspx
+         https://www.nottingham.ac.uk/home/motd/highlights/graduate-jobs-fair.aspx
+         https://www.nottingham.ac.uk/home/motd/highlights/introducing-research-enterprise-and-graduate-services.aspx
+         https://www.nottingham.ac.uk/home/motd/highlights/nottingham-a-top-target-for-graduate-employers.aspx
+    6  www.nottingham.ac.uk/himr/events
+         https://www.nottingham.ac.uk/himr/events/fifth-masterclass.aspx
+         https://www.nottingham.ac.uk/himr/events/first-masterclassnottingham.aspx
+         https://www.nottingham.ac.uk/himr/events/fourth-masterclasstoronto2015.aspx
+         https://www.nottingham.ac.uk/himr/events/secondmasterclassesheidelberg.aspx
+    6  www.nottingham.ac.uk/home/feature/images
+         https://www.nottingham.ac.uk/home/feature/images/2010redesign/postgraduate-arts-grad-centre.jpg
+         https://www.nottingham.ac.uk/home/feature/images/2010redesign/undergraduate-study.jpg
+         https://www.nottingham.ac.uk/home/feature/images/2010redesign/undergraduate-study-2.jpg
+         https://www.nottingham.ac.uk/home/feature/images/2010redesign/undergraduate-study-2-2.jpg
+    6  www.nottingham.ac.uk/home/featurenews/2016
+         https://www.nottingham.ac.uk/home/featurenews/2016/graduate-entrepreneur-brings-asian-style-to-skincare-treatment.aspx
+         https://www.nottingham.ac.uk/home/featurenews/2016/industry-ready-graduates-pass-on-the-medicinal-chemistry-baton.aspx
+         https://www.nottingham.ac.uk/home/featurenews/2016/master&#39;s-students-brew-their-own-beer-in-the-name-of-academic-research.aspx
+         https://www.nottingham.ac.uk/home/featurenews/2016/nottingham-is-university-of-the-year-for-graduate-employment.aspx
+    6  www.nottingham.ac.uk/do-not-use-master-non-corporate-website
+         https://www.nottingham.ac.uk/do-not-use-master-non-corporate-website/
+         https://www.nottingham.ac.uk/do-not-use-master-non-corporate-website/index.aspx
+         https://www.nottingham.ac.uk/do-not-use-master-non-corporate-website/about.aspx
+         https://www.nottingham.ac.uk/do-not-use-master-non-corporate-website/news.aspx
+    6  www.nottingham.ac.uk/research/groups/cral
+         https://www.nottingham.ac.uk/research/groups/cral/people/postgraduate-research-students.aspx
+         https://www.nottingham.ac.uk/research/groups/cral/people/graduate-profiles.aspx
+         https://www.nottingham.ac.uk/research/groups/cral/news-and-events/events/ug-and-pg-symposium/undergraduate-research-symposium.aspx
+         https://www.nottingham.ac.uk/research/groups/cral/news-and-events/news/call-for-studentships-midlands-graduate-school.aspx
+    5  www.nottingham.ac.uk/home/events
+         https://www.nottingham.ac.uk/home/events/adapted-lesson-study-examples-of-how-it-works-for-pgce-students,-masters-students-and-teachers-in-a-professional-learning-community.aspx
+         https://www.nottingham.ac.uk/home/events/faculty-of-arts-postgraduate-open-day.aspx
+         https://www.nottingham.ac.uk/home/events/masters-open-day-for-english.aspx
+         https://www.nottingham.ac.uk/home/events/msc-brain-imaging-open-day.aspx
+    4  www.nottingham.ac.uk/researcher-academy/news/latest-news
+         https://www.nottingham.ac.uk/researcher-academy/news/latest-news/how-postgraduate-placements-helped-us-to-manage-increased-interest-in-our-business.aspx
+         https://www.nottingham.ac.uk/researcher-academy/news/latest-news/new-guide-to-equality-diversity-and-inclusion-edi-in-recruitment-of-postgraduate-research-students.aspx
+         https://www.nottingham.ac.uk/researcher-academy/news/latest-news/postgraduate-research-experience-survey-2025-now-open.aspx
+         https://www.nottingham.ac.uk/researcher-academy/news/latest-news/postgraduate-researchers-from-diverse-backgrounds-a-framework-for-defining-measuring-and-supporting-success.aspx
+    4  www.nottingham.ac.uk/currentstudents/news/2019
+         https://www.nottingham.ac.uk/currentstudents/news/2019/honorary-graduates-for-this-summer&#39;s-graduation-ceremonies.aspx
+         https://www.nottingham.ac.uk/currentstudents/news/2019/postgraduate-research-experience-survey-%e2%80%93-win-100.aspx
+         https://www.nottingham.ac.uk/currentstudents/news/2019/uon-student-awarded-undergraduate-of-the-year-award.aspx
+         https://www.nottingham.ac.uk/currentstudents/news/2019/win-a-1000-scholarship-for-postgraduate-study.aspx
+    3  www.nottingham.ac.uk/open-days/undergraduate-open-days
+         https://www.nottingham.ac.uk/open-days/undergraduate-open-days/frequently-asked-questions.aspx
+         https://www.nottingham.ac.uk/open-days/undergraduate-open-days/index.aspx
+         https://www.nottingham.ac.uk/open-days/undergraduate-open-days/plan-your-day/
+    3  www.nottingham.ac.uk/home/featureevents/2019
+         https://www.nottingham.ac.uk/home/featureevents/2019/esrc-postgraduate-studentships-open-day.aspx
+         https://www.nottingham.ac.uk/home/featureevents/2019/mathematics-postgraduate-open-day-20-november.aspx
+         https://www.nottingham.ac.uk/home/featureevents/2019/psychology-postgraduate-open-day-%e2%80%93-27-november.aspx
+    3  www.nottingham.ac.uk/home/featurenews/2018
+         https://www.nottingham.ac.uk/home/featurenews/2018/nottingham-graduates-are-off-to-a-flying-start.aspx
+         https://www.nottingham.ac.uk/home/featurenews/2018/nottingham-graduates-head-to-elite-us-universities-thanks-to-prestigious-fulbright-scholarships.aspx
+         https://www.nottingham.ac.uk/home/featurenews/2018/smartphone-app-created-by-nottingham-graduate-offers-counselling-by-text.aspx
+    3  www.nottingham.ac.uk/careers/postgraduate-researchers/academic-careers
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/academic-careers/index.aspx
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/academic-careers/case-studies.aspx
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/academic-careers/webinars.aspx
+    3  www.nottingham.ac.uk/careers/postgraduate-researchers/outside-academia
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/outside-academia/index.aspx
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/outside-academia/case-studies.aspx
+         https://www.nottingham.ac.uk/careers/postgraduate-researchers/outside-academia/webinars.aspx
+    3  www.nottingham.ac.uk/fees/tuitionfees/202728
+         https://www.nottingham.ac.uk/fees/tuitionfees/202728/undergraduate.aspx
+         https://www.nottingham.ac.uk/fees/tuitionfees/202728/postgraduate-taught.aspx
+         https://www.nottingham.ac.uk/fees/tuitionfees/202728/postgraduate-research.aspx
+    3  www.nottingham.ac.uk/fees/tuitionfees/202627
+         https://www.nottingham.ac.uk/fees/tuitionfees/202627/undergraduate.aspx
+         https://www.nottingham.ac.uk/fees/tuitionfees/202627/postgraduate-taught.aspx
+         https://www.nottingham.ac.uk/fees/tuitionfees/202627/postgraduate-research.aspx
+    3  www.nottingham.ac.uk/fees/tuitionfees/202526
+         https://www.nottingham.ac.uk/fees/tuitionfees/202526/undergraduate.aspx
+         https://www.nottingham.ac.uk/fees/tuitionfees/202526/postgraduate-taught.aspx
+         https://www.nottingham.ac.uk/fees/tuitionfees/202526/postgraduate-research.aspx

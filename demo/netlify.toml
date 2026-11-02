@@ -1,0 +1,14 @@
+# A static export (next.config.ts output: "export"): Netlify serves out/ as plain files.
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "22"
+  NEXT_TELEMETRY_DISABLED = "1"
+
+# Shared by link only: keep it out of search engines (the page also says noindex).
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"

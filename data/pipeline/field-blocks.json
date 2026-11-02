@@ -1,0 +1,376 @@
+{
+ "note": "Fields left empty per university (2026-11-01 per-university check of three programmes each; European fees: 11 of 27 checked were wrong, so no European fee is shown). The programme page is linked instead.",
+ "blocks": {
+  "universitat-de-barcelona": [
+   "tuition"
+  ],
+  "complutense-university-of-madrid": [
+   "tuition"
+  ],
+  "universitat-autonoma-de-barcelona": [
+   "tuition"
+  ],
+  "universidad-autonoma-de-madrid": [
+   "tuition"
+  ],
+  "university-of-lisbon": [
+   "tuition"
+  ],
+  "university-of-porto": [
+   "tuition"
+  ],
+  "universitat-pompeu-fabra": [
+   "tuition"
+  ],
+  "university-of-navarra": [
+   "tuition"
+  ],
+  "universidad-carlos-iii-de-madrid": [
+   "tuition"
+  ],
+  "universidade-nova-de-lisboa": [
+   "tuition"
+  ],
+  "university-of-coimbra": [
+   "duration",
+   "tuition"
+  ],
+  "universidad-politecnica-de-madrid": [
+   "tuition"
+  ],
+  "university-of-aveiro": [
+   "tuition"
+  ],
+  "universitat-politecnica-de-catalunya-barcelonatech": [
+   "tuition"
+  ],
+  "universitat-politecnica-de-valencia": [
+   "tuition"
+  ],
+  "ie-university": [
+   "duration",
+   "tuition"
+  ],
+  "university-of-granada": [
+   "tuition"
+  ],
+  "universitat-de-valencia": [
+   "tuition"
+  ],
+  "universitat-ramon-llull": [
+   "tuition"
+  ],
+  "universidad-de-sevilla": [
+   "tuition"
+  ],
+  "university-of-salamanca": [
+   "tuition"
+  ],
+  "university-of-minho": [
+   "tuition"
+  ],
+  "eth-zurich-swiss-federal-institute-of-technology": [
+   "tuition"
+  ],
+  "epfl": [
+   "tuition"
+  ],
+  "technical-university-of-munich": [
+   "tuition"
+  ],
+  "universite-psl": [
+   "tuition"
+  ],
+  "institut-polytechnique-de-paris": [
+   "tuition"
+  ],
+  "delft-university-of-technology": [
+   "tuition"
+  ],
+  "ku-leuven": [
+   "tuition"
+  ],
+  "university-of-amsterdam": [
+   "tuition"
+  ],
+  "ludwig-maximilians-universitat-munchen": [
+   "tuition"
+  ],
+  "lund-university": [
+   "tuition"
+  ],
+  "sorbonne-university": [
+   "tuition"
+  ],
+  "universite-paris-saclay": [
+   "tuition"
+  ],
+  "kth-royal-institute-of-technology": [
+   "tuition"
+  ],
+  "ruprecht-karls-universitat-heidelberg": [
+   "tuition"
+  ],
+  "politecnico-di-milano": [
+   "tuition"
+  ],
+  "uppsala-university": [
+   "tuition"
+  ],
+  "university-of-copenhagen": [
+   "tuition"
+  ],
+  "freie-universitaet-berlin": [
+   "tuition"
+  ],
+  "university-of-zurich": [
+   "duration",
+   "tuition"
+  ],
+  "rwth-aachen-university": [
+   "tuition"
+  ],
+  "technical-university-of-denmark": [
+   "tuition"
+  ],
+  "kit-karlsruhe-institute-of-technology": [
+   "tuition"
+  ],
+  "sapienza-university-of-rome": [
+   "tuition"
+  ],
+  "utrecht-university": [
+   "tuition"
+  ],
+  "leiden-university": [
+   "tuition"
+  ],
+  "alma-mater-studiorum-university-of-bologna": [
+   "tuition"
+  ],
+  "university-of-helsinki": [
+   "tuition"
+  ],
+  "aalto-university": [
+   "tuition"
+  ],
+  "aarhus-university": [
+   "tuition"
+  ],
+  "university-of-oslo": [
+   "tuition"
+  ],
+  "humboldt-universitat-zu-berlin": [
+   "tuition"
+  ],
+  "university-of-vienna": [
+   "tuition"
+  ],
+  "erasmus-university-rotterdam": [
+   "tuition"
+  ],
+  "ghent-university": [
+   "tuition"
+  ],
+  "university-of-basel": [
+   "tuition"
+  ],
+  "eindhoven-university-of-technology": [
+   "tuition"
+  ],
+  "wageningen-university-and-research": [
+   "tuition"
+  ],
+  "university-of-groningen": [
+   "tuition"
+  ],
+  "technische-universitat-berlin": [
+   "tuition"
+  ],
+  "stockholm-university": [
+   "tuition"
+  ],
+  "university-of-geneva": [
+   "tuition"
+  ],
+  "chalmers-university-of-technology": [
+   "tuition"
+  ],
+  "technische-universitat-dresden": [
+   "duration",
+   "tuition"
+  ],
+  "vrije-universiteit-amsterdam": [
+   "tuition"
+  ],
+  "technische-universitat-wien": [
+   "tuition"
+  ],
+  "university-of-bern": [
+   "tuition"
+  ],
+  "universite-catholique-de-louvain": [
+   "tuition"
+  ],
+  "universita-di-padova": [
+   "tuition"
+  ],
+  "politecnico-di-torino": [
+   "tuition"
+  ],
+  "rheinische-friedrich-wilhelms-universitat-bonn": [
+   "tuition"
+  ],
+  "universitat-hamburg": [
+   "tuition"
+  ],
+  "friedrich-alexander-universitat-erlangen-nurnberg": [
+   "tuition"
+  ],
+  "university-of-twente": [
+   "tuition"
+  ],
+  "university-of-gothenburg": [
+   "tuition"
+  ],
+  "eberhard-karls-universitat-tubingen": [
+   "tuition"
+  ],
+  "university-of-lausanne": [
+   "tuition"
+  ],
+  "ecole-normale-superieure-de-lyon": [
+   "tuition"
+  ],
+  "albert-ludwigs-universitaet-freiburg": [
+   "tuition"
+  ],
+  "universite-paris-1-pantheon-sorbonne": [
+   "tuition"
+  ],
+  "universite-libre-de-bruxelles": [
+   "tuition"
+  ],
+  "technical-university-of-darmstadt": [
+   "tuition"
+  ],
+  "maastricht-university": [
+   "tuition"
+  ],
+  "university-of-gottingen": [
+   "tuition"
+  ],
+  "norwegian-university-of-science-and-technology": [
+   "tuition"
+  ],
+  "university-of-cologne": [
+   "tuition"
+  ],
+  "university-of-milan": [
+   "tuition"
+  ],
+  "university-of-antwerp": [
+   "tuition"
+  ],
+  "radboud-university": [
+   "tuition"
+  ],
+  "university-of-bergen": [
+   "tuition"
+  ],
+  "university-of-southern-denmark": [
+   "tuition"
+  ],
+  "vrije-universiteit-brussel": [
+   "tuition"
+  ],
+  "universite-de-paris": [
+   "tuition"
+  ],
+  "linkoping-university": [
+   "tuition"
+  ],
+  "universitat-stuttgart": [
+   "tuition"
+  ],
+  "aalborg-university": [
+   "tuition"
+  ],
+  "universitat-innsbruck": [
+   "tuition"
+  ],
+  "university-of-pisa": [
+   "tuition"
+  ],
+  "university-of-rome-tor-vergata": [
+   "tuition"
+  ],
+  "sciences-po": [
+   "tuition"
+  ],
+  "university-of-oulu": [
+   "tuition"
+  ],
+  "universite-de-liege": [
+   "tuition"
+  ],
+  "westfalische-wilhelms-universitat-munster": [
+   "tuition"
+  ],
+  "goethe-university-frankfurt-am-main": [
+   "duration",
+   "tuition"
+  ],
+  "university-of-luxembourg": [
+   "tuition"
+  ],
+  "national-technical-university-of-athens": [
+   "tuition"
+  ],
+  "universite-grenoble-alpes": [
+   "tuition"
+  ],
+  "universita-cattolica-del-sacro-cuore": [
+   "tuition"
+  ],
+  "lappeenranta-lahti-university-of-technology-lut": [
+   "tuition"
+  ],
+  "universita-degli-studi-di-pavia": [
+   "tuition"
+  ],
+  "university-of-turku": [
+   "tuition"
+  ],
+  "lomonosov-moscow-state-university": [
+   "tuition"
+  ],
+  "central-european-university": [
+   "tuition"
+  ],
+  "charles-university": [
+   "tuition"
+  ],
+  "university-of-warsaw": [
+   "tuition"
+  ],
+  "bauman-moscow-state-technical-university": [
+   "tuition"
+  ],
+  "jagiellonian-university": [
+   "tuition"
+  ],
+  "rudn-university": [
+   "tuition"
+  ],
+  "university-of-tartu": [
+   "tuition"
+  ],
+  "saint-petersburg-state-university": [
+   "tuition"
+  ],
+  "prague-university-of-economics-and-business": [
+   "tuition"
+  ]
+ }
+}

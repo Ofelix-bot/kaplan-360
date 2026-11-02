@@ -1,0 +1,29 @@
+{
+ "source": "som.yale.edu/programs, YSPH graduate programmes, GSAS programs-of-study (master's filter), nursing/law/Jackson degree pages (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://som.yale.edu/programs/mba",
+  "https://som.yale.edu/programs/emba",
+  "https://som.yale.edu/programs/mam",
+  "https://som.yale.edu/programs/mms-asset-management",
+  "https://som.yale.edu/programs/mms-global-business-and-society",
+  "https://som.yale.edu/programs/mms-public-education-management",
+  "https://som.yale.edu/programs/mms-systemic-risk",
+  "https://som.yale.edu/programs/masters-technology-management",
+  "https://ysph.yale.edu/school-of-public-health/graduate-programs/master-of-public-health-mph-degree/",
+  "https://ysph.yale.edu/school-of-public-health/graduate-programs/master-of-public-health-mph-degree/biostatistics/",
+  "https://ysph.yale.edu/school-of-public-health/graduate-programs/master-of-public-health-mph-degree/epidemiology-degree/",
+  "https://ysph.yale.edu/school-of-public-health/graduate-programs/master-of-public-health-mph-degree/health-care-management-degree/",
+  "https://ysph.yale.edu/school-of-public-health/graduate-programs/master-of-public-health-mph-degree/health-policy-master/",
+  "https://ysph.yale.edu/school-of-public-health/graduate-programs/master-of-public-health-mph-degree/social-behavioral-sciences/",
+  "https://ysph.yale.edu/school-of-public-health/graduate-programs/master-of-public-health-mph-degree/global-health/",
+  "https://nursing.yale.edu/academics/master-nursing-mn",
+  "https://nursing.yale.edu/msn",
+  "https://law.yale.edu/studying-law-yale/degree-programs/graduate-programs/llm-program",
+  "https://jackson.yale.edu/academics-admissions/master-public-policy",
+  "https://gsas.yale.edu/programs-of-study/computer-science",
+  "https://gsas.yale.edu/programs-of-study/statistics-data-science",
+  "https://gsas.yale.edu/programs-of-study/international-development-economics",
+  "https://gsas.yale.edu/programs-of-study/public-health"
+ ]
+}

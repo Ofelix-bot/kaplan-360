@@ -1,0 +1,12 @@
+{
+ "source": "SPbU graduate programmes list https://english.spbu.ru/admission/programms/graduate?view=table, kept only pages whose language field reads In English (not English and Russian); configured 2026-11-01",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://english.spbu.ru/admission/programms/graduate/master-management-mim",
+  "https://english.spbu.ru/admission/programms/graduate/master-business-analytics-and-big-data-miba-english",
+  "https://english.spbu.ru/admission/programms/graduate/master-global-business-communication",
+  "https://english.spbu.ru/admission/programms/graduate/international-trading-system",
+  "https://english.spbu.ru/admission/programms/graduate/russia-and-china-international-finance-and-trade",
+  "https://english.spbu.ru/admission/programms/graduate/transnational-legal-practice-english"
+ ]
+}

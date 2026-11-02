@@ -1,0 +1,46 @@
+Claude fills missing fields for 44 programmes (claude-haiku-5-5)…
+university-o MSc Work & Organisational Psychology             +1 kept, 0 dropped
+university-o LLM/MSc International Maritime Law               +2 kept, 0 dropped
+university-o MSc Secondary Education                          +1 kept, 0 dropped
+university-o MSc Finance - Bahrain                            +0 kept, 1 dropped
+chinese-univ Master of Public Health                          +1 kept, 1 dropped
+chinese-univ MSc in Artificial Intelligence                   +0 kept, 1 dropped
+chinese-univ MSc in Management                                +1 kept, 2 dropped
+chinese-univ Master of Laws in International Economic Law     +2 kept, 1 dropped
+chinese-univ MSc in E-Commerce and Logistics Technologies     +0 kept, 1 dropped
+chinese-univ MSc in Data Science and Business Statistics      +1 kept, 1 dropped
+chinese-univ MSc in Advanced Studies in Statistics and Data S +0 kept, 1 dropped
+chinese-univ Master of Education in Teaching in Key Subject A +1 kept, 1 dropped
+hong-kong-un Master of Science in Accounting                  +0 kept, 1 dropped
+hong-kong-po Master of Science in Accountancy                 +1 kept, 1 dropped
+hong-kong-po Master of Finance (Corporate Finance)            +1 kept, 1 dropped
+hong-kong-po Master of Science in Accounting and Finance Anal +1 kept, 1 dropped
+hong-kong-po Master of Science in Business Analytics          +1 kept, 1 dropped
+hong-kong-po Master of Science in Intelligent Construction    +1 kept, 1 dropped
+hong-kong-po Master of Applied Psychology (Diverse Learning N +1 kept, 1 dropped
+hong-kong-po Master of Science in Generative AI and the Human +1 kept, 1 dropped
+university-o Master of Arts in Psychology (MA)                +1 kept, 2 dropped
+university-o Master of Management (MM)                        +2 kept, 1 dropped
+university-o Master of Education in Higher Education (MEd)    +2 kept, 1 dropped
+university-o Master of Education in Science Education (MEd)   +1 kept, 1 dropped
+university-o Master of Arts (Kinesiology, Sport, and Recreati +0 kept, 0 dropped
+university-o Master of Education in Adult Learning and Educat +2 kept, 1 dropped
+university-o Master of Education in Early Childhood Education +1 kept, 1 dropped
+university-o Master of Education (Early Childhood)            +0 kept, 0 dropped
+massey-unive Master of Counselling – MCouns                   +0 kept, 0 dropped
+massey-unive Master of Clinical Practice (Nursing) – MClinPra +0 kept, 0 dropped
+university-o Master of Counselling                            +2 kept, 0 dropped
+university-o Master of Science with a specialization in Model +0 kept, 0 dropped
+university-o Master of Business                               +1 kept, 0 dropped
+university-o Master of Inclusive Education                    +2 kept, 0 dropped
+university-o Master of Nursing Practice                       +3 kept, 0 dropped
+university-o Master of Legal Studies                          +1 kept, 1 dropped
+university-o Master of Laws in Māori/Pacific and Indigenous P +1 kept, 1 dropped
+auckland-uni Master of Communication Studies                  +2 kept, 0 dropped
+auckland-uni Master of Analytics                              +2 kept, 0 dropped
+university-o Master of Business Administration                +1 kept, 1 dropped
+university-o Master of Learning and Teaching at UniSQ         +0 kept, 0 dropped
+auckland-uni Master of IT Project Management                  +2 kept, 0 dropped
+royal-hollow MSc Global Health: Food Security, Sustainability +1 kept, 0 dropped
+central-quee Master of Teaching (Primary)                     +2 kept, 1 dropped
+Tokens: input 387625, output 18471 · cost ≈ US0.048 (Haiku 5.5: $0.10 / $0.50 per MTok)

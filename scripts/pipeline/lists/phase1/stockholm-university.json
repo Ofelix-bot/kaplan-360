@@ -1,0 +1,28 @@
+{
+  "source": "Stockholm University English course catalogue programme pages (codes from https://www.su.se/rest-api/sitemap); kept master's programmes whose educationLanguages = English only and study form not distance; Swedish/bilingual/distance/no-current-intake skipped (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.su.se/english/education/course-catalogue/he/henge",
+    "https://www.su.se/english/education/course-catalogue/sp/spijo",
+    "https://www.su.se/english/education/course-catalogue/sr/sreko",
+    "https://www.su.se/english/education/course-catalogue/ss/sstao",
+    "https://www.su.se/english/education/course-catalogue/ss/sslio",
+    "https://www.su.se/english/education/course-catalogue/nm/nmsmm",
+    "https://www.su.se/english/education/course-catalogue/ph/phsan",
+    "https://www.su.se/english/education/course-catalogue/hm/hmkgm",
+    "https://www.su.se/english/education/course-catalogue/hm/hmjoa",
+    "https://www.su.se/english/education/course-catalogue/hs/hsaio",
+    "https://www.su.se/english/education/course-catalogue/sm/smino",
+    "https://www.su.se/english/education/course-catalogue/sm/smako",
+    "https://www.su.se/english/education/course-catalogue/sm/smoso",
+    "https://www.su.se/english/education/course-catalogue/sm/smafo",
+    "https://www.su.se/english/education/course-catalogue/sb/sbofo",
+    "https://www.su.se/english/education/course-catalogue/sc/scsso",
+    "https://www.su.se/english/education/course-catalogue/sd/sdsbo",
+    "https://www.su.se/english/education/course-catalogue/sa/saiho",
+    "https://www.su.se/english/education/course-catalogue/sa/sairo",
+    "https://www.su.se/english/education/course-catalogue/si/sidao",
+    "https://www.su.se/english/education/course-catalogue/si/sipso",
+    "https://www.su.se/english/education/course-catalogue/sv/svoso"
+  ]
+}

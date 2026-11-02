@@ -1,0 +1,387 @@
+{
+  "dataset": "新东方 slides of Kaplan Singapore graduates' master's offers (升学案例汇总), transcribed by hand from the PDF the site owner supplied",
+  "transcribed": "2026-10-30",
+  "source": "新东方 (New Oriental)",
+  "cases": [
+    {
+      "id": "k01",
+      "region": "SG",
+      "path": [
+        "Business English L4",
+        "Foundation diploma",
+        "Diploma in Business Management (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-fintech-top-up",
+      "gpa": 3.84,
+      "gpaScale": 4.2,
+      "class": "First",
+      "applications": [
+        {
+          "programmeId": "national-university-of-singapore-master-of-science-in-digital-financial-technology-msc-dfintech",
+          "result": "admit",
+          "letterDate": "2025-12-01",
+          "intake": "2026-08"
+        }
+      ]
+    },
+    {
+      "id": "k02",
+      "region": "SG",
+      "path": [
+        "Diploma in Human Resource Management (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-management-top-up",
+      "gpa": 3.3,
+      "gpaScale": 4.2,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": "national-university-of-singapore-msc-in-strategic-analysis-and-innovation-msi",
+          "result": "admit",
+          "letterDate": null,
+          "intake": "2024-08"
+        }
+      ]
+    },
+    {
+      "id": "k03",
+      "region": "SG",
+      "path": [
+        "Foundation diploma",
+        "Diploma in Finance and Banking (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-finance-top-up",
+      "gpa": 3.48,
+      "gpaScale": 4.2,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": "nanyang-technological-university-singapore-master-of-science-in-financial-technology",
+          "result": "admit",
+          "letterDate": "2026-01-14",
+          "intake": "2026-08",
+          "mode": "full-time"
+        }
+      ]
+    },
+    {
+      "id": "k04",
+      "region": "SG",
+      "path": [
+        "Diploma in Business Management (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-management-top-up",
+      "gpa": 3.3,
+      "gpaScale": 4.2,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": "nanyang-technological-university-singapore-master-of-science-in-project-management",
+          "result": "admit",
+          "letterDate": "2024-10-11",
+          "intake": "2025-01",
+          "mode": "full-time",
+          "condition": "Bachelor's degree with a Pass from UCD Singapore"
+        }
+      ]
+    },
+    {
+      "id": "k05",
+      "region": "SG",
+      "path": [
+        "Business English L4",
+        "Foundation diploma",
+        "Diploma in Marketing and Management (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-marketing-top-up",
+      "gpa": 3.68,
+      "gpaScale": 4.2,
+      "class": "First",
+      "applications": [
+        {
+          "programmeId": "singapore-management-university-msc-in-management-mim",
+          "result": "admit",
+          "letterDate": "2023-04-25",
+          "intake": "2023-08"
+        }
+      ]
+    },
+    {
+      "id": "k06",
+      "region": "SG",
+      "path": [
+        "Business English L2",
+        "Diploma in Digital Marketing (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-marketing-top-up",
+      "degreeNote": "PDF says 市场营销技专业 (typo); read as Marketing",
+      "gpa": 3.35,
+      "gpaScale": 4.2,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": "singapore-management-university-msc-in-management-mim",
+          "result": "admit",
+          "letterDate": null,
+          "intake": "2023-08"
+        }
+      ]
+    },
+    {
+      "id": "k07",
+      "region": "UK",
+      "path": [
+        "Business English L5",
+        "Diploma in Business Management (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-fintech-top-up",
+      "gpa": 3.7,
+      "gpaScale": 4.2,
+      "class": "First",
+      "applications": [
+        {
+          "programmeId": "university-of-edinburgh-finance-technology-and-policy-msc",
+          "result": "admit",
+          "letterDate": "2024-11-15",
+          "intake": "2025-09",
+          "condition": "2:1 or equivalent; IELTS 7.0 (6.0 each)"
+        }
+      ]
+    },
+    {
+      "id": "k08",
+      "region": "UK",
+      "path": [],
+      "degree": "northumbria-bsc-hons-global-business-management",
+      "gpa": null,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": "university-of-manchester-msc-management-and-information-systems-change-and-development",
+          "result": "admit",
+          "letterDate": "2026-01-06",
+          "note": "English requirement attached"
+        },
+        {
+          "programmeId": "university-of-leeds-global-supply-chain-management-msc",
+          "result": "admit",
+          "letterDate": "2025-12-01",
+          "note": "English requirement attached"
+        },
+        {
+          "programmeId": "university-of-warwick-supply-chain-and-logistics-management-msc",
+          "result": "admit",
+          "letterDate": "2026-01-22",
+          "intake": "2026-09",
+          "note": "unconditional, no English requirement"
+        }
+      ]
+    },
+    {
+      "id": "k09",
+      "region": "AU",
+      "path": [
+        "Foundation diploma",
+        "Diploma in Law (yr 1)"
+      ],
+      "degree": "murdoch-bachelor-of-business-in-business-law",
+      "degreeNote": "double major Business Law + Criminology",
+      "gpa": 2.7,
+      "gpaScale": 4,
+      "applications": [
+        {
+          "programmeId": "university-of-new-south-wales-master-of-laws",
+          "result": "admit",
+          "letterDate": "2023-10-10",
+          "intake": "2024-02",
+          "check": "letter says Program: Law, Masters Degree (Coursework); confirm it is the Master of Laws"
+        }
+      ]
+    },
+    {
+      "id": "k10",
+      "region": "AU",
+      "path": [
+        "Foundation diploma",
+        "Diploma in Business Management (General Business) (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-marketing-top-up",
+      "gpa": 2.9,
+      "gpaScale": 4.2,
+      "class": "2:2",
+      "applications": [
+        {
+          "programmeId": "university-of-new-south-wales-master-of-curating-and-cultural-leadership",
+          "result": "admit",
+          "letterDate": "2024-07-09",
+          "intake": "2024-09"
+        }
+      ]
+    },
+    {
+      "id": "k11",
+      "region": "AU",
+      "path": [
+        "Foundation diploma",
+        "Diploma in Management (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-marketing-top-up",
+      "gpa": 3.4,
+      "gpaScale": 4.2,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": "university-of-sydney-master-of-commerce",
+          "result": "admit",
+          "letterDate": "2023-11-29",
+          "intake": "2024-02"
+        }
+      ]
+    },
+    {
+      "id": "k12",
+      "region": "AU",
+      "path": [
+        "Business English L4",
+        "Foundation diploma",
+        "Diploma in Marketing and Management (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-management-top-up",
+      "gpa": null,
+      "applications": [
+        {
+          "programmeId": "university-of-sydney-master-of-commerce-extension",
+          "result": "admit",
+          "letterDate": "2021-08-05",
+          "intake": "2022-02"
+        }
+      ]
+    },
+    {
+      "id": "k13",
+      "region": "AU",
+      "path": [
+        "Business English L4",
+        "Foundation diploma",
+        "Diploma in Finance and Banking (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-marketing-top-up",
+      "gpa": 2.33,
+      "gpaScale": 4.2,
+      "class": "Pass",
+      "applications": [
+        {
+          "programmeId": "university-of-queensland-master-of-economics",
+          "result": "admit",
+          "letterDate": "2020-06-08",
+          "intake": "2021-02"
+        }
+      ]
+    },
+    {
+      "id": "k14",
+      "region": "AU",
+      "path": [
+        "Business English L5",
+        "Diploma in Business Management (General Business) (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-management-top-up",
+      "gpa": 3.48,
+      "gpaScale": 4.2,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": "australian-national-university-master-of-management",
+          "result": "admit",
+          "letterDate": null,
+          "intake": "2024-02"
+        }
+      ]
+    },
+    {
+      "id": "k15",
+      "region": "HK",
+      "path": [
+        "Foundation diploma",
+        "Diploma in Human Resource Management (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-management-top-up",
+      "gpa": 3.7,
+      "gpaScale": 4.2,
+      "class": "First",
+      "applications": [
+        {
+          "programmeId": "hong-kong-university-of-science-and-technology-master-of-science-in-marketing",
+          "result": "admit",
+          "letterDate": "2024-04-26",
+          "intake": "2024-08",
+          "mode": "full-time"
+        }
+      ]
+    },
+    {
+      "id": "k16",
+      "region": "HK",
+      "path": [
+        "Business English L5",
+        "Diploma in Business Management (General Business) (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-business-analytics-top-up",
+      "gpa": 3.09,
+      "gpaScale": 4.2,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": "hong-kong-polytechnic-university-master-of-science-in-business-analytics",
+          "result": "admit",
+          "letterDate": "2025-09-23",
+          "intake": "2026-09",
+          "mode": "mixed-mode full-time"
+        }
+      ]
+    },
+    {
+      "id": "k17",
+      "region": "HK",
+      "path": [
+        "Business English L3",
+        "Diploma in Business Management (General Business) (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-business-analytics-top-up",
+      "gpa": 3.32,
+      "gpaScale": 4.2,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": "city-university-of-hong-kong-msc-business-and-data-analytics",
+          "result": "admit",
+          "letterDate": "2024-11-20",
+          "intake": "2025-09",
+          "mode": "full-time",
+          "condition": "Second Class Honours, Grade 2 or above"
+        }
+      ]
+    },
+    {
+      "id": "k18",
+      "region": "KR",
+      "path": [
+        "Business English L3",
+        "Diploma in Finance and Banking (yr 1)"
+      ],
+      "degree": "ucd-bachelor-of-business-studies-honours-digital-business-top-up",
+      "gpa": 3.18,
+      "gpaScale": 4.2,
+      "class": "2:1",
+      "applications": [
+        {
+          "programmeId": null,
+          "unmatched": "Yonsei University GSIS, Global Studies (MA)",
+          "result": "admit",
+          "letterDate": "2025-02-26",
+          "intake": "2025-03"
+        }
+      ]
+    }
+  ]
+}

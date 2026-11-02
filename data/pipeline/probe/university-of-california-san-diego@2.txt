@@ -1,0 +1,40 @@
+# university-of-california-san-diego@2 https://grad.ucsd.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 657 · master's-looking 29
+   10  grad.ucsd.edu/oar2/undergraduate-students/stars
+         https://grad.ucsd.edu/oar2/undergraduate-students/stars/twentyoneproject-descriptions.html
+         https://grad.ucsd.edu/oar2/undergraduate-students/stars/twentytwoproject-descriptions.html
+         https://grad.ucsd.edu/oar2/undergraduate-students/stars/twentythreeproject-descriptions.html
+         https://grad.ucsd.edu/oar2/undergraduate-students/stars/twentyfourproject-descriptions.html
+    5  grad.ucsd.edu/academics/preparing-to-graduate
+         https://grad.ucsd.edu/academics/preparing-to-graduate/index.html
+         https://grad.ucsd.edu/academics/preparing-to-graduate/dissertation-thesis-template.html
+         https://grad.ucsd.edu/academics/preparing-to-graduate/dissertation-thesis-manual.html
+         https://grad.ucsd.edu/academics/preparing-to-graduate/dissertation-thesis-submission.html
+    2  grad.ucsd.edu/financial/fellowships/katzin-prize
+         https://grad.ucsd.edu/financial/fellowships/katzin-prize/2020-katzin-fellows/yue-ma.html
+         https://grad.ucsd.edu/financial/fellowships/katzin-prize/2025-katzin-fellows/xiao-ma.html
+    1  grad.ucsd.edu/oar2/graduate-students
+         https://grad.ucsd.edu/oar2/graduate-students/index.html
+    1  grad.ucsd.edu/oar2/graduate-students/tides-of-belonging-workshop
+         https://grad.ucsd.edu/oar2/graduate-students/tides-of-belonging-workshop/index.html
+    1  grad.ucsd.edu/oar2/graduate-students/graduate-research-affinity-group
+         https://grad.ucsd.edu/oar2/graduate-students/graduate-research-affinity-group/index.html
+    1  grad.ucsd.edu/oar2/graduate-students/graduate-intern-program
+         https://grad.ucsd.edu/oar2/graduate-students/graduate-intern-program/index.html
+    1  grad.ucsd.edu/oar2/graduate-students/competitive-edge
+         https://grad.ucsd.edu/oar2/graduate-students/competitive-edge/index.html
+    1  grad.ucsd.edu/oar2/graduate-students/naop
+         https://grad.ucsd.edu/oar2/graduate-students/naop/index.html
+    1  grad.ucsd.edu/oar2/graduate-students/gem-triton-fellows
+         https://grad.ucsd.edu/oar2/graduate-students/gem-triton-fellows/index.html
+    1  grad.ucsd.edu/oar2/undergraduate-students/grad-amp
+         https://grad.ucsd.edu/oar2/undergraduate-students/grad-amp/index.html
+    1  grad.ucsd.edu/oar2/undergraduate-students/uc-leads
+         https://grad.ucsd.edu/oar2/undergraduate-students/uc-leads/index.html
+    1  grad.ucsd.edu/oar2/undergraduate-students
+         https://grad.ucsd.edu/oar2/undergraduate-students/index.html
+    1  grad.ucsd.edu/academics/merkin
+         https://grad.ucsd.edu/academics/merkin/merkin-graduate-fellows.html
+    1  grad.ucsd.edu/financial/employment/benefits
+         https://grad.ucsd.edu/financial/employment/benefits/transitional-graduate-student-employment-pilot-program.html

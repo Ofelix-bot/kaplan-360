@@ -1,0 +1,23 @@
+{
+  "Details: 985, 211 and QS bands": "详情：按 985、211 与 QS 排名段",
+  "Fewer than 5 of this programme’s tier {below} admits reported a GPA.": "本项目 {below} 档录取者中报告 GPA 的不足 5 人。",
+  "Graduate course entry requirements": "研究生课程入学要求",
+  "Master of Management admission requirements": "管理学硕士入学要求",
+  "Median GPA by tier (5 or more GPAs): {list}": "各档 GPA 中位数（至少 5 个 GPA）：{list}",
+  "Not specifically about top-ups": "并非专门针对 top-up",
+  "Private-school degree": "私立院校学位",
+  "Related official rules": "相关官方规定",
+  "Singapore entry equivalents": "新加坡学历对照",
+  "Tier C admits: median GPA {median}, middle half {low}–{high} ({n} cases)": "C 档录取者：GPA 中位数 {median}，中间一半 {low}–{high}（{n} 个案例）",
+  "Tier C: this programme’s admitted range, {level}": "C 档：本项目的录取区间，{level}",
+  "Tier {tier}": "{tier} 档",
+  "University of Cambridge: international qualifications": "剑桥大学：国际学历要求",
+  "What the tiers mean": "各档的含义",
+  "{university}, {page}: “{quote}”": "{university}，{page}：“{quote}”",
+  "Tier A: QS top {a}; mainland China: Cambridge Group A": "A 档：QS 前 {a} 名；中国大陆：剑桥大学 Group A",
+  "Tier B: QS {from}–{b}; mainland China: Cambridge Group B": "B 档：QS 第 {from}–{b} 名；中国大陆：剑桥大学 Group B",
+  "Tier C: QS {c}+ or unranked; mainland China: on neither Cambridge list": "C 档：QS {c} 名及以后或未上榜；中国大陆：不在剑桥大学两份名单上",
+  "Private-school degrees are read as tier C (QS 301+ or unranked), whatever the awarding university. This is experience, not a university rule.": "私立院校学位统一按 C 档（QS 300 名以后或未上榜）计算，与颁发大学无关。这是经验判断，不是大学公布的规定。",
+  "You: {university} ({qs}). Private-school degrees are read as tier C (QS 301+ or unranked).": "你：{university}（{qs}）。私立院校学位按 C 档（QS 300 名以后或未上榜）计算。",
+  "QS World University Rankings 2027, Hong Kong, Macau and Taiwan included. The {a} / {b} split is Kaplan 360++’s rule. Cambridge’s Group A and Group B lists cover mainland China only; its page gives no date, archived copies show the same lists from 15 September 2025, and Kaplan 360++ read it on {checked}. A Sino-foreign university’s degree is read as its awarding university’s.": "依据 2027 年 QS 世界大学排名，中国香港、中国澳门和中国台湾同样适用。以 {a} / {b} 名划分是 Kaplan 360++ 的规则。剑桥大学的 Group A 和 Group B 名单只涵盖中国大陆；页面没有注明日期，存档副本自 2025 年 9 月 15 日起显示同样的名单，Kaplan 360++ 于 {checked} 读取。中外合作大学的学位按颁发学位的大学计算。"
+}

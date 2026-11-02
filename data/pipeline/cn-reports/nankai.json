@@ -1,0 +1,68 @@
+{
+  "id": "nankai",
+  "status": "read",
+  "university": "南开大学",
+  "universityEn": "Nankai University",
+  "tier": "985",
+  "url": "https://xxgk.nankai.edu.cn/_upload/article/files/e3/0b/7788866f4db6911f5f0b9af8b544/db24ade7-194d-4538-9d32-dc261eca6b91.pdf",
+  "title": "2024届毕业生就业概况",
+  "year": 2024,
+  "cohort": "2024届",
+  "pages": 5,
+  "abroad": [],
+  "regions": [
+    {
+      "region": "美国",
+      "cohort": "2024届",
+      "count": null,
+      "pct": null,
+      "quote": "2024 届毕业生境外升学主要留学目的地是美国，其次为英国、新加坡、澳大利亚、日本、法国、德国。"
+    },
+    {
+      "region": "英国",
+      "cohort": "2024届",
+      "count": null,
+      "pct": null,
+      "quote": "2024 届毕业生境外升学主要留学目的地是美国，其次为英国、新加坡、澳大利亚、日本、法国、德国。"
+    },
+    {
+      "region": "新加坡",
+      "cohort": "2024届",
+      "count": null,
+      "pct": null,
+      "quote": "2024 届毕业生境外升学主要留学目的地是美国，其次为英国、新加坡、澳大利亚、日本、法国、德国。"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": "2024届",
+      "count": null,
+      "pct": null,
+      "quote": "2024 届毕业生境外升学主要留学目的地是美国，其次为英国、新加坡、澳大利亚、日本、法国、德国。"
+    },
+    {
+      "region": "日本",
+      "cohort": "2024届",
+      "count": null,
+      "pct": null,
+      "quote": "2024 届毕业生境外升学主要留学目的地是美国，其次为英国、新加坡、澳大利亚、日本、法国、德国。"
+    },
+    {
+      "region": "法国",
+      "cohort": "2024届",
+      "count": null,
+      "pct": null,
+      "quote": "2024 届毕业生境外升学主要留学目的地是美国，其次为英国、新加坡、澳大利亚、日本、法国、德国。"
+    },
+    {
+      "region": "德国",
+      "cohort": "2024届",
+      "count": null,
+      "pct": null,
+      "quote": "2024 届毕业生境外升学主要留学目的地是美国，其次为英国、新加坡、澳大利亚、日本、法国、德国。"
+    }
+  ],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

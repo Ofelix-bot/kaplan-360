@@ -1,0 +1,26 @@
+{
+  "id": "gxu",
+  "status": "read",
+  "university": "广西大学",
+  "universityEn": "Guangxi University",
+  "tier": "211",
+  "url": "https://dwxwgk.gxu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=991568042&wbfileid=16659123",
+  "title": "广西大学2024届毕业生就业质量年度报告",
+  "year": 2024,
+  "cohort": "2024届",
+  "pages": 16,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": null,
+      "count": 109,
+      "pct": 1.06,
+      "quote": "境外留学 109 人，境外留学率为 1.06%"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

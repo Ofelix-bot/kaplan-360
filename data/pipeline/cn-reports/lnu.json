@@ -1,0 +1,40 @@
+{
+  "id": "lnu",
+  "status": "read",
+  "university": "辽宁大学",
+  "universityEn": "Liaoning University",
+  "tier": "211",
+  "url": "https://www.lnu.edu.cn/__local/C/69/6A/24B8BF195BBA444F2BAA1894F08_D2C0F321_2EC535.pdf",
+  "title": null,
+  "year": 2022,
+  "cohort": "2022届",
+  "pages": 106,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": 296,
+      "pct": 6.55,
+      "quote": "出国、出境 296 6.55%"
+    },
+    {
+      "group": "全体",
+      "cohort": null,
+      "count": 296,
+      "pct": 4.38,
+      "quote": "出国、出境 296 6.55% 0 0.00% 296 4.38%"
+    },
+    {
+      "group": "硕士生",
+      "cohort": null,
+      "count": 0,
+      "pct": 0,
+      "quote": "出国、出境 296 6.55% 0 0.00% 296 4.38%"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

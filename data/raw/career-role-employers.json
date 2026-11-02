@@ -1,0 +1,1765 @@
+{
+  "built": "2026-10-29",
+  "rows": [
+    {
+      "role_id": "artificial-intelligence-machine-learning-engineer",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=machine%20learning%20engineer&location=Singapore",
+      "openings": 4,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "artificial-intelligence-machine-learning-engineer",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=machine%20learning%20engineer&location=singapore-SGP",
+      "openings": 2,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "artificial-intelligence-machine-learning-engineer",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=machine%20learning%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "artificial-intelligence-machine-learning-engineer",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=machine%20learning%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "artificial-intelligence-machine-learning-engineer",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=machine%20learning%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager",
+      "employer_id": "dbs",
+      "company": "DBS Bank",
+      "company_lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://www.dbs.com/careers",
+      "search_url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=assistant%20relationship%20manager",
+      "openings": 2,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager",
+      "employer_id": "barclays",
+      "company": "Barclays",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://search.jobs.barclays",
+      "search_url": "https://search.jobs.barclays/search-jobs/assistant%20relationship%20manager/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=assistant%20relationship%20manager&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=assistant%20relationship%20manager&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=assistant%20relationship%20manager",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager",
+      "employer_id": "standard-chartered",
+      "company": "Standard Chartered",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.standardchartered.com",
+      "search_url": "https://jobs.standardchartered.com/search/?q=assistant%20relationship%20manager&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager-relationship-associate",
+      "employer_id": "dbs",
+      "company": "DBS Bank",
+      "company_lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://www.dbs.com/careers",
+      "search_url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=relationship%20associate",
+      "openings": 2,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager-relationship-associate",
+      "employer_id": "barclays",
+      "company": "Barclays",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://search.jobs.barclays",
+      "search_url": "https://search.jobs.barclays/search-jobs/relationship%20associate/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager-relationship-associate",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=relationship%20associate&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager-relationship-associate",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=relationship%20associate&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager-relationship-associate",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=relationship%20associate",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-relationship-manager-relationship-associate",
+      "employer_id": "standard-chartered",
+      "company": "Standard Chartered",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.standardchartered.com",
+      "search_url": "https://jobs.standardchartered.com/search/?q=relationship%20associate&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-wealth-planner",
+      "employer_id": "barclays",
+      "company": "Barclays",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://search.jobs.barclays",
+      "search_url": "https://search.jobs.barclays/search-jobs/assistant%20wealth%20planner/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-wealth-planner",
+      "employer_id": "dbs",
+      "company": "DBS Bank",
+      "company_lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://www.dbs.com/careers",
+      "search_url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=assistant%20wealth%20planner",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-wealth-planner",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=assistant%20wealth%20planner&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-wealth-planner",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=assistant%20wealth%20planner&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-wealth-planner",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=assistant%20wealth%20planner",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "assistant-wealth-planner",
+      "employer_id": "standard-chartered",
+      "company": "Standard Chartered",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.standardchartered.com",
+      "search_url": "https://jobs.standardchartered.com/search/?q=assistant%20wealth%20planner&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "associate-software-engineer",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=associate%20software%20engineer&location=Singapore",
+      "openings": 11,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "associate-software-engineer",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=associate%20software%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "associate-software-engineer",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=associate%20software%20engineer&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "associate-software-engineer",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=associate%20software%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "associate-software-engineer",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=associate%20software%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "back-end-developer",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=back%20end%20developer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "back-end-developer",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=back%20end%20developer&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "back-end-developer",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=back%20end%20developer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "back-end-developer",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=back%20end%20developer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "back-end-developer",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=back%20end%20developer&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "business-valuation-associate-business-valuation-executive",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=business%20valuation%20executive&locationsearch=Singapore",
+      "openings": 2,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "business-valuation-associate-business-valuation-executive",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=business%20valuation%20executive",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "business-valuation-associate-business-valuation-executive",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=business%20valuation%20executive&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "commodities-trader",
+      "employer_id": "procter-gamble",
+      "company": "Procter & Gamble",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.pgcareers.com",
+      "search_url": "https://www.pgcareers.com/global/en/search-results?keywords=commodities%20trader&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "cyber-risk-analyst",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=cyber%20risk%20analyst&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "cyber-risk-analyst",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=cyber%20risk%20analyst&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "cyber-risk-analyst",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=cyber%20risk%20analyst&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "cyber-risk-analyst",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=cyber%20risk%20analyst&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "cyber-risk-analyst",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=cyber%20risk%20analyst&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-financial-services",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=data%20engineer&locationsearch=Singapore",
+      "openings": 4,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-financial-services",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=data%20engineer&locationsearch=Singapore",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-financial-services",
+      "employer_id": "barclays",
+      "company": "Barclays",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://search.jobs.barclays",
+      "search_url": "https://search.jobs.barclays/search-jobs/data%20engineer/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-financial-services",
+      "employer_id": "dbs",
+      "company": "DBS Bank",
+      "company_lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://www.dbs.com/careers",
+      "search_url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=data%20engineer",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-financial-services",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=data%20engineer",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-financial-services",
+      "employer_id": "standard-chartered",
+      "company": "Standard Chartered",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.standardchartered.com",
+      "search_url": "https://jobs.standardchartered.com/search/?q=data%20engineer&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-infocomm-technology",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=data%20engineer&location=Singapore",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-infocomm-technology",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=data%20engineer&location=Singapore",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-infocomm-technology",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=data%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-infocomm-technology",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=data%20engineer&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "data-engineer-infocomm-technology",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=data%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "derivatives-trader",
+      "employer_id": "procter-gamble",
+      "company": "Procter & Gamble",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.pgcareers.com",
+      "search_url": "https://www.pgcareers.com/global/en/search-results?keywords=derivatives%20trader&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "economist",
+      "employer_id": "barclays",
+      "company": "Barclays",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://search.jobs.barclays",
+      "search_url": "https://search.jobs.barclays/search-jobs/economist/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "economist",
+      "employer_id": "dbs",
+      "company": "DBS Bank",
+      "company_lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://www.dbs.com/careers",
+      "search_url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=economist",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "economist",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=economist&locationsearch=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "economist",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=economist&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "economist",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=economist",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "economist",
+      "employer_id": "standard-chartered",
+      "company": "Standard Chartered",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.standardchartered.com",
+      "search_url": "https://jobs.standardchartered.com/search/?q=economist&locationsearch=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "enterprise-risk-associate",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=enterprise%20risk%20management%20executive&locationsearch=Singapore",
+      "openings": 2,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "enterprise-risk-associate",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=enterprise%20risk%20management%20executive&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "enterprise-risk-associate",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=enterprise%20risk%20management%20executive",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "front-end-developer",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=front%20end%20developer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "front-end-developer",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=front%20end%20developer&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "front-end-developer",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=front%20end%20developer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "front-end-developer",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=front%20end%20developer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "front-end-developer",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=front%20end%20developer&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "full-stack-developer",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=full%20stack%20developer&location=Singapore",
+      "openings": 5,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "full-stack-developer",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=full%20stack%20developer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "full-stack-developer",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=full%20stack%20developer&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "full-stack-developer",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=full%20stack%20developer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "full-stack-developer",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=full%20stack%20developer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "investment-counsellor-assistant",
+      "employer_id": "barclays",
+      "company": "Barclays",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://search.jobs.barclays",
+      "search_url": "https://search.jobs.barclays/search-jobs/investment%20counsellor%20assistant/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "investment-counsellor-assistant",
+      "employer_id": "dbs",
+      "company": "DBS Bank",
+      "company_lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://www.dbs.com/careers",
+      "search_url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=investment%20counsellor%20assistant",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "investment-counsellor-assistant",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=investment%20counsellor%20assistant&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "investment-counsellor-assistant",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=investment%20counsellor%20assistant&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "investment-counsellor-assistant",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=investment%20counsellor%20assistant",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "investment-counsellor-assistant",
+      "employer_id": "standard-chartered",
+      "company": "Standard Chartered",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.standardchartered.com",
+      "search_url": "https://jobs.standardchartered.com/search/?q=investment%20counsellor%20assistant&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "it-auditor",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=it%20auditor&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "it-auditor",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=it%20auditor&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "it-auditor",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=it%20auditor&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "it-auditor",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=it%20auditor&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "it-auditor",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=it%20auditor&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "junior-programmer",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=junior%20programmer&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "junior-programmer",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=junior%20programmer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "occupational-therapist",
+      "employer_id": "nhg",
+      "company": "National Healthcare Group (NHG Health)",
+      "company_lists": [],
+      "careers_url": "https://careers.nhghealth.com.sg/",
+      "search_url": "https://careers.nhghealth.com.sg/search/?q=occupational%20therapist",
+      "openings": 5,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "occupational-therapist",
+      "employer_id": "singhealth",
+      "company": "SingHealth",
+      "company_lists": [],
+      "careers_url": "https://www.singhealth.com.sg/careers",
+      "search_url": "https://careers.singhealth.com.sg/search/?q=occupational%20therapist",
+      "openings": 2,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "physiotherapist",
+      "employer_id": "singhealth",
+      "company": "SingHealth",
+      "company_lists": [],
+      "careers_url": "https://www.singhealth.com.sg/careers",
+      "search_url": "https://careers.singhealth.com.sg/search/?q=physiotherapist",
+      "openings": 9,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "physiotherapist",
+      "employer_id": "nhg",
+      "company": "National Healthcare Group (NHG Health)",
+      "company_lists": [],
+      "careers_url": "https://careers.nhghealth.com.sg/",
+      "search_url": "https://careers.nhghealth.com.sg/search/?q=physiotherapist",
+      "openings": 6,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "policy-officer",
+      "employer_id": "nhg",
+      "company": "National Healthcare Group (NHG Health)",
+      "company_lists": [],
+      "careers_url": "https://careers.nhghealth.com.sg/",
+      "search_url": "https://careers.nhghealth.com.sg/search/?q=policy%20officer",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "policy-officer",
+      "employer_id": "singhealth",
+      "company": "SingHealth",
+      "company_lists": [],
+      "careers_url": "https://www.singhealth.com.sg/careers",
+      "search_url": "https://careers.singhealth.com.sg/search/?q=policy%20officer",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "pre-sales-consultant",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=pre-sales%20consultant&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "pre-sales-consultant",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=pre-sales%20consultant&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "pre-sales-consultant",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=pre-sales%20consultant&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "pre-sales-consultant",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=pre-sales%20consultant&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "pre-sales-consultant",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=pre-sales%20consultant&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "product-security-engineer",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=product%20security%20engineer&location=Singapore",
+      "openings": 3,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "product-security-engineer",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=product%20security%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "product-security-engineer",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=product%20security%20engineer&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "product-security-engineer",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=product%20security%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "product-security-engineer",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=product%20security%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "sales-executive-infocomm-technology",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=sales%20executive&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "sales-executive-infocomm-technology",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=sales%20executive&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "sales-executive-infocomm-technology",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=sales%20executive&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "sales-executive-infocomm-technology",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=sales%20executive&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "sales-executive-infocomm-technology",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=sales%20executive&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "senior-internal-auditor-internal-auditor",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=internal%20auditor&locationsearch=Singapore",
+      "openings": 5,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "senior-internal-auditor-internal-auditor",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=internal%20auditor&locationsearch=Singapore",
+      "openings": 2,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "senior-internal-auditor-internal-auditor",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=internal%20auditor",
+      "openings": 2,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "senior-risk-analyst-risk-analyst",
+      "employer_id": "procter-gamble",
+      "company": "Procter & Gamble",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.pgcareers.com",
+      "search_url": "https://www.pgcareers.com/global/en/search-results?keywords=risk%20analyst&location=Singapore",
+      "openings": 0,
+      "status": "no-listing",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "senior-security-engineer-security-engineer",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=security%20engineer&location=Singapore",
+      "openings": 3,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "senior-security-engineer-security-engineer",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=security%20engineer&location=Singapore",
+      "openings": 2,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "senior-security-engineer-security-engineer",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=security%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "senior-security-engineer-security-engineer",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=security%20engineer&location=singapore-SGP",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "senior-security-engineer-security-engineer",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=security%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "software-engineer",
+      "employer_id": "google",
+      "company": "Google",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.google.com/about/careers/applications/jobs/results",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results?q=software%20engineer&location=Singapore",
+      "openings": 17,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "software-engineer",
+      "employer_id": "amazon",
+      "company": "Amazon",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://www.amazon.jobs",
+      "search_url": "https://www.amazon.jobs/en/search.json?base_query=software%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "software-engineer",
+      "employer_id": "apple",
+      "company": "Apple",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.apple.com/en-sg/search",
+      "search_url": "https://jobs.apple.com/en-sg/search?search=software%20engineer&location=singapore-SGP",
+      "openings": 1,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "software-engineer",
+      "employer_id": "micron",
+      "company": "Micron Technology",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://careers.micron.com",
+      "search_url": "https://careers.micron.com/careers?query=software%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "software-engineer",
+      "employer_id": "msd",
+      "company": "MSD",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://jobs.msd.com",
+      "search_url": "https://jobs.msd.com/gb/en/search-results?keywords=software%20engineer&location=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "staff-nurse",
+      "employer_id": "singhealth",
+      "company": "SingHealth",
+      "company_lists": [],
+      "careers_url": "https://www.singhealth.com.sg/careers",
+      "search_url": "https://careers.singhealth.com.sg/search/?q=staff%20nurse",
+      "openings": 12,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "staff-nurse",
+      "employer_id": "nhg",
+      "company": "National Healthcare Group (NHG Health)",
+      "company_lists": [],
+      "careers_url": "https://careers.nhghealth.com.sg/",
+      "search_url": "https://careers.nhghealth.com.sg/search/?q=staff%20nurse",
+      "openings": 8,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "technology-information-and-cybersecurity-risk-analyst",
+      "employer_id": "deloitte",
+      "company": "Deloitte",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.sea.deloitte.com",
+      "search_url": "https://jobs.sea.deloitte.com/search/?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst&locationsearch=Singapore",
+      "openings": 13,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "technology-information-and-cybersecurity-risk-analyst",
+      "employer_id": "ey",
+      "company": "EY",
+      "company_lists": [],
+      "careers_url": "https://careers.ey.com",
+      "search_url": "https://careers.ey.com/ey/search/?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst&locationsearch=Singapore",
+      "openings": 7,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "technology-information-and-cybersecurity-risk-analyst",
+      "employer_id": "barclays",
+      "company": "Barclays",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://search.jobs.barclays",
+      "search_url": "https://search.jobs.barclays/search-jobs/technology%2C%20information%20and%20cybersecurity%20risk%20analyst/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "technology-information-and-cybersecurity-risk-analyst",
+      "employer_id": "dbs",
+      "company": "DBS Bank",
+      "company_lists": [
+        "linkedin-top-companies-sg-2026"
+      ],
+      "careers_url": "https://www.dbs.com/careers",
+      "search_url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "technology-information-and-cybersecurity-risk-analyst",
+      "employer_id": "kpmg",
+      "company": "KPMG",
+      "company_lists": [
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://careers.kpmg.com.sg",
+      "search_url": "https://careers.kpmg.com.sg/search/?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    },
+    {
+      "role_id": "technology-information-and-cybersecurity-risk-analyst",
+      "employer_id": "standard-chartered",
+      "company": "Standard Chartered",
+      "company_lists": [
+        "fortune-global-500-2026",
+        "linkedin-top-companies-sg-2026",
+        "kaplan-graduate-employers"
+      ],
+      "careers_url": "https://jobs.standardchartered.com",
+      "search_url": "https://jobs.standardchartered.com/search/?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst&locationsearch=Singapore",
+      "openings": 0,
+      "status": "ok",
+      "checked_on": "2026-10-29"
+    }
+  ]
+}

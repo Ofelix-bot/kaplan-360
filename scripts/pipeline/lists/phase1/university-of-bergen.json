@@ -1,0 +1,10 @@
+{
+  "source": "UiB study programmes filtered to teaching language English https://www4.uib.no/en/studies/programmes?teachinglanguage=english (5 pages); kept only programmes whose Teaching language is English alone (\"Norwegian and English\" skipped) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www4.uib.no/en/studies/programmes/global-health-masters",
+    "https://www4.uib.no/en/studies/programmes/master-of-laws-llm-programme-in-eu-and-eea-law-masters",
+    "https://www4.uib.no/en/studies/programmes/media-and-interaction-design-masters",
+    "https://www4.uib.no/en/studies/programmes/politics-and-governance-of-global-challenges-masters"
+  ]
+}

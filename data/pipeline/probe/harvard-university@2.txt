@@ -1,0 +1,28 @@
+# harvard-university@2 https://gsas.harvard.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://gsas.harvard.edu/sitemap.xml: 2 children (2 course-like)
+sitemaps read 3 · urls 3066 · master's-looking 101
+   74  gsas.harvard.edu/event
+         http://gsas.harvard.edu/event/masters-withdrawal-deadline-without-fall-tuition
+         http://gsas.harvard.edu/event/masters-withdrawal-deadline-without-spring-tuition
+         http://gsas.harvard.edu/event/last-day-which-masters-students-may-withdraw-their-program
+         http://gsas.harvard.edu/event/last-day-which-masters-students-may-withdraw-their-program-and-cancel-registration-fall-term
+   18  gsas.harvard.edu/news
+         http://gsas.harvard.edu/news/emma-dench-named-dean-graduate-school-arts-and-sciences
+         http://gsas.harvard.edu/news/alumni-profile-kevin-ma-phd-15
+         http://gsas.harvard.edu/news/demystifying-graduate-school
+         http://gsas.harvard.edu/news/financial-guidance-regarding-graduate-student-work-spring-2020-semester
+    4  gsas.harvard.edu/about/committees
+         http://gsas.harvard.edu/about/committees/committee-graduate-education
+         http://gsas.harvard.edu/about/committees/directors-graduate-studies
+         http://gsas.harvard.edu/about/committees/graduate-policy-committee
+         http://gsas.harvard.edu/about/committees/gsas-admissions-and-graduate-education
+    2  gsas.harvard.edu/financial-support/funding-and-aid/masters-degree-funding
+         http://gsas.harvard.edu/financial-support/funding-and-aid/masters-degree-funding/budgeting-masters-degree
+         http://gsas.harvard.edu/financial-support/funding-and-aid/masters-degree-funding/sources-funding
+    1  gsas.harvard.edu/academics/maximizing-your-degree
+         http://gsas.harvard.edu/academics/maximizing-your-degree/graduate-consortia
+    1  gsas.harvard.edu/financial-support/funding-and-aid
+         http://gsas.harvard.edu/financial-support/funding-and-aid/masters-degree-funding
+    1  gsas.harvard.edu/policy
+         http://gsas.harvard.edu/policy/masters-degrees

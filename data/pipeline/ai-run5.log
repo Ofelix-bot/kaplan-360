@@ -1,0 +1,547 @@
+Claude fills missing fields for 543 programmes (claude-haiku-5-5)…
+birmingham-c Nursing - Mental Health - Pre-registration MSc   +2 kept, 0 dropped
+aston-univer Engineering Management MSc                       +2 kept, 0 dropped
+birmingham-c Nursing - Adult - Pre-registration MSc           +2 kept, 0 dropped
+northumbria- Engineering Management MSc 16 Months, Full-time  +3 kept, 0 dropped
+northumbria- Engineering Management MSc                       +3 kept, 0 dropped
+university-o Engineering Management MSc                       +2 kept, 0 dropped
+northumbria- Engineering Management with Advanced Practice MS +3 kept, 0 dropped
+university-o Engineering Management MSc                       +2 kept, 0 dropped
+monash-unive Master of Commerce                               +4 kept, 1 dropped
+monash-unive Master of Economics                              +4 kept, 1 dropped
+monash-unive Master of Management                             +4 kept, 1 dropped
+monash-unive Master of Public Policy                          +4 kept, 1 dropped
+monash-unive Master of Accounting                             +4 kept, 1 dropped
+monash-unive Master of Advanced Finance                       +4 kept, 1 dropped
+monash-unive Master of Genome Analytics                       +4 kept, 0 dropped
+monash-unive Master of Applied Marketing                      +4 kept, 1 dropped
+monash-unive Master of Global Business                        +4 kept, 1 dropped
+monash-unive Master of Business Analytics                     +4 kept, 1 dropped
+monash-unive Master of Health Data Analytics                  +3 kept, 2 dropped
+monash-unive Master of Applied Econometrics                   +4 kept, 1 dropped
+monash-unive Master of Clinical Psychology                    +3 kept, 2 dropped
+monash-unive Master of Health Professions Education           +4 kept, 1 dropped
+monash-unive Master of Indigenous Business Leadership         +2 kept, 0 dropped
+monash-unive Master of Communications and Media Studies       +4 kept, 1 dropped
+monash-unive Master of Strategic Communications Management    +3 kept, 1 dropped
+monash-unive Master of International Sustainable Tourism Mana +4 kept, 1 dropped
+monash-unive Master of Interpreting and Translation Studies   +4 kept, 1 dropped
+national-uni The NUS MBA                                      +3 kept, 1 dropped
+national-uni THE NUS MS c IN REAL ESTATE                      +2 kept, 1 dropped
+national-uni The NUS MSc in Management                        +1 kept, 1 dropped
+national-uni The NUS MS c in Accounting and Financial Analyti +0 kept, 1 dropped
+national-uni The NUS MS c in Finance                          +2 kept, 1 dropped
+national-uni NUS MSc in Sustainable and Green Finance (MSGFin +3 kept, 1 dropped
+national-uni The NUS MS c in Human Capital Management and Ana +1 kept, 1 dropped
+national-uni NUS MSc in Strategic Analysis and Innovation(MSI +2 kept, 1 dropped
+national-uni MSc in Quantitative Finance by Coursework        +1 kept, 0 dropped
+national-uni Department of Mathematics - MSc in Data Sci. and +0 kept, 0 dropped
+national-uni The NUS MSc in Marketing Analytics & Insights    +2 kept, 1 dropped
+national-uni Master of Computing (Artificial Intelligence Spe +1 kept, 0 dropped
+national-uni Master of Science in Supply Chain Management     +3 kept, 0 dropped
+national-uni Master of Science in Financial Engineering       +2 kept, 1 dropped
+national-uni Master of Science in Digital Financial Technolog +0 kept, 0 dropped
+national-uni Master of Computing (Computer Science Specialisa +1 kept, 0 dropped
+national-uni Master of Computing (Information Systems Special +1 kept, 0 dropped
+national-uni Master of Computing (Infocomm Security Specialis +1 kept, 0 dropped
+national-uni Master of Computing in Artificial Intelligence   +1 kept, 0 dropped
+national-uni Master of Computing (General Track)              +1 kept, 0 dropped
+national-uni Master of Laws (LLM) Maritime Law                +4 kept, 0 dropped
+national-uni Master of Laws (International Business Law)      +3 kept, 0 dropped
+national-uni Master of Community Health                       +1 kept, 0 dropped
+national-uni Master of Social Work (By Coursework)            +1 kept, 0 dropped
+national-uni Master of Technology in Software Engineering     +2 kept, 0 dropped
+national-uni Master of Technology in Digital Leadership       +4 kept, 0 dropped
+national-uni Master of Technology in Enterprise Business Anal +2 kept, 0 dropped
+national-uni Master of Technology in Artificial Intelligence  +2 kept, 0 dropped
+national-uni Master of Science in Enterprise Digital Technolo +3 kept, 0 dropped
+imperial-col Digital Health Leadership (MSc)                  +1 kept, 0 dropped
+university-o Engineering Business Management MSc              +2 kept, 0 dropped
+nanyang-tech Master of Science in Engineering Management      +3 kept, 1 dropped
+university-o Advanced Engineering Management (Systems Managem +1 kept, 0 dropped
+university-o Advanced Engineering Management MSc              +0 kept, 0 dropped
+university-o Advanced Engineering Management (Highways) MSc   +1 kept, 0 dropped
+university-o Advanced Engineering Management (Project Managem +1 kept, 1 dropped
+university-o Advanced Engineering Management (Operations Mana +1 kept, 0 dropped
+university-o Engineering Business Management MSc              +0 kept, 0 dropped
+queen-mary-u Engineering Management MSc                       +3 kept, 0 dropped
+university-o Advanced Engineering Management (Construction Ma +1 kept, 1 dropped
+university-o MSc Engineering Business Management              +3 kept, 0 dropped
+newcastle-un Electronic Commerce MSc                          +1 kept, 1 dropped
+newcastle-un Engineering Management MSc                       +1 kept, 1 dropped
+university-o MSc Accounting and Financial Management MSc Acco +1 kept, 0 dropped
+university-o MSc Advanced Clinical Practice MSc Advanced Clin +0 kept, 0 dropped
+cardiff-univ Engineering Management (MSc)                     +3 kept, 0 dropped
+university-o MSc Applied Computer Science MSc Applied Compute +0 kept, 0 dropped
+university-o MSc International Business MSc International Bus +1 kept, 0 dropped
+university-o MSc Computer Science MSc Computer Science        +1 kept, 0 dropped
+university-o MSc Developmental Psychology                     +1 kept, 0 dropped
+university-o MSc Cloud Computing MSc Cloud Computing          +0 kept, 0 dropped
+university-o MA Criminology and Criminal Justice MA Criminolo +1 kept, 0 dropped
+university-o MSc Counselling MSc Counselling                  +1 kept, 0 dropped
+university-o MA Education MA Education                        +1 kept, 0 dropped
+university-o MSc Data Science and Applied Analytics MSc Data  +0 kept, 0 dropped
+university-o MSc Forensic Psychology MSc Forensic Psychology  +1 kept, 0 dropped
+university-o MSc Human Resource Management MSc Human Resource +1 kept, 0 dropped
+university-o MSc Artificial Intelligence MSc Artificial Intel +1 kept, 0 dropped
+university-o MA International Relations MA International Rela +1 kept, 0 dropped
+university-o MSc Supply Chain and Logistics Management MSc Su +1 kept, 0 dropped
+university-o MSc Management MSc Management                    +1 kept, 0 dropped
+university-o MSc Nursing (Pre-registration - Mental Health) M +0 kept, 0 dropped
+university-o MSc Marketing MSc Marketing                      +1 kept, 0 dropped
+university-o MSc Digital Marketing MSc Digital Marketing      +0 kept, 0 dropped
+university-o MSc Engineering Management MSc Engineering Manag +1 kept, 0 dropped
+university-o MSc Nursing (Pre-registration - Adult) MSc Nursi +0 kept, 0 dropped
+university-o MSc Project Management MSc Project Management    +1 kept, 0 dropped
+university-o MSc Psychological Research Methods MSc Psycholog +1 kept, 0 dropped
+university-o Master of Business Informatics (309JA.4)         +2 kept, 0 dropped
+university-o Master of Professional Accounting (297JA.4)      +2 kept, 0 dropped
+university-o MSc Robotics and Artificial Intelligence         +1 kept, 0 dropped
+university-o Master of Educational Leadership and Management  +1 kept, 1 dropped
+university-o Master of Business Administration (Bhutan) (723A +2 kept, 1 dropped
+university-o Master of Business Administration (723AA.7)      +2 kept, 0 dropped
+university-o Master of Business Administration (Shanghai) (72 +2 kept, 1 dropped
+university-o Master of Clinical Psychology (742AA.3)          +1 kept, 1 dropped
+university-o Master of Building and Construction Information  +0 kept, 2 dropped
+university-o Master of Information Technology and Systems (97 +2 kept, 0 dropped
+university-o Master of Primary Teaching (EDM001.1)            +2 kept, 0 dropped
+university-o Master of Communication (ARM201.4)               +1 kept, 1 dropped
+university-o Master of Secondary Teaching (EDM101.2)          +1 kept, 1 dropped
+university-o Master of Teaching English to Speakers of Other  +2 kept, 0 dropped
+university-o Master of Teaching English to Speakers of Other  +0 kept, 1 dropped
+university-o Master of Public Health (Extended) (HLM102.1)    +2 kept, 0 dropped
+university-o Master of Public Health (HLM101.3)               +1 kept, 1 dropped
+university-o Master of Nursing Practice (Graduate Entry) (HLM +1 kept, 1 dropped
+university-o Master of Data Science (ITM001.2)                +1 kept, 1 dropped
+university-o Master of Business Administration (Plus) (MGM102 +1 kept, 1 dropped
+university-o MA Education                                     +2 kept, 0 dropped
+university-o MSc Economics                                    +2 kept, 0 dropped
+university-o MSc Public Policy                                +2 kept, 0 dropped
+university-o MSc Applied Economics                            +2 kept, 0 dropped
+university-o MSc Business Economics                           +2 kept, 0 dropped
+university-o MSc Psychology Conversion                        +2 kept, 0 dropped
+university-o MSc Research Methods in Psychology               +2 kept, 0 dropped
+university-o MSc Data Science and Advanced Computing          +2 kept, 0 dropped
+university-o MSc Theory and Practice in Clinical Psychology ( +2 kept, 0 dropped
+university-o MSc Consumer Behaviour                           +2 kept, 0 dropped
+university-o MSc Development Finance                          +2 kept, 0 dropped
+university-o MA International Relations and Diplomacy         +2 kept, 0 dropped
+university-o MSc Communication for Development                +3 kept, 0 dropped
+loughborough Engineering Management                           +2 kept, 0 dropped
+university-o Engineering Business Management MSc              +2 kept, 0 dropped
+university-o MSc Engineering Management for Process Excellenc +2 kept, 0 dropped
+university-o Master of Taxation                               +2 kept, 1 dropped
+university-o Master of Business (Canberra)                    +4 kept, 0 dropped
+university-o Master of Economics                              +2 kept, 1 dropped
+university-o Master of Space Operations (Canberra)            +4 kept, 0 dropped
+university-o Master of Commerce                               +2 kept, 1 dropped
+university-o Master of Interpreting                           +1 kept, 2 dropped
+university-o Master of Applied Economics                      +2 kept, 1 dropped
+university-o Master of Teaching (Primary)                     +1 kept, 2 dropped
+university-o Master of Commerce (Extension)                   +2 kept, 1 dropped
+university-o Master of Decision Analytics (Canberra)          +2 kept, 1 dropped
+university-o Master of Aviation Management                    +3 kept, 0 dropped
+university-o Master of Teaching (Secondary)                   +1 kept, 2 dropped
+university-o Master of Logistics Management (Canberra)        +3 kept, 0 dropped
+university-o AGSM Master of Business Administration (Security +3 kept, 0 dropped
+university-o Master of Capability Management (Canberra)       +2 kept, 0 dropped
+university-o Master of Counselling Social Work                +2 kept, 0 dropped
+university-o Master of Sustainment Management (Canberra)      +3 kept, 0 dropped
+university-o Master of Cyber Security Operations (Canberra)   +4 kept, 0 dropped
+university-o Master of Project Management (Canberra)          +3 kept, 0 dropped
+university-o Master of Cyber Security (Canberra)              +3 kept, 0 dropped
+university-o Master of Strategic People Management (Canberra) +4 kept, 0 dropped
+university-o Master of Forensic Mental Health                 +1 kept, 2 dropped
+university-o Master of Security and Defence Management (Canbe +5 kept, 0 dropped
+university-o Master of Special Operations and Irregular Warfa +4 kept, 0 dropped
+university-o Master of Cyber Security, Strategy and Diplomacy +3 kept, 0 dropped
+university-o Master of Strategy and Security (Canberra)       +4 kept, 0 dropped
+australian-n Master of Digital Transformation and Entrepreneu +2 kept, 0 dropped
+australian-n Master of Global Securities and Strategy         +2 kept, 0 dropped
+australian-n Master of Public Administration                  +2 kept, 0 dropped
+australian-n Master of Laws                                   +2 kept, 0 dropped
+university-o Master of Engineering Management                 +2 kept, 1 dropped
+australian-n Master of Statistical Data Analysis              +2 kept, 0 dropped
+australian-n Master of General and Applied Linguistics        +2 kept, 0 dropped
+australian-n Master of Applied Data Analytics                 +2 kept, 0 dropped
+australian-n Master of Applied Cybernetics                    +2 kept, 0 dropped
+australian-n Master of Applied Criminology                    +3 kept, 0 dropped
+australian-n Master of Applied Accounting                     +2 kept, 0 dropped
+australian-n Master of Applied Economics                      +2 kept, 0 dropped
+australian-n Master of Business Administration                +3 kept, 0 dropped
+australian-n Master of Business Information Systems           +2 kept, 0 dropped
+australian-n Master of Economics                              +2 kept, 0 dropped
+australian-n Master of Entrepreneurship and Innovation        +1 kept, 0 dropped
+australian-n Master of Financial Economics                    +3 kept, 0 dropped
+australian-n Master of Financial Management and Law           +2 kept, 0 dropped
+australian-n Master of Financial Management                   +2 kept, 0 dropped
+australian-n Master of Heritage Tourism Management            +2 kept, 0 dropped
+australian-n Master of International and Development Economic +1 kept, 0 dropped
+australian-n Master of International Relations                +2 kept, 0 dropped
+australian-n Master of Management                             +2 kept, 0 dropped
+australian-n Master of Machine Learning and Computer Vision   +2 kept, 0 dropped
+australian-n Master of Marketing Management                   +2 kept, 0 dropped
+australian-n Master of International Management               +1 kept, 0 dropped
+australian-n Master of International Law and Diplomacy        +2 kept, 0 dropped
+australian-n Master of Professional Psychology                +2 kept, 0 dropped
+australian-n Master of Project Leadership                     +2 kept, 0 dropped
+australian-n Master of Public Health                          +1 kept, 1 dropped
+australian-n Master of Public Policy                          +2 kept, 0 dropped
+australian-n Master of Regulation and Governance              +2 kept, 0 dropped
+australian-n Master of Project Management                     +2 kept, 0 dropped
+australian-n Master of Science Communication                  +2 kept, 0 dropped
+australian-n Master of Public Administration                  +2 kept, 0 dropped
+australian-n Master of Statistics                             +2 kept, 0 dropped
+australian-n Master of Applied Cybernetics (Advanced)         +2 kept, 0 dropped
+australian-n Master of Strategy and Defence                   +2 kept, 0 dropped
+australian-n Master of General and Applied Linguistics (Advan +2 kept, 0 dropped
+australian-n Master of Technology Governance                  +2 kept, 0 dropped
+australian-n Master of Accounting (Advanced)                  +2 kept, 0 dropped
+australian-n Master of Governance (Advanced)                  +2 kept, 0 dropped
+australian-n Master of Public Health (Advanced)               +2 kept, 0 dropped
+australian-n Master of International and Development Economic +2 kept, 0 dropped
+australian-n Master of Regulation and Governance              +2 kept, 0 dropped
+australian-n Master of Public Policy                          +2 kept, 0 dropped
+australian-n Master of International Law and Diplomacy        +2 kept, 0 dropped
+australian-n Master of Technology Governance                  +2 kept, 0 dropped
+australian-n Master of Strategy and Defence                   +2 kept, 0 dropped
+australian-n Master of Actuarial Studies                      +3 kept, 0 dropped
+australian-n Master of Professional Accounting                +2 kept, 0 dropped
+australian-n Master of Finance                                +2 kept, 0 dropped
+australian-n Master of Actuarial Practice                     +3 kept, 0 dropped
+australian-n Master of Clinical Psychology                    +2 kept, 0 dropped
+australian-n Master of Accounting                             +1 kept, 0 dropped
+australian-n Master of Computing                              +2 kept, 0 dropped
+australian-n Master of Applied Finance                        +2 kept, 0 dropped
+australian-n Master of Computing (Advanced)                   +2 kept, 0 dropped
+university-o Master of Commerce                               +2 kept, 1 dropped
+university-o Master of Laws                                   +2 kept, 1 dropped
+university-o Master of Education                              +2 kept, 1 dropped
+university-o Master of Marketing                              +2 kept, 1 dropped
+university-o Master of Management                             +2 kept, 1 dropped
+university-o Master of Social Work                            +1 kept, 0 dropped
+university-o Master of Economics                              +2 kept, 1 dropped
+university-o Master of Taxation Law                           +1 kept, 0 dropped
+university-o Master of Commerce                               +2 kept, 1 dropped
+university-o Master of Data Science                           +2 kept, 1 dropped
+university-o Master of Applied Finance                        +2 kept, 1 dropped
+university-o Master of Public Health                          +2 kept, 0 dropped
+university-o Master of International Law                      +2 kept, 0 dropped
+university-o Master of Business Analytics                     +2 kept, 1 dropped
+university-o Master of Public Policy                          +2 kept, 1 dropped
+university-o Master of Business Psychology                    +2 kept, 1 dropped
+university-o Master of Translation Studies                    +2 kept, 1 dropped
+university-o Master of Teaching (Secondary)                   +2 kept, 0 dropped
+university-o Master of Clinical Psychology                    +1 kept, 0 dropped
+university-o Master of Science Communication                  +2 kept, 1 dropped
+university-o Master of Advanced Social Work                   +4 kept, 0 dropped
+university-o Master of Information Technology (IT)            +2 kept, 1 dropped
+university-o Master of Mining and Energy Law                  +1 kept, 1 dropped
+university-o Master of International Relations                +2 kept, 1 dropped
+university-o Master of Strategic Communication                +2 kept, 1 dropped
+university-o Master of Law, Policy and Government             +1 kept, 1 dropped
+university-o Master of Clinical Exercise Physiology           +2 kept, 1 dropped
+university-o Master of Public Health with Specialisation      +2 kept, 1 dropped
+university-o Master of Professional Accounting                +2 kept, 1 dropped
+university-o Master of Building Information Modelling         +2 kept, 1 dropped
+university-o Master of Commerce - Articulation (coursework)   +1 kept, 0 dropped
+university-o Master of Exercise Rehabilitation (Exit Award)   +1 kept, 0 dropped
+university-o Master of Psychology (Clinical Neuropsychology)  +1 kept, 0 dropped
+university-o Master of Business Administration (MBA)          +3 kept, 0 dropped
+university-o Master of Statistics (coursework and dissertatio +1 kept, 0 dropped
+university-o Master of Business Administration (MBA) Flexible +2 kept, 1 dropped
+university-o Master of Human Resources and Employment Relatio +2 kept, 1 dropped
+university-o Master of Professional Psychology (coursework)   +0 kept, 4 dropped
+university-o Master of Exercise Science - Thesis and Coursewo +2 kept, 1 dropped
+university-o Master of Industrial and Organisational Psycholo +4 kept, 0 dropped
+university-o Master of Health Professions Education - Thesis  +2 kept, 1 dropped
+university-o Master of Resources and International Commercial +1 kept, 1 dropped
+university-o Master of Engineering Management                 +1 kept, 0 dropped
+university-o Master of Health Professions Education           +3 kept, 1 dropped
+university-o Master of Business Information and Logistics Man +2 kept, 1 dropped
+university-o Master of Engineering Management                 +2 kept, 0 dropped
+university-o Master of Professional Accounting (Chartered Acc +2 kept, 1 dropped
+curtin-unive Master of Computing                              +2 kept, 1 dropped
+curtin-unive Master of Commerce                               +2 kept, 1 dropped
+curtin-unive Master of Education                              +3 kept, 1 dropped
+curtin-unive Master of Midwifery                              +2 kept, 0 dropped
+curtin-unive Master of TESOL                                  +2 kept, 1 dropped
+rmit-univers Master of Commerce                               +2 kept, 1 dropped
+curtin-unive Master of Teaching                               +2 kept, 0 dropped
+curtin-unive Master of Taxation                               +1 kept, 1 dropped
+curtin-unive Master of Cyber Security                         +0 kept, 3 dropped
+curtin-unive Master of Nursing Practice                       +3 kept, 0 dropped
+curtin-unive Master of Public Health                          +2 kept, 0 dropped
+curtin-unive Master of Psychology (Clinical)                  +2 kept, 1 dropped
+curtin-unive Master of Actuarial Science                      +2 kept, 0 dropped
+curtin-unive Master of Clinical Psychology                    +3 kept, 0 dropped
+curtin-unive Master of Social Work (Qualifying)               +2 kept, 0 dropped
+curtin-unive Master of Public Health (Practice)               +2 kept, 1 dropped
+curtin-unive Master of Engineering Management                 +4 kept, 0 dropped
+curtin-unive Master of Artificial Intelligence                +2 kept, 1 dropped
+curtin-unive Master of Project Management                     +2 kept, 1 dropped
+curtin-unive MBA (Master of Business Administration)          +2 kept, 0 dropped
+curtin-unive Master of International Relations                +1 kept, 2 dropped
+curtin-unive Master of Arts (Applied Linguistics)             +2 kept, 1 dropped
+curtin-unive Master of Psychology (Professional)              +3 kept, 0 dropped
+curtin-unive Master of Professional Accounting                +2 kept, 1 dropped
+curtin-unive Project Management (MSc)                         +2 kept, 1 dropped
+curtin-unive Master of Business Administration Stream         +0 kept, 1 dropped
+curtin-unive Master of Predictive Analytics                   +4 kept, 0 dropped
+curtin-unive Master of Clinical Exercise Physiology           +2 kept, 0 dropped
+curtin-unive MBA (Advanced)                                   +3 kept, 0 dropped
+curtin-unive Master of Information Systems and Technology     +3 kept, 0 dropped
+curtin-unive Master of Innovation and Entrepreneurship        +2 kept, 1 dropped
+curtin-unive Master of Science (Actuarial and Financial Scien +2 kept, 1 dropped
+university-o Master of Engineering Management                 +3 kept, 0 dropped
+deakin-unive Master of Engineering Management (Professional)  +2 kept, 1 dropped
+deakin-unive Master of Engineering Management (Professional)  +2 kept, 1 dropped
+curtin-unive Master of Health Services Management and Leaders +2 kept, 0 dropped
+queensland-u Master of Engineering Management                 +2 kept, 1 dropped
+national-uni Engineering Management (MSc)                     +2 kept, 0 dropped
+brunel-unive Engineering Management MSc                       +3 kept, 0 dropped
+coventry-uni Engineering Management MSc                       +2 kept, 0 dropped
+coventry-uni Adult Nursing (pre-registration) MSc             +1 kept, 0 dropped
+de-montfort- Engineering Management MSc                       +2 kept, 0 dropped
+la-trobe-uni Master of Engineering Management                 +2 kept, 1 dropped
+leeds-becket MSc Advanced Engineering Management Course       +3 kept, 0 dropped
+heriot-watt- MSc Engineering Management                       +2 kept, 0 dropped
+middlesex-un Mental Health Nursing MSc (with NMC Registration +3 kept, 0 dropped
+sheffield-ha MSc Engineering Management                       +2 kept, 0 dropped
+anglia-ruski Engineering Management - MSc - ARU               +1 kept, 1 dropped
+middlesex-un Engineering Management MSc                       +3 kept, 0 dropped
+sheffield-ha MSc Engineering Management (Work Experience)     +2 kept, 0 dropped
+university-o Engineering Management, MSc                      +3 kept, 0 dropped
+university-o Engineering Management MSc                       +3 kept, 0 dropped
+university-o Engineering Management MSc (PGCert PGDip)        +3 kept, 0 dropped
+university-o Engineering Management MSc                       +2 kept, 0 dropped
+university-o Engineering Management with Industrial Practice, +3 kept, 0 dropped
+university-o Journalism Innovation & Leadership, MA/PGCert    +3 kept, 0 dropped
+university-o Clinical Practice, Management & Education, MSc/P +3 kept, 0 dropped
+university-o Veterinary Primary Care & Clinical Leadership, M +3 kept, 0 dropped
+flinders-uni Master of Education                              +1 kept, 2 dropped
+university-o PGCert, PGDip and MSc in Health Professions Educ +1 kept, 1 dropped
+flinders-uni Master of Public Health                          +0 kept, 3 dropped
+flinders-uni Master of Teaching (Birth - 5)                   +1 kept, 1 dropped
+flinders-uni Master of Social Work (Graduate Entry)           +2 kept, 1 dropped
+flinders-uni Master of Advanced Practice (Health Leadership a +3 kept, 1 dropped
+flinders-uni Master of Business Administration Future Busines +2 kept, 1 dropped
+james-cook-u Master of Education                              +5 kept, 0 dropped
+james-cook-u Master of Information Technology                 +2 kept, 1 dropped
+southern-cro Master of Engineering Management                 +2 kept, 1 dropped
+james-cook-u Master of Public Health                          +3 kept, 0 dropped
+james-cook-u Master of Guidance and Counselling               +4 kept, 0 dropped
+james-cook-u Master of Public Health and Tropical Medicine    +3 kept, 0 dropped
+kingston-uni Engineering Management MSc                       +2 kept, 0 dropped
+technologica Master of Science in Computing with Sustainable  +3 kept, 0 dropped
+nottingham-t MSc Engineering Management                       +4 kept, 0 dropped
+university-o MA Leadership in Sport                           +3 kept, 0 dropped
+university-o MSc Engineering Management                       +3 kept, 0 dropped
+james-cook-u Master of Teaching and Learning (Secondary)      +2 kept, 2 dropped
+university-o MSc Leadership in Professional Policing          +3 kept, 0 dropped
+university-o MA Education (Wales): Additional Learning Needs  +2 kept, 0 dropped
+university-o MSc Engineering Management                       +2 kept, 1 dropped
+city-univers MSc Electronic Commerce                          +0 kept, 0 dropped
+university-o MSc Psychology (Conversion)                      +3 kept, 0 dropped
+city-univers MSc Engineering Management                       +3 kept, 0 dropped
+university-o Master of Science in Nursing                     +2 kept, 0 dropped
+university-o Master of Global Management                      +3 kept, 0 dropped
+university-o Master of Public Health                          +3 kept, 0 dropped
+university-o Master of Social Work                            +4 kept, 1 dropped
+university-o Master of Buddhist Counselling                   +3 kept, 0 dropped
+university-o Master of Wealth Management                      +2 kept, 0 dropped
+university-o Master of Science in Marketing                   +2 kept, 0 dropped
+university-o Master of Science in Real Estate                 +3 kept, 0 dropped
+university-o Master of Science in Business Analytics          +2 kept, 0 dropped
+university-o Master of Public Administration                  +3 kept, 1 dropped
+university-o Master of Arts in the field of Linguistics       +4 kept, 0 dropped
+university-o Master of Community Health Care                  +2 kept, 1 dropped
+university-o Master of Arts in the field of Translation       +4 kept, 0 dropped
+university-o Master of Finance in Financial Technology        +3 kept, 0 dropped
+university-o Master of Sustainable Accounting and Finance     +1 kept, 0 dropped
+university-o Master of Social Sciences in the field of Sustai +2 kept, 1 dropped
+university-o Master of Social Sciences in the field of Psycho +2 kept, 1 dropped
+university-o Master of Science in Geospatial Data Science     +2 kept, 1 dropped
+university-o Master of Social Sciences in the field of Counse +2 kept, 1 dropped
+university-o Master of Social Sciences in the field of Crimin +2 kept, 1 dropped
+university-o Master of Social Sciences in the field of Clinic +3 kept, 0 dropped
+university-o Master of Social Sciences in the field of Mental +3 kept, 2 dropped
+university-o Master of Social Sciences in the field of Applie +2 kept, 1 dropped
+university-o Master of Social Sciences in the field of Nonpro +2 kept, 1 dropped
+university-o Master of Social Sciences in the field of Educat +2 kept, 0 dropped
+university-o Master of Social Sciences in the field of Social +2 kept, 1 dropped
+university-o Master of Social Sciences in the field of Social +4 kept, 1 dropped
+university-o Master of Science in Technology, Design and Lead +4 kept, 1 dropped
+hong-kong-un Master of Public Management                      +3 kept, 0 dropped
+university-o Master of Social Sciences in the field of Media, +2 kept, 1 dropped
+hong-kong-un Master of Arts in International Language Educati +3 kept, 1 dropped
+hong-kong-un Master of Science in Artificial Intelligence     +3 kept, 0 dropped
+hong-kong-un Master of Science in Business Analytics          +3 kept, 0 dropped
+hong-kong-un Master of Science in Global Operations           +3 kept, 0 dropped
+hong-kong-un Master of Public Policy                          +2 kept, 1 dropped
+hong-kong-un Master of Science in Big Data Technology         +3 kept, 0 dropped
+hong-kong-un Master of Science in Engineering Enterprise Mana +3 kept, 0 dropped
+hong-kong-un Master of Science in Data-Driven Modeling        +3 kept, 0 dropped
+hong-kong-un Master of Science in International Management    +2 kept, 1 dropped
+hong-kong-un Master of Science in Information Systems Managem +3 kept, 0 dropped
+hong-kong-un Master of Science in Technology Leadership and E +3 kept, 0 dropped
+hong-kong-un Master of Science in Accounting                  +3 kept, 0 dropped
+hong-kong-un Master of Science in Information Technology      +3 kept, 0 dropped
+hong-kong-un Master of Science in Economics                   +2 kept, 1 dropped
+hong-kong-un Master of Science in Finance                     +3 kept, 0 dropped
+hong-kong-un Master of Science in Biomolecular Engineering an +3 kept, 0 dropped
+hong-kong-un Master of Science in Family Office and Family Bu +3 kept, 0 dropped
+hong-kong-un Master of Science in Global Finance              +2 kept, 0 dropped
+hong-kong-un Master of Science in Intelligent Building Techno +3 kept, 0 dropped
+hong-kong-un Master of Science in Financial Mathematics       +3 kept, 0 dropped
+hong-kong-un Master of Science in Marketing                   +2 kept, 1 dropped
+hong-kong-un Master of Science in Financial Technology        +3 kept, 0 dropped
+hong-kong-un Master of Science in Information and Cyber Secur +3 kept, 0 dropped
+hong-kong-un Master of Business Administration (MBA)          +2 kept, 0 dropped
+education-un Master of Science in Educational Neuroscience    +3 kept, 0 dropped
+city-univers Master of Computer Science - Faculty of Data Sci +1 kept, 0 dropped
+city-univers Master of Business Administration - Faculty of B +1 kept, 0 dropped
+hong-kong-un PT MBA (Bi-weekly)                               +3 kept, 0 dropped
+city-univers Master of Artificial Intelligence - Faculty of D +1 kept, 0 dropped
+city-univers Master of Management Analytics - Faculty of Busi +2 kept, 0 dropped
+city-univers Master of Science in Finance                     +2 kept, 0 dropped
+city-univers Master of Education                              +2 kept, 0 dropped
+city-univers Master of International Relations and Governance +1 kept, 0 dropped
+city-univers Master of Teaching and Learning Studies          +2 kept, 0 dropped
+city-univers Master of International Hospitality and Tourism  +1 kept, 1 dropped
+city-univers Master of International Hospitality and Tourism  +1 kept, 1 dropped
+city-univers Master of International Hotel Management (Englis +1 kept, 1 dropped
+city-univers Master of Science in Financial Technology        +2 kept, 0 dropped
+city-univers Master of Data Science - Faculty of Data Science +1 kept, 0 dropped
+city-univers Master of International Hotel Management (Chines +1 kept, 1 dropped
+city-univers Master of Arts in Applied Linguistics Programme  +1 kept, 0 dropped
+city-univers Master of Cultural Industries Management         +0 kept, 0 dropped
+stanford-uni Community Health and Prevention Research (MS)    +0 kept, 0 dropped
+johns-hopkin Engineering Management, Master of Science        +2 kept, 1 dropped
+kaplan-highe Master of Science Engineering Business Managemen +3 kept, 0 dropped
+university-o Community Health, MS                             +1 kept, 0 dropped
+university-o Engineering Management, MS                       +2 kept, 1 dropped
+texas-a-and- Master of Science in Engineering Management      +0 kept, 0 dropped
+university-o Master of Science in Engineering Management      +0 kept, 0 dropped
+university-o Master of Science in Engineering Management      +1 kept, 0 dropped
+university-o Engineering Management - Master of Engineering ( +0 kept, 0 dropped
+johns-hopkin Engineering Management, Master of Engineering Ma +2 kept, 0 dropped
+northeastern MS in Commerce & Economic Development - Boston   +1 kept, 2 dropped
+university-o Community Health Sciences - MSc - Thesis         +2 kept, 0 dropped
+northeastern Master's in Engineering Management - Boston      +1 kept, 2 dropped
+university-o Master of Science in Engineering Management (Mec +1 kept, 0 dropped
+university-o Master of Commerce                               +3 kept, 0 dropped
+victoria-uni Master of Commerce – MCom                        +4 kept, 0 dropped
+university-o Master of Engineering Management MEM             +3 kept, 0 dropped
+university-o Master of Engineering Management                 +4 kept, 0 dropped
+university-o Entertainment Law LLM                            +3 kept, 0 dropped
+university-o Master of Engineering Management MEM             +3 kept, 0 dropped
+university-o Economics MSc                                    +3 kept, 0 dropped
+university-o Psychology MSc                                   +3 kept, 0 dropped
+university-o Law and Technology LLM                           +3 kept, 0 dropped
+university-o International Law LLM                            +3 kept, 0 dropped
+university-o Health Psychology MSc                            +3 kept, 0 dropped
+university-o Finance MSc                                      +3 kept, 0 dropped
+university-o Corporate Finance Law LLM                        +3 kept, 0 dropped
+university-o Forensic Psychology MSc                          +3 kept, 0 dropped
+university-o Fashion Business Management MA                   +3 kept, 0 dropped
+university-o Sport and Exercise Nutrition MSc                 +3 kept, 0 dropped
+university-o Translation and Interpreting MA                  +3 kept, 0 dropped
+university-o Specialised Translation MA                       +3 kept, 0 dropped
+university-o Data and Marketing Analytics MSc                 +3 kept, 0 dropped
+university-o Music Business Management MA                     +3 kept, 0 dropped
+university-o Finance and Banking MSc                          +3 kept, 0 dropped
+university-o Global Public Health Nutrition MSc               +3 kept, 0 dropped
+university-o Global Criminology MA                            +3 kept, 0 dropped
+university-o Project Management MSc                           +3 kept, 0 dropped
+university-o Digital Marketing Management MSc                 +3 kept, 0 dropped
+university-o Global Public Health with Data Science MSc       +3 kept, 0 dropped
+university-o Public Relations MA/MSc                          +3 kept, 0 dropped
+university-o Accounting and Finance MSc                       +3 kept, 0 dropped
+university-o International Commercial and Corporate Law LLM   +3 kept, 0 dropped
+university-o Media and Communication MA                       +3 kept, 0 dropped
+university-o Finance and Sustainable Finance MSc              +3 kept, 0 dropped
+university-o Human Resource Management MA                     +3 kept, 0 dropped
+university-o Master of Business Administration (MBA)          +3 kept, 0 dropped
+university-o Marketing Management MA/MSc                      +3 kept, 0 dropped
+university-o Media, Campaigning and Social Change MA          +3 kept, 0 dropped
+university-o Media, Communication and Development MA          +3 kept, 0 dropped
+university-o Film, Television and Moving Image MA             +3 kept, 0 dropped
+university-o Business of Film MA                              +3 kept, 0 dropped
+university-o International and Commercial Dispute Resolution  +3 kept, 0 dropped
+university-o Finance, Investment and Risk Management MSc      +3 kept, 0 dropped
+university-o International Relations MA                       +3 kept, 0 dropped
+university-o International Business and Management MSc        +3 kept, 0 dropped
+university-o Marketing Communications MA/MSc                  +3 kept, 0 dropped
+university-o Social Media and Digital Communication MA        +3 kept, 0 dropped
+university-o Software Engineering (Conversion) MSc            +3 kept, 0 dropped
+university-o Digital Media: Storytelling and Production MA    +3 kept, 0 dropped
+university-o Digital and Multilingual Communication MA        +3 kept, 0 dropped
+university-o Specialised Translation with Professional Experi +3 kept, 0 dropped
+university-o Media Business and Creative Enterprise MA/MSc    +3 kept, 0 dropped
+university-o Cyber Security and Forensics MSc                 +3 kept, 0 dropped
+university-o Construction Project Management MSc              +3 kept, 0 dropped
+university-o Translation and Interpreting with Professional E +3 kept, 0 dropped
+university-o International Development Management MSc         +3 kept, 0 dropped
+university-o International Relations and Security MA          +3 kept, 0 dropped
+university-o Business and Organisational Psychology MSc       +3 kept, 0 dropped
+university-o Environmental Sustainability and Data Science MS +3 kept, 0 dropped
+university-o Teaching English to Speakers of Other Languages  +3 kept, 0 dropped
+university-o FinTech with Business Analytics MSc              +3 kept, 0 dropped
+university-o Master of Business Administration with Professio +3 kept, 0 dropped
+university-o International Relations and Democratic Politics  +3 kept, 0 dropped
+university-o Public Policy and Management MA                  +3 kept, 0 dropped
+university-o International Business and Management with Profe +3 kept, 0 dropped
+university-o Entrepreneurship, Innovation and Enterprise Deve +3 kept, 0 dropped
+university-o Artificial Intelligence and Digital Health MSc   +3 kept, 0 dropped
+university-o Applied Artificial Intelligence MSc              +3 kept, 0 dropped
+university-o Data Science and Analytics MSc                   +3 kept, 0 dropped
+university-o Management MSc - Business                        +2 kept, 0 dropped
+university-o Journalism MA - Journalism                       +2 kept, 0 dropped
+university-o Education (with optional specialist pathways) MA +2 kept, 0 dropped
+university-o Advanced Cyber Security MSc - Computing          +2 kept, 0 dropped
+university-o Behaviour Change (incorporating PG Dip/PG Cert)  +1 kept, 0 dropped
+university-o Business Analytics MSc - Business                +2 kept, 0 dropped
+university-o Digital Marketing MSc - Marketing                +2 kept, 0 dropped
+university-o AI, Data and Communication MA                    +3 kept, 0 dropped
+university-o Health Psychology MSc - Psychology               +2 kept, 0 dropped
+university-o Economics and Finance MSc - Business             +2 kept, 0 dropped
+university-o Accounting and Finance MSc - Accounting          +2 kept, 0 dropped
+university-o Applied Data Science MSc - Computing             +2 kept, 0 dropped
+university-o Film and Screen Production MA - Film             +2 kept, 0 dropped
+university-o Forensic Psychology MSc - Psychology             +1 kept, 0 dropped
+university-o Marketing Management MSc - Marketing             +2 kept, 0 dropped
+university-o Information Technology MSc - Computing           +2 kept, 0 dropped
+university-o International Business MSc - Business            +2 kept, 0 dropped
+university-o Midwifery (Pre-registration) MSc - Midwifery     +2 kept, 0 dropped
+university-o International Business and HRM MSc - Business    +2 kept, 0 dropped
+university-o International Business and Finance MSc - Busines +2 kept, 0 dropped
+university-o Strength and Conditioning MSc - Sport and Exerci +3 kept, 0 dropped
+university-o Advanced Data Science MSc - Computing            +2 kept, 0 dropped
+university-o Nursing (Adult) MSc - Nursing and Health Care Pr +1 kept, 0 dropped
+university-o Criminal Investigation MSc - Criminology and Pol +2 kept, 0 dropped
+university-o Publishing MA - English, Creative Writing and Pu +2 kept, 0 dropped
+university-o International Business and Marketing MSc - Busin +2 kept, 0 dropped
+university-o Advanced Clinical Practice MSc - Nursing and Hea +1 kept, 0 dropped
+university-o Applied Sport and Exercise Science MSc - Sport a +2 kept, 0 dropped
+university-o Nursing (Mental Health) MSc - Nursing and Health +2 kept, 0 dropped
+university-o Economics and International Business MSc - Busin +2 kept, 0 dropped
+university-o Dance Movement Psychotherapy MA - Therapeutic Ar +2 kept, 0 dropped
+university-o Creative Writing MA - English, Creative Writing  +2 kept, 0 dropped
+university-o Human Resource Management MSc - Human Resource M +2 kept, 0 dropped
+university-o Criminal Justice and Criminology MSc - Criminolo +2 kept, 0 dropped
+university-o Leadership in Health and Social Care MSc - Publi +2 kept, 0 dropped
+university-o Sustainable and Ethical Business Management MSc  +2 kept, 0 dropped
+university-o Teaching English to Speakers of Other Languages  +2 kept, 0 dropped
+university-o Cognitive Behavioural Psychotherapy (BABCP accre +2 kept, 0 dropped
+university-o Integrative Counselling and Psychotherapy (incor +3 kept, 0 dropped
+university-o Global Operations and Supply Chain Management MS +2 kept, 0 dropped
+london-south CHILDREN'S NURSING MSc(Top up) for Registered Nu +1 kept, 1 dropped
+london-south PERINATAL MENTAL HEALTH PgCert; PgDip; MSc       +2 kept, 0 dropped
+london-south INTERNATIONAL BUSINESS MANAGEMENT (WITH INTERNSH +2 kept, 1 dropped
+university-o International Hospitality and Tourism Management +3 kept, 0 dropped
+university-o Intelligence, Security and Disaster Management M +2 kept, 0 dropped
+london-south POST REGISTRATION IN CHILDREN’S NURSING (CPD ROU +2 kept, 0 dropped
+Tokens: input 3937615, output 191990 · cost ≈ US0.490 (Haiku 5.5: $0.10 / $0.50 per MTok)
+Claude fills missing fields for 0 programmes (claude-haiku-5-5)…
+Tokens: input 0, output 0 · cost ≈ US0.000 (Haiku 5.5: $0.10 / $0.50 per MTok)

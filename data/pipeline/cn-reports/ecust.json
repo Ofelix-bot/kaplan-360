@@ -1,0 +1,34 @@
+{
+  "id": "ecust",
+  "status": "read",
+  "university": "华东理工大学",
+  "universityEn": "East China University of Science and Technology",
+  "tier": "211",
+  "url": "https://xxgk.ecust.edu.cn/_upload/article/files/81/0f/ddecd98f4a7fbbe5e292e2a5e614/c027f3ce-deb2-442f-ba46-dc934f1da3ef.pdf",
+  "title": "学校毕业生就业质量年度报告",
+  "year": 2024,
+  "cohort": "2024届",
+  "pages": 14,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": "2024届",
+      "count": 501,
+      "pct": 12.44,
+      "quote": "2024 届本科毕业生中，501 人出境深造，出境人数占本科毕业生总人数的 12.44%，比 2023 年增加 2.35 个百分点"
+    }
+  ],
+  "regions": [],
+  "ranked": [
+    {
+      "band": "世界大学学术排名（ARWU）前100位",
+      "cohort": "2024届",
+      "count": 295,
+      "pct": 58.88,
+      "quote": "在出境深造的本科毕业生中，295 人进入世界大学学术排名（ARWU）前 100 位的境外大学就读，占出境深造本科毕业生人数的 58.88%"
+    }
+  ],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

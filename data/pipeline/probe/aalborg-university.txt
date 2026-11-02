@@ -1,0 +1,88 @@
+# aalborg-university https://www.en.aau.dk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 671 · master's-looking 164
+   50  www.en.aau.dk/education/master
+         https://www.en.aau.dk/education/master/list
+         https://www.en.aau.dk/education/master/joint-masters
+         https://www.en.aau.dk/education/master/new-master-s-degree-opportunities
+         https://www.en.aau.dk/education/master/advanced-power-electronics
+   43  www.en.aau.dk/education/continuing-education/master
+         https://www.en.aau.dk/education/continuing-education/master/problem-based-learning-in-engineering-and-science
+         https://www.en.aau.dk/education/continuing-education/master/problem-based-learning-in-engineering-and-science/pedagogical-foundations-for-course-and-curriculum-re-design
+         https://www.en.aau.dk/education/continuing-education/master/problem-based-learning-in-engineering-and-science/pbl-for-change-making
+         https://www.en.aau.dk/education/continuing-education/master/problem-based-learning-in-engineering-and-science/pbl-research-and-reflection-in-and-through-practice
+   14  www.en.aau.dk/alumni/alumni-portraits/graduate-portraits
+         https://www.en.aau.dk/alumni/alumni-portraits/graduate-portraits/ssh
+         https://www.en.aau.dk/alumni/alumni-portraits/graduate-portraits/ssh/aau-business-school
+         https://www.en.aau.dk/alumni/alumni-portraits/graduate-portraits/ssh/aau-business-school/farhan-shehab-facer-amnesty-international
+         https://www.en.aau.dk/alumni/alumni-portraits/graduate-portraits/eng
+    7  www.en.aau.dk/education/apply/master
+         https://www.en.aau.dk/education/apply/master/february-intake
+         https://www.en.aau.dk/education/apply/master/admission-requirements
+         https://www.en.aau.dk/education/apply/master/how-and-when-to-apply
+         https://www.en.aau.dk/education/apply/master/frequently-asked-questions
+    6  www.en.aau.dk/education/master/energy-engineering
+         https://www.en.aau.dk/education/master/energy-engineering/electrical-power-systems-high-voltage-engineering
+         https://www.en.aau.dk/education/master/energy-engineering/fuel-cells-and-hydrogen-technology
+         https://www.en.aau.dk/education/master/energy-engineering/mechatronic-control-engineering
+         https://www.en.aau.dk/education/master/energy-engineering/power-electronics-drives
+    5  www.en.aau.dk/education/master/culture-communication-and-globalization
+         https://www.en.aau.dk/education/master/culture-communication-and-globalization/arctic-studies
+         https://www.en.aau.dk/education/master/culture-communication-and-globalization/chinese-area-studies
+         https://www.en.aau.dk/education/master/culture-communication-and-globalization/global-gender-studies
+         https://www.en.aau.dk/education/master/culture-communication-and-globalization/dantong-li-communication-specialist-at-envision-energy
+    5  www.en.aau.dk/education/master/economics-and-business-administration
+         https://www.en.aau.dk/education/master/economics-and-business-administration/business-data-science
+         https://www.en.aau.dk/education/master/economics-and-business-administration/finance
+         https://www.en.aau.dk/education/master/economics-and-business-administration/innovation-management
+         https://www.en.aau.dk/education/master/economics-and-business-administration/international-business
+    5  www.en.aau.dk/education/master/urban-energy-and-environmental-planning
+         https://www.en.aau.dk/education/master/urban-energy-and-environmental-planning/cities-and-sustainability
+         https://www.en.aau.dk/education/master/urban-energy-and-environmental-planning/environmental-management-and-sustainability
+         https://www.en.aau.dk/education/master/urban-energy-and-environmental-planning/environmental-management-and-sustainability/selma
+         https://www.en.aau.dk/education/master/urban-energy-and-environmental-planning/sustainable-energy-planning-management
+    3  www.en.aau.dk/education/master/list
+         https://www.en.aau.dk/education/master/list/aalborg
+         https://www.en.aau.dk/education/master/list/esbjerg
+         https://www.en.aau.dk/education/master/list/copenhagen
+    3  www.en.aau.dk/education/master/mechanical-engineering
+         https://www.en.aau.dk/education/master/mechanical-engineering/design-of-mechanical-systems
+         https://www.en.aau.dk/education/master/mechanical-engineering/manufacturing-technology
+         https://www.en.aau.dk/education/master/mechanical-engineering/biomechanical-engineering
+    3  www.en.aau.dk/education/master/sustainable-energy-engineering
+         https://www.en.aau.dk/education/master/sustainable-energy-engineering/offshore-energy-systems
+         https://www.en.aau.dk/education/master/sustainable-energy-engineering/fluids-and-process-systems
+         https://www.en.aau.dk/education/master/sustainable-energy-engineering/power-to-x-systems
+    2  www.en.aau.dk/education/master/computer-engineering
+         https://www.en.aau.dk/education/master/computer-engineering/artificial-intelligence-vision-and-sound
+         https://www.en.aau.dk/education/master/computer-engineering/network-and-distributed-systems
+    2  www.en.aau.dk/education/master/management-engineering
+         https://www.en.aau.dk/education/master/management-engineering/operations-and-innovation-management
+         https://www.en.aau.dk/education/master/management-engineering/operations-and-supply-chain-management
+    2  www.en.aau.dk/education/master/physics-and-technology
+         https://www.en.aau.dk/education/master/physics-and-technology/nanobiotechnology
+         https://www.en.aau.dk/education/master/physics-and-technology/nanomaterials-and-nanophysics
+    2  www.en.aau.dk/education/continuing-education
+         https://www.en.aau.dk/education/continuing-education/master
+         https://www.en.aau.dk/education/continuing-education/flexible-part-time-master-s-programme
+    2  www.en.aau.dk/about-aau/strategy/digitalization
+         https://www.en.aau.dk/about-aau/strategy/digitalization/pbl-digital/masterplan
+         https://www.en.aau.dk/about-aau/strategy/digitalization/research/masterplan
+    1  www.en.aau.dk/education
+         https://www.en.aau.dk/education/master
+    1  www.en.aau.dk/education/master/advanced-power-electronics
+         https://www.en.aau.dk/education/master/advanced-power-electronics/ai-and-autonomous-systems
+    1  www.en.aau.dk/education/master/biotechnology
+         https://www.en.aau.dk/education/master/biotechnology/medical-biotechnology
+    1  www.en.aau.dk/education/master/medialogy-cph
+         https://www.en.aau.dk/education/master/medialogy-cph/sound-and-music-computing
+    1  www.en.aau.dk/education/guest-exchange
+         https://www.en.aau.dk/education/guest-exchange/guest-and-exchange-courses-at-master-s-level
+    1  www.en.aau.dk/education/guest-exchange/economics
+         https://www.en.aau.dk/education/guest-exchange/economics/economics-master-level
+    1  www.en.aau.dk/education/apply
+         https://www.en.aau.dk/education/apply/master
+    1  www.en.aau.dk/about-aau/key-figures/students
+         https://www.en.aau.dk/about-aau/key-figures/students/graduates
+    1  www.en.aau.dk/alumni/alumni-portraits
+         https://www.en.aau.dk/alumni/alumni-portraits/graduate-portraits

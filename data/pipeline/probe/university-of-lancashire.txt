@@ -1,0 +1,87 @@
+# university-of-lancashire https://www.lancashire.ac.uk
+robots sitemaps: https://www.lancashire.ac.uk/sitemap.xml https://www.lancashire.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 4508 · master's-looking 490
+  255  www.lancashire.ac.uk/undergraduate/courses
+         https://www.lancashire.ac.uk/undergraduate/courses/accounting-finance-ba
+         https://www.lancashire.ac.uk/undergraduate/courses/accounting-finance-ba-foundation
+         https://www.lancashire.ac.uk/undergraduate/courses/accounting-financial-management-ba
+         https://www.lancashire.ac.uk/undergraduate/courses/accounting-financial-management-ba-foundation
+  125  www.lancashire.ac.uk/postgraduate/courses
+         https://www.lancashire.ac.uk/postgraduate/courses/adolescent-sports-medicine-pgcert
+         https://www.lancashire.ac.uk/postgraduate/courses/advanced-community-nurse-pgdip
+         https://www.lancashire.ac.uk/postgraduate/courses/advanced-pharmacy-practice-msc
+         https://www.lancashire.ac.uk/postgraduate/courses/aerospace-engineering-msc
+   28  www.lancashire.ac.uk/postgraduate-research/student-profiles
+         https://www.lancashire.ac.uk/postgraduate-research/student-profiles/abdulsaboor-matin
+         https://www.lancashire.ac.uk/postgraduate-research/student-profiles/adam-mccann
+         https://www.lancashire.ac.uk/postgraduate-research/student-profiles/ahmed-ayman-abdelaal
+         https://www.lancashire.ac.uk/postgraduate-research/student-profiles/ayesha-alam
+   18  www.lancashire.ac.uk/postgraduate-research/courses
+         https://www.lancashire.ac.uk/postgraduate-research/courses/anthropology-human-geography-development-studies
+         https://www.lancashire.ac.uk/postgraduate-research/courses/archaeology-anthropology
+         https://www.lancashire.ac.uk/postgraduate-research/courses/clinical-studies-dprof
+         https://www.lancashire.ac.uk/postgraduate-research/courses/community-social-care
+   16  www.lancashire.ac.uk/news
+         https://www.lancashire.ac.uk/news/all-eyes-to-the-future-for-new-mum-and-graduate-optometrist
+         https://www.lancashire.ac.uk/news/blackpool-based-physio-completes-masters-while-welcoming-baby
+         https://www.lancashire.ac.uk/news/calling-all-poly-graduates
+         https://www.lancashire.ac.uk/news/dad-follows-40-year-dream-to-graduate
+    9  www.lancashire.ac.uk/undergraduate
+         https://www.lancashire.ac.uk/undergraduate
+         https://www.lancashire.ac.uk/undergraduate/contextual-admissions
+         https://www.lancashire.ac.uk/undergraduate/fair-access-scheme
+         https://www.lancashire.ac.uk/undergraduate/how-to-apply
+    5  www.lancashire.ac.uk/articles/alumni-spotlight
+         https://www.lancashire.ac.uk/articles/alumni-spotlight/graduate-award-winning-career-itv-news
+         https://www.lancashire.ac.uk/articles/alumni-spotlight/graduate-scheme-leads-to-success-for-hayley-dickinson
+         https://www.lancashire.ac.uk/articles/alumni-spotlight/graduate-to-merlin-entertainment-manager
+         https://www.lancashire.ac.uk/articles/alumni-spotlight/uclan-graduate-to-business-leader
+    5  www.lancashire.ac.uk/postgraduate-research
+         https://www.lancashire.ac.uk/postgraduate-research
+         https://www.lancashire.ac.uk/postgraduate-research/guidance-notes-for-phd-by-portfolio
+         https://www.lancashire.ac.uk/postgraduate-research/how-to-apply
+         https://www.lancashire.ac.uk/postgraduate-research/how-to-apply-phd-and-md-by-published-work
+    3  www.lancashire.ac.uk/articles/student-stories
+         https://www.lancashire.ac.uk/articles/student-stories/from-the-usa-to-a-career-in-football-julia-graduates-ready-for-the-next-step
+         https://www.lancashire.ac.uk/articles/student-stories/graduate-aims-to-publish-children-s-book-inspired-by-dissertation
+         https://www.lancashire.ac.uk/articles/student-stories/meet-the-physiotherapy-graduates-supporting-students-through-the-international-learner-network
+    3  www.lancashire.ac.uk/courses/a-z
+         https://www.lancashire.ac.uk/courses/a-z/postgraduate-research
+         https://www.lancashire.ac.uk/courses/a-z/postgraduate-taught
+         https://www.lancashire.ac.uk/courses/a-z/undergraduate
+    3  www.lancashire.ac.uk/undergraduate/how-to-apply
+         https://www.lancashire.ac.uk/undergraduate/how-to-apply/bvms
+         https://www.lancashire.ac.uk/undergraduate/how-to-apply/mbbs
+         https://www.lancashire.ac.uk/undergraduate/how-to-apply/next-steps
+    2  www.lancashire.ac.uk/alumni
+         https://www.lancashire.ac.uk/alumni/graduate-outcomes
+         https://www.lancashire.ac.uk/alumni/graduate-support
+    2  www.lancashire.ac.uk/articles/research
+         https://www.lancashire.ac.uk/articles/research/poster-exhibition-highlights-undergraduate-research
+         https://www.lancashire.ac.uk/articles/research/undergraduate-research-poster-exhibition
+    2  www.lancashire.ac.uk/degree-apprenticeships/courses
+         https://www.lancashire.ac.uk/degree-apprenticeships/courses/advanced-clinical-practitioner-msc
+         https://www.lancashire.ac.uk/degree-apprenticeships/courses/social-work-ma
+    2  www.lancashire.ac.uk/postgraduate
+         https://www.lancashire.ac.uk/postgraduate
+         https://www.lancashire.ac.uk/postgraduate/how-to-apply
+    1  www.lancashire.ac.uk/articles/advice
+         https://www.lancashire.ac.uk/articles/advice/types-of-postgraduate-study
+    1  www.lancashire.ac.uk/articles/student-voice
+         https://www.lancashire.ac.uk/articles/student-voice/what-my-history-degree-taught-me
+    1  www.lancashire.ac.uk/legal/student-policies
+         https://www.lancashire.ac.uk/legal/student-policies/taught-courses
+    1  www.lancashire.ac.uk/open-days
+         https://www.lancashire.ac.uk/open-days/postgrad-open-evening-nov
+    1  www.lancashire.ac.uk/study/fees-and-finance
+         https://www.lancashire.ac.uk/study/fees-and-finance/postgraduate-research-funding-opportunities
+    1  www.lancashire.ac.uk/study
+         https://www.lancashire.ac.uk/study/undergraduate-vs-postgraduate
+    1  www.lancashire.ac.uk/subjects/business-and-management
+         https://www.lancashire.ac.uk/subjects/business-and-management/postgraduate
+    1  www.lancashire.ac.uk/subjects/medicine
+         https://www.lancashire.ac.uk/subjects/medicine/postgraduate
+    1  www.lancashire.ac.uk/subjects/nursing
+         https://www.lancashire.ac.uk/subjects/nursing/postgraduate-cpd
+    1  www.lancashire.ac.uk/subjects/veterinary-medicine
+         https://www.lancashire.ac.uk/subjects/veterinary-medicine/postgraduate

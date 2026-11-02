@@ -1,0 +1,26 @@
+{
+  "note": "Candidate official pages stating a university-wide minimum English score for (taught) graduate applicants. Each is fetched and kept only if it loads and names IELTS or TOEFL with a score (scripts/pipeline/english-ai.ts --check).",
+  "candidates": {
+    "university-of-california-berkeley": ["https://grad.berkeley.edu/admissions/steps-to-apply/requirements/"],
+    "university-of-california-los-angeles": ["https://grad.ucla.edu/admissions/required-exams/"],
+    "university-of-california-davis": ["https://grad.ucdavis.edu/admissions/admission-requirements/english-language-requirement"],
+    "duke-university": ["https://gradschool.duke.edu/admissions/application-instructions/test-scores/"],
+    "university-of-massachusetts-amherst": ["https://www.umass.edu/graduate/admissions/english-proficiency", "https://www.umass.edu/graduate/admissions/how-apply/english-language-proficiency"],
+    "northeastern-university": ["https://graduate.northeastern.edu/admissions/international-students/english-language-proficiency/", "https://graduate.northeastern.edu/admissions/english-language-proficiency/"],
+    "university-of-calgary": ["https://grad.ucalgary.ca/future-students/graduate/admissions-process/english-language-proficiency"],
+    "university-of-alberta": ["https://www.ualberta.ca/en/graduate-studies/admissions/english-language-requirements.html", "https://www.ualberta.ca/en/graduate-studies/prospective-students/english-language-requirements.html"],
+    "university-of-canterbury": ["https://www.canterbury.ac.nz/study/apply/english-language-requirements", "https://www.canterbury.ac.nz/study/apply-to-uc/english-language-requirements"],
+    "university-of-waikato": ["https://www.waikato.ac.nz/int/study/apply/english-language-requirements", "https://www.waikato.ac.nz/study/apply/english-language-requirements"],
+    "lincoln-university": ["https://www.lincoln.ac.nz/study/applying/english-language-requirements"],
+    "university-of-auckland": ["https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/postgraduate-entry-requirements/english-language-requirements-pg.html", "https://www.auckland.ac.nz/en/study/applications-and-admissions/entry-requirements/english-language-requirements.html"],
+    "massey-university": ["https://www.massey.ac.nz/study/international-students/english-language-requirements/", "https://www.massey.ac.nz/study/applying-to-massey/english-language-requirements/"],
+    "central-queensland-university": ["https://www.cqu.edu.au/study/international/english-language-requirements", "https://www.cqu.edu.au/international-students/english-language-requirements"],
+    "university-of-southern-queensland": ["https://www.unisq.edu.au/study/international/english-language-requirements", "https://www.unisq.edu.au/international/english-language-requirements"],
+    "dublin-city-university": ["https://www.dcu.ie/international/english-language-requirements", "https://www.dcu.ie/registry/english-language-requirements"],
+    "chinese-university-of-hong-kong": ["https://www.gs.cuhk.edu.hk/admissions/admissions/requirements", "https://www.gs.cuhk.edu.hk/admissions/admissions/language-requirements"],
+    "hong-kong-polytechnic-university": ["https://www.polyu.edu.hk/study/pg/taught-postgraduate/admission-requirements-tpg"],
+    "massachusetts-institute-of-technology": ["https://oge.mit.edu/admissions/requirements/"],
+    "washington-university-in-st-louis": [],
+    "university-of-kent": ["https://www.kent.ac.uk/international/english-language-requirements", "https://www.kent.ac.uk/courses/postgraduate/english-language-requirements"]
+  }
+}

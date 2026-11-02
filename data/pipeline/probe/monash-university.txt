@@ -1,0 +1,23 @@
+# monash-university https://www.monash.edu
+robots sitemaps: http://www.monash.edu/sitemap.xml · crawl-delay: 30 · AI-agent groups: 0
+sitemaps read 1 · urls 3097 · master's-looking 72
+   33  www.monash.edu/about/strategic-direction/sustainable-development
+         https://www.monash.edu/about/strategic-direction/sustainable-development/progress-report-2023/monash-progress-report-2023/monash-progress-report-2023-goal-1/education2/master-of-international-development-practice
+         https://www.monash.edu/about/strategic-direction/sustainable-development/progress-report-2023/monash-progress-report-2023/monash-progress-report-2023-goal-2/education/master-of-food-science-and-agribusiness
+         https://www.monash.edu/about/strategic-direction/sustainable-development/sdg-report-2022/monash-progress-report-2020/sdg1-progress-report-2020/education/master-of-international-development-practice
+         https://www.monash.edu/about/strategic-direction/sustainable-development/sdg-report-2022/monash-progress-report-2020/sdg10-progress-report-2020/education/master-of-indigenous-business-leadership
+   19  www.monash.edu/about/strategic-direction/strategic-plan
+         https://www.monash.edu/about/strategic-direction/strategic-plan/masterplan
+         https://www.monash.edu/about/strategic-direction/strategic-plan/masterplan/awards
+         https://www.monash.edu/about/strategic-direction/strategic-plan/masterplan/campus-lighting
+         https://www.monash.edu/about/strategic-direction/strategic-plan/masterplan/campus-lighting/lighting-faq1
+   17  www.monash.edu/international/global-partnerships/australia-awards-program
+         https://www.monash.edu/international/global-partnerships/australia-awards-program/ready-to-graduate
+         https://www.monash.edu/international/global-partnerships/australia-awards-program/ready-to-graduate-archive
+         https://www.monash.edu/international/global-partnerships/australia-awards-program/ready-to-graduate/alumni-countries/bangladesh
+         https://www.monash.edu/international/global-partnerships/australia-awards-program/ready-to-graduate/alumni-countries/indonesia
+    2  www.monash.edu/research
+         https://www.monash.edu/research/excellence-impact-researcher-masterclass
+         https://www.monash.edu/research/phd-masters-by-research
+    1  www.monash.edu/about/our-locations/peninsula-campus
+         https://www.monash.edu/about/our-locations/peninsula-campus/campus-life/postgraduate-study-centre

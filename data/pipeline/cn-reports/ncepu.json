@@ -1,0 +1,139 @@
+{
+  "id": "ncepu",
+  "status": "read",
+  "university": "华北电力大学",
+  "universityEn": "North China Electric Power University",
+  "tier": "211",
+  "url": "https://xxgk.ncepu.edu.cn/docs/2023-03/5127a77043c24de69855ef84d3e92258.pdf",
+  "title": "·华北电力大学2021届毕业生就业质量年度报告",
+  "year": 2021,
+  "cohort": "2021届",
+  "pages": 49,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": 261,
+      "pct": null,
+      "quote": "2021 届本科毕业生主要落实类别包括：签约 2307 人，升学 2297 人，出国 261 人"
+    },
+    {
+      "group": "研究生",
+      "cohort": null,
+      "count": 13,
+      "pct": 0.43,
+      "quote": "出国（境） 261 4.46% 13 0.43% 274 3.08%"
+    },
+    {
+      "group": "全体",
+      "cohort": null,
+      "count": 274,
+      "pct": 3.08,
+      "quote": "出国（境） 261 4.46% 13 0.43% 274 3.08%"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": null,
+      "count": null,
+      "pct": 46.72,
+      "quote": "首选国家（地区）为英国，占出国出境深造总人数的 46.72%"
+    }
+  ],
+  "ranked": [],
+  "destinations": [
+    {
+      "nameZh": "英国曼彻斯特大学",
+      "nameEn": "University of Manchester",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "1 英国曼彻斯特大学",
+      "institutionId": "university-of-manchester"
+    },
+    {
+      "nameZh": "俄罗斯莫斯科动力学院",
+      "nameEn": "Moscow Power Engineering Institute",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "2 俄罗斯莫斯科动力学院",
+      "institutionId": null
+    },
+    {
+      "nameZh": "英国爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "3 英国爱丁堡大学",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "德国亚琛工业大学",
+      "nameEn": "RWTH Aachen University",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "4 德国亚琛工业大学",
+      "institutionId": "rwth-aachen-university"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "University of Hong Kong",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "4 香港大学",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "4 新加坡国立大学",
+      "institutionId": "national-university-of-singapore"
+    },
+    {
+      "nameZh": "新加坡南洋理工大学",
+      "nameEn": "Nanyang Technological University",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "7 新加坡南洋理工大学",
+      "institutionId": "nanyang-technological-university-singapore"
+    },
+    {
+      "nameZh": "英国利兹大学",
+      "nameEn": "University of Leeds",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "7 英国利兹大学",
+      "institutionId": "university-of-leeds"
+    },
+    {
+      "nameZh": "英国伦敦国王学院",
+      "nameEn": "King's College London",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "7 英国伦敦国王学院",
+      "institutionId": "king-s-college-london"
+    },
+    {
+      "nameZh": "香港城市大学",
+      "nameEn": "City University of Hong Kong",
+      "count": null,
+      "group": "本科生",
+      "list": "2021 届本科毕业生深造人数排名前十的境内外高校",
+      "quote": "10 香港城市大学",
+      "institutionId": "city-university-of-hong-kong"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-21"
+}

@@ -1,0 +1,2858 @@
+{
+  "crawledAt": 1792581716020.5154,
+  "data": {
+    "note": "Application windows and events from official pages; every title and date is checked against its page.",
+    "builtAt": "2026-10-21",
+    "items": [
+      {
+        "id": "northumbria-university-at-newcastle-event-2015-06-05-northumbria-university-alumni-and-friends-networking-recepti",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "event",
+        "title": "Northumbria University Alumni and Friends Networking Reception, Singapore",
+        "date": "2015-06-05",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "Friday 5 June 2015 from 6:30pm onwards",
+          "format": "Mandarin Oriental Singapore Hotel"
+        },
+        "url": "https://www.northumbria.ac.uk/international/northumbria-and-your-country/asia/singapore/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-university-of-science-and-technology-event-2021-11-11-hkust-virtual-information-week-for-postgraduate-studies",
+        "institutionId": "hong-kong-university-of-science-and-technology",
+        "kind": "event",
+        "title": "HKUST Virtual Information Week for Postgraduate Studies",
+        "date": "2021-11-11",
+        "endDate": "2021-11-19",
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "11 – 19 Nov 2021",
+          "format": "Online via Zoom (Registration required)"
+        },
+        "url": "https://science.hkust.edu.hk/events/hkust-virtual-information-week-postgraduate-studies",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-sheffield-applications-open-2025-09-15-applications-open-for-courses-starting-in-september-2026",
+        "institutionId": "university-of-sheffield",
+        "kind": "applications-open",
+        "title": "Applications open for courses starting in September 2026",
+        "date": "2025-09-15",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Monday 15 September 2025",
+          "title": "Applications open for courses starting in September 2026",
+          "format": ""
+        },
+        "url": "https://sheffield.ac.uk/postgraduate/deadlines",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-sheffield-applications-open-2025-09-15-applications-open-for-courses-starting-in-february-2027",
+        "institutionId": "university-of-sheffield",
+        "kind": "applications-open",
+        "title": "Applications open for courses starting in February 2027",
+        "date": "2025-09-15",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Monday 15 September 2025",
+          "title": "Applications open for courses starting in February 2027",
+          "format": ""
+        },
+        "url": "https://sheffield.ac.uk/postgraduate/deadlines",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-metropolitan-university-applications-open-2025-11-12-2026-autumn-term-admission-for-both-local-and-non-local-appl",
+        "institutionId": "hong-kong-metropolitan-university",
+        "kind": "applications-open",
+        "title": "2026 Autumn Term Admission (for both local and non-local applicants)",
+        "date": "2025-11-12",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "12 November 2025 – 31 May 2026",
+          "format": "Online"
+        },
+        "url": "https://admissions.hkmu.edu.hk/tpg/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "chinese-university-of-hong-kong-event-2026-01-03-cuhk-law-postgraduate-information-day-2026",
+        "institutionId": "chinese-university-of-hong-kong",
+        "kind": "event",
+        "title": "CUHK LAW Postgraduate Information Day 2026",
+        "date": "2026-01-03",
+        "endDate": null,
+        "intake": null,
+        "format": "Hybrid (on-campus and online)",
+        "quotes": {
+          "date": "CUHK LAW held its annual Postgraduate Information Day on 3 January 2026.",
+          "format": "The event was conducted in a hybrid format, bringing together prospective applicants through both on‑campus and online participation"
+        },
+        "url": "https://www.law.cuhk.edu.hk/app/cuhk-law-postgraduate-information-day-2026/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-metropolitan-university-application-deadline-2026-05-31-2026-autumn-term-admission-for-non-local-applicants-requirin",
+        "institutionId": "hong-kong-metropolitan-university",
+        "kind": "application-deadline",
+        "title": "2026 Autumn Term Admission (for non-local applicants requiring student visas)",
+        "date": "2026-05-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "12 November 2025 – 31 May 2026",
+          "format": "Online"
+        },
+        "url": "https://admissions.hkmu.edu.hk/tpg/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "nanyang-technological-university-singapore-event-2026-06-17-emba",
+        "institutionId": "nanyang-technological-university-singapore",
+        "kind": "event",
+        "title": "南洋EMBA（中文）| 线上招生宣讲会 & 首期班学员分享",
+        "date": "2026-06-17",
+        "endDate": "2027-06-17",
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "17 Jun 2026 at 07.00 PM - 17 Jun 2027 at 08.00 PM",
+          "format": "线上招生宣讲会"
+        },
+        "url": "https://www.ntu.edu.sg/business/admissions/graduate-studies",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-06-30-sep-2026-intake",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Sep 2026 intake",
+        "date": "2026-06-30",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "30 Jun 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-macau-applications-open-2026-08-03-application-period",
+        "institutionId": "university-of-macau",
+        "kind": "applications-open",
+        "title": "Application Period",
+        "date": "2026-08-03",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "3 August 2026 – 3 December 2026 (1st batch)",
+          "format": "APPLY ONLINE"
+        },
+        "url": "https://grs.um.edu.mo/index.php/prospective-students/master-postgraduate-certificate-diploma-programmes",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-application-deadline-2026-08-06-september-2026-international-applicants-undergraduate-and-po",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "application-deadline",
+        "title": "September 2026 International Applicants Undergraduate and Postgraduate",
+        "date": "2026-08-06",
+        "endDate": null,
+        "intake": "September 2026",
+        "format": "Newcastle",
+        "quotes": {
+          "date": "Application: 6 August 2026",
+          "format": "Newcastle Campus Application deadlines"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-application-deadline-2026-08-13-summary-of-deadlines",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "application-deadline",
+        "title": "Summary of deadlines",
+        "date": "2026-08-13",
+        "endDate": null,
+        "intake": "September 2026",
+        "format": "Newcastle",
+        "quotes": {
+          "date": "Deposit: 13 August 2026",
+          "format": "Newcastle Campus Application deadlines"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-application-deadline-2026-08-20-summary-of-deadlines",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "application-deadline",
+        "title": "Summary of deadlines",
+        "date": "2026-08-20",
+        "endDate": null,
+        "intake": "September 2026",
+        "format": "Newcastle",
+        "quotes": {
+          "date": "CAS Deadline: 20 August 2026",
+          "format": "Newcastle Campus Application deadlines"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-08-22-sep-2026-intake",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Sep 2026 intake",
+        "date": "2026-08-22",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "22 Aug 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "chinese-university-of-hong-kong-applications-open-2026-09-01-step-3-create-an-account-and-submit-online-application",
+        "institutionId": "chinese-university-of-hong-kong",
+        "kind": "applications-open",
+        "title": "Step 3: Create an Account and Submit Online Application",
+        "date": "2026-09-01",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Applications open on 1 September 2026.",
+          "format": ""
+        },
+        "url": "https://www.gs.cuhk.edu.hk/admissions/how-to-apply",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "national-university-of-singapore-applications-open-2026-09-01-key-dates",
+        "institutionId": "national-university-of-singapore",
+        "kind": "applications-open",
+        "title": "Key Dates:",
+        "date": "2026-09-01",
+        "endDate": null,
+        "intake": "August 2027",
+        "format": null,
+        "quotes": {
+          "date": "1 September 2026",
+          "format": "Online"
+        },
+        "url": "https://mscstrategy.nus.edu.sg/admissions/application-process/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "national-university-of-singapore-applications-open-2026-09-01-applications-open-for-graduate-programmes-ay2027-28-from-1-s",
+        "institutionId": "national-university-of-singapore",
+        "kind": "applications-open",
+        "title": "Applications Open for Graduate Programmes AY2027-28 from 1 September 2026",
+        "date": "2026-09-01",
+        "endDate": null,
+        "intake": "AY2027-28",
+        "format": null,
+        "quotes": {
+          "date": "Applications Open for Graduate Programmes AY2027-28 from 1 September 2026",
+          "format": ""
+        },
+        "url": "https://law.nus.edu.sg/prospective-students/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-sheffield-application-deadline-2026-09-04-applications-close-for-september-2026-entry",
+        "institutionId": "university-of-sheffield",
+        "kind": "application-deadline",
+        "title": "Applications close for September 2026 entry",
+        "date": "2026-09-04",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Friday 4 September 2026 (17:00 British Summer Time)",
+          "title": "Applications close for September 2026 entry",
+          "format": ""
+        },
+        "url": "https://sheffield.ac.uk/postgraduate/deadlines",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "nanyang-technological-university-singapore-event-2026-09-10-nanyang-mba-coffee-chat",
+        "institutionId": "nanyang-technological-university-singapore",
+        "kind": "event",
+        "title": "Nanyang MBA Coffee Chat",
+        "date": "2026-09-10",
+        "endDate": "2027-06-29",
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "10 Sep 2026 - 29 Jun 2027"
+        },
+        "url": "https://www.ntu.edu.sg/business/admissions/graduate-studies",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "nanyang-technological-university-singapore-event-2026-09-12-nanyang-mba-info-session",
+        "institutionId": "nanyang-technological-university-singapore",
+        "kind": "event",
+        "title": "Nanyang MBA Info Session",
+        "date": "2026-09-12",
+        "endDate": "2027-06-30",
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "12 Sep 2026 - 30 Jun 2027"
+        },
+        "url": "https://www.ntu.edu.sg/business/admissions/graduate-studies",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-sheffield-applications-open-2026-09-15-applications-open-for-courses-starting-in-september-2027",
+        "institutionId": "university-of-sheffield",
+        "kind": "applications-open",
+        "title": "Applications open for courses starting in September 2027",
+        "date": "2026-09-15",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Tuesday 15 September 2026",
+          "title": "Applications open for courses starting in September 2027",
+          "format": ""
+        },
+        "url": "https://sheffield.ac.uk/postgraduate/deadlines",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "city-university-of-hong-kong-applications-open-2026-09-15-a01-when-is-the-application-period-for-2027-entry-and-when-i",
+        "institutionId": "city-university-of-hong-kong",
+        "kind": "applications-open",
+        "title": "A01. When is the application period for 2027 entry and when is the application deadline?",
+        "date": "2026-09-15",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Applications for entry in 2027/28 begin on 15 September 2026.",
+          "format": ""
+        },
+        "url": "https://www.cityu.edu.hk/en/pg/taught-postgraduate-programmes/faq",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-polytechnic-university-applications-open-2026-09-18-now-open-apply-for-2027-taught-postgraduate-programmes",
+        "institutionId": "hong-kong-polytechnic-university",
+        "kind": "applications-open",
+        "title": "Now Open: Apply for 2027 Taught Postgraduate Programmes!",
+        "date": "2026-09-18",
+        "endDate": null,
+        "intake": "January 2027 and September 2027",
+        "format": null,
+        "quotes": {
+          "date": "18 SEP 2026 posted",
+          "format": ""
+        },
+        "url": "https://www.polyu.edu.hk/study/pg/news/now-open-apply-2027-taught-postgraduate-programmes",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-hong-kong-event-2026-09-19-hku-business-school-masters-programmes-qs-discover-masters-f",
+        "institutionId": "university-of-hong-kong",
+        "kind": "event",
+        "title": "HKU Business School Masters Programmes | QS Discover Masters Fair",
+        "date": "2026-09-19",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "19 Sep 2026 (Saturday)"
+        },
+        "url": "https://portal.hku.hk/tpg-admissions/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-southampton-event-2026-09-22-event-lion-city-university-fair",
+        "institutionId": "university-of-southampton",
+        "kind": "event",
+        "title": "Event: Lion City University Fair",
+        "date": "2026-09-22",
+        "endDate": "2026-09-26",
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "When: Tuesday 22 to Saturday 26 September",
+          "format": "Where : Singapore"
+        },
+        "url": "https://www.southampton.ac.uk/international/meet-us-in-your-country",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-university-of-science-and-technology-event-2026-09-23-hkust-information-session-on-mphil-phd-studies",
+        "institutionId": "hong-kong-university-of-science-and-technology",
+        "kind": "event",
+        "title": "HKUST Information Session on MPhil & PhD Studies",
+        "date": "2026-09-23",
+        "endDate": null,
+        "intake": null,
+        "format": "In-person at Lam Woo Lecture Theater (LT-B), HKUST, Clear Water Bay or Online via Zoom",
+        "quotes": {
+          "date": "Date : 23 September 2026 (Wednesday)",
+          "format": "Venue : In-person at Lam Woo Lecture Theater (LT-B), HKUST, Clear Water Bay ( map ) or Online via Zoom"
+        },
+        "url": "https://fytgs.hkust.edu.hk/events/hkust-information-session-mphil-phd-studies-0",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "national-university-of-singapore-applications-open-2026-10-01-master-s-intake",
+        "institutionId": "national-university-of-singapore",
+        "kind": "applications-open",
+        "title": "Master's Intake:",
+        "date": "2026-10-01",
+        "endDate": "2027-01-31",
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Master's Intake: 1 October 2026 – 31 January 2027"
+        },
+        "url": "https://www.comp.nus.edu.sg/graduate/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-hong-kong-event-2026-10-12-hku-faculty-of-social-sciences-professional-doctorates-and-m",
+        "institutionId": "university-of-hong-kong",
+        "kind": "event",
+        "title": "HKU Faculty of Social Sciences Professional Doctorates and Masters Admissions Webinar Series 2027-28 October 12 – November 12, 2026",
+        "date": "2026-10-12",
+        "endDate": "2026-11-12",
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "12 Oct 2026 (Monday)",
+          "format": "October 12 – November 12, 2026"
+        },
+        "url": "https://portal.hku.hk/tpg-admissions/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "city-university-of-hong-kong-event-2026-10-15-master-s-programme-online-information-talks-2027",
+        "institutionId": "city-university-of-hong-kong",
+        "kind": "event",
+        "title": "Master's Programme Online Information Talks 2027",
+        "date": "2026-10-15",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "15 Oct 2026 (19:00)",
+          "format": "Online"
+        },
+        "url": "https://www.cityu.edu.hk/en/pg/news-and-events/information-session",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "murdoch-university-event-2026-10-20-year-12-online-information-evening",
+        "institutionId": "murdoch-university",
+        "kind": "event",
+        "title": "Year 12 Online Information Evening",
+        "date": "2026-10-20",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "20 Oct 2026",
+          "format": "online"
+        },
+        "url": "https://www.murdoch.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-polytechnic-university-application-deadline-2026-10-20-polyu-taught-postgraduate-programmes-applications-open-for-2",
+        "institutionId": "hong-kong-polytechnic-university",
+        "kind": "application-deadline",
+        "title": "PolyU Taught Postgraduate Programmes: Applications Open for 2027/28",
+        "date": "2026-10-20",
+        "endDate": null,
+        "intake": "2027/28",
+        "format": null,
+        "quotes": {
+          "date": "The early round application deadline is 20 October.",
+          "format": ""
+        },
+        "url": "https://www.polyu.edu.hk/study/pg/news/polyu-taught-postgraduate-programmes-applications-open-202728",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-polytechnic-university-application-deadline-2026-10-20-september-2027-entry-over-120-programmes",
+        "institutionId": "hong-kong-polytechnic-university",
+        "kind": "application-deadline",
+        "title": "September 2027 Entry (Over 120 Programmes)",
+        "date": "2026-10-20",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Early Round Deadline: 20 October 2026",
+          "format": ""
+        },
+        "url": "https://www.polyu.edu.hk/study/pg/news/now-open-apply-2027-taught-postgraduate-programmes",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-21-northumbria-university-bachelor-of-science-honours-preview",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Northumbria University- Bachelor of Science (Honours) Preview",
+        "date": "2026-10-21",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "21 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-21-monash-university-master-of-counselling",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "MONASH UNIVERSITY Master of Counselling",
+        "date": "2026-10-21",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "21 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-21-university-college-dublin-bachelor-of-business-hons",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "University College Dublin – Bachelor of Business (Hons)",
+        "date": "2026-10-21",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "21 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-queensland-event-2026-10-21-your-next-academic-journey",
+        "institutionId": "university-of-queensland",
+        "kind": "event",
+        "title": "Your next academic journey",
+        "date": "2026-10-21",
+        "endDate": null,
+        "intake": null,
+        "format": "St Lucia",
+        "quotes": {
+          "date": "21 October",
+          "format": "St Lucia"
+        },
+        "url": "https://study.uq.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-hong-kong-event-2026-10-21-hku-business-school-masters-programmes-see-you-in-asia",
+        "institutionId": "university-of-hong-kong",
+        "kind": "event",
+        "title": "HKU Business School Masters Programmes | See You in Asia!",
+        "date": "2026-10-21",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "21 Oct 2026 (Wednesday)",
+          "format": "Online"
+        },
+        "url": "https://portal.hku.hk/tpg-admissions/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-22-birmingham-city-university-it-programmes-preview-talk",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Birmingham City University - IT Programmes Preview Talk",
+        "date": "2026-10-22",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "22 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-22-northumbria-university-bachelor-of-arts-honours-mass-communi",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Northumbria University- Bachelor of Arts (Honours) Mass Communication with Public Relations (Top-up)",
+        "date": "2026-10-22",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "22 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-22-university-of-portsmouth-bachelor-of-science-honours-informa",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "University of Portsmouth-Bachelor of Science (Honours) Information Technology",
+        "date": "2026-10-22",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "22 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-22-murdoch-university-master-s-and-graduate-certificate-program",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University - Master's and Graduate Certificate Programs in Business, Human Resource Management, and Information Technology",
+        "date": "2026-10-22",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "22 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-queensland-event-2026-10-22-master-of-teaching-information-webinar",
+        "institutionId": "university-of-queensland",
+        "kind": "event",
+        "title": "Master of Teaching information webinar",
+        "date": "2026-10-22",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "22 October",
+          "format": "Online"
+        },
+        "url": "https://study.uq.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-queensland-event-2026-10-22-mba-information-event",
+        "institutionId": "university-of-queensland",
+        "kind": "event",
+        "title": "MBA Information Event",
+        "date": "2026-10-22",
+        "endDate": null,
+        "intake": null,
+        "format": "Brisbane, Australia",
+        "quotes": {
+          "date": "22 October",
+          "format": "Brisbane, Australia"
+        },
+        "url": "https://study.uq.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "singapore-management-university-event-2026-10-22-smu-coffee-session-in-raffles-quay",
+        "institutionId": "singapore-management-university",
+        "kind": "event",
+        "title": "SMU: Coffee Session in Raffles Quay",
+        "date": "2026-10-22",
+        "endDate": "2026-10-23",
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "Thursday, October 22, 2026, 1:00 PM – Friday, October 23, 2026, 5:00 PM.",
+          "format": "Country: Singapore."
+        },
+        "url": "https://www.trumba.com/events-calendar/smu/events/smu_lkcsb_mm_infosess",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "singapore-management-university-event-2026-10-22-smu-mim-virtual-ama-meet-the-academic-director-admissions-te",
+        "institutionId": "singapore-management-university",
+        "kind": "event",
+        "title": "SMU MIM Virtual AMA: Meet the Academic Director & Admissions Team Session",
+        "date": "2026-10-22",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Thursday, October 22, 2026, 6:00 PM – 7:00 PM.",
+          "format": "Hourly Sessions: 6PM - 7PM (Singapore Time)."
+        },
+        "url": "https://www.trumba.com/events-calendar/smu/events/smu_lkcsb_mm_infosess",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-10-22-wbs-at-qs-discover-master-s-connect-athens-greece",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "WBS at QS Discover Master's/Connect - Athens (Greece)",
+        "date": "2026-10-22",
+        "endDate": null,
+        "intake": null,
+        "format": "Athens",
+        "quotes": {
+          "date": "Thu, 22 Oct",
+          "format": "Athenaeum Inter-Continental 89-93 Syngrou Avenue, Athens"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hong-kong-polytechnic-university-application-deadline-2026-10-23-january-2027-entry-over-30-programmes",
+        "institutionId": "hong-kong-polytechnic-university",
+        "kind": "application-deadline",
+        "title": "January 2027 Entry (Over 30 Programmes)",
+        "date": "2026-10-23",
+        "endDate": null,
+        "intake": "January 2027",
+        "format": null,
+        "quotes": {
+          "date": "Application Deadline: 23 October 2026",
+          "format": ""
+        },
+        "url": "https://www.polyu.edu.hk/study/pg/news/now-open-apply-2027-taught-postgraduate-programmes",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-baptist-university-event-2026-10-23-unlock-your-future-hkbu-taught-postgraduate-online-info-sess",
+        "institutionId": "hong-kong-baptist-university",
+        "kind": "event",
+        "title": "Unlock Your Future | HKBU Taught Postgraduate Online Info Session",
+        "date": "2026-10-23",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "2026-10-23 7:00pm – 8:00pm",
+          "format": "Webinar"
+        },
+        "url": "https://bus.hkbu.edu.hk/news-events/upcoming-events/2026/TPg-Online-Info-Session.html",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "singapore-management-university-event-2026-10-23-smu-master-s-fast-track",
+        "institutionId": "singapore-management-university",
+        "kind": "event",
+        "title": "SMU Master's Fast Track",
+        "date": "2026-10-23",
+        "endDate": "2026-10-23",
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Friday, October 23, 2026, 10:00 AM – 8:00 PM.",
+          "format": "Online."
+        },
+        "url": "https://www.trumba.com/events-calendar/smu/events/smu_lkcsb_mm_infosess",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-communication-in-communicatio",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Communication in Communication and Media Studies (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "24 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-data-analytics-in-business-in",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Data Analytics in Business Intelligence/ Data Science/ Fintech (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "24 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-communication-in-digital-comm",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Communication in Digital Communication (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "24 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-communication-in-strategic-co",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Communication in Strategic Communication (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "24 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-hospitality-touri",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Business in Hospitality & Tourism Management (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": "Singapore",
+        "quotes": {
+          "date": "24 October 2026",
+          "format": "Programme Previews"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-psychology-in-psychological-s",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Psychology in Psychological Science (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-communication-science-busines",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Communication/ Science/ Business in Criminology (Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-management-single",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Business in Management (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-business-law-sing",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Business in Business Law (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-information-technology-in-cyb",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Information Technology in Cyber Forensic & Security/ Business Information Systems/ Computer Science (Single & Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-information-technology-in-gam",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Information Technology in Games Design & Development (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-marketing-single-",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Business in Marketing (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-international-bus",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Business in International Business (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-human-resources-m",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Business in Human Resources Management (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-accounting-single",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Business in Accounting (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-communication-in-tou",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Business/Communication in Tourism & Events (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-business-in-banking-finance-s",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University- Bachelor of Business in Banking & Finance (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=1",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-24-murdoch-university-bachelor-of-information-technology-in-art",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Murdoch University – Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems (Single/Double Major)",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "24 October 2026",
+          "format": "Singapore"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=2",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-portsmouth-event-2026-10-24-undergraduate-open-days-2026",
+        "institutionId": "university-of-portsmouth",
+        "kind": "event",
+        "title": "Undergraduate Open Days 2026",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": "Portsmouth",
+        "quotes": {
+          "date": "24 October, 15 November, 5 December",
+          "format": "Portsmouth"
+        },
+        "url": "https://www.port.ac.uk/study/open-days",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-10-24-masters-open-day",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "Masters' open day",
+        "date": "2026-10-24",
+        "endDate": null,
+        "intake": null,
+        "format": "Imperial Business School, Exhibition Road, London, SW7 2AZ, UK",
+        "quotes": {
+          "date": "24 October 2026",
+          "format": "Imperial Business School, Exhibition Road, London, SW7 2AZ, UK"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-27-northumbria-university-bachelor-of-arts-honours-in-guidance-",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Northumbria University-Bachelor of Arts (Honours) in Guidance and Counselling Preview Session",
+        "date": "2026-10-27",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "27 October 2026",
+          "format": "Singapore"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=2",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-27-northumbria-university-bachelor-of-arts-honours-childhood-an",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Northumbria University-Bachelor of Arts (Honours) Childhood and Early Years Studies (Top-up)",
+        "date": "2026-10-27",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "27 October 2026",
+          "format": "Singapore"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=2",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-27-birmingham-city-university-bachelor-of-laws-honours-top-up",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Birmingham City University – Bachelor of Laws (Honours) (Top-up)",
+        "date": "2026-10-27",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "27 October 2026",
+          "format": "Singapore"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=2",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-27-university-of-portsmouth-bachelor-of-arts-honours-in-account",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "University of Portsmouth-Bachelor of Arts (Honours) in Accountancy and Financial Management (Top-up)",
+        "date": "2026-10-27",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "27 October 2026",
+          "format": "Singapore"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=2",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-queensland-event-2026-10-27-master-of-finance-and-investment-management-information-webi",
+        "institutionId": "university-of-queensland",
+        "kind": "event",
+        "title": "Master of Finance and Investment Management information webinar",
+        "date": "2026-10-27",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "27 October",
+          "format": "Online"
+        },
+        "url": "https://study.uq.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-10-27-postgraduate-admissions-at-warwick",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "Postgraduate Admissions at Warwick",
+        "date": "2026-10-27",
+        "endDate": null,
+        "intake": null,
+        "format": "Live Chat",
+        "quotes": {
+          "date": "Tue, 27 Oct\nTime 2pm - 3:30pm",
+          "format": "Location Live Chat"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-hong-kong-event-2026-10-27-hku-business-school-masters-programmes-admissions-webinars-r",
+        "institutionId": "university-of-hong-kong",
+        "kind": "event",
+        "title": "HKU Business School Masters Programmes | Admissions Webinars Round 2",
+        "date": "2026-10-27",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "27 Oct 2026 (Tuesday)",
+          "format": "Online"
+        },
+        "url": "https://portal.hku.hk/tpg-admissions/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "kaplan-event-2026-10-28-monash-university-bachelor-of-education-in-early-childhood-t",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Monash University - Bachelor of Education in Early Childhood (Top-up)",
+        "date": "2026-10-28",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "28 October 2026",
+          "format": "Singapore"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=2",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-event-2026-10-28-choosing-a-course-at-university",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "event",
+        "title": "Choosing a Course at University",
+        "date": "2026-10-28",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Wednesday 28th October: Choosing a Course at University. Book now for this session .",
+          "format": "Online"
+        },
+        "url": "https://www.northumbria.ac.uk/international/northumbria-international-events/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "singapore-management-university-event-2026-10-28-smu-ho-chi-minh-city-coffee-session",
+        "institutionId": "singapore-management-university",
+        "kind": "event",
+        "title": "SMU: Ho Chi Minh City Coffee Session",
+        "date": "2026-10-28",
+        "endDate": null,
+        "intake": null,
+        "format": "Ho Chi Minh City, Vietnam",
+        "quotes": {
+          "date": "Wednesday, October 28, 2026, 7:30 PM – 9:30 PM.",
+          "format": "Country: Vietnam."
+        },
+        "url": "https://www.trumba.com/events-calendar/smu/events/smu_lkcsb_mm_infosess",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-event-2026-10-29-postgraduate-lounge",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "event",
+        "title": "Postgraduate Lounge",
+        "date": "2026-10-29",
+        "endDate": null,
+        "intake": null,
+        "format": "City Campus East 1, Newcastle upon Tyne",
+        "quotes": {
+          "date": "Thur 29 Oct 2026",
+          "format": "City Campus East 1"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/visit-northumbria/university-open-days/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-queensland-event-2026-10-29-master-of-mental-health-information-webinar",
+        "institutionId": "university-of-queensland",
+        "kind": "event",
+        "title": "Master of Mental Health information webinar",
+        "date": "2026-10-29",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "29 October",
+          "format": "Online"
+        },
+        "url": "https://study.uq.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-10-29-postgraduate-admissions-at-warwick",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "Postgraduate Admissions at Warwick",
+        "date": "2026-10-29",
+        "endDate": null,
+        "intake": null,
+        "format": "Live Chat",
+        "quotes": {
+          "date": "Thu, 29 Oct\nTime 2pm - 3:30pm",
+          "format": "Location Live Chat"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "city-university-of-hong-kong-event-2026-10-29-cityuhk-pcll-information-session-2027-28-admission",
+        "institutionId": "city-university-of-hong-kong",
+        "kind": "event",
+        "title": "CityUHK PCLL Information Session (2027-28 Admission)",
+        "date": "2026-10-29",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Date: 29 October 2026",
+          "format": "Venue: Online via Zoom"
+        },
+        "url": "https://www.cityu.edu.hk/en/pg/news-and-events/information-session",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "singapore-management-university-event-2026-10-30-smu-seoul-coffee-session",
+        "institutionId": "singapore-management-university",
+        "kind": "event",
+        "title": "SMU: Seoul Coffee Session",
+        "date": "2026-10-30",
+        "endDate": null,
+        "intake": null,
+        "format": "Korea",
+        "quotes": {
+          "date": "Friday, October 30, 2026, 6:00 PM – 8:00 PM.",
+          "format": "The Grand Lotte Seoul."
+        },
+        "url": "https://www.trumba.com/events-calendar/smu/events/smu_lkcsb_mm_infosess",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-jan-2027-intake",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Jan 2027 intake",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "31 Oct 2026",
+          "format": "Non-local Applicants"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2026-10-31-application-for-january-2027-cohort",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Application for January 2027 Cohort",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": "January 2027",
+        "format": null,
+        "quotes": {
+          "date": "Extended closing date for Local and Non-local Applicants: 31 October 2026 (HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-science-in-entrepreneurial-management",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Science in Entrepreneurial Management",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-arts-in-chinese",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Arts in Chinese",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-arts-in-cultural-heritage-management",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Arts in Cultural Heritage Management",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-arts-in-english-language-teaching-and-assessment",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Arts in English Language Teaching and Assessment",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-arts-in-global-english-literary-and-cultural-studi",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Arts in Global English Literary and Cultural Studies",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-arts-in-theatre-studies",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Arts in Theatre Studies",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-social-sciences-in-public-policy-and-risk-governan",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Social Sciences in Public Policy and Risk Governance",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-social-sciences-in-social-sustainability",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Social Sciences in Social Sustainability",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-arts-in-translation-business-and-legal",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Arts in Translation (Business and Legal)",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hang-seng-university-of-hong-kong-application-deadline-2026-10-31-master-of-arts-in-translation-computer-aided-translation",
+        "institutionId": "hang-seng-university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Master of Arts in Translation (Computer-Aided Translation)",
+        "date": "2026-10-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 Oct 2026"
+        },
+        "url": "https://gs.hsu.edu.hk/en/programmes-on-offer-2/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "kaplan-event-2026-11-03-birmingham-city-university-bachelor-of-arts-honours-programm",
+        "institutionId": "kaplan",
+        "kind": "event",
+        "title": "Birmingham City University-Bachelor of Arts (Honours) Programmes",
+        "date": "2026-11-03",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "3 November 2026",
+          "format": "Singapore"
+        },
+        "url": "https://www.kaplan.com.sg/programme-preview/all/all/all?page=2",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-queensland-event-2026-11-03-find-your-postgrad-pharmacy-fit",
+        "institutionId": "university-of-queensland",
+        "kind": "event",
+        "title": "Find your postgrad pharmacy fit",
+        "date": "2026-11-03",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "3 November",
+          "format": "Online"
+        },
+        "url": "https://study.uq.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-queensland-event-2026-11-03-postgraduate-educational-studies-information-webinar",
+        "institutionId": "university-of-queensland",
+        "kind": "event",
+        "title": "Postgraduate educational studies information webinar",
+        "date": "2026-11-03",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "3 November",
+          "format": "Online"
+        },
+        "url": "https://study.uq.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-11-03-postgraduate-admissions-at-warwick",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "Postgraduate Admissions at Warwick",
+        "date": "2026-11-03",
+        "endDate": null,
+        "intake": null,
+        "format": "Live Chat",
+        "quotes": {
+          "date": "Tue, 03 Nov\nTime 2pm - 3:30pm",
+          "format": "Location Live Chat"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-11-04-pgce-online-information-session",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "PGCE online information session",
+        "date": "2026-11-04",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Wed, 04 Nov\nTime 5pm - 5:45pm",
+          "format": "Location Online"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-11-05-campus-recruitment-admissions-team-one-to-ones",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "Campus | Recruitment & Admissions team one-to-ones",
+        "date": "2026-11-05",
+        "endDate": null,
+        "intake": null,
+        "format": "Imperial Business School, London, SW7 2AZ, UK",
+        "quotes": {
+          "date": "5 November 2026",
+          "format": "Imperial Business School, London, SW7 2AZ, UK"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-11-05-pgce-international-pgcei-and-iqts-online-information-session",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "PGCE International (PGCEi and iQTS) online information session",
+        "date": "2026-11-05",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Thu, 05 Nov\nTime 12pm - 12:45pm",
+          "format": "Location Online"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-11-05-postgraduate-admissions-at-warwick",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "Postgraduate Admissions at Warwick",
+        "date": "2026-11-05",
+        "endDate": null,
+        "intake": null,
+        "format": "Live Chat",
+        "quotes": {
+          "date": "Thu, 05 Nov\nTime 2pm - 3:30pm",
+          "format": "Location Live Chat"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-event-2026-11-07-manchester-open-event-saturday-7th-november-2026",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "event",
+        "title": "Manchester Open Event - Saturday 7th November 2026",
+        "date": "2026-11-07",
+        "endDate": null,
+        "intake": null,
+        "format": "Manchester",
+        "quotes": {
+          "date": "Manchester Open Event - Saturday 7th November 2026",
+          "format": "Manchester"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/visit-northumbria/university-open-days/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-hong-kong-event-2026-11-08-hku-business-school-masters-programmes-shanghai-masterclass-",
+        "institutionId": "university-of-hong-kong",
+        "kind": "event",
+        "title": "HKU Business School Masters Programmes | Shanghai Masterclass on AI Entrepreneurship",
+        "date": "2026-11-08",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "8 Nov 2026 (Sunday)",
+          "format": "Shanghai"
+        },
+        "url": "https://portal.hku.hk/tpg-admissions/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-11-09-management-masters-information-session",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "Management Masters' information session",
+        "date": "2026-11-09",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "9 November 2026",
+          "format": "Management Masters' information session"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-11-10-finance-masters-information-session",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "Finance Masters' information session",
+        "date": "2026-11-10",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "10 November 2026",
+          "format": "Finance Masters' information session"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-11-11-specialised-masters-information-session",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "Specialised Masters' information session",
+        "date": "2026-11-11",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "11 November 2026",
+          "format": "Specialised Masters' information session"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-11-11-postgraduate-live-chat-school-of-engineering",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "Postgraduate Live Chat - School of Engineering",
+        "date": "2026-11-11",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Wed, 11 Nov\nTime 12pm - 1pm",
+          "format": "Location Online"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "murdoch-university-event-2026-11-12-telethon-community-cinemas",
+        "institutionId": "murdoch-university",
+        "kind": "event",
+        "title": "Telethon Community Cinemas",
+        "date": "2026-11-12",
+        "endDate": null,
+        "intake": null,
+        "format": "Perth campus",
+        "quotes": {
+          "date": "12 Nov 2026",
+          "format": "Murdoch University's Perth campus"
+        },
+        "url": "https://www.murdoch.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-11-12-qs-discover-master-s-kuala-lumpur-malaysia",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "QS Discover Master's - Kuala Lumpur (Malaysia)",
+        "date": "2026-11-12",
+        "endDate": null,
+        "intake": null,
+        "format": "Kuala Lumpur",
+        "quotes": {
+          "date": "Thu, 12 Nov",
+          "format": "JW Marriott Kuala Lumpur, 183 Jalan Bukit Bintang, Kuala Lumpur, 55100"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-master-of-arts-in-chinese-language-literature-and-teaching",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Master of Arts in Chinese Language, Literature and Teaching",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-master-of-science-in-marketing-and-consumer-psychology",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Master of Science in Marketing and Consumer Psychology",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00 )",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-master-of-social-sciences-in-smart-cultural-tourism",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Master of Social Sciences in Smart Cultural Tourism",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-master-of-science-in-game-development-and-management",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Master of Science in Game Development and Management",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00 )",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-master-of-science-in-financial-technology-management",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Master of Science in Financial Technology Management",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-master-of-social-sciences-in-counselling-psychology",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Master of Social Sciences in Counselling Psychology",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00 )",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-master-of-social-sciences-in-play-therapy",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Master of Social Sciences in Play Therapy",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-master-of-social-sciences-in-adversity-and-trauma-psychology",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Master of Social Sciences in Adversity and Trauma Psychology",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00 )",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-master-of-social-work",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Master of Social Work",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-applications-open-2026-11-16-doctor-of-psychology-in-counselling-psychology",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "applications-open",
+        "title": "Doctor of Psychology in Counselling Psychology",
+        "date": "2026-11-16",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Open: 16 November 2026 ( HKT 09:00 )",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-11-17-relational-leadership-book-launch-with-dr-poornima-luthra",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "Relational Leadership: Book Launch with Dr Poornima Luthra",
+        "date": "2026-11-17",
+        "endDate": null,
+        "intake": null,
+        "format": "Imperial Business School, Exhibition Road, London, SW7 2AZ, UK",
+        "quotes": {
+          "date": "17 November 2026",
+          "format": "Imperial Business School, Exhibition Road, London, SW7 2AZ, UK"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-event-2026-11-18-applying-to-uk-universities",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "event",
+        "title": "Applying to UK Universities",
+        "date": "2026-11-18",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Wednesday 18th November: Applying to UK Universities. Book now for this session .",
+          "format": "Online"
+        },
+        "url": "https://www.northumbria.ac.uk/international/northumbria-international-events/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-event-2026-11-21-undergraduate-postgraduate-open-day",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "event",
+        "title": "Undergraduate & Postgraduate Open Day",
+        "date": "2026-11-21",
+        "endDate": null,
+        "intake": null,
+        "format": "City Campus & Coach Lane Campus",
+        "quotes": {
+          "date": "Sat 21 Nov 2026",
+          "format": "City Campus & Coach Lane Campus"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/visit-northumbria/university-open-days/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-11-23-mba-information-session",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "MBA information session",
+        "date": "2026-11-23",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "23 November 2026",
+          "format": "Online"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "singapore-management-university-event-2026-11-24-mim-virtual-consultations",
+        "institutionId": "singapore-management-university",
+        "kind": "event",
+        "title": "MIM Virtual Consultations",
+        "date": "2026-11-24",
+        "endDate": null,
+        "intake": null,
+        "format": "Virtual - Zoom",
+        "quotes": {
+          "date": "Tuesday, November 24, 2026, 2:00 PM – 5:00 PM.",
+          "format": "Virtual - Zoom."
+        },
+        "url": "https://www.trumba.com/events-calendar/smu/events/smu_lkcsb_mm_infosess",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-sheffield-event-2026-11-25-postgraduate-online-open-days",
+        "institutionId": "university-of-sheffield",
+        "kind": "event",
+        "title": "Postgraduate online open days",
+        "date": "2026-11-25",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Our next online postgraduate open day will take place on 25 November 2026.",
+          "format": "Online open days"
+        },
+        "url": "https://sheffield.ac.uk/postgraduate/visit/open-day",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "aston-university-event-2026-11-28-postgraduate-open-day",
+        "institutionId": "aston-university",
+        "kind": "event",
+        "title": "POSTGRADUATE OPEN DAY",
+        "date": "2026-11-28",
+        "endDate": null,
+        "intake": null,
+        "format": "Birmingham",
+        "quotes": {
+          "date": "Saturday 28th November, 10am - 2pm",
+          "format": "Join us at our city-centre campus in Birmingham"
+        },
+        "url": "https://www.aston.ac.uk/open-days/postgraduate",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-11-28-studyin-overseas-university-study-fair-online",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "StudyIn Overseas University Study Fair, Online",
+        "date": "2026-11-28",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Sat, 28 Nov\nTime 4pm - 8pm",
+          "format": "Location Online"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-baptist-university-event-2026-11-28-unlock-your-future-hkbu-taught-postgraduate-online-info-sess",
+        "institutionId": "hong-kong-baptist-university",
+        "kind": "event",
+        "title": "Unlock Your Future | HKBU Taught Postgraduate Online Info Session",
+        "date": "2026-11-28",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "2026-11-28 7:00pm – 8:00pm",
+          "format": "Webinar"
+        },
+        "url": "https://bus.hkbu.edu.hk/news-events/upcoming-events/2026/TPg-Online-Info-Session.html",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-application-deadline-2026-11-30-january-2027-postgraduate-programmes",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "application-deadline",
+        "title": "January 2027 Postgraduate Programmes",
+        "date": "2026-11-30",
+        "endDate": null,
+        "intake": "January 2027",
+        "format": "Newcastle",
+        "quotes": {
+          "date": "Applications for January 2027 should be received no later than 30 November 2026",
+          "format": "Newcastle Campus Application deadlines"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-application-deadline-2026-11-30-january-2027-postgraduate-programmes",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "application-deadline",
+        "title": "January 2027 Postgraduate Programmes",
+        "date": "2026-11-30",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Applications for January 2027 should be received no later than 30 November 2026",
+          "format": "Newcastle Campus Application deadlines"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "university-of-macau-application-deadline-2026-12-03-application-period",
+        "institutionId": "university-of-macau",
+        "kind": "application-deadline",
+        "title": "Application Period",
+        "date": "2026-12-03",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "3 August 2026 – 3 December 2026 (1st batch)",
+          "format": "APPLY ONLINE"
+        },
+        "url": "https://grs.um.edu.mo/index.php/prospective-students/master-postgraduate-certificate-diploma-programmes",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-macau-applications-open-2026-12-04-application-period",
+        "institutionId": "university-of-macau",
+        "kind": "applications-open",
+        "title": "Application Period",
+        "date": "2026-12-04",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "4 December 2026 – 30 April 2027 (2nd batch)",
+          "format": "APPLY ONLINE"
+        },
+        "url": "https://grs.um.edu.mo/index.php/prospective-students/master-postgraduate-certificate-diploma-programmes",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-warwick-event-2026-12-08-postgraduate-live-chat-school-of-engineering",
+        "institutionId": "university-of-warwick",
+        "kind": "event",
+        "title": "Postgraduate Live Chat - School of Engineering",
+        "date": "2026-12-08",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Tue, 08 Dec\nTime 1pm - 2pm",
+          "format": "Location Online"
+        },
+        "url": "https://warwick.ac.uk/study/postgraduate/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-12-09-msc-in-management-mim-information-session",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "MSc in Management (MiM) information session",
+        "date": "2026-12-09",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "9 December 2026",
+          "format": "MSc in Management (MiM) information session"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-application-deadline-2026-12-13-january-2027-postgraduate-programmes",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "application-deadline",
+        "title": "January 2027 Postgraduate Programmes",
+        "date": "2026-12-13",
+        "endDate": null,
+        "intake": "January 2027",
+        "format": "Newcastle",
+        "quotes": {
+          "date": "The final deadline to pay your deposit by 13 December 2026.",
+          "format": "Newcastle Campus Application deadlines"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-application-deadline-2026-12-13-january-2027-postgraduate-programmes",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "application-deadline",
+        "title": "January 2027 Postgraduate Programmes",
+        "date": "2026-12-13",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "The final deadline to pay your deposit by 13 December 2026.",
+          "format": "Newcastle Campus Application deadlines"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "murdoch-university-event-2026-12-15-experience-stem-murdoch",
+        "institutionId": "murdoch-university",
+        "kind": "event",
+        "title": "Experience STEM @ Murdoch",
+        "date": "2026-12-15",
+        "endDate": null,
+        "intake": null,
+        "format": "Murdoch University",
+        "quotes": {
+          "date": "15 Dec 2026",
+          "format": "Workshop"
+        },
+        "url": "https://www.murdoch.edu.au/events",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-application-deadline-2026-12-16-january-2027-postgraduate-programmes",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "application-deadline",
+        "title": "January 2027 Postgraduate Programmes",
+        "date": "2026-12-16",
+        "endDate": null,
+        "intake": "January 2027",
+        "format": "Newcastle",
+        "quotes": {
+          "date": "no later than by 16 December 2026",
+          "format": "Newcastle Campus Application deadlines"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-12-16-msc-finance-information-session",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "MSc Finance information session",
+        "date": "2026-12-16",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "16 December 2026",
+          "format": "MSc Finance information session"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "northumbria-university-at-newcastle-application-deadline-2026-12-16-january-2027-postgraduate-programmes",
+        "institutionId": "northumbria-university-at-newcastle",
+        "kind": "application-deadline",
+        "title": "January 2027 Postgraduate Programmes",
+        "date": "2026-12-16",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "no later than by 16 December 2026.",
+          "format": "Newcastle Campus Application deadlines"
+        },
+        "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/application-deadlines-and-key-dates/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "imperial-college-london-event-2026-12-17-masters-drop-in-application-clinic-online",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "Masters' drop-in application clinic (online)",
+        "date": "2026-12-17",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "17 December 2026",
+          "format": "Masters' drop-in application clinic (online)"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "imperial-college-london-event-2026-12-18-masters-drop-in-application-clinic",
+        "institutionId": "imperial-college-london",
+        "kind": "event",
+        "title": "Masters' drop-in application clinic",
+        "date": "2026-12-18",
+        "endDate": null,
+        "intake": null,
+        "format": "53 Princes Gate, London, SW7 2PG, UK",
+        "quotes": {
+          "date": "18 December 2026",
+          "format": "53 Princes Gate, London, SW7 2PG, UK"
+        },
+        "url": "https://www.imperial.ac.uk/business-school/programmes/meet-us/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-hong-kong-application-deadline-2027-01-04-main-round",
+        "institutionId": "university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Main Round:",
+        "date": "2027-01-04",
+        "endDate": null,
+        "intake": "2027-28",
+        "format": null,
+        "quotes": {
+          "date": "Main Round:\nJanuary 4, 2027 (12noon HKT)"
+        },
+        "url": "https://mscadmissions.engg.hku.hk/application/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-hong-kong-application-deadline-2027-01-04-main-round",
+        "institutionId": "university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Main Round:",
+        "date": "2027-01-04",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "January 4, 2027 (12noon HKT)"
+        },
+        "url": "https://mscadmissions.engg.hku.hk/application/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "university-of-sheffield-application-deadline-2027-01-15-applications-close-for-february-2027-entry",
+        "institutionId": "university-of-sheffield",
+        "kind": "application-deadline",
+        "title": "Applications close for February 2027 entry",
+        "date": "2027-01-15",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Friday 15 January 2027 (17:00 Greenwich Mean Time)",
+          "title": "Applications close for February 2027 entry",
+          "format": ""
+        },
+        "url": "https://sheffield.ac.uk/postgraduate/deadlines",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-university-of-science-and-technology-application-deadline-2027-01-24-asian-future-leaders-scholarship-program",
+        "institutionId": "hong-kong-university-of-science-and-technology",
+        "kind": "application-deadline",
+        "title": "Asian Future Leaders Scholarship Program",
+        "date": "2027-01-24",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Application Deadline: 24 Jan 2027",
+          "format": "Asian Future Leaders Scholarship Program"
+        },
+        "url": "https://fytgs.hkust.edu.hk/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-master-of-arts-in-chinese-language-literature-and-teaching",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Master of Arts in Chinese Language, Literature and Teaching",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-master-of-science-in-marketing-and-consumer-psychology",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Master of Science in Marketing and Consumer Psychology",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-master-of-social-sciences-in-smart-cultural-tourism",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Master of Social Sciences in Smart Cultural Tourism",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-master-of-science-in-game-development-and-management",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Master of Science in Game Development and Management",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-master-of-science-in-financial-technology-management",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Master of Science in Financial Technology Management",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-master-of-social-sciences-in-counselling-psychology",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Master of Social Sciences in Counselling Psychology",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-master-of-social-sciences-in-play-therapy",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Master of Social Sciences in Play Therapy",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-master-of-social-sciences-in-adversity-and-trauma-psychology",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Master of Social Sciences in Adversity and Trauma Psychology",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-master-of-social-work",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Master of Social Work",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "hong-kong-shue-yan-university-application-deadline-2027-01-31-doctor-of-psychology-in-counselling-psychology",
+        "institutionId": "hong-kong-shue-yan-university",
+        "kind": "application-deadline",
+        "title": "Doctor of Psychology in Counselling Psychology",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Close: 31 January 2027 ( HKT 23:59)",
+          "format": "Taught Programmes"
+        },
+        "url": "https://gs.hksyu.edu/en/Prospective-Students/Application",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "national-university-of-singapore-application-deadline-2027-01-31-master-s-intake",
+        "institutionId": "national-university-of-singapore",
+        "kind": "application-deadline",
+        "title": "Master's Intake:",
+        "date": "2027-01-31",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "31 January 2027",
+          "format": ""
+        },
+        "url": "https://www.comp.nus.edu.sg/graduate/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "university-of-portsmouth-event-2027-02-03-postgraduate-virtual-open-day",
+        "institutionId": "university-of-portsmouth",
+        "kind": "event",
+        "title": "Postgraduate Virtual Open Day",
+        "date": "2027-02-03",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Wednesday 3 February 2027 (Online)",
+          "format": "Online"
+        },
+        "url": "https://www.port.ac.uk/postgraduate-virtual-event",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "national-university-of-singapore-application-deadline-2027-02-15-key-dates",
+        "institutionId": "national-university-of-singapore",
+        "kind": "application-deadline",
+        "title": "Key Dates:",
+        "date": "2027-02-15",
+        "endDate": null,
+        "intake": "August 2027",
+        "format": null,
+        "quotes": {
+          "date": "15 February 2027",
+          "format": "Online"
+        },
+        "url": "https://mscstrategy.nus.edu.sg/admissions/application-process/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "national-university-of-singapore-application-deadline-2027-02-15-application-deadline-for-all-applicants",
+        "institutionId": "national-university-of-singapore",
+        "kind": "application-deadline",
+        "title": "Application deadline for all applicants",
+        "date": "2027-02-15",
+        "endDate": null,
+        "intake": "August 2027",
+        "format": null,
+        "quotes": {
+          "date": "15 February 2027"
+        },
+        "url": "https://mscstrategy.nus.edu.sg/admissions/application-process/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "hong-kong-polytechnic-university-application-deadline-2027-02-25-september-2027-entry-over-120-programmes",
+        "institutionId": "hong-kong-polytechnic-university",
+        "kind": "application-deadline",
+        "title": "September 2027 Entry (Over 120 Programmes)",
+        "date": "2027-02-25",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": null,
+        "quotes": {
+          "date": "Main Round Deadline: 25 February 2027",
+          "format": ""
+        },
+        "url": "https://www.polyu.edu.hk/study/pg/news/now-open-apply-2027-taught-postgraduate-programmes",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-hong-kong-application-deadline-2027-04-09-clearing-round",
+        "institutionId": "university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Clearing Round:",
+        "date": "2027-04-09",
+        "endDate": null,
+        "intake": "2027-28",
+        "format": null,
+        "quotes": {
+          "date": "Clearing Round:\nApril 9, 2027 (12noon, HKT)"
+        },
+        "url": "https://mscadmissions.engg.hku.hk/application/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-hong-kong-application-deadline-2027-04-09-clearing-round",
+        "institutionId": "university-of-hong-kong",
+        "kind": "application-deadline",
+        "title": "Clearing Round:",
+        "date": "2027-04-09",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "April 9, 2027 (12noon, HKT)"
+        },
+        "url": "https://mscadmissions.engg.hku.hk/application/",
+        "retrievedAt": "2026-10-19"
+      },
+      {
+        "id": "university-of-macau-application-deadline-2027-04-30-application-period",
+        "institutionId": "university-of-macau",
+        "kind": "application-deadline",
+        "title": "Application Period",
+        "date": "2027-04-30",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "4 December 2026 – 30 April 2027 (2nd batch)",
+          "format": "APPLY ONLINE"
+        },
+        "url": "https://grs.um.edu.mo/index.php/prospective-students/master-postgraduate-certificate-diploma-programmes",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-manchester-application-deadline-2027-05-14-master-s-awards",
+        "institutionId": "university-of-manchester",
+        "kind": "application-deadline",
+        "title": "Master's awards",
+        "date": "2027-05-14",
+        "endDate": null,
+        "intake": "September 2027",
+        "format": "Singapore",
+        "quotes": {
+          "date": "Applicants must submit the completed online scholarship application form by Friday, 14 May 2027.",
+          "format": "Within South East Asia, the awards are open to applicants domiciled in Indonesia, Malaysia, Singapore, Thailand and Vietnam."
+        },
+        "url": "https://www.manchester.ac.uk/study/international/country-specific-information/singapore/",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-portsmouth-event-2027-06-16-postgraduate-virtual-open-day",
+        "institutionId": "university-of-portsmouth",
+        "kind": "event",
+        "title": "Postgraduate Virtual Open Day",
+        "date": "2027-06-16",
+        "endDate": null,
+        "intake": null,
+        "format": "Online",
+        "quotes": {
+          "date": "Wednesday 16 June 2027 (Online)",
+          "format": "Online"
+        },
+        "url": "https://www.port.ac.uk/postgraduate-virtual-event",
+        "retrievedAt": "2026-10-21"
+      },
+      {
+        "id": "university-of-sheffield-application-deadline-2027-09-03-applications-close-for-september-2027-entry",
+        "institutionId": "university-of-sheffield",
+        "kind": "application-deadline",
+        "title": "Applications close for September 2027 entry",
+        "date": "2027-09-03",
+        "endDate": null,
+        "intake": null,
+        "format": null,
+        "quotes": {
+          "date": "Friday 3 September 2027 (17:00 British Summer Time)",
+          "title": "Applications close for September 2027 entry",
+          "format": ""
+        },
+        "url": "https://sheffield.ac.uk/postgraduate/deadlines",
+        "retrievedAt": "2026-10-21"
+      }
+    ],
+    "dropped": [
+      {
+        "url": "https://www.kcl.ac.uk/study/postgraduate-taught/events/virtual-open-events",
+        "title": "The Innovators Guide to MedTech & Entrepreneurship",
+        "reason": "no full date"
+      },
+      {
+        "url": "https://www.kcl.ac.uk/study/postgraduate-taught/events/virtual-open-events",
+        "title": "Discover Postgraduate Study at King's Business School",
+        "reason": "no full date"
+      },
+      {
+        "url": "https://www.southampton.ac.uk/international/meet-us-in-your-country",
+        "title": "Event : Virtual meeting with Donna Haynes, our South East Asia Country Development Manager",
+        "reason": "no full date"
+      },
+      {
+        "url": "https://portal.hku.hk/tpg-admissions/events",
+        "title": "HKU Business School Masters Admissions Tour | See You in Hangzhou & Shanghai!",
+        "reason": "title not on the page"
+      },
+      {
+        "url": "https://fass.nus.edu.sg/prospective-students/graduate/coursework-programmes/application-process-gradcoursework/",
+        "title": "Semester I (August)",
+        "reason": "no full date"
+      },
+      {
+        "url": "https://www.comp.nus.edu.sg/graduate/",
+        "title": "NUS Master of Science in Digital Financial Technology (Webinar)",
+        "reason": "date quote not on the page"
+      },
+      {
+        "url": "https://www.comp.nus.edu.sg/graduate/",
+        "title": "NUS Master of Computing (Specialisations/AI/General Track) (Webinar)",
+        "reason": "date quote not on the page"
+      },
+      {
+        "url": "https://www.ntu.edu.sg/admissions/graduate/cwadmissionguide",
+        "title": "Trimester Programmes – August Intake (NTU Entrepreneurship Academy, School of Social Sciences – MSc in Applied Economics, etc.)",
+        "reason": "title not on the page"
+      }
+    ],
+    "failures": [
+      {
+        "url": "https://www.imperial.ac.uk/events/masters-open-day/",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.murdoch.edu.au/study/events",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/How-to-apply/Application-deadlines",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.lse.ac.uk/study-at-lse/Graduate/events-and-visits",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/connect-with-us/events",
+        "reason": "blocked HTTP 403 (not bypassed)"
+      },
+      {
+        "url": "https://www.gla.ac.uk/international/events/",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://study.unimelb.edu.au/how-to-apply/key-dates",
+        "reason": "blocked HTTP 403 (not bypassed)"
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/international-students/events",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://study.uq.edu.au/admissions/key-dates",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.sydney.edu.au/study/events-and-open-days.html",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.sydney.edu.au/study/how-to-apply/postgraduate-coursework/key-dates.html",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.unsw.edu.au/study/how-to-apply/key-dates",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://warwick.ac.uk/study/postgraduate/apply/deadlines/",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.ed.ac.uk/studying/postgraduate/events",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://warwick.ac.uk/study/international/countryinformation/asia/singapore/",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.ed.ac.uk/studying/postgraduate/applying/deadlines",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.bristol.ac.uk/study/postgraduate/visits-and-events/",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.ucl.ac.uk/prospective-students/graduate/events",
+        "reason": "blocked HTTP 403 (not bypassed)"
+      },
+      {
+        "url": "https://www.ucl.ac.uk/prospective-students/graduate/apply/application-dates",
+        "reason": "blocked HTTP 403 (not bypassed)"
+      },
+      {
+        "url": "https://www.gs.cuhk.edu.hk/admissions/overseas-admission-events",
+        "reason": "blocked HTTP 403 (not bypassed)"
+      },
+      {
+        "url": "https://www.ln.edu.hk/sgs/taught-postgraduate-programmes",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://ln.edu.hk/mgt/prog/application",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.eduhk.hk/acadprog/postgrad/index.html",
+        "reason": "robots robots.txt unreachable at https://www.eduhk.hk"
+      },
+      {
+        "url": "https://www.eduhk.hk/gradsch/pg_prospective/coming-soon.html",
+        "reason": "robots robots.txt unreachable at https://www.eduhk.hk"
+      },
+      {
+        "url": "https://www.utm.edu.mo/en/admission/postgraduate",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://www.ntu.edu.sg/admissions/graduate/events",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://masters.smu.edu.sg/events",
+        "reason": "http HTTP 404"
+      },
+      {
+        "url": "https://masters.smu.edu.sg/admissions",
+        "reason": "http HTTP 404"
+      }
+    ]
+  }
+}

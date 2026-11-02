@@ -1,0 +1,15 @@
+{
+ "source": "UCSB Graduate Division programs portal (engage.graddiv.ucsb.edu/portal/programs, per-programme cmd=prog pages); PhD-only and joint Ph.D./MA tracks excluded (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=CMPSC-MS-0",
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=SCLP-MED-SCLP-PPS-0",
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=EDUC-MA-0",
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=TEP-MED-TEACHING-TEP-ESC-ESN-0",
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=TEP-MED-TEACHING-TEP-ESC-MMSN-0",
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=TEP-MED-TEACHING-TEP-MST-0",
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=TEP-MED-TEACHING-TEP-SST-0",
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=TM-MTM-0",
+  "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=STATS-MA-0"
+ ]
+}

@@ -1,0 +1,30 @@
+# universidad-autonoma-de-madrid https://www.uam.es
+robots sitemaps: https://www.uam.es/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.uam.es/sitemap.xml: 12 children (0 course-like)
+sitemaps read 13 · urls 818 · master's-looking 16
+    5  www.uam.es/psicologia/media/doc
+         https://www.uam.es/psicologia/media/doc/1606982452816/informacion-masteres-jornada-empleabilidad-2025.pdf
+         https://www.uam.es/psicologia/media/doc/1606986265037/horarios-master-en-direccion-de-recursos-humanos-curso-2025-2026.pdf
+         https://www.uam.es/psicologia/media/doc/1606993852698/horarios-25-26-master-0-6.pdf
+         https://www.uam.es/psicologia/media/doc/1606999813433/calendario-academico-master-24-25.pdf
+    2  www.uam.es/psicologia/estudios/masteres-oficiales
+         https://www.uam.es/psicologia/estudios/masteres-oficiales/comisiones-seguimiento-master
+         https://www.uam.es/psicologia/estudios/masteres-oficiales/trabajo-fin-de-master
+    1  www.uam.es/ciencias/estudios
+         https://www.uam.es/ciencias/estudios/masteres-oficiales
+    1  www.uam.es/eps/estudios
+         https://www.uam.es/eps/estudios/masteres-oficiales
+    1  www.uam.es/psicologia/estudios
+         https://www.uam.es/psicologia/estudios/masteres-oficiales
+    1  www.uam.es/psicologia/estudios/practicas-externas
+         https://www.uam.es/psicologia/estudios/practicas-externas/curriculares-master
+    1  www.uam.es/economicas/estudios
+         https://www.uam.es/economicas/estudios/masteres-oficiales
+    1  www.uam.es/derecho/estudios
+         https://www.uam.es/derecho/estudios/masteres-oficiales
+    1  www.uam.es/educacion/estudios
+         https://www.uam.es/educacion/estudios/masteres-oficiales
+    1  www.uam.es/medicina/estudios
+         https://www.uam.es/medicina/estudios/masteres-oficiales
+    1  www.uam.es/fyl/estudios
+         https://www.uam.es/fyl/estudios/masteres-oficiales

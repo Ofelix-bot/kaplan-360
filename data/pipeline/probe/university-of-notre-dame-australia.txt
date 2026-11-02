@@ -1,0 +1,94 @@
+# university-of-notre-dame-australia https://www.notredame.edu.au
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1687 · master's-looking 237
+   47  www.notredame.edu.au/programs/arts-and-sciences/undergraduate
+         https://www.notredame.edu.au/programs/arts-and-sciences/undergraduate/bachelor-of-arts-major-social-justice
+         https://www.notredame.edu.au/programs/arts-and-sciences/undergraduate/bachelor-of-arts-major-literature-and-writing
+         https://www.notredame.edu.au/programs/arts-and-sciences/undergraduate/bachelor-of-arts-major-film-and-screen-production
+         https://www.notredame.edu.au/programs/arts-and-sciences/undergraduate/bachelor-of-arts-major-history
+   23  www.notredame.edu.au/programs/school-of-education/postgraduate
+         https://www.notredame.edu.au/programs/school-of-education/postgraduate/doctor-of-education
+         https://www.notredame.edu.au/programs/school-of-education/postgraduate/master-of-education-special-and-inclusive-education
+         https://www.notredame.edu.au/programs/school-of-education/postgraduate/graduate-certificate-in-education-curriculum
+         https://www.notredame.edu.au/programs/school-of-education/postgraduate/graduate-certificate-in-education-early-childhood
+   21  www.notredame.edu.au/programs/school-of-philosophy-and-theology/postgraduate
+         https://www.notredame.edu.au/programs/school-of-philosophy-and-theology/postgraduate/graduate-certificate-in-liberal-arts
+         https://www.notredame.edu.au/programs/school-of-philosophy-and-theology/postgraduate/graduate-diploma-of-philosophy
+         https://www.notredame.edu.au/programs/school-of-philosophy-and-theology/postgraduate/master-of-liberal-arts
+         https://www.notredame.edu.au/programs/school-of-philosophy-and-theology/postgraduate/master-of-theology-research
+   19  www.notredame.edu.au/programs/school-of-nursing/postgraduate
+         https://www.notredame.edu.au/programs/school-of-nursing/postgraduate/doctor-of-nursing
+         https://www.notredame.edu.au/programs/school-of-nursing/postgraduate/graduate-certificate-in-clinical-leadership-aspiring-leaders
+         https://www.notredame.edu.au/programs/school-of-nursing/postgraduate/graduate-certificate-in-nursing
+         https://www.notredame.edu.au/programs/school-of-nursing/postgraduate/graduate-diploma-of-nursing
+   16  www.notredame.edu.au/programs/school-of-business/undergraduate
+         https://www.notredame.edu.au/programs/school-of-business/undergraduate/bachelor-of-commerce-major-finance
+         https://www.notredame.edu.au/programs/school-of-business/undergraduate/bachelor-of-commerce-major-human-resource-management
+         https://www.notredame.edu.au/programs/school-of-business/undergraduate/bachelor-of-commerce-major-management
+         https://www.notredame.edu.au/programs/school-of-business/undergraduate/bachelor-of-commerce-major-marketing
+   16  www.notredame.edu.au/programs/arts-and-sciences/postgraduate
+         https://www.notredame.edu.au/programs/arts-and-sciences/postgraduate/graduate-certificate-in-aboriginal-studies
+         https://www.notredame.edu.au/programs/arts-and-sciences/postgraduate/master-of-counselling
+         https://www.notredame.edu.au/programs/arts-and-sciences/postgraduate/doctor-of-counselling
+         https://www.notredame.edu.au/programs/arts-and-sciences/postgraduate/graduate-certificate-in-mathematics
+   16  www.notredame.edu.au/programs/school-of-medicine/postgraduate
+         https://www.notredame.edu.au/programs/school-of-medicine/postgraduate/master-of-science-medicine
+         https://www.notredame.edu.au/programs/school-of-medicine/postgraduate/doctor-of-medical-science
+         https://www.notredame.edu.au/programs/school-of-medicine/postgraduate/graduate-certificate-in-medical-sciences
+         https://www.notredame.edu.au/programs/school-of-medicine/postgraduate/graduate-diploma-of-health-and-medical-sciences
+   14  www.notredame.edu.au/programs/school-of-health-sciences/undergraduate
+         https://www.notredame.edu.au/programs/school-of-health-sciences/undergraduate/bachelor-of-biomedical-science-bachelor-of-commerce-major-accounting
+         https://www.notredame.edu.au/programs/school-of-health-sciences/undergraduate/bachelor-of-biomedical-science-bachelor-of-commerce
+         https://www.notredame.edu.au/programs/school-of-health-sciences/undergraduate/bachelor-of-biomedical-science-bachelor-of-commerce-major-finance
+         https://www.notredame.edu.au/programs/school-of-health-sciences/undergraduate/bachelor-of-biomedical-science-bachelor-of-commerce-major-management
+   12  www.notredame.edu.au/programs/school-of-law/undergraduate
+         https://www.notredame.edu.au/programs/school-of-law/undergraduate/bachelor-of-laws-bachelor-of-politics-and-journalism
+         https://www.notredame.edu.au/programs/school-of-law/undergraduate/bachelor-of-laws-bachelor-of-commerce
+         https://www.notredame.edu.au/programs/school-of-law/undergraduate/bachelor-of-laws-bachelor-of-communications-and-media
+         https://www.notredame.edu.au/programs/school-of-law/undergraduate/bachelor-of-laws-graduate-entry
+   12  www.notredame.edu.au/programs/school-of-health-sciences/postgraduate
+         https://www.notredame.edu.au/programs/school-of-health-sciences/postgraduate/doctor-of-health-sciences
+         https://www.notredame.edu.au/programs/school-of-health-sciences/postgraduate/doctor-of-philosophy-health-sciences
+         https://www.notredame.edu.au/programs/school-of-health-sciences/postgraduate/master-of-health-sciences
+         https://www.notredame.edu.au/programs/school-of-health-sciences/postgraduate/master-of-philosophy-health-sciences
+    9  www.notredame.edu.au/programs/school-of-philosophy-and-theology/undergraduate
+         https://www.notredame.edu.au/programs/school-of-philosophy-and-theology/undergraduate/bachelor-of-philosophy
+         https://www.notredame.edu.au/programs/school-of-philosophy-and-theology/undergraduate/bachelor-of-philosophy-bachelor-of-theology
+         https://www.notredame.edu.au/programs/school-of-philosophy-and-theology/undergraduate/bachelor-of-theology
+         https://www.notredame.edu.au/programs/school-of-philosophy-and-theology/undergraduate/diploma-of-theology
+    8  www.notredame.edu.au/programs/school-of-education/undergraduate
+         https://www.notredame.edu.au/programs/school-of-education/undergraduate/bachelor-of-education-conversion
+         https://www.notredame.edu.au/programs/school-of-education/undergraduate/undergraduate-certificate-in-early-childhood-learning-and-development
+         https://www.notredame.edu.au/programs/school-of-education/undergraduate/bachelor-of-education-early-learning
+         https://www.notredame.edu.au/programs/school-of-education/undergraduate/bachelor-of-primary-education
+    6  www.notredame.edu.au/programs/school-of-business/postgraduate
+         https://www.notredame.edu.au/programs/school-of-business/postgraduate/doctor-of-business-administration
+         https://www.notredame.edu.au/programs/school-of-business/postgraduate/master-of-philosophy-business
+         https://www.notredame.edu.au/programs/school-of-business/postgraduate/graduate-certificate-in-business
+         https://www.notredame.edu.au/programs/school-of-business/postgraduate/master-of-business-administration
+    5  www.notredame.edu.au/programs/school-of-law/postgraduate
+         https://www.notredame.edu.au/programs/school-of-law/postgraduate/graduate-certificate-in-modern-slavery-and-human-trafficking
+         https://www.notredame.edu.au/programs/school-of-law/postgraduate/graduate-diploma-of-modern-slavery-and-human-trafficking
+         https://www.notredame.edu.au/programs/school-of-law/postgraduate/master-of-laws-research
+         https://www.notredame.edu.au/programs/school-of-law/postgraduate/master-of-laws-coursework
+    3  www.notredame.edu.au/study/our-programs
+         https://www.notredame.edu.au/study/our-programs/undergraduate
+         https://www.notredame.edu.au/study/our-programs/postgraduate
+         https://www.notredame.edu.au/study/our-programs/graduate-research
+    3  www.notredame.edu.au/study/our-programs/undergraduate
+         https://www.notredame.edu.au/study/our-programs/undergraduate/education-at-notre-dame
+         https://www.notredame.edu.au/study/our-programs/undergraduate/the-arts-at-notre-dame
+         https://www.notredame.edu.au/study/our-programs/undergraduate/computer-science-and-ai
+    2  www.notredame.edu.au/programs/school-of-nursing/undergraduate
+         https://www.notredame.edu.au/programs/school-of-nursing/undergraduate/bachelor-of-nursing
+         https://www.notredame.edu.au/programs/school-of-nursing/undergraduate/bachelor-of-nursing-enrolled-nurse-articulation-pathway
+    1  www.notredame.edu.au/test1234/grace-test/centre-for-injury-prevention-and-pain
+         https://www.notredame.edu.au/test1234/grace-test/centre-for-injury-prevention-and-pain/graduate-research
+    1  www.notredame.edu.au/forms/test-forms/applications-new
+         https://www.notredame.edu.au/forms/test-forms/applications-new/postgraduate-coursework-application-form-old/thank-you
+    1  www.notredame.edu.au/study/our-programs/postgraduate
+         https://www.notredame.edu.au/study/our-programs/postgraduate/csp
+    1  www.notredame.edu.au/research/institutes-and-initiatives/centre-for-the-history-of-philosophy
+         https://www.notredame.edu.au/research/institutes-and-initiatives/centre-for-the-history-of-philosophy/graduate-research
+    1  www.notredame.edu.au/study/applications-and-admissions/how-to-apply
+         https://www.notredame.edu.au/study/applications-and-admissions/how-to-apply/graduate-research

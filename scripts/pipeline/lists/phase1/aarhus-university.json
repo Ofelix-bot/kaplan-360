@@ -1,0 +1,30 @@
+{
+  "source": "Aarhus University English-language master's site https://masters.au.dk (programme slugs from https://masters.au.dk/sitemap.xml; each page's Language field checked = English; combined/work-integrated variants and economics-only skipped) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://masters.au.dk/datascience",
+    "https://masters.au.dk/computerscience",
+    "https://masters.au.dk/appliedcomputerscience",
+    "https://masters.au.dk/itproductdevelopment",
+    "https://masters.au.dk/statistics",
+    "https://masters.au.dk/applieddataanalytics",
+    "https://masters.au.dk/operationsandsupplychainanalytics",
+    "https://masters.au.dk/business-administration",
+    "https://masters.au.dk/businessintelligence",
+    "https://masters.au.dk/digitalbusinessmanagement",
+    "https://masters.au.dk/internationalbusiness",
+    "https://masters.au.dk/internationaleconomicconsulting",
+    "https://masters.au.dk/retailmanagement",
+    "https://masters.au.dk/strategyorganisationandleadership",
+    "https://masters.au.dk/technologybasedbusinessdevelopment",
+    "https://masters.au.dk/finance",
+    "https://masters.au.dk/financeandinternationalbusiness",
+    "https://masters.au.dk/managementaccountingandcontrol",
+    "https://masters.au.dk/marketing-analytics-and-strategy",
+    "https://masters.au.dk/businesspsychology-msc",
+    "https://masters.au.dk/journalismmediaandglobalisation",
+    "https://masters.au.dk/sciencecommunication",
+    "https://masters.au.dk/linguistics",
+    "https://masters.au.dk/masters-degree-programme-childrens-literature-media-and-cultural-entrepreneurship"
+  ]
+}

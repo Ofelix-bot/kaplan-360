@@ -1,0 +1,13 @@
+hkbu https://ar.hkbu.edu.hk/tpg-admissions/programmes
+um https://grs.um.edu.mo/index.php/prospective-students/master-postgraduate-certificate-diploma-programmes
+nus-fass https://www.nus.edu.sg/nusbulletin/ay202627/programmes/faculty-of-arts-and-social-sciences/graduate-education/coursework-programmes/
+nus-biz https://www.nus.edu.sg/nusbulletin/ay202627/programmes/school-of-business/graduate-education/coursework-programmes/
+eduhk https://gs.eduhk.hk/pg-programmes/
+hsu https://gs.hsu.edu.hk/en/programmes-on-offer/
+ln1 https://www.ln.edu.hk/sgs/taught-postgraduate-programmes/programme-teams-contact
+ln2 https://www.ln.edu.hk/admissions/taught-postgraduate-admissions
+syu https://gs.hksyu.edu/en/Programmes/Postgraduate%20Brochure
+syu2 https://www.hksyu.edu/en/admissions/postgraduate-studies
+must https://www.must.edu.mo/en/sgs
+utm https://www.utm.edu.mo/
+hkmu https://admissions.hkmu.edu.hk/tpg/programmes/

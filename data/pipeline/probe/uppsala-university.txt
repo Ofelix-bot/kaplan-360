@@ -1,0 +1,129 @@
+# uppsala-university https://www.uu.se
+robots sitemaps: https://www.uu.se/sitemaps/index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.uu.se/sitemaps/index.xml: 18 children (11 course-like)
+sitemaps read 19 · urls 383203 · master's-looking 1753
+  239  www.uu.se/en/study/programme
+         https://www.uu.se/en/study/programme/masters-programme-wind-power-project-management-120/is-this-programme-right-for-you
+         https://www.uu.se/en/study/programme/masters-programme-great-transformations
+         https://www.uu.se/en/study/programme/masters-programme-physics-theoretical-physics
+         https://www.uu.se/en/study/programme/masters-programme-physics-astronomy-and-space-physics
+  144  www.uu.se/utbildning/program
+         https://www.uu.se/utbildning/program/masterprogram-fysik-astronomi-och-rymdfysik
+         https://www.uu.se/utbildning/program/masterprogram-stora-samhallsomvandlingar
+         https://www.uu.se/utbildning/program/masterprogram-speldesign
+         https://www.uu.se/utbildning/program/masterprogram-teologi-och-religionsvetenskap-religionsbeteendevetenskap-och-praktisk-teologi
+   59  www.uu.se/en/study/masters-studies
+         https://www.uu.se/en/study/masters-studies/fees
+         https://www.uu.se/en/study/masters-studies/meet-us/events
+         https://www.uu.se/en/study/masters-studies/masters-programmes/subjects/arts-and-philosophy
+         https://www.uu.se/en/study/masters-studies/masters-programmes/subjects/mathematics-and-statistics
+   59  www.uu.se/en/department/mathematics
+         https://www.uu.se/en/department/mathematics/research/emu/archive/2026-09-28-emu-seminar-how-do-i-lean-an-amateurs-guide-to-llm-assisted-formalisation
+         https://www.uu.se/en/department/mathematics/study/degree-projects/calendar-for-degree-project-presentations-/archive/2026-09-08-master-degree-project-presentation-the-geometric-theory-of-classical-automorphic-forms-and-a-rigid-direct-limit-construction-of-cech-cohomology
+         https://www.uu.se/en/department/mathematics/study/degree-projects/calendar-for-degree-project-presentations-/archive/2026-08-21-master-degree-project-presentation-impact-of-missing-data-handling-techniques-in-longitudinal-settings
+         https://www.uu.se/en/department/mathematics/study/degree-projects/calendar-for-degree-project-presentations-/archive/2026-06-17-master-degree-project-presentation-stability-of-the-positive-mass-theorem-in-the-hyperbolic-setting
+   55  www.uu.se/institution/matematiska/utbildning
+         https://www.uu.se/institution/matematiska/utbildning/examensarbete/kalendarium-for-examensarbetespresentationer/arkiv/2026-09-08-presentation-av-examensarbete-pa-masterniva-the-geometric-theory-of-classical-automorphic-forms-and-a-rigid-direct-limit-construction-of-cech-cohomology
+         https://www.uu.se/institution/matematiska/utbildning/examensarbete/kalendarium-for-examensarbetespresentationer/arkiv/2026-08-21-presentation-av-examensarbete-pa-masterniva-impact-of-missing-data-handling-techniques-in-longitudinal-settings
+         https://www.uu.se/institution/matematiska/utbildning/examensarbete/kalendarium-for-examensarbetespresentationer/arkiv/2026-06-17-presentation-av-examensarbete-pa-masterniva-stability-of-the-positive-mass-theorem-in-the-hyperbolic-setting
+         https://www.uu.se/institution/matematiska/utbildning/examensarbete/kalendarium-for-examensarbetespresentationer/arkiv/2026-06-17-presentation-av-examensarbete-pa-masterniva-porosity-of-mandelbrot-percolation
+   28  www.uu.se/en/students/department
+         https://www.uu.se/en/students/department/cultural-anthropology-and-ethnology/our-masters-programmes
+         https://www.uu.se/en/students/department/mathematics/study-choice-guidance/course-selection---master
+         https://www.uu.se/en/students/department/information-technology/programmes-and-courses/admission-to-later-part-of-a-masters-programme
+         https://www.uu.se/en/students/department/musicology/masters-programme-in-musicology/your-study
+   26  www.uu.se/institution/biologisk-grundutbildning/utbildning
+         https://www.uu.se/institution/biologisk-grundutbildning/utbildning/kurser-och-program/masterprogram/masterprogrammet-i-bioinformatik/examensarbete/anvisningar
+         https://www.uu.se/institution/biologisk-grundutbildning/utbildning/kurser-och-program/masterprogram/ansokan-till-mastersprogram
+         https://www.uu.se/institution/biologisk-grundutbildning/utbildning/kurser-och-program/masterprogram/masterprogrammet-i-biologi/examensarbete
+         https://www.uu.se/institution/biologisk-grundutbildning/utbildning/kurser-och-program/masterprogram/masterprogrammet-i-biologi/examensarbete/anvisningar
+   18  www.uu.se/en/department/biology-education-centre
+         https://www.uu.se/en/department/biology-education-centre/study/courses-and-programmes/masters-programmes/masters-programme-in-biology/degree-project
+         https://www.uu.se/en/department/biology-education-centre/study/courses-and-programmes/masters-programmes/masters-programme-in-biology/degree-project/instructions
+         https://www.uu.se/en/department/biology-education-centre/study/courses-and-programmes/masters-programmes
+         https://www.uu.se/en/department/biology-education-centre/study/courses-and-programmes/masters-programmes/application-to-masters-programmes
+   17  www.uu.se/en/department/archaeology-ancient-history-and-conservation
+         https://www.uu.se/en/department/archaeology-ancient-history-and-conservation/study/undergraduate-training/alumni-stories
+         https://www.uu.se/en/department/archaeology-ancient-history-and-conservation/study/postgraduate-training
+         https://www.uu.se/en/department/archaeology-ancient-history-and-conservation/study/undergraduate-training
+         https://www.uu.se/en/department/archaeology-ancient-history-and-conservation/study/masters-programmes-
+   16  www.uu.se/en/collaboration-innovation/the-baltic-university-programme
+         https://www.uu.se/en/collaboration-innovation/the-baltic-university-programme/events-and-announcements/event-reports/bup-master-thesis-training-2026
+         https://www.uu.se/en/collaboration-innovation/the-baltic-university-programme/events-and-announcements/event-reports/bup-master-thesis-training-2023
+         https://www.uu.se/en/collaboration-innovation/the-baltic-university-programme/events-and-announcements/event-reports/bup-master-thesis-training-2024
+         https://www.uu.se/en/collaboration-innovation/the-baltic-university-programme/events-and-announcements/event-reports/bup-master-thesis-training-2025
+   11  www.uu.se/en/department/cultural-anthropology-and-ethnology
+         https://www.uu.se/en/department/cultural-anthropology-and-ethnology/study/masters-level
+         https://www.uu.se/en/department/cultural-anthropology-and-ethnology/study/masters-level/scholarships
+         https://www.uu.se/en/department/cultural-anthropology-and-ethnology/study/masters-level/internship
+         https://www.uu.se/en/department/cultural-anthropology-and-ethnology/study/masters-level/ethnology-theses
+   11  www.uu.se/nyheter/2018
+         https://www.uu.se/nyheter/2018/2018-12-04-masterprogrammet-som-i-ar-dubblerade-antalet-betalande-studenter
+         https://www.uu.se/nyheter/2018/2018-04-11-tjugo-procent-fler-antagna-till-internationalla-masterprogram
+         https://www.uu.se/nyheter/2018/2018-05-22-uppsalastudenter-vann-svenska-juridiska-masterskapen
+         https://www.uu.se/nyheter/2018/2018-05-22-uppsala-vann-svenska-juridiska-masterskapen
+   10  www.uu.se/en/department/departmentofmedicinalchemistry
+         https://www.uu.se/en/department/departmentofmedicinalchemistry/deanscorner/news/archive/swedensfirstmastersprogrammeinbiopharmaceuticalsreadytolaunch.5.3f2acc1b18f157bd287264e8.html
+         https://www.uu.se/en/department/departmentofmedicinalchemistry/deanscorner/news/archive/thefacultyofpharmacycongratulatesitsnewlygraduatedalumni.5.3f2acc1b18f157bd28725d74.html
+         https://www.uu.se/en/department/departmentofmedicinalchemistry/deanscorner/news/archive/masterthesisattestacenteropenedinternationaldoors.5.3f2acc1b18f157bd2872591f.html
+         https://www.uu.se/en/department/departmentofmedicinalchemistry/deanscorner/news/archive/thefacultyofpharmacycongratulatesitsnewlygraduatedpharmaceuticalexperts.5.3f2acc1b18f157bd28724d45.html
+    9  www.uu.se/institution/historiska/utbildning
+         https://www.uu.se/institution/historiska/utbildning/masterutbildning
+         https://www.uu.se/institution/historiska/utbildning/intervjuer/intervjuer-med-masterstudenter/interview-with-oscar-kelly
+         https://www.uu.se/institution/historiska/utbildning/intervjuer/intervjuer-med-masterstudenter
+         https://www.uu.se/institution/historiska/utbildning/intervjuer/intervjuer-med-masterstudenter/interview-with-aggelos-tsimouris
+    9  www.uu.se/en/department/earth-sciences
+         https://www.uu.se/en/department/earth-sciences/news/2026/2026-02-05-soon-time-to-apply-for-our-new-masters-programme-in-sustainable-coastal-development-starting-in-the-autumn-semester-of-2026
+         https://www.uu.se/en/department/earth-sciences/news/2025/2025-05-15-new-masters-programme-in-sustainable-coastal-development---a-unique-programme-at-campus-gotland
+         https://www.uu.se/en/department/earth-sciences/events/archive/2024-09-11-presentations-day-of-the-master-thesis-in-sustainable-development
+         https://www.uu.se/en/department/earth-sciences/events/archive/2024-09-12-presentations-day-of-the-master-thesis-in-sustainable-development
+    9  www.uu.se/en/department/medicinal-chemistry
+         https://www.uu.se/en/department/medicinal-chemistry/faculty-of-pharmacy/news/archive/swedeliver-summer-internship-attracts-europes-top-masters-students
+         https://www.uu.se/en/department/medicinal-chemistry/faculty-of-pharmacy/news/archive/masters-students-in-biopharmaceuticals-up-for-graduation
+         https://www.uu.se/en/department/medicinal-chemistry/faculty-of-pharmacy/news/archive/2024-02-19-masters-programme-in-biopharmaceuticals-bringing-students-from-across-the-world-to-uppsala
+         https://www.uu.se/en/department/medicinal-chemistry/faculty-of-pharmacy/news/archive/2022-02-07-swedens-first-masters-programme-in-biopharmaceuticals-ready-to-launch
+    8  www.uu.se/en/centre/medical-humanities
+         https://www.uu.se/en/centre/medical-humanities/research/medical-humanities-graduate-programme/young-scholars-in-medical-humanities-conference-2026
+         https://www.uu.se/en/centre/medical-humanities/research/medical-humanities-graduate-programme
+         https://www.uu.se/en/centre/medical-humanities/study/courses-on-the-graduate-level
+         https://www.uu.se/en/centre/medical-humanities/study/courses-on-the-graduate-level/introduction-to-the-medical-humanities
+    8  www.uu.se/en/staff/disciplinary-domain
+         https://www.uu.se/en/staff/disciplinary-domain/medicine-and-pharmacy/organisation-and-management/boards-and-committees/undergraduate-and-masters-education-committee-at-the-faculty-of-medicine
+         https://www.uu.se/en/staff/disciplinary-domain/medicine-and-pharmacy/organisation-and-management/boards-and-committees/masters-programmes-in-medicine-committee
+         https://www.uu.se/en/staff/disciplinary-domain/medicine-and-pharmacy/organisation-and-management/boards-and-committees/undergraduate-and-masters-education-committee-at-the-faculty-of-pharmacy
+         https://www.uu.se/en/staff/disciplinary-domain/medicine-and-pharmacy/organisation-and-management/boards-and-committees/masters-programmes-in-pharmacy-committee
+    7  www.uu.se/en/department/history-of-science-and-ideas
+         https://www.uu.se/en/department/history-of-science-and-ideas/education/postgraduate-studies
+         https://www.uu.se/en/department/history-of-science-and-ideas/education/undergraduate-studies
+         https://www.uu.se/en/department/history-of-science-and-ideas/events/archive/2026-12-09-ma.-mercedes-g.-planta-university-of-the-philippines-diliman-learning-the-uses-of-plants-traditional-medicinal-knowledge-and-botanical-investigation-in-the-spanish-colonial-philippines
+         https://www.uu.se/en/department/history-of-science-and-ideas/news/archive/2023-02-24-the-graduate-programme-in-medical-humanities-has-started
+    7  www.uu.se/en/department/pharmaceutical-biosciences
+         https://www.uu.se/en/department/pharmaceutical-biosciences/study/undergraduate-education-in-pharmaceutical-science/pharmaceutical-bioinformatics
+         https://www.uu.se/en/department/pharmaceutical-biosciences/study/undergraduate-education-in-pharmaceutical-science/pharmacognosy
+         https://www.uu.se/en/department/pharmaceutical-biosciences/study/undergraduate-education-in-pharmaceutical-science/pharmaceutical-cellbiology
+         https://www.uu.se/en/department/pharmaceutical-biosciences/study/undergraduate-education-in-pharmaceutical-science
+    7  www.uu.se/en/department/physics-and-astronomy
+         https://www.uu.se/en/department/physics-and-astronomy/research/x-ray-photon-science/bachelor-and-master-projects
+         https://www.uu.se/en/department/physics-and-astronomy/calendar/archive/2026-08-25-start-of-semester-masters-programme-in-quantum-technology-materials-science
+         https://www.uu.se/en/department/physics-and-astronomy/calendar/archive/2026-08-26-start-of-semester-master-programme-in-physics
+         https://www.uu.se/en/department/physics-and-astronomy/research/astronomy-and-space-physics/events/archive/2025-04-03-seminar-inflows-outflows-and-radial-flows-the-puppet-masters-of-chemical-evolution-in-the-milky-way
+    7  www.uu.se/en/department/womens-and-childrens-health
+         https://www.uu.se/en/department/womens-and-childrens-health/study/masters-programme-in-global-health
+         https://www.uu.se/en/department/womens-and-childrens-health/study/masters-programme-in-global-health/alumni
+         https://www.uu.se/en/department/womens-and-childrens-health/study/masters-studies
+         https://www.uu.se/en/department/womens-and-childrens-health/study/masters-programme-in-global-health/global-health-case-challenges
+    7  www.uu.se/en/students/faculty
+         https://www.uu.se/en/students/faculty/pharmacy/puff/objectives/programme-objectives-for-the-master-of-science-programme-in-pharmacy
+         https://www.uu.se/en/students/faculty/pharmacy/puff/guide-to-written-and-oral-communication/checklist-for-master-and-bachelor-theses
+         https://www.uu.se/en/students/faculty/science-and-technology/events/archive/2026-09-09-faculty-of-science-and-technology---welcome-reception-for-master--and-exchange-students
+         https://www.uu.se/en/students/faculty/science-and-technology/events/archive/2025-09-10-faculty-of-science-and-technology---welcome-reception-for-master--and-exchange-students
+    7  www.uu.se/en/centre/womher
+         https://www.uu.se/en/centre/womher/womher-international-graduate-conference-2024
+         https://www.uu.se/en/centre/womher/womher-international-graduate-conference-2024/conference-schedule
+         https://www.uu.se/en/centre/womher/womher-international-graduate-conference-2024/presentation-requirements
+         https://www.uu.se/en/centre/womher/womher-international-graduate-conference-2024/poster-presentations
+    7  www.uu.se/institution/geovetenskaper/kalendarium
+         https://www.uu.se/institution/geovetenskaper/kalendarium/arkiv/2024-09-11-presentations-day-of-the-master-thesis-in-sustainable-development
+         https://www.uu.se/institution/geovetenskaper/kalendarium/arkiv/2024-09-12-presentations-day-of-the-master-thesis-in-sustainable-development
+         https://www.uu.se/institution/geovetenskaper/kalendarium/arkiv/2024-05-24-master-thesis-in-sustainable-development
+         https://www.uu.se/institution/geovetenskaper/kalendarium/arkiv/2024-05-23-master-thesis-in-sustainable-development

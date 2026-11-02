@@ -1,0 +1,30 @@
+Claude fills missing fields for 28 programmes (claude-haiku-5-5)…
+northumbria- MSc Finance (QFBA, Qatar)                        +2 kept, 0 dropped
+northumbria- MSc Healthcare Management (Kaplan, Singapore)    +3 kept, 0 dropped
+northumbria- Master of Public Health (Kaplan, Singapore)      +2 kept, 1 dropped
+northumbria- Master of Public Health (Kaplan, Singapore)      +3 kept, 1 dropped
+university-o Education Leadership (Dubai) MA                  +1 kept, 0 dropped
+university-o Data Science (Dubai) MSc                         +1 kept, 1 dropped
+university-o Marketing (Dubai) MSc                            +1 kept, 1 dropped
+university-o Clinical Psychology (Dubai) MSc                  +2 kept, 1 dropped
+university-o Cyber Security (Dubai) MSc                       +1 kept, 1 dropped
+university-o Financial Data Science (Dubai) MSc               +1 kept, 0 dropped
+university-o Computer Science (Dubai) MSc / PGDip             +1 kept, 1 dropped
+university-o Construction Management (Dubai) MSc              +1 kept, 0 dropped
+university-o Education (Learning and Teaching) (Dubai) MA     +1 kept, 0 dropped
+university-o Health Data Science (Dubai) MSc                  +1 kept, 0 dropped
+university-o Advanced Engineering Management (Dubai) MSc      +1 kept, 0 dropped
+university-o Financial Management (Dubai) MSc                 +1 kept, 1 dropped
+university-o Accounting and Finance (Dubai) MSc               +1 kept, 1 dropped
+university-o International Business (Dubai) MSc               +0 kept, 2 dropped
+university-o Supply Chain Management (Dubai) MSc              +1 kept, 1 dropped
+university-o Human Resource Management (Dubai) MSc            +1 kept, 1 dropped
+university-o Global Health System Leadership (Dubai) MSc      +1 kept, 1 dropped
+university-o Digital Media and Communications (Dubai) MA      +1 kept, 1 dropped
+university-o Artificial Intelligence (AI) and Computer Scienc +1 kept, 1 dropped
+university-o Education Inclusion and Special Educational Need +2 kept, 1 dropped
+university-o Artificial Intelligence (AI) and Machine Learnin +1 kept, 1 dropped
+university-o Sustainable Innovation and Entrepreneurship (Dub +1 kept, 1 dropped
+georgetown-u International Business & Policy (Dubai), MA      +0 kept, 0 dropped
+university-o Master of Business Administration (Ningbo)       +1 kept, 2 dropped
+Tokens: input 292551, output 13856 · cost ≈ US0.036 (Haiku 5.5: $0.10 / $0.50 per MTok)

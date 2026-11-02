@@ -1,0 +1,128 @@
+# royal-holloway-university-of-london https://www.royalholloway.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 9112 · master's-looking 1012
+  238  www.royalholloway.ac.uk/studying-here/2026/undergraduate
+         https://www.royalholloway.ac.uk/studying-here/2026/undergraduate/biological-sciences/biochemistry
+         https://www.royalholloway.ac.uk/studying-here/2026/undergraduate/biological-sciences/biochemistry-with-integrated-foundation-year
+         https://www.royalholloway.ac.uk/studying-here/2026/undergraduate/biological-sciences/biology
+         https://www.royalholloway.ac.uk/studying-here/2026/undergraduate/biological-sciences/biomedical-sciences
+   32  www.royalholloway.ac.uk/research-and-education/subjects/law-school
+         https://www.royalholloway.ac.uk/research-and-education/subjects/law-school/study-here/postgraduate-study
+         https://www.royalholloway.ac.uk/research-and-education/subjects/law-school/study-here/postgraduate-study/whats-it-like-to-study-msc-terrorism-and-counter-terrorism-studies
+         https://www.royalholloway.ac.uk/research-and-education/subjects/law-school/study-here/postgraduate-study/university-of-law-other-postgraduate-opportunities
+         https://www.royalholloway.ac.uk/research-and-education/subjects/law-school/study-here/undergraduate-study
+   23  www.royalholloway.ac.uk/studying-here/applying/undergraduate
+         https://www.royalholloway.ac.uk/studying-here/applying/undergraduate/entry-requirements
+         https://www.royalholloway.ac.uk/studying-here/applying/undergraduate/entry-requirements/computer-science-applicants-with-btec-extended-diplomas
+         https://www.royalholloway.ac.uk/studying-here/applying/undergraduate/entry-requirements/law-btec-law-unit-requirements
+         https://www.royalholloway.ac.uk/studying-here/applying/undergraduate/entry-requirements/creative-writing-requirements
+   23  www.royalholloway.ac.uk/research-and-education/subjects/english
+         https://www.royalholloway.ac.uk/research-and-education/subjects/english/studying-here/undergraduate
+         https://www.royalholloway.ac.uk/research-and-education/subjects/english/studying-here/undergraduate/ba-english-and-american-literature
+         https://www.royalholloway.ac.uk/research-and-education/subjects/english/studying-here/undergraduate/ba-english-and-classics
+         https://www.royalholloway.ac.uk/research-and-education/subjects/english/studying-here/undergraduate/second-year-modules
+   23  www.royalholloway.ac.uk/research-and-education/subjects/music
+         https://www.royalholloway.ac.uk/research-and-education/subjects/music/studying-here/undergraduate
+         https://www.royalholloway.ac.uk/research-and-education/subjects/music/studying-here/postgraduate-taught
+         https://www.royalholloway.ac.uk/research-and-education/subjects/music/research/research-projects-and-centres/choral-academy/choral-academy-postgraduate-taught
+         https://www.royalholloway.ac.uk/research-and-education/subjects/music/research/research-projects-and-centres/choral-academy/choral-academy-postgraduate-research
+   21  www.royalholloway.ac.uk/studying-here/undergraduate/biological-sciences
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/biological-sciences/biochemistry
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/biological-sciences/biochemistry-with-integrated-foundation-year
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/biological-sciences/biology
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/biological-sciences/biomedical-sciences
+   19  www.royalholloway.ac.uk/studying-here/undergraduate/business-school
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/business-school/accounting-and-finance
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/business-school/accounting-and-finance-with-a-year-in-business
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/business-school/business-and-management
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/business-school/business-and-management-with-a-year-in-business
+   19  www.royalholloway.ac.uk/studying-here/undergraduate/law-school
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/law-school/law
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/law-school/law-with-a-year-in-industry
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/law-school/law-with-criminology
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/law-school/law-with-criminology-with-a-year-in-industry
+   19  www.royalholloway.ac.uk/student-life/accommodation/explore-our-halls
+         https://www.royalholloway.ac.uk/student-life/accommodation/explore-our-halls/undergraduate/george-eliot
+         https://www.royalholloway.ac.uk/student-life/accommodation/explore-our-halls/undergraduate/gowar
+         https://www.royalholloway.ac.uk/student-life/accommodation/explore-our-halls/undergraduate/wedderburn
+         https://www.royalholloway.ac.uk/student-life/accommodation/explore-our-halls/undergraduate/williamson
+   18  www.royalholloway.ac.uk/studying-here/undergraduate/computer-science
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/computer-science/computer-science
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/computer-science/computer-science-artificial-intelligence
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/computer-science/computer-science-artificial-intelligence-msci
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/computer-science/computer-science-artificial-intelligence-with-a-year-in-industry
+   17  www.royalholloway.ac.uk/studying-here/applying/postgraduate
+         https://www.royalholloway.ac.uk/studying-here/applying/postgraduate/entry-requirements
+         https://www.royalholloway.ac.uk/studying-here/applying/postgraduate/how-to-apply
+         https://www.royalholloway.ac.uk/studying-here/applying/postgraduate/offers
+         https://www.royalholloway.ac.uk/studying-here/applying/postgraduate/postgraduate-study-at-royal-holloway
+   17  www.royalholloway.ac.uk/research-and-education/subjects/history
+         https://www.royalholloway.ac.uk/research-and-education/subjects/history/what-will-i-study/undergraduate
+         https://www.royalholloway.ac.uk/research-and-education/subjects/history/what-will-i-study/undergraduate/sample-module-choices
+         https://www.royalholloway.ac.uk/research-and-education/subjects/history/what-will-i-study/undergraduate/student-research-scheme
+         https://www.royalholloway.ac.uk/research-and-education/subjects/history/what-will-i-study/undergraduate/gateway-modules
+   16  www.royalholloway.ac.uk/studying-here/undergraduate/economics
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-data-science
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-data-science-with-a-year-in-business
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-management
+   15  www.royalholloway.ac.uk/research-and-education/subjects/computer-science
+         https://www.royalholloway.ac.uk/research-and-education/subjects/computer-science/studying-here/undergraduate
+         https://www.royalholloway.ac.uk/research-and-education/subjects/computer-science/studying-here/undergraduate/accreditation
+         https://www.royalholloway.ac.uk/research-and-education/subjects/computer-science/studying-here/undergraduate/exploring-who-you-are
+         https://www.royalholloway.ac.uk/research-and-education/subjects/computer-science/studying-here/undergraduate/computer-science-open-days
+   15  www.royalholloway.ac.uk/research-and-education/subjects/modern-languages
+         https://www.royalholloway.ac.uk/research-and-education/subjects/modern-languages/studying-modern-languages/undergraduate
+         https://www.royalholloway.ac.uk/research-and-education/subjects/modern-languages/studying-modern-languages/undergraduate/studying-french
+         https://www.royalholloway.ac.uk/research-and-education/subjects/modern-languages/studying-modern-languages/undergraduate/studying-german
+         https://www.royalholloway.ac.uk/research-and-education/subjects/modern-languages/studying-modern-languages/undergraduate/studying-spanish
+   14  www.royalholloway.ac.uk/about-us/our-alumni/for-alumni
+         https://www.royalholloway.ac.uk/about-us/our-alumni/for-alumni/alumni-events/psychology-meet-our-graduates-2020
+         https://www.royalholloway.ac.uk/about-us/our-alumni/for-alumni/alumni-groups/mba-network
+         https://www.royalholloway.ac.uk/about-us/our-alumni/for-alumni/recent-alumni/the-graduate-outcomes-survey
+         https://www.royalholloway.ac.uk/about-us/our-alumni/for-alumni/recent-alumni/recent-graduate-update-form
+   14  www.royalholloway.ac.uk/studying-here/undergraduate/earth-sciences
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/earth-sciences/environmental-geology
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/earth-sciences/environmental-geology-with-a-year-in-industry
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/earth-sciences/environmental-geoscience
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/earth-sciences/environmental-geoscience-with-a-year-in-industry
+   14  www.royalholloway.ac.uk/research-and-education/subjects/classics
+         https://www.royalholloway.ac.uk/research-and-education/subjects/classics/studying-here/undergraduate
+         https://www.royalholloway.ac.uk/research-and-education/subjects/classics/studying-here/undergraduate/choosing-your-degree
+         https://www.royalholloway.ac.uk/research-and-education/subjects/classics/studying-here/undergraduate/what-will-my-degree-be-like
+         https://www.royalholloway.ac.uk/research-and-education/subjects/classics/studying-here/undergraduate/student-life
+   14  www.royalholloway.ac.uk/research-and-education/subjects/economics
+         https://www.royalholloway.ac.uk/research-and-education/subjects/economics/about-us/graduate-teaching-opportunities
+         https://www.royalholloway.ac.uk/research-and-education/subjects/economics/studying-here/undergraduate
+         https://www.royalholloway.ac.uk/research-and-education/subjects/economics/studying-here/undergraduate/open-days
+         https://www.royalholloway.ac.uk/research-and-education/subjects/economics/studying-here/undergraduate/study-economics-at-royal-holloway
+   13  www.royalholloway.ac.uk/research-and-education/subjects/geography
+         https://www.royalholloway.ac.uk/research-and-education/subjects/geography/studying-here/undergraduate
+         https://www.royalholloway.ac.uk/research-and-education/subjects/geography/studying-here/undergraduate/field-trips
+         https://www.royalholloway.ac.uk/research-and-education/subjects/geography/studying-here/undergraduate/field-trips/field-trip-to-cyprus
+         https://www.royalholloway.ac.uk/research-and-education/subjects/geography/studying-here/undergraduate/field-trips/field-trip-to-malawi
+   12  www.royalholloway.ac.uk/studying-here/undergraduate/classics
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/classics/ancient-history
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/classics/classical-archaeology-and-ancient-history
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/classics/classical-studies
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/classics/classics
+   12  www.royalholloway.ac.uk/research-and-education/subjects/physics-and-astronomy
+         https://www.royalholloway.ac.uk/research-and-education/subjects/physics-and-astronomy/studying-here/undergraduate-study
+         https://www.royalholloway.ac.uk/research-and-education/subjects/physics-and-astronomy/studying-here/undergraduate-study/cern-fieldwork
+         https://www.royalholloway.ac.uk/research-and-education/subjects/physics-and-astronomy/studying-here/undergraduate-study/choose-your-course
+         https://www.royalholloway.ac.uk/research-and-education/subjects/physics-and-astronomy/studying-here/undergraduate-study/how-to-apply
+   11  www.royalholloway.ac.uk/studying-here/undergraduate/music
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/music/music
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/music/music-and-english
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/music/music-with-french
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/music/music-with-german
+   11  www.royalholloway.ac.uk/studying-here/undergraduate/physics-and-astronomy
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/physics-and-astronomy/astrophysics-bsc
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/physics-and-astronomy/astrophysics-msci
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/physics-and-astronomy/physics-bsc
+         https://www.royalholloway.ac.uk/studying-here/undergraduate/physics-and-astronomy/physics-msci
+   11  www.royalholloway.ac.uk/studying-here/postgraduate/business-school
+         https://www.royalholloway.ac.uk/studying-here/postgraduate/business-school/accounting-and-financial-management
+         https://www.royalholloway.ac.uk/studying-here/postgraduate/business-school/ai-for-business-msc
+         https://www.royalholloway.ac.uk/studying-here/postgraduate/business-school/entrepreneurship-and-innovation
+         https://www.royalholloway.ac.uk/studying-here/postgraduate/business-school/human-resource-management

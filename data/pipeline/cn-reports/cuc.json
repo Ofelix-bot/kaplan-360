@@ -1,0 +1,33 @@
+{
+  "id": "cuc",
+  "status": "read",
+  "university": "中国传媒大学",
+  "universityEn": "Communication University of China",
+  "tier": "211",
+  "url": "https://xxgk.cuc.edu.cn/_upload/article/files/c2/31/79006e624554992cf8c080ae40ab/d21b0e01-caa3-44f5-a6bc-454c05c871fd.pdf",
+  "title": "中国传媒大学2023—2024学年本科教学质量报告",
+  "year": 2024,
+  "cohort": "2024届",
+  "pages": 66,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": "2024届",
+      "count": 485,
+      "pct": null,
+      "quote": "485 人到国（境）外攻读研究生"
+    },
+    {
+      "group": "全体",
+      "cohort": "2024届",
+      "count": 485,
+      "pct": null,
+      "quote": "出国（境）留学 485"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-21"
+}

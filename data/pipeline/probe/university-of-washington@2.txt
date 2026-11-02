@@ -1,0 +1,88 @@
+# university-of-washington@2 https://grad.uw.edu
+robots sitemaps: https://grad.uw.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 443 · master's-looking 109
+   19  grad.uw.edu/policies
+         https://grad.uw.edu/policies/grading-practices-for-graduate-students/
+         https://grad.uw.edu/policies/graduate-school-representative-gsr-eligibility/
+         https://grad.uw.edu/policies/graduate-on-leave-status/
+         https://grad.uw.edu/policies/4-3-the-graduate-program-coordinator-and-the-graduate-program-advisor/
+   14  grad.uw.edu/funding_posts
+         https://grad.uw.edu/funding_posts/graduate-school-presidential-dissertation-fellowship-in-the-arts-humanities-social-sciences-and-social-professions/
+         https://grad.uw.edu/funding_posts/graduate-student-conference-presentation-awards/
+         https://grad.uw.edu/funding_posts/latinx-scholars-graduate-school-fellowship-2/
+         https://grad.uw.edu/funding_posts/gsee-graduate-tuition-and-or-graduate-supplemental-awards/
+    8  grad.uw.edu/funding_stories
+         https://grad.uw.edu/funding_stories/three-graduate-students-receive-fulbright-fellowships-for-2025-26/
+         https://grad.uw.edu/funding_stories/eight-graduate-students-receive-fulbright-fellowships-for-2024-25/
+         https://grad.uw.edu/funding_stories/four-uw-graduate-students-receive-fulbright-awards-for-2021-22/
+         https://grad.uw.edu/funding_stories/eight-graduate-students-receive-fulbright-fellowships-for-2020-21-year/
+    7  grad.uw.edu/campus_resources
+         https://grad.uw.edu/campus_resources/graduate-funding-information-service/
+         https://grad.uw.edu/campus_resources/accommodations-for-graduate-students-with-disabilities/
+         https://grad.uw.edu/campus_resources/graduate-student-affairs/
+         https://grad.uw.edu/campus_resources/graduate-student-housing/
+    6  grad.uw.edu/graduate-student-success
+         https://grad.uw.edu/graduate-student-success/programming-events/
+         https://grad.uw.edu/graduate-student-success/gsee-funding-opportunities/
+         https://grad.uw.edu/graduate-student-success/undocumented-students/
+         https://grad.uw.edu/graduate-student-success/gsee-graduate-student-equity-excellence/
+    4  grad.uw.edu/directory_entry
+         https://grad.uw.edu/directory_entry/graduate-student-affairs/
+         https://grad.uw.edu/directory_entry/office-of-graduate-student-equity-excellence/
+         https://grad.uw.edu/directory_entry/student-success-in-graduate-programs/
+         https://grad.uw.edu/directory_entry/graduate-enrollment-management-services-gems/
+    4  grad.uw.edu/graduate-student-success/gsee-graduate-student-equity-excellence
+         https://grad.uw.edu/graduate-student-success/gsee-graduate-student-equity-excellence/sign-up-for-the-gsee-newsletter/
+         https://grad.uw.edu/graduate-student-success/gsee-graduate-student-equity-excellence/what-is-the-og-program/
+         https://grad.uw.edu/graduate-student-success/gsee-graduate-student-equity-excellence/graduate-student-advisory-board/
+         https://grad.uw.edu/graduate-student-success/gsee-graduate-student-equity-excellence/50-years-of-gsee/
+    4  grad.uw.edu/graduate-student-funding
+         https://grad.uw.edu/graduate-student-funding/fellowships/
+         https://grad.uw.edu/graduate-student-funding/assistantships/
+         https://grad.uw.edu/graduate-student-funding/how-do-i-pay-for-graduate-school/
+         https://grad.uw.edu/graduate-student-funding/
+    3  grad.uw.edu/about
+         https://grad.uw.edu/about/connect-with-the-graduate-school/
+         https://grad.uw.edu/about/graduate-school-leadership/
+         https://grad.uw.edu/about/uw-graduate-school-directory/
+    3  grad.uw.edu/advice
+         https://grad.uw.edu/advice/succeeding-in-a-graduate-seminar/
+         https://grad.uw.edu/advice/graduate-school-gems-office-hourly-student-assistant/
+         https://grad.uw.edu/advice/welcome-all-graduate-students/
+    3  grad.uw.edu/programs
+         https://grad.uw.edu/programs/find-a-graduate-program/
+         https://grad.uw.edu/programs/find-graduate-faculty/
+         https://grad.uw.edu/programs/graduate-certificate-programs/
+    3  grad.uw.edu/support-the-graduate-school
+         https://grad.uw.edu/support-the-graduate-school/faculty-and-staff-giving/
+         https://grad.uw.edu/support-the-graduate-school/achievement-rewards-for-college-scientists-arcs/
+         https://grad.uw.edu/support-the-graduate-school/
+    3  grad.uw.edu/graduate-student-funding/fellowships
+         https://grad.uw.edu/graduate-student-funding/fellowships/list-of-fellowships/
+         https://grad.uw.edu/graduate-student-funding/fellowships/applying-for-fellowships/
+         https://grad.uw.edu/graduate-student-funding/fellowships/finding-fellowships/
+    2  grad.uw.edu/graduate-student-success/programming-events
+         https://grad.uw.edu/graduate-student-success/programming-events/prospective-student-days/
+         https://grad.uw.edu/graduate-student-success/programming-events/excellence-in-graduate-education-summit/
+    1  grad.uw.edu/news-events
+         https://grad.uw.edu/news-events/graduate-school-news/
+    1  grad.uw.edu/graduate-student-research-resilience-fund
+         https://grad.uw.edu/graduate-student-research-resilience-fund/
+    1  grad.uw.edu/current-students/enrollment-through-graduation/thesis-dissertation
+         https://grad.uw.edu/current-students/enrollment-through-graduation/thesis-dissertation/two-uw-graduate-students-receive-wags-and-proquest-thesis-awards/
+    1  grad.uw.edu/the-power-of-graduate-education
+         https://grad.uw.edu/the-power-of-graduate-education/
+    1  grad.uw.edu/prospective-students/finding-your-path
+         https://grad.uw.edu/prospective-students/finding-your-path/grad-school-200-preparing-for-graduate-education/
+    1  grad.uw.edu/graduate-student-funding/assistantships
+         https://grad.uw.edu/graduate-student-funding/assistantships/petition-for-reduced-enrollment/
+    1  grad.uw.edu/graduate-non-matriculated-students
+         https://grad.uw.edu/graduate-non-matriculated-students/
+    1  grad.uw.edu/visiting-graduate-students
+         https://grad.uw.edu/visiting-graduate-students/
+    1  grad.uw.edu/current-students/student-success
+         https://grad.uw.edu/current-students/student-success/first-generation-graduate-students/
+    1  grad.uw.edu/graduate-student-funding/how-do-i-pay-for-graduate-school
+         https://grad.uw.edu/graduate-student-funding/how-do-i-pay-for-graduate-school/helpful-funding-videos/
+    1  grad.uw.edu/current-students
+         https://grad.uw.edu/current-students/u501-graduate-school-orientation/

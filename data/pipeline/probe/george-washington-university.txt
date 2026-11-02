@@ -1,0 +1,7 @@
+# george-washington-university https://www.gwu.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 53 · master's-looking 2
+    1  www.gwu.edu/undergraduate-admissions
+         https://www.gwu.edu/undergraduate-admissions
+    1  www.gwu.edu/graduate-admissions
+         https://www.gwu.edu/graduate-admissions

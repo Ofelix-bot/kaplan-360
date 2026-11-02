@@ -1,0 +1,7 @@
+# mahidol-university https://mahidol.ac.th
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 500 · master's-looking 2
+    1  mahidol.ac.th/event
+         https://mahidol.ac.th/event/schedule-of-grid-courses-for-graduate-students2/
+    1  mahidol.ac.th/th/event
+         https://mahidol.ac.th/th/event/schedule-of-grid-courses-for-graduate-students2/

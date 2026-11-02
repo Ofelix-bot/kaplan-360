@@ -1,0 +1,15 @@
+{
+ "source": "Goethe course finder https://www.uni-frankfurt.de/en/studium/studiengaenge (?page=1-9; filter params disallowed by robots), in-scope masters with 'Language of Instruction: English' + linked Goethe Business School part-time programmes + Faculty of Law ILF LL.M.s (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.uni-frankfurt.de/en/studium/studiengaenge/empirical-linguistics-master",
+  "https://www.uni-frankfurt.de/en/studium/studiengaenge/money-macro-and-finance-master",
+  "https://www.uni-frankfurt.de/en/studium/studiengaenge/quantitative-accounting-economics-finance-marketing-master",
+  "https://www.uni-frankfurt.de/en/studium/studiengaenge/linguistics-master",
+  "https://www.goethe-business-school.de/en/master-programs/master-in-finance/start",
+  "https://www.goethe-business-school.de/en/master-programs/goethe-mba/start",
+  "https://www.goethe-business-school.de/en/master-programs/sports-management-mba/start",
+  "https://www.ilf-frankfurt.de/llm-finance",
+  "https://www.ilf-frankfurt.de/llm-international-finance-1"
+ ]
+}

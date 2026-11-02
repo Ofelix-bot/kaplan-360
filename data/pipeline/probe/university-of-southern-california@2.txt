@@ -1,0 +1,6 @@
+# university-of-southern-california@2 https://gradadm.usc.edu
+robots sitemaps: https://gradadm.usc.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://gradadm.usc.edu/sitemap_index.xml: 1 children (1 course-like)
+sitemaps read 2 · urls 32 · master's-looking 1
+    1  gradadm.usc.edu/tools-resources
+         https://gradadm.usc.edu/tools-resources/graduate-student-resources/

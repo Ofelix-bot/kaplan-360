@@ -1,0 +1,119 @@
+# university-of-california-berkeley@2 https://grad.berkeley.edu
+robots sitemaps: https://grad.berkeley.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://grad.berkeley.edu/sitemap_index.xml: 13 children (2 course-like)
+sitemaps read 14 · urls 5583 · master's-looking 533
+  169  grad.berkeley.edu/event
+         https://grad.berkeley.edu/event/graduate-student-appreciation-patio-party/
+         https://grad.berkeley.edu/event/cybersecurity-for-graduate-students-in-research-d-lab-2/
+         https://grad.berkeley.edu/event/cybersecurity-for-graduate-students-in-research-d-lab/
+         https://grad.berkeley.edu/event/graduate-certificate-in-applied-data-science-deadline-to-apply/
+  101  grad.berkeley.edu/news/announcements
+         https://grad.berkeley.edu/news/announcements/mastercard-scholars/
+         https://grad.berkeley.edu/news/announcements/graduate-bay-cruise/
+         https://grad.berkeley.edu/news/announcements/the-berkeley-graduate/
+         https://grad.berkeley.edu/news/announcements/nsf-graduate-research-fellowship-app-wkshp/
+   55  grad.berkeley.edu/program
+         https://grad.berkeley.edu/program/architecture-master-of-city-planning-march-mcp/
+         https://grad.berkeley.edu/program/asian-studies-ma/
+         https://grad.berkeley.edu/program/education-ma/
+         https://grad.berkeley.edu/program/education-admin-services-credential-cred-ma/
+   30  grad.berkeley.edu/tag
+         https://grad.berkeley.edu/tag/american-indian-graduate-program/
+         https://grad.berkeley.edu/tag/doe-graduate-fellowship/
+         https://grad.berkeley.edu/tag/graduate-admissions/
+         https://grad.berkeley.edu/tag/graduate-assembly/
+   28  grad.berkeley.edu/news/headlines
+         https://grad.berkeley.edu/news/headlines/sustainabilitymasters/
+         https://grad.berkeley.edu/news/headlines/graduate-advocacy-day/
+         https://grad.berkeley.edu/news/headlines/reflections-graduate-dean/
+         https://grad.berkeley.edu/news/headlines/graduate-research-advocacy-day/
+   15  grad.berkeley.edu/news/funding
+         https://grad.berkeley.edu/news/funding/nnsa-graduate-program/
+         https://grad.berkeley.edu/news/funding/robert-p-lin-graduate-fellowship/
+         https://grad.berkeley.edu/news/funding/inl-graduate-fellowship-program/
+         https://grad.berkeley.edu/news/funding/daniel-koshland-graduate-fellowship/
+   11  grad.berkeley.edu/news/announcements/opportunities
+         https://grad.berkeley.edu/news/announcements/opportunities/graduate-intern-position/
+         https://grad.berkeley.edu/news/announcements/opportunities/graduate-assistant-gbo/
+         https://grad.berkeley.edu/news/announcements/opportunities/apply-to-be-a-graduate-mentor-with-the-getting-into-graduate-school-program-8-16-2019/
+         https://grad.berkeley.edu/news/announcements/opportunities/open-position-autism-program-graduate-assistant/
+    9  grad.berkeley.edu/news
+         https://grad.berkeley.edu/news/connect-with-virtual-community-this-semester-graduate-division-check-in-groups/
+         https://grad.berkeley.edu/news/enrollment-in-mba-electives-for-non-mba-graduate-students/
+         https://grad.berkeley.edu/news/meet-new-graduate-division-staff-ken-mahru-and-ksenia-sidorenko/
+         https://grad.berkeley.edu/news/housing-opportunity-for-graduate-students/
+    9  grad.berkeley.edu/office-for-graduate-diversity
+         https://grad.berkeley.edu/office-for-graduate-diversity/greetings-from-the-office-for-graduate-diversity/
+         https://grad.berkeley.edu/office-for-graduate-diversity/alishba-sardar-2024-regents-foster-youth-award/
+         https://grad.berkeley.edu/office-for-graduate-diversity/changing-academia-from-within-meet-one-of-berkeleys-uc-presidents-pre-professoriate-fellows/
+         https://grad.berkeley.edu/office-for-graduate-diversity/native-indigenous-graduate-students-help-build-a-more-culturally-responsive-campus/
+    8  grad.berkeley.edu/news/student-life
+         https://grad.berkeley.edu/news/student-life/in-their-own-words-meet-the-2016-17-graduate-assembly-executive-board/
+         https://grad.berkeley.edu/news/student-life/graduate-student-resource-series/
+         https://grad.berkeley.edu/news/student-life/graduate-assembly-officers/
+         https://grad.berkeley.edu/news/student-life/the-graduate-assembly-is-hiring/
+    8  grad.berkeley.edu/news/announcements/campus
+         https://grad.berkeley.edu/news/announcements/campus/the-berkeley-graduate-3/
+         https://grad.berkeley.edu/news/announcements/campus/master-fine-arts-graduate-exhibition/
+         https://grad.berkeley.edu/news/announcements/campus/essential-information-for-international-graduate-students/
+         https://grad.berkeley.edu/news/announcements/campus/focus-groups-for-proposed-graduate-housing-project/
+    7  grad.berkeley.edu/american-indian-graduate-program/indigenous-leaders-150w
+         https://grad.berkeley.edu/american-indian-graduate-program/indigenous-leaders-150w/dr-olivia-chilcote/
+         https://grad.berkeley.edu/american-indian-graduate-program/indigenous-leaders-150w/amy-lonetree/
+         https://grad.berkeley.edu/american-indian-graduate-program/indigenous-leaders-150w/caitlin-keliiaa/
+         https://grad.berkeley.edu/american-indian-graduate-program/indigenous-leaders-150w/lanada-war-jack-2/
+    7  grad.berkeley.edu/news/professional-development
+         https://grad.berkeley.edu/news/professional-development/graduate-career-consortium/
+         https://grad.berkeley.edu/news/professional-development/smart-graduate-application-deadline/
+         https://grad.berkeley.edu/news/professional-development/graduate-professional-services/
+         https://grad.berkeley.edu/news/professional-development/master-these-six-skills-for-your-success-at-berkeley-and-beyond/
+    6  grad.berkeley.edu/news/dean
+         https://grad.berkeley.edu/news/dean/its-challenging-to-balance-graduate-student-responsibilities-these-tips-can-help/
+         https://grad.berkeley.edu/news/dean/my-goals-for-the-graduate-division/
+         https://grad.berkeley.edu/news/dean/resources-for-self-care-and-graduate-student-support/
+         https://grad.berkeley.edu/news/dean/learn-about-new-graduate-student-accommodations-and-resources/
+    4  grad.berkeley.edu/academics/program-options/program-proposals
+         https://grad.berkeley.edu/academics/program-options/program-proposals/by-laws-templates/masters-phd-bylaws/
+         https://grad.berkeley.edu/academics/program-options/program-proposals/state-supported/state-supported-masters/
+         https://grad.berkeley.edu/academics/program-options/program-proposals/state-supported/state-supported-mastersphd/
+         https://grad.berkeley.edu/academics/program-options/program-proposals/self-supported/self-supported-masters/
+    4  grad.berkeley.edu/news/headlines/honors-awards
+         https://grad.berkeley.edu/news/headlines/honors-awards/berkeley-tops-the-list-of-new-doe-graduate-fellowships-recipients/
+         https://grad.berkeley.edu/news/headlines/honors-awards/fellowship-graduate-assessment/
+         https://grad.berkeley.edu/news/headlines/honors-awards/doctoral-student-receives-the-paul-crissey-graduate-student-research-award/
+         https://grad.berkeley.edu/news/headlines/honors-awards/2015-graduate-fellows/
+    4  grad.berkeley.edu/resources-for-undocumented-graduate-students
+         https://grad.berkeley.edu/resources-for-undocumented-graduate-students/legal-support-for-undocumented-graduate-students/
+         https://grad.berkeley.edu/resources-for-undocumented-graduate-students/faculty-and-staff-support-for-undocumented-graduate-students/
+         https://grad.berkeley.edu/resources-for-undocumented-graduate-students/funding-support-for-undocumented-graduate-students/
+         https://grad.berkeley.edu/resources-for-undocumented-graduate-students/wellness-support-for-undocumented-graduate-students/
+    3  grad.berkeley.edu/about/graduate-diversity/diversity-funding-opportunities
+         https://grad.berkeley.edu/about/graduate-diversity/diversity-funding-opportunities/diversity-community-fellows-program/day-in-the-life-diversity-community-fellow/
+         https://grad.berkeley.edu/about/graduate-diversity/diversity-funding-opportunities/native-american-graduate-student-funding/
+         https://grad.berkeley.edu/about/graduate-diversity/diversity-funding-opportunities/the-future-of-higher-education-postdoctoral-fellowship-program/
+    3  grad.berkeley.edu/admissions/why-berkeley
+         https://grad.berkeley.edu/admissions/why-berkeley/prospective-american-indian-graduate-students/
+         https://grad.berkeley.edu/admissions/why-berkeley/prospective-undocumented-graduate-students/
+         https://grad.berkeley.edu/admissions/why-berkeley/graduate-diversity-admissions-fair/
+    3  grad.berkeley.edu/news/egrad
+         https://grad.berkeley.edu/news/egrad/graduate-advocacy/
+         https://grad.berkeley.edu/news/egrad/how-to-deal-with-imposter-syndrome-in-graduate-and-professional-school/
+         https://grad.berkeley.edu/news/egrad/hellman-graduate-awards/
+    3  grad.berkeley.edu/chooseberkeley
+         https://grad.berkeley.edu/chooseberkeley/graduate-student-journey-from-acceptance-to-fellowship/
+         https://grad.berkeley.edu/chooseberkeley/upcoming-office-hour-events-for-prospective-graduate-students/
+         https://grad.berkeley.edu/chooseberkeley/berkeley-faculty-support-graduate-students-like-me/
+    3  grad.berkeley.edu/category
+         https://grad.berkeley.edu/category/office-for-graduate-diversity/
+         https://grad.berkeley.edu/category/graduate-writing-center/
+         https://grad.berkeley.edu/category/resources-for-undocumented-graduate-students/
+    3  grad.berkeley.edu/events-calendar/category
+         https://grad.berkeley.edu/events-calendar/category/graduate-writing-center/
+         https://grad.berkeley.edu/events-calendar/category/new-graduate-student-orientation/
+         https://grad.berkeley.edu/events-calendar/category/graduate-diversity/
+    2  grad.berkeley.edu/graduate-diversity
+         https://grad.berkeley.edu/graduate-diversity/anti-racism-initiatives/
+         https://grad.berkeley.edu/graduate-diversity/graduate-diversity-task-force/
+    2  grad.berkeley.edu/american-indian-graduate-program
+         https://grad.berkeley.edu/american-indian-graduate-program/indigenous-leaders-150w/
+         https://grad.berkeley.edu/american-indian-graduate-program/

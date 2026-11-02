@@ -1,0 +1,73 @@
+# open-university https://www.open.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1601 · master's-looking 506
+  257  www.open.ac.uk/postgraduate/research-degrees/research-areas
+         https://www.open.ac.uk/postgraduate/research-degrees/research-areas/acoustics/
+         https://www.open.ac.uk/postgraduate/research-degrees/research-areas/art-history/
+         https://www.open.ac.uk/postgraduate/research-degrees/research-areas/astrobiology/
+         https://www.open.ac.uk/postgraduate/research-degrees/research-areas/astronomy/
+  103  www.open.ac.uk/postgraduate/modules
+         https://www.open.ac.uk/postgraduate/modules/a802/
+         https://www.open.ac.uk/postgraduate/modules/a803/
+         https://www.open.ac.uk/postgraduate/modules/a843/
+         https://www.open.ac.uk/postgraduate/modules/a844/
+   74  www.open.ac.uk/postgraduate/qualifications
+         https://www.open.ac.uk/postgraduate/qualifications/c20/
+         https://www.open.ac.uk/postgraduate/qualifications/c29/
+         https://www.open.ac.uk/postgraduate/qualifications/c49/
+         https://www.open.ac.uk/postgraduate/qualifications/c66/
+   15  www.open.ac.uk/postgraduate/fees-and-funding
+         https://www.open.ac.uk/postgraduate/fees-and-funding/pgce-fees-and-funding/
+         https://www.open.ac.uk/postgraduate/fees-and-funding/creative-writing-scholarship/
+         https://www.open.ac.uk/postgraduate/fees-and-funding/credit-debit-card/
+         https://www.open.ac.uk/postgraduate/fees-and-funding/credit-transfer/
+   14  www.open.ac.uk/postgraduate
+         https://www.open.ac.uk/postgraduate/atoz/
+         https://www.open.ac.uk/postgraduate/atoz-subjects/
+         https://www.open.ac.uk/postgraduate/types/
+         https://www.open.ac.uk/postgraduate/masters-degrees/
+    8  www.open.ac.uk/postgraduate/research-degrees/being-an-ou-research-student
+         https://www.open.ac.uk/postgraduate/research-degrees/being-an-ou-research-student/affiliated-research-centres/
+         https://www.open.ac.uk/postgraduate/research-degrees/being-an-ou-research-student/developing-research-skills/
+         https://www.open.ac.uk/postgraduate/research-degrees/being-an-ou-research-student/overseas-students/
+         https://www.open.ac.uk/postgraduate/research-degrees/being-an-ou-research-student/life-on-campus/
+    7  www.open.ac.uk/postgraduate/research-degrees
+         https://www.open.ac.uk/postgraduate/research-degrees/how-to-apply/
+         https://www.open.ac.uk/postgraduate/research-degrees/being-an-ou-research-student/
+         https://www.open.ac.uk/postgraduate/research-degrees/degrees-we-offer/
+         https://www.open.ac.uk/postgraduate/research-degrees/fees-and-studentships/
+    6  www.open.ac.uk/postgraduate/postgraduate-study
+         https://www.open.ac.uk/postgraduate/postgraduate-study/disability-support/
+         https://www.open.ac.uk/postgraduate/postgraduate-study/entry-requirements/
+         https://www.open.ac.uk/postgraduate/postgraduate-study/how-study-works/
+         https://www.open.ac.uk/postgraduate/postgraduate-study/qualifications/
+    5  www.open.ac.uk/postgraduate/research-degrees/degrees-we-offer
+         https://www.open.ac.uk/postgraduate/research-degrees/degrees-we-offer/doctor-of-philosophy-phd/
+         https://www.open.ac.uk/postgraduate/research-degrees/degrees-we-offer/full-time-study/
+         https://www.open.ac.uk/postgraduate/research-degrees/degrees-we-offer/master-of-philosophy-mphil/
+         https://www.open.ac.uk/postgraduate/research-degrees/degrees-we-offer/part-time-study/
+    5  www.open.ac.uk/postgraduate/research-degrees/fees-and-studentships
+         https://www.open.ac.uk/postgraduate/research-degrees/fees-and-studentships/doctoral-training-partnerships/
+         https://www.open.ac.uk/postgraduate/research-degrees/fees-and-studentships/fees-what-you-need-to-pay/
+         https://www.open.ac.uk/postgraduate/research-degrees/fees-and-studentships/additional-funding/
+         https://www.open.ac.uk/postgraduate/research-degrees/fees-and-studentships/sponsorship/
+    4  www.open.ac.uk/postgraduate/research-degrees/how-to-apply
+         https://www.open.ac.uk/postgraduate/research-degrees/how-to-apply/doctoral-training-partnership-studentships/
+         https://www.open.ac.uk/postgraduate/research-degrees/how-to-apply/international-research-student-applications/
+         https://www.open.ac.uk/postgraduate/research-degrees/how-to-apply/mphil-and-phd-application-process/
+         https://www.open.ac.uk/postgraduate/research-degrees/how-to-apply/professional-doctorates-process/
+    2  www.open.ac.uk/courses/physics/degrees
+         https://www.open.ac.uk/courses/physics/degrees/integrated-master-of-physics-m06/
+         https://www.open.ac.uk/courses/physics/degrees/integrated-masters-of-physics-astrophysics-with-space-science-m06-ast/
+    1  www.open.ac.uk/courses
+         https://www.open.ac.uk/courses/integrated-masters/
+    1  www.open.ac.uk/postgraduate/qualification
+         https://www.open.ac.uk/postgraduate/qualification/f27/
+    1  www.open.ac.uk/courses/engineering/degrees
+         https://www.open.ac.uk/courses/engineering/degrees/integrated-master-of-engineering-m04/
+    1  www.open.ac.uk/courses/environment/degrees
+         https://www.open.ac.uk/courses/environment/degrees/integrated-master-of-environmental-science-m05/
+    1  www.open.ac.uk/courses/law/degrees
+         https://www.open.ac.uk/courses/law/degrees/bachelor-of-laws-graduate-entry-r82/
+    1  www.open.ac.uk/courses/health-social-care/certificates
+         https://www.open.ac.uk/courses/health-social-care/certificates/graduate-certificate-in-public-health-s06/

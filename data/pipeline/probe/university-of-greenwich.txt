@@ -1,0 +1,52 @@
+# university-of-greenwich https://www.gre.ac.uk
+robots sitemaps: https://www.gre.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1677 · master's-looking 387
+  114  www.gre.ac.uk/undergraduate-courses/engsci
+         https://www.gre.ac.uk/undergraduate-courses/engsci/games-design-and-development-modelling-and-animation-bsc-hons
+         https://www.gre.ac.uk/undergraduate-courses/engsci/games-design-and-development-programming-bsc-hons
+         https://www.gre.ac.uk/undergraduate-courses/engsci/hnc-construction-management-for-england
+         https://www.gre.ac.uk/undergraduate-courses/engsci/agriculture-final-year-entry-hadlow
+   58  www.gre.ac.uk/postgraduate-courses/engsci
+         https://www.gre.ac.uk/postgraduate-courses/engsci/advanced-chemical-engineering-msc
+         https://www.gre.ac.uk/postgraduate-courses/engsci/agrsustdev
+         https://www.gre.ac.uk/postgraduate-courses/engsci/foodsaf
+         https://www.gre.ac.uk/postgraduate-courses/engsci/applied-food-safety-and-quality-management-with-industrial-practice-msc
+   46  www.gre.ac.uk/postgraduate-courses/eduhea
+         https://www.gre.ac.uk/postgraduate-courses/eduhea/aphsc
+         https://www.gre.ac.uk/postgraduate-courses/eduhea/advanced-clinical-practitioner-msc-hons-degree-apprenticeship
+         https://www.gre.ac.uk/postgraduate-courses/eduhea/assessment-only
+         https://www.gre.ac.uk/postgraduate-courses/eduhea/awa-cre
+   45  www.gre.ac.uk/undergraduate-courses/eduhea
+         https://www.gre.ac.uk/undergraduate-courses/eduhea/adult-nursing-bsc-hons
+         https://www.gre.ac.uk/undergraduate-courses/eduhea/adult-nursing-bsc-hons-degree-apprenticeship
+         https://www.gre.ac.uk/undergraduate-courses/eduhea/business-psychology-bsc-hons
+         https://www.gre.ac.uk/undergraduate-courses/eduhea/childrens-nursing-bsc-hons
+   41  www.gre.ac.uk/undergraduate-courses/ach
+         https://www.gre.ac.uk/undergraduate-courses/ach/animation-ba-hons
+         https://www.gre.ac.uk/undergraduate-courses/ach/architecture-ba-hons
+         https://www.gre.ac.uk/undergraduate-courses/ach/creative-writing-and-english-literature-ba-hons
+         https://www.gre.ac.uk/undergraduate-courses/ach/creative-writing-ba-hons
+   37  www.gre.ac.uk/undergraduate-courses/business-school
+         https://www.gre.ac.uk/undergraduate-courses/business-school/accounting-finance-extended-ba-hons
+         https://www.gre.ac.uk/undergraduate-courses/business-school/accounting-finance-ba-hons
+         https://www.gre.ac.uk/undergraduate-courses/business-school/accounting-finance-year-three-direct-entry
+         https://www.gre.ac.uk/undergraduate-courses/business-school/accounting-financial-information-systems-ba-hons
+   21  www.gre.ac.uk/postgraduate-courses/bus
+         https://www.gre.ac.uk/postgraduate-courses/bus/accfin
+         https://www.gre.ac.uk/postgraduate-courses/bus/busphd
+         https://www.gre.ac.uk/postgraduate-courses/bus/econ
+         https://www.gre.ac.uk/postgraduate-courses/bus/execmba
+   20  www.gre.ac.uk/postgraduate-courses/ach
+         https://www.gre.ac.uk/postgraduate-courses/ach/applied-linguistics-ma
+         https://www.gre.ac.uk/postgraduate-courses/ach/architectural-practice-pgdip-arb-riba-part-3-exemption
+         https://www.gre.ac.uk/postgraduate-courses/ach/architecture-landscape-and-urbanism-msc
+         https://www.gre.ac.uk/postgraduate-courses/ach/architecture-part-2-march
+    2  www.gre.ac.uk/people/rep/faculty-of-engineering-and-science
+         https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/jixin-ma
+         https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/chaoying-ma
+    1  www.gre.ac.uk/alumni
+         https://www.gre.ac.uk/alumni/graduate-outcomes
+    1  www.gre.ac.uk/undergraduate-courses
+         https://www.gre.ac.uk/undergraduate-courses
+    1  www.gre.ac.uk/postgraduate-courses
+         https://www.gre.ac.uk/postgraduate-courses

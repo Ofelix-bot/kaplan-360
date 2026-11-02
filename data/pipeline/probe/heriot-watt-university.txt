@@ -1,0 +1,128 @@
+# heriot-watt-university https://www.hw.ac.uk
+robots sitemaps: https://www.hw.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 5919 · master's-looking 575
+   85  www.hw.ac.uk/study/undergraduate
+         https://www.hw.ac.uk/study/undergraduate/accountancy-and-finance
+         https://www.hw.ac.uk/study/undergraduate/actuarial-science
+         https://www.hw.ac.uk/study/undergraduate/actuarial-science-and-diploma-in-industrial-training
+         https://www.hw.ac.uk/study/undergraduate/aerospace-engineering
+   82  www.hw.ac.uk/study/postgraduate
+         https://www.hw.ac.uk/study/postgraduate/actuarial-management
+         https://www.hw.ac.uk/study/postgraduate/actuarial-management-with-data-science
+         https://www.hw.ac.uk/study/postgraduate/actuarial-science
+         https://www.hw.ac.uk/study/postgraduate/actuarial-science-management
+   53  www.hw.ac.uk/alumni/stay-connected/honorary-graduates
+         https://www.hw.ac.uk/alumni/stay-connected/honorary-graduates/abdullah-bin-mohammed-belhaif-al-nuaimi
+         https://www.hw.ac.uk/alumni/stay-connected/honorary-graduates/alex-balfour
+         https://www.hw.ac.uk/alumni/stay-connected/honorary-graduates/alice-thompson
+         https://www.hw.ac.uk/alumni/stay-connected/honorary-graduates/alison-watson
+   44  www.hw.ac.uk/about/our-schools/energy-geoscience-infrastructure-and-society
+         https://www.hw.ac.uk/about/our-schools/energy-geoscience-infrastructure-and-society/about-us/our-graduates
+         https://www.hw.ac.uk/about/our-schools/energy-geoscience-infrastructure-and-society/about-us/our-graduates/heriot-watt-online-learning-profiles
+         https://www.hw.ac.uk/about/our-schools/energy-geoscience-infrastructure-and-society/about-us/our-graduates/heriot-watt-online-learning-profiles/alejandro-jimenez
+         https://www.hw.ac.uk/about/our-schools/energy-geoscience-infrastructure-and-society/about-us/our-graduates/heriot-watt-online-learning-profiles/andrew-marshall
+   28  www.hw.ac.uk/online/study/postgraduate
+         https://www.hw.ac.uk/online/study/postgraduate/advanced-concrete-technology
+         https://www.hw.ac.uk/online/study/postgraduate/advanced-sustainability-for-brewing-and-distilling
+         https://www.hw.ac.uk/online/study/postgraduate/brewing-and-distilling
+         https://www.hw.ac.uk/online/study/postgraduate/building-services-engineering
+   25  www.hw.ac.uk/dubai/study/postgraduate
+         https://www.hw.ac.uk/dubai/study/postgraduate/applied-cybersecurity-msc
+         https://www.hw.ac.uk/dubai/study/postgraduate/business-analytics-and-consultancy
+         https://www.hw.ac.uk/dubai/study/postgraduate/business-psychology
+         https://www.hw.ac.uk/dubai/study/postgraduate/business-psychology-with-coaching
+   25  www.hw.ac.uk/dubai/study/undergraduate
+         https://www.hw.ac.uk/dubai/study/undergraduate/accountancy-finance
+         https://www.hw.ac.uk/dubai/study/undergraduate/automotive-engineering
+         https://www.hw.ac.uk/dubai/study/undergraduate/bachelor-business-administration
+         https://www.hw.ac.uk/dubai/study/undergraduate/business-and-finance
+   22  www.hw.ac.uk/research-enterprise/discovery/graduate-apprenticeships
+         https://www.hw.ac.uk/research-enterprise/discovery/graduate-apprenticeships/graduate-apprenticeships-frequently-asked-questions
+         https://www.hw.ac.uk/research-enterprise/discovery/graduate-apprenticeships/our-stories
+         https://www.hw.ac.uk/research-enterprise/discovery/graduate-apprenticeships/our-stories/addressing-construction-skills-shortages-grahams-investment-in-graduate-apprenticeships
+         https://www.hw.ac.uk/research-enterprise/discovery/graduate-apprenticeships/our-stories/arcadis
+   17  www.hw.ac.uk/malaysia/study/undergraduate
+         https://www.hw.ac.uk/malaysia/study/undergraduate/accounting-and-business-finance-ma
+         https://www.hw.ac.uk/malaysia/study/undergraduate/actuarial-science-bsc-hons
+         https://www.hw.ac.uk/malaysia/study/undergraduate/business-finance
+         https://www.hw.ac.uk/malaysia/study/undergraduate/business-management-ma
+   14  www.hw.ac.uk/news/2024
+         https://www.hw.ac.uk/news/2024/ai-graduate-is-third-generation-of-his-family-to-study-at-heriot-watt-university
+         https://www.hw.ac.uk/news/2024/closing-scotlands-skills-gap-the-crucial-role-of-graduate-apprenticeships
+         https://www.hw.ac.uk/news/2024/heriot-watt-graduates-top-employability-in-scotland-and-rank-among-uks-best
+         https://www.hw.ac.uk/news/2024/heriot-watt-launches-online-msc-computer-science-to-address-global-tech-skills-shortage
+   11  www.hw.ac.uk/about/our-schools/engineering-and-physical-sciences
+         https://www.hw.ac.uk/about/our-schools/engineering-and-physical-sciences/about/our-graduates
+         https://www.hw.ac.uk/about/our-schools/engineering-and-physical-sciences/research/postgraduate-research
+         https://www.hw.ac.uk/about/our-schools/engineering-and-physical-sciences/research/postgraduate-research/fees-and-finance
+         https://www.hw.ac.uk/about/our-schools/engineering-and-physical-sciences/research/postgraduate-research/how-to-apply
+   10  www.hw.ac.uk/news/blog/2025
+         https://www.hw.ac.uk/news/blog/2025/behind-the-scenes-of-heriot-watts-online-msc-computer-science
+         https://www.hw.ac.uk/news/blog/2025/earn-industry-certifications-with-heriot-watts-online-msc-in-computer-science
+         https://www.hw.ac.uk/news/blog/2025/edinburgh-business-school-launches-online-mba-with-a-specialism-in-professional-practice
+         https://www.hw.ac.uk/news/blog/2025/heriot-watts-professional-academy-a-new-way-to-stand-out-and-start-your-postgraduate-journey
+    9  www.hw.ac.uk/campuses/edinburgh/accommodation
+         https://www.hw.ac.uk/campuses/edinburgh/accommodation/postgraduate-accommodation
+         https://www.hw.ac.uk/campuses/edinburgh/accommodation/postgraduate-accommodation/contemporary-en-suite-room-in-a-flat
+         https://www.hw.ac.uk/campuses/edinburgh/accommodation/postgraduate-accommodation/contemporary-studio
+         https://www.hw.ac.uk/campuses/edinburgh/accommodation/postgraduate-accommodation/traditional-en-suite-room
+    8  www.hw.ac.uk/news/2023
+         https://www.hw.ac.uk/news/2023/bakery-business-in-zambia-is-fruit-of-heriot-watt-mba-scholarship
+         https://www.hw.ac.uk/news/2023/dato-mohammad-faiz-azmi-shares-business-insights-at-the-mba-ceo-faculty-lecture-series
+         https://www.hw.ac.uk/news/2023/founder-and-ceo-of-aerodyne-group-discusses-ai-at-the-mba-ceo-faculty-lecture-series
+         https://www.hw.ac.uk/news/2023/highest-percentage-of-uk-ceos-graduate-from-heriot-watt-university
+    8  www.hw.ac.uk/online
+         https://www.hw.ac.uk/online/mba
+         https://www.hw.ac.uk/online/mba-essentials
+         https://www.hw.ac.uk/online/mba-essentials-alumni
+         https://www.hw.ac.uk/online/mba-hub
+    7  www.hw.ac.uk/news/blog/2026
+         https://www.hw.ac.uk/news/blog/2026/bringing-postgraduate-research-to-life-the-3rd-annual-lyell-pgr-symposium
+         https://www.hw.ac.uk/news/blog/2026/from-iraq-to-edinburgh-yasir-celebrates-his-mba-achievement
+         https://www.hw.ac.uk/news/blog/2026/is-masters-worth-it
+         https://www.hw.ac.uk/news/blog/2026/leading-a-pathway-to-practice-our-civil-engineering-graduate-apprenticeship
+    6  www.hw.ac.uk/dubai/study/fees-and-funding
+         https://www.hw.ac.uk/dubai/study/fees-and-funding/scholarships-and-discounts/edinburgh-business-school-shaping-women-entrepreneurs-mba-scholarship
+         https://www.hw.ac.uk/dubai/study/fees-and-funding/scholarships-and-discounts/edinburgh-business-school-tomorrows-leaders-mba-scholarship
+         https://www.hw.ac.uk/dubai/study/fees-and-funding/scholarships-and-discounts/mba-20th-anniversary-scholarship
+         https://www.hw.ac.uk/dubai/study/fees-and-funding/scholarships-and-discounts/postgraduate-merit-scholarship
+    6  www.hw.ac.uk/news/2022
+         https://www.hw.ac.uk/news/2022/dubai-2040-urban-master-plan-brings-positive-vibes-to-the-industry
+         https://www.hw.ac.uk/news/2022/global-award-for-mba-that-is-transforming-communities-in-lebanon
+         https://www.hw.ac.uk/news/2022/graduate-apprentices-journey-from-afghanistan-to-award-success
+         https://www.hw.ac.uk/news/2022/master-jury-selects-heriot-watt-spinout-for-top-sustainability-award
+    6  www.hw.ac.uk/news/2025
+         https://www.hw.ac.uk/news/2025/heriot-watt-launches-new-master-of-architecture-degree-with-focus-on-sustainability
+         https://www.hw.ac.uk/news/2025/heriot-watt-named-employers-preferred-choice-in-graduate-employability-survey
+         https://www.hw.ac.uk/news/2025/hwum-hosts-mba-ceo-faculty-lecture-featuring-dato-ir.-ts.-izwan-hasli-1
+         https://www.hw.ac.uk/news/2025/innovative-heriot-watt-students-staff-and-graduates-are-shortlisted-in-converge-2025
+    6  www.hw.ac.uk/news/2026
+         https://www.hw.ac.uk/news/2026/award-winning-author-graduates-after-standout-heriot-watt-journey
+         https://www.hw.ac.uk/news/2026/breaking-barriers-in-brewing-heriot-watt-graduate-among-scotlands-leading-female-brewers
+         https://www.hw.ac.uk/news/2026/double-award-success-for-former-heriot-watt-graduate-apprentice
+         https://www.hw.ac.uk/news/2026/heriot-watt-fashion-graduates-take-centre-stage-at-va-dundee-1
+    6  www.hw.ac.uk/students/careers-service/supporting-our-students-and-graduates
+         https://www.hw.ac.uk/students/careers-service/supporting-our-students-and-graduates/bitesize-career-skills
+         https://www.hw.ac.uk/students/careers-service/supporting-our-students-and-graduates/careers-support-for-graduates
+         https://www.hw.ac.uk/students/careers-service/supporting-our-students-and-graduates/graduate-outcomes-survey
+         https://www.hw.ac.uk/students/careers-service/supporting-our-students-and-graduates/hw-online-and-idl-students
+    6  www.hw.ac.uk/study/graduate-apprenticeships
+         https://www.hw.ac.uk/study/graduate-apprenticeships/beng-hons-civil-engineering
+         https://www.hw.ac.uk/study/graduate-apprenticeships/engineering-design-and-manufacture
+         https://www.hw.ac.uk/study/graduate-apprenticeships/engineering-design-and-manufacture-electronic
+         https://www.hw.ac.uk/study/graduate-apprenticeships/it-software-development-for-business
+    5  www.hw.ac.uk/news/blog/2024
+         https://www.hw.ac.uk/news/blog/2024/an-introduction-to-online-msc-business-analytics
+         https://www.hw.ac.uk/news/blog/2024/mba-scholarship-for-women-in-zambia-extended
+         https://www.hw.ac.uk/news/blog/2024/online-msc-business-and-organisational-psychology-gains-accreditation
+         https://www.hw.ac.uk/news/blog/2024/shape-your-future-in-tech-with-heriot-watts-online-msc-in-computer-science
+    5  www.hw.ac.uk/research-enterprise/research/research-environment
+         https://www.hw.ac.uk/research-enterprise/research/research-environment/postgraduate-opportunities
+         https://www.hw.ac.uk/research-enterprise/research/research-environment/postgraduate-opportunities/centres-for-doctoral-training
+         https://www.hw.ac.uk/research-enterprise/research/research-environment/postgraduate-opportunities/current-opportunities
+         https://www.hw.ac.uk/research-enterprise/research/research-environment/postgraduate-opportunities/epsrc-doctoral-training-partnership
+    5  www.hw.ac.uk/students/careers-service/dubai-campus
+         https://www.hw.ac.uk/students/careers-service/dubai-campus/supporting-our-students-and-graduates
+         https://www.hw.ac.uk/students/careers-service/dubai-campus/supporting-our-students-and-graduates/career-support-for-students
+         https://www.hw.ac.uk/students/careers-service/dubai-campus/supporting-our-students-and-graduates/career-support-for-students/career-mentoring-programme
+         https://www.hw.ac.uk/students/careers-service/dubai-campus/supporting-our-students-and-graduates/career-support-for-students/volunteering

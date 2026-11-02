@@ -1,0 +1,71 @@
+# curtin-university@1 https://www.curtin.edu.au
+robots sitemaps: https://curtin.edu.au/sitemap.xml https://www.curtin.edu.au/about/page-sitemap1.xml https://www.curtin.edu.au/engage/page-sitemap1.xml https://www.curtin.edu.au/study/pd-sitemap1.xml https://www.curtin.edu.au/study/page-sitemap1.xml https://www.curtin.edu.au/study/extras-sitemap1.xml https://www.curtin.edu.au/news/extras-sitemap1.xml https://www.curtin.edu.au/news/media-release-sitemap2.xml · crawl-delay: null · AI-agent groups: 0
+index https://curtin.edu.au/sitemap.xml: 2 children (1 course-like)
+sitemaps read 10 · urls 1948 · master's-looking 78
+   21  www.curtin.edu.au/news/media-release
+         https://www.curtin.edu.au/news/media-release/unemployed-young-men-graduate-work-ready-skills/
+         https://www.curtin.edu.au/news/media-release/decorated-wa-school-of-mines-graduate-returns-as-first-female-director/
+         https://www.curtin.edu.au/news/media-release/curtins-school-of-education-graduates-shine-at-annual-awards/
+         https://www.curtin.edu.au/news/media-release/curtin-education-awards-showcase-excellence-amongst-recent-graduates/
+   11  www.curtin.edu.au/study/undergraduate
+         https://www.curtin.edu.au/study/undergraduate/mature-age-info-session/
+         https://www.curtin.edu.au/study/undergraduate/findu-quiz/
+         https://www.curtin.edu.au/study/undergraduate/double-degrees/
+         https://www.curtin.edu.au/study/undergraduate/honours/
+    9  www.curtin.edu.au/study/study-areas/business-management-law
+         https://www.curtin.edu.au/study/study-areas/business-management-law/postgraduate-innovation-and-international-business/
+         https://www.curtin.edu.au/study/study-areas/business-management-law/undergraduate-law/
+         https://www.curtin.edu.au/study/study-areas/business-management-law/postgraduate-marketing/
+         https://www.curtin.edu.au/study/study-areas/business-management-law/postgraduate-accounting-finance-tax/
+    6  www.curtin.edu.au/study/prof-development
+         https://www.curtin.edu.au/study/prof-development/digital-engagement-masterclass-series/
+         https://www.curtin.edu.au/study/prof-development/wa-african-australian-business-masterclass/
+         https://www.curtin.edu.au/study/prof-development/project-management-masterclass-series/
+         https://www.curtin.edu.au/study/prof-development/esg-and-sustainability-mastering-mandatory-climate-reporting/
+    4  www.curtin.edu.au/study/study-areas/arts-creative-industries
+         https://www.curtin.edu.au/study/study-areas/arts-creative-industries/undergraduate-creative-arts-communications/
+         https://www.curtin.edu.au/study/study-areas/arts-creative-industries/postgraduate-design/
+         https://www.curtin.edu.au/study/study-areas/arts-creative-industries/undergraduate-design-and-digital-creative-industries/
+         https://www.curtin.edu.au/study/study-areas/arts-creative-industries/postgraduate-communications/
+    4  www.curtin.edu.au/study/applying/domestic
+         https://www.curtin.edu.au/study/applying/domestic/how-to-apply/postgraduate/
+         https://www.curtin.edu.au/study/applying/domestic/how-to-apply/undergraduate/
+         https://www.curtin.edu.au/study/applying/domestic/how-to-apply/undergraduate/tisc-offer-rounds/
+         https://www.curtin.edu.au/study/applying/domestic/how-to-apply/undergraduate/tisc-applications/
+    3  www.curtin.edu.au/study/professional-development/executive-education
+         https://www.curtin.edu.au/study/professional-development/executive-education/masterclasses/previous-masterclasses/
+         https://www.curtin.edu.au/study/professional-development/executive-education/moc-masterclasses/
+         https://www.curtin.edu.au/study/professional-development/executive-education/masterclasses/
+    3  www.curtin.edu.au/study/applying/inherent-requirements
+         https://www.curtin.edu.au/study/applying/inherent-requirements/inherent-requirements-for-postgraduate-psychology-courses/
+         https://www.curtin.edu.au/study/applying/inherent-requirements/inherent-requirements-for-the-undergraduate-certificate-in-psychology/
+         https://www.curtin.edu.au/study/applying/inherent-requirements/inherent-requirements-for-undergraduate-psychology-courses/
+    2  www.curtin.edu.au/study/study-areas/culture-society-indigenous
+         https://www.curtin.edu.au/study/study-areas/culture-society-indigenous/undergraduate-social-sciences/
+         https://www.curtin.edu.au/study/study-areas/culture-society-indigenous/postgraduate-global-futures/
+    2  www.curtin.edu.au/study/study-areas/health
+         https://www.curtin.edu.au/study/study-areas/health/postgraduate-health/graduate-entry-masters/
+         https://www.curtin.edu.au/study/study-areas/health/postgraduate-health/
+    2  www.curtin.edu.au/study/undergraduate/guidance-parents-carers
+         https://www.curtin.edu.au/study/undergraduate/guidance-parents-carers/transition-to-university/
+         https://www.curtin.edu.au/study/undergraduate/guidance-parents-carers/student-support-for-your-child/
+    2  www.curtin.edu.au/study/study-areas/engineering-mining-surveying
+         https://www.curtin.edu.au/study/study-areas/engineering-mining-surveying/undergraduate-engineering/
+         https://www.curtin.edu.au/study/study-areas/engineering-mining-surveying/undergraduate-engineering/engineering-foundation-year/
+    2  www.curtin.edu.au/study
+         https://www.curtin.edu.au/study/postgraduate-by-coursework/
+         https://www.curtin.edu.au/study/undergraduate/
+    1  www.curtin.edu.au/about/learning-teaching/business-and-law
+         https://www.curtin.edu.au/about/learning-teaching/business-and-law/about/advisory-network/mba-executive-education-advisory-board/
+    1  www.curtin.edu.au/study/study-areas/information-technology
+         https://www.curtin.edu.au/study/study-areas/information-technology/postgraduate-information-technology/
+    1  www.curtin.edu.au/study/study-areas/education
+         https://www.curtin.edu.au/study/study-areas/education/postgraduate-education/
+    1  www.curtin.edu.au/study/study-areas
+         https://www.curtin.edu.au/study/study-areas/science-engineering-postgraduate/
+    1  www.curtin.edu.au/study/study-areas/architecture-construction
+         https://www.curtin.edu.au/study/study-areas/architecture-construction/postgraduate-architecture-built-environment/
+    1  www.curtin.edu.au/study/study-areas/physical-sciences-geoscience-mathematics
+         https://www.curtin.edu.au/study/study-areas/physical-sciences-geoscience-mathematics/postgraduate-physical-science-geoscience-and-mathematics/
+    1  www.curtin.edu.au/study/study-areas/agriculture-environment-sustainability
+         https://www.curtin.edu.au/study/study-areas/agriculture-environment-sustainability/postgraduate-agriculture-environment-and-sustainability/

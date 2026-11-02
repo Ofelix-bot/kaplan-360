@@ -1,0 +1,72 @@
+{
+  "note": "Scholarships for Kaplan partner degrees; web quotes checked against their pages.",
+  "builtAt": "2026-10-19",
+  "items": [
+    {
+      "id": "murdoch-singapore-scholarships",
+      "provider": "kaplan",
+      "university": "Murdoch University",
+      "title": "Murdoch University Singapore Scholarships",
+      "short": "Murdoch scholarship · 50% off",
+      "value": "50% off tuition fees",
+      "places": "20 scholarships",
+      "categories": [
+        "Inclusive Education Scholarship",
+        "Academic Merit Scholarship",
+        "Leadership Scholarship"
+      ],
+      "eligibility": [
+        "Apply for an eligible Murdoch University programme offered in Singapore",
+        "Meet the admission requirements of the chosen programme",
+        "Submit a complete scholarship application with supporting documents",
+        "Demonstrate suitability for the selected scholarship category"
+      ],
+      "source": {
+        "kind": "web",
+        "url": "https://www.kaplan.com.sg/university/murdoch-university/scholarships"
+      },
+      "quotes": [
+        "20 Murdoch Singapore Scholarships.",
+        "50% Off Tuition Fees.",
+        "Murdoch University, in partnership with Kaplan Higher Education Academy, is offering 20 scholarships for eligible students pursuing a Murdoch programme in Singapore.",
+        "Inclusive Education Scholarship",
+        "Academic Merit Scholarship",
+        "Leadership Scholarship",
+        "Apply for an eligible Murdoch University programme offered in Singapore",
+        "Meet the admission requirements of the chosen programme",
+        "Submit a complete scholarship application with supporting documents",
+        "Demonstrate suitability for the selected scholarship category",
+        "Meeting the eligibility requirements does not guarantee the award of a scholarship."
+      ]
+    },
+    {
+      "id": "kaplan-progression-scholarship",
+      "provider": "kaplan",
+      "university": null,
+      "title": "Kaplan scholarship for continuing students",
+      "short": "Kaplan scholarship · up to S$10,000",
+      "value": "S$10,000 / S$7,500 / S$5,000 for the top three, set against the degree’s fees",
+      "places": "3 awards",
+      "categories": [],
+      "eligibility": [
+        "At least 90% attendance in every module",
+        "Pass every exam at the first attempt",
+        "An average of 85 or more across modules",
+        "Continue from a Kaplan diploma to a partner university’s bachelor’s degree (or from the bachelor’s to its master’s)",
+        "First instalment of fees paid"
+      ],
+      "source": {
+        "kind": "deck",
+        "page": 84
+      },
+      "quotes": [
+        "所有课程的出勤率必须达到90%或以上",
+        "所有课程考试必须一次通过",
+        "所有课程平均分数达到85分",
+        "学生在完成Kaplan文凭（大一）课程后需衔接合作大学的学士学位课程，或学生完成Kaplan合作大学的学士学位课程后攻读Kaplan合作大学的硕士学位课程",
+        "学生已缴付入学课程的第一期学费"
+      ]
+    }
+  ],
+  "dropped": []
+}

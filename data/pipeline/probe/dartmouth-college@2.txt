@@ -1,0 +1,4 @@
+# dartmouth-college@2 https://graduate.dartmouth.edu
+robots sitemaps: (none) · crawl-delay: 10 · AI-agent groups: 0
+sitemap https://graduate.dartmouth.edu/sitemap.xml: http HTTP 404
+sitemaps read 1 · urls 0 · master's-looking 0

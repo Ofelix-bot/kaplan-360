@@ -1,0 +1,84 @@
+# canterbury-christ-church-university https://www.canterbury.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 3328 · master's-looking 209
+  104  www.canterbury.ac.uk/study-here/courses/postgraduate
+         https://www.canterbury.ac.uk/study-here/courses/postgraduate/adult-nursing
+         https://www.canterbury.ac.uk/study-here/courses/postgraduate/advanced-clinical-practice
+         https://www.canterbury.ac.uk/study-here/courses/postgraduate/advanced-manufacturing-systems-and-technology
+         https://www.canterbury.ac.uk/study-here/courses/postgraduate/applied-linguistics
+   47  www.canterbury.ac.uk/new-students/course-essentials
+         https://www.canterbury.ac.uk/new-students/course-essentials/academic-practice-postgraduate-certificate-pgcap
+         https://www.canterbury.ac.uk/new-students/course-essentials/advanced-clinical-practice-with-non-medical-prescribing-msc
+         https://www.canterbury.ac.uk/new-students/course-essentials/advanced-clinical-practice-without-non-medical-prescribing-msc
+         https://www.canterbury.ac.uk/new-students/course-essentials/advanced-clinical-practitioner-with-non-medical-prescribing-degree-apprenticeship-msc
+    8  www.canterbury.ac.uk/news/2025
+         https://www.canterbury.ac.uk/news/2025/canterbury-christ-church-university-is-second-in-uk-for-graduates-in-employment
+         https://www.canterbury.ac.uk/news/2025/from-canterbury-to-the-baftas-cccu-graduate-celebrates-bafta-success
+         https://www.canterbury.ac.uk/news/2025/nearly-half-of-kmms-graduates-will-stay-in-the-south-east
+         https://www.canterbury.ac.uk/news/2025/outstanding-graduates-celebrated-at-canterbury-christ-church-university-alumni-awards
+    7  www.canterbury.ac.uk/study-here/explore-postgraduate/explore-postgraduate-research
+         https://www.canterbury.ac.uk/study-here/explore-postgraduate/explore-postgraduate-research/research-subject-areas
+         https://www.canterbury.ac.uk/study-here/explore-postgraduate/explore-postgraduate-research/research-subject-areas/business-and-management-tourism-hospitality-and-events
+         https://www.canterbury.ac.uk/study-here/explore-postgraduate/explore-postgraduate-research/research-subject-areas/education-childhood-and-youth-studies
+         https://www.canterbury.ac.uk/study-here/explore-postgraduate/explore-postgraduate-research/research-subject-areas/law-policing-and-criminal-justice
+    5  www.canterbury.ac.uk/school-and-college-engagement/activities
+         https://www.canterbury.ac.uk/school-and-college-engagement/activities/artificial-intelligence-challenges-and-opportunities-masterclass
+         https://www.canterbury.ac.uk/school-and-college-engagement/activities/cdio-wireframe-website-design-masterclass
+         https://www.canterbury.ac.uk/school-and-college-engagement/activities/detecting-deception-in-investigative-interviews-masterclass
+         https://www.canterbury.ac.uk/school-and-college-engagement/activities/ethics-in-criminal-investigation-masterclass
+    3  www.canterbury.ac.uk/events/2026
+         https://www.canterbury.ac.uk/events/2026/canterbury-campus-postgraduate-open-day
+         https://www.canterbury.ac.uk/events/2026/canterbury-campus-postgraduate-open-day-jun
+         https://www.canterbury.ac.uk/events/2026/explore-postgraduate-teacher-training-at-cccu-primary-secondary-and-further-education
+    3  www.canterbury.ac.uk/news/2024
+         https://www.canterbury.ac.uk/news/2024/kent-and-medway-medical-school-secures-1.14-million-to-support-undergraduate-medical-student-research-opportunities
+         https://www.canterbury.ac.uk/news/2024/new-analysis-reveals-graduates-in-every-region-earn-at-least-a-third-more
+         https://www.canterbury.ac.uk/news/2024/supporting-undergraduates-with-research-opportunities
+    3  www.canterbury.ac.uk/study-here/applying
+         https://www.canterbury.ac.uk/study-here/applying/applying-for-a-postgraduate-degree
+         https://www.canterbury.ac.uk/study-here/applying/applying-for-an-undergraduate-course
+         https://www.canterbury.ac.uk/study-here/applying/view-online-undergraduate-prospectus
+    3  www.canterbury.ac.uk/study-here
+         https://www.canterbury.ac.uk/study-here/explore-postgraduate
+         https://www.canterbury.ac.uk/study-here/explore-undergraduate
+         https://www.canterbury.ac.uk/study-here/postgraduate-one-click-apply
+    3  www.canterbury.ac.uk/study-here/explore-postgraduate
+         https://www.canterbury.ac.uk/study-here/explore-postgraduate/explore-postgraduate-research
+         https://www.canterbury.ac.uk/study-here/explore-postgraduate/what-is-a-postgraduate-degree
+         https://www.canterbury.ac.uk/study-here/explore-postgraduate/why-canterbury-christ-church-university-for-postgraduate-study
+    3  www.canterbury.ac.uk/study-here/international
+         https://www.canterbury.ac.uk/study-here/international/postgraduate
+         https://www.canterbury.ac.uk/study-here/international/the-graduate-route
+         https://www.canterbury.ac.uk/study-here/international/undergraduate
+    2  www.canterbury.ac.uk/blogs/2024
+         https://www.canterbury.ac.uk/blogs/2024/from-imposter-syndrome-to-budding-postgrad-mailes-story
+         https://www.canterbury.ac.uk/blogs/2024/were-top-20-for-graduates-in-employment-but-what-does-that-mean-for-you
+    2  www.canterbury.ac.uk/blogs/2026
+         https://www.canterbury.ac.uk/blogs/2026/developing-skills-driving-research-adedayos-journey-from-msc-to-phd
+         https://www.canterbury.ac.uk/blogs/2026/sorina-rotaru-alumni-story-adult-nursing-graduate-to-deputy-manager-at-rockdale-house
+    2  www.canterbury.ac.uk/news/2021
+         https://www.canterbury.ac.uk/news/2021/biosciences-and-music-graduate-features-in-forbes-under-30-listing
+         https://www.canterbury.ac.uk/news/2021/first-film-graduates-festival-success
+    2  www.canterbury.ac.uk/study-here/fees-and-funding/scholarships-and-bursaries
+         https://www.canterbury.ac.uk/study-here/fees-and-funding/scholarships-and-bursaries/closing-our-gap-masters-by-research-scholarships
+         https://www.canterbury.ac.uk/study-here/fees-and-funding/scholarships-and-bursaries/msc-horticulture
+    1  www.canterbury.ac.uk/blogs/2025
+         https://www.canterbury.ac.uk/blogs/2025/what-is-postgraduate-study
+    1  www.canterbury.ac.uk/blogs
+         https://www.canterbury.ac.uk/blogs/from-msc-clinical-psychology-to-assistant-psychologist-connors-journey
+    1  www.canterbury.ac.uk/business
+         https://www.canterbury.ac.uk/business/work-with-our-students-and-graduates
+    1  www.canterbury.ac.uk/business/work-with-our-students-and-graduates
+         https://www.canterbury.ac.uk/business/work-with-our-students-and-graduates/industry-projects-for-students
+    1  www.canterbury.ac.uk/news/2023
+         https://www.canterbury.ac.uk/news/2023/canterbury-christ-church-university-is-number-one-in-the-uk-for-graduates-in-employment
+    1  www.canterbury.ac.uk/student
+         https://www.canterbury.ac.uk/student/postgraduate-taught-guide-to-assessment-and-award-processes-2024-25
+    1  www.canterbury.ac.uk/study-here/applying/visit-us
+         https://www.canterbury.ac.uk/study-here/applying/visit-us/thanks-for-booking-a-postgraduate-event
+    1  www.canterbury.ac.uk/study-here/apprenticeships
+         https://www.canterbury.ac.uk/study-here/apprenticeships/postgraduate-teacher-apprenticeship
+    1  www.canterbury.ac.uk/study-here/cccu-approach
+         https://www.canterbury.ac.uk/study-here/cccu-approach/postgraduate-challenge-modules
+    1  www.canterbury.ac.uk/study-here/courses
+         https://www.canterbury.ac.uk/study-here/courses/postgraduate

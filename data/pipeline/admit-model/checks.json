@@ -1,0 +1,27 @@
+{
+ "hongKongSlope": {
+  "programmes": 375,
+  "oddsRatioPerPoint": {
+   "q1": 1.121,
+   "median": 1.151,
+   "q3": 1.166
+  },
+  "paper": {
+   "oddsRatioPerPoint": 1.15,
+   "cutOff": 86.05,
+   "cutOff4": 3.635,
+   "source": "Huang, Wang & Shu (2024), doi:10.56028/aetr.11.1.507.2024"
+  },
+  "ok": true,
+  "admittedMedianK": 3.571
+ },
+ "singaporeSlope": {
+  "programmes": 139,
+  "oddsRatioPerPoint": {
+   "q1": 1.163,
+   "median": 1.193,
+   "q3": 1.22
+  }
+ },
+ "ceilingBelowOfficialOfferRate": []
+}

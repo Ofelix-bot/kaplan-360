@@ -1,0 +1,100 @@
+{
+  "id": "bjtu",
+  "status": "read",
+  "university": "北京交通大学",
+  "universityEn": "Beijing Jiaotong University",
+  "tier": "211",
+  "url": "http://job.bjtu.edu.cn/userfiles/881f81a909d0450cbd1bb74a667be8b9/files/cms/article/2025/03/%E5%8C%97%E4%BA%AC%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A62024%E5%B1%8A%E5%B0%B1%E4%B8%9A%E8%B4%A8%E9%87%8F%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf",
+  "title": "北京交通大学2024届毕业生就业质量报告",
+  "year": 2024,
+  "cohort": "2024届",
+  "pages": 37,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": "2024届",
+      "count": 625,
+      "pct": 16.28,
+      "quote": "2024 届本科毕业生境外升学共有 625 名，占毕业人数的 16.28%"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": "2024届",
+      "count": 148,
+      "pct": 23.68,
+      "quote": "去英国的学生 148 人，占境外升学人数的 23.68%"
+    },
+    {
+      "region": "中国香港",
+      "cohort": "2024届",
+      "count": 117,
+      "pct": 18.72,
+      "quote": "去中国香港的学生 117 人，占境外升学人数的 18.72%"
+    },
+    {
+      "region": "澳大利亚",
+      "cohort": "2024届",
+      "count": 102,
+      "pct": 16.32,
+      "quote": "去澳大利亚的学生 102 人，占境外升学人数的 16.32%"
+    },
+    {
+      "region": "美国",
+      "cohort": "2024届",
+      "count": 92,
+      "pct": 14.72,
+      "quote": "美国 92 14.72"
+    },
+    {
+      "region": "新加坡",
+      "cohort": "2024届",
+      "count": 80,
+      "pct": 12.8,
+      "quote": "新加坡 80 12.80"
+    },
+    {
+      "region": "瑞典",
+      "cohort": "2024届",
+      "count": 12,
+      "pct": 1.92,
+      "quote": "瑞典 12 1.92"
+    },
+    {
+      "region": "加拿大",
+      "cohort": "2024届",
+      "count": 11,
+      "pct": 1.76,
+      "quote": "加拿大 11 1.76"
+    },
+    {
+      "region": "西班牙",
+      "cohort": "2024届",
+      "count": 10,
+      "pct": 1.6,
+      "quote": "西班牙 10 1.60"
+    },
+    {
+      "region": "德国",
+      "cohort": "2024届",
+      "count": 8,
+      "pct": 1.28,
+      "quote": "德国 8 1.28"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "QS 排名前100",
+      "cohort": "2024届",
+      "count": 468,
+      "pct": 74.88,
+      "quote": "境外升学高校为 QS 排名前 100 高校的共有 468 人，占本科生全部境外升学总人数的 74.88%"
+    }
+  ],
+  "destinations": [],
+  "dropped": [
+    "abroad 硕士生"
+  ],
+  "checked": "2026-10-21"
+}

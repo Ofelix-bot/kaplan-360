@@ -1,0 +1,97 @@
+# university-of-gothenburg https://www.gu.se
+robots sitemaps: https://www.gu.se/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.gu.se/sitemap.xml: 28 children (28 course-like)
+sitemaps read 29 · urls 55858 · master's-looking 844
+  246  www.gu.se/studera/hitta-utbildning
+         https://www.gu.se/studera/hitta-utbildning/arabiska-masteruppsats-ar2320
+         https://www.gu.se/studera/hitta-utbildning/sjalvstandigt-arbete-for-masterexamen-i-arbetsterapi-arb038
+         https://www.gu.se/studera/hitta-utbildning/sjalvstandigt-arbete-for-masterexamen-i-arbetsterapi-arb044
+         https://www.gu.se/studera/hitta-utbildning/biologi-examenskurs-masterniva-bio850
+  182  www.gu.se/en/study-gothenburg
+         https://www.gu.se/en/study-gothenburg/african-languages-masters-essay-independent-project-af2210
+         https://www.gu.se/en/study-gothenburg/arabic-modern-classics-graduate-course-ar2203
+         https://www.gu.se/en/study-gothenburg/master-thesis-one-year-in-audiology-aux860
+         https://www.gu.se/en/study-gothenburg/biology-degree-project-masters-level-bio850
+   88  www.gu.se/en/news
+         https://www.gu.se/en/news/daniel-bilcher-wins-the-rutger-lindahl-award-for-best-masters-thesis-in-european-studies
+         https://www.gu.se/en/news/lucie-buttkus-wins-rutger-lindahl-award-for-best-masters-thesis-in-european-studies-2018
+         https://www.gu.se/en/news/louise-warenius-wins-the-rutger-lindahl-award-for-best-masters-thesis-in-european-studies
+         https://www.gu.se/en/news/how-plastic-taught-us-to-be-wasteful
+   85  www.gu.se/nyheter
+         https://www.gu.se/nyheter/daniel-bilcher-vinner-rutger-lindahl-priset-for-basta-masteruppsats-i-european-studies
+         https://www.gu.se/nyheter/lucie-buttkus-vann-rutger-lindahl-priset-for-basta-masteruppsats-i-european-studies-2018
+         https://www.gu.se/nyheter/louise-warenius-vann-rutger-lindahl-priset-for-basta-masteruppsats-i-european-studies
+         https://www.gu.se/nyheter/andrea-vann-pris-for-masteruppsats-om-slow-fashion
+   81  www.gu.se/evenemang
+         https://www.gu.se/evenemang/dh-seminariet-ventilering-av-masteruppsatser-i-digital-humaniora
+         https://www.gu.se/evenemang/masterclass-i-skotsel-av-hackar-zoom-forelasning-dag-med-praktiskt-arbete
+         https://www.gu.se/evenemang/masterpresentationer-i-hav-och-samhalle-2021
+         https://www.gu.se/evenemang/master-presentation-valdemar-bergentall
+   65  www.gu.se/en/event
+         https://www.gu.se/en/event/launch-masters-of-craft-degree-online-exhibition-2020-for-jewellery-textile-and-ceramic-art
+         https://www.gu.se/en/event/master-presentations-in-sea-and-society-2021
+         https://www.gu.se/en/event/chamber-music-with-master-students
+         https://www.gu.se/en/event/master-presentation-valdemar-bergentall
+   12  www.gu.se/en/culf/graduate-school-cul
+         https://www.gu.se/en/culf/graduate-school-cul/eleven-subjects-at-doctoral-level/research-on-arts-education
+         https://www.gu.se/en/culf/graduate-school-cul/eleven-subjects-at-doctoral-level/humanities-specialising-in-educational-sciences
+         https://www.gu.se/en/culf/graduate-school-cul/eleven-subjects-at-doctoral-level/food-and-nutrition
+         https://www.gu.se/en/culf/graduate-school-cul/eleven-subjects-at-doctoral-level/educational-work
+    6  www.gu.se/statsvetenskap
+         https://www.gu.se/statsvetenskap/programoversikt-masterprogrammet-i-statsvetenskap-maps
+         https://www.gu.se/statsvetenskap/programoversikt-masterprogrammet-i-internationell-administration-och-global-samhallsstyrning-iagg
+         https://www.gu.se/statsvetenskap/programoversikt-masterprogrammet-i-internationell-administration-och-global-samhallsstyrning-iagg-0
+         https://www.gu.se/statsvetenskap/programoversikt-masterprogrammet-i-europastudier-maes
+    6  www.gu.se/en/political-science
+         https://www.gu.se/en/political-science/program-overview-masters-program-in-political-science-maps
+         https://www.gu.se/en/political-science/program-overview-masters-program-in-international-administration-and-global-governance-iagg
+         https://www.gu.se/en/political-science/program-overview-masters-program-in-international-administration-and-global-governance-iagg-0
+         https://www.gu.se/en/political-science/program-overview-masters-program-in-european-studies-maes
+    4  www.gu.se/en/socav/doctoral-studies
+         https://www.gu.se/en/socav/doctoral-studies/the-swedish-research-councils-graduate-school-in-migration-and-integration/meet-the-directors
+         https://www.gu.se/en/socav/doctoral-studies/the-swedish-research-councils-graduate-school-in-migration-and-integration/about-the-graduate-school
+         https://www.gu.se/en/socav/doctoral-studies/the-swedish-research-councils-graduate-school-in-migration-and-integration
+         https://www.gu.se/en/socav/doctoral-studies/the-swedish-research-councils-graduate-school-in-migration-and-integration/courses
+    3  www.gu.se/en/socav
+         https://www.gu.se/en/socav/how-to-apply-to-the-masters-programme-in-strategic-human-resource-management-and-labour-relations
+         https://www.gu.se/en/socav/eligibility-and-application-process-masters-programme-in-sociology
+         https://www.gu.se/en/socav/hrm-master-students-after-graduation
+    3  www.gu.se/en/research
+         https://www.gu.se/en/research/gender-and-class-perspectives-on-students-choice-of-higher-education-institutions-and-graduates-choice-of-job-location
+         https://www.gu.se/en/research/mastering-light-an-innovation-engine-for-science-and-technology
+         https://www.gu.se/en/research/masters-students-get-a-taste-of-research
+    2  www.gu.se/en/science-and-technology
+         https://www.gu.se/en/science-and-technology/masters-programmes
+         https://www.gu.se/en/science-and-technology/future-needs-are-met-with-a-new-masters-in-bioinformatics
+    2  www.gu.se/en/education-science-teacher-research/graduate-school-cul
+         https://www.gu.se/en/education-science-teacher-research/graduate-school-cul/child-and-youth-studies
+         https://www.gu.se/en/education-science-teacher-research/graduate-school-cul/sport-science
+    2  www.gu.se/en/culf/education-science-teacher-research
+         https://www.gu.se/en/culf/education-science-teacher-research/graduate-school-cul/ten-subjects-at-doctoral-level/mathematics-specialising-in-educational-sciences-and-natural-sciences-specialising-in-educational-sciences
+         https://www.gu.se/en/culf/education-science-teacher-research/graduate-school-cul/ten-subjects-at-doctoral-level/subject-matter-education-with-specialization
+    2  www.gu.se/en/celam/postgraduate
+         https://www.gu.se/en/celam/postgraduate/doctoral-theses
+         https://www.gu.se/en/celam/postgraduate/phd-students
+    2  www.gu.se/hantverkslaboratoriet
+         https://www.gu.se/hantverkslaboratoriet/tradgard-examensarbeten-och-masteruppsatser
+         https://www.gu.se/hantverkslaboratoriet/examensarbeten-och-masteruppsatser
+    2  www.gu.se/en/sea-society/transdisciplinary-research-in-the-marine-field
+         https://www.gu.se/en/sea-society/transdisciplinary-research-in-the-marine-field/graduate-school
+         https://www.gu.se/en/sea-society/transdisciplinary-research-in-the-marine-field/graduate-school/coastal-fisheries-in-sweden-from-a-changing-sea-to-a-robust-science-policy-environment-sea2pol
+    2  www.gu.se/naturvetenskap-och-teknik
+         https://www.gu.se/naturvetenskap-och-teknik/masterprogram-kombinerar-amnesstudier-och-lararutbildning
+         https://www.gu.se/naturvetenskap-och-teknik/ny-master-i-bioinformatik-moter-framtidens-behov
+    2  www.gu.se/en/applied-information-technology
+         https://www.gu.se/en/applied-information-technology/theses-work-master-in-communication
+         https://www.gu.se/en/applied-information-technology/the-graduate-school-in-digital-government
+    2  www.gu.se/en/ocean/our-masters-programmes
+         https://www.gu.se/en/ocean/our-masters-programmes/meet-our-students
+         https://www.gu.se/en/ocean/our-masters-programmes/meet-our-alumni
+    1  www.gu.se/en/study-in-gothenburg/apply
+         https://www.gu.se/en/study-in-gothenburg/apply/apply-for-masters-program
+    1  www.gu.se/centrum-for-finans/om-oss
+         https://www.gu.se/centrum-for-finans/om-oss/master-in-finance
+    1  www.gu.se/en/centre-for-finance/about-us
+         https://www.gu.se/en/centre-for-finance/about-us/master-in-finance
+    1  www.gu.se/en/biological-environmental-sciences/doctoral-studies
+         https://www.gu.se/en/biological-environmental-sciences/doctoral-studies/doctoral-graduates

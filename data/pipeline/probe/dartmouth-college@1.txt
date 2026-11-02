@@ -1,0 +1,109 @@
+# dartmouth-college@1 https://home.dartmouth.edu
+robots sitemaps: https://home.dartmouth.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://home.dartmouth.edu/sitemap.xml: 2 children (2 course-like)
+sitemaps read 3 · urls 9946 · master's-looking 222
+    7  home.dartmouth.edu/news/2015/06
+         http://home.dartmouth.edu/news/2015/06/inaugural-graduate-studies-investiture-honors-graduating-students
+         http://home.dartmouth.edu/news/2015/06/tuck-celebrates-276-mba-graduates-2015-investiture
+         http://home.dartmouth.edu/news/2015/06/david-brooks-graduates-commit
+         http://home.dartmouth.edu/news/2015/06/geisel-school-medicine-celebrates-88-graduates
+    6  home.dartmouth.edu/news/2019/06
+         http://home.dartmouth.edu/news/2019/06/yo-yo-ma-doctor-arts
+         http://home.dartmouth.edu/news/2019/06/three-dartmouth-graduates-receive-military-commissions
+         http://home.dartmouth.edu/news/2019/06/cellist-yo-yo-ma-graduates-use-power-thoughtfully
+         http://home.dartmouth.edu/news/2019/06/graduate-leaders-lunch-president-hanlon
+    5  home.dartmouth.edu/news/2014/06
+         http://home.dartmouth.edu/news/2014/06/undergraduate-science-journal-sponsors-essay-competition
+         http://home.dartmouth.edu/news/2014/06/geisel-school-medicine-celebrates-192-graduates
+         http://home.dartmouth.edu/news/2014/06/dartmouth-institute-graduates-64
+         http://home.dartmouth.edu/news/2014/06/rhimes-91-graduates-be-doer-not-dreamer
+    4  home.dartmouth.edu/news/2012/06
+         http://home.dartmouth.edu/news/2012/06/finance-jobs-still-appeal-graduates-dartmouth-new-york-times
+         http://home.dartmouth.edu/news/2012/06/president-kim-bids-farewell-dartmouth-graduates-1800-students
+         http://home.dartmouth.edu/news/2012/06/dartmouth-graduates-joining-teach-america-founder-get-advice-founder-wendy-kopp
+         http://home.dartmouth.edu/news/2012/06/dartmouth-experience-paul-kim-12-blends-campus-involvement-undergraduate-research
+    4  home.dartmouth.edu/news/2021/05
+         http://home.dartmouth.edu/news/2021/05/two-guests-graduate-will-be-permitted-commencement
+         http://home.dartmouth.edu/news/2021/05/undergraduate-researchers-reveal-findings
+         http://home.dartmouth.edu/news/2021/05/fourteen-dartmouth-students-win-graduate-research-fellowships
+         http://home.dartmouth.edu/news/2021/05/candlelight-vigil-honor-memory-four-undergraduates
+    3  home.dartmouth.edu/news/2015/05
+         http://home.dartmouth.edu/news/2015/05/celebrating-undergraduate-research-and-creativity-elena-zinski-15
+         http://home.dartmouth.edu/news/2015/05/upcoming-events-undergraduate-research-symposiums
+         http://home.dartmouth.edu/news/2015/05/nsf-picks-16-graduate-research-fellowships
+    3  home.dartmouth.edu/news/2014/09
+         http://home.dartmouth.edu/news/2014/09/quoted-paul-danos-importance-mba
+         http://home.dartmouth.edu/news/2014/09/graduate-students-take-steps-toward-future-science
+         http://home.dartmouth.edu/news/2014/09/graduate-student-makes-trek-bhutans-chaling-jungle
+    3  home.dartmouth.edu/news/2014/05
+         http://home.dartmouth.edu/news/2014/05/liliana-ma-14-research-and-thinking-outside-box
+         http://home.dartmouth.edu/news/2014/05/design-firm-outline-plan-undergraduate-communities
+         http://home.dartmouth.edu/news/2014/05/celebrating-undergraduate-research-and-creativity
+    3  home.dartmouth.edu/news/2014/04
+         http://home.dartmouth.edu/news/2014/04/what-students-flair-taught-me-about-dartmouth
+         http://home.dartmouth.edu/news/2014/04/poster-session-highlights-graduate-student-research
+         http://home.dartmouth.edu/news/2014/04/moving-dartmouth-forward-focuses-graduates-careers
+    3  home.dartmouth.edu/news/2013/06
+         http://home.dartmouth.edu/news/2013/06/geisel-introduces-new-members-academy-master-educators
+         http://home.dartmouth.edu/news/2013/06/graduates-challenged-be-new-greatest-generation
+         http://home.dartmouth.edu/news/2013/06/two-graduates-work-canada-harlem-childrens-zone
+    3  home.dartmouth.edu/news/2013/04
+         http://home.dartmouth.edu/news/2013/04/more-mba-grads-switching-careers-bloomberg-businessweek
+         http://home.dartmouth.edu/news/2013/04/mals-graduate-part-pulitzer-prize-runner-team
+         http://home.dartmouth.edu/news/2013/04/two-dartmouth-students-win-nsf-graduate-research-fellowships
+    3  home.dartmouth.edu/news/2012/09
+         http://home.dartmouth.edu/news/2012/09/four-dartmouth-graduate-programs-awarded-grants-us-department-education
+         http://home.dartmouth.edu/news/2012/09/celebrated-cellist-yo-yo-ma-launches-hopkins-centers-50th-anniversary-season
+         http://home.dartmouth.edu/news/2012/09/us-news-dartmouth-no-1-undergraduate-teaching-4th-year-top-10-overall
+    3  home.dartmouth.edu/news/2012/07
+         http://home.dartmouth.edu/news/2012/07/geisel-school-medicine-names-members-academy-faculty-master-educators
+         http://home.dartmouth.edu/news/2012/07/dartmouth-undergraduates-research-heavens-and-decipher-proteins
+         http://home.dartmouth.edu/news/2012/07/yo-yo-ma-and-alvin-ailey-part-dartmouths-culture-celebration-new-york-times
+    3  home.dartmouth.edu/news/2011/06
+         http://home.dartmouth.edu/news/2011/06/live-chat-tuck-mba-admissions-bloomberg-businessweek
+         http://home.dartmouth.edu/news/2011/06/dartmouth-graduates-1782-2011-commencement-exercises
+         http://home.dartmouth.edu/news/2011/06/words-wisdom-mba-grads-investiture-ceremony
+    3  home.dartmouth.edu/news/2011/05
+         http://home.dartmouth.edu/news/2011/05/undergraduate-students-receive-awards-oratory-skills
+         http://home.dartmouth.edu/news/2011/05/dartmouth-professors-honored-graduate-faculty-mentoring-awards
+         http://home.dartmouth.edu/news/2011/05/graduate-students-win-nsf-fellowships
+    3  home.dartmouth.edu/news/2010/11
+         http://home.dartmouth.edu/news/2010/11/mellon-mays-undergraduate-fellowship-supports-student-research
+         http://home.dartmouth.edu/news/2010/11/dartmouth-graduate-wins-rhodes-scholarship
+         http://home.dartmouth.edu/news/2010/11/dartmouth-graduate-brings-digital-storytelling-students-senegal
+    3  home.dartmouth.edu/news/2016/06
+         http://home.dartmouth.edu/news/2016/06/two-generations-dartmouth-students-graduate-together
+         http://home.dartmouth.edu/news/2016/06/five-dartmouth-graduates-receive-military-commissions
+         http://home.dartmouth.edu/news/2016/06/school-graduate-and-advanced-studies-opens-july-1
+    3  home.dartmouth.edu/news/2018/06
+         http://home.dartmouth.edu/news/2018/06/office-student-life-honors-undergraduate-leaders
+         http://home.dartmouth.edu/news/2018/06/four-dartmouth-graduates-receive-military-commissions
+         http://home.dartmouth.edu/news/2018/06/mindy-kaling-01-graduates-why-not-you
+    3  home.dartmouth.edu/news/2019/02
+         http://home.dartmouth.edu/news/2019/02/tuck-launches-new-program-dartmouth-undergraduates
+         http://home.dartmouth.edu/news/2019/02/gift-seeds-scholarship-fund-international-undergraduates
+         http://home.dartmouth.edu/news/2019/02/looking-future-dartmouth-begins-new-master-plan-process
+    3  home.dartmouth.edu/news/2019/05
+         http://home.dartmouth.edu/news/2019/05/may-town-hall-focuses-finances-master-plan
+         http://home.dartmouth.edu/news/2019/05/dartmouth-seeks-developer-build-graduate-housing
+         http://home.dartmouth.edu/news/2019/05/three-undergraduates-win-national-scholarships
+    3  home.dartmouth.edu/news/2020/08
+         http://home.dartmouth.edu/news/2020/08/faculty-undergraduates-paper-voter-confidence-makes-news
+         http://home.dartmouth.edu/news/2020/08/undergraduate-arrival-date-announcement-delayed-until-next-week
+         http://home.dartmouth.edu/news/2020/08/undergraduates-will-be-campus-fall-term
+    3  home.dartmouth.edu/news/2021/06
+         http://home.dartmouth.edu/news/2021/06/undergraduates-economics-research-gets-big-media-play
+         http://home.dartmouth.edu/news/2021/06/grant-supports-undergraduates-global-health-translation-app
+         http://home.dartmouth.edu/news/2021/06/undaunted-challenge-graduates-are-urged-find-hope
+    3  home.dartmouth.edu/news/2025/11
+         http://home.dartmouth.edu/news/2025/11/dartmouth-double-number-veteran-undergraduates
+         http://home.dartmouth.edu/news/2025/11/john-mcknight-named-dean-undergraduate-student-affairs
+         http://home.dartmouth.edu/news/2025/11/undergraduates-are-embracing-dartmouth-dialogues
+    3  home.dartmouth.edu/news/2026/06
+         http://home.dartmouth.edu/news/2026/06/guarini-school-investiture-honors-graduate-students
+         http://home.dartmouth.edu/news/2026/06/how-tuck-mba-students-learn-business-around-world
+         http://home.dartmouth.edu/news/2026/06/celebrating-first-met-program-graduates
+    3  home.dartmouth.edu/news/2023/04
+         http://home.dartmouth.edu/news/2023/04/nsf-graduate-research-fellowships-awarded
+         http://home.dartmouth.edu/news/2023/04/goldwater-awards-support-advanced-undergraduate-research
+         http://home.dartmouth.edu/news/2023/04/graduate-students-vote-unionize

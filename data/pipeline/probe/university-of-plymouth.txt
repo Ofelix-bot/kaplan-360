@@ -1,0 +1,129 @@
+# university-of-plymouth https://www.plymouth.ac.uk
+robots sitemaps: https://www.plymouth.ac.uk/sitemaps/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.plymouth.ac.uk/sitemaps/sitemap.xml: 9 children (1 course-like)
+sitemaps read 10 · urls 12020 · master's-looking 1728
+  825  www.plymouth.ac.uk/courses/undergraduate
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-biological-sciences
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-geography
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-geography-with-ocean-science
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-architecture
+   84  www.plymouth.ac.uk/news
+         https://www.plymouth.ac.uk/news/plymouth-graduate-helps-drinks-distributor-grow
+         https://www.plymouth.ac.uk/news/plymouth-graduate-helps-cornish-book-business-start-the-next-chapter
+         https://www.plymouth.ac.uk/news/marine-graduates-prepare-for-new-challenge-out-at-sea
+         https://www.plymouth.ac.uk/news/university-to-host-thousands-at-undergraduate-open-day
+   42  www.plymouth.ac.uk/courses/undergraduate/ba-history
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-history/resources
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-history/history-international
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-history/featured-module-tudor-and-stuart-britain
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-history/featured-module-piracy-and-privateering-in-the-british-isles-c-1560-1816
+   28  www.plymouth.ac.uk/courses/undergraduate/ba-history-2-2
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-history-2-2/plymouth-historian-edits-special-issue-of-leading-legal-history-journal
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-history-2-2/plymouth-history-student-wins-bcmh-dissertation-prize
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-history-2-2/plymouth-history-student-on-bbc-radio
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-history-2-2/desperate-victories
+   18  www.plymouth.ac.uk/study/research-degrees/postgraduate-research-studentships
+         https://www.plymouth.ac.uk/study/research-degrees/postgraduate-research-studentships/university-doctoral-landscape-award
+         https://www.plymouth.ac.uk/study/research-degrees/postgraduate-research-studentships/developing-and-applying-camera-monitoring-tools-for-inshore-fish-assemblages
+         https://www.plymouth.ac.uk/study/research-degrees/postgraduate-research-studentships/management-and-business-pathway
+         https://www.plymouth.ac.uk/study/research-degrees/postgraduate-research-studentships/psychology-pathway
+   17  www.plymouth.ac.uk/courses/undergraduate/ba-architecture
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-architecture/ba-hons-architecture-applicant-portfolio-advice
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-architecture/ba-hons-architecture-careers
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-architecture/ba-hons-architecture-student-james-macmillan
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-architecture/madhusha
+   16  www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-adult-health
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-adult-health/placements
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-adult-health/plymouth-university-exeter-school-of-nursing
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-adult-health/joy-ogorman-bsc-hons-adult-nursing
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-adult-health/emma-abbs-nil-bsc-hons-nursing-adult-health
+   14  www.plymouth.ac.uk/courses/undergraduate/ba-anthropology
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-anthropology/introduction-to-anthropology
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-anthropology/applying-anthropology
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-anthropology/anthropology-of-humour-and-laughter
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-anthropology/coastal-cultures
+   13  www.plymouth.ac.uk/courses/undergraduate/bmbs-bachelor-of-medicine-bachelor-of-surgery
+         https://www.plymouth.ac.uk/courses/undergraduate/bmbs-bachelor-of-medicine-bachelor-of-surgery/bachelor-of-medicine-bachelor-of-surgery-teaching-and-learning
+         https://www.plymouth.ac.uk/courses/undergraduate/bmbs-bachelor-of-medicine-bachelor-of-surgery/bachelor-of-medicine-bachelor-of-surgery-careers
+         https://www.plymouth.ac.uk/courses/undergraduate/bmbs-bachelor-of-medicine-bachelor-of-surgery/bachelor-of-medicine-bachelor-of-surgery-selection-and-admissions-process
+         https://www.plymouth.ac.uk/courses/undergraduate/bmbs-bachelor-of-medicine-bachelor-of-surgery/timothy-poulton
+   12  www.plymouth.ac.uk/courses/undergraduate/ba-illustration
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-illustration/ba-hons-illustration-now-look-here
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-illustration/ba-hons-illustration-portfolio-advice
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-illustration/broaden-your-experiences
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-illustration/big-show-off
+   12  www.plymouth.ac.uk/study/cpd
+         https://www.plymouth.ac.uk/study/cpd/msc-advanced-professional-practice-research-dissertation
+         https://www.plymouth.ac.uk/study/cpd/msc-advanced-professional-practice-modules-for-the-school-of-health-professions
+         https://www.plymouth.ac.uk/study/cpd/msc-advanced-professional-practice-supported-study-modules
+         https://www.plymouth.ac.uk/study/cpd/msc-advanced-professional-practice-pathways
+   11  www.plymouth.ac.uk/courses/undergraduate/bsc-mathematics
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-mathematics/graduate-profile-clare-nasir
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-mathematics/studying-mathematics
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-mathematics/mark-skipper
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-mathematics/jamie-phillips-graduate-profile
+   11  www.plymouth.ac.uk/study/undergraduate/apply
+         https://www.plymouth.ac.uk/study/undergraduate/apply/parents-and-supporters-guide
+         https://www.plymouth.ac.uk/study/undergraduate/apply/parents-and-supporters-guide/providing-support-during-the-application-process
+         https://www.plymouth.ac.uk/study/undergraduate/apply/offer-holder-days
+         https://www.plymouth.ac.uk/study/undergraduate/apply/timeline
+   10  www.plymouth.ac.uk/courses/undergraduate/bsc-chemistry
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-chemistry/charlotte-levy
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-chemistry/tom-wassell
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-chemistry/wing-sum-so
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-chemistry/kevin-williams
+   10  www.plymouth.ac.uk/courses/undergraduate/ba-english
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-english/ba-hons-english-study-abroad
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-english/ba-hons-english-career-opportunities
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-english/ba-hons-english-teaching-and-learning-environment
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-english/apocalypse-and-the-modern-novel
+   10  www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-mental-health-4
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-mental-health-4/melissa-greener
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-mental-health-4/ian-summers
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-mental-health-4/laura-jackson
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-nursing-mental-health-4/corina-cowland-bsc-hons-nursing-mental-health
+   10  www.plymouth.ac.uk/courses/undergraduate/ba-creative-media
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-creative-media/industry-partners
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-creative-media/media-arts-graduates
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-creative-media/news-highlights
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-creative-media/lighthouse
+    9  www.plymouth.ac.uk/courses/undergraduate/llb-law
+         https://www.plymouth.ac.uk/courses/undergraduate/llb-law/law-student-success-stories
+         https://www.plymouth.ac.uk/courses/undergraduate/llb-law/citizens-advice-bureau
+         https://www.plymouth.ac.uk/courses/undergraduate/llb-law/international-humanitarian-law
+         https://www.plymouth.ac.uk/courses/undergraduate/llb-law/medical-law-and-ethics
+    9  www.plymouth.ac.uk/courses/undergraduate/bsc-marine-biology
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-marine-biology/marine-biology-rachel-cole
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-marine-biology/marine-biology-location
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-marine-biology/facilities
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-marine-biology/marine-biology-careers
+    9  www.plymouth.ac.uk/courses/undergraduate/bsc-paramedic-science
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-paramedic-science/bsc-hons-paramedic-science-more-information
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-paramedic-science/student-insight-amy-hayter-paramedic-practitioner
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-paramedic-science/bsc-hons-paramedic-practitioner-student-insight-joshua-guinane
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-paramedic-science/values-based-recruitment
+    9  www.plymouth.ac.uk/courses/undergraduate/ba-photography
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-photography/ba-hons-photography-portfolio-advice
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-photography/ba-hons-photography-david-hedges-graduate-profile
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-photography/ba-hons-photography-set-construction-project
+         https://www.plymouth.ac.uk/courses/undergraduate/ba-photography/ba-hons-photography-international-opportunities
+    9  www.plymouth.ac.uk/courses/undergraduate/meng-civil-engineering
+         https://www.plymouth.ac.uk/courses/undergraduate/meng-civil-engineering/brad-james-graduate-profile
+         https://www.plymouth.ac.uk/courses/undergraduate/meng-civil-engineering/michelle-yates-graduate-profile
+         https://www.plymouth.ac.uk/courses/undergraduate/meng-civil-engineering/facilities-and-resources
+         https://www.plymouth.ac.uk/courses/undergraduate/meng-civil-engineering/harriette-scowen-work-placement-case-study
+    8  www.plymouth.ac.uk/courses/undergraduate/bsc-dental-therapy-hygiene
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-dental-therapy-hygiene/features
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-dental-therapy-hygiene/overview
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-dental-therapy-hygiene/year-one
+         https://www.plymouth.ac.uk/courses/undergraduate/bsc-dental-therapy-hygiene/year-two
+    8  www.plymouth.ac.uk/courses/undergraduate/meng-civil-and-coastal-engineering
+         https://www.plymouth.ac.uk/courses/undergraduate/meng-civil-and-coastal-engineering/rachel-tyson-graduate-profile
+         https://www.plymouth.ac.uk/courses/undergraduate/meng-civil-and-coastal-engineering/graham-knott-project-engineer
+         https://www.plymouth.ac.uk/courses/undergraduate/meng-civil-and-coastal-engineering/jason-rolfe-work-placement-case-study
+         https://www.plymouth.ac.uk/courses/undergraduate/meng-civil-and-coastal-engineering/nicola-robins-work-placement-case-study
+    8  www.plymouth.ac.uk/courses/postgraduate/msc-planning
+         https://www.plymouth.ac.uk/courses/postgraduate/msc-planning/news-highlights
+         https://www.plymouth.ac.uk/courses/postgraduate/msc-planning/samaria-bezzina
+         https://www.plymouth.ac.uk/courses/postgraduate/msc-planning/residential-field-visits
+         https://www.plymouth.ac.uk/courses/postgraduate/msc-planning/student-profiles

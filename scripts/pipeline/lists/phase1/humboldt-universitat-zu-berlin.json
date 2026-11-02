@@ -1,0 +1,10 @@
+{
+ "source": "HU Berlin study-programme finder filtered teaching language EN https://www.hu-berlin.de/en/study/study-programme?tx_hubstg[search][language]=EN; in-scope masters with 'Teaching language English' only (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.hu-berlin.de/en/study/study-programme/details/business-administration-master-of-science-major-field",
+  "https://www.hu-berlin.de/en/study/study-programme/details/humboldt-master-of-laws-master-of-laws-major-field",
+  "https://www.hu-berlin.de/en/study/study-programme/details/international-dispute-resolution-master-of-laws-major-field",
+  "https://www.hu-berlin.de/en/study/study-programme/details/psychology-master-of-science-major-field"
+ ]
+}

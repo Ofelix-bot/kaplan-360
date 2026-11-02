@@ -1,0 +1,7 @@
+{
+  "source": "UC course catalogue (master's types) https://apps.uc.pt/courses/en/index?q=&ou=&type=SEGUNDO_CONTINUIDADE&type=SEGUNDO_ESPECIALIZACAO_AVANCADA&type=SEGUNDO_FORMACAO_LONGO_VIDA; 54 in-scope programme pages checked for 'Teaching / Evaluation language(s)': only Software Engineering is English-only (the rest Portuguese or Portuguese/English). Plain fetch on apps.uc.pt (www.uc.pt needs the browser) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://apps.uc.pt/courses/EN/course/10162"
+  ]
+}

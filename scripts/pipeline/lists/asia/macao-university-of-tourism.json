@@ -1,0 +1,17 @@
+{
+  "id": "macao-university-of-tourism",
+  "builtAt": "2026-10-19",
+  "seeds": [
+    "https://www.utm.edu.mo/shm/en/programmes/postgraduate-programmes/index.html",
+    "https://www.utm.edu.mo/stm/en/programmes/postgraduate-programmes/index.html"
+  ],
+  "pages": [
+    "https://www.utm.edu.mo/admission/en/postgraduate_programmes/master-degree/index.html",
+    "https://www.utm.edu.mo/admission/en/postgraduate_programmes/study-plan-and-course-description/index.html",
+    "https://www.utm.edu.mo/shm/en/programmes/dual-master-s-programme/crcs-1-1-double-master-degree-programme/index.html",
+    "https://www.utm.edu.mo/shm/en/programmes/dual-master-s-programme/index.html",
+    "https://www.utm.edu.mo/shm/en/programmes/postgraduate-programmes/index.html",
+    "https://www.utm.edu.mo/stm/en/programmes/DualMasters/index.html",
+    "https://www.utm.edu.mo/stm/en/programmes/postgraduate-programmes/index.html"
+  ]
+}

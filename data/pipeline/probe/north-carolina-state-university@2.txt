@@ -1,0 +1,13 @@
+# north-carolina-state-university@2 https://grad.ncsu.edu
+robots sitemaps: https://grad.ncsu.edu/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://grad.ncsu.edu/wp-sitemap.xml: 9 children (1 course-like)
+sitemap https://grad.ncsu.edu/wp-sitemap-posts-page-1.xml: http HTTP 522
+sitemap https://grad.ncsu.edu/wp-sitemap-posts-post-1.xml: http HTTP 522
+sitemap https://grad.ncsu.edu/wp-sitemap-posts-person-1.xml: http HTTP 522
+sitemap https://grad.ncsu.edu/wp-sitemap-posts-tribe_events-1.xml: http HTTP 522
+sitemap https://grad.ncsu.edu/wp-sitemap-taxonomies-post_tag-1.xml: http HTTP 522
+sitemap https://grad.ncsu.edu/wp-sitemap-taxonomies-group-1.xml: http HTTP 522
+sitemaps read 10 · urls 71 · master's-looking 2
+    2  grad.ncsu.edu/news/category
+         https://grad.ncsu.edu/news/category/graduate-research/
+         https://grad.ncsu.edu/news/category/graduate-student-spotlights/

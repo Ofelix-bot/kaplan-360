@@ -1,0 +1,56 @@
+# university-of-notre-dame@2 https://graduateschool.nd.edu
+robots sitemaps: https://graduateschool.nd.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 864 · master's-looking 317
+  268  graduateschool.nd.edu/news
+         https://graduateschool.nd.edu/news/notre-dame-graduate-students-explore-the-beauty-of-research-through-the-beauty-of-understanding-showcase/
+         https://graduateschool.nd.edu/news/professor-kasey-buckles-wins-graduate-student-mentorship-award/
+         https://graduateschool.nd.edu/news/graduate-school-honors-2026-alumni-faculty-and-student-award-winners/
+         https://graduateschool.nd.edu/news/fourteen-current-or-former-notre-dame-students-awarded-nsf-graduate-research-fellowships/
+   14  graduateschool.nd.edu/graduate-training
+         https://graduateschool.nd.edu/graduate-training/
+         https://graduateschool.nd.edu/graduate-training/beauty-of-understanding/
+         https://graduateschool.nd.edu/graduate-training/career-development/
+         https://graduateschool.nd.edu/graduate-training/ethics/
+   10  graduateschool.nd.edu/policies-forms/graduation/graduate-school-awards
+         https://graduateschool.nd.edu/policies-forms/graduation/graduate-school-awards/distinguished-alumni-award/
+         https://graduateschool.nd.edu/policies-forms/graduation/graduate-school-awards/distinguished-alumni-award/distinguished-graduate-alumni-award-past-winners/
+         https://graduateschool.nd.edu/policies-forms/graduation/graduate-school-awards/dick-and-peggy-notebaert-award/
+         https://graduateschool.nd.edu/policies-forms/graduation/graduate-school-awards/dick-and-peggy-notebaert-award/past-winners-notebaert-award/
+    4  graduateschool.nd.edu/policies-forms/doctoral-dissertations-masters-theses
+         https://graduateschool.nd.edu/policies-forms/doctoral-dissertations-masters-theses/author-resources/
+         https://graduateschool.nd.edu/policies-forms/doctoral-dissertations-masters-theses/formatting-checks/
+         https://graduateschool.nd.edu/policies-forms/doctoral-dissertations-masters-theses/formal-submissions/
+         https://graduateschool.nd.edu/policies-forms/doctoral-dissertations-masters-theses/curatend-electronic-thesis-dissertation-collection/
+    3  graduateschool.nd.edu/graduate-training/research-communication
+         https://graduateschool.nd.edu/graduate-training/research-communication/the-office-of-grants-and-fellowships/
+         https://graduateschool.nd.edu/graduate-training/research-communication/gspda/
+         https://graduateschool.nd.edu/graduate-training/research-communication/3mt/
+    2  graduateschool.nd.edu/policies-forms
+         https://graduateschool.nd.edu/policies-forms/doctoral-dissertations-masters-theses/
+         https://graduateschool.nd.edu/policies-forms/graduate-student-assistance/
+    2  graduateschool.nd.edu/policies-forms/graduate-student-assistance
+         https://graduateschool.nd.edu/policies-forms/graduate-student-assistance/grad21/
+         https://graduateschool.nd.edu/policies-forms/graduate-student-assistance/graduate-student-emergency-support-fund/
+    2  graduateschool.nd.edu/graduate-training/individual-development-plan
+         https://graduateschool.nd.edu/graduate-training/individual-development-plan/idp-resources-and-smart-goals/
+         https://graduateschool.nd.edu/graduate-training/individual-development-plan/follow-up-with-graduate-career-services/
+    2  graduateschool.nd.edu/graduate-training/leadership
+         https://graduateschool.nd.edu/graduate-training/leadership/laser/
+         https://graduateschool.nd.edu/graduate-training/leadership/society-of-schmitt-fellows/
+    2  graduateschool.nd.edu/graduate-training/leadership/laser
+         https://graduateschool.nd.edu/graduate-training/leadership/laser/laser-faq/
+         https://graduateschool.nd.edu/graduate-training/leadership/laser/laser-application/
+    2  graduateschool.nd.edu/graduate-training/research-communication/the-office-of-grants-and-fellowships
+         https://graduateschool.nd.edu/graduate-training/research-communication/the-office-of-grants-and-fellowships/contact-the-team/
+         https://graduateschool.nd.edu/graduate-training/research-communication/the-office-of-grants-and-fellowships/grants-and-fellowships-news/
+    2  graduateschool.nd.edu/graduate-training/research-communication/3mt
+         https://graduateschool.nd.edu/graduate-training/research-communication/3mt/3mt-schedule/
+         https://graduateschool.nd.edu/graduate-training/research-communication/3mt/past-winners-shaheen-3mt-competition/
+    1  graduateschool.nd.edu/policies-forms/graduation
+         https://graduateschool.nd.edu/policies-forms/graduation/graduate-school-awards/
+    1  graduateschool.nd.edu/graduate-training/individual-development-plan/idp-resources-and-smart-goals
+         https://graduateschool.nd.edu/graduate-training/individual-development-plan/idp-resources-and-smart-goals/smart-goal-examples/
+    1  graduateschool.nd.edu/graduate-training/mentoring
+         https://graduateschool.nd.edu/graduate-training/mentoring/mentoring-workshops/
+    1  graduateschool.nd.edu/graduate-training/research-communication/gspda
+         https://graduateschool.nd.edu/graduate-training/research-communication/gspda/internal/

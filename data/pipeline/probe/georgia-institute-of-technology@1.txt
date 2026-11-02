@@ -1,0 +1,69 @@
+# georgia-institute-of-technology@1 https://www.gatech.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.gatech.edu/sitemap.xml: 2 children (2 course-like)
+sitemaps read 3 · urls 2333 · master's-looking 97
+   59  www.gatech.edu/offices-and-departments
+         https://www.gatech.edu/offices-and-departments/root-admissions-graduate
+         https://www.gatech.edu/offices-and-departments/root-admissions-undergraduate
+         https://www.gatech.edu/offices-and-departments/root-undergraduate-advising-transition
+         https://www.gatech.edu/offices-and-departments/root-graduate-and-postdoctoral-education
+    4  www.gatech.edu/news/2024/10
+         https://www.gatech.edu/news/2024/10/02/five-graduate-scholars-earn-ohara-fellowships
+         https://www.gatech.edu/news/2024/10/08/georgia-tech-and-amsc-collaboration-boost-stem-pipeline
+         https://www.gatech.edu/news/2024/10/09/georgia-tech-and-amsc-collaboration-boost-stem-pipeline
+         https://www.gatech.edu/news/2024/10/28/graduate-students-chosen-arcs-scholar-awards
+    4  www.gatech.edu/news/2025/04
+         https://www.gatech.edu/news/2025/04/08/georgia-tech-shines-2025-us-news-graduate-program-rankings
+         https://www.gatech.edu/news/2025/04/08/h-milton-stewart-school-industrial-and-systems-engineering-graduate-program-ranked
+         https://www.gatech.edu/news/2025/04/15/nsf-awards-fellowships-georgia-tech-graduate-students
+         https://www.gatech.edu/news/2025/04/15/isye-honors-top-graduate-and-undergraduate-students
+    4  www.gatech.edu/news/2026/04
+         https://www.gatech.edu/news/2026/04/07/georgia-tech-graduate-programs-stand-among-nations-best-2026-rankings
+         https://www.gatech.edu/news/2026/04/21/ride-out-style-program-gives-graduates-bucket-list-opportunity
+         https://www.gatech.edu/news/2026/04/22/georgia-tech-graduate-brings-culinary-flair-masterchef
+         https://www.gatech.edu/news/2026/04/28/graduates-work-lights-atlanta-airport
+    2  www.gatech.edu/news/2024/12
+         https://www.gatech.edu/news/2024/12/11/helluva-journey-graduate-student-reflects-13-years-and-4-degrees-tech
+         https://www.gatech.edu/news/2024/12/16/phd-students-earn-chih-graduate-student-research-publication-award
+    2  www.gatech.edu/news/2025/03
+         https://www.gatech.edu/news/2025/03/06/georgia-tech-graduate-takes-kiid-coffee-shark-tank
+         https://www.gatech.edu/news/2025/03/20/cos-graduate-researchers-earn-travel-grants
+    2  www.gatech.edu/news/2025/05
+         https://www.gatech.edu/news/2025/05/15/computing-student-secures-y-combinator-funding-llm-developer-tool
+         https://www.gatech.edu/news/2025/05/14/georgia-tech-celebrates-2025-phd-graduates-cybersecurity-and-privacy
+    2  www.gatech.edu/news/2025/09
+         https://www.gatech.edu/news/2025/09/23/georgia-tech-graduate-student-wins-geoguessr-world-championship
+         https://www.gatech.edu/news/2025/09/29/cybersecurity-pioneer-engages-georgia-tech-graduate-students-fireside-chat
+    2  www.gatech.edu/news/2025/11
+         https://www.gatech.edu/news/2025/11/06/undergraduate-neuroscience-research-program-gives-georgia-tech-students-advantage
+         https://www.gatech.edu/news/2025/11/21/submissions-sought-undergraduate-research-journal
+    2  www.gatech.edu/news/2025/12
+         https://www.gatech.edu/news/2025/12/11/meet-cse-profile-phd-graduate-ziqi-zhang
+         https://www.gatech.edu/news/2025/12/12/mastering-environmental-engineering-future
+    2  www.gatech.edu/news/2026/10
+         https://www.gatech.edu/news/2026/10/01/georgia-tech-graduate-tom-fanning-named-usg-chancellor
+         https://www.gatech.edu/news/2026/10/06/georgia-tech-announces-new-online-masters-degree-artificial-intelligence
+    1  www.gatech.edu/news/2023/12
+         https://www.gatech.edu/news/2023/12/04/bbiss-graduate-fellows-publish-article-educating-academic-leadership-sustainability
+    1  www.gatech.edu/news/2024/04
+         https://www.gatech.edu/news/2024/04/17/nsf-awards-fellowships-60-georgia-tech-graduate-students
+    1  www.gatech.edu/news/2023/03
+         https://www.gatech.edu/news/2023/03/25/msa-team-wins-2023-tag-master-modeler-competition
+    1  www.gatech.edu/news/2024/05
+         https://www.gatech.edu/news/2024/05/31/changes-store-fall-masters-commencement-ceremony
+    1  www.gatech.edu/news/2024/07
+         https://www.gatech.edu/news/2024/07/17/undergraduate-sustainability-education-innovation-grants-awarded
+    1  www.gatech.edu/news/2024/08
+         https://www.gatech.edu/news/2024/08/16/senators-wanted-graduate-student-government
+    1  www.gatech.edu/news/2019/04
+         https://www.gatech.edu/news/2019/04/19/georgia-tech-launch-states-first-sustainability-masters-program
+    1  www.gatech.edu/news/2025/10
+         https://www.gatech.edu/news/2025/10/13/undergraduate-bioinformatics-class-produces-published-research
+    1  www.gatech.edu/news/2026/01
+         https://www.gatech.edu/news/2026/01/15/science-public-good-introducing-community-engagement-graduate-fellows
+    1  www.gatech.edu/news/2026/03
+         https://www.gatech.edu/news/2026/03/24/celebrating-techs-first-african-american-female-graduate-clemmie-whatley
+    1  www.gatech.edu/news/2026/05
+         https://www.gatech.edu/news/2026/05/04/double-major-graduate-take-her-stem-and-intercultural-skills-spain-fulbright
+    1  www.gatech.edu/news/2026/07
+         https://www.gatech.edu/news/2026/07/15/graduate-apprentices-are-shaping-research-while-building-their-future

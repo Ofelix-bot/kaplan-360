@@ -1,0 +1,13 @@
+{
+ "source": "MSc programmes list https://www.dtu.dk/english/education/graduate/msc-programmes (all MSc taught in English; robots crawl-delay 10) (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.dtu.dk/english/education/graduate/msc-programmes/business-analytics",
+  "https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering",
+  "https://www.dtu.dk/english/education/graduate/msc-programmes/human-centered-artificial-intelligence",
+  "https://www.dtu.dk/english/education/graduate/msc-programmes/industrial-engineering-and-management",
+  "https://www.dtu.dk/english/education/graduate/msc-programmes/technology-entrepreneurship",
+  "https://www.dtu.dk/english/education/graduate/msc-programmes/business-administration-and-bioentrepreneurship",
+  "https://www.dtu.dk/english/education/graduate/msc-programmes/mathematical-modelling-and-computation"
+ ]
+}

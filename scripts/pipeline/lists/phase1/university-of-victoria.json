@@ -1,0 +1,16 @@
+{
+  "source": "UVic graduate programs finder https://www.uvic.ca/graduate/programs/graduate-programs/index.php (department programme pages; online-only MPH/MSW left out) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/business.php",
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/economics.php",
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/public-administration.php",
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/curriculum-and-instruction.php",
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/educational-psychology-and-leadership-studies.php",
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/exercise-science-physical-and-health-education.php",
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/computer-science.php",
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/counselling-psychology.php",
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/nursing.php",
+    "https://www.uvic.ca/graduate/programs/graduate-programs/pages/law.php"
+  ]
+}

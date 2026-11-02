@@ -1,0 +1,1607 @@
+{
+  "note": "Openings in Singapore on each employer's own careers site, by /careers hot role. Titles are kept for checking only; the site shows employer names and counts.",
+  "model": "claude-haiku-5-5",
+  "spentUsd": 0.067857,
+  "checks": [
+    {
+      "role": "senior-security-engineer-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "security engineer",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=security%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Security Engineer, Field Innovation, Security Search and Observability (SSO)"
+      ],
+      "dropped": 1
+    },
+    {
+      "role": "senior-security-engineer-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "security engineer",
+      "url": "https://jobs.apple.com/en-sg/search?search=security%20engineer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "data-engineer-financial-services",
+      "industry": "financial-services",
+      "employer": "dbs",
+      "term": "data engineer",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=data%20engineer",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "cyber-risk-analyst",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "cyber risk analyst",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=cyber%20risk%20analyst&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "senior-security-engineer-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "security engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=security%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 3,
+      "titles": [
+        "Senior Security Engineer, Enterprise SaaS Security",
+        "Security Engineer, Third Party Security Diligence",
+        "Staff Information Security Engineer, Product Security"
+      ]
+    },
+    {
+      "role": "data-engineer-financial-services",
+      "industry": "financial-services",
+      "employer": "standard-chartered",
+      "term": "data engineer",
+      "url": "https://jobs.standardchartered.com/search/?q=data%20engineer&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "cyber-risk-analyst",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "cyber risk analyst",
+      "url": "https://jobs.apple.com/en-sg/search?search=cyber%20risk%20analyst&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "data-engineer-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "data engineer",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=data%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-wealth-planner",
+      "industry": "financial-services",
+      "employer": "standard-chartered",
+      "term": "assistant wealth planner",
+      "url": "https://jobs.standardchartered.com/search/?q=assistant%20wealth%20planner&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-wealth-planner",
+      "industry": "financial-services",
+      "employer": "dbs",
+      "term": "assistant wealth planner",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=assistant%20wealth%20planner",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "data-engineer-financial-services",
+      "industry": "financial-services",
+      "employer": "barclays",
+      "term": "data engineer",
+      "url": "https://search.jobs.barclays/search-jobs/data%20engineer/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "cyber-risk-analyst",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "cyber risk analyst",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=cyber%20risk%20analyst&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "data-engineer-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "data engineer",
+      "url": "https://jobs.apple.com/en-sg/search?search=data%20engineer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "artificial-intelligence-machine-learning-engineer",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "machine learning engineer",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=machine%20learning%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "economist",
+      "industry": "financial-services",
+      "employer": "standard-chartered",
+      "term": "economist",
+      "url": "https://jobs.standardchartered.com/search/?q=economist&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "economist",
+      "industry": "financial-services",
+      "employer": "dbs",
+      "term": "economist",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=economist",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "front-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "front end developer",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=front%20end%20developer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "artificial-intelligence-machine-learning-engineer",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "machine learning engineer",
+      "url": "https://jobs.apple.com/en-sg/search?search=machine%20learning%20engineer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Apple Media Products - Senior Machine Learning Engineer, Language AI",
+        "Machine Learning Engineer, Strategic Data Solutions"
+      ]
+    },
+    {
+      "role": "data-engineer-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "data engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=data%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Senior Data Engineer, Product Analytics, Payments"
+      ]
+    },
+    {
+      "role": "assistant-wealth-planner",
+      "industry": "financial-services",
+      "employer": "barclays",
+      "term": "assistant wealth planner",
+      "url": "https://search.jobs.barclays/search-jobs/assistant%20wealth%20planner/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "technology-information-and-cybersecurity-risk-analyst",
+      "industry": "financial-services",
+      "employer": "standard-chartered",
+      "term": "technology, information and cybersecurity risk analyst",
+      "url": "https://jobs.standardchartered.com/search/?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "technology-information-and-cybersecurity-risk-analyst",
+      "industry": "financial-services",
+      "employer": "dbs",
+      "term": "technology, information and cybersecurity risk analyst",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "back-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "back end developer",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=back%20end%20developer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "front-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "front end developer",
+      "url": "https://jobs.apple.com/en-sg/search?search=front%20end%20developer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "artificial-intelligence-machine-learning-engineer",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "machine learning engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=machine%20learning%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-relationship-manager-relationship-associate",
+      "industry": "financial-services",
+      "employer": "standard-chartered",
+      "term": "relationship associate",
+      "url": "https://jobs.standardchartered.com/search/?q=relationship%20associate&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "economist",
+      "industry": "financial-services",
+      "employer": "barclays",
+      "term": "economist",
+      "url": "https://search.jobs.barclays/search-jobs/economist/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Senior Regional Economist, Emerging Asia"
+      ]
+    },
+    {
+      "role": "back-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "back end developer",
+      "url": "https://jobs.apple.com/en-sg/search?search=back%20end%20developer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "full-stack-developer",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "full stack developer",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=full%20stack%20developer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-relationship-manager-relationship-associate",
+      "industry": "financial-services",
+      "employer": "dbs",
+      "term": "relationship associate",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=relationship%20associate",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Associate/Senior Associate, Relationship Manager, Telecommunications, Media and Technology, Institutional Banking Group",
+        "Analyst/Associate - Relationship Manager, Energy, Renewables & Infrastructure, Corporate Banking"
+      ]
+    },
+    {
+      "role": "assistant-relationship-manager",
+      "industry": "financial-services",
+      "employer": "standard-chartered",
+      "term": "assistant relationship manager",
+      "url": "https://jobs.standardchartered.com/search/?q=assistant%20relationship%20manager&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "technology-information-and-cybersecurity-risk-analyst",
+      "industry": "financial-services",
+      "employer": "barclays",
+      "term": "technology, information and cybersecurity risk analyst",
+      "url": "https://search.jobs.barclays/search-jobs/technology%2C%20information%20and%20cybersecurity%20risk%20analyst/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "product-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "product security engineer",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=product%20security%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "full-stack-developer",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "full stack developer",
+      "url": "https://jobs.apple.com/en-sg/search?search=full%20stack%20developer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "front-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "front end developer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=front%20end%20developer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-relationship-manager",
+      "industry": "financial-services",
+      "employer": "dbs",
+      "term": "assistant relationship manager",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=assistant%20relationship%20manager",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Assistant Relationship Manager, DBS Private Bank",
+        "Treasures Assistant Relationship Manager, Consumer Banking Group"
+      ]
+    },
+    {
+      "role": "investment-counsellor-assistant",
+      "industry": "financial-services",
+      "employer": "standard-chartered",
+      "term": "investment counsellor assistant",
+      "url": "https://jobs.standardchartered.com/search/?q=investment%20counsellor%20assistant&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "product-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "product security engineer",
+      "url": "https://jobs.apple.com/en-sg/search?search=product%20security%20engineer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "back-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "back end developer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=back%20end%20developer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "sales-executive-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "sales executive",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=sales%20executive&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-relationship-manager-relationship-associate",
+      "industry": "financial-services",
+      "employer": "barclays",
+      "term": "relationship associate",
+      "url": "https://search.jobs.barclays/search-jobs/relationship%20associate/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Assistant Relationship Manager, Private Bank"
+      ]
+    },
+    {
+      "role": "investment-counsellor-assistant",
+      "industry": "financial-services",
+      "employer": "dbs",
+      "term": "investment counsellor assistant",
+      "url": "https://dbs.wd3.myworkdayjobs.com/en-US/DBS_Careers?q=investment%20counsellor%20assistant",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "sales-executive-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "sales executive",
+      "url": "https://jobs.apple.com/en-sg/search?search=sales%20executive&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "pre-sales-consultant",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "pre-sales consultant",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=pre-sales%20consultant&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "full-stack-developer",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "full stack developer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=full%20stack%20developer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 5,
+      "titles": [
+        "Software Engineer III, Full Stack",
+        "Software Engineer III, Full Stack, Enterprise Data Protection",
+        "Software Engineer, Google Pay, Full Stack",
+        "Senior Software Engineer, Ask Google Pay",
+        "Senior Software Engineer, Google Pay Ads"
+      ]
+    },
+    {
+      "role": "pre-sales-consultant",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "pre-sales consultant",
+      "url": "https://jobs.apple.com/en-sg/search?search=pre-sales%20consultant&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "associate-software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "associate software engineer",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=associate%20software%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-relationship-manager",
+      "industry": "financial-services",
+      "employer": "barclays",
+      "term": "assistant relationship manager",
+      "url": "https://search.jobs.barclays/search-jobs/assistant%20relationship%20manager/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Assistant Relationship Manager, Private Bank"
+      ]
+    },
+    {
+      "role": "software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "software engineer",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=software%20engineer&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Software Developer Intern, Field Innovation, Security Search and Observability (SSO)"
+      ]
+    },
+    {
+      "role": "associate-software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "associate software engineer",
+      "url": "https://jobs.apple.com/en-sg/search?search=associate%20software%20engineer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "investment-counsellor-assistant",
+      "industry": "financial-services",
+      "employer": "barclays",
+      "term": "investment counsellor assistant",
+      "url": "https://search.jobs.barclays/search-jobs/investment%20counsellor%20assistant/Singapore/22545/1/2/1880251/1x36667/103x83333/50/2",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "product-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "product security engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=product%20security%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "it-auditor",
+      "industry": "infocomm-technology",
+      "employer": "amazon",
+      "term": "it auditor",
+      "url": "https://www.amazon.jobs/en/search.json?base_query=it%20auditor&normalized_country_code%5B%5D=SGP&result_limit=50",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "software engineer",
+      "url": "https://jobs.apple.com/en-sg/search?search=software%20engineer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Senior Software Engineer, Cloud Services Engineering"
+      ]
+    },
+    {
+      "role": "senior-risk-analyst-risk-analyst",
+      "industry": "wholesale-trade",
+      "employer": "procter-gamble",
+      "term": "risk analyst",
+      "url": "https://www.pgcareers.com/global/en/search-results?keywords=risk%20analyst&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "it-auditor",
+      "industry": "infocomm-technology",
+      "employer": "apple",
+      "term": "it auditor",
+      "url": "https://jobs.apple.com/en-sg/search?search=it%20auditor&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "sales-executive-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "sales executive",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=sales%20executive&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "senior-security-engineer-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "security engineer",
+      "url": "https://careers.micron.com/careers?query=security%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Staff / Senior Security Engineer, Firmware Test, SSD",
+        "Staff / Principal Security Engineer, Firmware Test, SSD"
+      ],
+      "dropped": 1
+    },
+    {
+      "role": "junior-programmer",
+      "industry": "media",
+      "employer": "apple",
+      "term": "junior programmer",
+      "url": "https://jobs.apple.com/en-sg/search?search=junior%20programmer&location=singapore-SGP",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "staff-nurse",
+      "industry": "healthcare",
+      "employer": "singhealth",
+      "term": "staff nurse",
+      "url": "https://careers.singhealth.com.sg/search/?q=staff%20nurse",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 12,
+      "titles": [
+        "Staff Nurse",
+        "Senior / Staff Nurse",
+        "Senior Staff Nurse (Specialty)",
+        "Senior Staff Nurse (OT)",
+        "Senior Staff Nurse",
+        "Staff Nurse (Inpatient)",
+        "Senior/ Staff Nurse (Department of Diagnostic & Interventional Imaging)",
+        "Senior/ Staff Nurse",
+        "Staff Nurse (Day Ward)",
+        "Senior/Staff Nurse (OT)",
+        "Staff Nurse, Dept of Child Development (Contract)",
+        "Senior Staff Nurse (Infection Prevention and Control)"
+      ],
+      "dropped": 3
+    },
+    {
+      "role": "derivatives-trader",
+      "industry": "wholesale-trade",
+      "employer": "procter-gamble",
+      "term": "derivatives trader",
+      "url": "https://www.pgcareers.com/global/en/search-results?keywords=derivatives%20trader&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "occupational-therapist",
+      "industry": "healthcare",
+      "employer": "singhealth",
+      "term": "occupational therapist",
+      "url": "https://careers.singhealth.com.sg/search/?q=occupational%20therapist",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Locum Occupational Therapist",
+        "Senior / Occupational Therapist"
+      ]
+    },
+    {
+      "role": "pre-sales-consultant",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "pre-sales consultant",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=pre-sales%20consultant&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "staff-nurse",
+      "industry": "healthcare",
+      "employer": "nhg",
+      "term": "staff nurse",
+      "url": "https://careers.nhghealth.com.sg/search/?q=staff%20nurse",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 8,
+      "titles": [
+        "Staff Nurse",
+        "Senior Staff Nurse I",
+        "Staff Nurse, NurseFirst (Contract till 31 Aug 2027)",
+        "TTSH_Staff Nurse / Sr Staff Nurse (Emergency Department)_2-years Contract",
+        "Senior/Staff Nurse (Care@Nursing Home)",
+        "Staff Nurse / Senior Staff Nurse (Chronic Disease Management)",
+        "WH_Senior/Staff Nurse (OT)",
+        "WH_Senior Staff Nurse I (Invasive Cardiac Lab)"
+      ]
+    },
+    {
+      "role": "physiotherapist",
+      "industry": "healthcare",
+      "employer": "singhealth",
+      "term": "physiotherapist",
+      "url": "https://careers.singhealth.com.sg/search/?q=physiotherapist",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 9,
+      "titles": [
+        "Principal / Senior Physiotherapist",
+        "Locum Physiotherapist",
+        "Senior Physiotherapist / Physiotherapist",
+        "Physiotherapist",
+        "Physiotherapist (Locum)",
+        "Senior / Physiotherapist",
+        "Locum Senior / Physiotherapist (SSMC Novena)",
+        "Senior / Physiotherapist (SSMC Novena)",
+        "Principal / Senior / Physiotherapist, EGH Planning Office"
+      ],
+      "dropped": 2
+    },
+    {
+      "role": "senior-security-engineer-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "security engineer",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=security%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "occupational-therapist",
+      "industry": "healthcare",
+      "employer": "nhg",
+      "term": "occupational therapist",
+      "url": "https://careers.nhghealth.com.sg/search/?q=occupational%20therapist",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 5,
+      "titles": [
+        "Sr Occupational Therapist",
+        "Occupational Therapist",
+        "Senior Occupational Therapist (Maternity Cover)",
+        "Locum Occupational Therapist",
+        "Sr / Occupational Therapist"
+      ],
+      "dropped": 1
+    },
+    {
+      "role": "commodities-trader",
+      "industry": "wholesale-trade",
+      "employer": "procter-gamble",
+      "term": "commodities trader",
+      "url": "https://www.pgcareers.com/global/en/search-results?keywords=commodities%20trader&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "policy-officer",
+      "industry": "social-service",
+      "employer": "singhealth",
+      "term": "policy officer",
+      "url": "https://careers.singhealth.com.sg/search/?q=policy%20officer",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "associate-software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "associate software engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=associate%20software%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 11,
+      "titles": [
+        "Software Engineer, Google Payments, Growth",
+        "Software Engineer II, Google Wallet Onboarding and Communications",
+        "Software Engineer, Google Ads Team",
+        "Software Engineer, Content Safety, Core",
+        "Software Engineer, Safe Coding Team",
+        "Software Engineer III, Full Stack",
+        "Software Engineer III, Full Stack, Enterprise Data Protection",
+        "Software Engineer, Payments Security",
+        "Software Engineer II, Content Safety",
+        "Software Engineer, Google Ads",
+        "Software Engineer, Finance and Growth Platform, Payments"
+      ]
+    },
+    {
+      "role": "physiotherapist",
+      "industry": "healthcare",
+      "employer": "nhg",
+      "term": "physiotherapist",
+      "url": "https://careers.nhghealth.com.sg/search/?q=physiotherapist",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 6,
+      "titles": [
+        "Sr Physiotherapist",
+        "Physiotherapist",
+        "Senior Physiotherapists",
+        "Physiotherapist (Locum)",
+        "Sr/Physiotherapist, Community Health",
+        "Sr / Physiotherapist"
+      ],
+      "dropped": 2
+    },
+    {
+      "role": "policy-officer",
+      "industry": "social-service",
+      "employer": "nhg",
+      "term": "policy officer",
+      "url": "https://careers.nhghealth.com.sg/search/?q=policy%20officer",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "software engineer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=software%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 17,
+      "titles": [
+        "Software Engineer, Google Payments, Growth",
+        "Software Engineer, Safe Coding Team",
+        "Software Engineer II, Google Wallet Onboarding and Communications",
+        "Senior Software Engineer, App Ads, Data and Measurement",
+        "Senior Software Engineer, Safe Coding",
+        "Software Engineer, Content Safety, Core",
+        "Senior Software Engineer, Google Pay, Growth and Communications",
+        "Software Engineer, Google Ads Team",
+        "Senior Software Engineer, Ask Google Pay",
+        "Software Engineer, Safe Coding",
+        "Software Engineer III, Full Stack, Enterprise Data Protection",
+        "Software Engineer, Google Pay, Server",
+        "Software Engineer, Android App Security, Content Abuse",
+        "Software Engineer, Payments Security",
+        "Software Engineer, Finance and Growth Platform, Payments",
+        "Senior Software Engineer, Consumer Payments, Growth",
+        "Senior Software Engineer, Cloud Networking (Mandarin, English)"
+      ]
+    },
+    {
+      "role": "cyber-risk-analyst",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "cyber risk analyst",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=cyber%20risk%20analyst&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "it-auditor",
+      "industry": "infocomm-technology",
+      "employer": "google",
+      "term": "it auditor",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=it%20auditor&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "cyber-risk-analyst",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "cyber risk analyst",
+      "url": "https://careers.micron.com/careers?query=cyber%20risk%20analyst&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "business-valuation-associate-business-valuation-executive",
+      "industry": "accountancy",
+      "employer": "kpmg",
+      "term": "business valuation executive",
+      "url": "https://careers.kpmg.com.sg/search/?q=business%20valuation%20executive",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Corporate Finance (Business Valuation), Manager / Associate Director"
+      ]
+    },
+    {
+      "role": "junior-programmer",
+      "industry": "media",
+      "employer": "google",
+      "term": "junior programmer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results?q=junior%20programmer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "data-engineer-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "data engineer",
+      "url": "https://careers.micron.com/careers?query=data%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "Senior Engineer, Front End Labor Data Engineering"
+      ]
+    },
+    {
+      "role": "data-engineer-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "data engineer",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=data%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "business-valuation-associate-business-valuation-executive",
+      "industry": "accountancy",
+      "employer": "ey",
+      "term": "business valuation executive",
+      "url": "https://careers.ey.com/ey/search/?q=business%20valuation%20executive&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "EY-Parthenon Senior Associate, Valuations and Modelling",
+        "EY-Parthenon Manager - Valuations and Modelling"
+      ]
+    },
+    {
+      "role": "enterprise-risk-associate",
+      "industry": "accountancy",
+      "employer": "kpmg",
+      "term": "enterprise risk management executive",
+      "url": "https://careers.kpmg.com.sg/search/?q=enterprise%20risk%20management%20executive",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "enterprise-risk-associate",
+      "industry": "accountancy",
+      "employer": "ey",
+      "term": "enterprise risk management executive",
+      "url": "https://careers.ey.com/ey/search/?q=enterprise%20risk%20management%20executive&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Enterprise Risk Associate/Senior Associate, Risk Consulting",
+        "Manager, Enterprise Risk Management - Risk Consulting"
+      ]
+    },
+    {
+      "role": "senior-internal-auditor-internal-auditor",
+      "industry": "accountancy",
+      "employer": "kpmg",
+      "term": "internal auditor",
+      "url": "https://careers.kpmg.com.sg/search/?q=internal%20auditor",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Associate to Assistant Manager, Internal Audit (Governance, Risk & Compliance)",
+        "IT Internal Audit, Senior Associate / Associate Manager"
+      ]
+    },
+    {
+      "role": "senior-internal-auditor-internal-auditor",
+      "industry": "accountancy",
+      "employer": "ey",
+      "term": "internal auditor",
+      "url": "https://careers.ey.com/ey/search/?q=internal%20auditor&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 2,
+      "titles": [
+        "Senior Consultant (IT Internal Audit) - Risk Consulting, EY Singapore",
+        "Manager (IT Internal Audit) - Risk Consulting, EY Singapore"
+      ]
+    },
+    {
+      "role": "artificial-intelligence-machine-learning-engineer",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "machine learning engineer",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=machine%20learning%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "data-engineer-financial-services",
+      "industry": "financial-services",
+      "employer": "kpmg",
+      "term": "data engineer",
+      "url": "https://careers.kpmg.com.sg/search/?q=data%20engineer",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "data-engineer-financial-services",
+      "industry": "financial-services",
+      "employer": "ey",
+      "term": "data engineer",
+      "url": "https://careers.ey.com/ey/search/?q=data%20engineer&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 4,
+      "titles": [
+        "Data Engineer (Senior Associate), Technology Consulting",
+        "Databricks Data Engineer, Senior Associate, AI Data, Technology Consulting",
+        "Senior Associate/Manager Data Engineer Consultant (Data Bricks) / Technology Consulting",
+        "GenAI Big Data Engineer (Financial Services) Manager, Technology Consulting"
+      ]
+    },
+    {
+      "role": "assistant-wealth-planner",
+      "industry": "financial-services",
+      "employer": "kpmg",
+      "term": "assistant wealth planner",
+      "url": "https://careers.kpmg.com.sg/search/?q=assistant%20wealth%20planner",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "front-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "front end developer",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=front%20end%20developer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "artificial-intelligence-machine-learning-engineer",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "machine learning engineer",
+      "url": "https://careers.micron.com/careers?query=machine%20learning%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 4,
+      "titles": [
+        "Staff AI Engineer, SMAI Enablement",
+        "Sr AI Engineer, SMAI",
+        "SR AI Engineer , SMAI",
+        "AI Engineer, SMAI"
+      ]
+    },
+    {
+      "role": "assistant-wealth-planner",
+      "industry": "financial-services",
+      "employer": "ey",
+      "term": "assistant wealth planner",
+      "url": "https://careers.ey.com/ey/search/?q=assistant%20wealth%20planner&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "economist",
+      "industry": "financial-services",
+      "employer": "ey",
+      "term": "economist",
+      "url": "https://careers.ey.com/ey/search/?q=economist&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "economist",
+      "industry": "financial-services",
+      "employer": "kpmg",
+      "term": "economist",
+      "url": "https://careers.kpmg.com.sg/search/?q=economist",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "business-valuation-associate-business-valuation-executive",
+      "industry": "accountancy",
+      "employer": "deloitte",
+      "term": "business valuation executive",
+      "url": "https://jobs.sea.deloitte.com/search/?q=business%20valuation%20executive&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "enterprise-risk-associate",
+      "industry": "accountancy",
+      "employer": "deloitte",
+      "term": "enterprise risk management executive",
+      "url": "https://jobs.sea.deloitte.com/search/?q=enterprise%20risk%20management%20executive&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "technology-information-and-cybersecurity-risk-analyst",
+      "industry": "financial-services",
+      "employer": "ey",
+      "term": "technology, information and cybersecurity risk analyst",
+      "url": "https://careers.ey.com/ey/search/?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 7,
+      "titles": [
+        "Manager, Financial Accounting Advisory Services (Technology Risk), Assurance",
+        "Manager (IT Internal Audit) - Risk Consulting, EY Singapore",
+        "Senior Consultant (IT Internal Audit) - Risk Consulting, EY Singapore",
+        "Senior Associate, IT Auditor, Financial Services Assurance",
+        "Senior Manager - Blockchain & Digital Assets Lead, Technology Risk (Financial Services Assurance)",
+        "Senior Associate, Technology Assurance",
+        "Senior Associate, Assurance Advisory (Blockchain & Digital Assets), Financial Services"
+      ]
+    },
+    {
+      "role": "technology-information-and-cybersecurity-risk-analyst",
+      "industry": "financial-services",
+      "employer": "kpmg",
+      "term": "technology, information and cybersecurity risk analyst",
+      "url": "https://careers.kpmg.com.sg/search/?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "back-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "back end developer",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=back%20end%20developer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "senior-internal-auditor-internal-auditor",
+      "industry": "accountancy",
+      "employer": "deloitte",
+      "term": "internal auditor",
+      "url": "https://jobs.sea.deloitte.com/search/?q=internal%20auditor&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 5,
+      "titles": [
+        "A&A - SG - Internal Audit ( Consultant ~ Senior Consultant) 1",
+        "A&A - SG - Internal Audit (Analyst)",
+        "A&A - SG - Internal Audit ( Analyst)",
+        "A&A - SG - Internal Audit ( Analyst) 1",
+        "A&A - SG - Internal Audit (Consultant)"
+      ]
+    },
+    {
+      "role": "assistant-relationship-manager-relationship-associate",
+      "industry": "financial-services",
+      "employer": "ey",
+      "term": "relationship associate",
+      "url": "https://careers.ey.com/ey/search/?q=relationship%20associate&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-relationship-manager-relationship-associate",
+      "industry": "financial-services",
+      "employer": "kpmg",
+      "term": "relationship associate",
+      "url": "https://careers.kpmg.com.sg/search/?q=relationship%20associate",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "data-engineer-financial-services",
+      "industry": "financial-services",
+      "employer": "deloitte",
+      "term": "data engineer",
+      "url": "https://jobs.sea.deloitte.com/search/?q=data%20engineer&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 1,
+      "titles": [
+        "T&T Data Platform Engineer - Artificial Intelligence & Data - GPS - SG"
+      ]
+    },
+    {
+      "role": "assistant-relationship-manager",
+      "industry": "financial-services",
+      "employer": "ey",
+      "term": "assistant relationship manager",
+      "url": "https://careers.ey.com/ey/search/?q=assistant%20relationship%20manager&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-wealth-planner",
+      "industry": "financial-services",
+      "employer": "deloitte",
+      "term": "assistant wealth planner",
+      "url": "https://jobs.sea.deloitte.com/search/?q=assistant%20wealth%20planner&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "full-stack-developer",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "full stack developer",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=full%20stack%20developer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-relationship-manager",
+      "industry": "financial-services",
+      "employer": "kpmg",
+      "term": "assistant relationship manager",
+      "url": "https://careers.kpmg.com.sg/search/?q=assistant%20relationship%20manager",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "front-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "front end developer",
+      "url": "https://careers.micron.com/careers?query=front%20end%20developer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "economist",
+      "industry": "financial-services",
+      "employer": "deloitte",
+      "term": "economist",
+      "url": "https://jobs.sea.deloitte.com/search/?q=economist&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "investment-counsellor-assistant",
+      "industry": "financial-services",
+      "employer": "ey",
+      "term": "investment counsellor assistant",
+      "url": "https://careers.ey.com/ey/search/?q=investment%20counsellor%20assistant&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "investment-counsellor-assistant",
+      "industry": "financial-services",
+      "employer": "kpmg",
+      "term": "investment counsellor assistant",
+      "url": "https://careers.kpmg.com.sg/search/?q=investment%20counsellor%20assistant",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "technology-information-and-cybersecurity-risk-analyst",
+      "industry": "financial-services",
+      "employer": "deloitte",
+      "term": "technology, information and cybersecurity risk analyst",
+      "url": "https://jobs.sea.deloitte.com/search/?q=technology%2C%20information%20and%20cybersecurity%20risk%20analyst&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 13,
+      "titles": [
+        "T&T Experienced Analyst / Consultant - Cyber Strategy & Transformation - SG",
+        "T&T - Consultant - Cyber Defense & Resilience (offsec) - SG",
+        "T&T Consultant - Cyber Strategy & Transformation - SG",
+        "A&A - SG - Digital Assurance - IT Audit Analytics Manager",
+        "A&A - SG GRC Specialist (Manager)",
+        "T&T - Senior Consultant - Cyber Defense & Resilience (offsec) - SG",
+        "A&A - SG - AI & Data Assurance Consultant",
+        "T&T Analyst - Cyber Defence & Resilience - Project Administrator - SG",
+        "T&T Senior Consultant - Cyber Defence & Resilience (Offsec)- SG",
+        "T&T - Senior Consultant - Cyber Defence & Resilience (offsec) - SG",
+        "T&T - Consultant - Cyber Defence & Resilience - SG",
+        "T&T Manager / Senior Manager - SOC Manager - SG",
+        "T&T Senior Consultant - Cloud Security & Penetration Testing - SG"
+      ]
+    },
+    {
+      "role": "product-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "product security engineer",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=product%20security%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "back-end-developer",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "back end developer",
+      "url": "https://careers.micron.com/careers?query=back%20end%20developer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-relationship-manager-relationship-associate",
+      "industry": "financial-services",
+      "employer": "deloitte",
+      "term": "relationship associate",
+      "url": "https://jobs.sea.deloitte.com/search/?q=relationship%20associate&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "assistant-relationship-manager",
+      "industry": "financial-services",
+      "employer": "deloitte",
+      "term": "assistant relationship manager",
+      "url": "https://jobs.sea.deloitte.com/search/?q=assistant%20relationship%20manager&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "investment-counsellor-assistant",
+      "industry": "financial-services",
+      "employer": "deloitte",
+      "term": "investment counsellor assistant",
+      "url": "https://jobs.sea.deloitte.com/search/?q=investment%20counsellor%20assistant&locationsearch=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "sales-executive-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "sales executive",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=sales%20executive&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "pre-sales-consultant",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "pre-sales consultant",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=pre-sales%20consultant&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "full-stack-developer",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "full stack developer",
+      "url": "https://careers.micron.com/careers?query=full%20stack%20developer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "associate-software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "associate software engineer",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=associate%20software%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "product-security-engineer",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "product security engineer",
+      "url": "https://careers.micron.com/careers?query=product%20security%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 3,
+      "titles": [
+        "Staff / Principal Security Engineer, Firmware Test, SSD",
+        "Staff / Senior Security Engineer, Firmware Test, SSD",
+        "AT Senior IP Security Engineer"
+      ],
+      "dropped": 1
+    },
+    {
+      "role": "sales-executive-infocomm-technology",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "sales executive",
+      "url": "https://careers.micron.com/careers?query=sales%20executive&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "software engineer",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=software%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "pre-sales-consultant",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "pre-sales consultant",
+      "url": "https://careers.micron.com/careers?query=pre-sales%20consultant&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "it-auditor",
+      "industry": "infocomm-technology",
+      "employer": "msd",
+      "term": "it auditor",
+      "url": "https://jobs.msd.com/gb/en/search-results?keywords=it%20auditor&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "no-listing",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "associate-software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "associate software engineer",
+      "url": "https://careers.micron.com/careers?query=associate%20software%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "software-engineer",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "software engineer",
+      "url": "https://careers.micron.com/careers?query=software%20engineer&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    },
+    {
+      "role": "it-auditor",
+      "industry": "infocomm-technology",
+      "employer": "micron",
+      "term": "it auditor",
+      "url": "https://careers.micron.com/careers?query=it%20auditor&location=Singapore",
+      "checkedAt": "2026-10-29",
+      "status": "ok",
+      "openings": 0,
+      "titles": []
+    }
+  ]
+}

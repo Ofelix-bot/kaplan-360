@@ -1,0 +1,67 @@
+{
+  "id": "whu",
+  "status": "read",
+  "university": "武汉大学",
+  "universityEn": "Wuhan University",
+  "tier": "985",
+  "url": "https://info.whu.edu.cn/__local/7/59/72/62B0BBACF975D3CC4AF4020D6F2_46B06638_9989C.pdf",
+  "title": "本科教学质量报告",
+  "year": 2024,
+  "cohort": "2024届",
+  "pages": 52,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 66,
+      "quote": "2024 届毕业生升学出国率达 66%"
+    },
+    {
+      "group": "全体",
+      "cohort": "2023届",
+      "count": null,
+      "pct": null,
+      "quote": "升学出国率近 60%。"
+    },
+    {
+      "group": "本科生",
+      "cohort": "2023届",
+      "count": null,
+      "pct": 10,
+      "quote": "2023 届本科毕业生有近 10%选择留学深造"
+    }
+  ],
+  "regions": [],
+  "ranked": [
+    {
+      "band": "QS 前100",
+      "cohort": "2023届",
+      "count": null,
+      "pct": null,
+      "quote": "留学毕业生中有超过八成进入 QS 前 100 名高校留学，较去年同期略有上浮。"
+    }
+  ],
+  "destinations": [
+    {
+      "nameZh": "杜克大学",
+      "nameEn": "Duke University",
+      "count": null,
+      "group": null,
+      "list": null,
+      "quote": "去向包括杜克大学、新加坡国立大学、清华大学、北京大学、中国科学院大学、复旦大学等国内外一流大学",
+      "institutionId": "duke-university"
+    },
+    {
+      "nameZh": "新加坡国立大学",
+      "nameEn": "National University of Singapore",
+      "count": null,
+      "group": null,
+      "list": null,
+      "quote": "去向包括杜克大学、新加坡国立大学、清华大学、北京大学、中国科学院大学、复旦大学等国内外一流大学",
+      "institutionId": "national-university-of-singapore"
+    }
+  ],
+  "dropped": [],
+  "checked": "2026-10-21"
+}

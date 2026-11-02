@@ -1,0 +1,94 @@
+# university-of-northampton https://www.northampton.ac.uk
+robots sitemaps: https://www.northampton.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.northampton.ac.uk/sitemap.xml: 21 children (3 course-like)
+sitemaps read 22 · urls 7835 · master's-looking 458
+  296  www.northampton.ac.uk/news
+         https://www.northampton.ac.uk/news/over-100-young-people-graduate-from-the-northamptonshire-childrens-university/
+         https://www.northampton.ac.uk/news/software-engineering-graduates-celebrate-record-job-offers/
+         https://www.northampton.ac.uk/news/undergraduates-given-crucial-gaming-industry-tips/
+         https://www.northampton.ac.uk/news/un-graduates-paint-a-thon-for-neurology-hospital/
+   50  www.northampton.ac.uk/courses
+         https://www.northampton.ac.uk/courses/accounting-and-finance-msc/
+         https://www.northampton.ac.uk/courses/accounting-and-finance-top-up-msc/
+         https://www.northampton.ac.uk/courses/human-resource-management-topup-ma/
+         https://www.northampton.ac.uk/courses/human-resource-management-ma/
+   34  www.northampton.ac.uk/student-life/new-students/welcome-packs
+         https://www.northampton.ac.uk/student-life/new-students/welcome-packs/project-management-msc-welcome-pack/
+         https://www.northampton.ac.uk/student-life/new-students/welcome-packs/master-of-business-administration-mba-welcome-pack/
+         https://www.northampton.ac.uk/student-life/new-students/welcome-packs/accounting-finance-top-up-msc-welcome-pack/
+         https://www.northampton.ac.uk/student-life/new-students/welcome-packs/accounting-finance-msc-welcome-pack/
+   14  www.northampton.ac.uk/undergraduate
+         https://www.northampton.ac.uk/undergraduate/how-to-apply/
+         https://www.northampton.ac.uk/undergraduate/prospectus/
+         https://www.northampton.ac.uk/undergraduate/ucas-extra/
+         https://www.northampton.ac.uk/undergraduate/undergraduate-fees-and-funding/
+   13  www.northampton.ac.uk/blog
+         https://www.northampton.ac.uk/blog/using-a-masters-loan-to-fund-your-postgraduate-course/
+         https://www.northampton.ac.uk/blog/my-masters-in-education-journey/
+         https://www.northampton.ac.uk/blog/my-care-home-placement-experience-as-a-physiotherapy-masters-student/
+         https://www.northampton.ac.uk/blog/student-work-on-display-at-the-ma-fine-art-exhibition-5th-12th-september/
+    8  www.northampton.ac.uk/postgraduate
+         https://www.northampton.ac.uk/postgraduate/postgraduate-fees-and-funding/
+         https://www.northampton.ac.uk/postgraduate/postgraduate-taught-experience-survey/
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/
+         https://www.northampton.ac.uk/postgraduate/masters-events/
+    5  www.northampton.ac.uk/community/alumni
+         https://www.northampton.ac.uk/community/alumni/graduate-discount-scheme/
+         https://www.northampton.ac.uk/community/alumni/graduate-actors-form/
+         https://www.northampton.ac.uk/community/alumni/our-graduate-actors/
+         https://www.northampton.ac.uk/community/alumni/alumni-postgraduate-study/
+    5  www.northampton.ac.uk/news-category
+         https://www.northampton.ac.uk/news-category/graduate-fashion-week/
+         https://www.northampton.ac.uk/news-category/graduate-school/
+         https://www.northampton.ac.uk/news-category/mba/
+         https://www.northampton.ac.uk/news-category/postgraduate-study/
+    4  www.northampton.ac.uk/postgraduate/how-to-apply
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/research-degrees/
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/additional-documents-and-interview-information/
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/how-to-apply-for-health-cpd-study/
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/how-to-apply-as-an-associate-student/
+    4  www.northampton.ac.uk/undergraduate/applicant-interviews-auditions-and-chats
+         https://www.northampton.ac.uk/undergraduate/applicant-interviews-auditions-and-chats/interviews-virtual-goody-bag/
+         https://www.northampton.ac.uk/undergraduate/applicant-interviews-auditions-and-chats/performing-arts-and-design-chats-and-auditions/
+         https://www.northampton.ac.uk/undergraduate/applicant-interviews-auditions-and-chats/education-interviews/
+         https://www.northampton.ac.uk/undergraduate/applicant-interviews-auditions-and-chats/health-interviews/
+    4  www.northampton.ac.uk/postgraduate/how-to-apply/additional-documents-and-interview-information
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/additional-documents-and-interview-information/return-to-practice-preparatory-interview-form/
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/additional-documents-and-interview-information/dba-research-area-form/
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/additional-documents-and-interview-information/doctor-of-professional-practice-research-area-form/
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/additional-documents-and-interview-information/mres-sport-and-exercise-research-proposal-form/
+    3  www.northampton.ac.uk/student-life/graduation/graduation-attire
+         https://www.northampton.ac.uk/student-life/graduation/graduation-attire/undergraduate-graduation-attire/
+         https://www.northampton.ac.uk/student-life/graduation/graduation-attire/postgraduate-graduation-attire/
+         https://www.northampton.ac.uk/student-life/graduation/graduation-attire/postgraduate-research-degrees-and-honorary-awards-attire/
+    3  www.northampton.ac.uk/research-blogs
+         https://www.northampton.ac.uk/research-blogs/tested-under-pressure-what-the-re-act-simulation-taught-uon-about-keeping-people-safe/
+         https://www.northampton.ac.uk/research-blogs/learning-through-uncertainty-what-a-live-vr-project-taught-us-about-student-agency/
+         https://www.northampton.ac.uk/research-blogs/letting-go-of-the-script-what-operation-nexus-taught-us-about-simulation-facilitation-authenticity-and-learning/
+    2  www.northampton.ac.uk/student-life/bursaries-scholarships-and-awards
+         https://www.northampton.ac.uk/student-life/bursaries-scholarships-and-awards/undergraduate-scholarships/
+         https://www.northampton.ac.uk/student-life/bursaries-scholarships-and-awards/postgraduate-and-research-scholarships/
+    2  www.northampton.ac.uk/postgraduate/how-to-apply/research-degrees
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/research-degrees/writing-a-research-degree-proposal/
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/research-degrees/visiting-research-student-request-form/
+    2  www.northampton.ac.uk/student-life/student-stories
+         https://www.northampton.ac.uk/student-life/student-stories/graduate-case-study-form/
+         https://www.northampton.ac.uk/student-life/student-stories/master-of-business-administration-mba-student-stories/
+    1  www.northampton.ac.uk/study/courses-by-subject
+         https://www.northampton.ac.uk/study/courses-by-subject/mba/
+    1  www.northampton.ac.uk/international/immigration-compliance-services
+         https://www.northampton.ac.uk/international/immigration-compliance-services/graduate-route/
+    1  www.northampton.ac.uk/postgraduate/how-to-apply/how-to-apply-for-health-cpd-study
+         https://www.northampton.ac.uk/postgraduate/how-to-apply/how-to-apply-for-health-cpd-study/health-apel-apcl-interest-form/
+    1  www.northampton.ac.uk/about-us/governance-and-management/key-data-and-reports
+         https://www.northampton.ac.uk/about-us/governance-and-management/key-data-and-reports/tef-submission/graduate-outcomes/
+    1  www.northampton.ac.uk/undergraduate/how-to-apply
+         https://www.northampton.ac.uk/undergraduate/how-to-apply/transferring-to-the-university-of-northampton/
+    1  www.northampton.ac.uk/student-life/student-futures
+         https://www.northampton.ac.uk/student-life/student-futures/graduate-outcomes-survey/
+    1  www.northampton.ac.uk/undergraduate/undergraduate-fees-and-funding
+         https://www.northampton.ac.uk/undergraduate/undergraduate-fees-and-funding/lifelong-learning-entitlement-lle/
+    1  www.northampton.ac.uk/research
+         https://www.northampton.ac.uk/research/the-graduate-school/
+    1  www.northampton.ac.uk/directories/people
+         https://www.northampton.ac.uk/directories/people/fiona-masters/

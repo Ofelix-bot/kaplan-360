@@ -1,0 +1,60 @@
+{
+  "note": "One official page per university stating its minimum English scores for graduate applicants: the page its own programme pages link to most (counted in the cached pages, 2026-10-19), or found and checked by hand. Read by scripts/pipeline/english-university.ts.",
+  "pages": {
+    "university-of-canterbury": {
+      "url": "https://www.canterbury.ac.nz/study/getting-started/admission-and-enrolment/enrolment-topics/english-language-proficiency"
+    },
+    "university-of-waikato": {
+      "url": "https://www.waikato.ac.nz/about/calendar/admission/english-language-requirements/"
+    },
+    "lincoln-university": {
+      "url": "https://www.lincoln.ac.nz/study/apply-and-enrol/apply/english-language-requirements/",
+      "browser": true
+    },
+    "massachusetts-institute-of-technology": {
+      "url": "https://oge.mit.edu/graduate-admissions/admissions-policies/elp-test-requirement/"
+    },
+    "university-of-southern-queensland": {
+      "url": "https://www.unisq.edu.au/study/apply/entry-requirements/english-language-requirements"
+    },
+    "university-of-kent": {
+      "url": "https://www.kent.ac.uk/courses/english-language-requirements"
+    },
+    "dublin-city-university": {
+      "url": "https://www.dcu.ie/registry/english-language-requirements-non-native-speakers-english-registry"
+    },
+    "university-of-alberta": {
+      "url": "https://calendar.ualberta.ca/content.php?catoid=69&navoid=20892",
+      "browser": true
+    },
+    "massey-university": {
+      "url": "https://www.massey.ac.nz/study/entry-requirements-to-study-at-massey/entry-requirements-for-international-students/"
+    },
+    "chinese-university-of-hong-kong": {
+      "url": "https://www.gs.cuhk.edu.hk/admissions/requirements"
+    },
+    "university-of-massachusetts-amherst": {
+      "url": "https://www.umass.edu/graduate/apply/international-applicants",
+      "browser": true
+    },
+    "university-of-maryland-college-park": {
+      "url": "https://gradschool.umd.edu/admissions/english-language-proficiency-requirements"
+    },
+    "university-of-wisconsin-madison": {
+      "url": "https://grad.wisc.edu/apply/requirements/"
+    },
+    "university-of-illinois-at-urbana-champaign": {
+      "url": "https://grad.illinois.edu/admissions/instructions/04c"
+    },
+    "university-of-colorado-boulder": {
+      "url": "https://www.colorado.edu/graduateschool/admissions/where-begin/international-students/english-proficiency-requirements"
+    },
+    "georgia-institute-of-technology": {
+      "url": "https://catalog.gatech.edu/admissions/grad/english-language-proficiency/"
+    },
+    "university-of-arizona": {
+      "url": "https://grad.arizona.edu/tools/intladmissionsreqs",
+      "browser": true
+    }
+  }
+}

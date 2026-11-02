@@ -1,0 +1,30 @@
+{
+ "source": "sitemaps (scripts/pipeline/auto-sources.ts)",
+ "retrievedAt": "2026-10-19",
+ "pages": [
+  "https://catalogue.uci.edu//allcourses/er_med",
+  "https://catalogue.uci.edu//allcourses/fam_med",
+  "https://catalogue.uci.edu//allcourses/int_med",
+  "https://catalogue.uci.edu//allcourses/med",
+  "https://catalogue.uci.edu//allcourses/med_ed",
+  "https://catalogue.uci.edu//allcourses/mse",
+  "https://catalogue.uci.edu//charliedunlopschoolofbiologicalsciences/departmentofecologyandevolutionarybiology/conservationandrestorationscience_master",
+  "https://catalogue.uci.edu//donaldbrenschoolofinformationandcomputersciences/datascience_master",
+  "https://catalogue.uci.edu//donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_master",
+  "https://catalogue.uci.edu//donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/humancomputerinteractionanddesign_master",
+  "https://catalogue.uci.edu//donaldbrenschoolofinformationandcomputersciences/departmentofinformatics/softwareengineering_master",
+  "https://catalogue.uci.edu//interdisciplinarystudies/embeddedandcyberphysicalsystems_master",
+  "https://catalogue.uci.edu//joecwenschoolofpopulationandpublichealth/publichealth_master",
+  "https://catalogue.uci.edu//schoolofeducation/educationsciences_master",
+  "https://catalogue.uci.edu//schoolofsocialecology/departmentofpsychology/legalandforensicpsychology_master",
+  "https://catalogue.uci.edu//schoolofsocialecology/departmentofurbanplanningandpublicpolicy/publicadministration_master",
+  "https://catalogue.uci.edu//schoolofsocialecology/departmentofurbanplanningandpublicpolicy/publicpolicy_master",
+  "https://catalogue.uci.edu//schoolofsocialecology/departmentofurbanplanningandpublicpolicy/urbanandregionalplanning_master",
+  "https://catalogue.uci.edu//thehenrysamuelischoolofengineering/engineering_master",
+  "https://catalogue.uci.edu//thepaulmerageschoolofbusiness/businessanalytics_master",
+  "https://catalogue.uci.edu//thepaulmerageschoolofbusiness/finance_master",
+  "https://catalogue.uci.edu//thepaulmerageschoolofbusiness/innovationandentrepreneurship_master",
+  "https://catalogue.uci.edu//thepaulmerageschoolofbusiness/professionalaccountancy_master",
+  "https://grad.uci.edu/helparticles/different-ways-to-earn-a-masters-degree"
+ ]
+}

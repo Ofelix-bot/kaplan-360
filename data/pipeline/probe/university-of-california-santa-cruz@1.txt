@@ -1,0 +1,14 @@
+# university-of-california-santa-cruz@1 https://www.ucsc.edu
+robots sitemaps: https://www.ucsc.edu/wp-sitemap.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.ucsc.edu/wp-sitemap.xml: 3 children (1 course-like)
+sitemaps read 4 · urls 234 · master's-looking 7
+    3  www.ucsc.edu/agricultural-experiment-station
+         https://www.ucsc.edu/agricultural-experiment-station/graduate-student-research-fellowships/
+         https://www.ucsc.edu/agricultural-experiment-station/2025-graduate-research-projects/
+         https://www.ucsc.edu/agricultural-experiment-station/2026-graduate-research-projects/
+    3  www.ucsc.edu/timeline
+         https://www.ucsc.edu/timeline/graduate-division-established/
+         https://www.ucsc.edu/timeline/undergraduate-enrollment-declines/
+         https://www.ucsc.edu/timeline/learning-from-a-master/
+    1  www.ucsc.edu/research
+         https://www.ucsc.edu/research/undergraduate-research/

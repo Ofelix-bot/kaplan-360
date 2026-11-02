@@ -1,0 +1,6 @@
+{ "source": "University of Basel master's degree programmes https://www.unibas.ch/en/Infoevening-Master/Degree-Programs.html; language checked on each Degree-Programs study page (browser-rendered), English-only programmes kept; faculty programme pages listed (configured 2026-11-01)", "retrievedAt": "2026-11-01", "pages": [
+"https://wwz.unibas.ch/en/studies/master/master-in-business-and-technology/",
+"https://wwz.unibas.ch/en/studies/master/master-in-finance-and-money/",
+"https://wwz.unibas.ch/en/studies/master/master-in-economics-and-public-policy/",
+"https://dmi.unibas.ch/en/studies/computer-science/masters/",
+"https://dmi.unibas.ch/en/studies/data-science/" ] }

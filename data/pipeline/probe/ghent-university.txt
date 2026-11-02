@@ -1,0 +1,128 @@
+# ghent-university https://www.ugent.be
+robots sitemaps: https://www.ugent.be/sitemap.xml.gz · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 20852 · master's-looking 583
+   83  www.ugent.be/ge/reva/nl
+         https://www.ugent.be/ge/reva/nl/onderwijs/postgraduaten/manuele-therapie/infosessie-postgraduaat/infosessie.htm
+         https://www.ugent.be/ge/reva/nl/onderwijs/postgraduaten/manuele-therapie/infosessie-postgraduaat
+         https://www.ugent.be/ge/reva/nl/onderwijs/postgraduaten/manuele-therapie/contact
+         https://www.ugent.be/ge/reva/nl/onderwijs/postgraduaten/manuele-therapie/lesrooster_mt
+   44  www.ugent.be/nl/opleidingen/masteropleidingen
+         https://www.ugent.be/nl/opleidingen/masteropleidingen/postgraduaat
+         https://www.ugent.be/nl/opleidingen/masteropleidingen/master/diploma.htm
+         https://www.ugent.be/nl/opleidingen/masteropleidingen/master
+         https://www.ugent.be/nl/opleidingen/masteropleidingen/sessiemanama.htm
+   35  www.ugent.be/eb/en/study-programmes
+         https://www.ugent.be/eb/en/study-programmes/master-in-economics
+         https://www.ugent.be/eb/en/study-programmes/master-in-economics/financial-institutions-and-markets.htm
+         https://www.ugent.be/eb/en/study-programmes/master-in-economics/economic-policy.htm
+         https://www.ugent.be/eb/en/study-programmes/master-in-economics/facts-and-figures.htm
+   31  www.ugent.be/bw/nl/voor-studenten
+         https://www.ugent.be/bw/nl/voor-studenten/curriculum/masterproef/promotorenjury.htm
+         https://www.ugent.be/bw/nl/voor-studenten/curriculum/masterproef
+         https://www.ugent.be/bw/nl/voor-studenten/curriculum/masterproef/formulieren-beoordeling-masterproef/masterproefformulieren-manama-en
+         https://www.ugent.be/bw/nl/voor-studenten/curriculum/masterproef/formulieren-beoordeling-masterproef/erasmusmundus
+   20  www.ugent.be/student/en/administration
+         https://www.ugent.be/student/en/administration/tuition/tuition-fee-master-programme-not-advanced-and-masters-programme-in-teaching.htm
+         https://www.ugent.be/student/en/administration/tuition/tuitionfeesinthepast/tuition-fee-2024-2025.htm/tuitionmasterteacher20242025.htm
+         https://www.ugent.be/student/en/administration/tuition/tuition-fee-master-programme-not-advanced-and-masters-programme-in-teaching.htm/tuitionmasterteacher20262027.htm
+         https://www.ugent.be/student/en/administration/tuition/tuition-fee-master-programme-not-advanced-and-masters-programme-in-teaching.htm/copy_of_tuitionmasterteacher20272028.htm
+   17  www.ugent.be/student/nl/administratie
+         https://www.ugent.be/student/nl/administratie/studiegeld/studiegeldmaster-na-bacheloropleidingeneducatievemasteropleiding.htm/interfacultaire-en-interuniversitairemanabas-in-2027-2028.htm
+         https://www.ugent.be/student/nl/administratie/studiegeld/studiegeldpostgraduaatsopleiding.htm/studiegeldpgop2026-2027
+         https://www.ugent.be/student/nl/administratie/studiegeld/studiegeldpostgraduaatsopleiding.htm
+         https://www.ugent.be/student/nl/administratie/studiegeld/studiegeldpostgraduaatsopleiding.htm/studiegeldpgop.htm
+   15  www.ugent.be/bw/nl/voor-lesgevers
+         https://www.ugent.be/bw/nl/voor-lesgevers/masterproef/formulieren-beoordeling-masterproef/masterproefformulieren-ind-ing-nl
+         https://www.ugent.be/bw/nl/voor-lesgevers/masterproef/formulieren-beoordeling-masterproef/masters-dissertation-forms-en-ma
+         https://www.ugent.be/bw/nl/voor-lesgevers/masterproef/formulieren-beoordeling-masterproef/erasmusmundus/international-master-of-science-in-soils-and-global-change
+         https://www.ugent.be/bw/nl/voor-lesgevers/masterproef/formulieren-beoordeling-masterproef/masterproefformulieren-bio-ir-en
+   15  www.ugent.be/bw/en/education
+         https://www.ugent.be/bw/en/education/master-programmes/pharmaceutical_engineering-faqs.htm
+         https://www.ugent.be/bw/en/education/master-programmes/pharmaceutical_engineering.htm
+         https://www.ugent.be/bw/en/education/master-programmes/imnufs_interview.htm
+         https://www.ugent.be/bw/en/education/master-programmes/nutrition-and-food-systems.htm
+   14  www.ugent.be/lw/vtc/nl
+         https://www.ugent.be/lw/vtc/nl/actueel/nieuws/masterstudenten-ondertitelen-voor-cinemas-2025
+         https://www.ugent.be/lw/vtc/nl/opleidingen/masteropleidingen
+         https://www.ugent.be/lw/vtc/nl/opleidingen/postgraduaten
+         https://www.ugent.be/lw/vtc/nl/opleidingen/postgraduaten/calm
+   14  www.ugent.be/bw/en/for-students
+         https://www.ugent.be/bw/en/for-students/curriculum/master-dissertation/masterdissertationevaluation
+         https://www.ugent.be/bw/en/for-students/curriculum/master-dissertation/choosing-master-dissertation
+         https://www.ugent.be/bw/en/for-students/curriculum/master-dissertation/guidance-dissertation
+         https://www.ugent.be/bw/en/for-students/masters-fair
+   12  www.ugent.be/bw/nl/opleidingen
+         https://www.ugent.be/bw/nl/opleidingen/bio-ingenieur/master/faq-keuze-masteropleidingen/levensmiddelenwetenschappen-voeding-faq.htm
+         https://www.ugent.be/bw/nl/opleidingen/bio-ingenieur/master/faq-keuze-masteropleidingen/bos-en-natuurbeheer-faq.htm
+         https://www.ugent.be/bw/nl/opleidingen/bio-ingenieur/master/faq-keuze-masteropleidingen/land-water-klimaat-faq.htm
+         https://www.ugent.be/bw/nl/opleidingen/bio-ingenieur/master/faq-keuze-masteropleidingen/milieutechnologie-faq.htm
+   12  www.ugent.be/lw/vtc/en
+         https://www.ugent.be/lw/vtc/en/education/postgraduate
+         https://www.ugent.be/lw/vtc/en/education/postgraduate/calm/modules
+         https://www.ugent.be/lw/vtc/en/education/postgraduate/calm
+         https://www.ugent.be/lw/vtc/en/education/postgraduate/conferenceinterpreting
+   11  www.ugent.be/ps/nl/opleidingen
+         https://www.ugent.be/ps/nl/opleidingen/educatieve-master/nascholingen/forumdag-2023.htm
+         https://www.ugent.be/ps/nl/opleidingen/educatieve-master/educatieve-lespakketten
+         https://www.ugent.be/ps/nl/opleidingen/educatieve-master/educatieve-lespakketten.htm
+         https://www.ugent.be/ps/nl/opleidingen/educatieve-master/winnaars-wedstrijd-maatschappijwetenschappen-24-25
+   11  www.ugent.be/bw/nl/faculteit
+         https://www.ugent.be/bw/nl/faculteit/raden/fdo/opleidingscommissies/internationale-masters/ioc-omaqhe
+         https://www.ugent.be/bw/nl/faculteit/raden/fdo/opleidingscommissies/andere-masters/https-www-ugent-be-bw-nl-faculteit-raden-fdo-opleidingscommissies-andere-masters-ioc-imfote
+         https://www.ugent.be/bw/nl/faculteit/raden/fdo/opleidingscommissies/andere-masters
+         https://www.ugent.be/bw/nl/faculteit/raden/fdo/opleidingscommissies/internationale-masters
+   10  www.ugent.be/ea/elis/en
+         https://www.ugent.be/ea/elis/en/research/nam2/master-thesis.htm
+         https://www.ugent.be/ea/elis/en/research/cmst/cmstmasterthesis
+         https://www.ugent.be/ea/elis/en/research/medisip/medisipmasterthesis
+         https://www.ugent.be/ea/elis/en/research/foundationslab/flipmasterthesis
+   10  www.ugent.be/ps/communicatiewetenschappen/nl
+         https://www.ugent.be/ps/communicatiewetenschappen/nl/onderwijs/masteropleiding/keuzetraject_maatschappelijk_engagement_en_duurzaamheid.html
+         https://www.ugent.be/ps/communicatiewetenschappen/nl/onderwijs/voorstelling_comwet_master.html
+         https://www.ugent.be/ps/communicatiewetenschappen/nl/onderwijs/masteropleiding
+         https://www.ugent.be/ps/communicatiewetenschappen/nl/onderwijs/masteropleiding/stages
+    9  www.ugent.be/ge/nl/faculteit
+         https://www.ugent.be/ge/nl/faculteit/facultaire-verenigingen/alumniverenigingen/gen/lessen-ma-na-ma-opleiding/2021
+         https://www.ugent.be/ge/nl/faculteit/organisatie-en-bestuur/raden-en-commissies/commissie-maatschappelijke-outreach/onderwijs/integreren-van-maatschappelijke-outreach-in-de-masterproef.htm
+         https://www.ugent.be/ge/nl/faculteit/facultaire-verenigingen/alumniverenigingen/gen/lessen-ma-na-ma-opleiding/2019
+         https://www.ugent.be/ge/nl/faculteit/fdo/cluster-onderwijskwaliteitszorg-en-innovatie/onderwijsinnovatie/masterproefbeoordelingsproces/masterproefbeoordelingsproces.htm
+    8  www.ugent.be/lw/nl/opleidingen
+         https://www.ugent.be/lw/nl/opleidingen/postgraduaten
+         https://www.ugent.be/lw/nl/opleidingen/masters
+         https://www.ugent.be/lw/nl/opleidingen/masters/masteroostersetalenenculturen.htm
+         https://www.ugent.be/lw/nl/opleidingen/masters/mastertolken.htm
+    8  www.ugent.be/ea/occ/nl
+         https://www.ugent.be/ea/occ/nl/voor-studenten/masterproef.htm
+         https://www.ugent.be/ea/occ/nl/nieuws/masterproefbeurs_2018
+         https://www.ugent.be/ea/occ/nl/opleiding/1e-master/1emaster-afstudeerrichtingen.htm
+         https://www.ugent.be/ea/occ/nl/opleiding/1e-master/master-algemene-vakken.htm
+    8  www.ugent.be/ea/nl/opleidingen
+         https://www.ugent.be/ea/nl/opleidingen/masteropleidingen/nederlandstalige-masters
+         https://www.ugent.be/ea/nl/opleidingen/andereopleidingen/postgraduaten/psg_reg.htm
+         https://www.ugent.be/ea/nl/opleidingen/masteropleidingen
+         https://www.ugent.be/ea/nl/opleidingen/masteropleidingen/edumaster
+    8  www.ugent.be/eb/economics/en
+         https://www.ugent.be/eb/economics/en/research/phd-economics/phdgraduates
+         https://www.ugent.be/eb/economics/en/research/phd-economics/phdgraduatesbanking
+         https://www.ugent.be/eb/economics/en/research/phd-economics/phdgraduatesenvironment
+         https://www.ugent.be/eb/economics/en/research/phd-economics/phdgraduatesitim
+    8  www.ugent.be/eb/nl/student
+         https://www.ugent.be/eb/nl/student/stagecoordinatie/stagereglement-master-handelswetenschappen
+         https://www.ugent.be/eb/nl/student/curriculuminfo/masterproef
+         https://www.ugent.be/eb/nl/student/curriculuminfo/curriculum/curriculumsamenstellen/hir/keuzevakken-businessengineering.htm/keuzevakken-master-finance.htm
+         https://www.ugent.be/eb/nl/student/curriculuminfo/curriculum/curriculumsamenstellen/hir/keuzevakken-businessengineering.htm/keuzevakken-master-operations-management.htm
+    7  www.ugent.be/ea/nl/faculteit
+         https://www.ugent.be/ea/nl/faculteit/raden/opleidingscommissies/ocindwei/website_ocindwei/masterproefvoorstelling
+         https://www.ugent.be/ea/nl/faculteit/raden/opleidingscommissies/ocindwei/website_ocindwei/masterproef
+         https://www.ugent.be/ea/nl/faculteit/studentenadministratie/masterproef/mp_buitenland
+         https://www.ugent.be/ea/nl/faculteit/studentenadministratie/masterproef/overeenkomst
+    7  www.ugent.be/eb/nl/opleidingen
+         https://www.ugent.be/eb/nl/opleidingen/master/opnames-infosessies
+         https://www.ugent.be/eb/nl/opleidingen/master
+         https://www.ugent.be/eb/nl/opleidingen/master-na-master
+         https://www.ugent.be/eb/nl/opleidingen/master/fiscaliteit
+    7  www.ugent.be/ps/communicatiewetenschappen/en
+         https://www.ugent.be/ps/communicatiewetenschappen/en/education/master
+         https://www.ugent.be/ps/communicatiewetenschappen/en/education/master/specialisations.htm
+         https://www.ugent.be/ps/communicatiewetenschappen/en/education/master/specialisations.htm/film-and-television-studies.htm
+         https://www.ugent.be/ps/communicatiewetenschappen/en/education/master/specialisations.htm/new-media-and-society.htm

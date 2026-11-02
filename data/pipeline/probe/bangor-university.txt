@@ -1,0 +1,112 @@
+# bangor-university https://www.bangor.ac.uk
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 5464 · master's-looking 790
+  162  bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-taught
+         https://bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-taught/ieithyddiaeth-ma
+         https://bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-taught/iechyd-y-cyhoedd-a-hybu-iechyd-msc
+         https://bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-taught/seicoleg-glinigol-ac-iechyd-msc
+         https://bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-taught/polisi-cymdeithasol-ma
+  158  bangorunivsite.prod.acquia-sites.com/courses/postgraduate-taught
+         https://bangorunivsite.prod.acquia-sites.com/courses/postgraduate-taught/linguistics-ma
+         https://bangorunivsite.prod.acquia-sites.com/courses/postgraduate-taught/public-health-and-health-promotion-msc
+         https://bangorunivsite.prod.acquia-sites.com/courses/postgraduate-taught/clinical-and-health-psychology-msc
+         https://bangorunivsite.prod.acquia-sites.com/courses/postgraduate-taught/social-policy-ma
+   80  bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-research
+         https://bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-research/ieithyddiaeth-phd
+         https://bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-research/ffrangeg-ac-astudiaethau-ffrengig-phd
+         https://bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-research/astudiaethau-almaenaidd-phd
+         https://bangorunivsite.prod.acquia-sites.com/cy/courses/postgraduate-research/gwyddor-iechyd-phd
+   79  bangorunivsite.prod.acquia-sites.com/courses/postgraduate-research
+         https://bangorunivsite.prod.acquia-sites.com/courses/postgraduate-research/linguistics-phd
+         https://bangorunivsite.prod.acquia-sites.com/courses/postgraduate-research/french-and-francophone-studies-phd
+         https://bangorunivsite.prod.acquia-sites.com/courses/postgraduate-research/german-studies-phd
+         https://bangorunivsite.prod.acquia-sites.com/courses/postgraduate-research/health-science-phd
+   59  bangorunivsite.prod.acquia-sites.com/study/undergraduate
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/business-management
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/biology
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/childhood-and-youth-studies
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/computer-science
+   45  bangorunivsite.prod.acquia-sites.com/study/postgraduate
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate/accounting-banking-and-finance
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate/archaeology
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate/bilingualism-and-linguistics
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate/business-management-and-marketing
+   36  bangorunivsite.prod.acquia-sites.com/study/postgraduate-research
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate-research/accounting-banking-and-finance
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate-research/archaeology-and-heritage
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate-research/bilingualism-and-linguistics
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate-research/creative-and-critical-writing
+   20  bangorunivsite.prod.acquia-sites.com/welcome-to-bangor
+         https://bangorunivsite.prod.acquia-sites.com/welcome-to-bangor/postgraduate-students
+         https://bangorunivsite.prod.acquia-sites.com/welcome-to-bangor/ma-education-studies
+         https://bangorunivsite.prod.acquia-sites.com/welcome-to-bangor/school-of-environmental-natural-sciences-postgraduate-taught-students
+         https://bangorunivsite.prod.acquia-sites.com/welcome-to-bangor/msc-psych
+   19  bangorunivsite.prod.acquia-sites.com/magical-bangor/graduate-success
+         https://bangorunivsite.prod.acquia-sites.com/magical-bangor/graduate-success/sami-omari
+         https://bangorunivsite.prod.acquia-sites.com/magical-bangor/graduate-success/luke-barrett
+         https://bangorunivsite.prod.acquia-sites.com/magical-bangor/graduate-success/jake-sallaway-costello
+         https://bangorunivsite.prod.acquia-sites.com/magical-bangor/graduate-success/elly-baker
+    7  bangorunivsite.prod.acquia-sites.com/postgraduate-event
+         https://bangorunivsite.prod.acquia-sites.com/postgraduate-event
+         https://bangorunivsite.prod.acquia-sites.com/postgraduate-event/programme
+         https://bangorunivsite.prod.acquia-sites.com/postgraduate-event/book-your-place
+         https://bangorunivsite.prod.acquia-sites.com/postgraduate-event/how-to-get-here
+    6  bangorunivsite.prod.acquia-sites.com/sens/pgt-forestry
+         https://bangorunivsite.prod.acquia-sites.com/sens/pgt-forestry/articles
+         https://bangorunivsite.prod.acquia-sites.com/sens/pgt-forestry/fees
+         https://bangorunivsite.prod.acquia-sites.com/sens/pgt-forestry/apply
+         https://bangorunivsite.prod.acquia-sites.com/sens/pgt-forestry/videos
+    6  bangorunivsite.prod.acquia-sites.com/cy/study/postgraduate
+         https://bangorunivsite.prod.acquia-sites.com/cy/study/postgraduate/apply
+         https://bangorunivsite.prod.acquia-sites.com/cy/study/postgraduate/apply_pgce
+         https://bangorunivsite.prod.acquia-sites.com/cy/study/postgraduate/apply_dclin
+         https://bangorunivsite.prod.acquia-sites.com/cy/study/postgraduate/why-study-at-bangor
+    5  bangorunivsite.prod.acquia-sites.com/study/undergraduate/sport-and-exercise-sciences
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/sport-and-exercise-sciences/why-study
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/sport-and-exercise-sciences/careers
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/sport-and-exercise-sciences/where-will-my-degree-take-me
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/sport-and-exercise-sciences/know-your-lecturer
+    5  bangorunivsite.prod.acquia-sites.com/cy/study/undergraduate
+         https://bangorunivsite.prod.acquia-sites.com/cy/study/undergraduate/late
+         https://bangorunivsite.prod.acquia-sites.com/cy/study/undergraduate/defer
+         https://bangorunivsite.prod.acquia-sites.com/cy/study/undergraduate/sponsored
+         https://bangorunivsite.prod.acquia-sites.com/cy/study/undergraduate/course_structure
+    5  bangorunivsite.prod.acquia-sites.com/cy/croeso-i-fangor
+         https://bangorunivsite.prod.acquia-sites.com/cy/croeso-i-fangor/ma-astudiaethau-addysg
+         https://bangorunivsite.prod.acquia-sites.com/cy/croeso-i-fangor/msc-seicoleg
+         https://bangorunivsite.prod.acquia-sites.com/cy/croeso-i-fangor/ma-astudiaethau-plentyndod-ac-ieuenctid
+         https://bangorunivsite.prod.acquia-sites.com/cy/croeso-i-fangor/wythnos-groeso-ysgol-gwyddorau-iechyd-msc-iechyd-y-cyhoedd-a-hybu-iechyd
+    3  bangorunivsite.prod.acquia-sites.com/study
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate-research
+    3  bangorunivsite.prod.acquia-sites.com/studentfinance/postgraduate
+         https://bangorunivsite.prod.acquia-sites.com/studentfinance/postgraduate/funding
+         https://bangorunivsite.prod.acquia-sites.com/studentfinance/postgraduate/self-funding
+         https://bangorunivsite.prod.acquia-sites.com/studentfinance/postgraduate/loan-entitlement
+    3  bangorunivsite.prod.acquia-sites.com/study/postgraduate/sport-and-exercise-sciences
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate/sport-and-exercise-sciences/why-study
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate/sport-and-exercise-sciences/careers
+         https://bangorunivsite.prod.acquia-sites.com/study/postgraduate/sport-and-exercise-sciences/research
+    3  bangorunivsite.prod.acquia-sites.com/bbs
+         https://bangorunivsite.prod.acquia-sites.com/bbs/undergraduate
+         https://bangorunivsite.prod.acquia-sites.com/bbs/postgraduate
+         https://bangorunivsite.prod.acquia-sites.com/bbs/graduate-employment
+    2  bangorunivsite.prod.acquia-sites.com/cy
+         https://bangorunivsite.prod.acquia-sites.com/cy/pgt-study-template
+         https://bangorunivsite.prod.acquia-sites.com/cy/robert-burns-cemeg-amaethyddol-ac-msc-cemeg-y-mor-1965
+    2  bangorunivsite.prod.acquia-sites.com/studentfinance
+         https://bangorunivsite.prod.acquia-sites.com/studentfinance/new-undergraduates
+         https://bangorunivsite.prod.acquia-sites.com/studentfinance/postgraduate
+    2  bangorunivsite.prod.acquia-sites.com/studentfinance/postgrad
+         https://bangorunivsite.prod.acquia-sites.com/studentfinance/postgrad/grants
+         https://bangorunivsite.prod.acquia-sites.com/studentfinance/postgrad/payment
+    2  bangorunivsite.prod.acquia-sites.com/student-life/profiles
+         https://bangorunivsite.prod.acquia-sites.com/student-life/profiles/postgraduate
+         https://bangorunivsite.prod.acquia-sites.com/student-life/profiles/undergraduates
+    2  bangorunivsite.prod.acquia-sites.com/study/undergraduate/medical-sciences
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/medical-sciences/why-study
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/medical-sciences/careers
+    2  bangorunivsite.prod.acquia-sites.com/study/undergraduate/midwifery
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/midwifery/why-study
+         https://bangorunivsite.prod.acquia-sites.com/study/undergraduate/midwifery/careers

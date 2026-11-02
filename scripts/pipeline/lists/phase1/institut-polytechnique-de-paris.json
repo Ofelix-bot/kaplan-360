@@ -1,0 +1,18 @@
+{ "source": "IP Paris Masters of Science list https://www.ip-paris.fr/en/education/graduate-programs/masters-science (English-taught majors/tracks only, language checked per page) + Ecole polytechnique MSc&T list https://programmes.polytechnique.edu/en/master/msct-programs (all English) (configured 2026-11-01)", "retrievedAt": "2026-11-01", "pages": [
+"https://www.ip-paris.fr/en/education/graduate-programs/masters-science/computer-science-program/masters-foundations-computer-science-mpri",
+"https://www.ip-paris.fr/en/education/masters/computer-science-program/major-computer-science-networks-csn",
+"https://www.ip-paris.fr/en/education/graduate-programs/masters-science/computer-science-program/major-cybersecurity",
+"https://www.ip-paris.fr/en/education/masters/computer-science-program/major-data-and-artificial-intelligence-dataai",
+"https://www.ip-paris.fr/en/education/graduate-programs/masters-science/computer-science-program/masters-quantum-mathematics-computer-science-qmi",
+"https://www.ip-paris.fr/en/education/graduate-programs/masters-science/computer-science-program/major-formal-methods-and-foundations-cyber-physical-systems-cps",
+"https://www.ip-paris.fr/en/education/graduate-programs/masters-science/applied-mathematics-and-statistics-program/masters-data-science",
+"https://www.ip-paris.fr/en/education/graduate-programs/masters-science/applied-mathematics-and-statistics-program/masters-statistics-finance-and-actuarial-science",
+"https://www.ip-paris.fr/en/education/masters/innovation-industry-and-society-program/master-year-2-consulting-organization-strategy-and-information-systems",
+"https://programmes.polytechnique.edu/en/master/all-msct-programs/artificial-intelligence-advanced-visual-computing-master",
+"https://programmes.polytechnique.edu/en/master/all-msct-specializations/trustworthy-and-responsible-ai-trai-x-bocconi",
+"https://programmes.polytechnique.edu/en/master/all-msct-specializations/ai-for-markets-and-quantitative-investment-maqi-x-ensae",
+"https://programmes.polytechnique.edu/en/master/all-msct-programs/internet-of-things-innovation-and-management",
+"https://programmes.polytechnique.edu/en/master/all-msct-specializations/data-and-economics-for-public-policy-depp-x-ensae-telecom",
+"https://programmes.polytechnique.edu/en/master-all-msct-programs/economics-data-analytics-and-corporate-finance/economics-data-analytics",
+"https://programmes.polytechnique.edu/en/master/all-msct-specializations/double-degree-data-finance-dddf-x-hec",
+"https://programmes.polytechnique.edu/en/master/programs/data-science-for-business-joint-degree-with-hec" ] }

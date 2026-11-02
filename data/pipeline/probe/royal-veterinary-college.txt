@@ -1,0 +1,4 @@
+# royal-veterinary-college https://www.rvc.ac.uk
+robots sitemaps: https://www.rvc.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemap https://www.rvc.ac.uk/sitemap.xml: robots disallowed by robots.txt: /sitemap.xml
+sitemaps read 1 · urls 0 · master's-looking 0

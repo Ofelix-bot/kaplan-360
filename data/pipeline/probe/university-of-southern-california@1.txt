@@ -1,0 +1,37 @@
+# university-of-southern-california@1 https://www.usc.edu
+robots sitemaps: https://www.usc.edu/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.usc.edu/sitemap_index.xml: 6 children (1 course-like)
+sitemaps read 7 · urls 811 · master's-looking 18
+    3  www.usc.edu/academics/undergraduate-study
+         https://www.usc.edu/academics/undergraduate-study/interdisciplinary-freedom/
+         https://www.usc.edu/academics/undergraduate-study/global-experiences/
+         https://www.usc.edu/academics/undergraduate-study/your-first-year-experience/
+    2  www.usc.edu/admissions-aid/admitted-students
+         https://www.usc.edu/admissions-aid/admitted-students/first-year-undergraduate/
+         https://www.usc.edu/admissions-aid/admitted-students/graduate/
+    1  www.usc.edu/undergraduate-minors
+         https://www.usc.edu/undergraduate-minors/
+    1  www.usc.edu/graduate-professional
+         https://www.usc.edu/graduate-professional/
+    1  www.usc.edu/academics
+         https://www.usc.edu/academics/undergraduate-study/
+    1  www.usc.edu/snoop-dogg-to-address-usc-marshall-graduates
+         https://www.usc.edu/snoop-dogg-to-address-usc-marshall-graduates/
+    1  www.usc.edu/master-of-business-for-veterans-path-helps-trojan-transfer-from-military-into-defense-career
+         https://www.usc.edu/master-of-business-for-veterans-path-helps-trojan-transfer-from-military-into-defense-career/
+    1  www.usc.edu/usc-celebrates-neighborhood-academic-initiative-graduates-at-annual-gala-and-awards-ceremony
+         https://www.usc.edu/usc-celebrates-neighborhood-academic-initiative-graduates-at-annual-gala-and-awards-ceremony/
+    1  www.usc.edu/ten-usc-stem-cell-phd-students-and-recent-graduates-earn-nih-fellowships
+         https://www.usc.edu/ten-usc-stem-cell-phd-students-and-recent-graduates-earn-nih-fellowships/
+    1  www.usc.edu/three-usc-dornsife-undergraduates-earn-jack-kent-cooke-foundation-scholarships
+         https://www.usc.edu/three-usc-dornsife-undergraduates-earn-jack-kent-cooke-foundation-scholarships/
+    1  www.usc.edu/10-usc-stem-cell-doctoral-students-and-recent-graduates-earn-nih-fellowships
+         https://www.usc.edu/10-usc-stem-cell-doctoral-students-and-recent-graduates-earn-nih-fellowships/
+    1  www.usc.edu/urban-planning-masters-graduate-provides-equitable-disaster-relief
+         https://www.usc.edu/urban-planning-masters-graduate-provides-equitable-disaster-relief/
+    1  www.usc.edu/new-master-of-addiction-science-seeks-to-revolutionize-addiction-treatment
+         https://www.usc.edu/new-master-of-addiction-science-seeks-to-revolutionize-addiction-treatment/
+    1  www.usc.edu/usc-graduate-programs-shine-in-u-s-news-world-report-rankings
+         https://www.usc.edu/usc-graduate-programs-shine-in-u-s-news-world-report-rankings/
+    1  www.usc.edu/a-robot-hand-that-taught-itself-to-play-piano-could-change-the-future-of-machines
+         https://www.usc.edu/a-robot-hand-that-taught-itself-to-play-piano-could-change-the-future-of-machines/

@@ -1,0 +1,6 @@
+# university-of-limerick@1 https://www.ul.ie
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.ul.ie/sitemap.xml: 2 children (2 course-like)
+sitemap https://www.ul.ie/sitemap.xml?page=1: robots disallowed by robots.txt: /sitemap.xml
+sitemap https://www.ul.ie/sitemap.xml?page=2: robots disallowed by robots.txt: /sitemap.xml
+sitemaps read 3 · urls 0 · master's-looking 0

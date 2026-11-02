@@ -1,0 +1,1 @@
+{"mu": -0.10585593997215109, "sd": 0.0694709966187487, "p10": -0.194, "p90": -0.017000000000000015, "n": 11, "sources": {"pei-Kaplan": 1, "kaplan-ucd": 10}, "prior": "flat on [-0.40, +0.15] relative to the awarding university tier; Student-t(4) likelihood"}

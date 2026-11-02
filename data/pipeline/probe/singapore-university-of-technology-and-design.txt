@@ -1,0 +1,136 @@
+# singapore-university-of-technology-and-design https://www.sutd.edu.sg
+robots sitemaps: https://www.sutd.edu.sg/sitemap_index.xml https://www.sutd.edu.sg/asd/sitemap_index.xml https://www.sutd.edu.sg/istd/sitemap_index.xml https://www.sutd.edu.sg/dai/sitemap_index.xml https://www.sutd.edu.sg/epd/sitemap_index.xml https://www.sutd.edu.sg/esd/sitemap_index.xml https://www.sutd.edu.sg/smt/sitemap_index.xml https://www.sutd.edu.sg/hass/sitemap_index.xml https://www.sutd.edu.sg/asi/sitemap_index.xml https://www.sutd.edu.sg/dmand/sitemap_index.xml https://www.sutd.edu.sg/itrust/sitemap_index.xml https://www.sutd.edu.sg/lkycic/sitemap_index.xml https://www.sutd.edu.sg/temasek-labs/sitemap_index.xml https://www.sutd.edu.sg/swic/sitemap_index.xml https://www.sutd.edu.sg/namic/sitemap_index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.sutd.edu.sg/sitemap_index.xml: 52 children (15 course-like)
+index https://www.sutd.edu.sg/asd/sitemap_index.xml: 33 children (12 course-like)
+index https://www.sutd.edu.sg/istd/sitemap_index.xml: 28 children (10 course-like)
+index https://www.sutd.edu.sg/dai/sitemap_index.xml: 21 children (7 course-like)
+index https://www.sutd.edu.sg/epd/sitemap_index.xml: 18 children (5 course-like)
+index https://www.sutd.edu.sg/esd/sitemap_index.xml: 23 children (6 course-like)
+index https://www.sutd.edu.sg/smt/sitemap_index.xml: 22 children (9 course-like)
+index https://www.sutd.edu.sg/hass/sitemap_index.xml: 24 children (9 course-like)
+sitemaps read 80 · urls 4184 · master's-looking 626
+   81  www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid
+         https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/financial-aid/special-programme-grant/
+         https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/sutd-community-grant/
+         https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/financial-aid/study-bursary-awards/regent-group-sutd-bursary/
+         https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/financial-aid/study-bursary-awards/tian-kong-kancanarama-buddhist-temple-sutd-bursary-award/
+   57  www.sutd.edu.sg/admissions/undergraduate/scholarship
+         https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/kewalram-chanrai-group-scholarship-for-women-is/
+         https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/sutd-design-and-engineering-scholarship/
+         https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/sutd-undergraduate-merit-scholarship/
+         https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/gilbert-patricia-ong-sutd-scholarship/
+   41  www.sutd.edu.sg/admissions/undergraduate
+         https://www.sutd.edu.sg/admissions/undergraduate/ask-admissions/
+         https://www.sutd.edu.sg/admissions/undergraduate/scholarship/
+         https://www.sutd.edu.sg/admissions/undergraduate/application-timeline/
+         https://www.sutd.edu.sg/admissions/undergraduate/criteria-for-admission/
+   38  www.sutd.edu.sg/education/undergraduate/special-programmes
+         https://www.sutd.edu.sg/education/undergraduate/special-programmes/step/why/
+         https://www.sutd.edu.sg/education/undergraduate/special-programmes/sharp/who-we-are/
+         https://www.sutd.edu.sg/education/undergraduate/special-programmes/sharp/programme-structure/
+         https://www.sutd.edu.sg/education/undergraduate/special-programmes/sharp/application-and-financing/
+   28  www.sutd.edu.sg/academy-course
+         https://www.sutd.edu.sg/academy-course/modularmaster-in-full-stack-development/
+         https://www.sutd.edu.sg/academy-course/graduate-certificate-in-hr-analytics-and-technology/
+         https://www.sutd.edu.sg/academy-course/graduate-certificate-in-leadership-and-management/
+         https://www.sutd.edu.sg/academy-course/graduate-certificate-tech-and-mgmt/
+   22  www.sutd.edu.sg/campus-life/student-life/student-awards
+         https://www.sutd.edu.sg/campus-life/student-life/student-awards/student-academic-awards/best-master-of-architecture-thesis-project/winners/
+         https://www.sutd.edu.sg/campus-life/student-life/student-awards/student-academic-awards/master-of-architecture-thesis-award-computation/about/
+         https://www.sutd.edu.sg/campus-life/student-life/student-awards/student-academic-awards/master-of-architecture-thesis-award-representation/about/
+         https://www.sutd.edu.sg/campus-life/student-life/student-awards/student-academic-awards/master-of-architecture-thesis-award-research/about/
+   20  www.sutd.edu.sg/istd/education/undergraduate
+         https://www.sutd.edu.sg/istd/education/undergraduate/faq/
+         https://www.sutd.edu.sg/istd/education/undergraduate/minors/
+         https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/
+         https://www.sutd.edu.sg/istd/education/undergraduate/faq/why-istd/
+   19  www.sutd.edu.sg/epd/education/undergraduate
+         https://www.sutd.edu.sg/epd/education/undergraduate/faq/
+         https://www.sutd.edu.sg/epd/education/undergraduate/academic-mentorship/epd-academic-mentorship-programme/
+         https://www.sutd.edu.sg/epd/education/undergraduate/academic-mentorship/academic-mentorship-exercise/
+         https://www.sutd.edu.sg/epd/education/undergraduate/academic-mentorship/
+   17  www.sutd.edu.sg/esd/education/undergraduate
+         https://www.sutd.edu.sg/esd/education/undergraduate/curriculum/
+         https://www.sutd.edu.sg/esd/education/undergraduate/minors/
+         https://www.sutd.edu.sg/esd/education/undergraduate/specialisation-tracks/
+         https://www.sutd.edu.sg/esd/education/undergraduate/advanced-studies/
+   16  www.sutd.edu.sg/campus-life/housing/graduate-housing
+         https://www.sutd.edu.sg/campus-life/housing/graduate-housing/room-type/
+         https://www.sutd.edu.sg/campus-life/housing/graduate-housing/housing-application/
+         https://www.sutd.edu.sg/campus-life/housing/graduate-housing/payment/ay2025-march-step/
+         https://www.sutd.edu.sg/campus-life/housing/graduate-housing/payment/ay2025-phd-masters-research/
+   13  www.sutd.edu.sg/admissions/graduate
+         https://www.sutd.edu.sg/admissions/graduate/industrial-programmes/
+         https://www.sutd.edu.sg/admissions/graduate/healthtech-innovation/
+         https://www.sutd.edu.sg/admissions/graduate/data-science/
+         https://www.sutd.edu.sg/admissions/graduate/mtd-programme-fees/
+   12  www.sutd.edu.sg/admissions/academy/modular-master
+         https://www.sutd.edu.sg/admissions/academy/modular-master/faq/
+         https://www.sutd.edu.sg/admissions/academy/modular-master/register-your-interest-modularmaster-certificate-in-smart-entrepreneurship/
+         https://www.sutd.edu.sg/admissions/academy/modular-master/register-your-interest-modularmaster-certificate-in-cybersecurity/
+         https://www.sutd.edu.sg/admissions/academy/modular-master/register-your-interest-modularmaster-certificate-in-strategic-digital-marketing/
+   11  www.sutd.edu.sg/education/undergraduate
+         https://www.sutd.edu.sg/education/undergraduate/professional-practice-programme/
+         https://www.sutd.edu.sg/education/undergraduate/capstone/
+         https://www.sutd.edu.sg/education/undergraduate/academic-calendar/
+         https://www.sutd.edu.sg/education/undergraduate/specialisation-tracks/
+    8  www.sutd.edu.sg/admissions/graduate/masters
+         https://www.sutd.edu.sg/admissions/graduate/masters/mtd/
+         https://www.sutd.edu.sg/admissions/graduate/masters/mtd-advanced-ic-design-technology/financing/
+         https://www.sutd.edu.sg/admissions/graduate/masters/faculty-and-research/
+         https://www.sutd.edu.sg/admissions/graduate/masters/faculty-and-research/faculty/
+    8  www.sutd.edu.sg/asd
+         https://www.sutd.edu.sg/asd/sutd-master-of-architecture-guest-lecture-executive-director-of-t-e-c-o-chie-konno/
+         https://www.sutd.edu.sg/asd/sutd-master-of-architecture-guest-lecture-by-founder-creative-director-of-umbrellium-usman-haque/
+         https://www.sutd.edu.sg/asd/sutd-master-of-architecture-guest-lecture-by-dr-liu-thai-ker/
+         https://www.sutd.edu.sg/asd/sutd-master-of-architecture-guest-lecture-by-dr-ken-yeang/
+    8  www.sutd.edu.sg/dai/education/undergraduate
+         https://www.sutd.edu.sg/dai/education/undergraduate/courses/
+         https://www.sutd.edu.sg/dai/education/undergraduate/courses/ay2026-onwards/
+         https://www.sutd.edu.sg/dai/education/undergraduate/courses/ay2025-earlier/
+         https://www.sutd.edu.sg/dai/education/undergraduate/specialisation-tracks/
+    8  www.sutd.edu.sg/hass/education/undergraduate
+         https://www.sutd.edu.sg/hass/education/undergraduate/minors/design-technology-and-society-minor/testing-on-27-nov-with-sutd/
+         https://www.sutd.edu.sg/hass/education/undergraduate/minors/
+         https://www.sutd.edu.sg/hass/education/undergraduate/courses/
+         https://www.sutd.edu.sg/hass/education/undergraduate/faq/
+    6  www.sutd.edu.sg/campus-life/housing/undergraduate-housing
+         https://www.sutd.edu.sg/campus-life/housing/undergraduate-housing/important-information/
+         https://www.sutd.edu.sg/campus-life/housing/undergraduate-housing/check-in-out-ay2026/
+         https://www.sutd.edu.sg/campus-life/housing/undergraduate-housing/check-in-out-ay2025/
+         https://www.sutd.edu.sg/campus-life/housing/undergraduate-housing/payment-ay2025/
+    6  www.sutd.edu.sg/admissions/graduate/graduate-student-awards
+         https://www.sutd.edu.sg/admissions/graduate/graduate-student-awards/winners/
+         https://www.sutd.edu.sg/admissions/graduate/graduate-student-awards/winners/gsa-2025/
+         https://www.sutd.edu.sg/admissions/graduate/graduate-student-awards/winners/gsa-2024/
+         https://www.sutd.edu.sg/admissions/graduate/graduate-student-awards/winners/gsa-2020/
+    6  www.sutd.edu.sg/programme-listing/master-of-architecture-programme
+         https://www.sutd.edu.sg/programme-listing/master-of-architecture-programme/financing/
+         https://www.sutd.edu.sg/programme-listing/master-of-architecture-programme/career-prospects/
+         https://www.sutd.edu.sg/programme-listing/master-of-architecture-programme/faq/
+         https://www.sutd.edu.sg/programme-listing/master-of-architecture-programme/courses/
+    6  www.sutd.edu.sg/programme-listing/master-of-science-in-design-and-artificial-intelligence-for-enterprise
+         https://www.sutd.edu.sg/programme-listing/master-of-science-in-design-and-artificial-intelligence-for-enterprise/financing/
+         https://www.sutd.edu.sg/programme-listing/master-of-science-in-design-and-artificial-intelligence-for-enterprise/programme-structure/
+         https://www.sutd.edu.sg/programme-listing/master-of-science-in-design-and-artificial-intelligence-for-enterprise/course-catalogue/
+         https://www.sutd.edu.sg/programme-listing/master-of-science-in-design-and-artificial-intelligence-for-enterprise/studio-experience/
+    5  www.sutd.edu.sg/admissions/graduate/phd
+         https://www.sutd.edu.sg/admissions/graduate/phd/financing/billing-and-payment/
+         https://www.sutd.edu.sg/admissions/graduate/phd/financing/programme-schedule/
+         https://www.sutd.edu.sg/admissions/graduate/phd/financing/fees/
+         https://www.sutd.edu.sg/admissions/graduate/phd/financing/scholarship/
+    5  www.sutd.edu.sg/education/undergraduate/capstone
+         https://www.sutd.edu.sg/education/undergraduate/capstone/for-students/
+         https://www.sutd.edu.sg/education/undergraduate/capstone/for-industry-partners/industry-capstone-project-submission/
+         https://www.sutd.edu.sg/education/undergraduate/capstone/capstone-design-showcase/
+         https://www.sutd.edu.sg/education/undergraduate/capstone/for-industry-partners/
+    5  www.sutd.edu.sg/admissions/undergraduate/education-expenses
+         https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/fees/
+         https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/fees/tuition-grant-eligibility/
+         https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/financial-estimates/
+         https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/student-insurance-scheme/
+    4  www.sutd.edu.sg/admissions/graduate/healthtech-innovation
+         https://www.sutd.edu.sg/admissions/graduate/healthtech-innovation/requirements/
+         https://www.sutd.edu.sg/admissions/graduate/healthtech-innovation/programme-schedule/
+         https://www.sutd.edu.sg/admissions/graduate/healthtech-innovation/fees/
+         https://www.sutd.edu.sg/admissions/graduate/healthtech-innovation/application/

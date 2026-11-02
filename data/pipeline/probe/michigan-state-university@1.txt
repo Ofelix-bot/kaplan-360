@@ -1,0 +1,3 @@
+# michigan-state-university@1 https://msu.edu
+robots sitemaps: https://msu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 156 · master's-looking 0

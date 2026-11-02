@@ -1,0 +1,26 @@
+# university-of-tartu https://ut.ee
+robots sitemaps: https://ut.ee/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 13045 · master's-looking 40
+   21  ut.ee/en/content
+         https://ut.ee/en/content/graduate-supervision
+         https://ut.ee/en/content/bachelors-and-masters-studies-university-tartu
+         https://ut.ee/en/content/bachelors-and-masters-studies-estonian
+         https://ut.ee/en/content/application-deadlines-extended-international-masters-studies-two-faculties-university-tartu
+    9  ut.ee/et/sisu
+         https://ut.ee/et/sisu/aune-valk-ma-voin-olla-molemad
+         https://ut.ee/et/sisu/eksperiment-kuidas-ma-esimest-korda-katsejanes-olin
+         https://ut.ee/et/sisu/gumnasiste-oodatakse-videokonkursile-kui-ma-oleksin-opetaja
+         https://ut.ee/et/sisu/ulikooli-eetikakeskus-korraldab-esseevoistluse-millises-eestis-ma-tahan-elada
+    6  ut.ee/en/news
+         https://ut.ee/en/news/over-3000-people-graduated-university-tartu-year
+         https://ut.ee/en/news/doctoral-researchers-and-masters-students-all-estonian-universities-are-invited-join-course
+         https://ut.ee/en/news/number-university-tartu-doctoral-graduates-has-reached-recent-years-highest-level
+         https://ut.ee/en/news/applications-english-taught-masters-programmes-are-closing-soon-tuition-waivers-available
+    1  ut.ee/en
+         https://ut.ee/en/courses-taught-english-and-grading
+    1  ut.ee/en/sisu/eit-manufacturing
+         https://ut.ee/en/sisu/eit-manufacturing/masters-school
+    1  ut.ee/et/uudis
+         https://ut.ee/et/uudis/kuidas-ma-tartu-maratoni-klassikuks-sain-gert-prantsi-lugu
+    1  ut.ee/en/lifelong/preparatory-course-masters-studies-special-education-and-speech-therapy
+         https://ut.ee/en/lifelong/preparatory-course-masters-studies-special-education-and-speech-therapy/08cb6084-573c-482e-3b11-0e28881b976e

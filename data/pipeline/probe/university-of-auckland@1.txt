@@ -1,0 +1,129 @@
+# university-of-auckland@1 https://www.auckland.ac.nz
+robots sitemaps: https://www.auckland.ac.nz/sitemap-index.xml · crawl-delay: null · AI-agent groups: 0
+index https://www.auckland.ac.nz/sitemap-index.xml: 1 children (0 course-like)
+sitemaps read 2 · urls 20959 · master's-looking 2286
+  737  www.auckland.ac.nz/en/study/study-options
+         https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options.html
+         https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/university-101-for-new-students.html
+         https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/university-101-for-new-students/choosing-what-to-study.html
+         https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/university-101-for-new-students/entry-requirements.html
+  356  www.auckland.ac.nz/en/arts/study-with-us
+         https://www.auckland.ac.nz/en/arts/study-with-us/study-options/undergraduate-study-arts-and-education.html
+         https://www.auckland.ac.nz/en/arts/study-with-us/study-options/undergraduate-study-arts-and-education/interested-in-social-justice-.html
+         https://www.auckland.ac.nz/en/arts/study-with-us/study-options/pg-study/types-postgraduate-study.html
+         https://www.auckland.ac.nz/en/arts/study-with-us/study-options/pg-study/why-Arts-postgraduate.html
+  136  www.auckland.ac.nz/en/business/study-with-us
+         https://www.auckland.ac.nz/en/business/study-with-us/study-options/Undergraduate-study.html
+         https://www.auckland.ac.nz/en/business/study-with-us/study-options/Undergraduate-study/Majors-and-careers.html
+         https://www.auckland.ac.nz/en/business/study-with-us/study-options/Undergraduate-study/Majors-and-careers/What-is-a-major.html
+         https://www.auckland.ac.nz/en/business/study-with-us/study-options/Undergraduate-study/Majors-and-careers/Accounting.html
+  133  www.auckland.ac.nz/en/study/scholarships-and-awards
+         https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/undergraduate-scholarships.html
+         https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/undergraduate-scholarships/entry-level-and-first-year-scholarships.html
+         https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/undergraduate-scholarships/entry-level-and-first-year-scholarships/vice-chancellors-scholarship.html
+         https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/undergraduate-scholarships/entry-level-and-first-year-scholarships/top-achiever-scholarships.html
+  102  www.auckland.ac.nz/en/fmhs/study-with-us
+         https://www.auckland.ac.nz/en/fmhs/study-with-us/meet-the-students/our-undergraduate-students.html
+         https://www.auckland.ac.nz/en/fmhs/study-with-us/meet-the-students/our-undergraduate-students/nursing.html
+         https://www.auckland.ac.nz/en/fmhs/study-with-us/meet-the-students/our-undergraduate-students/medicine-surgery.html
+         https://www.auckland.ac.nz/en/fmhs/study-with-us/meet-the-students/our-undergraduate-students/bhsc-conjoint.html
+   99  www.auckland.ac.nz/en/science/about-the-faculty
+         https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-biological-sciences/our-sbs-people/meet-our-sbs-students-and-graduates.html
+         https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-biological-sciences/our-sbs-people/meet-our-sbs-students-and-graduates/minghan-yong.html
+         https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-biological-sciences/our-sbs-people/meet-our-sbs-students-and-graduates/meg-spittal.html
+         https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-biological-sciences/our-sbs-people/meet-our-sbs-students-and-graduates/mena-welford.html
+   71  www.auckland.ac.nz/en/students/academic-information
+         https://www.auckland.ac.nz/en/students/academic-information/graduation/applying-to-graduate.html
+         https://www.auckland.ac.nz/en/students/academic-information/graduation/what-to-wear/bachelors-masters-degree-regalia.html
+         https://www.auckland.ac.nz/en/students/academic-information/postgraduate-students.html
+         https://www.auckland.ac.nz/en/students/academic-information/postgraduate-students/postgraduate.html
+   71  www.auckland.ac.nz/en/engineering/study-with-us
+         https://www.auckland.ac.nz/en/engineering/study-with-us/study-options/undergraduate-study.html
+         https://www.auckland.ac.nz/en/engineering/study-with-us/study-options/undergraduate-study/engineering-ug-study.html
+         https://www.auckland.ac.nz/en/engineering/study-with-us/study-options/undergraduate-study/architecture.html
+         https://www.auckland.ac.nz/en/engineering/study-with-us/study-options/undergraduate-study/design.html
+   70  www.auckland.ac.nz/en/law/study-with-us
+         https://www.auckland.ac.nz/en/law/study-with-us/bachelor-of-laws/graduate-applications.html
+         https://www.auckland.ac.nz/en/law/study-with-us/bachelor-of-laws/undergraduate-courses.html
+         https://www.auckland.ac.nz/en/law/study-with-us/bachelor-of-laws/undergraduate-courses/honours-courses.html
+         https://www.auckland.ac.nz/en/law/study-with-us/study-options/explore-pg-options/for-llb-degree-holders/dual-masters-programme.html
+   41  www.auckland.ac.nz/en/science/study-with-us
+         https://www.auckland.ac.nz/en/science/study-with-us/study-options/ug-study-options/undergraduate-subject-guides.html
+         https://www.auckland.ac.nz/en/science/study-with-us/study-options/pg-study-options/postgraduate-study-webinars.html
+         https://www.auckland.ac.nz/en/science/study-with-us/study-options/pg-study-options/postgraduate-subject-guides.html
+         https://www.auckland.ac.nz/en/science/study-with-us/graduate-profile.html
+   40  www.auckland.ac.nz/en/study/applications-and-admissions
+         https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/undergraduate-admission.html
+         https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission.html
+         https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/postgraduate-applications.html
+         https://www.auckland.ac.nz/en/study/applications-and-admissions/how-to-apply/postgraduate-admission/doctoral-applications.html
+   31  www.auckland.ac.nz/en/news/2025
+         https://www.auckland.ac.nz/en/news/2025/03/27/from-tour-bus-to-school-bus-graduate-s-road-to-teaching.html
+         https://www.auckland.ac.nz/en/news/2025/03/27/no-place-like-home-for-tai-tokerau-graduate.html
+         https://www.auckland.ac.nz/en/news/2025/04/11/graduate-is-finalist-for-project-honouring-samoan-culture.html
+         https://www.auckland.ac.nz/en/news/2025/05/13/graduate-uncovers-barriers-for-migrant-entrepreneurs.html
+   31  www.auckland.ac.nz/en/engineering/current-students
+         https://www.auckland.ac.nz/en/engineering/current-students/undergraduate.html
+         https://www.auckland.ac.nz/en/engineering/current-students/undergraduate/deans-honours-list.html
+         https://www.auckland.ac.nz/en/engineering/current-students/undergraduate/dlp.html
+         https://www.auckland.ac.nz/en/engineering/current-students/postgraduate.html
+   27  www.auckland.ac.nz/en/news/2024
+         https://www.auckland.ac.nz/en/news/2024/03/21/Vision-whanau-health-graduate.html
+         https://www.auckland.ac.nz/en/news/2024/05/06/first-master-in-professional-supervision-graduate-proud-papakura-boy.html
+         https://www.auckland.ac.nz/en/news/2024/05/07/forensics-graduate-bethany.html
+         https://www.auckland.ac.nz/en/news/2024/05/08/Graduates-vision-for-inclusivity-and-professorship.html
+   27  www.auckland.ac.nz/en/fmhs/about-the-faculty
+         https://www.auckland.ac.nz/en/fmhs/about-the-faculty/sms/study-options/undergraduate.html
+         https://www.auckland.ac.nz/en/fmhs/about-the-faculty/sms/study-options/postgraduate.html
+         https://www.auckland.ac.nz/en/fmhs/about-the-faculty/sms/study-options/masters-research-projects.html
+         https://www.auckland.ac.nz/en/fmhs/about-the-faculty/sms/departments-disciplines-centres/nutrition-and-dietetics/teaching-and-learning/undergraduate-study-in-nutrition.html
+   24  www.auckland.ac.nz/en/business/about-business-school
+         https://www.auckland.ac.nz/en/business/about-business-school/accounting-finance/study-options/postgraduate-accounting.html
+         https://www.auckland.ac.nz/en/business/about-business-school/accounting-finance/study-options/postgraduate-finance.html
+         https://www.auckland.ac.nz/en/business/about-business-school/commercial-law/study-options/postgraduate-commercial-law.html
+         https://www.auckland.ac.nz/en/business/about-business-school/economics/study-options/postgraduate-economics.html
+   22  www.auckland.ac.nz/en/news/2023
+         https://www.auckland.ac.nz/en/news/2023/02/09/nursing-graduate-med-student-shares-views-ahead-of-competition.html
+         https://www.auckland.ac.nz/en/news/2023/02/10/doctoral-graduate-launches-one-of-a-kind-kindergarten-in-vietnam.html
+         https://www.auckland.ac.nz/en/news/2023/02/23/business-school-incorporates-artificial-intelligence-undergraduate-teaching.html
+         https://www.auckland.ac.nz/en/news/2023/05/03/music-graduate-follows-in-her-mums-footsteps.html
+   21  www.auckland.ac.nz/en/news/2026
+         https://www.auckland.ac.nz/en/news/2026/05/07/counting-women-in--meet-the-graduate-backing-women-in-business.html
+         https://www.auckland.ac.nz/en/news/2026/05/07/master-of-science-grad-thanks-a-chicken-named-swordfish-.html
+         https://www.auckland.ac.nz/en/news/2026/05/07/vietnamese-opera-graduate-lives-her-singing-dream.html
+         https://www.auckland.ac.nz/en/news/2026/05/08/top-pacific-graduate-shaped-by-service-culture-and-community.html
+   21  www.auckland.ac.nz/en/news/2019
+         https://www.auckland.ac.nz/en/news/2019/02/08/congratulations-tai-tokerau-graduates.html
+         https://www.auckland.ac.nz/en/news/2019/03/08/education-postgraduate-students-win-kupe-scholarships.html
+         https://www.auckland.ac.nz/en/news/2019/04/30/graduate-values-water-.html
+         https://www.auckland.ac.nz/en/news/2019/04/30/graduate-inspired-by-late-father.html
+   20  www.auckland.ac.nz/en/arts/current-students
+         https://www.auckland.ac.nz/en/arts/current-students/student-support/postgraduate-contacts-support.html
+         https://www.auckland.ac.nz/en/arts/current-students/student-life/student-space/arts-graduate-study-centre.html
+         https://www.auckland.ac.nz/en/arts/current-students/postgraduate.html
+         https://www.auckland.ac.nz/en/arts/current-students/postgraduate/support-and-resources.html
+   18  www.auckland.ac.nz/en/study/international-students
+         https://www.auckland.ac.nz/en/study/international-students/study-options-for-international-students/undergraduate-study-for-international-students.html
+         https://www.auckland.ac.nz/en/study/international-students/study-options-for-international-students/postgraduate-study-for-international-students.html
+         https://www.auckland.ac.nz/en/study/international-students/study-options-for-international-students/postgraduate-study-for-international-students/taught-or-research-masters.html
+         https://www.auckland.ac.nz/en/study/international-students/study-options-for-international-students/postgraduate-study-for-international-students/doctoral-programmes-international-students.html
+   18  www.auckland.ac.nz/en/news/2022
+         https://www.auckland.ac.nz/en/news/2022/05/02/natalie-anderson-nursing-needs-more-nursing-graduates.html
+         https://www.auckland.ac.nz/en/news/2022/05/05/magic-moment-for-first-in-family-graduate.html
+         https://www.auckland.ac.nz/en/news/2022/05/05/Yvonne-Ualesi-graduates-pacific-education.html
+         https://www.auckland.ac.nz/en/news/2022/05/05/law-graduate-amplify-maaori-and-moana-oceania-voices.html
+   17  www.auckland.ac.nz/en/about-us/about-the-university
+         https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/governance-and-committees/leadership/pvc-global-graduate-research.html
+         https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/governance-and-committees/committees/a-z-committees/graduate-research-committee.html
+         https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/general-programme-regulations/general-regulations-masters-degrees.html
+         https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/general-programme-regulations/general-regulations-postgraduate-certificates.html
+   15  www.auckland.ac.nz/en/science/our-research
+         https://www.auckland.ac.nz/en/science/our-research/jgs-biodiversity-and-biosecurity/meet-our-graduates.html
+         https://www.auckland.ac.nz/en/science/our-research/jgs-biodiversity-and-biosecurity/meet-our-graduates/hayley-alena.html
+         https://www.auckland.ac.nz/en/science/our-research/jgs-biodiversity-and-biosecurity/meet-our-graduates/kelly-greig.html
+         https://www.auckland.ac.nz/en/science/our-research/jgs-biodiversity-and-biosecurity/meet-our-graduates/keshi-zhang.html
+   13  www.auckland.ac.nz/en/news/2021
+         https://www.auckland.ac.nz/en/news/2021/04/19/young-chinese-turn-on-billionaire-jack-ma-easy-credit.html
+         https://www.auckland.ac.nz/en/news/2021/06/01/celebrations-as-thousands-graduate-from-university-of-auckland.html
+         https://www.auckland.ac.nz/en/news/2021/06/02/sisters-study-and-graduate-together.html
+         https://www.auckland.ac.nz/en/news/2021/06/03/graduate-s-research-highlights-the-plight-of-young-carers.html

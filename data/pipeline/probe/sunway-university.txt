@@ -1,0 +1,118 @@
+# sunway-university https://sunwayuniversity.edu.my
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://sunwayuniversity.edu.my/sitemap.xml: 2 children (2 course-like)
+sitemaps read 3 · urls 6092 · master's-looking 182
+   15  sunwayuniversity.edu.my/events
+         https://sunwayuniversity.edu.my/events/communication-skills-mastering-team-dynamics-students
+         https://sunwayuniversity.edu.my/events/intervarsity-undergraduate-public-speaking-competition-iupsc-2025
+         https://sunwayuniversity.edu.my/events/excel-mastery-workshop-enhance-your-analytical-skills-industry-insights
+         https://sunwayuniversity.edu.my/events/postgraduate-open-day-sunway-university
+   13  sunwayuniversity.edu.my/events/2024
+         https://sunwayuniversity.edu.my/events/2024/southeast-asian-media-studies-conference-seamsc-2024
+         https://sunwayuniversity.edu.my/events/2024/unleash-your-spreadsheet-potential-microsoft-excel-mastery-workshop
+         https://sunwayuniversity.edu.my/events/2024/master-international-hospitality-management-online-preview
+         https://sunwayuniversity.edu.my/events/2024/chamber-music-masterclass-florent-audibert-helene-bordeaux
+   12  sunwayuniversity.edu.my/news/2023
+         https://sunwayuniversity.edu.my/news/2023/ts-dr-ngu-war-hlaing-wins-best-postgraduate-student-award
+         https://sunwayuniversity.edu.my/news/2023/lending-ear-dialogue-postgraduates
+         https://sunwayuniversity.edu.my/news/2023/sunway-university-postgraduate-student-council-installation-ceremony
+         https://sunwayuniversity.edu.my/news/2023/sunway-university-tops-malaysias-graduate-employability-rankings-second-year-running
+   12  sunwayuniversity.edu.my/news/2026
+         https://sunwayuniversity.edu.my/news/2026/sunway-university-graduate-featured-edge-malaysia-making-reusable-foodware-mainstream
+         https://sunwayuniversity.edu.my/news/2026/guest-lecture-fass-graduate-graeme-taan-jie
+         https://sunwayuniversity.edu.my/news/2026/eleanor-mcevoy-delivers-masterclass-sunway-university
+         https://sunwayuniversity.edu.my/news/2026/sunway-university-tops-graduate-employability-fifth-year-star
+   11  sunwayuniversity.edu.my/news/2024
+         https://sunwayuniversity.edu.my/news/2024/music-performance-students-join-string-masterclass-lim-soon-lee
+         https://sunwayuniversity.edu.my/news/2024/postgraduate-students-school-of-medical-and-life-sciences-win-awards-wwf-malaysia-climate
+         https://sunwayuniversity.edu.my/news/2024/sunway-university-tops-talentbanks-graduate-employability-ranking-third-consecutive-year
+         https://sunwayuniversity.edu.my/news/2024/3rd-intake-postgraduate-certificate-higher-education-practice-pchep-coming-soon
+    9  sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses
+         https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/master-of-applied-behaviour-analysis
+         https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/master-of-counselling
+         https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/masters-of-counselling-clinical-mental-health
+         https://sunwayuniversity.edu.my/faculty-of-medical-and-life-sciences/courses/master-nursing
+    9  sunwayuniversity.edu.my/sunway-business-school/courses
+         https://sunwayuniversity.edu.my/sunway-business-school/courses/master-of-management-online
+         https://sunwayuniversity.edu.my/sunway-business-school/courses/master-of-finance-online
+         https://sunwayuniversity.edu.my/sunway-business-school/courses/master-of-business-analytics-online
+         https://sunwayuniversity.edu.my/sunway-business-school/courses/master-of-business-administration
+    8  sunwayuniversity.edu.my/news/2025
+         https://sunwayuniversity.edu.my/news/2025/sunway-business-school-prepares-graduates-success
+         https://sunwayuniversity.edu.my/news/2025/4-row-sunway-university-tops-graduate-employability-rankings-again
+         https://sunwayuniversity.edu.my/news/2025/sunway-university-tops-graduate-employability-index-fourth-consecutive-year
+         https://sunwayuniversity.edu.my/news/2025/sunway-university-signs-moa-four-aba-centres-enhance-clinical-training-postgraduate
+    8  sunwayuniversity.edu.my/news/2022
+         https://sunwayuniversity.edu.my/news/2022/global-undergraduate-award-2022
+         https://sunwayuniversity.edu.my/news/2022/first-batch-of-postgraduate-diploma-primary-care-elderly-pgdpce-alumnus-shares-his
+         https://sunwayuniversity.edu.my/news/2022/sunway-university-awarded-1-graduate-employability
+         https://sunwayuniversity.edu.my/news/2022/sunway-university-1-graduate-employability
+    7  sunwayuniversity.edu.my/explore/thinkpieces
+         https://sunwayuniversity.edu.my/explore/thinkpieces/sms-ranks-highly-talentbanks-national-graduate-employability-index-2024
+         https://sunwayuniversity.edu.my/explore/thinkpieces/mastering-art-of-mobile-messaging
+         https://sunwayuniversity.edu.my/explore/thinkpieces/master-class-unlocking-emotional-intelligence-and-relationship-dynamics-family
+         https://sunwayuniversity.edu.my/explore/thinkpieces/mastering-bad-debts-and-allowance-doubtful-debts
+    7  sunwayuniversity.edu.my/explore/spotlightonteaching
+         https://sunwayuniversity.edu.my/explore/spotlightonteaching/importance-of-mastery-coding-teaching
+         https://sunwayuniversity.edu.my/explore/spotlightonteaching/preparing-bsc-industrial-statistics-graduates-professional
+         https://sunwayuniversity.edu.my/explore/spotlightonteaching/how-adobe-illustrator-could-be-taught-online
+         https://sunwayuniversity.edu.my/explore/spotlightonteaching/benefits-of-immediacy-communication-first-year-undergraduate-students
+    5  sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses
+         https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/master-advanced-computing
+         https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/master-artificial-intelligence
+         https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/master-digital-engineering
+         https://sunwayuniversity.edu.my/faculty-of-engineering-and-technology/courses/master-energy-science-and-engineering
+    5  sunwayuniversity.edu.my/news/2021
+         https://sunwayuniversity.edu.my/news/2021/bsc-hons-psychology-graduate-jun-yang-liew-won-first-place-toastmasters-district-102
+         https://sunwayuniversity.edu.my/news/2021/meet-first-cohort-of-jeffrey-sachs-centers-sustainable-development-management-msdm-master
+         https://sunwayuniversity.edu.my/news/2021/inaugural-cohort-of-graduates-postgraduate-diploma-primary-care-elderly
+         https://sunwayuniversity.edu.my/news/2021/msc-life-sciences-student-yong-joon-yee-wins-usd3500-grant-bat-conservation-international
+    4  sunwayuniversity.edu.my/explore/alumni
+         https://sunwayuniversity.edu.my/explore/alumni/how-vei-thong-masters-phd-journey-marketing
+         https://sunwayuniversity.edu.my/explore/alumni/numbers-impact-success-stories-our-industrial-statistics-graduates
+         https://sunwayuniversity.edu.my/explore/alumni/code-company-how-sunway-software-engineering-graduate-built-his-own-software-house
+         https://sunwayuniversity.edu.my/explore/alumni/msc-biological-sciences-graduate-wins-tan-sri-dato-seri-jeffrey-cheah-scholastic
+    3  sunwayuniversity.edu.my/school-of-education/courses
+         https://sunwayuniversity.edu.my/school-of-education/courses/master-of-education-research
+         https://sunwayuniversity.edu.my/school-of-education/courses/master-of-education-online
+         https://sunwayuniversity.edu.my/school-of-education/courses/master-of-education
+    3  sunwayuniversity.edu.my/events/2025
+         https://sunwayuniversity.edu.my/events/2025/master-of-education-webinar-shape-future-of-education
+         https://sunwayuniversity.edu.my/events/2025/smls-seminar-series-1-2025-literature-review-masterclass
+         https://sunwayuniversity.edu.my/events/2025/navigating-career-sustainability-insights-master-sustainable-development-management
+    3  sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses
+         https://sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses/master-of-arts-communication
+         https://sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses/master-of-arts-visual-communication-and-media-studies
+         https://sunwayuniversity.edu.my/faculty-of-arts-and-social-sciences/courses/master-of-arts-creative-arts-and-media
+    3  sunwayuniversity.edu.my/school-of-mathematical-sciences/courses
+         https://sunwayuniversity.edu.my/school-of-mathematical-sciences/courses/master-of-science-actuarial-analytics
+         https://sunwayuniversity.edu.my/school-of-mathematical-sciences/courses/master-of-science-mathematical-sciences
+         https://sunwayuniversity.edu.my/school-of-mathematical-sciences/courses/master-of-science-applied-mathematics
+    3  sunwayuniversity.edu.my/events/2026
+         https://sunwayuniversity.edu.my/events/2026/empower-your-research-master-binary-irt-mirt
+         https://sunwayuniversity.edu.my/events/2026/8th-international-conference-and-postgraduate-colloquium-of-environmental-research
+         https://sunwayuniversity.edu.my/events/2026/fass-postgraduate-research-seminar
+    3  sunwayuniversity.edu.my/news/2018
+         https://sunwayuniversity.edu.my/news/2018/vivien-ho-ipoh-selected-first-oxford-jeffrey-cheah-graduate-scholar
+         https://sunwayuniversity.edu.my/news/2018/sweet-welcome-new-graduates-sunway-alumni-community
+         https://sunwayuniversity.edu.my/news/2018/sunway-msc-life-science-student-wins-conference-presentation-award
+    3  sunwayuniversity.edu.my/sustainability/news
+         https://sunwayuniversity.edu.my/sustainability/news/sunway-group-dedicated-educate-staff-through-are-you-master-of-sustainability
+         https://sunwayuniversity.edu.my/sustainability/news/msc-life-sciences-student-yong-joon-yee-wins-usd3500-grant-bat-conservation
+         https://sunwayuniversity.edu.my/sustainability/news/inaugural-cohort-of-graduates-postgraduate-diploma-primary-care-elderly
+    3  sunwayuniversity.edu.my/research/postgraduate-research
+         https://sunwayuniversity.edu.my/research/postgraduate-research/doctoral-scholarships
+         https://sunwayuniversity.edu.my/research/postgraduate-research/PhD
+         https://sunwayuniversity.edu.my/research/postgraduate-research/Masters
+    3  sunwayuniversity.edu.my/graduate-career-support
+         https://sunwayuniversity.edu.my/graduate-career-support/mentoring-by-futurelab
+         https://sunwayuniversity.edu.my/graduate-career-support/fit4work
+         https://sunwayuniversity.edu.my/graduate-career-support/sunway-career-portal
+    3  sunwayuniversity.edu.my/admissions/orientation/postgraduate-research
+         https://sunwayuniversity.edu.my/admissions/orientation/postgraduate-research/milestone-journey
+         https://sunwayuniversity.edu.my/admissions/orientation/postgraduate-research/research-ethics-workshop
+         https://sunwayuniversity.edu.my/admissions/orientation//postgraduate-research/roles-and-responsibilities
+    3  sunwayuniversity.edu.my/job-opportunities/graduate-assistant
+         https://sunwayuniversity.edu.my/job-opportunities/graduate-assistant/dev-characterization-specific-aptamers
+         https://sunwayuniversity.edu.my/job-opportunities/graduate-assistant/Microplastic-Induced-Oxidative-Stress
+         https://sunwayuniversity.edu.my/job-opportunities/graduate-assistant/Promoting-Sustainable-Production-of-Fish-in-Aquaculture

@@ -1,0 +1,124 @@
+# new-york-university@1 https://www.nyu.edu
+robots sitemaps: https://www.nyu.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 1
+sitemaps read 1 · urls 21079 · master's-looking 525
+  110  www.nyu.edu/about/news-publications/news
+         https://www.nyu.edu/about/news-publications/news/2003/february/the_graduate_program_in.html
+         https://www.nyu.edu/about/news-publications/news/2004/march/nyu_names_new_undergraduate.html
+         https://www.nyu.edu/about/news-publications/news/2005/april/nyu_statement_on_graduate.html
+         https://www.nyu.edu/about/news-publications/news/2005/may/nyu_graduates_have_a_story_to.html
+   49  www.nyu.edu/research/provosts-global-research-initiatives/research-centers-faculty-graduate-students
+         https://www.nyu.edu/research/provosts-global-research-initiatives/research-centers-faculty-graduate-students/faculty-fellows-faqs.html
+         https://www.nyu.edu/research/provosts-global-research-initiatives/research-centers-faculty-graduate-students/grad-student-faqs.html
+         https://www.nyu.edu/research/provosts-global-research-initiatives/research-centers-faculty-graduate-students/gri-connections/gri-connections--buenos-aires-.html
+         https://www.nyu.edu/research/provosts-global-research-initiatives/research-centers-faculty-graduate-students/gri-connections.html
+   45  www.nyu.edu/admissions/undergraduate-admissions/how-to-apply
+         https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/all-freshmen-applicants/STARS-for-first-year-applicants.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/all-freshmen-applicants/additional-program-requirements.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/all-freshmen-applicants/advanced-credits.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/all-freshmen-applicants/early-decision.html
+   25  www.nyu.edu/globalcenters/tulsa/undergraduate-opportunities
+         https://www.nyu.edu/globalcenters/tulsa/undergraduate-opportunities/academics/inventory.html
+         https://www.nyu.edu/globalcenters/tulsa/undergraduate-opportunities/academics.html
+         https://www.nyu.edu/globalcenters/tulsa/undergraduate-opportunities/academics/lecturers.html
+         https://www.nyu.edu/globalcenters/tulsa/undergraduate-opportunities/academics/sample-course-schedules.html
+   24  www.nyu.edu/academics/studying-abroad/master-pages
+         https://www.nyu.edu/academics/studying-abroad/master-pages/Safety.html
+         https://www.nyu.edu/academics/studying-abroad/master-pages/academics.html
+         https://www.nyu.edu/academics/studying-abroad/master-pages/admitted-students/costs-budgeting/additional-funding.html
+         https://www.nyu.edu/academics/studying-abroad/master-pages/admitted-students/costs-budgeting/banking-exchange-rates.html
+   23  www.nyu.edu/students/student-information-and-resources/bills-payments-and-refunds
+         https://www.nyu.edu/students/student-information-and-resources/bills-payments-and-refunds/refunds-and-withdrawals/fall-2020-refund-schedule-by-school/fall-2020-leonard-n--stern-school-of-business---graduate.html
+         https://www.nyu.edu/students/student-information-and-resources/bills-payments-and-refunds/refunds-and-withdrawals/fall-2021-refund-schedule-by-school/fall-2021-leonard-n--stern-school-of-business---graduate.html
+         https://www.nyu.edu/students/student-information-and-resources/bills-payments-and-refunds/refunds-and-withdrawals/fall-2022-refund-schedule-by-school/fall-2022-leonard-n--stern-school-of-business---graduate.html
+         https://www.nyu.edu/students/student-information-and-resources/bills-payments-and-refunds/refunds-and-withdrawals/fall-2023-refund-schedule-by-school/fall-2023-leonard-n--stern-school-of-business---graduate.html
+   21  www.nyu.edu/students/communities-and-groups/graduate-students
+         https://www.nyu.edu/students/communities-and-groups/graduate-students/academics/coalition-for-next-generation-life-science/graduate-school-of-arts-and-science.html
+         https://www.nyu.edu/students/communities-and-groups/graduate-students/academics/coalition-for-next-generation-life-science.html
+         https://www.nyu.edu/students/communities-and-groups/graduate-students/academics/coalition-for-next-generation-life-science/vilcek-institute-for-graduate-biomedical-sciences.html
+         https://www.nyu.edu/students/communities-and-groups/graduate-students/doctoral-student-policies.html
+   20  www.nyu.edu/admissions/graduate-admissions
+         https://www.nyu.edu/admissions/graduate-admissions/application-requirements.html
+         https://www.nyu.edu/admissions/graduate-admissions/arts.html
+         https://www.nyu.edu/admissions/graduate-admissions/business--finance--and-management.html
+         https://www.nyu.edu/admissions/graduate-admissions/communications--journalism--and-media-studies.html
+   19  www.nyu.edu/students/academic-services/undergraduate-advisement
+         https://www.nyu.edu/students/academic-services/undergraduate-advisement/academic-resource-center/cross-school-advising.html
+         https://www.nyu.edu/students/academic-services/undergraduate-advisement/academic-resource-center.html
+         https://www.nyu.edu/students/academic-services/undergraduate-advisement/finding-your-advisor.html
+         https://www.nyu.edu/students/academic-services/undergraduate-advisement/nyu-academic-advising-framework.html
+   18  www.nyu.edu/academics/accreditation-authorization-assessment/add-or-change-a-program
+         https://www.nyu.edu/academics/accreditation-authorization-assessment/add-or-change-a-program/masters/general-academic.html
+         https://www.nyu.edu/academics/accreditation-authorization-assessment/add-or-change-a-program/masters.html
+         https://www.nyu.edu/academics/accreditation-authorization-assessment/add-or-change-a-program/masters/licensed-profession.html
+         https://www.nyu.edu/academics/accreditation-authorization-assessment/add-or-change-a-program/masters/teacher-certification/educational-leader-certification.html
+   17  www.nyu.edu/about/leadership-university-administration/organization-directory
+         https://www.nyu.edu/about/leadership-university-administration/organization-directory/academic-program-review-and-doctoral-affairs/graduate-program-committee.html
+         https://www.nyu.edu/about/leadership-university-administration/organization-directory/academic-program-review-and-doctoral-affairs/graduate-program-committee/new-program-proposals.html
+         https://www.nyu.edu/about/leadership-university-administration/organization-directory/admissions--financial-aid--and-graduate-marketing---admission-co.html
+         https://www.nyu.edu/about/leadership-university-administration/organization-directory/office-of-global-services/faculty-and-staff-resources-to-support-international-students1/undergraduate-admissions-resources-for-international-applicants.html
+   15  www.nyu.edu/admissions/undergraduate-admissions/ambassadors
+         https://www.nyu.edu/admissions/undergraduate-admissions/ambassadors/meet-the-ambassadors/alumi/class-of-2023.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/ambassadors/meet-the-ambassadors/alumi.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/ambassadors/meet-the-ambassadors/cas.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/ambassadors/meet-the-ambassadors/cas/we-are-trying.html
+   14  www.nyu.edu/admissions/graduate-admissions/visit-nyu
+         https://www.nyu.edu/admissions/graduate-admissions/visit-nyu/In-PersonEventSafety.html
+         https://www.nyu.edu/admissions/graduate-admissions/visit-nyu/graduate-tour-information.html
+         https://www.nyu.edu/admissions/graduate-admissions/visit-nyu/virtual-campus-tour.html
+         https://www.nyu.edu/admissions/graduate-admissions/visit-nyu/virtual-campus-tour/washington-square-campus-virtual-tour/404-Gym.html
+   14  www.nyu.edu/admissions/undergraduate-admissions
+         https://www.nyu.edu/admissions/undergraduate-admissions/admitted-students.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/ambassadors.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/application-status.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/campuses-schools-and-colleges.html
+   11  www.nyu.edu/admissions/undergraduate-admissions/admitted-students
+         https://www.nyu.edu/admissions/undergraduate-admissions/admitted-students/accelerated-nursing-students.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/admitted-students/deferring-your-enrollment.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/admitted-students/events.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/admitted-students/expectations-for-admitted-students.html
+   10  www.nyu.edu/admissions/undergraduate-admissions/visit-nyu
+         https://www.nyu.edu/admissions/undergraduate-admissions/visit-nyu/campus-brochures.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/visit-nyu/campus-visit.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/visit-nyu/campus-visit/nyu-open-house.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/visit-nyu/campus-visit/nyu-open-house/senior-day.html
+   10  www.nyu.edu/students/student-information-and-resources/career-development-and-jobs
+         https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs/graduate-students/first-generation-graduate-students.html
+         https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs/graduate-students/graduate-resources.html
+         https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs/graduate-students/graduate-student-advisory-board.html
+         https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs/graduate-students.html
+    6  www.nyu.edu/globalcenters/london/Graduate-Students
+         https://www.nyu.edu/globalcenters/london/Graduate-Students/ma-in-historical-and-sustainable-architecture/Contact-us.html
+         https://www.nyu.edu/globalcenters/london/Graduate-Students/ma-in-historical-and-sustainable-architecture/Course-Descriptions.html
+         https://www.nyu.edu/globalcenters/london/Graduate-Students/ma-in-historical-and-sustainable-architecture/FAQ.html
+         https://www.nyu.edu/globalcenters/london/Graduate-Students/ma-in-historical-and-sustainable-architecture/faculty-bios.html
+    5  www.nyu.edu/admissions/financial-aid-and-scholarships/applying-as-a-prospective-undergraduate-student
+         https://www.nyu.edu/admissions/financial-aid-and-scholarships/applying-as-a-prospective-undergraduate-student/accept-your-aid.html
+         https://www.nyu.edu/admissions/financial-aid-and-scholarships/applying-as-a-prospective-undergraduate-student/daus-applicants.html
+         https://www.nyu.edu/admissions/financial-aid-and-scholarships/applying-as-a-prospective-undergraduate-student/first-year-applicants.html
+         https://www.nyu.edu/admissions/financial-aid-and-scholarships/applying-as-a-prospective-undergraduate-student/first-year-applicants/the-nyu-promise.html
+    5  www.nyu.edu/admissions/undergraduate-admissions/majors-and-programs
+         https://www.nyu.edu/admissions/undergraduate-admissions/majors-and-programs/arts-and-media.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/majors-and-programs/business.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/majors-and-programs/education-and-health-related-fields.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/majors-and-programs/humanities-social-sciences.html
+    5  www.nyu.edu/research/undergraduate-research
+         https://www.nyu.edu/research/undergraduate-research/advising-and-resources.html
+         https://www.nyu.edu/research/undergraduate-research/events.html
+         https://www.nyu.edu/research/undergraduate-research/for-faculty.html
+         https://www.nyu.edu/research/undergraduate-research/in-your-school.html
+    3  www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines
+         https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/UndergraduateTransferCreditPolicy.html
+         https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/notice-to-graduate-students-of-rights-under-the-family-education.html
+         https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/unified-policy-regarding-credentials-integrity-in-undergraduate-.html
+    3  www.nyu.edu/academics/studying-abroad
+         https://www.nyu.edu/academics/studying-abroad/graduate-students.html
+         https://www.nyu.edu/academics/studying-abroad/master-pages.html
+         https://www.nyu.edu/academics/studying-abroad/sidebar-master.html
+    3  www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu
+         https://www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu/campus-activities-and-resources.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu/housing-and-dining.html
+         https://www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu/internships-and-jobs.html
+    3  www.nyu.edu/employees/resources-and-services/media-and-communications
+         https://www.nyu.edu/employees/resources-and-services/media-and-communications/marketing-communications/office-of-graduate-marketing-and-admission-consulting-brochure-and-website-refresh.html
+         https://www.nyu.edu/employees/resources-and-services/media-and-communications/marketing-communications/undergraduate-accept-packet-and-yield-campaign.html
+         https://www.nyu.edu/employees/resources-and-services/media-and-communications/marketing-communications/undergraduate-search-campaign.html

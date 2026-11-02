@@ -1,0 +1,60 @@
+# vanderbilt-university@2 https://gradschool.vanderbilt.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://gradschool.vanderbilt.edu/sitemap.xml: 6 children (1 course-like)
+sitemaps read 7 · urls 265 · master's-looking 32
+    4  gradschool.vanderbilt.edu/category
+         https://gradschool.vanderbilt.edu/category/graduate-alumni/
+         https://gradschool.vanderbilt.edu/category/graduate-leadership-institute/
+         https://gradschool.vanderbilt.edu/category/graduate-school/
+         https://gradschool.vanderbilt.edu/category/graduate-students/
+    3  gradschool.vanderbilt.edu/tag
+         https://gradschool.vanderbilt.edu/tag/graduate-school/
+         https://gradschool.vanderbilt.edu/tag/graduate-students/
+         https://gradschool.vanderbilt.edu/tag/vanderbilt-graduate-school/
+    2  gradschool.vanderbilt.edu/2022/04/26
+         https://gradschool.vanderbilt.edu/2022/04/26/april-2022-graduate-student-spotlight/
+         https://gradschool.vanderbilt.edu/2022/04/26/2022-graduate-school-endowed-awards/
+    1  gradschool.vanderbilt.edu/faculty-and-staff
+         https://gradschool.vanderbilt.edu/faculty-and-staff/graduate-studies-handbook/
+    1  gradschool.vanderbilt.edu/about
+         https://gradschool.vanderbilt.edu/about/graduate-faculty-council/
+    1  gradschool.vanderbilt.edu/2019/03/14
+         https://gradschool.vanderbilt.edu/2019/03/14/critical-conversation-series-for-graduate-students/
+    1  gradschool.vanderbilt.edu/2019/04/02
+         https://gradschool.vanderbilt.edu/2019/04/02/the-graduate-school-presents-author-andrea-wulf-april-29/
+    1  gradschool.vanderbilt.edu/2019/04/05
+         https://gradschool.vanderbilt.edu/2019/04/05/graduate-student-condenses-energy-research-to-take-top-prize-at-3mt-competition/
+    1  gradschool.vanderbilt.edu/2019/06/04
+         https://gradschool.vanderbilt.edu/2019/06/04/celebrating-the-2019-graduates/
+    1  gradschool.vanderbilt.edu/2020/01/27
+         https://gradschool.vanderbilt.edu/2020/01/27/graduate-students-in-engineering-awarded-eisenhower-fellowships/
+    1  gradschool.vanderbilt.edu/2020/01/28
+         https://gradschool.vanderbilt.edu/2020/01/28/financial-planning-seminars-for-graduate-students-and-postdocs/
+    1  gradschool.vanderbilt.edu/2020/05/08
+         https://gradschool.vanderbilt.edu/2020/05/08/graduate-school-2020-founders-medalist-thea-j-autry/
+    1  gradschool.vanderbilt.edu/2021/04/14
+         https://gradschool.vanderbilt.edu/2021/04/14/graduate-school-names-endowed-scholarship-recipients/
+    1  gradschool.vanderbilt.edu/2022/08/24
+         https://gradschool.vanderbilt.edu/2022/08/24/graduate-leadership-institute-offers-workshops-grant-funding/
+    1  gradschool.vanderbilt.edu/2022/11/08
+         https://gradschool.vanderbilt.edu/2022/11/08/november-graduate-student-spotlight/
+    1  gradschool.vanderbilt.edu/2022/12/12
+         https://gradschool.vanderbilt.edu/2022/12/12/december-2022-graduate-student-spotlight/
+    1  gradschool.vanderbilt.edu/2023/06/12
+         https://gradschool.vanderbilt.edu/2023/06/12/2023-june-graduate-student-spotlight/
+    1  gradschool.vanderbilt.edu/2023/07/11
+         https://gradschool.vanderbilt.edu/2023/07/11/2023-july-graduate-student-spotlight/
+    1  gradschool.vanderbilt.edu/2023/11/02
+         https://gradschool.vanderbilt.edu/2023/11/02/graduate-school-names-endowed-scholarship-recipients-for-the-2023-24-school-year/
+    1  gradschool.vanderbilt.edu/2024/12/18
+         https://gradschool.vanderbilt.edu/2024/12/18/vanderbilt-graduate-school-announces-fall-2024-endowed-scholarship-recipients/
+    1  gradschool.vanderbilt.edu/2024/12/11
+         https://gradschool.vanderbilt.edu/2024/12/11/vanderbilt-graduate-school-announces-spring-2024-endowed-scholarship-recipients/
+    1  gradschool.vanderbilt.edu/2025/12/11
+         https://gradschool.vanderbilt.edu/2025/12/11/writing-support-program-for-graduate-students-postdocs-seeks-applicants-for-fall-semester/
+    1  gradschool.vanderbilt.edu/2026/07/08
+         https://gradschool.vanderbilt.edu/2026/07/08/vanderbilt-graduate-school-announces-fall-2025-endowed-scholarship-recipients/
+    1  gradschool.vanderbilt.edu/2025/10/28
+         https://gradschool.vanderbilt.edu/2025/10/28/lacy-fischer-interdisciplinary-research-grants-support-innovative-graduate-student-projects/
+    1  gradschool.vanderbilt.edu/2026/10/04
+         https://gradschool.vanderbilt.edu/2026/10/04/ten-graduate-student-teams-pursue-new-research-questions-across-disciplines/

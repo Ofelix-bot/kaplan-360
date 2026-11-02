@@ -1,0 +1,94 @@
+Claude fills missing fields for 92 programmes (claude-haiku-5-5)…
+university-o Cyber Security MSc                               +1 kept, 0 dropped
+university-o Economics MSc                                    +1 kept, 0 dropped
+university-o Marketing MSc                                    +1 kept, 0 dropped
+university-o Education MSc                                    +1 kept, 0 dropped
+university-o Management MSc                                   +1 kept, 0 dropped
+university-o Data Science MSc                                 +1 kept, 0 dropped
+university-o Master of Public Health MPH/PGDip/PGCert         +1 kept, 0 dropped
+university-o Risk Management MSc                              +1 kept, 0 dropped
+university-o Law (Master of Laws) LLM                         +1 kept, 0 dropped
+university-o Human Rights Law LLM                             +1 kept, 0 dropped
+university-o Digital Marketing MSc                            +1 kept, 0 dropped
+university-o Health Psychology MSc                            +2 kept, 0 dropped
+university-o Clinical Education MSc                           +1 kept, 0 dropped
+university-o International Law LLM                            +1 kept, 0 dropped
+university-o Banking and Finance MSc                          +1 kept, 0 dropped
+university-o Financial Economics MSc                          +1 kept, 0 dropped
+university-o Behavioural Economics MSc                        +1 kept, 0 dropped
+university-o Master of Public Health (Global Health) MPH/PGDi +1 kept, 0 dropped
+university-o Cyber Physical Systems MSc                       +1 kept, 0 dropped
+university-o Data Analytics and AI MSc                        +1 kept, 0 dropped
+university-o Psychology (Conversion) MSc                      +1 kept, 0 dropped
+university-o Accounting and Finance MSc                       +1 kept, 0 dropped
+university-o Management Psychology MSc/PGDip                  +1 kept, 0 dropped
+university-o Finance and Investment MSc                       +1 kept, 0 dropped
+university-o International Relations MA                       +1 kept, 0 dropped
+university-o Business Administration MBA                      +1 kept, 0 dropped
+university-o Business and Management MSc                      +1 kept, 0 dropped
+university-o Business, Analytics and AI MSc                   +1 kept, 0 dropped
+university-o International Business MSc                       +1 kept, 0 dropped
+university-o Occupational Psychology MSc                      +1 kept, 0 dropped
+university-o Advanced Clinical Practice MSc                   +2 kept, 0 dropped
+university-o Human Computer Interaction MSc                   +1 kept, 0 dropped
+university-o Cyber Physical Systems (2 year) MSc              +1 kept, 0 dropped
+university-o Economics and Data Science MSc                   +1 kept, 0 dropped
+university-o Machine Learning in Science MSc                  +1 kept, 0 dropped
+university-o Psychology Research Methods MSc                  +1 kept, 0 dropped
+university-o Master of Public Health (Health Research) MPH/PG +1 kept, 0 dropped
+university-o Criminology and Criminal Justice MA              +1 kept, 0 dropped
+university-o Master of Public Administration MPA              +1 kept, 0 dropped
+university-o Public Procurement Law and Policy LLM/PGDip/PGCe +0 kept, 0 dropped
+university-o Communication and Entrepreneurship MSc           +1 kept, 0 dropped
+university-o Work and Organisational Psychology MSc/PGDip     +1 kept, 0 dropped
+university-o Mental Health: Research and Practice MSc/PGDip/P +1 kept, 0 dropped
+university-o Advanced Computer Science or Advanced Computer S +1 kept, 0 dropped
+university-o Forensic and Criminological Psychology MSc       +1 kept, 0 dropped
+university-o Film, Television and Screen Industries MA        +1 kept, 0 dropped
+university-o Supply Chain and Operations Management MSc       +1 kept, 0 dropped
+university-o Cultural Industries and Entrepreneurship MSc     +1 kept, 0 dropped
+university-o Technology and Intellectual Property Law LLM     +1 kept, 0 dropped
+university-o Industrial Management and Information Systems MS +1 kept, 0 dropped
+university-o Entrepreneurship, Innovation and Management MSc  +1 kept, 0 dropped
+university-o Human Resource Management and Organisation MSc   +1 kept, 0 dropped
+university-o Computer Science or Computer Science (Artificial +1 kept, 0 dropped
+university-o International Business and Commercial Law LLM    +1 kept, 0 dropped
+university-o Applied Linguistics and English Language Teachin +1 kept, 0 dropped
+university-o International Media and Communication Studies MA +1 kept, 0 dropped
+university-o Teaching Chinese to Speakers of Other Languages  +1 kept, 0 dropped
+university-o Teaching English to Speakers of Other Languages  +1 kept, 0 dropped
+university-o Social Science Research (Criminology, Sociology, +1 kept, 0 dropped
+massachusett MIT Sloan Traditional MBA Program                +1 kept, 0 dropped
+university-o Person-Centred Experiential Counselling and Psyc +1 kept, 0 dropped
+massachusett MIT Sloan Master of Finance                      +1 kept, 0 dropped
+massachusett MIT Sloan Master of Business Analytics           +1 kept, 0 dropped
+massachusett MIT Sloan Fellows MBA Program                    +1 kept, 0 dropped
+massachusett MIT Sloan Evening MBA Program                    +1 kept, 0 dropped
+massachusett MIT Sloan Master of Science in Management Studie +1 kept, 0 dropped
+university-o Law, LLM                                         +1 kept, 0 dropped
+university-o Finance, MBA                                     +0 kept, 0 dropped
+university-o Teaching English to Speakers of Other Languages, +0 kept, 0 dropped
+university-o Robotics, MSE                                    +0 kept, 0 dropped
+university-o Marketing, MBA                                   +0 kept, 0 dropped
+university-o Accounting, MBA                                  +0 kept, 0 dropped
+university-o Criminology, MS                                  +0 kept, 0 dropped
+university-o Management, MBA                                  +0 kept, 0 dropped
+university-o Neonatal Nurse Practitioner, MSN                 +0 kept, 0 dropped
+university-o Real Estate, MBA                                 +0 kept, 0 dropped
+university-o Data Science, MSE                                +1 kept, 0 dropped
+university-o Public Health, MPH                               +0 kept, 0 dropped
+university-o Public Health, MPH + City & Regional Planning, M +0 kept, 0 dropped
+university-o Nurse-Midwifery, MSN                             +0 kept, 0 dropped
+university-o Education Policy, MSEd                           +0 kept, 0 dropped
+university-o Higher Education, MSEd                           +0 kept, 0 dropped
+university-o Cinema and Media Studies, MA                     +0 kept, 0 dropped
+university-o Business Analytics, MBA                          +0 kept, 0 dropped
+university-o School Leadership, MSEd                          +0 kept, 0 dropped
+university-o Individualized Major, MBA                        +0 kept, 0 dropped
+university-o Strategic Management, MBA                        +0 kept, 0 dropped
+university-o Quantitative Finance, MBA                        +0 kept, 0 dropped
+university-o Technology and Innovation, MSE                   +0 kept, 0 dropped
+university-o Scientific Computing, MSE                        +0 kept, 0 dropped
+university-o Health Care Management, MBA                      +0 kept, 0 dropped
+university-o Statistics and Data Science, MA                  +1 kept, 0 dropped
+Tokens: input 514315, output 19639 · cost ≈ US0.061 (Haiku 5.5: $0.10 / $0.50 per MTok)

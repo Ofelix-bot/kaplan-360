@@ -1,0 +1,904 @@
+{
+  "note": "Mainland 985 and 211 universities (2026-10-22, the user's request to read every one's graduate employment quality report). Military universities (国防科技大学, 海军军医大学, 空军军医大学) are left out: they publish no report. `list` / `report` override discovery for a university when its disclosure list or report is known.",
+  "universities": [
+    {
+      "id": "pku",
+      "zh": "北京大学",
+      "en": "Peking University",
+      "domain": "pku.edu.cn",
+      "tier": "985",
+      "none": "no university-wide report found on pku.edu.cn"
+    },
+    {
+      "id": "tsinghua",
+      "zh": "清华大学",
+      "en": "Tsinghua University",
+      "domain": "tsinghua.edu.cn",
+      "tier": "985",
+      "report": "https://www.tsinghua.edu.cn/info/1182/124579.htm"
+    },
+    {
+      "id": "ruc",
+      "zh": "中国人民大学",
+      "en": "Renmin University of China",
+      "domain": "ruc.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.ruc.edu.cn/gksx/jxzl/gxbysjyzlndbg/index.htm"
+    },
+    {
+      "id": "buaa",
+      "zh": "北京航空航天大学",
+      "en": "Beihang University",
+      "domain": "buaa.edu.cn",
+      "tier": "985",
+      "report": "https://xszx.buaa.edu.cn/info/1029/1334.htm"
+    },
+    {
+      "id": "bit",
+      "zh": "北京理工大学",
+      "en": "Beijing Institute of Technology",
+      "domain": "bit.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.bit.edu.cn/jxzlxx/bysjyzlndbg/index.htm"
+    },
+    {
+      "id": "cau",
+      "zh": "中国农业大学",
+      "en": "China Agricultural University",
+      "domain": "cau.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.cau.edu.cn/col/col25327/index.html"
+    },
+    {
+      "id": "bnu",
+      "zh": "北京师范大学",
+      "en": "Beijing Normal University",
+      "domain": "bnu.edu.cn",
+      "tier": "985",
+      "report": "https://xxgk.bnu.edu.cn/docs/2025-10/604fb8d4d549495185121d50d447155e.pdf"
+    },
+    {
+      "id": "muc",
+      "zh": "中央民族大学",
+      "en": "Minzu University of China",
+      "domain": "muc.edu.cn",
+      "tier": "985",
+      "none": "newest university-wide report found is 2019"
+    },
+    {
+      "id": "nankai",
+      "zh": "南开大学",
+      "en": "Nankai University",
+      "domain": "nankai.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.nankai.edu.cn/2927/list.htm"
+    },
+    {
+      "id": "tju",
+      "zh": "天津大学",
+      "en": "Tianjin University",
+      "domain": "tju.edu.cn",
+      "tier": "985",
+      "report": "https://xxgkw.tju.edu.cn/xwgb1/202310/P020231030586646916228.pdf"
+    },
+    {
+      "id": "dlut",
+      "zh": "大连理工大学",
+      "en": "Dalian University of Technology",
+      "domain": "dlut.edu.cn",
+      "tier": "985",
+      "list": "https://info.dlut.edu.cn/xxgklm/xsjiu_ye/jyzlndbg.htm"
+    },
+    {
+      "id": "neu",
+      "zh": "东北大学",
+      "en": "Northeastern University (China)",
+      "domain": "neu.edu.cn",
+      "tier": "985",
+      "list": "http://info.neu.edu.cn/3866/list.htm"
+    },
+    {
+      "id": "jlu",
+      "zh": "吉林大学",
+      "en": "Jilin University",
+      "domain": "jlu.edu.cn",
+      "tier": "985",
+      "report": "https://gongkai.jlu.edu.cn/info/egovinfo/1001/nry/xsjycy-/2023-1225001.htm"
+    },
+    {
+      "id": "hit",
+      "zh": "哈尔滨工业大学",
+      "en": "Harbin Institute of Technology",
+      "domain": "hit.edu.cn",
+      "tier": "985",
+      "none": "newest university-wide report found is 2019"
+    },
+    {
+      "id": "fudan",
+      "zh": "复旦大学",
+      "en": "Fudan University",
+      "domain": "fudan.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.fudan.edu.cn/bysjyzlndbg/list.htm"
+    },
+    {
+      "id": "tongji",
+      "zh": "同济大学",
+      "en": "Tongji University",
+      "domain": "tongji.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.tongji.edu.cn/index.php?classid=11616"
+    },
+    {
+      "id": "sjtu",
+      "zh": "上海交通大学",
+      "en": "Shanghai Jiao Tong University",
+      "domain": "sjtu.edu.cn",
+      "tier": "985",
+      "report": "https://gk.sjtu.edu.cn/Assets/userfiles/sys_eb538c1c-65ff-4e82-8e6a-a1ef01127fed/files/20241125/20241125135434916.pdf"
+    },
+    {
+      "id": "ecnu",
+      "zh": "华东师范大学",
+      "en": "East China Normal University",
+      "domain": "ecnu.edu.cn",
+      "tier": "985",
+      "report": "https://zsb.ecnu.edu.cn/e5/c3/c37598a714179/page.htm",
+      "list": "https://xxgk.ecnu.edu.cn/11889/list.htm"
+    },
+    {
+      "id": "nju",
+      "zh": "南京大学",
+      "en": "Nanjing University",
+      "domain": "nju.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.nju.edu.cn/16401/list.htm"
+    },
+    {
+      "id": "seu",
+      "zh": "东南大学",
+      "en": "Southeast University",
+      "domain": "seu.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.seu.edu.cn/bysjyzlbg/list.htm"
+    },
+    {
+      "id": "zju",
+      "zh": "浙江大学",
+      "en": "Zhejiang University",
+      "domain": "zju.edu.cn",
+      "tier": "985",
+      "list": "https://www.zju.edu.cn/xxgk/17975/list.htm"
+    },
+    {
+      "id": "ustc",
+      "zh": "中国科学技术大学",
+      "en": "University of Science and Technology of China",
+      "domain": "ustc.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.ustc.edu.cn/gxbysjyzlndbg/list.htm"
+    },
+    {
+      "id": "xmu",
+      "zh": "厦门大学",
+      "en": "Xiamen University",
+      "domain": "xmu.edu.cn",
+      "tier": "985",
+      "list": "https://gk.xmu.edu.cn/xxgkml/jxzlxx/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "sdu",
+      "zh": "山东大学",
+      "en": "Shandong University",
+      "domain": "sdu.edu.cn",
+      "tier": "985",
+      "list": "https://job.sdu.edu.cn/xxgk/jyzlbg.htm"
+    },
+    {
+      "id": "ouc",
+      "zh": "中国海洋大学",
+      "en": "Ocean University of China",
+      "domain": "ouc.edu.cn",
+      "tier": "985",
+      "none": "newest university-wide report found is 2019"
+    },
+    {
+      "id": "whu",
+      "zh": "武汉大学",
+      "en": "Wuhan University",
+      "domain": "whu.edu.cn",
+      "tier": "985",
+      "list": "https://info.whu.edu.cn/bmxxgkxw12/xsjyzdyfwzx/jyzlndbg.htm",
+      "report": "https://info.whu.edu.cn/__local/7/59/72/62B0BBACF975D3CC4AF4020D6F2_46B06638_9989C.pdf",
+      "kind": "本科教学质量报告"
+    },
+    {
+      "id": "hust",
+      "zh": "华中科技大学",
+      "en": "Huazhong University of Science and Technology",
+      "domain": "hust.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.hust.edu.cn/mlqd1/jxzl/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "hnu",
+      "zh": "湖南大学",
+      "en": "Hunan University",
+      "domain": "hnu.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.hnu.edu.cn/index/zsjy/jygz/bysjyzlndbg.htm"
+    },
+    {
+      "id": "csu",
+      "zh": "中南大学",
+      "en": "Central South University",
+      "domain": "csu.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.csu.edu.cn/jysj.jsp?urltype=tree.TreeTempUrl&wbtreeid=1101"
+    },
+    {
+      "id": "sysu",
+      "zh": "中山大学",
+      "en": "Sun Yat-sen University",
+      "domain": "sysu.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.sysu.edu.cn/cat/134"
+    },
+    {
+      "id": "scut",
+      "zh": "华南理工大学",
+      "en": "South China University of Technology",
+      "domain": "scut.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.scut.edu.cn/64/list.htm"
+    },
+    {
+      "id": "scu",
+      "zh": "四川大学",
+      "en": "Sichuan University",
+      "domain": "scu.edu.cn",
+      "tier": "985",
+      "report": "https://jy.scu.edu.cn/data/mcit_editor/20220517/%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A62021%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E5%B0%B1%E4%B8%9A%E8%B4%A8%E9%87%8F%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf"
+    },
+    {
+      "id": "uestc",
+      "zh": "电子科技大学",
+      "en": "University of Electronic Science and Technology of China",
+      "domain": "uestc.edu.cn",
+      "tier": "985",
+      "list": "https://xxgkw.uestc.edu.cn/xxgkml/jxzlxx/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "cqu",
+      "zh": "重庆大学",
+      "en": "Chongqing University",
+      "domain": "cqu.edu.cn",
+      "tier": "985",
+      "list": "https://gongkai.cqu.edu.cn/xxgkqd/jxzlxx/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "xjtu",
+      "zh": "西安交通大学",
+      "en": "Xi'an Jiaotong University",
+      "domain": "xjtu.edu.cn",
+      "tier": "985",
+      "report": "http://xxgk.xjtu.edu.cn/info/1059/9366.htm"
+    },
+    {
+      "id": "nwpu",
+      "zh": "西北工业大学",
+      "en": "Northwestern Polytechnical University",
+      "domain": "nwpu.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.nwpu.edu.cn/gksx/jxzlxx/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "nwafu",
+      "zh": "西北农林科技大学",
+      "en": "Northwest A&F University",
+      "domain": "nwafu.edu.cn",
+      "tier": "985",
+      "none": "newest found is 2020 (old domain nwsuaf.edu.cn)"
+    },
+    {
+      "id": "lzu",
+      "zh": "兰州大学",
+      "en": "Lanzhou University",
+      "domain": "lzu.edu.cn",
+      "tier": "985",
+      "list": "https://xxgk.lzu.edu.cn/jiaoxuezhiliang/jiuyegongzuo/index.html"
+    },
+    {
+      "id": "bjtu",
+      "zh": "北京交通大学",
+      "en": "Beijing Jiaotong University",
+      "domain": "bjtu.edu.cn",
+      "tier": "211",
+      "list": "https://www.bjtu.edu.cn/xxgkw/xxgk_xxgkml/jxzl/jxzl_xsjy/xsjy_jyzlndbg/index.htm"
+    },
+    {
+      "id": "bjut",
+      "zh": "北京工业大学",
+      "en": "Beijing University of Technology",
+      "domain": "bjut.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.bjut.edu.cn/xxgkqd/jxzlxx/jyzlnb.htm"
+    },
+    {
+      "id": "ustb",
+      "zh": "北京科技大学",
+      "en": "University of Science and Technology Beijing",
+      "domain": "ustb.edu.cn",
+      "tier": "211",
+      "report": "http://xxgk.ustb.edu.cn/xinxigongkaimulu/jiaoxuezhiliang/biyeshengdeguimo/2024-12-11/5299.html"
+    },
+    {
+      "id": "buct",
+      "zh": "北京化工大学",
+      "en": "Beijing University of Chemical Technology",
+      "domain": "buct.edu.cn",
+      "tier": "211",
+      "report": "https://xxgk.buct.edu.cn/2024/1027/c2761a199807/page.htm"
+    },
+    {
+      "id": "bupt",
+      "zh": "北京邮电大学",
+      "en": "Beijing University of Posts and Telecommunications",
+      "domain": "bupt.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.bupt.edu.cn/xxgksxqd1/jxzlxx/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "bjfu",
+      "zh": "北京林业大学",
+      "en": "Beijing Forestry University",
+      "domain": "bjfu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.bjfu.edu.cn/xxgksxqd/qdjxzlxx/bysjyzlbg/index.html"
+    },
+    {
+      "id": "bucm",
+      "zh": "北京中医药大学",
+      "en": "Beijing University of Chinese Medicine",
+      "domain": "bucm.edu.cn",
+      "tier": "211",
+      "report": "https://jy.bucm.edu.cn/uploadfile/v3/front/default/upload_file_63953.pdf"
+    },
+    {
+      "id": "bfsu",
+      "zh": "北京外国语大学",
+      "en": "Beijing Foreign Studies University",
+      "domain": "bfsu.edu.cn",
+      "tier": "211",
+      "report": "https://xxgk.bfsu.edu.cn/info/1093/1492.htm"
+    },
+    {
+      "id": "cuc",
+      "zh": "中国传媒大学",
+      "en": "Communication University of China",
+      "domain": "cuc.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.cuc.edu.cn/5375/list.htm"
+    },
+    {
+      "id": "cufe",
+      "zh": "中央财经大学",
+      "en": "Central University of Finance and Economics",
+      "domain": "cufe.edu.cn",
+      "tier": "211",
+      "none": "stopped publishing its report from 2021 (its 2024 disclosure report says so)"
+    },
+    {
+      "id": "uibe",
+      "zh": "对外经济贸易大学",
+      "en": "University of International Business and Economics",
+      "domain": "uibe.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.uibe.edu.cn/xsgl/jyfw/jyzlndbg2/index.htm"
+    },
+    {
+      "id": "bsu",
+      "zh": "北京体育大学",
+      "en": "Beijing Sport University",
+      "domain": "bsu.edu.cn",
+      "tier": "211",
+      "report": "https://jy.bsu.edu.cn/uploadfile/bsu/front/default/upload_file_41614.pdf"
+    },
+    {
+      "id": "ccom",
+      "zh": "中央音乐学院",
+      "en": "Central Conservatory of Music",
+      "domain": "ccom.edu.cn",
+      "tier": "211",
+      "report": "https://zhuanti.ccom.edu.cn/xxgkwnew/info/1361/3042.htm"
+    },
+    {
+      "id": "cupl",
+      "zh": "中国政法大学",
+      "en": "China University of Political Science and Law",
+      "domain": "cupl.edu.cn",
+      "tier": "211",
+      "none": "newest found is 2021 (no list page)"
+    },
+    {
+      "id": "ncepu",
+      "zh": "华北电力大学",
+      "en": "North China Electric Power University",
+      "domain": "ncepu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.ncepu.edu.cn/jxzlxx/33bysjyzlbg/index.htm"
+    },
+    {
+      "id": "cumtb",
+      "zh": "中国矿业大学（北京）",
+      "en": "China University of Mining and Technology-Beijing",
+      "domain": "cumtb.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.cumtb.edu.cn/jxzl/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "cup",
+      "zh": "中国石油大学（北京）",
+      "en": "China University of Petroleum-Beijing",
+      "domain": "cup.edu.cn",
+      "tier": "211",
+      "report": "https://career.cup.edu.cn/news/view/aid/89628/tag/lecture"
+    },
+    {
+      "id": "cugb",
+      "zh": "中国地质大学（北京）",
+      "en": "China University of Geosciences (Beijing)",
+      "domain": "cugb.edu.cn",
+      "tier": "211",
+      "none": "only teaching-quality reports found"
+    },
+    {
+      "id": "tmu",
+      "zh": "天津医科大学",
+      "en": "Tianjin Medical University",
+      "domain": "tmu.edu.cn",
+      "tier": "211",
+      "report": "http://jyw.tmu.edu.cn/news/content/id/473.html"
+    },
+    {
+      "id": "hebut",
+      "zh": "河北工业大学",
+      "en": "Hebei University of Technology",
+      "domain": "hebut.edu.cn",
+      "tier": "211",
+      "none": "only college-level reports found"
+    },
+    {
+      "id": "tyut",
+      "zh": "太原理工大学",
+      "en": "Taiyuan University of Technology",
+      "domain": "tyut.edu.cn",
+      "tier": "211",
+      "none": "newest university-wide report found is 2018"
+    },
+    {
+      "id": "imu",
+      "zh": "内蒙古大学",
+      "en": "Inner Mongolia University",
+      "domain": "imu.edu.cn",
+      "tier": "211",
+      "none": "reports named in disclosure reports, no page found"
+    },
+    {
+      "id": "lnu",
+      "zh": "辽宁大学",
+      "en": "Liaoning University",
+      "domain": "lnu.edu.cn",
+      "tier": "211",
+      "report": "https://www.lnu.edu.cn/__local/C/69/6A/24B8BF195BBA444F2BAA1894F08_D2C0F321_2EC535.pdf"
+    },
+    {
+      "id": "dlmu",
+      "zh": "大连海事大学",
+      "en": "Dalian Maritime University",
+      "domain": "dlmu.edu.cn",
+      "tier": "211",
+      "report": "https://xxgk.dlmu.edu.cn/info/1581/30576.htm"
+    },
+    {
+      "id": "ybu",
+      "zh": "延边大学",
+      "en": "Yanbian University",
+      "domain": "ybu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.ybu.edu.cn/jxzl/jyzlbg.htm"
+    },
+    {
+      "id": "nenu",
+      "zh": "东北师范大学",
+      "en": "Northeast Normal University",
+      "domain": "nenu.edu.cn",
+      "tier": "211",
+      "list": "https://publish.nenu.edu.cn/gksx/jxzlxx/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "hrbeu",
+      "zh": "哈尔滨工程大学",
+      "en": "Harbin Engineering University",
+      "domain": "hrbeu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.hrbeu.edu.cn/5908/list.htm"
+    },
+    {
+      "id": "neau",
+      "zh": "东北农业大学",
+      "en": "Northeast Agricultural University",
+      "domain": "neau.edu.cn",
+      "tier": "211",
+      "report": "http://job.neau.edu.cn/detail/news?id=785898&type_id=6522"
+    },
+    {
+      "id": "nefu",
+      "zh": "东北林业大学",
+      "en": "Northeast Forestry University",
+      "domain": "nefu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.nefu.edu.cn/xxgklm/jxzlxx1/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "ecust",
+      "zh": "华东理工大学",
+      "en": "East China University of Science and Technology",
+      "domain": "ecust.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.ecust.edu.cn/33wjyzlndbg/list.htm"
+    },
+    {
+      "id": "dhu",
+      "zh": "东华大学",
+      "en": "Donghua University",
+      "domain": "dhu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.dhu.edu.cn/jyzlndbgwjybw/list.htm"
+    },
+    {
+      "id": "shisu",
+      "zh": "上海外国语大学",
+      "en": "Shanghai International Studies University",
+      "domain": "shisu.edu.cn",
+      "tier": "211",
+      "list": "https://info.shisu.edu.cn/105/list.htm"
+    },
+    {
+      "id": "sufe",
+      "zh": "上海财经大学",
+      "en": "Shanghai University of Finance and Economics",
+      "domain": "sufe.edu.cn",
+      "tier": "211",
+      "list": "https://gongkai.sufe.edu.cn/jyzlndbg/list.htm"
+    },
+    {
+      "id": "shu",
+      "zh": "上海大学",
+      "en": "Shanghai University",
+      "domain": "shu.edu.cn",
+      "tier": "211",
+      "report": "https://xxgk.shu.edu.cn/info/1115/10781.htm"
+    },
+    {
+      "id": "suda",
+      "zh": "苏州大学",
+      "en": "Soochow University",
+      "domain": "suda.edu.cn",
+      "tier": "211",
+      "report": "https://ygb.suda.edu.cn/b2/45/c33059a569925/page.htm"
+    },
+    {
+      "id": "nuaa",
+      "zh": "南京航空航天大学",
+      "en": "Nanjing University of Aeronautics and Astronautics",
+      "domain": "nuaa.edu.cn",
+      "tier": "211",
+      "none": "2023 report announced on the news list; no report page found"
+    },
+    {
+      "id": "njust",
+      "zh": "南京理工大学",
+      "en": "Nanjing University of Science and Technology",
+      "domain": "njust.edu.cn",
+      "tier": "211",
+      "none": "no report page found on njust.edu.cn"
+    },
+    {
+      "id": "cumt",
+      "zh": "中国矿业大学",
+      "en": "China University of Mining and Technology",
+      "domain": "cumt.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.cumt.edu.cn/2110/list.htm"
+    },
+    {
+      "id": "hhu",
+      "zh": "河海大学",
+      "en": "Hohai University",
+      "domain": "hhu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.hhu.edu.cn/9476/list.htm"
+    },
+    {
+      "id": "jiangnan",
+      "zh": "江南大学",
+      "en": "Jiangnan University",
+      "domain": "jiangnan.edu.cn",
+      "tier": "211",
+      "report": "https://xxgk.jiangnan.edu.cn/info/1007/1103.htm"
+    },
+    {
+      "id": "njau",
+      "zh": "南京农业大学",
+      "en": "Nanjing Agricultural University",
+      "domain": "njau.edu.cn",
+      "tier": "211",
+      "list": "https://xszj.njau.edu.cn/jyzlbg.htm"
+    },
+    {
+      "id": "cpu",
+      "zh": "中国药科大学",
+      "en": "China Pharmaceutical University",
+      "domain": "cpu.edu.cn",
+      "tier": "211",
+      "list": "https://zjc.cpu.edu.cn/gxbysjyzlndbg/list.htm"
+    },
+    {
+      "id": "njnu",
+      "zh": "南京师范大学",
+      "en": "Nanjing Normal University",
+      "domain": "njnu.edu.cn",
+      "tier": "211",
+      "none": "no report page found on njnu.edu.cn"
+    },
+    {
+      "id": "ahu",
+      "zh": "安徽大学",
+      "en": "Anhui University",
+      "domain": "ahu.edu.cn",
+      "tier": "211",
+      "report": "https://xxgk.ahu.edu.cn/_upload/article/files/e0/5d/497527fb4d49a57883ba4c93e2b3/72146d47-d9c7-402c-85b3-8aede43281f5.pdf"
+    },
+    {
+      "id": "hfut",
+      "zh": "合肥工业大学",
+      "en": "Hefei University of Technology",
+      "domain": "hfut.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.hfut.edu.cn/4671/list.htm"
+    },
+    {
+      "id": "fzu",
+      "zh": "福州大学",
+      "en": "Fuzhou University",
+      "domain": "fzu.edu.cn",
+      "tier": "211",
+      "none": "newest university-wide report found is 2017"
+    },
+    {
+      "id": "ncu",
+      "zh": "南昌大学",
+      "en": "Nanchang University",
+      "domain": "ncu.edu.cn",
+      "tier": "211",
+      "report": "http://jy.ncu.edu.cn/detail/news?s=&id=922014&menu_id=6502&type_id=3202"
+    },
+    {
+      "id": "upc",
+      "zh": "中国石油大学（华东）",
+      "en": "China University of Petroleum (East China)",
+      "domain": "upc.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.upc.edu.cn/3276/list.htm"
+    },
+    {
+      "id": "zzu",
+      "zh": "郑州大学",
+      "en": "Zhengzhou University",
+      "domain": "zzu.edu.cn",
+      "tier": "211",
+      "report": "https://ao.zzu.edu.cn/info/1002/4246.htm"
+    },
+    {
+      "id": "cug",
+      "zh": "中国地质大学（武汉）",
+      "en": "China University of Geosciences (Wuhan)",
+      "domain": "cug.edu.cn",
+      "tier": "211",
+      "report": "https://xxgk.cug.edu.cn/info/1054/3489.htm"
+    },
+    {
+      "id": "whut",
+      "zh": "武汉理工大学",
+      "en": "Wuhan University of Technology",
+      "domain": "whut.edu.cn",
+      "tier": "211",
+      "list": "http://xxgk.whut.edu.cn/xsgl/xsjy/zlnb/"
+    },
+    {
+      "id": "hzau",
+      "zh": "华中农业大学",
+      "en": "Huazhong Agricultural University",
+      "domain": "hzau.edu.cn",
+      "tier": "211",
+      "none": "only 2016–2018 undergraduate reports found"
+    },
+    {
+      "id": "ccnu",
+      "zh": "华中师范大学",
+      "en": "Central China Normal University",
+      "domain": "ccnu.edu.cn",
+      "tier": "211",
+      "list": "https://xxb.ccnu.edu.cn/xxgk/info/1011/1737.htm"
+    },
+    {
+      "id": "zuel",
+      "zh": "中南财经政法大学",
+      "en": "Zhongnan University of Economics and Law",
+      "domain": "zuel.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.zuel.edu.cn/jyzlndbg/list.htm"
+    },
+    {
+      "id": "hunnu",
+      "zh": "湖南师范大学",
+      "en": "Hunan Normal University",
+      "domain": "hunnu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.hunnu.edu.cn/column/bysbg/index.shtml"
+    },
+    {
+      "id": "jnu",
+      "zh": "暨南大学",
+      "en": "Jinan University",
+      "domain": "jnu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.jnu.edu.cn/7604/"
+    },
+    {
+      "id": "scnu",
+      "zh": "华南师范大学",
+      "en": "South China Normal University",
+      "domain": "scnu.edu.cn",
+      "tier": "211",
+      "list": "http://xxgk.scnu.edu.cn/category/quality/q7/"
+    },
+    {
+      "id": "gxu",
+      "zh": "广西大学",
+      "en": "Guangxi University",
+      "domain": "gxu.edu.cn",
+      "tier": "211",
+      "list": "https://dwxwgk.gxu.edu.cn/xwgk/jxzl/jxzl_33.htm"
+    },
+    {
+      "id": "hainanu",
+      "zh": "海南大学",
+      "en": "Hainan University",
+      "domain": "hainanu.edu.cn",
+      "tier": "211",
+      "list": "https://info.hainanu.edu.cn/gksx/jiaoxue/jx8.htm"
+    },
+    {
+      "id": "swjtu",
+      "zh": "西南交通大学",
+      "en": "Southwest Jiaotong University",
+      "domain": "swjtu.edu.cn",
+      "tier": "211",
+      "list": "https://infpub.swjtu.edu.cn/gksx/jxzlxx/xxbysjyzlndbg.htm"
+    },
+    {
+      "id": "sicau",
+      "zh": "四川农业大学",
+      "en": "Sichuan Agricultural University",
+      "domain": "sicau.edu.cn",
+      "tier": "211",
+      "none": "newest found is 2020"
+    },
+    {
+      "id": "swufe",
+      "zh": "西南财经大学",
+      "en": "Southwestern University of Finance and Economics",
+      "domain": "swufe.edu.cn",
+      "tier": "211",
+      "list": "https://xwgk.swufe.edu.cn/gdxxxxgk/w_jxzlxx/a33_gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "swu",
+      "zh": "西南大学",
+      "en": "Southwest University",
+      "domain": "swu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.swu.edu.cn/xxgksx/jxzl/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "gzu",
+      "zh": "贵州大学",
+      "en": "Guizhou University",
+      "domain": "gzu.edu.cn",
+      "tier": "211",
+      "report": "https://www.gzu.edu.cn/2024/0516/c18097a218175/page.htm"
+    },
+    {
+      "id": "ynu",
+      "zh": "云南大学",
+      "en": "Yunnan University",
+      "domain": "ynu.edu.cn",
+      "tier": "211",
+      "none": "newest university-wide report found is 2017"
+    },
+    {
+      "id": "utibet",
+      "zh": "西藏大学",
+      "en": "Tibet University",
+      "domain": "utibet.edu.cn",
+      "tier": "211",
+      "none": "no report found on utibet.edu.cn"
+    },
+    {
+      "id": "nwu",
+      "zh": "西北大学",
+      "en": "Northwest University",
+      "domain": "nwu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.nwu.edu.cn/xxgkx/jxzlxx1/jyzd/1.htm"
+    },
+    {
+      "id": "xidian",
+      "zh": "西安电子科技大学",
+      "en": "Xidian University",
+      "domain": "xidian.edu.cn",
+      "tier": "211",
+      "report": "https://job.xidian.edu.cn/attachment/xidian/ueditor/file/20260128/3325_%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A62025%E5%B1%8A%E5%B0%B1%E4%B8%9A%E8%B4%A8%E9%87%8F%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A.pdf"
+    },
+    {
+      "id": "chd",
+      "zh": "长安大学",
+      "en": "Chang'an University",
+      "domain": "chd.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.chd.edu.cn/jxzl/jyzlbg.htm"
+    },
+    {
+      "id": "snnu",
+      "zh": "陕西师范大学",
+      "en": "Shaanxi Normal University",
+      "domain": "snnu.edu.cn",
+      "tier": "211",
+      "list": "http://xxgk.snnu.edu.cn/gksx/jxzlxx.htm"
+    },
+    {
+      "id": "qhu",
+      "zh": "青海大学",
+      "en": "Qinghai University",
+      "domain": "qhu.edu.cn",
+      "tier": "211",
+      "list": "https://xxgk.qhu.edu.cn/xxgklm/jxzlxx/bysjyzlndbg/index.htm"
+    },
+    {
+      "id": "nxu",
+      "zh": "宁夏大学",
+      "en": "Ningxia University",
+      "domain": "nxu.edu.cn",
+      "tier": "211",
+      "list": "https://office.nxu.edu.cn/xxgk/dwzwgk/jxzlxx/gxbysjyzlndbg.htm"
+    },
+    {
+      "id": "xju",
+      "zh": "新疆大学",
+      "en": "Xinjiang University",
+      "domain": "xju.edu.cn",
+      "tier": "211",
+      "none": "newest found is 2017"
+    },
+    {
+      "id": "shzu",
+      "zh": "石河子大学",
+      "en": "Shihezi University",
+      "domain": "shzu.edu.cn",
+      "tier": "211",
+      "none": "newest found is 2020"
+    }
+  ]
+}

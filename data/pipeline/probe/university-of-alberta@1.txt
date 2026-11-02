@@ -1,0 +1,141 @@
+# university-of-alberta@1 https://www.ualberta.ca
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+index https://www.ualberta.ca/sitemap.xml: 246 children (4 course-like)
+sitemap https://www.ualberta.ca/en/programs/sitemap.xml: http HTTP 404
+sitemap https://www.ualberta.ca/en/admissions-preview/sitemap.xml: http HTTP 404
+sitemap https://www.ualberta.ca/en/glycomics-institute/sitemap.xml: http HTTP 404
+sitemap https://www.secure.ualberta.ca/en/intranet-poc/sitemap.xml: redirects more than 5 redirects
+sitemap https://www.ualberta.ca/en/one-university/sitemap.xml: http HTTP 404
+sitemap https://www.secure.ualberta.ca/en/par-answers/sitemap.xml: redirects more than 5 redirects
+sitemap https://www.ualberta.ca/fr/school-of-dentistry/sitemap.xml: http HTTP 404
+sitemap https://www.ualberta.ca/en/sexual-assault-centre/sitemap.xml: http HTTP 404
+sitemap https://www.ualberta.ca/en/engineering-safety-and-risk-management/sitemap.xml: http HTTP 404
+sitemap https://www.ualberta.ca/fr/community-engagement-consultation/sitemap.xml: http HTTP 404
+sitemap https://www.ualberta.ca/en/centre-for-health-nutrition/sitemap.xml: http HTTP 404
+sitemap https://www.ualberta.ca/en/european-union/sitemap.xml: http HTTP 404
+sitemaps read 80 · urls 11169 · master's-looking 1530
+  389  www.ualberta.ca/en/graduate-programs
+         https://www.ualberta.ca/en/graduate-programs/sustainability.html
+         https://www.ualberta.ca/en/graduate-programs/post-masters-certificate-in-nurse-practitioner-specialty-practice.html
+         https://www.ualberta.ca/en/graduate-programs/online-graduate-certificate-in-policy-leadership.html
+         https://www.ualberta.ca/en/graduate-programs/doctor-of-education-and-doctor-of-philosophy-with-a-specialization-in-studies-in-educational-leadership-educational-policy-studies.html
+  367  www.ualberta.ca/en/undergraduate-programs
+         https://www.ualberta.ca/en/undergraduate-programs/baccalaureat-es-sciences-en-genie.html
+         https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-arts-and-education-general-arts-secondary-education.html
+         https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-mechatronics-and-robotics-engineering.html
+         https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-education-in-secondary-education-career-and-technology-studies-recreation.html
+  136  www.ualberta.ca/en/business/programs
+         https://www.ualberta.ca/en/business/programs/their-words-your-story/peter-mba.html
+         https://www.ualberta.ca/en/business/programs/phd/graduates.html
+         https://www.ualberta.ca/en/business/programs/masters-in-china/shenzhen-mfm.html
+         https://www.ualberta.ca/en/business/programs/masters-in-china/shenzhen-mba.html
+  108  www.ualberta.ca/en/agriculture-life-environment-sciences/programs
+         https://www.ualberta.ca/en/agriculture-life-environment-sciences/programs/graduate-programs/current-students.html
+         https://www.ualberta.ca/en/agriculture-life-environment-sciences/programs/graduate-programs/index.html
+         https://www.ualberta.ca/en/agriculture-life-environment-sciences/programs/graduate-programs/contact-us.html
+         https://www.ualberta.ca/en/agriculture-life-environment-sciences/programs/graduate-programs/graduate-awards.html
+   88  www.ualberta.ca/en/arts/programs
+         https://www.ualberta.ca/en/arts/programs/graduate-programs/graduate-student-resources.html
+         https://www.ualberta.ca/en/arts/programs/graduate-programs/index.html
+         https://www.ualberta.ca/en/arts/programs/graduate-programs/scholarship-and-awards/state-of-kuwait-graduate-award-in-islamic-studies.html
+         https://www.ualberta.ca/en/arts/programs/graduate-programs/scholarship-and-awards/makhzoumi-graduate-scholarship-in-lebanese-studies.html
+   33  www.ualberta.ca/en/education/programs
+         https://www.ualberta.ca/en/education/programs/english-language-school/graduate-preparation.html
+         https://www.ualberta.ca/en/education/programs/english-language-school/undergraduate-preparation/index.html
+         https://www.ualberta.ca/en/education/programs/english-language-school/undergraduate-preparation/new-courses.html
+         https://www.ualberta.ca/en/education/programs/graduate-programs/social-justice-and-international-studies-in-education.html
+   30  www.ualberta.ca/en/mathematical-and-statistical-sciences/undergraduate-studies
+         https://www.ualberta.ca/en/mathematical-and-statistical-sciences/undergraduate-studies/contact.html
+         https://www.ualberta.ca/en/mathematical-and-statistical-sciences/undergraduate-studies/student-clubs.html
+         https://www.ualberta.ca/en/mathematical-and-statistical-sciences/undergraduate-studies/mathematics-competitions.html
+         https://www.ualberta.ca/en/mathematical-and-statistical-sciences/undergraduate-studies/study-abroad.html
+   30  www.ualberta.ca/en/anthropology/about-anthropology
+         https://www.ualberta.ca/en/anthropology/about-anthropology/anthropology-news/2017/june/anthropology-graduates.html
+         https://www.ualberta.ca/en/anthropology/about-anthropology/anthropology-news/2011/august/anthropologygraduatestudentfeaturedinarchaeologymagazine.html
+         https://www.ualberta.ca/en/anthropology/about-anthropology/anthropology-news/2011/october/anthropologygraduatestudentfeaturedinarchaeologymagazine.html
+         https://www.ualberta.ca/en/anthropology/about-anthropology/anthropology-news/2011/november/graduate-student-in-the-news.html
+   29  www.ualberta.ca/en/education/professional-learning
+         https://www.ualberta.ca/en/education/professional-learning/masters/master-of-education-in-educational-studies-northwestalberta/how-to-apply.html
+         https://www.ualberta.ca/en/education/professional-learning/masters/master-of-education-in-educational-studies-northwestalberta/tuition-and-fees.html
+         https://www.ualberta.ca/en/education/professional-learning/masters/master-of-education-in-educational-studies-northwestalberta/admissions.html
+         https://www.ualberta.ca/en/education/professional-learning/masters/master-of-education-in-educational-studies-northwestalberta/required-courses.html
+   23  www.ualberta.ca/en/east-asian-studies/undergraduate-program
+         https://www.ualberta.ca/en/east-asian-studies/undergraduate-program/awards-and-scholarships.html
+         https://www.ualberta.ca/en/east-asian-studies/undergraduate-program/forms-cabinet.html
+         https://www.ualberta.ca/en/east-asian-studies/undergraduate-program/study-abroad/summer-mandarin-program-in-taiwan/videos-and-photos.html
+         https://www.ualberta.ca/en/east-asian-studies/undergraduate-program/study-abroad/summer-mandarin-program-in-taiwan/frequently-asked-questions.html
+   22  www.ualberta.ca/en/business/alumni-giving
+         https://www.ualberta.ca/en/business/alumni-giving/giving/profiles/u-of-a-alumnus-creates-first-ever-award-for-executive-mba-students.html
+         https://www.ualberta.ca/en/business/alumni-giving/giving/profiles/u-of-a-alumnus-gives-support-to-new-masters-program-at-his-alma-mater.html
+         https://www.ualberta.ca/en/business/alumni-giving/giving/profiles/ralph-young,-73-mba.html
+         https://www.ualberta.ca/en/business/alumni-giving/alumni/profiles/kevin-weidlich-mba-02.html
+   18  www.ualberta.ca/en/chemistry/graduate-program
+         https://www.ualberta.ca/en/chemistry/graduate-program/for-current-students.html
+         https://www.ualberta.ca/en/chemistry/graduate-program/scholarships-awards/index.html
+         https://www.ualberta.ca/en/chemistry/graduate-program/scholarships-awards/jean-cooley.html
+         https://www.ualberta.ca/en/chemistry/graduate-program/courses.html
+   17  www.ualberta.ca/en/physics/graduate-studies
+         https://www.ualberta.ca/en/physics/graduate-studies/index.html
+         https://www.ualberta.ca/en/physics/graduate-studies/information-for-current-students-and-supervisors/oral-exam-timelines.html
+         https://www.ualberta.ca/en/physics/graduate-studies/information-for-current-students-and-supervisors/index.html
+         https://www.ualberta.ca/en/physics/graduate-studies/information-for-current-students-and-supervisors/thesis-preparation-and-program-completion.html
+   16  www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies
+         https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/index.html
+         https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/contact.html
+         https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/regulations-and-guidelines.html
+         https://www.ualberta.ca/en/mathematical-and-statistical-sciences/graduate-studies/student-resources/index.html
+   16  www.ualberta.ca/en/arts/faculty-news
+         https://www.ualberta.ca/en/arts/faculty-news/2020/june/convocation/past-becomes-present-for-history-graduate-who-studied-spanish-flu.html
+         https://www.ualberta.ca/en/arts/faculty-news/2016/june/an-indigenous-graduates-open-letter-to-the-university-of-albertas-class-of-2016.html
+         https://www.ualberta.ca/en/arts/faculty-news/2016/october/5-tips-from-a-graduated-honors-student-to-honors-students.html
+         https://www.ualberta.ca/en/arts/faculty-news/2016/march/industrial-design-student-wins-first-ever-indigenous-graduate-award.html
+   16  www.ualberta.ca/en/education/student-services
+         https://www.ualberta.ca/en/education/student-services/graduate-students/index.html
+         https://www.ualberta.ca/en/education/student-services/undergraduate-students/forms.html
+         https://www.ualberta.ca/en/education/student-services/undergraduate-students/study-abroad/index.html
+         https://www.ualberta.ca/en/education/student-services/undergraduate-students/graduation-and-certification/careers.html
+   14  www.ualberta.ca/en/chemistry/undergraduate-program
+         https://www.ualberta.ca/en/chemistry/undergraduate-program/contact.html
+         https://www.ualberta.ca/en/chemistry/undergraduate-program/resources-for-careers-in-chemistry.html
+         https://www.ualberta.ca/en/chemistry/undergraduate-program/summer-employment-opportunities/undergraduate-research-papers.html
+         https://www.ualberta.ca/en/chemistry/undergraduate-program/summer-employment-opportunities/nserc.html
+   13  www.ualberta.ca/en/physics/undergraduate-studies
+         https://www.ualberta.ca/en/physics/undergraduate-studies/physics-help-centre.html
+         https://www.ualberta.ca/en/physics/undergraduate-studies/student-resources.html
+         https://www.ualberta.ca/en/physics/undergraduate-studies/internship-program.html
+         https://www.ualberta.ca/en/physics/undergraduate-studies/research-opportunities/supre-research-awards.html
+   13  www.ualberta.ca/en/education/about-us
+         https://www.ualberta.ca/en/education/about-us/education-news/2015/march/envisioning-the-future-of-education-with-the-graduate-student-research-showcase.html
+         https://www.ualberta.ca/en/education/about-us/education-news/2015/june/graduates-of-pilot-project-bring-incredible-richness-to-albertas-classrooms.html
+         https://www.ualberta.ca/en/education/about-us/education-news/2015/may/graduate-student-receives-national-award-for-research-in-art-education.html
+         https://www.ualberta.ca/en/education/about-us/education-news/2021/students-tout-undergraduate-anti-oppression-education-course.html
+   12  www.ualberta.ca/en/anthropology/graduate-programs
+         https://www.ualberta.ca/en/anthropology/graduate-programs/funding.html
+         https://www.ualberta.ca/en/anthropology/graduate-programs/professional-development-requirement.html
+         https://www.ualberta.ca/en/anthropology/graduate-programs/ethics-academic-citizenship-requirement.html
+         https://www.ualberta.ca/en/anthropology/graduate-programs/course-registration.html
+   10  www.ualberta.ca/en/east-asian-studies/graduate-program
+         https://www.ualberta.ca/en/east-asian-studies/graduate-program/qualifying-year-abroad.html
+         https://www.ualberta.ca/en/east-asian-studies/graduate-program/graduate-student-resources.html
+         https://www.ualberta.ca/en/east-asian-studies/graduate-program/kao-scholarship/index.html
+         https://www.ualberta.ca/en/east-asian-studies/graduate-program/kao-scholarship/remembering-chi-kun-and-fu-mei-kao.html
+    9  www.ualberta.ca/en/undergraduate-programs/apply
+         https://www.ualberta.ca/en/undergraduate-programs/apply/utah.html
+         https://www.ualberta.ca/en/undergraduate-programs/apply/usa.html
+         https://www.ualberta.ca/en/undergraduate-programs/apply/arizona.html
+         https://www.ualberta.ca/en/undergraduate-programs/apply/tennessee.html
+    9  www.ualberta.ca/en/arts/shows
+         https://www.ualberta.ca/en/arts/shows/concert-listings/2019-20/chamber-music-masterworks-with-clarinet.html
+         https://www.ualberta.ca/en/arts/shows/concert-listings/2022-23/faculty-and-friends-5-french-chamber-music-masterpieces.html
+         https://www.ualberta.ca/en/arts/shows/gallery-listings/2019-20/bachelor-of-design-graduate-show-2019.html
+         https://www.ualberta.ca/en/arts/shows/gallery-listings/2019-20/graduate-design-group-show.html
+    8  www.ualberta.ca/en/educational-policy-studies/graduate-programs
+         https://www.ualberta.ca/en/educational-policy-studies/graduate-programs/ache-specialization.html
+         https://www.ualberta.ca/en/educational-policy-studies/graduate-programs/sel-specialization.html
+         https://www.ualberta.ca/en/educational-policy-studies/graduate-programs/sji-specialization.html
+         https://www.ualberta.ca/en/educational-policy-studies/graduate-programs/ipe-specialization.html
+    8  www.ualberta.ca/en/business/international
+         https://www.ualberta.ca/en/business/international/study-tours-archived/mba-china/index.html
+         https://www.ualberta.ca/en/business/international/study-tours-archived/mba-china/dates-and-schedule.html
+         https://www.ualberta.ca/en/business/international/study-tours-archived/mba-china/costs.html
+         https://www.ualberta.ca/en/business/international/study-tours-archived/mba-china/academic-information.html

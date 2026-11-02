@@ -1,0 +1,2509 @@
+{
+  "notes": [
+    "Chinese names by English text, for names the site's data files give without an id (partner universities, top-up providers and Singapore schools; Kaplan's and the top-up degrees). Universities in the database keep their names from chinese-names.json; the others are translated by Claude."
+  ],
+  "schools": {
+    "SIM University (renamed Singapore University of Social Sciences, now a public university)": {
+      "hans": "新跃大学",
+      "hant": "新躍大學",
+      "official": false
+    },
+    "Nanyang Academy of Fine Arts": {
+      "hans": "南洋艺术学院",
+      "hant": "南洋藝術學院",
+      "official": false
+    },
+    "LASALLE College of the Arts": {
+      "hans": "拉萨尔艺术学院",
+      "hant": "拉薩爾藝術學院",
+      "official": false
+    },
+    "DigiPen Institute of Technology Singapore": {
+      "hans": "迪吉彭理工学院新加坡校区",
+      "hant": "迪吉彭理工學院新加坡校區",
+      "official": false
+    },
+    "ESSEC": {
+      "hans": "法国高等经济商业学院",
+      "hant": "法國高等經濟商業學院",
+      "official": false
+    },
+    "German Institute of Science and Technology – TUM Asia": {
+      "hans": "德国科技学院-慕尼黑工业大学亚洲分校",
+      "hant": "德國科技學院-慕尼黑工業大學亞洲分校",
+      "official": false
+    },
+    "INSEAD": {
+      "hans": "欧洲工商管理学院",
+      "hant": "歐洲工商管理學院",
+      "official": false
+    },
+    "S P Jain School of Global Management": {
+      "hans": "SP Jain全球管理学院",
+      "hant": "SP Jain全球管理學院",
+      "official": false
+    },
+    "Sorbonne-Assas International Law School – Asia": {
+      "hans": "索邦-阿萨斯国际法学院亚洲分校",
+      "hant": "索邦-阿薩斯國際法學院亞洲分校",
+      "official": false
+    },
+    "Murdoch University": {
+      "hans": "莫道克大学",
+      "hant": "莫道克大學",
+      "official": false
+    },
+    "Northumbria University at Newcastle": {
+      "hans": "诺森比亚大学",
+      "hant": "諾森比亞大學",
+      "official": false
+    },
+    "Birmingham City University": {
+      "hans": "伯明翰城市大学",
+      "hant": "伯明翰城市大學",
+      "official": false
+    },
+    "University of Portsmouth": {
+      "hans": "朴茨茅斯大学",
+      "hant": "朴茨茅斯大學",
+      "official": false
+    },
+    "University College Dublin": {
+      "hans": "都柏林大学",
+      "hant": "都柏林大學",
+      "official": false
+    },
+    "Monash University": {
+      "hans": "莫纳什大学",
+      "hant": "莫納什大學",
+      "official": false
+    },
+    "Curtin University": {
+      "hans": "科廷大学",
+      "hant": "科廷大學",
+      "official": false
+    },
+    "James Cook University": {
+      "hans": "詹姆斯库克大学",
+      "hant": "詹姆斯庫克大學",
+      "official": false
+    },
+    "University College Dublin, Ireland": {
+      "hans": "都柏林大学",
+      "hant": "都柏林大學",
+      "official": false
+    },
+    "Edinburgh Napier University": {
+      "hans": "爱丁堡龙比亚大学",
+      "hant": "愛丁堡龍比亞大學",
+      "official": false
+    },
+    "University of Hertfordshire": {
+      "hans": "赫特福德大学",
+      "hant": "赫特福德大學",
+      "official": false
+    },
+    "Coventry University": {
+      "hans": "考文垂大学",
+      "hant": "考文垂大學",
+      "official": false
+    },
+    "La Trobe University": {
+      "hans": "乐卓博大学",
+      "hant": "樂卓博大學",
+      "official": false
+    },
+    "Massey University": {
+      "hans": "梅西大学",
+      "hant": "梅西大學",
+      "official": false
+    },
+    "Edith Cowan University": {
+      "hans": "埃迪斯科文大学",
+      "hant": "埃迪斯科文大學",
+      "official": false
+    },
+    "RMIT University, Australia": {
+      "hans": "皇家墨尔本理工大学",
+      "hant": "皇家墨爾本理工大學",
+      "official": false
+    },
+    "University of Stirling, UK": {
+      "hans": "斯特林大学",
+      "hant": "斯特林大學",
+      "official": false
+    },
+    "University of Wollongong, Australia": {
+      "hans": "伍伦贡大学",
+      "hant": "伍倫貢大學",
+      "official": false
+    },
+    "University of Alberta, Canada": {
+      "hans": "阿尔伯塔大学",
+      "hant": "阿爾伯塔大學",
+      "official": false
+    },
+    "University of Wollongong": {
+      "hans": "伍伦贡大学",
+      "hant": "伍倫貢大學",
+      "official": false
+    },
+    "The University of Sydney, Australia": {
+      "hans": "悉尼大学",
+      "hant": "悉尼大學",
+      "official": false
+    },
+    "University of Birmingham, UK": {
+      "hans": "伯明翰大学",
+      "hant": "伯明翰大學",
+      "official": false
+    },
+    "Cardiff University, UK": {
+      "hans": "卡迪夫大学",
+      "hant": "卡迪夫大學",
+      "official": false
+    },
+    "RMIT University": {
+      "hans": "皇家墨尔本理工大学",
+      "hant": "皇家墨爾本理工大學",
+      "official": false
+    },
+    "The University of New South Wales (UNSW Sydney)": {
+      "hans": "新南威尔士大学",
+      "hant": "新南威爾士大學",
+      "official": false
+    },
+    "City University of Hong Kong": {
+      "hans": "香港城市大学",
+      "hant": "香港城市大學",
+      "official": true
+    },
+    "The Hang Seng University of Hong Kong": {
+      "hans": "香港恒生大学",
+      "hant": "香港恒生大學",
+      "official": true
+    },
+    "The London School of Economics and Political Science (LSE)": {
+      "hans": "伦敦政治经济学院",
+      "hant": "倫敦政治經濟學院",
+      "official": false
+    },
+    "The University of Sydney": {
+      "hans": "悉尼大学",
+      "hant": "悉尼大學",
+      "official": false
+    },
+    "The University of Warwick": {
+      "hans": "华威大学",
+      "hant": "華威大學",
+      "official": false
+    },
+    "University of Leeds": {
+      "hans": "利兹大学",
+      "hant": "利茲大學",
+      "official": false
+    },
+    "Aston University": {
+      "hans": "阿斯顿大学",
+      "hant": "阿斯頓大學",
+      "official": false
+    },
+    "Queen Margaret University, Edinburgh": {
+      "hans": "爱丁堡玛格丽特皇后大学",
+      "hant": "愛丁堡瑪格麗特皇后大學",
+      "official": false
+    },
+    "University of Greenwich": {
+      "hans": "格林威治大学",
+      "hant": "格林威治大學",
+      "official": false
+    },
+    "Bangor University": {
+      "hans": "班戈大学",
+      "hant": "班戈大學",
+      "official": false
+    },
+    "University of Stirling": {
+      "hans": "斯特林大学",
+      "hant": "斯特林大學",
+      "official": false
+    },
+    "University of Birmingham": {
+      "hans": "伯明翰大学",
+      "hant": "伯明翰大學",
+      "official": false
+    },
+    "University of Northampton": {
+      "hans": "北安普顿大学",
+      "hant": "北安普頓大學",
+      "official": false
+    },
+    "De Montfort University": {
+      "hans": "德蒙福特大学",
+      "hant": "德蒙福特大學",
+      "official": false
+    },
+    "London Metropolitan University": {
+      "hans": "伦敦城市大学",
+      "hant": "倫敦城市大學",
+      "official": false
+    },
+    "Leeds Beckett University": {
+      "hans": "利兹贝克特大学",
+      "hant": "利茲貝克特大學",
+      "official": false
+    },
+    "University of East London": {
+      "hans": "东伦敦大学",
+      "hant": "東倫敦大學",
+      "official": false
+    },
+    "University of Derby": {
+      "hans": "德比大学",
+      "hant": "德比大學",
+      "official": false
+    },
+    "Curtin": {
+      "hans": "科廷大学",
+      "hant": "科廷大學",
+      "official": false
+    },
+    "Northumbria University": {
+      "hans": "诺森比亚大学",
+      "hant": "諾森比亞大學",
+      "official": false
+    },
+    "Northumbria University, United Kingdom": {
+      "hans": "英国诺森比亚大学",
+      "hant": "英國諾森比亞大學",
+      "official": false
+    },
+    "The University Of Newcastle, Australia": {
+      "hans": "澳大利亚纽卡斯尔大学",
+      "hant": "澳大利亞紐卡斯爾大學",
+      "official": false
+    },
+    "University at Buffalo, The State University of New York, US": {
+      "hans": "纽约州立大学布法罗分校",
+      "hant": "紐約州立大學布法羅分校",
+      "official": false
+    },
+    "University of London, UK": {
+      "hans": "英国伦敦大学",
+      "hant": "英國倫敦大學",
+      "official": false
+    },
+    "Kaplan Singapore": {
+      "hans": "新加坡楷博高等教育学院",
+      "hant": "新加坡楷博高等教育學院",
+      "official": false
+    },
+    "James Cook University, Singapore Campus": {
+      "hans": "詹姆斯库克大学新加坡校区",
+      "hant": "詹姆斯庫克大學新加坡校區",
+      "official": false
+    },
+    "Curtin Education Centre": {
+      "hans": "科廷教育中心",
+      "hant": "科廷教育中心",
+      "official": false
+    },
+    "Kaplan Higher Education Academy": {
+      "hans": "楷博高等教育学院",
+      "hant": "楷博高等教育學院",
+      "official": false
+    },
+    "The University of Newcastle": {
+      "hans": "纽卡斯尔大学",
+      "hant": "紐卡斯爾大學",
+      "official": false
+    },
+    "PSB Academy": {
+      "hans": "PSB学院",
+      "hant": "PSB學院",
+      "official": false
+    },
+    "Singapore Institute of Management": {
+      "hans": "新加坡管理学院",
+      "hant": "新加坡管理學院",
+      "official": false
+    },
+    "Royal Melbourne Institute of Technology": {
+      "hans": "皇家墨尔本理工大学",
+      "hant": "皇家墨爾本理工大學",
+      "official": false
+    },
+    "Vatel Hotel and Tourism Business School": {
+      "hans": "瓦岱勒酒店与旅游管理学院",
+      "hant": "瓦岱勒酒店與旅遊管理學院",
+      "official": false
+    },
+    "SISH Institute": {
+      "hans": "SISH学院",
+      "hant": "SISH學院",
+      "official": false
+    },
+    "University of London": {
+      "hans": "伦敦大学",
+      "hant": "倫敦大學",
+      "official": false
+    },
+    "University College Dublin, National University of Ireland": {
+      "hans": "爱尔兰国立都柏林大学",
+      "hant": "愛爾蘭國立都柏林大學",
+      "official": false
+    },
+    "Wrexham University": {
+      "hans": "雷克瑟姆大学",
+      "hant": "雷克瑟姆大學",
+      "official": false
+    },
+    "SHRM College": {
+      "hans": "莎瑞学院",
+      "hant": "莎瑞學院",
+      "official": false
+    },
+    "Dimensions International College": {
+      "hans": "德明国际学院",
+      "hant": "德明國際學院",
+      "official": false
+    },
+    "University of Sunderland": {
+      "hans": "桑德兰大学",
+      "hant": "桑德蘭大學",
+      "official": false
+    },
+    "Management Development Institute of Singapore": {
+      "hans": "新加坡管理发展学院",
+      "hant": "新加坡管理發展學院",
+      "official": false
+    },
+    "Cardiff Metropolitan University": {
+      "hans": "卡迪夫城市大学",
+      "hant": "卡迪夫城市大學",
+      "official": false
+    },
+    "Beacon International College": {
+      "hans": "毕肯国际学院",
+      "hant": "畢肯國際學院",
+      "official": false
+    },
+    "East Asia Institute of Management": {
+      "hans": "东亚管理学院",
+      "hant": "東亞管理學院",
+      "official": false
+    },
+    "London School of Business and Finance": {
+      "hans": "伦敦商业金融学院",
+      "hant": "倫敦商業金融學院",
+      "official": false
+    },
+    "Teesside University": {
+      "hans": "提赛德大学",
+      "hant": "提賽德大學",
+      "official": false
+    },
+    "University of West London": {
+      "hans": "西伦敦大学",
+      "hant": "西倫敦大學",
+      "official": false
+    },
+    "Singapore Raffles Music College": {
+      "hans": "新加坡莱佛士音乐学院",
+      "hant": "新加坡萊佛士音樂學院",
+      "official": false
+    },
+    "Raffles College of Higher Education": {
+      "hans": "莱佛士高等教育学院",
+      "hant": "萊佛士高等教育學院",
+      "official": false
+    },
+    "TMC Academy": {
+      "hans": "TMC学院",
+      "hant": "TMC學院",
+      "official": false
+    },
+    "Asian International College": {
+      "hans": "亚洲国际学院",
+      "hant": "亞洲國際學院",
+      "official": false
+    },
+    "Stanfort Academy": {
+      "hans": "斯坦福学院",
+      "hant": "斯坦福學院",
+      "official": false
+    },
+    "University of Chichester": {
+      "hans": "奇切斯特大学",
+      "hant": "奇切斯特大學",
+      "official": false
+    },
+    "ERC Institute": {
+      "hans": "ERC学院",
+      "hant": "ERC學院",
+      "official": false
+    },
+    "University of Gloucestershire": {
+      "hans": "格洛斯特大学",
+      "hant": "格洛斯特大學",
+      "official": false
+    },
+    "Shelton College International": {
+      "hans": "胜德国际学院",
+      "hant": "勝德國際學院",
+      "official": false
+    },
+    "University of Suffolk": {
+      "hans": "萨福克大学",
+      "hant": "薩福克大學",
+      "official": false
+    },
+    "Hanbridge Institute": {
+      "hans": "汉桥学院",
+      "hant": "漢橋學院",
+      "official": false
+    },
+    "Roehampton University": {
+      "hans": "罗汉普顿大学",
+      "hant": "羅漢普頓大學",
+      "official": false
+    },
+    "Lithan Academy": {
+      "hans": "Lithan学院",
+      "hant": "Lithan學院",
+      "official": false
+    },
+    "Academies Australasia College": {
+      "hans": "澳亚学院",
+      "hant": "澳亞學院",
+      "official": false
+    },
+    "Keele University": {
+      "hans": "基尔大学",
+      "hant": "基爾大學",
+      "official": false
+    },
+    "Kingston International College": {
+      "hans": "金斯顿国际学院",
+      "hant": "金斯頓國際學院",
+      "official": false
+    },
+    "Massachusetts Institute of Technology (MIT)": {
+      "hans": "麻省理工学院",
+      "hant": "麻省理工學院",
+      "official": false
+    },
+    "Imperial College London": {
+      "hans": "帝国理工学院",
+      "hant": "帝國理工學院",
+      "official": false
+    },
+    "Stanford University": {
+      "hans": "斯坦福大学",
+      "hant": "斯坦福大學",
+      "official": false
+    },
+    "University of Oxford": {
+      "hans": "牛津大学",
+      "hant": "牛津大學",
+      "official": false
+    },
+    "University of Cambridge": {
+      "hans": "剑桥大学",
+      "hant": "劍橋大學",
+      "official": false
+    },
+    "UCL": {
+      "hans": "伦敦大学学院",
+      "hant": "倫敦大學學院",
+      "official": false
+    },
+    "National University of Singapore (NUS)": {
+      "hans": "新加坡国立大学",
+      "hant": "新加坡國立大學",
+      "official": true
+    },
+    "The University of Hong Kong": {
+      "hans": "香港大学",
+      "hant": "香港大學",
+      "official": true
+    },
+    "Nanyang Technological University, Singapore (NTU)": {
+      "hans": "南洋理工大学",
+      "hant": "南洋理工大學",
+      "official": true
+    },
+    "University of Pennsylvania": {
+      "hans": "宾夕法尼亚大学",
+      "hant": "賓夕法尼亞大學",
+      "official": false
+    },
+    "The Chinese University of Hong Kong (CUHK)": {
+      "hans": "香港中文大学",
+      "hant": "香港中文大學",
+      "official": true
+    },
+    "Johns Hopkins University": {
+      "hans": "约翰斯·霍普金斯大学",
+      "hant": "約翰斯·霍普金斯大學",
+      "official": false
+    },
+    "University of California, Berkeley (UCB)": {
+      "hans": "加州大学伯克利分校",
+      "hant": "加州大學伯克利分校",
+      "official": false
+    },
+    "The University of Melbourne": {
+      "hans": "墨尔本大学",
+      "hant": "墨爾本大學",
+      "official": false
+    },
+    "University of Chicago": {
+      "hans": "芝加哥大学",
+      "hant": "芝加哥大學",
+      "official": false
+    },
+    "The Australian National University": {
+      "hans": "澳大利亚国立大学",
+      "hant": "澳大利亞國立大學",
+      "official": false
+    },
+    "University of Toronto": {
+      "hans": "多伦多大学",
+      "hant": "多倫多大學",
+      "official": false
+    },
+    "The Hong Kong University of Science and Technology": {
+      "hans": "香港科技大学",
+      "hant": "香港科技大學",
+      "official": true
+    },
+    "The University of Edinburgh": {
+      "hans": "爱丁堡大学",
+      "hant": "愛丁堡大學",
+      "official": false
+    },
+    "King's College London": {
+      "hans": "伦敦国王学院",
+      "hant": "倫敦國王學院",
+      "official": false
+    },
+    "The University of Manchester": {
+      "hans": "曼彻斯特大学",
+      "hant": "曼徹斯特大學",
+      "official": false
+    },
+    "The University of Queensland": {
+      "hans": "昆士兰大学",
+      "hant": "昆士蘭大學",
+      "official": false
+    },
+    "Northwestern University": {
+      "hans": "西北大学",
+      "hant": "西北大學",
+      "official": false
+    },
+    "University of British Columbia": {
+      "hans": "不列颠哥伦比亚大学",
+      "hant": "不列顛哥倫比亞大學",
+      "official": false
+    },
+    "University of California, Los Angeles (UCLA)": {
+      "hans": "加州大学洛杉矶分校",
+      "hant": "加州大學洛杉磯分校",
+      "official": false
+    },
+    "The Hong Kong Polytechnic University": {
+      "hans": "香港理工大学",
+      "hant": "香港理工大學",
+      "official": true
+    },
+    "University of Bristol": {
+      "hans": "布里斯托大学",
+      "hant": "布里斯托大學",
+      "official": false
+    },
+    "New York University (NYU)": {
+      "hans": "纽约大学",
+      "hant": "紐約大學",
+      "official": false
+    },
+    "The University of Auckland": {
+      "hans": "奥克兰大学",
+      "hant": "奧克蘭大學",
+      "official": false
+    },
+    "Duke University": {
+      "hans": "杜克大学",
+      "hant": "杜克大學",
+      "official": false
+    },
+    "University of Illinois at Urbana-Champaign": {
+      "hans": "伊利诺伊大学厄巴纳-香槟分校",
+      "hant": "伊利諾伊大學厄巴納-香檳分校",
+      "official": false
+    },
+    "Trinity College Dublin, The University of Dublin": {
+      "hans": "都柏林圣三一大学",
+      "hant": "都柏林聖三一大學",
+      "official": false
+    },
+    "The University of Western Australia": {
+      "hans": "西澳大学",
+      "hant": "西澳大學",
+      "official": false
+    },
+    "Adelaide University": {
+      "hans": "阿德莱德大学",
+      "hant": "阿德萊德大學",
+      "official": false
+    },
+    "University of Glasgow": {
+      "hans": "格拉斯哥大学",
+      "hant": "格拉斯哥大學",
+      "official": false
+    },
+    "The University of Sheffield": {
+      "hans": "谢菲尔德大学",
+      "hant": "謝菲爾德大學",
+      "official": false
+    },
+    "Durham University": {
+      "hans": "杜伦大学",
+      "hant": "杜倫大學",
+      "official": false
+    },
+    "University of Technology Sydney": {
+      "hans": "悉尼科技大学",
+      "hant": "悉尼科技大學",
+      "official": false
+    },
+    "University of Alberta": {
+      "hans": "阿尔伯塔大学",
+      "hant": "阿爾伯塔大學",
+      "official": false
+    },
+    "University of Nottingham": {
+      "hans": "诺丁汉大学",
+      "hant": "諾丁漢大學",
+      "official": false
+    },
+    "Queen Mary University of London": {
+      "hans": "伦敦玛丽女王大学",
+      "hant": "倫敦瑪麗女王大學",
+      "official": false
+    },
+    "University of Southampton": {
+      "hans": "南安普顿大学",
+      "hant": "南安普頓大學",
+      "official": false
+    },
+    "University of St Andrews": {
+      "hans": "圣安德鲁斯大学",
+      "hant": "聖安德魯斯大學",
+      "official": false
+    },
+    "University of Bath": {
+      "hans": "巴斯大学",
+      "hant": "巴斯大學",
+      "official": false
+    },
+    "University of Wisconsin-Madison": {
+      "hans": "威斯康星大学麦迪逊分校",
+      "hant": "威斯康星大學麥迪遜分校",
+      "official": false
+    },
+    "The University of Exeter": {
+      "hans": "埃克塞特大学",
+      "hant": "埃克塞特大學",
+      "official": false
+    },
+    "University of California, Davis": {
+      "hans": "加州大学戴维斯分校",
+      "hant": "加州大學戴維斯分校",
+      "official": false
+    },
+    "University of Liverpool": {
+      "hans": "利物浦大学",
+      "hant": "利物浦大學",
+      "official": false
+    },
+    "Georgia Institute of Technology": {
+      "hans": "佐治亚理工学院",
+      "hant": "佐治亞理工學院",
+      "official": false
+    },
+    "Newcastle University": {
+      "hans": "纽卡斯尔大学",
+      "hant": "紐卡斯爾大學",
+      "official": false
+    },
+    "University of York": {
+      "hans": "约克大学",
+      "hant": "約克大學",
+      "official": false
+    },
+    "Washington University in St. Louis": {
+      "hans": "圣路易斯华盛顿大学",
+      "hant": "聖路易斯華盛頓大學",
+      "official": false
+    },
+    "Lancaster University": {
+      "hans": "兰卡斯特大学",
+      "hant": "蘭卡斯特大學",
+      "official": false
+    },
+    "Texas A&M University": {
+      "hans": "德克萨斯农工大学",
+      "hant": "德克薩斯農工大學",
+      "official": false
+    },
+    "Queen's University Belfast": {
+      "hans": "贝尔法斯特女王大学",
+      "hant": "貝爾法斯特女王大學",
+      "official": false
+    },
+    "Cardiff University": {
+      "hans": "卡迪夫大学",
+      "hant": "卡迪夫大學",
+      "official": false
+    },
+    "University of Reading": {
+      "hans": "雷丁大学",
+      "hant": "雷丁大學",
+      "official": false
+    },
+    "Loughborough University": {
+      "hans": "拉夫堡大学",
+      "hant": "拉夫堡大學",
+      "official": false
+    },
+    "Hong Kong Baptist University": {
+      "hans": "香港浸会大学",
+      "hant": "香港浸會大學",
+      "official": true
+    },
+    "University College Cork": {
+      "hans": "科克大学",
+      "hant": "科克大學",
+      "official": false
+    },
+    "Deakin University": {
+      "hans": "迪肯大学",
+      "hant": "迪肯大學",
+      "official": false
+    },
+    "University of Ottawa": {
+      "hans": "渥太华大学",
+      "hant": "渥太華大學",
+      "official": false
+    },
+    "Griffith University": {
+      "hans": "格里菲斯大学",
+      "hant": "格里菲斯大學",
+      "official": false
+    },
+    "University of Strathclyde": {
+      "hans": "斯特拉斯克莱德大学",
+      "hant": "斯特拉斯克萊德大學",
+      "official": false
+    },
+    "Queensland University of Technology (QUT)": {
+      "hans": "昆士兰科技大学",
+      "hant": "昆士蘭科技大學",
+      "official": false
+    },
+    "Victoria University of Wellington": {
+      "hans": "惠灵顿维多利亚大学",
+      "hant": "惠靈頓維多利亞大學",
+      "official": false
+    },
+    "The University of Newcastle, Australia (UON)": {
+      "hans": "纽卡斯尔大学",
+      "hant": "紐卡斯爾大學",
+      "official": false
+    },
+    "University of Surrey": {
+      "hans": "萨里大学",
+      "hant": "薩里大學",
+      "official": false
+    },
+    "University of Calgary": {
+      "hans": "卡尔加里大学",
+      "hant": "卡爾加里大學",
+      "official": false
+    },
+    "University of California, Irvine": {
+      "hans": "加州大学尔湾分校",
+      "hant": "加州大學爾灣分校",
+      "official": false
+    },
+    "University of Maryland, College Park": {
+      "hans": "马里兰大学帕克分校",
+      "hant": "馬里蘭大學帕克分校",
+      "official": false
+    },
+    "University of Canterbury": {
+      "hans": "坎特伯雷大学",
+      "hant": "坎特伯雷大學",
+      "official": false
+    },
+    "University of Massachusetts Amherst": {
+      "hans": "马萨诸塞大学阿默斯特分校",
+      "hant": "馬薩諸塞大學阿默斯特分校",
+      "official": false
+    },
+    "Singapore University of Technology and Design": {
+      "hans": "新加坡科技设计大学",
+      "hant": "新加坡科技設計大學",
+      "official": true
+    },
+    "University of Macau": {
+      "hans": "澳门大学",
+      "hant": "澳門大學",
+      "official": true
+    },
+    "University of Sussex": {
+      "hans": "萨塞克斯大学",
+      "hant": "薩塞克斯大學",
+      "official": false
+    },
+    "National University of Ireland Galway": {
+      "hans": "爱尔兰国立高威大学",
+      "hant": "愛爾蘭國立高威大學",
+      "official": false
+    },
+    "University of Aberdeen": {
+      "hans": "阿伯丁大学",
+      "hant": "阿伯丁大學",
+      "official": false
+    },
+    "Georgetown University": {
+      "hans": "乔治城大学",
+      "hant": "喬治城大學",
+      "official": false
+    },
+    "Swinburne University of Technology": {
+      "hans": "斯威本科技大学",
+      "hant": "斯威本科技大學",
+      "official": false
+    },
+    "University of Waikato": {
+      "hans": "怀卡托大学",
+      "hant": "懷卡託大學",
+      "official": false
+    },
+    "University of Tasmania": {
+      "hans": "塔斯马尼亚大学",
+      "hant": "塔斯馬尼亞大學",
+      "official": false
+    },
+    "The University of Arizona": {
+      "hans": "亚利桑那大学",
+      "hant": "亞利桑那大學",
+      "official": false
+    },
+    "University of Leicester": {
+      "hans": "莱斯特大学",
+      "hant": "萊斯特大學",
+      "official": false
+    },
+    "North Carolina State University": {
+      "hans": "北卡罗来纳州立大学",
+      "hant": "北卡羅來納州立大學",
+      "official": false
+    },
+    "University of Colorado Boulder": {
+      "hans": "科罗拉多大学博尔德分校",
+      "hant": "科羅拉多大學博爾德分校",
+      "official": false
+    },
+    "Swansea University": {
+      "hans": "斯旺西大学",
+      "hant": "斯旺西大學",
+      "official": false
+    },
+    "Heriot-Watt University": {
+      "hans": "赫瑞瓦特大学",
+      "hant": "赫瑞瓦特大學",
+      "official": false
+    },
+    "Brunel University London": {
+      "hans": "布鲁内尔大学",
+      "hant": "布魯內爾大學",
+      "official": false
+    },
+    "Western Sydney University": {
+      "hans": "西悉尼大学",
+      "hant": "西悉尼大學",
+      "official": false
+    },
+    "Flinders University": {
+      "hans": "弗林德斯大学",
+      "hant": "弗林德斯大學",
+      "official": false
+    },
+    "University of East Anglia (UEA)": {
+      "hans": "东英吉利大学",
+      "hant": "東英吉利大學",
+      "official": false
+    },
+    "Northeastern University": {
+      "hans": "东北大学",
+      "hant": "東北大學",
+      "official": false
+    },
+    "Macau University of Science and Technology": {
+      "hans": "澳门科技大学",
+      "hant": "澳門科技大學",
+      "official": true
+    },
+    "The Education University of Hong Kong": {
+      "hans": "香港教育大学",
+      "hant": "香港教育大學",
+      "official": true
+    },
+    "Dublin City University": {
+      "hans": "都柏林城市大学",
+      "hant": "都柏林城市大學",
+      "official": false
+    },
+    "Oxford Brookes University": {
+      "hans": "牛津布鲁克斯大学",
+      "hant": "牛津布魯克斯大學",
+      "official": false
+    },
+    "Singapore Management University": {
+      "hans": "新加坡管理大学",
+      "hant": "新加坡管理大學",
+      "official": true
+    },
+    "University of Southern Queensland": {
+      "hans": "南昆士兰大学",
+      "hant": "南昆士蘭大學",
+      "official": false
+    },
+    "University of Kent": {
+      "hans": "肯特大学",
+      "hant": "肯特大學",
+      "official": false
+    },
+    "Lincoln University": {
+      "hans": "林肯大学",
+      "hant": "林肯大學",
+      "official": false
+    },
+    "Auckland University of Technology (AUT)": {
+      "hans": "奥克兰理工大学",
+      "hant": "奧克蘭理工大學",
+      "official": false
+    },
+    "Central Queensland University (CQUniversity Australia)": {
+      "hans": "中央昆士兰大学",
+      "hant": "中央昆士蘭大學",
+      "official": false
+    },
+    "SOAS University of London": {
+      "hans": "伦敦大学亚非学院",
+      "hant": "倫敦大學亞非學院",
+      "official": false
+    },
+    "University of Canberra": {
+      "hans": "堪培拉大学",
+      "hant": "堪培拉大學",
+      "official": false
+    },
+    "Royal Holloway University of London": {
+      "hans": "伦敦大学皇家霍洛威学院",
+      "hant": "倫敦大學皇家霍洛威學院",
+      "official": false
+    },
+    "University of Bradford": {
+      "hans": "布拉德福德大学",
+      "hant": "布拉德福德大學",
+      "official": false
+    },
+    "Bond University": {
+      "hans": "邦德大学",
+      "hant": "邦德大學",
+      "official": false
+    },
+    "Charles Darwin University": {
+      "hans": "查尔斯达尔文大学",
+      "hant": "查爾斯達爾文大學",
+      "official": false
+    },
+    "University of Hull": {
+      "hans": "赫尔大学",
+      "hant": "赫爾大學",
+      "official": false
+    },
+    "Lingnan University, Hong Kong": {
+      "hans": "岭南大学",
+      "hant": "嶺南大學",
+      "official": true
+    },
+    "Southern Cross University": {
+      "hans": "南十字星大学",
+      "hant": "南十字星大學",
+      "official": false
+    },
+    "Nottingham Trent University": {
+      "hans": "诺丁汉特伦特大学",
+      "hant": "諾丁漢特倫特大學",
+      "official": false
+    },
+    "Kingston University, London": {
+      "hans": "金斯顿大学",
+      "hant": "金斯頓大學",
+      "official": false
+    },
+    "Victoria University": {
+      "hans": "维多利亚大学",
+      "hant": "維多利亞大學",
+      "official": false
+    },
+    "Goldsmiths, University of London": {
+      "hans": "伦敦大学金史密斯学院",
+      "hant": "倫敦大學金史密斯學院",
+      "official": false
+    },
+    "Maynooth University": {
+      "hans": "梅努斯大学",
+      "hant": "梅努斯大學",
+      "official": false
+    },
+    "Hong Kong Metropolitan University": {
+      "hans": "香港都会大学",
+      "hant": "香港都會大學",
+      "official": true
+    },
+    "Technological University Dublin": {
+      "hans": "都柏林理工大学",
+      "hant": "都柏林理工大學",
+      "official": false
+    },
+    "Australian Catholic University": {
+      "hans": "澳大利亚天主教大学",
+      "hant": "澳大利亞天主教大學",
+      "official": false
+    },
+    "University of Lincoln": {
+      "hans": "林肯大学",
+      "hant": "林肯大學",
+      "official": false
+    },
+    "University of Sunshine Coast": {
+      "hans": "阳光海岸大学",
+      "hant": "陽光海岸大學",
+      "official": false
+    },
+    "University of Westminster": {
+      "hans": "威斯敏斯特大学",
+      "hant": "威斯敏斯特大學",
+      "official": false
+    },
+    "London South Bank University": {
+      "hans": "伦敦南岸大学",
+      "hant": "倫敦南岸大學",
+      "official": false
+    },
+    "Middlesex University": {
+      "hans": "密德萨斯大学",
+      "hant": "密德薩斯大學",
+      "official": false
+    },
+    "University of Brighton": {
+      "hans": "布莱顿大学",
+      "hant": "布萊頓大學",
+      "official": false
+    },
+    "Macao Polytechnic University": {
+      "hans": "澳门理工大学",
+      "hant": "澳門理工大學",
+      "official": true
+    },
+    "Anglia Ruskin University": {
+      "hans": "安格利亚鲁斯金大学",
+      "hant": "安格利亞魯斯金大學",
+      "official": false
+    },
+    "City University of Macau": {
+      "hans": "澳门城市大学",
+      "hant": "澳門城市大學",
+      "official": true
+    },
+    "Glasgow Caledonian University": {
+      "hans": "格拉斯哥卡利多尼亚大学",
+      "hant": "格拉斯哥卡利多尼亞大學",
+      "official": false
+    },
+    "Hong Kong Shue Yan University": {
+      "hans": "香港树仁大学",
+      "hant": "香港樹仁大學",
+      "official": true
+    },
+    "Sheffield Hallam University": {
+      "hans": "谢菲尔德哈勒姆大学",
+      "hant": "謝菲爾德哈勒姆大學",
+      "official": false
+    },
+    "University of Lancashire": {
+      "hans": "兰开夏大学",
+      "hant": "蘭開夏大學",
+      "official": false
+    },
+    "University of Roehampton, London": {
+      "hans": "罗汉普顿大学",
+      "hant": "羅漢普頓大學",
+      "official": false
+    },
+    "University of Salford": {
+      "hans": "索尔福德大学",
+      "hant": "索爾福德大學",
+      "official": false
+    },
+    "University of Wolverhampton": {
+      "hans": "伍尔弗汉普顿大学",
+      "hant": "伍爾弗漢普頓大學",
+      "official": false
+    },
+    "Queen Margaret University , Edinburgh": {
+      "hans": "爱丁堡玛格丽特皇后大学",
+      "hant": "愛丁堡瑪格麗特皇后大學",
+      "official": false
+    },
+    "The University of Northampton": {
+      "hans": "北安普顿大学",
+      "hant": "北安普頓大學",
+      "official": false
+    },
+    "The University of Notre Dame, Australia": {
+      "hans": "澳大利亚圣母大学",
+      "hant": "澳大利亞聖母大學",
+      "official": false
+    },
+    "University Of South Wales": {
+      "hans": "南威尔士大学",
+      "hant": "南威爾士大學",
+      "official": false
+    },
+    "Canterbury Christ Church University": {
+      "hans": "坎特伯雷基督教会大学",
+      "hant": "坎特伯雷基督教會大學",
+      "official": false
+    },
+    "Cranfield University": {
+      "hans": "克兰菲尔德大学",
+      "hant": "克蘭菲爾德大學",
+      "official": false
+    },
+    "London School of Hygiene & Tropical Medicine": {
+      "hans": "伦敦卫生与热带医学院",
+      "hant": "倫敦衞生與熱帶醫學院",
+      "official": false
+    }
+  },
+  "degrees": {
+    "Diploma in Accounting and Finance (Double Specialisation)": {
+      "hans": "会计与金融双专业方向文凭",
+      "hant": "會計與金融雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Accounting and Finance (E-Learning)": {
+      "hans": "会计与金融文凭（网课）",
+      "hant": "會計與金融文憑（網課）",
+      "official": false
+    },
+    "Diploma in Finance and Banking (Double Specialisation)": {
+      "hans": "金融与银行双专业方向文凭",
+      "hant": "金融與銀行雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Finance and Banking (E-Learning)": {
+      "hans": "金融与银行文凭（网课）",
+      "hant": "金融與銀行文憑（網課）",
+      "official": false
+    },
+    "Diploma in Finance and Business Analytics (Double Specialisation)": {
+      "hans": "金融与商业分析双专业方向文凭",
+      "hant": "金融與商業分析雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Fintech": {
+      "hans": "金融科技文凭",
+      "hant": "金融科技文憑",
+      "official": false
+    },
+    "Diploma in Artificial Intelligence and Data Science (Double Specialisation)": {
+      "hans": "人工智能与数据科学双专业方向文凭",
+      "hant": "人工智能與數據科學雙專業方向文憑",
+      "official": false
+    },
+    "Advanced Diploma in Management": {
+      "hans": "管理高级文凭",
+      "hant": "管理高級文憑",
+      "official": false
+    },
+    "Diploma in Business Analytics": {
+      "hans": "商业分析文凭",
+      "hant": "商業分析文憑",
+      "official": false
+    },
+    "Diploma in Business Management": {
+      "hans": "工商管理文凭",
+      "hant": "工商管理文憑",
+      "official": false
+    },
+    "Diploma in Business Management (E-Learning)": {
+      "hans": "工商管理文凭（网课）",
+      "hant": "工商管理文憑（網課）",
+      "official": false
+    },
+    "Diploma in Business Management (General Studies)": {
+      "hans": "工商管理文凭（通识研究）",
+      "hant": "工商管理文憑（通識研究）",
+      "official": false
+    },
+    "Diploma in Business Management (General Studies) (E-Learning)": {
+      "hans": "工商管理文凭（通识研究）（网课）",
+      "hant": "工商管理文憑（通識研究）（網課）",
+      "official": false
+    },
+    "Diploma in Digital Marketing": {
+      "hans": "数字营销文凭",
+      "hant": "數字營銷文憑",
+      "official": false
+    },
+    "Diploma in Digital Marketing and Analytics (Double Specialisation)": {
+      "hans": "数字营销与分析双专业方向文凭",
+      "hant": "數字營銷與分析雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Human Resources and Management (Double Specialisation)": {
+      "hans": "人力资源与管理双专业方向文凭",
+      "hant": "人力資源與管理雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Human Resources and Management (E-Learning)": {
+      "hans": "人力资源与管理文凭（网课）",
+      "hant": "人力資源與管理文憑（網課）",
+      "official": false
+    },
+    "Diploma in Logistics and Supply Chain Management (Double Specialisation)": {
+      "hans": "物流与供应链管理双专业方向文凭",
+      "hant": "物流與供應鏈管理雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Logistics and Supply Chain Management (E-Learning)": {
+      "hans": "物流与供应链管理文凭（网课）",
+      "hant": "物流與供應鏈管理文憑（網課）",
+      "official": false
+    },
+    "Diploma in Marketing and Management (Double Specialisation)": {
+      "hans": "营销与管理双专业方向文凭",
+      "hant": "營銷與管理雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Marketing and Management (E-Learning)": {
+      "hans": "营销与管理文凭（网课）",
+      "hant": "營銷與管理文憑（網課）",
+      "official": false
+    },
+    "Diploma in Mass Communication": {
+      "hans": "大众传播文凭",
+      "hant": "大眾傳播文憑",
+      "official": false
+    },
+    "Diploma in Media Communication and Digital Marketing (Double Specialisation)": {
+      "hans": "媒体传播与数字营销双专业方向文凭",
+      "hant": "媒體傳播與數字營銷雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Counselling": {
+      "hans": "咨询辅导文凭",
+      "hant": "諮詢輔導文憑",
+      "official": false
+    },
+    "Diploma in Counselling and Social Services (Double Specialisation)": {
+      "hans": "咨询辅导与社会服务双专业方向文凭",
+      "hant": "諮詢輔導與社會服務雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Psychology": {
+      "hans": "心理学文凭",
+      "hant": "心理學文憑",
+      "official": false
+    },
+    "Diploma in Psychology and Counselling (Double Specialisation)": {
+      "hans": "心理学与咨询辅导双专业方向文凭",
+      "hant": "心理學與諮詢輔導雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Psychology and Criminology (Double Specialisation)": {
+      "hans": "心理学与犯罪学双专业方向文凭",
+      "hant": "心理學與犯罪學雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Psychology (E-Learning)": {
+      "hans": "心理学文凭（网课）",
+      "hant": "心理學文憑（網課）",
+      "official": false
+    },
+    "Diploma in Health Services and Management (Double Specialisation)": {
+      "hans": "卫生服务与管理双专业方向文凭",
+      "hant": "衞生服務與管理雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Hospitality and Tourism Management (Double Specialisation)": {
+      "hans": "酒店与旅游管理双专业方向文凭",
+      "hant": "酒店與旅遊管理雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Hospitality and Tourism Management (E-Learning)": {
+      "hans": "酒店与旅游管理文凭（网课）",
+      "hant": "酒店與旅遊管理文憑（網課）",
+      "official": false
+    },
+    "Diploma in Cyber Forensics and Computer Science (Double Specialisation)": {
+      "hans": "网络取证与计算机科学双专业方向文凭",
+      "hant": "網絡取證與計算機科學雙專業方向文憑",
+      "official": false
+    },
+    "Diploma in Information Technology": {
+      "hans": "信息技术文凭",
+      "hant": "信息技術文憑",
+      "official": false
+    },
+    "Diploma in Information Technology (E-Learning)": {
+      "hans": "信息技术文凭（网课）",
+      "hant": "信息技術文憑（網課）",
+      "official": false
+    },
+    "Diploma in Criminology": {
+      "hans": "犯罪学文凭",
+      "hant": "犯罪學文憑",
+      "official": false
+    },
+    "Diploma in Legal Studies": {
+      "hans": "法律研究文凭",
+      "hant": "法律研究文憑",
+      "official": false
+    },
+    "Diploma in Sports & Exercise Science": {
+      "hans": "体育与运动科学文凭",
+      "hant": "體育與運動科學文憑",
+      "official": false
+    },
+    "Bachelor of Business in Accounting": {
+      "hans": "会计学商学学士",
+      "hant": "會計學商學學士",
+      "official": false
+    },
+    "Bachelor of Business in Banking": {
+      "hans": "银行学商学学士",
+      "hant": "銀行學商學學士",
+      "official": false
+    },
+    "Bachelor of Business in Finance": {
+      "hans": "金融学商学学士",
+      "hant": "金融學商學學士",
+      "official": false
+    },
+    "Bachelor of Business in Business Law": {
+      "hans": "商法商学学士",
+      "hant": "商法商學學士",
+      "official": false
+    },
+    "Bachelor of Business in Human Resources Management": {
+      "hans": "人力资源管理商学学士",
+      "hant": "人力資源管理商學學士",
+      "official": false
+    },
+    "Bachelor of Business in International Business": {
+      "hans": "国际商务商学学士",
+      "hant": "國際商務商學學士",
+      "official": false
+    },
+    "Bachelor of Business in Management": {
+      "hans": "管理商学学士",
+      "hant": "管理商學學士",
+      "official": false
+    },
+    "Bachelor of Business in Marketing": {
+      "hans": "营销商学学士",
+      "hant": "營銷商學學士",
+      "official": false
+    },
+    "Bachelor of Business in Hospitality and Tourism Management": {
+      "hans": "酒店与旅游管理商学学士",
+      "hant": "酒店與旅遊管理商學學士",
+      "official": false
+    },
+    "Bachelor of Communication in Communication and Media Studies": {
+      "hans": "传播与媒体研究传播学学士",
+      "hant": "傳播與媒體研究傳播學學士",
+      "official": false
+    },
+    "Bachelor of Communication in Digital Communication": {
+      "hans": "数字传播传播学学士",
+      "hant": "數字傳播傳播學學士",
+      "official": false
+    },
+    "Bachelor of Communication in Strategic Communication": {
+      "hans": "战略传播传播学学士",
+      "hant": "戰略傳播傳播學學士",
+      "official": false
+    },
+    "Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems": {
+      "hans": "人工智能与自主系统信息技术学士",
+      "hant": "人工智能與自主系統信息技術學士",
+      "official": false
+    },
+    "Bachelor of Information Technology in Business Information Systems": {
+      "hans": "商业信息系统信息技术学士",
+      "hant": "商業信息系統信息技術學士",
+      "official": false
+    },
+    "Bachelor of Information Technology in Computer Science": {
+      "hans": "计算机科学信息技术学士",
+      "hant": "計算機科學信息技術學士",
+      "official": false
+    },
+    "Bachelor of Information Technology in Cyber Security and Forensics": {
+      "hans": "网络安全与取证信息技术学士",
+      "hant": "網絡安全與取證信息技術學士",
+      "official": false
+    },
+    "Bachelor of Information Technology in Games Design and Development": {
+      "hans": "游戏设计与开发信息技术学士",
+      "hant": "遊戲設計與開發信息技術學士",
+      "official": false
+    },
+    "Bachelor of Data Analytics in Business Intelligence": {
+      "hans": "商业智能数据分析学士",
+      "hant": "商業智能數據分析學士",
+      "official": false
+    },
+    "Bachelor of Data Analytics in Data Science": {
+      "hans": "数据科学数据分析学士",
+      "hant": "數據科學數據分析學士",
+      "official": false
+    },
+    "Bachelor of Data Analytics in FinTech (Minor in Information Security Systems)": {
+      "hans": "金融科技数据分析学士（辅修信息安全系统）",
+      "hant": "金融科技數據分析學士（輔修信息安全系統）",
+      "official": false
+    },
+    "Bachelor of Psychology in Psychological Science": {
+      "hans": "心理科学心理学理学学士",
+      "hant": "心理科學心理學理學學士",
+      "official": false
+    },
+    "Bachelor of Criminology in Criminal Behaviour": {
+      "hans": "犯罪行为犯罪学学士",
+      "hant": "犯罪行為犯罪學學士",
+      "official": false
+    },
+    "BSc (Hons) Global Business Management": {
+      "hans": "全球商业管理理学学士（荣誉）",
+      "hant": "全球商業管理理學學士（榮譽）",
+      "official": false
+    },
+    "BSc (Hons) Global Business Management (Logistics and Supply Chain)": {
+      "hans": "全球商业管理（物流与供应链）理学学士（荣誉）",
+      "hant": "全球商業管理（物流與供應鏈）理學學士（榮譽）",
+      "official": false
+    },
+    "BSc (Hons) Global Business Management (Human Resources)": {
+      "hans": "全球商业管理（人力资源）理学学士（荣誉）",
+      "hant": "全球商業管理（人力資源）理學學士（榮譽）",
+      "official": false
+    },
+    "BSc (Hons) International Tourism, Hospitality and Events": {
+      "hans": "国际旅游、酒店与活动管理理学学士（荣誉）",
+      "hant": "國際旅遊、酒店與活動管理理學學士（榮譽）",
+      "official": false
+    },
+    "BA (Hons) Mass Communication with Public Relations (Top-up)": {
+      "hans": "大众传播（公共关系）文学学士（荣誉，衔接）",
+      "hant": "大眾傳播（公共關係）文學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BA (Hons) in Childhood and Early Years Studies (Top-up)": {
+      "hans": "儿童与早期教育研究文学学士（荣誉，衔接）",
+      "hant": "兒童與早期教育研究文學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BA (Hons) in Guidance and Counselling (Top-up)": {
+      "hans": "指导与咨询文学学士（荣誉，衔接）",
+      "hant": "指導與諮詢文學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc (Hons) in Psychology (Clinical Psychology) (Top-up)": {
+      "hans": "心理学（临床心理学）理学学士（荣誉，衔接）",
+      "hant": "心理學（臨牀心理學）理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Science Nursing (Top-up) for Registered Nurses": {
+      "hans": "注册护士护理理学学士（衔接）",
+      "hant": "註冊護士護理理學學士（銜接）",
+      "official": false
+    },
+    "BA (Hons) Business Administration (Top-up)": {
+      "hans": "工商管理文学学士（荣誉，衔接）",
+      "hant": "工商管理文學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BA (Hons) International Marketing (Top-up)": {
+      "hans": "国际市场营销文学学士（荣誉，衔接）",
+      "hant": "國際市場營銷文學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BA (Hons) in International Business (Top-up)": {
+      "hans": "国际商务文学学士（荣誉，衔接）",
+      "hant": "國際商務文學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BA with Honours Digital Marketing (Top-up)": {
+      "hans": "数字营销文学学士（荣誉，衔接）",
+      "hant": "數字營銷文學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc with Honours Construction Management (Top-up)": {
+      "hans": "建设管理理学学士（荣誉，衔接）",
+      "hant": "建設管理理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Laws (Honours) (Top-up)": {
+      "hans": "法学学士（荣誉，衔接）",
+      "hant": "法學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc with Honours Computer Science (Global) (Top-up)": {
+      "hans": "计算机科学（全球）理学学士（荣誉，衔接）",
+      "hant": "計算機科學（全球）理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc with Honours Computer Science with Artificial Intelligence (Global) (Top-up)": {
+      "hans": "人工智能计算机科学（全球）理学学士（荣誉，衔接）",
+      "hant": "人工智能計算機科學（全球）理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc with Honours Cyber Security (Global) (Top-up)": {
+      "hans": "网络安全（全球）理学学士（荣誉，衔接）",
+      "hant": "網絡安全（全球）理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc with Honours Digital Forensics (Global) (Top-up)": {
+      "hans": "数字取证（全球）理学学士（荣誉，衔接）",
+      "hant": "數字取證（全球）理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BA (Hons) in Accountancy and Financial Management (Top-up)": {
+      "hans": "会计与财务管理文学学士（荣誉，衔接）",
+      "hant": "會計與財務管理文學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc (Hons) Computer Science (Top-up)": {
+      "hans": "计算机科学理学学士（荣誉，衔接）",
+      "hant": "計算機科學理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc (Hons) Cyber Security and Forensic Computing (Top-up)": {
+      "hans": "网络安全与取证计算理学学士（荣誉，衔接）",
+      "hant": "網絡安全與取證計算理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc (Hons) Data Science and Analytics (Top-up)": {
+      "hans": "数据科学与分析理学学士（荣誉，衔接）",
+      "hant": "數據科學與分析理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "BSc with Honours in Psychology (Top-up)": {
+      "hans": "心理学理学学士（荣誉，衔接）",
+      "hant": "心理學理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Business Analytics) (Top-up)": {
+      "hans": "商务研究（荣誉）（商业分析）学士（衔接）",
+      "hant": "商務研究（榮譽）（商業分析）學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Digital Business) (Top-up)": {
+      "hans": "商务研究（荣誉）（数字商务）学士（衔接）",
+      "hant": "商務研究（榮譽）（數字商務）學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (FinTech) (Top-up)": {
+      "hans": "商务研究（荣誉）（金融科技）学士（衔接）",
+      "hant": "商務研究（榮譽）（金融科技）學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Finance) (Top-up)": {
+      "hans": "商务研究（荣誉）（金融）学士（衔接）",
+      "hant": "商務研究（榮譽）（金融）學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Human Resource Management) (Top-up)": {
+      "hans": "商务研究（荣誉）（人力资源管理）学士（衔接）",
+      "hant": "商務研究（榮譽）（人力資源管理）學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Logistics and Supply Chain Management) (Top-up)": {
+      "hans": "商务研究（荣誉）（物流与供应链管理）学士（衔接）",
+      "hant": "商務研究（榮譽）（物流與供應鏈管理）學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Management) (Top-up)": {
+      "hans": "商务研究（荣誉）（管理）学士（衔接）",
+      "hant": "商務研究（榮譽）（管理）學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Marketing) (Top-up)": {
+      "hans": "商务研究（荣誉）（市场营销）学士（衔接）",
+      "hant": "商務研究（榮譽）（市場營銷）學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Project Management) (Top-up)": {
+      "hans": "商务研究（荣誉）（项目管理）学士（衔接）",
+      "hant": "商務研究（榮譽）（項目管理）學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Education in Early Childhood (Top-up)": {
+      "hans": "早期儿童教育教育学学士（衔接）",
+      "hant": "早期兒童教育教育學學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Commerce": {
+      "hans": "商科学士",
+      "hant": "商科學士",
+      "official": false
+    },
+    "Bachelor of Computing (Cyber Security)": {
+      "hans": "计算学士（网络安全）",
+      "hant": "計算學士（網絡安全）",
+      "official": false
+    },
+    "Bachelor of Information Technology": {
+      "hans": "信息技术学士",
+      "hant": "信息技術學士",
+      "official": false
+    },
+    "Finance": {
+      "hans": "金融",
+      "hant": "金融",
+      "official": false
+    },
+    "Finance and Marketing": {
+      "hans": "金融与市场营销",
+      "hant": "金融與市場營銷",
+      "official": false
+    },
+    "International Business": {
+      "hans": "国际商务",
+      "hant": "國際商務",
+      "official": false
+    },
+    "Logistics and Supply Chain Management and Marketing": {
+      "hans": "物流与供应链管理及市场营销",
+      "hant": "物流與供應鏈管理及市場營銷",
+      "official": false
+    },
+    "Management and Human Resource Management": {
+      "hans": "管理与人力资源管理",
+      "hant": "管理與人力資源管理",
+      "official": false
+    },
+    "Management and Marketing": {
+      "hans": "管理与市场营销",
+      "hant": "管理與市場營銷",
+      "official": false
+    },
+    "Marketing": {
+      "hans": "市场营销",
+      "hant": "市場營銷",
+      "official": false
+    },
+    "Bachelor of Arts (Majoring in Psychology Studies)": {
+      "hans": "心理学研究文学学士（心理学研究专业方向）",
+      "hant": "心理學研究文學學士（心理學研究專業方向）",
+      "official": false
+    },
+    "Bachelor of Business": {
+      "hans": "商业学士",
+      "hant": "商業學士",
+      "official": false
+    },
+    "Bachelor of Business and Environmental Science": {
+      "hans": "商业与环境科学学士",
+      "hant": "商業與環境科學學士",
+      "official": false
+    },
+    "Bachelor of Business and Environmental Science (Majoring in Aquaculture)": {
+      "hans": "商业与环境科学学士（水产养殖专业方向）",
+      "hant": "商業與環境科學學士（水產養殖專業方向）",
+      "official": false
+    },
+    "Bachelor of Business (Majoring in Business Intelligence and Information Systems)": {
+      "hans": "商业学士（商业智能与信息系统专业方向）",
+      "hant": "商業學士（商業智能與信息系統專業方向）",
+      "official": false
+    },
+    "Bachelor of Business (Majoring in Hospitality and Tourism Management)": {
+      "hans": "商业学士（酒店与旅游管理专业方向）",
+      "hant": "商業學士（酒店與旅遊管理專業方向）",
+      "official": false
+    },
+    "Bachelor of Business (Majoring in Human Resources Management)": {
+      "hans": "商业学士（人力资源管理专业方向）",
+      "hant": "商業學士（人力資源管理專業方向）",
+      "official": false
+    },
+    "Bachelor of Business (Majoring in International Business)": {
+      "hans": "商业学士（国际商务专业方向）",
+      "hant": "商業學士（國際商務專業方向）",
+      "official": false
+    },
+    "Bachelor of Business (Majoring in Management)": {
+      "hans": "商业学士（管理专业方向）",
+      "hant": "商業學士（管理專業方向）",
+      "official": false
+    },
+    "Bachelor of Business (Majoring in Marketing for the Digital Age)": {
+      "hans": "商业学士（数字时代市场营销专业方向）",
+      "hant": "商業學士（數字時代市場營銷專業方向）",
+      "official": false
+    },
+    "Bachelor of Commerce (Majoring in Accounting)": {
+      "hans": "商科学士（会计专业方向）",
+      "hant": "商科學士（會計專業方向）",
+      "official": false
+    },
+    "Bachelor of Commerce (Majoring in Banking and Finance)": {
+      "hans": "商科学士（银行与金融专业方向）",
+      "hant": "商科學士（銀行與金融專業方向）",
+      "official": false
+    },
+    "Bachelor of Commerce (Majoring in Economics)": {
+      "hans": "商科学士（经济学专业方向）",
+      "hant": "商科學士（經濟學專業方向）",
+      "official": false
+    },
+    "Bachelor of Commerce (Majoring in Financial Management)": {
+      "hans": "商科学士（财务管理专业方向）",
+      "hant": "商科學士（財務管理專業方向）",
+      "official": false
+    },
+    "Bachelor of Commerce (Majoring in International Trade)": {
+      "hans": "商科学士（国际贸易专业方向）",
+      "hant": "商科學士（國際貿易專業方向）",
+      "official": false
+    },
+    "Bachelor of Cybersecurity": {
+      "hans": "网络安全学士",
+      "hant": "網絡安全學士",
+      "official": false
+    },
+    "Bachelor of Early Childhood Education": {
+      "hans": "幼儿教育理学学士",
+      "hant": "幼兒教育理學學士",
+      "official": false
+    },
+    "Bachelor of Economics": {
+      "hans": "经济学学士",
+      "hant": "經濟學學士",
+      "official": false
+    },
+    "Bachelor of Psychological Science": {
+      "hans": "心理科学学士",
+      "hant": "心理科學學士",
+      "official": false
+    },
+    "Bachelor of Psychological Science (Honours)": {
+      "hans": "心理科学学士（荣誉）",
+      "hant": "心理科學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Majoring in Aquaculture Science and Technology)": {
+      "hans": "水产养殖科学与技术理学学士",
+      "hant": "水產養殖科學與技術理學學士",
+      "official": false
+    },
+    "Bachelor of Science (Majoring in Data Science)": {
+      "hans": "数据科学理学学士",
+      "hant": "數據科學理學學士",
+      "official": false
+    },
+    "Bachelor of Science (Majoring in Internet of Things) (Teach out by September 2027)": {
+      "hans": "物联网理学学士",
+      "hant": "物聯網理學學士",
+      "official": false
+    },
+    "Bachelor of Tourism, Hospitality and Events": {
+      "hans": "旅游、款待与活动学士",
+      "hant": "旅遊、款待與活動學士",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) Business Administration": {
+      "hans": "工商管理文学学士（荣誉）",
+      "hant": "工商管理文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) in International Business": {
+      "hans": "国际商务文学学士（荣誉）",
+      "hant": "國際商務文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) International Marketing": {
+      "hans": "国际营销文学学士（荣誉）",
+      "hant": "國際營銷文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts with Honours Digital Marketing": {
+      "hans": "数字营销文学学士（荣誉）",
+      "hant": "數字營銷文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Laws (Honours)": {
+      "hans": "法学学士（荣誉）",
+      "hant": "法學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science with Honours Computer Science (Global)": {
+      "hans": "计算机科学理学学士（荣誉）（全球）",
+      "hant": "計算機科學理學學士（榮譽）（全球）",
+      "official": false
+    },
+    "Bachelor of Science with Honours Computer Science with Artificial Intelligence (Global)": {
+      "hans": "人工智能计算机科学理学学士（荣誉）（全球）",
+      "hant": "人工智能計算機科學理學學士（榮譽）（全球）",
+      "official": false
+    },
+    "Bachelor of Science with Honours Construction Management": {
+      "hans": "建筑管理理学学士（荣誉）",
+      "hant": "建築管理理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science with Honours Cyber Security (Global)": {
+      "hans": "网络安全理学学士（荣誉）（全球）",
+      "hant": "網絡安全理學學士（榮譽）（全球）",
+      "official": false
+    },
+    "Bachelor of Science with Honours Digital Forensics (Global)": {
+      "hans": "数字取证理学学士（荣誉）（全球）",
+      "hant": "數字取證理學學士（榮譽）（全球）",
+      "official": false
+    },
+    "Bachelor of Education in Early Childhood": {
+      "hans": "幼儿教育教育学士",
+      "hant": "幼兒教育教育學士",
+      "official": false
+    },
+    "Bachelor of Business in Marketing (Single Major)": {
+      "hans": "市场营销商学学士（单一专业）",
+      "hant": "市場營銷商學學士（單一專業）",
+      "official": false
+    },
+    "Bachelor of Information Technology in Artificial Intelligence and Autonomous Systems (Single Major)": {
+      "hans": "人工智能与自主系统信息技术学士（单一专业）",
+      "hant": "人工智能與自主系統信息技術學士（單一專業）",
+      "official": false
+    },
+    "Bachelor of IT in Business Information Systems": {
+      "hans": "商业信息系统信息技术学士",
+      "hant": "商業信息系統信息技術學士",
+      "official": false
+    },
+    "Bachelor of IT in Computer Science": {
+      "hans": "计算机科学信息技术学士",
+      "hant": "計算機科學信息技術學士",
+      "official": false
+    },
+    "Bachelor of IT in Cyber Security and Forensics": {
+      "hans": "网络安全与取证信息技术学士",
+      "hant": "網絡安全與取證信息技術學士",
+      "official": false
+    },
+    "Bachelor of IT in Games Design and Development": {
+      "hans": "游戏设计与开发信息技术学士",
+      "hant": "遊戲設計與開發信息技術學士",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) in Childhood and Early Years Studies": {
+      "hans": "儿童与early years研究文学学士（荣誉）",
+      "hant": "兒童與early years研究文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) in Guidance and Counselling": {
+      "hans": "指导与咨询文学学士（荣誉）",
+      "hant": "指導與諮詢文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) Mass Communication with Public Relations": {
+      "hans": "大众传播与公共关系文学学士（荣誉）",
+      "hant": "大眾傳播與公共關係文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science Nursing (Top-up)": {
+      "hans": "护理理学学士（衔接）",
+      "hant": "護理理學學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Global Business Management": {
+      "hans": "全球商业管理理学学士（荣誉）",
+      "hant": "全球商業管理理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Global Business Management (Human Resources)": {
+      "hans": "全球商业管理（人力资源）理学学士（荣誉）",
+      "hant": "全球商業管理（人力資源）理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Global Business Management (Logistics and Supply Chain)": {
+      "hans": "全球商业管理（物流与供应链）理学学士（荣誉）",
+      "hant": "全球商業管理（物流與供應鏈）理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) International Tourism, Hospitality and Events": {
+      "hans": "国际旅游、款待与活动理学学士（荣誉）",
+      "hant": "國際旅遊、款待與活動理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) in Accountancy and Financial Management": {
+      "hans": "会计与财务管理文学学士（荣誉）",
+      "hant": "會計與財務管理文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Computer Science": {
+      "hans": "计算机科学理学学士（荣誉）",
+      "hant": "計算機科學理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Cyber Security and Forensic Computing": {
+      "hans": "网络安全与取证计算理学学士（荣誉）",
+      "hant": "網絡安全與取證計算理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Data Science and Artificial Intelligence": {
+      "hans": "数据科学与人工智能理学学士（荣誉）",
+      "hant": "數據科學與人工智能理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science with Honours in Psychology": {
+      "hans": "心理学理学学士（荣誉）",
+      "hant": "心理學理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Business Analytics)": {
+      "hans": "商业研究（商业分析）学士（荣誉）",
+      "hant": "商業研究（商業分析）學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Digital Business)": {
+      "hans": "商业研究（数字商务）学士（荣誉）",
+      "hant": "商業研究（數字商務）學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Finance)": {
+      "hans": "商业研究（金融）学士（荣誉）",
+      "hant": "商業研究（金融）學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (FinTech)": {
+      "hans": "商业研究（金融科技）学士（荣誉）",
+      "hant": "商業研究（金融科技）學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Human Resource Management)": {
+      "hans": "商业研究（人力资源管理）学士（荣誉）",
+      "hant": "商業研究（人力資源管理）學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Logistics and Supply Chain Management)": {
+      "hans": "商业研究（物流与供应链管理）学士（荣誉）",
+      "hant": "商業研究（物流與供應鏈管理）學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Management)": {
+      "hans": "商业研究（管理）学士（荣誉）",
+      "hant": "商業研究（管理）學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Digital Marketing)": {
+      "hans": "商业研究（数字营销）学士（荣誉）",
+      "hant": "商業研究（數字營銷）學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Business Studies (Honours) (Project Management)": {
+      "hans": "商业研究（项目管理）学士（荣誉）",
+      "hant": "商業研究（項目管理）學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts Business Management (Top-up)": {
+      "hans": "工商管理文学学士（衔接）",
+      "hant": "工商管理文學學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) Business Administration (Top-Up)": {
+      "hans": "工商管理文学学士（荣誉，衔接）",
+      "hant": "工商管理文學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) Business Administration (Top-Up) (E-Learning)": {
+      "hans": "工商管理文学学士（荣誉，衔接，网课）",
+      "hant": "工商管理文學學士（榮譽，銜接，網課）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) Business Management with Logistics": {
+      "hans": "商业管理（物流）文学学士（荣誉）",
+      "hant": "商業管理（物流）文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts with Honours in Business and Marketing": {
+      "hans": "商业与营销文学学士（荣誉）",
+      "hant": "商業與營銷文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts with Honours in Digital Marketing": {
+      "hans": "数字营销文学学士（荣誉）",
+      "hant": "數字營銷文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts with Honours in Digital Media": {
+      "hans": "数字媒体文学学士（荣誉）",
+      "hant": "數字媒體文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts with Honours in International Hospitality and Tourism Management": {
+      "hans": "国际款待与旅游管理文学学士（荣誉）",
+      "hant": "國際款待與旅遊管理文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts with Honours in Media and Communications": {
+      "hans": "媒体与传播文学学士（荣誉）",
+      "hant": "媒體與傳播文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Biomedical Science": {
+      "hans": "生物医学科学学士",
+      "hant": "生物醫學科學學士",
+      "official": false
+    },
+    "Bachelor of Business (Management and International Business)": {
+      "hans": "商学学士（管理与国际商务）",
+      "hant": "商學學士（管理與國際商務）",
+      "official": false
+    },
+    "Bachelor of Business (Management and Marketing)": {
+      "hans": "商学学士（管理与市场营销）",
+      "hant": "商學學士（管理與市場營銷）",
+      "official": false
+    },
+    "Bachelor of Business (Marketing and International Business)": {
+      "hans": "商学学士（市场营销与国际商务）",
+      "hant": "商學學士（市場營銷與國際商務）",
+      "official": false
+    },
+    "Bachelor of Engineering Honours in Robotics and Artificial Intelligence": {
+      "hans": "机器人与人工智能工学学士（荣誉）",
+      "hant": "機器人與人工智能工學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Engineering with Honours in Electrical and Electronic Engineering": {
+      "hans": "电气与电子工程工学学士（荣誉）",
+      "hant": "電氣與電子工程工學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Engineering with Honours in Electro-Mechanical Engineering": {
+      "hans": "机电工程工学学士（荣誉）",
+      "hant": "機電工程工學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Engineering with Honours in Mechanical Engineering": {
+      "hans": "机械工程工学学士（荣誉）",
+      "hant": "機械工程工學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Information Sciences with a double major in Computer Science and Information Technology": {
+      "hans": "信息科学学士（双专业方向：计算机科学与信息技术）",
+      "hant": "信息科學學士（雙專業方向：計算機科學與信息技術）",
+      "official": false
+    },
+    "Bachelor of Nursing (Top-up)": {
+      "hans": "护理学学士（衔接）",
+      "hant": "護理學學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Science (Applied Chemistry and Molecular Biology)": {
+      "hans": "应用化学与分子生物学理学学士",
+      "hant": "應用化學與分子生物學理學學士",
+      "official": false
+    },
+    "Bachelor of Science (Biotechnology and Molecular Biology)": {
+      "hans": "生物技术与分子生物学理学学士",
+      "hant": "生物技術與分子生物學理學學士",
+      "official": false
+    },
+    "Bachelor of Science (Exercise and Sports Science)": {
+      "hans": "运动与体育科学理学学士",
+      "hant": "運動與體育科學理學學士",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Data Science": {
+      "hans": "数据科学理学学士（荣誉）",
+      "hant": "數據科學理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Diagnostic Radiography and Imaging": {
+      "hans": "诊断放射与影像理学学士（荣誉）",
+      "hant": "診斷放射與影像理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Molecular Biology and Pharmaceutical Science)": {
+      "hans": "分子生物学与药物科学理学学士",
+      "hant": "分子生物學與藥物科學理學學士",
+      "official": false
+    },
+    "Bachelor of Science Sport and Exercise Science (Top-up)": {
+      "hans": "运动与体育科学理学学士（衔接）",
+      "hant": "運動與體育科學理學學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Science with Honours in Accounting and Finance": {
+      "hans": "会计与金融理学学士（荣誉）",
+      "hant": "會計與金融理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science with Honours in Business and Finance": {
+      "hans": "商业与金融理学学士（荣誉）",
+      "hant": "商業與金融理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science with Honours in Computing Science": {
+      "hans": "计算科学理学学士（荣誉）",
+      "hant": "計算科學理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science with Honours in Cyber Security": {
+      "hans": "网络安全理学学士（荣誉）",
+      "hant": "網絡安全理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science with Honours in Paramedic Science (Top-Up)": {
+      "hans": "护理急救科学理学学士（荣誉，衔接）",
+      "hant": "護理急救科學理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Science with Honours in Quantity Surveying and Commercial Management": {
+      "hans": "工料测量与商务管理理学学士（荣誉）",
+      "hant": "工料測量與商務管理理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Accounting": {
+      "hans": "会计学学士",
+      "hant": "會計學學士",
+      "official": false
+    },
+    "Bachelor of Applied Science (Aviation) (Top-up)": {
+      "hans": "应用科学航空学士（衔接）",
+      "hant": "應用科學航空學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Arts (Communication)": {
+      "hans": "传播学文学学士",
+      "hant": "傳播學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Communication and Economics)": {
+      "hans": "传播学与经济学文学学士",
+      "hant": "傳播學與經濟學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Communication and International Trade)": {
+      "hans": "传播学与国际贸易文学学士",
+      "hant": "傳播學與國際貿易文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Communication and Psychology)": {
+      "hans": "传播学与心理学文学学士",
+      "hant": "傳播學與心理學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Communication and Sociology)": {
+      "hans": "传播学与社会学文学学士",
+      "hant": "傳播學與社會學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Economics)": {
+      "hans": "经济学文学学士",
+      "hant": "經濟學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Economics and International Trade)": {
+      "hans": "经济学与国际贸易文学学士",
+      "hant": "經濟學與國際貿易文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Economics and Psychology)": {
+      "hans": "经济学与心理学文学学士",
+      "hant": "經濟學與心理學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Economics and Sociology)": {
+      "hans": "经济学与社会学文学学士",
+      "hant": "經濟學與社會學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) Digital Media": {
+      "hans": "数字媒体文学学士（荣誉）",
+      "hant": "數字媒體文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) Marketing": {
+      "hans": "市场营销文学学士（荣誉）",
+      "hant": "市場營銷文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) Sport and Marketing": {
+      "hans": "体育与市场营销文学学士（荣誉）",
+      "hant": "體育與市場營銷文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts (Honours) Sport Business Management": {
+      "hans": "体育商务管理文学学士（荣誉）",
+      "hant": "體育商務管理文學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Arts (International Trade)": {
+      "hans": "国际贸易文学学士",
+      "hant": "國際貿易文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (International Trade and Psychology)": {
+      "hans": "国际贸易与心理学文学学士",
+      "hant": "國際貿易與心理學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (International Trade and Sociology)": {
+      "hans": "国际贸易与社会学文学学士",
+      "hant": "國際貿易與社會學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Psychology)": {
+      "hans": "心理学文学学士",
+      "hant": "心理學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Psychology and Sociology)": {
+      "hans": "心理学与社会学文学学士",
+      "hant": "心理學與社會學文學學士",
+      "official": false
+    },
+    "Bachelor of Arts (Sociology)": {
+      "hans": "社会学文学学士",
+      "hant": "社會學文學學士",
+      "official": false
+    },
+    "Bachelor of Business Information Systems": {
+      "hans": "商业信息系统商学学士",
+      "hant": "商業信息系統商學學士",
+      "official": false
+    },
+    "Bachelor of Commerce (Top-up)": {
+      "hans": "商科学士（衔接）",
+      "hant": "商科學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Computer Science (Artificial Intelligence and Big Data)": {
+      "hans": "计算机科学（人工智能与大数据方向）工学学士",
+      "hant": "計算機科學（人工智能與大數據方向）工學學士",
+      "official": false
+    },
+    "Bachelor of Computer Science (Cyber Security)": {
+      "hans": "计算机科学（网络安全方向）工学学士",
+      "hant": "計算機科學（網絡安全方向）工學學士",
+      "official": false
+    },
+    "Bachelor of Computer Science (Digital Systems Security)": {
+      "hans": "计算机科学（数字系统安全方向）工学学士",
+      "hant": "計算機科學（數字系統安全方向）工學學士",
+      "official": false
+    },
+    "Bachelor of Computer Science (Game and Mobile Development)": {
+      "hans": "计算机科学（游戏与移动开发方向）工学学士",
+      "hant": "計算機科學（遊戲與移動開發方向）工學學士",
+      "official": false
+    },
+    "Bachelor of Construction Management (Honours) (Top-up)": {
+      "hans": "建筑管理工学学士（荣誉，衔接）",
+      "hant": "建築管理工學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Graphic Design (Top-up)": {
+      "hans": "平面设计文学学士（衔接）",
+      "hant": "平面設計文學學士（銜接）",
+      "official": false
+    },
+    "Bachelor of Nursing (Honours)": {
+      "hans": "护理学学士（荣誉）",
+      "hant": "護理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Nursing (Post-Registration)": {
+      "hans": "护理学学士（注册后）",
+      "hant": "護理學學士（註冊後）",
+      "official": false
+    },
+    "Bachelor of Professional Communication": {
+      "hans": "专业传播文学学士",
+      "hant": "專業傳播文學學士",
+      "official": false
+    },
+    "Bachelor of Science (Business Administration)": {
+      "hans": "工商管理理学学士",
+      "hant": "工商管理理學學士",
+      "official": false
+    },
+    "Bachelor of Science (Business Administration) and Bachelor of Arts (Psychology)": {
+      "hans": "工商管理理学学士和心理学文学学士",
+      "hant": "工商管理理學學士和心理學文學學士",
+      "official": false
+    },
+    "Bachelor of Science (Business Administration and Geographic Information Science)": {
+      "hans": "工商管理与地理信息科学理学学士",
+      "hant": "工商管理與地理信息科學理學學士",
+      "official": false
+    },
+    "Bachelor of Science (Geographic Information Science)": {
+      "hans": "地理信息科学理学学士",
+      "hant": "地理信息科學理學學士",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Accounting and Finance (Top-up)": {
+      "hans": "会计与金融理学学士（荣誉，衔接）",
+      "hant": "會計與金融理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Business Management (Top-up)": {
+      "hans": "工商管理理学学士（荣誉，衔接）",
+      "hant": "工商管理理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Business Management with Communications and Year in Industry (Top-up)": {
+      "hans": "工商管理（传播方向及工业实习年）理学学士（荣誉，衔接）",
+      "hant": "工商管理（傳播方向及工業實習年）理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Business Management with Communications (Top-up)": {
+      "hans": "工商管理（传播方向）理学学士（荣誉，衔接）",
+      "hant": "工商管理（傳播方向）理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Business Management with Industrial Placement (Top-up)": {
+      "hans": "工商管理（工业实习）理学学士（荣誉，衔接）",
+      "hant": "工商管理（工業實習）理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) Business Management with Year in Industry (Top-up)": {
+      "hans": "工商管理理学学士（荣誉，衔接）（含工业实习年）",
+      "hant": "工商管理理學學士（榮譽，銜接）（含工業實習年）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Accounting and Finance": {
+      "hans": "会计与金融理学学士（荣誉）",
+      "hant": "會計與金融理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Business and Management": {
+      "hans": "工商与管理理学学士（荣誉）",
+      "hant": "工商與管理理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Computer Science": {
+      "hans": "计算机科学理学学士（荣誉）",
+      "hant": "計算機科學理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Computer Science (Machine Learning and Artificial Intelligence)": {
+      "hans": "计算机科学理学学士（荣誉）（机器学习与人工智能方向）",
+      "hant": "計算機科學理學學士（榮譽）（機器學習與人工智能方向）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Computer Science (Physical Computing and the Internet of Things)": {
+      "hans": "计算机科学理学学士（荣誉）（物理计算与物联网方向）",
+      "hant": "計算機科學理學學士（榮譽）（物理計算與物聯網方向）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Computer Science (Top-up)": {
+      "hans": "计算机科学理学学士（荣誉，衔接）",
+      "hant": "計算機科學理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Computer Science (User Experience)": {
+      "hans": "计算机科学理学学士（荣誉）（用户体验方向）",
+      "hant": "計算機科學理學學士（榮譽）（用户體驗方向）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Computer Science (Virtual Reality)": {
+      "hans": "计算机科学理学学士（荣誉）（虚拟现实方向）",
+      "hant": "計算機科學理學學士（榮譽）（虛擬現實方向）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Computer Science (Web and Mobile Development)": {
+      "hans": "计算机科学理学学士（荣誉）（网络与移动开发方向）",
+      "hant": "計算機科學理學學士（榮譽）（網絡與移動開發方向）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Computer Science with Security and Forensics (Top-up)": {
+      "hans": "计算机科学（安全与取证方向）理学学士（荣誉，衔接）",
+      "hant": "計算機科學（安全與取證方向）理學學士（榮譽，銜接）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Data Science and Business Analytics": {
+      "hans": "数据科学与商业分析理学学士（荣誉）",
+      "hant": "數據科學與商業分析理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Economics": {
+      "hans": "经济学理学学士（荣誉）",
+      "hant": "經濟學理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Economics and Finance": {
+      "hans": "经济与金融理学学士（荣誉）",
+      "hant": "經濟與金融理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Economics and Management": {
+      "hans": "经济与管理理学学士（荣誉）",
+      "hant": "經濟與管理理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Economics and Politics": {
+      "hans": "经济与政治理学学士（荣誉）",
+      "hant": "經濟與政治理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Finance": {
+      "hans": "金融学理学学士（荣誉）",
+      "hant": "金融學理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in International Relations": {
+      "hans": "国际关系理学学士（荣誉）",
+      "hant": "國際關係理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) in Management and Digital Innovation": {
+      "hans": "管理与数字创新理学学士（荣誉）",
+      "hant": "管理與數字創新理學學士（榮譽）",
+      "official": false
+    },
+    "Bachelor of Science (Honours) International Business (Top-up)": {
+      "hans": "国际商务理学学士（荣誉，衔接）",
+      "hant": "國際商務理學學士（榮譽，銜接）",
+      "official": false
+    }
+  }
+}

@@ -1,0 +1,119 @@
+# auckland-university-of-technology@1 https://www.aut.ac.nz
+robots sitemaps: https://www.aut.ac.nz/sitemap-aut · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1805 · master's-looking 199
+   32  www.aut.ac.nz/study/study-options/health-sciences
+         https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-clinical-practice-midwifery
+         https://www.aut.ac.nz/study/study-options/health-sciences/courses/graduate-certificate-in-health-science
+         https://www.aut.ac.nz/study/study-options/health-sciences/courses/graduate-diploma-in-health-science
+         https://www.aut.ac.nz/study/study-options/health-sciences/courses/graduate-diploma-in-psychotherapy-studies
+   27  www.aut.ac.nz/study/study-options/business
+         https://www.aut.ac.nz/study/study-options/business/students-and-alumni/top-graduates-in-business
+         https://www.aut.ac.nz/study/study-options/business/courses/graduate-diploma-in-business
+         https://www.aut.ac.nz/study/study-options/business/courses/graduate-certificate-in-business
+         https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-certificate-in-business-studies
+   17  www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences
+         https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/become-an-industry-partner/engineering-student-projects/undergraduate-project-form
+         https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/become-an-industry-partner/master-of-analytics-projects-information-for-industry-partners
+         https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/become-an-industry-partner/master-of-analytics-projects-information-for-industry-partners/submit-a-master-of-analytics-student-project-online-form
+         https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/become-an-industry-partner/master-of-it-project-management-industry-partner-information
+   12  www.aut.ac.nz/study/study-options/hospitality-tourism-and-events
+         https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/research/pacific-tourism-futures-research-group/postgraduate-students
+         https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/graduate-diploma-in-international-hospitality-management
+         https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/graduate-certificate-in-international-hospitality-management
+         https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/postgraduate-diploma-in-international-hospitality-management
+   11  www.aut.ac.nz/courses
+         https://www.aut.ac.nz/courses/graduate-certificate-in-arts
+         https://www.aut.ac.nz/courses/graduate-certificate-in-science
+         https://www.aut.ac.nz/courses/graduate-diploma-in-arts
+         https://www.aut.ac.nz/courses/graduate-diploma-in-science
+   10  www.aut.ac.nz/student-life/graduation/applying-to-graduate
+         https://www.aut.ac.nz/student-life/graduation/applying-to-graduate/what-do-i-need-to-do-to-complete-my-qualification-at-aut
+         https://www.aut.ac.nz/student-life/graduation/applying-to-graduate/when-will-my-qualification-be-granted
+         https://www.aut.ac.nz/student-life/graduation/applying-to-graduate/how-do-i-apply-to-graduate-online
+         https://www.aut.ac.nz/student-life/graduation/applying-to-graduate/how-do-i-check-or-update-my-legal-name-for-graduation
+    7  www.aut.ac.nz/study/study-options/education
+         https://www.aut.ac.nz/study/study-options/education/research/litplus-research-and-professional-learning-community/professional-learning-litplus/study-literacy-education-at-aut-enrol-in-our-postgraduate-course
+         https://www.aut.ac.nz/study/study-options/education/courses/graduate-diploma-in-secondary-teaching
+         https://www.aut.ac.nz/study/study-options/education/courses/postgraduate-certificate-in-education
+         https://www.aut.ac.nz/study/study-options/education/courses/master-of-teaching-and-learning
+    7  www.aut.ac.nz/research/postgraduate-student-support/pg-forms-policies-and-processes
+         https://www.aut.ac.nz/research/postgraduate-student-support/pg-forms-policies-and-processes/handbook
+         https://www.aut.ac.nz/research/postgraduate-student-support/pg-forms-policies-and-processes/forms
+         https://www.aut.ac.nz/research/postgraduate-student-support/pg-forms-policies-and-processes/protocols
+         https://www.aut.ac.nz/research/postgraduate-student-support/pg-forms-policies-and-processes/proofreading-guidelines
+    6  www.aut.ac.nz/study/study-options/communication-studies
+         https://www.aut.ac.nz/study/study-options/communication-studies/research/aut-centre-for-screen-practice-research/2021-dialogues-postgraduate-symposium
+         https://www.aut.ac.nz/study/study-options/communication-studies/research/aut-centre-for-screen-practice-research/2022-dialogues-postgraduate-symposium
+         https://www.aut.ac.nz/study/study-options/communication-studies/courses/postgraduate-certificate-in-communication-studies
+         https://www.aut.ac.nz/study/study-options/communication-studies/courses/postgraduate-diploma-in-communication-studies
+    6  www.aut.ac.nz/research/postgraduate-student-support/events
+         https://www.aut.ac.nz/research/postgraduate-student-support/events/research-symposium
+         https://www.aut.ac.nz/research/postgraduate-student-support/events/3mt-competition
+         https://www.aut.ac.nz/research/postgraduate-student-support/events/doctoral-inductions
+         https://www.aut.ac.nz/research/postgraduate-student-support/events/doctoral-scholarship-award-ceremonies
+    5  www.aut.ac.nz/study/entry-requirements/english-language-requirements
+         https://www.aut.ac.nz/study/entry-requirements/english-language-requirements/english-language-requirements-for-graduate-certificate
+         https://www.aut.ac.nz/study/entry-requirements/english-language-requirements/english-language-requirements-for-graduate-diploma
+         https://www.aut.ac.nz/study/entry-requirements/english-language-requirements/english-language-requirements-for-masters-degrees
+         https://www.aut.ac.nz/study/entry-requirements/english-language-requirements/postgraduate-certificate
+    5  www.aut.ac.nz/study/study-options/social-sciences-and-public-policy
+         https://www.aut.ac.nz/study/study-options/social-sciences-and-public-policy/courses/master-of-human-rights
+         https://www.aut.ac.nz/study/study-options/social-sciences-and-public-policy/courses/postgraduate-certificate-in-human-rights
+         https://www.aut.ac.nz/study/study-options/social-sciences-and-public-policy/courses/postgraduate-diploma-in-human-rights
+         https://www.aut.ac.nz/study/study-options/social-sciences-and-public-policy/courses/master-of-criminology-and-criminal-justice
+    4  www.aut.ac.nz/research
+         https://www.aut.ac.nz/research/faculty-postgraduate-contacts
+         https://www.aut.ac.nz/research/graduate-research-school
+         https://www.aut.ac.nz/research/postgraduate-student-support
+         https://www.aut.ac.nz/research/postgraduate-study-and-research
+    4  www.aut.ac.nz/research/postgraduate-student-support
+         https://www.aut.ac.nz/research/postgraduate-student-support/research-skills
+         https://www.aut.ac.nz/research/postgraduate-student-support/student-community
+         https://www.aut.ac.nz/research/postgraduate-student-support/events
+         https://www.aut.ac.nz/research/postgraduate-student-support/pg-forms-policies-and-processes
+    4  www.aut.ac.nz/research/postgraduate-student-support/research-skills
+         https://www.aut.ac.nz/research/postgraduate-student-support/research-skills/plan-your-development
+         https://www.aut.ac.nz/research/postgraduate-student-support/research-skills/workshops
+         https://www.aut.ac.nz/research/postgraduate-student-support/research-skills/other-training-resources
+         https://www.aut.ac.nz/research/postgraduate-student-support/research-skills/navigating-our-doctoral-futures
+    4  www.aut.ac.nz/research/postgraduate-student-support/student-community
+         https://www.aut.ac.nz/research/postgraduate-student-support/student-community/doctoral-student-advisory-group-representatives
+         https://www.aut.ac.nz/research/postgraduate-student-support/student-community/student-peer-groups
+         https://www.aut.ac.nz/research/postgraduate-student-support/student-community/study-rooms
+         https://www.aut.ac.nz/research/postgraduate-student-support/student-community/mai-ki-aronui
+    4  www.aut.ac.nz/partnerships/employ-students-or-graduates/occupational-therapy-fieldwork-information
+         https://www.aut.ac.nz/partnerships/employ-students-or-graduates/occupational-therapy-fieldwork-information/general-information-about-fieldwork
+         https://www.aut.ac.nz/partnerships/employ-students-or-graduates/occupational-therapy-fieldwork-information/fieldwork-structure
+         https://www.aut.ac.nz/partnerships/employ-students-or-graduates/occupational-therapy-fieldwork-information/resources
+         https://www.aut.ac.nz/partnerships/employ-students-or-graduates/occupational-therapy-fieldwork-information/learning-modules
+    4  www.aut.ac.nz/study/study-options/sport-and-recreation
+         https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/graduate-diploma-in-sport-and-exercise
+         https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/graduate-certificate-in-sport-and-exercise
+         https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/master-of-sport,-exercise-and-health
+         https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/postgraduate-certificate-in-sport,-exercise-and-health
+    4  www.aut.ac.nz/study/study-options/science
+         https://www.aut.ac.nz/study/study-options/science/courses/postgraduate-certificate-in-medical-laboratory-science
+         https://www.aut.ac.nz/study/study-options/science/courses/postgraduate-diploma-in-medical-laboratory-science
+         https://www.aut.ac.nz/study/study-options/science/courses/master-of-medical-laboratory-science
+         https://www.aut.ac.nz/study/study-options/science/courses/master-of-science-research
+    4  www.aut.ac.nz/study/study-options/architecture-and-built-environment
+         https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/master-of-architectural-design-management
+         https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/master-of-architectural-design-management/frequently-asked-questions-master-of-architectural-design-management
+         https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/master-of-architecture-professional
+         https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/graduate-diploma-in-architecture
+    3  www.aut.ac.nz/partnerships/employ-students-or-graduates
+         https://www.aut.ac.nz/partnerships/employ-students-or-graduates/offer-a-study-related-work-placement-to-a-student
+         https://www.aut.ac.nz/partnerships/employ-students-or-graduates/occupational-therapy-fieldwork-information
+         https://www.aut.ac.nz/partnerships/employ-students-or-graduates/becoming-a-disability-confident-employer
+    2  www.aut.ac.nz/student-life/studying/study-help
+         https://www.aut.ac.nz/student-life/studying/study-help/assessments-and-exams/appealing-your-final-grade-or-result/appealing-your-final-result-for-a-doctorate-or-master-of-philosophy
+         https://www.aut.ac.nz/student-life/studying/study-help/assessments-and-exams/appealing-your-final-grade-or-result/appealing-your-final-result-for-another-masters-degree-or-bachelors-degree-with-honours
+    2  www.aut.ac.nz/research/graduate-research-school
+         https://www.aut.ac.nz/research/graduate-research-school/correspondence-and-newsletter
+         https://www.aut.ac.nz/research/graduate-research-school/contact
+    2  www.aut.ac.nz/courses/master-of-arts
+         https://www.aut.ac.nz/courses/master-of-arts/maori-development
+         https://www.aut.ac.nz/courses/master-of-arts/psychology-specialisation-master-of-arts
+    2  www.aut.ac.nz/study/study-options/law
+         https://www.aut.ac.nz/study/study-options/law/courses/postgraduate-certificate-in-law
+         https://www.aut.ac.nz/study/study-options/law/courses/master-of-laws

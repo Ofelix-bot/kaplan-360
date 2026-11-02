@@ -1,0 +1,129 @@
+{
+  "id": "bsu",
+  "status": "read",
+  "university": "北京体育大学",
+  "universityEn": "Beijing Sport University",
+  "tier": "211",
+  "url": "https://jy.bsu.edu.cn/uploadfile/bsu/front/default/upload_file_41614.pdf",
+  "title": null,
+  "year": 2022,
+  "cohort": "2022年",
+  "pages": 17,
+  "abroad": [
+    {
+      "group": "全体",
+      "cohort": null,
+      "count": null,
+      "pct": 4.74,
+      "quote": "出国留学 4.74%"
+    },
+    {
+      "group": "本科生",
+      "cohort": null,
+      "count": 160,
+      "pct": 6.87,
+      "quote": "2022 年本科生出国（境）留学共 160 人，出国留学率 6.87%"
+    },
+    {
+      "group": "硕士生",
+      "cohort": null,
+      "count": null,
+      "pct": 0.73,
+      "quote": "硕士生毕业去向落实率为 98.09%，比上一年度高 2.35%。 具体去向为：协议和合同就业 65.45%、国内升学 4.00%、出国留学 0.73%"
+    }
+  ],
+  "regions": [
+    {
+      "region": "英国",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "留学人数较多的国家和地区是英国、香港、美国等。"
+    },
+    {
+      "region": "美国",
+      "cohort": null,
+      "count": null,
+      "pct": null,
+      "quote": "留学人数较多的国家和地区是英国、香港、美国等。"
+    }
+  ],
+  "ranked": [
+    {
+      "band": "QS 世界大学排名前100名",
+      "cohort": null,
+      "count": 92,
+      "pct": 57.5,
+      "quote": "就读于 QS 世界大学排名前 100 名高校的学生共 92 人，占比 57.50%"
+    }
+  ],
+  "destinations": [
+    {
+      "nameZh": "伦敦大学学院",
+      "nameEn": "University College London",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "知名高校有伦敦大学学院、爱丁堡大学、哥伦比亚大学、香港大学、密歇根大学安娜堡分校、约翰霍普金斯大学、曼彻斯特大学等。",
+      "institutionId": "ucl"
+    },
+    {
+      "nameZh": "爱丁堡大学",
+      "nameEn": "University of Edinburgh",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "知名高校有伦敦大学学院、爱丁堡大学、哥伦比亚大学、香港大学、密歇根大学安娜堡分校、约翰霍普金斯大学、曼彻斯特大学等。",
+      "institutionId": "university-of-edinburgh"
+    },
+    {
+      "nameZh": "哥伦比亚大学",
+      "nameEn": "Columbia University",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "知名高校有伦敦大学学院、爱丁堡大学、哥伦比亚大学、香港大学、密歇根大学安娜堡分校、约翰霍普金斯大学、曼彻斯特大学等。",
+      "institutionId": "columbia-university"
+    },
+    {
+      "nameZh": "香港大学",
+      "nameEn": "University of Hong Kong",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "知名高校有伦敦大学学院、爱丁堡大学、哥伦比亚大学、香港大学、密歇根大学安娜堡分校、约翰霍普金斯大学、曼彻斯特大学等。",
+      "institutionId": "university-of-hong-kong"
+    },
+    {
+      "nameZh": "密歇根大学安娜堡分校",
+      "nameEn": "University of Michigan–Ann Arbor",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "知名高校有伦敦大学学院、爱丁堡大学、哥伦比亚大学、香港大学、密歇根大学安娜堡分校、约翰霍普金斯大学、曼彻斯特大学等。",
+      "institutionId": "university-of-michigan-ann-arbor"
+    },
+    {
+      "nameZh": "约翰霍普金斯大学",
+      "nameEn": "Johns Hopkins University",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "知名高校有伦敦大学学院、爱丁堡大学、哥伦比亚大学、香港大学、密歇根大学安娜堡分校、约翰霍普金斯大学、曼彻斯特大学等。",
+      "institutionId": "johns-hopkins-university"
+    },
+    {
+      "nameZh": "曼彻斯特大学",
+      "nameEn": "University of Manchester",
+      "count": null,
+      "group": "本科生",
+      "list": null,
+      "quote": "知名高校有伦敦大学学院、爱丁堡大学、哥伦比亚大学、香港大学、密歇根大学安娜堡分校、约翰霍普金斯大学、曼彻斯特大学等。",
+      "institutionId": "university-of-manchester"
+    }
+  ],
+  "dropped": [
+    "region 中国香港"
+  ],
+  "checked": "2026-10-21"
+}

@@ -1,0 +1,8 @@
+# university-of-california-los-angeles@1 https://www.ucla.edu
+robots sitemaps: https://www.ucla.edu/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 114 · master's-looking 3
+    2  www.ucla.edu/academics
+         https://www.ucla.edu/academics/graduate-and-professional-education
+         https://www.ucla.edu/academics/undergraduate-education
+    1  www.ucla.edu/admission
+         https://www.ucla.edu/admission/graduate-admission

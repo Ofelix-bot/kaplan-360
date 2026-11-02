@@ -1,0 +1,66 @@
+fetches done Sun Oct 18 21:09:12     2026
+Programme groups: 8303 · with a programme name: 7533 · taught master's in Kaplan's disciplines: 4917
+technologica MSc Cybersecurity Management – TU Dublin (TU441) +2 kept, 0 dropped
+4 programmes failed; run again to retry them
+Tokens: input 15079854, output 542992 · cost ≈ US1.779 (Haiku 5.5: $0.10 / $0.50 per MTok)
+deakin-unive Master of Criminology                            +1 kept, 1 dropped
+Tokens: input 34585, output 1355 · cost ≈ US0.004 (Haiku 5.5: $0.10 / $0.50 per MTok)
+aston-university: standard - · 7 rules
+   6.5  Aston Business School
+   6.5  Aston Business School - MBA
+   6.5  School of Law and Social Sciences
+   6  Engineering and Physical Sciences
+   6.5  Engineering and Physical Sciences (Engineering Systems and Management programmes)
+   6.5  Health and Life Sciences
+   7  Health and Life Sciences - OSPAP
+murdoch-university: standard 6 · 13 rules
+   6.5  Food Security (C1151, M1311)
+   7  High Performance Sport (C1176, M1400); Master of Clinical Exercise Physiology (M1325); Counselling (C1111, G11
+   6.5  Gerontological Healthcare (G1102, C1154)
+   7  Master of Clinical Chiropractic (M1408)
+   6.5  Graduate Certificate in Education (C1153); Master of Education (M1313, M1367)
+   7.5  Master of Teaching (Primary and Secondary) (M1390, M1391)
+   6.5  Graduate Diploma in Australian Migration Law and Practice (G1104)
+   6.5  Food Science (C1170, G1095, M1371, M1372); Systems Medicine (C1152); Infectious Disease (C1173, G1097, M1381, 
+   6.5  Health Care Management (Specialisation) (M1358)
+   6.5  Health Care Management (M1217, C1116)
+   7  Nursing Microcredential (N1117); Advanced Would Care (C1169); Graduate Certificate in Cancer Nursing (C1174)
+   7  Psychology (G1096, M1156, M1238, M1388)
+   7  Veterinary Clinical Studies (M1223, G1094, N1088, N1089, N1112)
+Merged 101 duplicate course page(s)
+# Programme pipeline report (2026-10-18)
+
+Programmes: 4816 · needs review: 2664 · Kaplan matches: 74928
+
+| Field | Filled | By Claude |
+| --- | --- | --- |
+| International tuition | 3149 / 4816 | 3149 |
+| IELTS overall | 3109 / 4816 | 162 |
+| Duration | 4468 / 4816 | 320 |
+| Intakes | 3845 / 4816 | 2275 |
+| Academic requirement | 4475 / 4816 | 239 |
+sources: 18
+disciplines: 13
+institutions: 2077
+kaplan_programmes: 94
+kaplan_facts (kaplan-ded-2026-03-09-cn): 70
+pathways (kaplan-ded-2026-03-09-cn): 36
+employment_records: 36
+programmes: 4816
+programme_evidence: 26245
+programme_matches: 74928
+sources: 3
+careers: 10
+career_requirements (data-analyst-scientist): 147
+career_requirements (ai-ml-engineer): 129
+career_requirements (cybersecurity-analyst): 134
+career_requirements (financial-analyst-fintech): 85
+career_requirements (digital-marketing-manager): 120
+career_requirements (supply-chain-logistics-manager): 64
+career_requirements (software-engineer): 204
+career_requirements (registered-nurse): 72
+career_requirements (counsellor-psychology-associate): 64
+career_requirements (communications-pr): 97
+career_occupations: 15
+storage: uploaded the Degree Enrolment Day deck to source-documents (private)
+chain done Sun Oct 18 21:40:18     2026

@@ -1,0 +1,12 @@
+{
+ "source": "Guarini programs https://graduate.dartmouth.edu/admissions/programs + Geisel health sciences degree programs + Tuck (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://tuck.dartmouth.edu/mba",
+  "https://graduate.dartmouth.edu/admissions/programs/computer-science",
+  "https://healthsciences.dartmouth.edu/education/degree-programs/masters-in-public-health",
+  "https://healthsciences.dartmouth.edu/education/degree-programs/master-science-healthcare-research/masters-degrees-in-healthcare-research",
+  "https://healthsciences.dartmouth.edu/education/degree-programs/master-science-health-data-science/on-campus",
+  "https://healthsciences.dartmouth.edu/education/degree-programs/master-science-medical-informatics/program-overview"
+ ]
+}

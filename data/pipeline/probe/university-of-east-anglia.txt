@@ -1,0 +1,126 @@
+# university-of-east-anglia https://www.uea.ac.uk
+robots sitemaps: https://www.uea.ac.uk/sitemap.xml · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 7858 · master's-looking 1032
+  357  www.uea.ac.uk/course/undergraduate
+         https://www.uea.ac.uk/course/undergraduate/ba-american-studies-with-a-foundation-year
+         https://www.uea.ac.uk/course/undergraduate/ba-american-studies-3-years
+         https://www.uea.ac.uk/course/undergraduate/ba-american-history-with-a-placement-year
+         https://www.uea.ac.uk/course/undergraduate/ba-american-history-three-years
+  274  www.uea.ac.uk/course/postgraduate
+         https://www.uea.ac.uk/course/postgraduate/credpg-independent-prescribing-for-pharmacists-credit-only-uea-part-time
+         https://www.uea.ac.uk/course/postgraduate/credpg-independent-prescribing-for-pharmacists-credit-only-harlow-part-time
+         https://www.uea.ac.uk/course/postgraduate/diploma-diploma-of-higher-education-in-advanced-pharmacy-technician-practice-accelerated
+         https://www.uea.ac.uk/course/postgraduate/diploma-of-higher-education-in-advanced-pharmacy-technician-practice
+   57  www.uea.ac.uk/research/research-with-us/postgraduate-research
+         https://www.uea.ac.uk/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/china-scholarship-council-phd-studentships
+         https://www.uea.ac.uk/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/how-to-apply
+         https://www.uea.ac.uk/research/research-with-us/postgraduate-research/uea-doctoral-college/induction
+         https://www.uea.ac.uk/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/partnerships-in-doctoral-training/mmb/environment
+   40  www.uea.ac.uk/about/news/article
+         https://www.uea.ac.uk/about/news/article/a-graduates-apprenticeship-journey-from-imposter-to-awardwinning-strategic-leader
+         https://www.uea.ac.uk/about/news/article/almost-four-out-of-every-five-uea-graduates-are-in-graduate-level-employment-or-further-study
+         https://www.uea.ac.uk/about/news/article/annual-bishop-of-norwich-prize-for-ecology-awarded-to-uea-graduate
+         https://www.uea.ac.uk/about/news/article/applications-open-for-regions-first-undergraduate-training-places-for-dentists
+   33  www.uea.ac.uk/course/phd-doctorate
+         https://www.uea.ac.uk/course/phd-doctorate/masters-and-phd-masters-by-research-in-engineering-msc-res
+         https://www.uea.ac.uk/course/phd-doctorate/masters-by-research-in-mathematics
+         https://www.uea.ac.uk/course/phd-doctorate/masters-and-phd-masters-by-research-in-physics-msc-res
+         https://www.uea.ac.uk/course/phd-doctorate/msc-electrical-sensing-of-dynamic-cardiovascular-volume-in-a-benchtop-model-fitzpatrickdu26emp
+   28  www.uea.ac.uk/stories/mba-alumni
+         https://www.uea.ac.uk/stories/mba-alumni/alex-watson
+         https://www.uea.ac.uk/stories/mba-alumni/babalo-jantjies
+         https://www.uea.ac.uk/stories/mba-alumni/barnard-masi
+         https://www.uea.ac.uk/stories/mba-alumni/beyazit-z-guzelyagdoken
+   27  assets.uea.ac.uk/f/185167/x
+         https://assets.uea.ac.uk/f/185167/x/0d03e6d25a/regulations_for_the_external_examiner_system_for_awards_taught_programmes_2026-27.pdf
+         https://assets.uea.ac.uk/f/185167/x/16c232b40d/regulations_for_the_external_examiner_system_for_awards_taught_programmes_2026-27.pdf?cv=1789034892100
+         https://assets.uea.ac.uk/f/185167/x/1c32ffd0f9/doctor-of-education-and-master-of-education.pdf
+         https://assets.uea.ac.uk/f/185167/x/1e19305f0a/uea-common-masters-framework-regulations-partner-institutions.pdf
+   20  www.uea.ac.uk/study/fees-and-funding/scholarships
+         https://www.uea.ac.uk/study/fees-and-funding/scholarships/international-postgraduate-merit-scholarship
+         https://www.uea.ac.uk/study/fees-and-funding/scholarships/the-orsted-greener-futures-postgraduate-scholarship
+         https://www.uea.ac.uk/study/fees-and-funding/scholarships/msc-graduate-strength-and-conditioning-coach-scholarship
+         https://www.uea.ac.uk/study/fees-and-funding/scholarships/undergraduate-continuation
+   19  www.uea.ac.uk/study/employability
+         https://www.uea.ac.uk/study/employability/ma-cultural-heritage-and-museum-studies-abigail-obene
+         https://www.uea.ac.uk/study/employability/ma-museum-studies-gustav-imam
+         https://www.uea.ac.uk/study/employability/ma-museum-studies-supriya-menon
+         https://www.uea.ac.uk/study/employability/ma-social-work-at-uea-mercy-addai
+   16  www.uea.ac.uk/course/short-course
+         https://www.uea.ac.uk/course/short-course/advanced-renal-therapeutics-postgraduate-pharmacy-cpd
+         https://www.uea.ac.uk/course/short-course/care-of-the-surgical-patient-postgraduate-pharmacy-cpd
+         https://www.uea.ac.uk/course/short-course/clinical-education-postgraduate-pharmacy-cpd
+         https://www.uea.ac.uk/course/short-course/core-clinical-skills-postgraduate-pharmacy-cpd
+   11  www.uea.ac.uk/about/school-of-education-and-lifelong-learning/postgraduate
+         https://www.uea.ac.uk/about/school-of-education-and-lifelong-learning/postgraduate/doctorate-in-educational-psychology/information-for-placement-providers
+         https://www.uea.ac.uk/about/school-of-education-and-lifelong-learning/postgraduate/research-expertise-and-interests
+         https://www.uea.ac.uk/about/school-of-education-and-lifelong-learning/postgraduate/doctorate-in-educational-psychology
+         https://www.uea.ac.uk/about/school-of-education-and-lifelong-learning/postgraduate/doctorate-in-educational-psychology/eastern-region-bursary-placement-process
+    8  www.uea.ac.uk/about/university-information/statutory-legal-policies
+         https://www.uea.ac.uk/about/university-information/statutory-legal-policies/freedom-of-information/disclosure-log/foi_26-150-paramedic-science-graduates-and-employability
+         https://www.uea.ac.uk/about/university-information/statutory-legal-policies/freedom-of-information/disclosure-log/foi_25-155-undergraduate-applicant-data-for-entry-year-2023-24
+         https://www.uea.ac.uk/about/university-information/statutory-legal-policies/freedom-of-information/disclosure-log/foi_26-198-students-enrolled-on-msc-physician-associate-programme
+         https://www.uea.ac.uk/about/university-information/statutory-legal-policies/freedom-of-information/disclosure-log/foi_25-251-serving-prisoners-studying-a-masters-or-doctorate
+    8  www.uea.ac.uk/stories
+         https://www.uea.ac.uk/stories/ellie-coulson-charity-ceo-and-drama-graduate
+         https://www.uea.ac.uk/stories/from-ma-in-international-relations-to-luxemburg-peace-prize
+         https://www.uea.ac.uk/stories/meet-the-uea-graduate-helping-to-regulate-outer-space
+         https://www.uea.ac.uk/stories/msc-environmental-management-and-assessment-nelly-sirri
+    8  www.uea.ac.uk/study/fees-and-funding/funding-options
+         https://www.uea.ac.uk/study/fees-and-funding/funding-options/uk-student-funding/postgraduates/student-loans
+         https://www.uea.ac.uk/study/fees-and-funding/funding-options/uk-student-funding/undergraduates
+         https://www.uea.ac.uk/study/fees-and-funding/funding-options/uk-student-funding/postgraduates/postgraduate-finances-explained
+         https://www.uea.ac.uk/study/fees-and-funding/funding-options/uk-student-funding/postgraduates/doctoral-loans
+    7  www.uea.ac.uk/about/norwich-business-school/study-with-us
+         https://www.uea.ac.uk/about/norwich-business-school/study-with-us/mba/our-alumni
+         https://www.uea.ac.uk/about/norwich-business-school/study-with-us/mba
+         https://www.uea.ac.uk/about/norwich-business-school/study-with-us/masters
+         https://www.uea.ac.uk/about/norwich-business-school/study-with-us/undergraduate/our-alumni
+    6  www.uea.ac.uk/about/school-of-engineering-mathematics-and-physics/mathematics
+         https://www.uea.ac.uk/about/school-of-engineering-mathematics-and-physics/mathematics/undergraduate/careers-and-employability
+         https://www.uea.ac.uk/about/school-of-engineering-mathematics-and-physics/mathematics/undergraduate/careers-and-employability/mmath-master-of-mathematics-rowan-beswick
+         https://www.uea.ac.uk/about/school-of-engineering-mathematics-and-physics/mathematics/undergraduate
+         https://www.uea.ac.uk/about/school-of-engineering-mathematics-and-physics/mathematics/undergraduate/student-life
+    6  www.uea.ac.uk/study/postgraduate
+         https://www.uea.ac.uk/study/postgraduate/bring-your-research-to-life
+         https://www.uea.ac.uk/study/postgraduate/employability
+         https://www.uea.ac.uk/study/postgraduate/faqs
+         https://www.uea.ac.uk/study/postgraduate/masters-with-placement
+    5  www.uea.ac.uk/about/faculties-and-schools/faculty-of-medicine-and-health-sciences
+         https://www.uea.ac.uk/about/faculties-and-schools/faculty-of-medicine-and-health-sciences/graduate-school/research-and-community-facilities
+         https://www.uea.ac.uk/about/faculties-and-schools/faculty-of-medicine-and-health-sciences/graduate-school/prospective-students
+         https://www.uea.ac.uk/about/faculties-and-schools/faculty-of-medicine-and-health-sciences/graduate-school/personal-and-professional-development
+         https://www.uea.ac.uk/about/faculties-and-schools/faculty-of-medicine-and-health-sciences/graduate-school
+    5  www.uea.ac.uk/about/school-of-media-language-and-communication-studies/journalism
+         https://www.uea.ac.uk/about/school-of-media-language-and-communication-studies/journalism/our-graduates/jack-maclean
+         https://www.uea.ac.uk/about/school-of-media-language-and-communication-studies/journalism/our-graduates/lauren-aarons
+         https://www.uea.ac.uk/about/school-of-media-language-and-communication-studies/journalism/our-graduates/maja-anushka
+         https://www.uea.ac.uk/about/school-of-media-language-and-communication-studies/journalism/our-graduates/natalia-sosa-rojas
+    5  www.uea.ac.uk/business/partnering-for-innovation/involvement-in-postgraduate-research
+         https://www.uea.ac.uk/business/partnering-for-innovation/involvement-in-postgraduate-research/uropharma
+         https://www.uea.ac.uk/business/partnering-for-innovation/involvement-in-postgraduate-research/anglian-water
+         https://www.uea.ac.uk/business/partnering-for-innovation/involvement-in-postgraduate-research/cefas
+         https://www.uea.ac.uk/business/partnering-for-innovation/involvement-in-postgraduate-research/greenworld
+    5  www.uea.ac.uk/study/information-for/applicants-and-offer-holders
+         https://www.uea.ac.uk/study/information-for/applicants-and-offer-holders/undergraduate/undergraduate-offer-holder-webinars
+         https://www.uea.ac.uk/study/information-for/applicants-and-offer-holders/undergraduate/unibuddy-community
+         https://www.uea.ac.uk/study/information-for/applicants-and-offer-holders/postgraduate
+         https://www.uea.ac.uk/study/information-for/applicants-and-offer-holders/undergraduate/applicant-day-subjects
+    4  www.uea.ac.uk/about/faculties-and-schools/faculty-of-social-sciences
+         https://www.uea.ac.uk/about/faculties-and-schools/faculty-of-social-sciences/faculty-of-social-sciences-graduate-school/training-programme/our-training-pathways
+         https://www.uea.ac.uk/about/faculties-and-schools/faculty-of-social-sciences/faculty-of-social-sciences-graduate-school
+         https://www.uea.ac.uk/about/faculties-and-schools/faculty-of-social-sciences/faculty-of-social-sciences-graduate-school/training-programme
+         https://www.uea.ac.uk/about/faculties-and-schools/faculty-of-social-sciences/faculty-of-social-sciences-graduate-school/student-life
+    4  www.uea.ac.uk/about/news/blog
+         https://www.uea.ac.uk/about/news/blog/graduate-film-maker-calls-for-more-female-representation-ahead-of-international-womens-day
+         https://www.uea.ac.uk/about/news/blog/moustafa-kamal-uea-graduate-and-egyptian-judge
+         https://www.uea.ac.uk/about/news/blog/uea-chemistry-graduate-on-being-awarded-top-european-literary-prize
+         https://www.uea.ac.uk/about/news/blog/uea-graduate-bob-goodson-talks-about-helping-to-develop-the-like-button
+    3  www.uea.ac.uk/about/law-school/about-the-school
+         https://www.uea.ac.uk/about/law-school/about-the-school/study-with-us/undergraduate-degrees
+         https://www.uea.ac.uk/about/law-school/about-the-school/study-with-us/postgraduate-degrees
+         https://www.uea.ac.uk/about/law-school/about-the-school/study-with-us/postgraduate-degrees/llm-scholarships
+    3  www.uea.ac.uk/about/school-of-psychology/masters-and-phd-programmes
+         https://www.uea.ac.uk/about/school-of-psychology/masters-and-phd-programmes/employability
+         https://www.uea.ac.uk/about/school-of-psychology/masters-and-phd-programmes/employability/placements
+         https://www.uea.ac.uk/about/school-of-psychology/masters-and-phd-programmes/research-degrees

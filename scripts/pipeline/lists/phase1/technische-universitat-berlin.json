@@ -1,0 +1,9 @@
+{
+ "source": "TU Berlin study-course pages https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/... each checked for 'Language of instruction: English'; the finder's language filter is disallowed by robots.txt (tx_tubstudypaths) and the sitemap omits course pages, so list may be incomplete (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/innovation-management-entrepreneurship-and-sustainability-m-sc",
+  "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/computer-science-informatik-m-sc",
+  "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/information-systems-management-wirtschaftsinformatik-m-sc"
+ ]
+}

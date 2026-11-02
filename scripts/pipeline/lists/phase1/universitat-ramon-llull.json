@@ -1,0 +1,22 @@
+{
+  "source": "URL is a federation; configured from its schools: Esade master's list https://www.esade.edu/en/programs/masters (MSc programmes and Full-Time MBA, taught in English; Esade pages need the browser, plain fetch 403) and La Salle-URL master's list https://www.salleurl.edu/en/education/masters-postgraduates (kept on-site programmes whose Language field is English; plain fetch). Esade Law School masters are in Spanish; IQS skipped (robots.txt unreachable) (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.esade.edu/master-of-science/en/programme/esade-master-in-business-analytics",
+    "https://www.esade.edu/master-of-science/en/programme/esade-master-in-innovation-and-entrepreneurship",
+    "https://www.esade.edu/master-of-science/en/programme/esade-master-in-international-management",
+    "https://www.esade.edu/master-of-science/en/programme/esade-master-in-marketing-management",
+    "https://www.esade.edu/master-of-science/en/programme/esade-master-science-in-sustainability-management",
+    "https://www.esade.edu/master-of-science/en/programme/msc-in-finance",
+    "https://www.esade.edu/master-of-science/en/program/global-master-in-finance",
+    "https://www.esade.edu/master-of-science/en/program/global-master-in-international-management",
+    "https://www.esade.edu/mba/en/programmes/full-time-mba",
+    "https://www.salleurl.edu/en/education/master-science-artificial-intelligence",
+    "https://www.salleurl.edu/en/education/master-science-artificial-intelligence-business-management",
+    "https://www.salleurl.edu/en/education/master-science-marketing-and-ia-english",
+    "https://www.salleurl.edu/en/education/master-science-project-management-weekdays",
+    "https://www.salleurl.edu/en/education/master-science-software-development-and-architecture",
+    "https://www.salleurl.edu/en/education/la-salles-non-official-master-software-development",
+    "https://www.salleurl.edu/en/education/international-mba"
+  ]
+}

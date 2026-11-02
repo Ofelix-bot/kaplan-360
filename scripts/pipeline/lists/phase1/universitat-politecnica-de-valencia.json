@@ -1,0 +1,8 @@
+{
+  "source": "UPV master's catalogue data https://www.upv.es/courses/masteres-en.json (behind https://www.upv.es/estudios/master/index-en.html), filtered to the English-only flag (id_soloi) and Kaplan disciplines; engineering-only English masters skipped. Plain fetch (configured 2026-11-01)",
+  "retrievedAt": "2026-11-01",
+  "pages": [
+    "https://www.upv.es/estudios/master/muaitech/en",
+    "https://www.upv.es/estudios/master/mucst/en"
+  ]
+}

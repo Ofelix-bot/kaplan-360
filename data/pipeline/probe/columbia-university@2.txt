@@ -1,0 +1,20 @@
+# columbia-university@2 https://gsas.columbia.edu
+robots sitemaps: (none) · crawl-delay: null · AI-agent groups: 0
+sitemaps read 1 · urls 1723 · master's-looking 88
+   43  www.gsas.columbia.edu/content
+         https://www.gsas.columbia.edu/content/effective-practices-faculty-mentors-program-directors-and-ma-advisees
+         https://www.gsas.columbia.edu/content/graduate-student-government
+         https://www.gsas.columbia.edu/content/graduate-student-mentors
+         https://www.gsas.columbia.edu/content/graduate-student-teaching-training-and-guidelines
+   36  www.gsas.columbia.edu/news
+         https://www.gsas.columbia.edu/news/10-financial-planning-tips-graduate-students
+         https://www.gsas.columbia.edu/news/10-retirement-and-investing-tips-graduate-students
+         https://www.gsas.columbia.edu/news/ashley-wu-ma-candidate-american-studies
+         https://www.gsas.columbia.edu/news/brennan-mcdaniel-ma-candidate-american-studies
+    8  www.gsas.columbia.edu/events
+         https://www.gsas.columbia.edu/events/ma-climate-society-final-capstone-presentations
+         https://www.gsas.columbia.edu/events/imperial-college-london-graduate-admissions-session
+         https://www.gsas.columbia.edu/events/im-graduating-now-what-postgraduate-fellowships
+         https://www.gsas.columbia.edu/events/masters-program-sustainability-management
+    1  www.gsas.columbia.edu/GSAS-2025-MA
+         https://www.gsas.columbia.edu/GSAS-2025-MA

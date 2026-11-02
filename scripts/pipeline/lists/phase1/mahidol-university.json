@@ -1,0 +1,26 @@
+{
+ "source": "Mahidol Faculty of Graduate Studies admission programme sitemap https://graduate.mahidol.ac.th/Admission/announce/program-sitemap.php -> per-programme admission announcements (lang=en), International Programs only; duplicate 'Special Program' intakes dropped; CMMU/MUIC not covered (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2109MG00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2228MG01&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2228MG02&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2228MG03&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2228MG04&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2228MG05&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2231MG00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2324MG00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2327MG00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2520MG00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2813MG01&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2813MG02&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=2813MG03&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=4806MG00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=6901MG00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=6902MS00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=6903MS00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=7001MG00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=7101MG00&y=2570&lang=en",
+  "https://graduate.mahidol.ac.th/Admission/announce/announce.php?id=7501MG00&y=2570&lang=en"
+ ]
+}

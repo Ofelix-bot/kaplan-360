@@ -1,0 +1,10 @@
+{
+  "dataset": "How far admitted students' 25th percentile sits above the published minimum, in UK marks, on programmes with both a minimum and 10 or more reported GPAs (scripts/stand/min-gap.ts)",
+  "computed": "2026-10-26",
+  "n": 376,
+  "medianMarks": 8.5,
+  "tierC": {
+    "n": 232,
+    "medianMarks": 8.8
+  }
+}

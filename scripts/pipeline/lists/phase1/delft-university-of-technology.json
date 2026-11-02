@@ -1,0 +1,16 @@
+{
+ "source": "TU Delft MSc programmes list (all English-taught) https://www.tudelft.nl/en/education/programmes/masters (configured 2026-11-01)",
+ "retrievedAt": "2026-11-01",
+ "pages": [
+  "https://www.tudelft.nl/en/education/programmes/masters/cs/msc-computer-science",
+  "https://www.tudelft.nl/en/education/programmes/masters/dsait/msc-data-science-and-artificial-intelligence-technology",
+  "https://www.tudelft.nl/en/education/programmes/masters/mot/mot",
+  "https://www.tudelft.nl/en/education/programmes/masters/cme/msc-construction-management-and-engineering",
+  "https://www.tudelft.nl/en/education/programmes/masters/aubs/msc-architecture-urbanism-and-building-sciences/master-tracks/management-in-the-built-environment",
+  "https://www.tudelft.nl/en/education/programmes/masters/cosem/msc-complex-systems-engineering-and-management",
+  "https://www.tudelft.nl/en/education/programmes/masters/til/msc-transport-infrastructure-and-logistics",
+  "https://www.tudelft.nl/en/education/programmes/masters/sec/msc-science-education-and-communication",
+  "https://www.tudelft.nl/en/education/programmes/masters/robotics/msc-robotics",
+  "https://www.tudelft.nl/en/education/programmes/masters/cese/msc-computer-embedded-systems-engineering"
+ ]
+}

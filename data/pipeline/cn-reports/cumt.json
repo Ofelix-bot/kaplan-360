@@ -1,0 +1,26 @@
+{
+  "id": "cumt",
+  "status": "read",
+  "university": "中国矿业大学",
+  "universityEn": "China University of Mining and Technology",
+  "tier": "211",
+  "url": "https://xxgk.cumt.edu.cn/_upload/article/files/e1/98/25723062405996339c3857051f19/81bf2ac9-676e-4ccf-9d69-6b5f0e0aed9c.pdf",
+  "title": "中国矿业大学2024年毕业生就业质量报告",
+  "year": 2024,
+  "cohort": "2024届",
+  "pages": 11,
+  "abroad": [
+    {
+      "group": "本科生",
+      "cohort": "2024届",
+      "count": null,
+      "pct": 3.48,
+      "quote": "出国（境）深造率为3.48%"
+    }
+  ],
+  "regions": [],
+  "ranked": [],
+  "destinations": [],
+  "dropped": [],
+  "checked": "2026-10-22"
+}

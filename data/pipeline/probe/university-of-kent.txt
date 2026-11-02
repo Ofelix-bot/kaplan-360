@@ -1,0 +1,111 @@
+# university-of-kent https://www.kent.ac.uk
+robots sitemaps: https://www.kent.ac.uk/sitemap.xml · crawl-delay: 10 · AI-agent groups: 1
+index https://www.kent.ac.uk/sitemap.xml: 175 children (11 course-like)
+sitemaps read 80 · urls 1603 · master's-looking 236
+   20  www.kent.ac.uk/courses/postgraduate
+         https://www.kent.ac.uk/courses/postgraduate/course-page-thank-you
+         https://www.kent.ac.uk/courses/postgraduate/register-your-interest
+         https://www.kent.ac.uk/courses/postgraduate/thank-you
+         https://www.kent.ac.uk/courses/postgraduate/community
+   14  www.kent.ac.uk/courses/undergraduate
+         https://www.kent.ac.uk/courses/undergraduate/additional-courses
+         https://www.kent.ac.uk/courses/undergraduate/gcse-conversion
+         https://www.kent.ac.uk/courses/undergraduate/mature-students
+         https://www.kent.ac.uk/courses/undergraduate/joint-honours
+   12  www.kent.ac.uk/accommodation/canterbury/undergraduate-accommodation
+         https://www.kent.ac.uk/accommodation/canterbury/undergraduate-accommodation/darwin-college
+         https://www.kent.ac.uk/accommodation/canterbury/undergraduate-accommodation/keynes-college
+         https://www.kent.ac.uk/accommodation/canterbury/undergraduate-accommodation/becket-court
+         https://www.kent.ac.uk/accommodation/canterbury/undergraduate-accommodation/giles-court
+   11  www.kent.ac.uk/campaigns
+         https://www.kent.ac.uk/campaigns/law-society-social-justice-undergraduate
+         https://www.kent.ac.uk/campaigns/human-social-sciences-undergraduate
+         https://www.kent.ac.uk/campaigns/computer-science-masters-at-kent
+         https://www.kent.ac.uk/campaigns/artificial-intelligence-msc-january
+    9  www.kent.ac.uk/courses/visit/open-days
+         https://www.kent.ac.uk/courses/visit/open-days/undergraduate-medway-thank-you-old
+         https://www.kent.ac.uk/courses/visit/open-days/postgraduate-medway-thank-you
+         https://www.kent.ac.uk/courses/visit/open-days/postgraduate-canterbury-thank-you
+         https://www.kent.ac.uk/courses/visit/open-days/undergraduate-campus-visit-thank-you
+    8  www.kent.ac.uk/courses/undergraduate/apply
+         https://www.kent.ac.uk/courses/undergraduate/apply/how-courses-work
+         https://www.kent.ac.uk/courses/undergraduate/apply/contextual-offers
+         https://www.kent.ac.uk/courses/undergraduate/apply/faqs
+         https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements
+    8  www.kent.ac.uk/courses/postgraduate/research-phd
+         https://www.kent.ac.uk/courses/postgraduate/research-phd/modes-of-study
+         https://www.kent.ac.uk/courses/postgraduate/research-phd/find-a-supervisor
+         https://www.kent.ac.uk/courses/postgraduate/research-phd/another-bite-of-the-cherry
+         https://www.kent.ac.uk/courses/postgraduate/research-phd/every-breath-you-take
+    8  www.kent.ac.uk/graduate-researcher-college
+         https://www.kent.ac.uk/graduate-researcher-college
+         https://www.kent.ac.uk/graduate-researcher-college/contact-us
+         https://www.kent.ac.uk/graduate-researcher-college/research-students
+         https://www.kent.ac.uk/graduate-researcher-college/about
+    7  www.kent.ac.uk/graduate-researcher-college/ukri-collaborative-studentships
+         https://www.kent.ac.uk/graduate-researcher-college/ukri-collaborative-studentships/aries
+         https://www.kent.ac.uk/graduate-researcher-college/ukri-collaborative-studentships/chase
+         https://www.kent.ac.uk/graduate-researcher-college/ukri-collaborative-studentships/epsrc
+         https://www.kent.ac.uk/graduate-researcher-college/ukri-collaborative-studentships/senss
+    7  www.kent.ac.uk/kent-business-school
+         https://www.kent.ac.uk/kent-business-school/undergraduate
+         https://www.kent.ac.uk/kent-business-school/digital-marketing-masters-in-the-uk-for-indian-students
+         https://www.kent.ac.uk/kent-business-school/international-business-masters-in-the-uk-for-indian-students
+         https://www.kent.ac.uk/kent-business-school/healthcare-masters-in-the-uk-for-indian-students
+    5  www.kent.ac.uk/courses/postgraduate/taught-masters
+         https://www.kent.ac.uk/courses/postgraduate/taught-masters/modes-of-study
+         https://www.kent.ac.uk/courses/postgraduate/taught-masters/modes-of-study/distance-learning
+         https://www.kent.ac.uk/courses/postgraduate/taught-masters/building-the-future
+         https://www.kent.ac.uk/courses/postgraduate/taught-masters/conversion-programmes
+    5  www.kent.ac.uk/accommodation/canterbury/postgraduate-accommodation
+         https://www.kent.ac.uk/accommodation/canterbury/postgraduate-accommodation/darwin-houses
+         https://www.kent.ac.uk/accommodation/canterbury/postgraduate-accommodation/woolf-college
+         https://www.kent.ac.uk/accommodation/canterbury/postgraduate-accommodation/darwin-studio-flats
+         https://www.kent.ac.uk/accommodation/canterbury/postgraduate-accommodation/keynes-studio-flats
+    4  www.kent.ac.uk/courses
+         https://www.kent.ac.uk/courses/undergraduate
+         https://www.kent.ac.uk/courses/postgraduate
+         https://www.kent.ac.uk/courses/undergraduate-prospectus
+         https://www.kent.ac.uk/courses/mba-brochure
+    3  www.kent.ac.uk/courses/visit/postgraduate-events
+         https://www.kent.ac.uk/courses/visit/postgraduate-events/faqs
+         https://www.kent.ac.uk/courses/visit/postgraduate-events/faqs/online-booking
+         https://www.kent.ac.uk/courses/visit/postgraduate-events/faqs/travel-and-parking
+    3  www.kent.ac.uk/school-of-psychology
+         https://www.kent.ac.uk/school-of-psychology/postgraduate-applicants
+         https://www.kent.ac.uk/school-of-psychology/undergraduate
+         https://www.kent.ac.uk/school-of-psychology/postgraduate
+    3  www.kent.ac.uk/journalism/undergraduate
+         https://www.kent.ac.uk/journalism/undergraduate/hellocfj
+         https://www.kent.ac.uk/journalism/undergraduate/year-in-journalism
+         https://www.kent.ac.uk/journalism/undergraduate/year-in-tv-production
+    3  www.kent.ac.uk/scholarships
+         https://www.kent.ac.uk/scholarships/postgraduate
+         https://www.kent.ac.uk/scholarships/undergraduate
+         https://www.kent.ac.uk/scholarships/kent-graduate-scholarship
+    3  www.kent.ac.uk/scholarships/postgraduate
+         https://www.kent.ac.uk/scholarships/postgraduate/terms-and-conditions-research
+         https://www.kent.ac.uk/scholarships/postgraduate/terms-and-conditions-gtas
+         https://www.kent.ac.uk/scholarships/postgraduate/terms-and-conditions-taught
+    3  www.kent.ac.uk/school-of-computing/postgraduate
+         https://www.kent.ac.uk/school-of-computing/postgraduate/phd-study
+         https://www.kent.ac.uk/school-of-computing/postgraduate/applicants
+         https://www.kent.ac.uk/school-of-computing/postgraduate/postgraduate-funding
+    2  www.kent.ac.uk/courses/visit
+         https://www.kent.ac.uk/courses/visit/postgraduate-virtual-open-days
+         https://www.kent.ac.uk/courses/visit/postgraduate-events
+    2  www.kent.ac.uk/courses/undergraduate/fees-and-funding
+         https://www.kent.ac.uk/courses/undergraduate/fees-and-funding/finance-timeline
+         https://www.kent.ac.uk/courses/undergraduate/fees-and-funding/additional-costs
+    2  www.kent.ac.uk/courses/postgraduate/january-start
+         https://www.kent.ac.uk/courses/postgraduate/january-start/perfect-timing
+         https://www.kent.ac.uk/courses/postgraduate/january-start/time-to-prepare
+    2  www.kent.ac.uk/courses/postgraduate/why-kent
+         https://www.kent.ac.uk/courses/postgraduate/why-kent/pursue-your-passion
+         https://www.kent.ac.uk/courses/postgraduate/why-kent/from-botswana-to-kent
+    2  www.kent.ac.uk/courses/profiles
+         https://www.kent.ac.uk/courses/profiles/undergraduate
+         https://www.kent.ac.uk/courses/profiles/postgraduate
+    2  www.kent.ac.uk/masterplan
+         https://www.kent.ac.uk/masterplan
+         https://www.kent.ac.uk/masterplan/canterbury-district-local-plan-2040

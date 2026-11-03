@@ -2,22 +2,22 @@
 
 import { useEffect, useRef, useState } from "react";
 import { useT } from "@/components/i18n/I18nProvider";
-import Link from "@/components/i18n/Link";
+import { useOpenAdviser } from "@/components/agent/AdviserDock";
 import type { KappyEngine } from "./engine";
 import { Kappy, KappyBubble } from "./Kappy";
 import css from "./kappy.module.css";
 
 // Kappy in the bottom-left corner of every page (mounted in app/[lang]/layout.tsx), clear of the profile button on the
-// right edge. A click: it waves, asks its question and offers the way in; a second click, or 9 s, puts the bubble away.
-// It reads no route (the layout must stay prerendered), so the link carries no `from`.
-
-const ADVISER_HREF = "/adviser";
+// right edge. A click: it waves, asks its question and offers the way in, which opens the adviser the way the header's
+// button does (the side panel on a wide screen, else /adviser); a second click, or 9 s, puts the bubble away. It hides
+// on /adviser, which shows its own Kappy.
 
 export function KappyDock() {
   const t = useT();
   const kappy = useRef<KappyEngine | null>(null);
   const bubble = useRef<HTMLDivElement>(null);
   const [open, setOpen] = useState(false);
+  const adviser = useOpenAdviser();
 
   useEffect(() => {
     if (!open) return;
@@ -46,7 +46,15 @@ export function KappyDock() {
         {open && (
           <>
             <br />
-            <Link href={ADVISER_HREF}>{t("Open the AI adviser")} →</Link>
+            <button
+              type="button"
+              onClick={() => {
+                setOpen(false);
+                adviser.toggle();
+              }}
+            >
+              {t("Open the AI adviser")} →
+            </button>
           </>
         )}
       </KappyBubble>

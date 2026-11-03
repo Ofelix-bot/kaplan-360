@@ -3314,5 +3314,17 @@
  "Work pass": "查準證",
  "Your degree leads to 6 in-demand roles.": "你的學位通向 6 個熱門崗位。",
  "Getting a result": "出結果",
- "Open the AI adviser": "打開 AI 顧問"
+ "Open the AI adviser": "打開 AI 顧問",
+ "A line doesn't match the official page. Fixing it.": "有一條和官方原文對不上，我來改。",
+ "First, your situation: degree, pass, budget…": "先弄清你的情況：學位、準證、預算…",
+ "I argue for a master's first.": "我負責論證：先讀研。",
+ "I argue for working first.": "我負責論證：先工作。",
+ "I've read both cases. Now the decision…": "兩邊我都看過了，現在來做決定…",
+ "Kappy, the AI adviser: click to wave": "AI 顧問 Kappy：點一下會揮手",
+ "My case is ready.": "我的論證寫好了。",
+ "One thing to check before I go on.": "繼續之前，有一點要確認。",
+ "Tell me about yourself, and I'll weigh a master's first against work first.": "跟我説説你的情況，我來比較先讀研和先工作。",
+ "That didn't work. Try again.": "出了點問題，請再試一次。",
+ "The master's-first adviser": "先讀研的顧問",
+ "The work-first adviser": "先工作的顧問"
 }

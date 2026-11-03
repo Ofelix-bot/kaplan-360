@@ -117,9 +117,11 @@
 .dock > * { pointer-events: auto; }
 .dock .bubble { font-size: 13.5px; padding: 8px 10px; min-height: 0; max-width: 24ch; margin-bottom: 42px; box-shadow: 3px 3px 0 var(--accent, #ffb547); }
 .dock .bubble::before { top: auto; bottom: 10px; }
-.dock .bubble a { display: inline-block; margin-top: 4px; font-weight: 600; color: var(--accent-ink, #a35700); }
+.dock .bubble button { display: inline-block; margin-top: 4px; padding: 0; border: 0; background: none; font: inherit; font-weight: 600; text-decoration: underline; cursor: pointer; color: var(--accent-ink, #a35700); }
 .dockBubble[data-empty] { display: none; }
 @media print { .dock { display: none; } }
+/* /adviser shows its own Kappy (components/adviser/adviser-kappy.tsx). */
+:global(:root[data-kappy-here]) .dock { display: none; }
 
 :global(:root[data-paused="true"]) .bot, :global(:root[data-paused="true"]) .r1, :global(:root[data-paused="true"]) .r2, :global(:root[data-paused="true"]) .glow,
 :global(:root[data-paused="true"]) .bubble [data-vis].typing::after { animation: none !important; }

@@ -14,6 +14,7 @@ import { msg } from "@/lib/i18n/translate";
 import { EMPTY_ANSWERS, type PlanAnswers } from "@/lib/plan-storage";
 import { startPlanStore, usePlanStore } from "@/lib/workspace/plan-store";
 import { cn } from "cn";
+import { useAdviserKappy } from "./adviser-kappy";
 import { AuditBadge } from "./audit-badge";
 import { DebateColumns } from "./debate-columns";
 import { DecisionTable } from "./decision-table";
@@ -131,6 +132,7 @@ export function AdviserApp() {
   const from: PageContext["page"] = fromParam && PAGES.includes(fromParam) ? fromParam : "adviser";
 
   const { state, start, reply, reset } = useAdviser(mode);
+  const kappy = useAdviserKappy(state);
   const saved = usePlanStore((s) => s.answers);
   const ready = usePlanStore((s) => s.ready);
   const [text, setText] = useState("");
@@ -158,6 +160,7 @@ export function AdviserApp() {
 
   return (
     <div className="space-y-4">
+      {kappy.main}
       {mode === "replay" && (
         <p className="flex items-center gap-2 rounded-lg border border-amber-500/50 bg-amber-500/10 px-3 py-2 text-sm font-medium" role="note">
           <HistoryIcon className="size-4 shrink-0" aria-hidden />
@@ -182,7 +185,10 @@ export function AdviserApp() {
         >
           <Textarea
             value={text}
-            onChange={(e) => setText(e.target.value.slice(0, MAX_TEXT))}
+            onChange={(e) => {
+              setText(e.target.value.slice(0, MAX_TEXT));
+              kappy.hear(e.target);
+            }}
             maxLength={MAX_TEXT}
             rows={3}
             placeholder={t("Your degree, your grades, your budget, and the job you want")}
@@ -278,7 +284,7 @@ export function AdviserApp() {
       {reached(phase, "debating") && phase !== "asking" && (state.study.feed.length > 0 || state.work.feed.length > 0 || state.study.result || state.work.result || phase === "debating" || state.study.failed || state.work.failed) && (
         <Section>
           <StepHead n={2} title={t("Two advisers argue it out")} state={step2} />
-          <DebateColumns study={state.study} work={state.work} running={phase === "debating"} />
+          <DebateColumns study={state.study} work={state.work} running={phase === "debating"} kappy={kappy.side} />
         </Section>
       )}
 
@@ -306,7 +312,7 @@ export function AdviserApp() {
       {passed && state.final && (
         <Section>
           <StepHead n={4} title={t("Your roadmap")} state="done" />
-          <Roadmap final={state.final} />
+          <Roadmap final={state.final} onSaved={kappy.celebrate} />
         </Section>
       )}
     </div>

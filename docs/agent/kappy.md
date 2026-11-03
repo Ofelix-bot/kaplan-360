@@ -46,4 +46,4 @@ Size: `scale` (1 = 64 × 96), or `--kappy-scale` on any ancestor. Use whole numb
 
 Motion stops (still frames only) when the system asks for reduced motion. The site's own "Pause animations" switch was removed on 2026-11-02.
 
-The corner Kappy opens `/adviser` (`ADVISER_HREF` in `KappyDock.tsx`).
+The corner Kappy opens the adviser like the header button does (the side panel on a wide screen, else `/adviser`), and hides on `/adviser`, where `components/adviser/adviser-kappy.tsx` drives a Kappy from the run itself.

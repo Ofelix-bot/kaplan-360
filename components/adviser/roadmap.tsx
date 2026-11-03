@@ -31,7 +31,7 @@ function useProgrammeName() {
 
 type Before = { shortlist: string[]; skillGaps: SkillGap[] };
 
-export function Roadmap({ final }: { final: Final }) {
+export function Roadmap({ final, onSaved }: { final: Final; onSaved?: () => void }) {
   const t = useT();
   const locale = useIntlLocale();
   const name = useProgrammeName();
@@ -66,6 +66,7 @@ export function Roadmap({ final }: { final: Final }) {
     });
     setSaved(before);
     setUndone(false);
+    onSaved?.();
     if (timer.current) clearTimeout(timer.current);
     timer.current = setTimeout(() => setSaved(null), 10_000);
   };

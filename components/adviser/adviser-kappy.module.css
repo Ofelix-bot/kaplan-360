@@ -1,0 +1,7 @@
+/* Kappy's rows on /adviser (adviser-kappy.tsx). Plain CSS: app/ui.css scans only the folders it lists for Tailwind. */
+
+.main { --kappy-scale: 1; display: flex; align-items: flex-end; gap: 12px; }
+@media (min-width: 640px) { .main { --kappy-scale: 2; } }
+.main > div { flex: 1; min-width: 0; margin-bottom: 24px; font-size: 14px; }
+.side { --kappy-scale: 1; display: flex; align-items: flex-end; gap: 8px; }
+.side > div { flex: 1; min-width: 0; margin-bottom: 20px; font-size: 13px; }

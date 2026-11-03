@@ -3314,5 +3314,17 @@
  "Work pass": "查准证",
  "Your degree leads to 6 in-demand roles.": "你的学位通向 6 个热门岗位。",
  "Getting a result": "出结果",
- "Open the AI adviser": "打开 AI 顾问"
+ "Open the AI adviser": "打开 AI 顾问",
+ "A line doesn't match the official page. Fixing it.": "有一条和官方原文对不上，我来改。",
+ "First, your situation: degree, pass, budget…": "先弄清你的情况：学位、准证、预算…",
+ "I argue for a master's first.": "我负责论证：先读研。",
+ "I argue for working first.": "我负责论证：先工作。",
+ "I've read both cases. Now the decision…": "两边我都看过了，现在来做决定…",
+ "Kappy, the AI adviser: click to wave": "AI 顾问 Kappy：点一下会挥手",
+ "My case is ready.": "我的论证写好了。",
+ "One thing to check before I go on.": "继续之前，有一点要确认。",
+ "Tell me about yourself, and I'll weigh a master's first against work first.": "跟我说说你的情况，我来比较先读研和先工作。",
+ "That didn't work. Try again.": "出了点问题，请再试一次。",
+ "The master's-first adviser": "先读研的顾问",
+ "The work-first adviser": "先工作的顾问"
 }

@@ -10,13 +10,14 @@ import { cn } from "cn";
 import { Feed, SourceCount } from "./feed";
 import type { Side } from "./use-adviser";
 
-// Step 2 of AI adviser v2: the two advisers side by side, "Master's first" and "Work first". Each column is a live feed
+// Step 2 of AI adviser v2: the two advisers side by side, "Master's first" and "Work first", each with its own Kappy
+// (the cap and the briefcase, components/adviser/adviser-kappy.tsx). Each column is a live feed
 // while its adviser works, then its case: the thesis, one line per criterion, the strongest point against it, and when
 // it stops being the right call.
 
 export const CRITERIA: Record<CaseResult["points"][number]["criterion"], string> = { cost: msg("Cost"), benefit: msg("Benefit"), risk: msg("Risk"), fit: msg("Fit") };
 
-function Column({ icon, title, side, running }: { icon: ReactNode; title: string; side: Side; running: boolean }) {
+function Column({ icon, title, side, running, kappy }: { icon: ReactNode; title: string; side: Side; running: boolean; kappy?: ReactNode }) {
   const t = useT();
   const r = side.result;
   return (
@@ -26,6 +27,7 @@ function Column({ icon, title, side, running }: { icon: ReactNode; title: string
         {title}
         {running && !r && !side.failed && <Spinner className="ml-auto size-3.5" />}
       </p>
+      {kappy}
       <Feed items={side.feed} />
       {side.failed && (
         <p className="flex items-center gap-1.5 rounded-md border border-dashed p-2 text-sm text-muted-foreground">
@@ -70,12 +72,12 @@ function Column({ icon, title, side, running }: { icon: ReactNode; title: string
   );
 }
 
-export function DebateColumns({ study, work, running }: { study: Side; work: Side; running: boolean }) {
+export function DebateColumns({ study, work, running, kappy }: { study: Side; work: Side; running: boolean; kappy?: (side: "study" | "work") => ReactNode }) {
   const t = useT();
   return (
     <div className={cn("grid gap-3 md:grid-cols-2")}>
-      <Column icon={<GraduationCapIcon className="size-3.5" aria-hidden />} title={t("Master’s first")} side={study} running={running} />
-      <Column icon={<BriefcaseIcon className="size-3.5" aria-hidden />} title={t("Work first")} side={work} running={running} />
+      <Column icon={<GraduationCapIcon className="size-3.5" aria-hidden />} title={t("Master’s first")} side={study} running={running} kappy={kappy?.("study")} />
+      <Column icon={<BriefcaseIcon className="size-3.5" aria-hidden />} title={t("Work first")} side={work} running={running} kappy={kappy?.("work")} />
     </div>
   );
 }

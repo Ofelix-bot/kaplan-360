@@ -5,6 +5,7 @@ import { Suspense } from "react";
 import SiteHeader from "@/components/SiteHeader";
 import { AdviserDock } from "@/components/agent/AdviserDock";
 import { ProfileFab } from "@/components/profile/ProfileFab";
+import { KappyDock } from "@/components/kappy/KappyDock";
 import Link from "@/components/i18n/Link";
 import I18nProvider from "@/components/i18n/I18nProvider";
 import ZhHansProvider from "@/components/i18n/ZhHansProvider";
@@ -92,6 +93,8 @@ export default async function RootLayout({ children, params }: LayoutProps<"/[la
             <Suspense fallback={null}>
               <ProfileFab />
             </Suspense>
+            {/* Kappy, the AI adviser's mascot, in the bottom-left corner of every page (components/kappy). */}
+            <KappyDock />
           </PauseProvider>
         </Provider>
       </body>

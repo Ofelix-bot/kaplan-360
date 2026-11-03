@@ -230,3 +230,11 @@
   .bar, .stick[data-on] .bar, .card { transition: none; }
   .page [data-slot="button"]:active:not(:disabled) { translate: none; }
 }
+
+/* The Arjun example's two runs: a pair of square keys in the pixel face. */
+.runs { display: inline-flex; border: 1px solid var(--border); border-radius: 6px; overflow: hidden; box-shadow: 0 2px 0 var(--border); }
+.runs button { min-width: 30px; height: 30px; padding: 0 8px; border: 0; background: var(--k-plate); color: var(--muted); font-family: var(--font-pixel), var(--font-display); font-size: 12px; cursor: pointer; }
+.runs button + button { border-left: 1px solid var(--border); }
+.runs button[aria-pressed="true"] { background: var(--brand-ink); color: var(--k-plate); }
+.runs button:disabled { cursor: not-allowed; opacity: 0.6; }
+.runs button:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: -2px; }

@@ -1192,6 +1192,8 @@
  "Example intake: {month}": "示例開學時間：{month}",
  "Example intakes": "示例開學時間",
  "Example intakes (Monash)": "示例開學時間（蒙納士）",
+ "Example run": "示例運行",
+ "Example run {n}": "第 {n} 次示例運行",
  "Example student": "示例學生",
  "Example student: <b>{name}</b>": "示例學生：<b>{name}</b>",
  "Example student: <b>{name}</b>. Your own answers are kept.": "示例學生：<b>{name}</b>。你自己的回答會保留。",

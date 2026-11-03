@@ -11,5 +11,7 @@
   "{n} sources": "{n} 个来源",
   "Both checks failed, so this advice isn’t shown": "两次核对都没通过，这份建议不显示",
   "1 source": "1 个来源",
-  "Talk to Kappy": "跟 Kappy 说"
+  "Talk to Kappy": "跟 Kappy 说",
+  "Example run": "示例运行",
+  "Example run {n}": "第 {n} 次示例运行"
 }

@@ -143,6 +143,9 @@ export function useAdviser(mode: Mode) {
   const ctlRef = useRef<AbortController | null>(null);
   const inputRef = useRef<StartInput | null>(null);
   const recordingRef = useRef<Recording | null>(null);
+  /** The recorded run this run plays instead of calling the model (the Arjun example's runs), or null. */
+  const recordingUrl = useRef<string | null>(null);
+  const loadedUrl = useRef<string | null>(null);
 
   useEffect(
     () => () => {
@@ -172,15 +175,17 @@ export function useAdviser(mode: Mode) {
   const stage = useCallback(
     async (name: StageName, body: unknown, run: ReturnType<typeof begin>, onEvent: (e: AdviserEvent) => void, onRetry: () => void) => {
       const guarded = (e: AdviserEvent) => run.live() && onEvent(e);
-      if (mode === "live") return postStage(URL_OF[name], body, guarded, run.ctl.signal, onRetry);
+      if (mode === "live" && !recordingUrl.current) return postStage(URL_OF[name], body, guarded, run.ctl.signal, onRetry);
       if (mode === "mock") return replayStage(MOCK_RUN.stages[name], guarded, run.ctl.signal);
-      let rec = recordingRef.current;
+      const url = recordingUrl.current ?? "/adviser/arjun-recorded.json";
+      let rec = loadedUrl.current === url ? recordingRef.current : null;
       if (!rec) {
-        const res = await fetch("/adviser/arjun-recorded.json", { signal: run.ctl.signal }).catch(() => null);
+        const res = await fetch(url, { signal: run.ctl.signal }).catch(() => null);
         const json = res?.ok ? ((await res.json().catch(() => null)) as Recording | null) : null;
         if (!json || typeof json !== "object" || !json.stages) throw new StageFailure("missing");
         rec = json;
         recordingRef.current = json;
+        loadedUrl.current = url;
         run.set((s) => ({ ...s, recordedAt: typeof json.recordedAt === "string" ? json.recordedAt : null }));
       }
       // A recording made before Step 4 existed: the mock's plans and reading stand in, and the page says so.
@@ -376,7 +381,9 @@ export function useAdviser(mode: Mode) {
   const pending = useRef<{ intake: IntakeResult; run: ReturnType<typeof begin> } | null>(null);
 
   const start = useCallback(
-    async (x: StartInput) => {
+    /** `recording`: play that recorded run instead of calling the model (the page's Arjun example). */
+    async (x: StartInput, recording: string | null = null) => {
+      recordingUrl.current = recording;
       const run = begin();
       inputRef.current = x;
       pending.current = null;
@@ -403,7 +410,7 @@ export function useAdviser(mode: Mode) {
       if (!run.live()) return;
       run.set((s) => ({ ...s, intake }));
       if (intake.questions.length) {
-        if (mode === "replay") {
+        if (mode === "replay" || recordingUrl.current) {
           // A recorded run answers as it was answered.
           run.set((s) => ({ ...s, phase: "asking" }));
           await new Promise((r) => setTimeout(r, 1200));

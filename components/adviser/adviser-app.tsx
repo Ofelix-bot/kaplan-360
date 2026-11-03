@@ -63,6 +63,10 @@ const ARJUN_ANSWERS: PlanAnswers = {
   finder: { background: "business", kind: "bachelor", gpa: 3.2, scale: "4.0", directions: ["finance"], fee: null, regions: [] },
 };
 
+// Two real runs of the Arjun example, recorded ahead with scripts/check-adviser.ts (RECORD=…): the example plays one
+// at once instead of waiting minutes for the model. The student's own words always go to the model.
+const RUNS = ["/adviser/arjun-recorded.json", "/adviser/arjun-recorded-2.json"] as const;
+
 const ORDER: Phase[] = ["idle", "intake", "asking", "debating", "judging", "auditing", "rewriting", "planning", "reviewing", "done"];
 const reached = (phase: Phase, step: Phase) => ORDER.indexOf(phase) >= ORDER.indexOf(step) || phase === "human" || phase === "error";
 
@@ -163,21 +167,24 @@ export function AdviserApp() {
   // A question spoken to the corner Kappy arrives as ?q= (components/kappy/KappyDock.tsx).
   const [text, setText] = useState(() => (params.get("q") ?? "").slice(0, MAX_TEXT));
   const [example, setExample] = useState(false);
+  const [runNo, setRunNo] = useState(0);
   useEffect(() => startPlanStore(), []);
 
   const { phase } = state;
   const running = phase !== "idle" && phase !== "done" && phase !== "human" && phase !== "error" && phase !== "asking";
   const hasSaved = ready && (!!saved.programmeId || !!saved.sgStatus || !!saved.degreeGpa || !!saved.englishScore);
 
-  const go = (body: string, useExample: boolean) => {
+  const go = (body: string, useExample: boolean, recording: string | null = null) => {
     if (!body.trim() || running) return;
-    start({ text: body.trim(), answers: useExample ? ARJUN_ANSWERS : usePlanStore.getState().answers, locale, context: { page: from } });
+    start({ text: body.trim(), answers: useExample ? ARJUN_ANSWERS : usePlanStore.getState().answers, locale, context: { page: from } }, recording);
   };
-  const tryExample = () => {
+  const tryExample = (n = runNo) => {
     const body = t(ARJUN_TEXT);
+    setRunNo(n);
     setText(body);
     setExample(true);
-    go(body, true);
+    // The demo page plays a recorded run; ?replay=arjun and ?mock=1 keep their own sources.
+    go(body, true, mode === "live" ? RUNS[n] : null);
   };
 
   const passed = state.passed && !!state.final;
@@ -218,7 +225,7 @@ export function AdviserApp() {
             className="grid gap-2"
             onSubmit={(e) => {
               e.preventDefault();
-              go(text, example);
+              go(text, example, example && mode === "live" && text === t(ARJUN_TEXT) ? RUNS[runNo] : null);
             }}
           >
             <Textarea
@@ -239,10 +246,19 @@ export function AdviserApp() {
                 {running ? <Blink /> : <SparklesIcon aria-hidden />}
                 {t("Ask the AI adviser")}
               </Button>
-              <Button type="button" variant="outline" disabled={running} onClick={tryExample}>
+              <Button type="button" variant="outline" disabled={running} onClick={() => tryExample()}>
                 <PlayIcon aria-hidden />
                 {mode === "replay" ? t("Play the recorded run") : t("Try the Arjun example")}
               </Button>
+              {mode === "live" && (
+                <span className={s.runs} role="group" aria-label={t("Example run")}>
+                  {RUNS.map((_, n) => (
+                    <button key={n} type="button" aria-pressed={runNo === n} aria-label={t("Example run {n}", { n: n + 1 })} disabled={running} onClick={() => tryExample(n)}>
+                      {n + 1}
+                    </button>
+                  ))}
+                </span>
+              )}
               <span className={cn(s.pix, s.muted, "ml-auto text-[11px] tabular-nums")}>
                 {text.length}/{MAX_TEXT}
               </span>
@@ -293,7 +309,7 @@ export function AdviserApp() {
                   ))}
                 </ul>
               )}
-              {phase === "asking" && !!state.intake.questions.length && <Questions intake={state.intake} onSend={reply} disabled={mode === "replay"} />}
+              {phase === "asking" && !!state.intake.questions.length && <Questions intake={state.intake} onSend={reply} disabled={mode === "replay" || example} />}
             </div>
           )}
 

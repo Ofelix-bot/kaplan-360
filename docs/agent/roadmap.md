@@ -1,5 +1,7 @@
 # Step 4 of the AI adviser: three plans, the human decides, Kappy reads
 
+中文交接说明（含本地同步步骤、验证结果和后续建议）：`docs/agent/roadmap.zh.md`。
+
 The fourth step of `/adviser` (AI adviser v2, `docs/agent/debate-blueprint.md`) was redesigned on 2026-11-03. Before, the judge's one dated roadmap was listed and saved. Now, once the second AI's audit has passed the decision:
 
 1. **The planner** (`POST /api/adviser/plans`, agent `planner`) drafts **three plans** from the decision, both advisers' cases and the tool results the cases rest on (re-run on the server, as the judge does). One plan follows the judge's decision (`follows`); the other two are the student's real alternatives (the other road, a different order, a later intake, a cheaper or shorter version). Each plan has a title, the bet it makes, 2 to 6 dated steps, what the student gives up, the condition it depends on, and the programme and role ids it applies to. The page shows them side by side as a **radio group with nothing chosen**: the badge says *Human must decide*, and nothing is saved until the student chooses.

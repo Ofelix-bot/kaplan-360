@@ -1,10 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import { Archivo } from "next/font/google";
 import { notFound } from "next/navigation";
-import { Suspense } from "react";
 import SiteHeader from "@/components/SiteHeader";
 import { AdviserDock } from "@/components/agent/AdviserDock";
-import { ProfileFab } from "@/components/profile/ProfileFab";
 import { KappyDock } from "@/components/kappy/KappyDock";
 import Link from "@/components/i18n/Link";
 import I18nProvider from "@/components/i18n/I18nProvider";
@@ -88,11 +86,6 @@ export default async function RootLayout({ children, params }: LayoutProps<"/[la
             <ReceiptHost />
             {/* The AI adviser beside the page (components/agent): desktop only, on the pages that offer it. */}
             <AdviserDock />
-            {/* The profile button on the seven service pages (it reads the route, so it waits under its own
-                boundary and the pages' shells stay prerendered). */}
-            <Suspense fallback={null}>
-              <ProfileFab />
-            </Suspense>
             {/* Kappy, the AI adviser's mascot, in the bottom-left corner of every page (components/kappy). */}
             <KappyDock />
           </PauseProvider>

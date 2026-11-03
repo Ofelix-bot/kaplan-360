@@ -22,8 +22,9 @@ import { Roadmap } from "./roadmap";
 import { useAdviser, type Mode, type Phase } from "./use-adviser";
 
 // /adviser, AI adviser v2 (docs/agent/debate-blueprint.md): 1 the student and at most two questions, 2 two advisers
-// argue master's first and work first, 3 a judge decides (shown only once a second AI's audit passes), 4 the roadmap.
-// Steps 3 and 4 never show before the audit passes; a run the audit blocks twice ends with a human adviser.
+// argue master's first and work first, 3 a judge decides (shown only once a second AI's audit passes), 4 the roadmap:
+// three plans the student chooses between, read and highlighted by Kappy (docs/agent/roadmap.md). Steps 3 and 4 never
+// show before the audit passes; a run the audit blocks twice ends with a human adviser.
 
 const PAGES: PageContext["page"][] = ["outcomes", "results", "careers", "plan", "profile", "algorithm", "parents", "adviser"];
 
@@ -59,7 +60,7 @@ const ARJUN_ANSWERS: PlanAnswers = {
   finder: { background: "business", kind: "bachelor", gpa: 3.2, scale: "4.0", directions: ["finance"], fee: null, regions: [] },
 };
 
-const ORDER: Phase[] = ["idle", "intake", "asking", "debating", "judging", "auditing", "rewriting", "done"];
+const ORDER: Phase[] = ["idle", "intake", "asking", "debating", "judging", "auditing", "rewriting", "planning", "reviewing", "done"];
 const reached = (phase: Phase, step: Phase) => ORDER.indexOf(phase) >= ORDER.indexOf(step) || phase === "human" || phase === "error";
 
 function StepHead({ n, title, state }: { n: number; title: string; state: "todo" | "active" | "done" }) {
@@ -130,7 +131,7 @@ export function AdviserApp() {
   const fromParam = params.get("from") as PageContext["page"] | null;
   const from: PageContext["page"] = fromParam && PAGES.includes(fromParam) ? fromParam : "adviser";
 
-  const { state, start, reply, reset } = useAdviser(mode);
+  const { state, start, reply, reset, retry } = useAdviser(mode);
   const saved = usePlanStore((s) => s.answers);
   const ready = usePlanStore((s) => s.ready);
   const [text, setText] = useState("");
@@ -155,6 +156,7 @@ export function AdviserApp() {
   const passed = state.passed && !!state.final;
   const step2: "todo" | "active" | "done" = state.study.result || state.work.result ? (reached(phase, "judging") ? "done" : "active") : reached(phase, "debating") ? "active" : "todo";
   const step3: "todo" | "active" | "done" = passed ? "done" : reached(phase, "judging") && phase !== "error" && phase !== "human" ? "active" : "todo";
+  const step4: "todo" | "active" | "done" = phase === "planning" || phase === "reviewing" ? "active" : state.plans ? "done" : "todo";
 
   return (
     <div className="space-y-4">
@@ -305,8 +307,20 @@ export function AdviserApp() {
 
       {passed && state.final && (
         <Section>
-          <StepHead n={4} title={t("Your roadmap")} state="done" />
-          <Roadmap final={state.final} />
+          <StepHead n={4} title={t("Your roadmap: three plans, your call")} state={step4} />
+          <Roadmap
+            final={state.final}
+            phase={phase}
+            mode={mode}
+            plans={state.plans}
+            plansFeed={state.plansFeed}
+            plansError={state.plansError}
+            plansDemo={state.plansDemo}
+            review={state.review}
+            reviewFeed={state.reviewFeed}
+            reviewError={state.reviewError}
+            onRetry={retry}
+          />
         </Section>
       )}
     </div>

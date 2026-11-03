@@ -1071,6 +1071,17 @@ export function buildPlan(x: PlanInput): Plan {
     }
   }
 
+  // The plan the student chose on the AI adviser's roadmap step (components/adviser/roadmap.tsx): each dated step as
+  // their own row, education steps with the degree, career steps with experience; plan-road.ts places them by id.
+  if (a.roadmap) {
+    const r = a.roadmap;
+    r.steps.forEach((step, i) => {
+      const from = `${step.when}-01` < x.today ? x.today : `${step.when}-01`;
+      const detail = t("Step {n} of the plan you chose with the AI adviser: {title}.", { n: i + 1, title: r.title });
+      items.push({ id: `goal-roadmap-${r.plan}-${i}`, lane: step.lane === "education" ? "study" : "experience", from, to: null, title: step.text, short: step.text, detail, basis: "yours", url: null });
+    });
+  }
+
   items.sort((p, q) => p.from.localeCompare(q.from) || p.lane.localeCompare(q.lane));
   const order = { upcoming: 0, "last-round": 1, undated: 2, automatic: 3, closed: 4 };
   cards.sort((p, q) => order[p.status] - order[q.status] || (p.due ?? "").localeCompare(q.due ?? "") || p.university.localeCompare(q.university));

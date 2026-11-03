@@ -44,7 +44,8 @@ Every page can be tried with the worked example, Arjun: a UCD finance top-up stu
   - reads official university, employer and government pages, picks out fees, requirements, intakes, scholarships and deadlines, and checks each figure word for word against its sentence; a figure whose sentence isn't on the page is dropped (`scripts/pipeline`, `scripts/benefits`, `scripts/plan`, `scripts/topups`);
   - maps each Kaplan degree's modules to Skills Framework skills, beside rule-based links (`scripts/careers/build-careers-data.mjs`);
   - tags master's programmes with Skills Framework skills from their module lists and learning outcomes (`data/raw/master-skills.json`);
-  - reads the sentence you type into "Fill in the form for me" into form fields you confirm (`lib/profile-ai.ts`).
+  - reads the sentence you type into "Fill in the form for me" into form fields you confirm (`lib/profile-ai.ts`);
+  - on the AI adviser (`/adviser`, `lib/adviser`, `docs/agent/debate-blueprint.md`), argues master's first against work first with the site's own lookups, decides, has a second model audit every figure against the official quotes, then drafts three plans and, as Kappy, reads and highlights them; the student chooses the plan, never the model (`docs/agent/roadmap.md`).
 
   It doesn't estimate admission chances, rank students or write statistics.
 - **Respecting sources.** robots.txt honoured, requests paced, quotes short and linked, licensed data attributed (see "Responsible AI and data use" below).
@@ -117,7 +118,9 @@ netlify deploy --build --prod          # 正式：每次 15 credits
 | Industry: its hot roles, matched to your degree | `/careers/industries/[industry]` | |
 | Role: key skills, your match, the missing skill, gap actions, master's that cover it | `/careers/roles/[role]` | The old `/careers/[slug]` pages redirect to their role page |
 | Programme finder | `/results` | |
-| Your plan: timeline, with the Map tab (formerly "Next steps") | `/plan` | `/next-steps` redirects to `/plan?view=map` |
+| Your plan: timeline, with the Map tab (formerly "Next steps") | `/plan` | `/next-steps` redirects to `/plan?view=map`; the plan chosen on the AI adviser shows as the student's own rows |
+| AI adviser: two advisers argue, a judge decides, a second AI audits, three plans to choose from, read by Kappy | `/adviser` | `?mock=1` demo data, `?replay=arjun` a recorded run (`docs/agent/roadmap.md`) |
+| Kappy, the adviser's pixel mascot: every state on a stage | `/kappy` | The corner Kappy on every page links to `/adviser` |
 | Outcomes | `/outcomes` | |
 | Benefits | `/benefits` | |
 | Routes: diploma to degree | `/pathway` | |

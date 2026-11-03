@@ -107,7 +107,7 @@
 .bubble [data-vis].typing::after { content: ""; display: inline-block; width: 0.5em; height: 1em; margin-left: 2px; vertical-align: -0.15em; background: var(--accent, #ffb547); animation: half 0.8s steps(1, end) infinite; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 
-/* ── the corner dock: bottom-left, clear of the profile button on the right ── */
+/* ── the corner dock: bottom-left (the site's one floating button) ── */
 .dock {
   --kappy-scale: 1;
   position: fixed; z-index: 40; left: calc(12px + env(safe-area-inset-left, 0px)); bottom: calc(88px + env(safe-area-inset-bottom, 0px));
@@ -120,6 +120,8 @@
 .dock .bubble a { display: inline-block; margin-top: 4px; font-weight: 600; color: var(--accent-ink, #a35700); }
 .dockBubble[data-empty] { display: none; }
 @media print { .dock { display: none; } }
+/* On /adviser Kappy is on the roadmap's stage (components/adviser/kappy-stage.tsx): the page marks itself and the dock hides. */
+:global(body:has([data-kappy-stage])) .dock { display: none; }
 
 :global(:root[data-paused="true"]) .bot, :global(:root[data-paused="true"]) .r1, :global(:root[data-paused="true"]) .r2, :global(:root[data-paused="true"]) .glow,
 :global(:root[data-paused="true"]) .bubble [data-vis].typing::after { animation: none !important; }

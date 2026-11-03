@@ -2,21 +2,24 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { AuditRequest, AuditResponse, Final, PageContext, Verdict } from "@/lib/agent/types";
-import type { AdviserEvent, CaseRequest, CaseResult, IntakeRequest, IntakeResult, JudgeRequest } from "@/lib/adviser/types";
+import type { AdviserEvent, CaseRequest, CaseResult, IntakeRequest, IntakeResult, JudgeRequest, PlansRequest, PlansResult, ReviewRequest, ReviewResult } from "@/lib/adviser/types";
 import type { Locale } from "@/lib/i18n/config";
 import type { PlanAnswers } from "@/lib/plan-storage";
 import { MOCK_RUN } from "./mock-run";
 import { postStage, replayStage, StageFailure, type ErrorCode } from "./transport";
 
 // AI adviser v2's state machine in the browser: idle → intake → asking → debating → judging → auditing
-// → (rewriting → auditing) → done | human | error. Each stage is one POST to /api/adviser/* (components/adviser/transport.ts);
-// the two cases run in parallel. Every run has an id: events and answers from an older run are dropped, and starting
-// again or leaving the page aborts every request. ?mock=1 and ?replay=arjun feed the same machine from recorded events.
+// → (rewriting → auditing) → planning → reviewing → done | human | error. Each stage is one POST to /api/adviser/*
+// (components/adviser/transport.ts); the two cases run in parallel. Once the audit passes, the planner drafts three plans
+// and Kappy reads them (Step 4, docs/agent/roadmap.md); a failure there leaves Steps 1 to 3 standing, with a retry. Every
+// run has an id: events and answers from an older run are dropped, and starting again or leaving the page aborts every
+// request. ?mock=1 and ?replay=arjun feed the same machine from recorded events; a recording made before Step 4 existed
+// borrows the mock's plans and reading, and the page says so.
 
-export type Phase = "idle" | "intake" | "asking" | "debating" | "judging" | "auditing" | "rewriting" | "done" | "human" | "error";
+export type Phase = "idle" | "intake" | "asking" | "debating" | "judging" | "auditing" | "rewriting" | "planning" | "reviewing" | "done" | "human" | "error";
 
 /** The stages a recording holds, by name: what /adviser/arjun-recorded.json must contain. */
-export type StageName = "intake" | "study" | "work" | "judge" | "audit" | "rewrite" | "reaudit";
+export type StageName = "intake" | "study" | "work" | "judge" | "audit" | "rewrite" | "reaudit" | "plans" | "review";
 export type Recording = {
   recordedAt: string;
   stages: Partial<Record<StageName, AdviserEvent[]>>;
@@ -28,6 +31,9 @@ export type FeedItem =
   | { kind: "tool"; key: string; event: Extract<AdviserEvent, { type: "tool" }> };
 
 export type Side = { feed: FeedItem[]; result: CaseResult | null; failed: boolean };
+
+/** One run's handle: its abort controller, whether it is still the current run, and a setState that only it may use. */
+type Run = { ctl: AbortController; live: () => boolean; set: (fn: (s: AdviserState) => AdviserState) => void };
 
 export type Mode = "live" | "mock" | "replay";
 
@@ -51,6 +57,15 @@ export type AdviserState = {
   checking: number;
   passed: boolean;
   error: ErrorCode | null;
+  /** Step 4: the three plans and Kappy's reading, each with its live feed; an error there keeps the rest of the run. */
+  plans: PlansResult | null;
+  plansFeed: FeedItem[];
+  plansError: ErrorCode | null;
+  /** The plans came from the mock (a recording made before Step 4 existed). */
+  plansDemo: boolean;
+  review: ReviewResult | null;
+  reviewFeed: FeedItem[];
+  reviewError: ErrorCode | null;
 };
 
 const EMPTY_SIDE: Side = { feed: [], result: null, failed: false };
@@ -70,6 +85,13 @@ const INITIAL: AdviserState = {
   checking: 0,
   passed: false,
   error: null,
+  plans: null,
+  plansFeed: [],
+  plansError: null,
+  plansDemo: false,
+  review: null,
+  reviewFeed: [],
+  reviewError: null,
 };
 
 /** What the server reads as "this side did not finish". */
@@ -106,7 +128,12 @@ const URL_OF: Record<StageName, string> = {
   rewrite: "/api/adviser/judge",
   audit: "/api/adviser/audit",
   reaudit: "/api/adviser/audit",
+  plans: "/api/adviser/plans",
+  review: "/api/adviser/review",
 };
+
+/** What Step 4 needs to run or run again: the run it belongs to, the judge's inputs, the passed decision, and the plans once drafted. */
+type Step4 = { run: Run; caseReq: CaseRequest; study: CaseResult; work: CaseResult; final: Final; plans: PlansResult | null };
 
 export type StartInput = { text: string; answers: PlanAnswers; locale: Locale; context: PageContext };
 
@@ -125,8 +152,11 @@ export function useAdviser(mode: Mode) {
     [],
   );
 
+  const step4 = useRef<Step4 | null>(null);
+  const busy4 = useRef(false);
+
   /** A fresh run: the old one's requests are aborted and its late events dropped. */
-  const begin = () => {
+  const begin = (): Run => {
     ctlRef.current?.abort();
     const ctl = new AbortController();
     ctlRef.current = ctl;
@@ -153,9 +183,82 @@ export function useAdviser(mode: Mode) {
         recordingRef.current = json;
         run.set((s) => ({ ...s, recordedAt: typeof json.recordedAt === "string" ? json.recordedAt : null }));
       }
+      // A recording made before Step 4 existed: the mock's plans and reading stand in, and the page says so.
+      if (!rec.stages[name] && (name === "plans" || name === "review")) {
+        run.set((s) => ({ ...s, plansDemo: true }));
+        return replayStage(MOCK_RUN.stages[name], guarded, run.ctl.signal);
+      }
       return replayStage(rec.stages[name], guarded, run.ctl.signal);
     },
     [mode],
+  );
+
+  /** Step 4a: the planner drafts three plans from the passed decision. Null when it failed (the page offers a retry). */
+  const plansStage = useCallback(
+    async (x: Step4): Promise<PlansResult | null> => {
+      const { run } = x;
+      run.set((s) => ({ ...s, phase: "planning", plans: null, plansFeed: [], plansError: null, review: null, reviewFeed: [], reviewError: null }));
+      const body: PlansRequest = { ...x.caseReq, study: x.study, work: x.work, final: x.final };
+      try {
+        const r = (await stage(
+          "plans",
+          body,
+          run,
+          (e) => run.set((s) => ({ ...s, plansFeed: addToFeed(s.plansFeed, e) })),
+          () => run.set((s) => ({ ...s, plansFeed: [] })),
+        )) as PlansResult;
+        if (!r || !Array.isArray(r.plans) || r.plans.length !== 3) throw new StageFailure("failed");
+        x.plans = r;
+        run.set((s) => ({ ...s, plans: r }));
+        return r;
+      } catch (e) {
+        if (run.ctl.signal.aborted) throw e;
+        run.set((s) => ({ ...s, phase: "done", plansError: e instanceof StageFailure ? e.code : "failed" }));
+        return null;
+      }
+    },
+    [stage],
+  );
+
+  /** Step 4b: Kappy reads the three plans. The run ends "done" either way; a failure shows a retry under the plans. */
+  const reviewStage = useCallback(
+    async (x: Step4, plans: PlansResult) => {
+      const { run } = x;
+      const input = inputRef.current;
+      if (!input) return;
+      run.set((s) => ({ ...s, phase: "reviewing", review: null, reviewFeed: [], reviewError: null }));
+      const body: ReviewRequest = { locale: input.locale, context: input.context, answers: input.answers, text: input.text, final: x.final, plans, calls: [...x.study.calls, ...x.work.calls] };
+      try {
+        const r = (await stage(
+          "review",
+          body,
+          run,
+          (e) => run.set((s) => ({ ...s, reviewFeed: addToFeed(s.reviewFeed, e) })),
+          () => run.set((s) => ({ ...s, reviewFeed: [] })),
+        )) as ReviewResult;
+        if (!r || !Array.isArray(r.paragraphs) || !r.paragraphs.length) throw new StageFailure("failed");
+        run.set((s) => ({ ...s, phase: "done", review: r }));
+      } catch (e) {
+        if (run.ctl.signal.aborted) throw e;
+        run.set((s) => ({ ...s, phase: "done", reviewError: e instanceof StageFailure ? e.code : "failed" }));
+      }
+    },
+    [stage],
+  );
+
+  /** Step 4, both halves; the inputs stay in step4 so either half can run again. */
+  const roadmap = useCallback(
+    async (x: Step4) => {
+      step4.current = x;
+      busy4.current = true;
+      try {
+        const plans = await plansStage(x);
+        if (plans && x.run.live()) await reviewStage(x, plans);
+      } finally {
+        busy4.current = false;
+      }
+    },
+    [plansStage, reviewStage],
   );
 
   /** Steps 2–4: the two cases in parallel, the judge, the audit, and at most one rewrite. */
@@ -227,8 +330,8 @@ export function useAdviser(mode: Mode) {
       run.set((s) => ({ ...s, final: first }));
       const a1 = await audit("audit", first);
       if (a1 && !a1.blocked) {
-        run.set((s) => ({ ...s, phase: "done", audit: a1, passed: true }));
-        return;
+        run.set((s) => ({ ...s, audit: a1, passed: true }));
+        return roadmap({ run, caseReq, study: judgeReq.study, work: judgeReq.work, final: first, plans: null });
       }
       // Blocked, or the audit itself failed: the judge rewrites once.
       const fix = a1 ? a1.verdicts.filter((v) => v.status !== "supported") : [];
@@ -242,10 +345,32 @@ export function useAdviser(mode: Mode) {
       }
       run.set((s) => ({ ...s, final: second }));
       const a2 = await audit("reaudit", second);
-      if (a2 && !a2.blocked) run.set((s) => ({ ...s, phase: "done", audit: a2, passed: true }));
-      else run.set((s) => ({ ...s, phase: "human", audit: a2 }));
+      if (a2 && !a2.blocked) {
+        run.set((s) => ({ ...s, audit: a2, passed: true }));
+        return roadmap({ run, caseReq, study: judgeReq.study, work: judgeReq.work, final: second, plans: null });
+      }
+      run.set((s) => ({ ...s, phase: "human", audit: a2 }));
     },
-    [stage],
+    [stage, roadmap],
+  );
+
+  /** Step 4 again, after a failure: the three plans from scratch, or only Kappy's reading of the plans already drafted. */
+  const retry = useCallback(
+    (which: "plans" | "review") => {
+      const x = step4.current;
+      if (!x || !x.run.live() || busy4.current) return;
+      if (which === "plans" || !x.plans) {
+        roadmap(x).catch(() => {});
+        return;
+      }
+      busy4.current = true;
+      reviewStage(x, x.plans)
+        .catch(() => {})
+        .finally(() => {
+          busy4.current = false;
+        });
+    },
+    [roadmap, reviewStage],
   );
 
   const pending = useRef<{ intake: IntakeResult; run: ReturnType<typeof begin> } | null>(null);
@@ -310,8 +435,10 @@ export function useAdviser(mode: Mode) {
     runRef.current++;
     ctlRef.current?.abort();
     pending.current = null;
+    step4.current = null;
+    busy4.current = false;
     setState({ ...INITIAL, mode });
   }, [mode]);
 
-  return { state, start, reply, reset };
+  return { state, start, reply, reset, retry };
 }

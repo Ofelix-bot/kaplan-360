@@ -1,15 +1,16 @@
-// Drives the adviser v2's four routes (app/api/adviser/*) on a running server the way the page does: intake → canned
+// Drives the adviser v2's six routes (app/api/adviser/*) on a running server the way the page does: intake → canned
 // replies to its questions → the study and work cases in parallel → judge → audit → one rewrite and re-audit when the
-// audit blocks. Checks: every request answers 200 and ends inside LIMIT_MS; the stream's last line is a result; the
+// audit blocks → the three plans → Kappy's reading. Checks: every request answers 200 and ends inside LIMIT_MS; the stream's last line is a result; the
 // Singapore citizen gets no ep_check at any stage; Arjun's work case calls ep_check; the work-first student's judge
 // doesn't lean "study" (or picks nothing); every line of every Final passes lib/parent-plan.ts lineOk's wording rules
 // and is in the page's language (the numbers are checked on the server, against tool results the page never sees);
-// the injection is blocked by the audit or never reaches the picks. Each call is real (Opus).
+// the injection is blocked by the audit or never reaches the picks; a passed run gets exactly three plans with dated
+// steps, and a reading whose every mark quotes its own paragraph. Each call is real (Opus).
 // Usage: npx tsx scripts/check-adviser.ts [base URL, default http://localhost:3200]
 
 import { inLanguage, lineOk } from "../lib/parent-plan";
 import type { AuditResponse, Final } from "../lib/agent/types";
-import type { AdviserEvent, CaseResult, IntakeResult } from "../lib/adviser/types";
+import type { AdviserEvent, CaseResult, IntakeResult, PlansResult, ReviewResult } from "../lib/adviser/types";
 
 const BASE = process.argv[2] ?? "http://localhost:3200";
 const LIMIT_MS = 55_000;
@@ -151,8 +152,52 @@ async function run(s: Sample) {
     check("re-audit", auditStage);
     audit = resultOf<AuditResponse>(auditStage);
   }
-  const all = [intakeStage, studyStage, workStage, judgeStage, auditStage];
-  if (s.name.startsWith("1")) Object.assign(recorded, { intake: intakeStage.events, study: studyStage.events, work: workStage.events, judge: judgeStage.events, audit: firstAudit.events, ...(rewriteStage ? { rewrite: rewriteStage.events, reaudit: auditStage.events } : {}), questionsAnswered: replies });
+  // Step 4, only after a passed audit: the three plans, then Kappy's reading of them.
+  let plansStage: Stage | null = null;
+  let reviewStage: Stage | null = null;
+  const wordingOf = (label: string, lines: string[]) => {
+    for (const l of lines.filter(Boolean)) {
+      if (!wordingOk(l)) fail(s.name, `${label} line fails the wording check: ${l}`);
+      if (!inLanguage(l, s.locale)) fail(s.name, `${label} line not in the page's language: ${l}`);
+    }
+  };
+  if (audit && !audit.blocked) {
+    plansStage = await stage("/api/adviser/plans", { ...caseBody, study, work, final });
+    check("plans", plansStage);
+    const plans = resultOf<PlansResult>(plansStage);
+    if (!plans || plans.plans.length !== 3) fail(s.name, "not three plans");
+    else {
+      log(s.name, `  plans ${plans.plans.map((p) => `${p.id} ${p.road} (${p.steps.length} steps)`).join(" · ")} · follows ${plans.follows ?? "none"}`);
+      for (const p of plans.plans) {
+        if (p.steps.length < 2) fail(s.name, `plan ${p.id} has ${p.steps.length} steps`);
+        wordingOf(`plan ${p.id}`, [p.title, p.bet, p.givesUp, p.worksIf, ...p.steps.map((x) => x.text)]);
+      }
+      reviewStage = await stage("/api/adviser/review", { ...base, final, plans, calls: [...study.calls, ...work.calls] });
+      check("review", reviewStage);
+      const review = resultOf<ReviewResult>(reviewStage);
+      if (!review || !review.paragraphs.length) fail(s.name, "no reading");
+      else {
+        const marks = review.paragraphs.reduce((n, p) => n + p.marks.length, 0);
+        log(s.name, `  reading ${review.paragraphs.length} paragraphs · ${marks} marks · ${review.takes.length} takes · ${review.model}`);
+        if (!marks) fail(s.name, "the reading marks nothing");
+        for (const p of review.paragraphs) for (const m of p.marks) if (!p.text.includes(m.quote)) fail(s.name, `a mark quotes words not in its paragraph: ${m.quote}`);
+        wordingOf("reading", [...review.paragraphs.flatMap((p) => [p.text, ...p.marks.map((m) => m.why)]), ...review.takes.map((x) => x.line), review.question]);
+      }
+    }
+  }
+  const all = [intakeStage, studyStage, workStage, judgeStage, auditStage, ...(plansStage ? [plansStage] : []), ...(reviewStage ? [reviewStage] : [])];
+  if (s.name.startsWith("1"))
+    Object.assign(recorded, {
+      intake: intakeStage.events,
+      study: studyStage.events,
+      work: workStage.events,
+      judge: judgeStage.events,
+      audit: firstAudit.events,
+      ...(rewriteStage ? { rewrite: rewriteStage.events, reaudit: auditStage.events } : {}),
+      ...(plansStage ? { plans: plansStage.events } : {}),
+      ...(reviewStage ? { review: reviewStage.events } : {}),
+      questionsAnswered: replies,
+    });
   log(s.name, `  lean ${final.decision.lean} · picks ${final.picks.map((p) => p.programmeId).join(", ") || "none"} · audit ${audit ? (audit.blocked ? "blocked" : `passed ${audit.verdicts.length}`) : "error"}${rewritten ? " (after a rewrite)" : ""}`);
 
   for (const l of finalLines(final)) {

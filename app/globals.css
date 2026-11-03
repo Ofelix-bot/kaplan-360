@@ -2526,62 +2526,10 @@ a:focus-visible .arrow-square, button:focus-visible .arrow-square { transform: t
 .la .thin { stroke-width: 1.4; }
 .la .no { stroke: none; }
 
-/* ---------- Profile button (components/profile/ProfileFab) ---------- */
-/* A round button on the right edge of the service pages, with the profile's completion as an amber ring;
-   it folds into a tab at the edge. Above the page, under the header (50), its menus (49) and dialogs (50). */
-.pfab {
-  position: fixed; z-index: 40;
-  right: max(16px, env(safe-area-inset-right));
-  bottom: calc(88px + env(safe-area-inset-bottom));
-}
-@media (min-width: 861px) { .pfab { bottom: calc(32px + env(safe-area-inset-bottom)); } }
-.pfab-link {
-  position: relative; display: grid; place-items: center; width: 56px; height: 56px; border-radius: 999px;
-  color: var(--on-brand, #fff); text-decoration: none;
-  filter: drop-shadow(0 6px 16px rgba(22, 19, 43, 0.22));
-  transition: transform 160ms var(--ease-out);
-}
-.pfab-link:hover { transform: translateY(-2px); }
-.pfab-link:active { transform: scale(0.96); }
-.pfab-link:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 3px; }
-.pfab-ring { position: absolute; inset: 0; width: 56px; height: 56px; transform: rotate(-90deg); }
-.pfab-ring circle { fill: none; stroke-width: 4; }
-.pfab-track { stroke: var(--land-line); }
-.pfab-done { stroke: var(--accent); stroke-linecap: round; transition: stroke-dashoffset 400ms var(--ease-out); }
-.pfab-face {
-  display: grid; place-items: center; width: 44px; height: 44px; border-radius: 999px;
-  background: var(--brand); color: #fff;
-}
-.pfab-hide {
-  position: absolute; top: -6px; left: -6px; display: grid; place-items: center; width: 24px; height: 24px; padding: 0;
-  border: 1px solid var(--land-line); border-radius: 999px; background: var(--land-card); color: var(--text); cursor: pointer;
-}
-/* A 24px target; the hit area reaches 32px. */
-.pfab-hide::after { content: ""; position: absolute; inset: -4px; border-radius: inherit; }
-.pfab-hide:hover { border-color: var(--brand-ink); color: var(--brand-ink); }
-.pfab-tab {
-  position: fixed; z-index: 40; right: 0;
-  bottom: calc(96px + env(safe-area-inset-bottom));
-  display: grid; place-items: center; width: 32px; height: 44px; padding: 0 0 0 2px;
-  border: 1px solid var(--land-line); border-right: 0; border-radius: 12px 0 0 12px;
-  background: var(--land-card); color: var(--brand-ink); cursor: pointer;
-  box-shadow: 0 4px 12px rgba(22, 19, 43, 0.14);
-  transition: width 160ms var(--ease-out);
-}
-@media (min-width: 861px) { .pfab-tab { bottom: calc(38px + env(safe-area-inset-bottom)); } }
-.pfab-tab:hover { width: 38px; }
-.pfab-tab:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
-@media (prefers-reduced-motion: reduce) {
-  .pfab-link, .pfab-done, .pfab-tab { transition: none; }
-  .pfab-link:hover, .pfab-link:active { transform: none; }
-}
-@media print { .pfab, .pfab-tab { display: none; } }
-
 /* The AI adviser docked on the right (components/agent/AdviserDock.tsx sets data-adviser-dock and --dock-w on <html>):
    the page and the footer make room for it, so it sits beside the content, not over it. */
 @media (min-width: 1024px) {
   html[data-adviser-dock] #main, html[data-adviser-dock] .site-footer { margin-right: var(--dock-w); }
-  html[data-adviser-dock] .pfab { right: calc(var(--dock-w) + 16px); }
 }
 /* A page's own button that opens the adviser (e.g. under the /outcomes chart). */
 .adviser-prompt { flex-wrap: wrap; justify-content: center; margin: 24px auto 0; }

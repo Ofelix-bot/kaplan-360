@@ -20,7 +20,8 @@ export type LoopInput<T> = {
   apiKey: string;
   system: string;
   tools: Anthropic.Tool[];
-  submit: { tool: Anthropic.Tool; check: (input: unknown, known: Known) => T | null };
+  /** hint: what a passing input needs, told to the model when its submit fails the check. */
+  submit: { tool: Anthropic.Tool; check: (input: unknown, known: Known) => T | null; hint?: string };
   firstMessage: string;
   effort: Effort;
   deadlineMs: number;
@@ -74,7 +75,7 @@ export async function runLoop<T>(x: LoopInput<T>): Promise<LoopOutput<T>> {
 
     const results: Anthropic.ContentBlockParam[] = await Promise.all(
       uses.map(async (u): Promise<Anthropic.ToolResultBlockParam> => {
-        if (u.name === name) return { type: "tool_result", tool_use_id: u.id, content: "That input didn't pass the check: every field is required. Call it again.", is_error: true };
+        if (u.name === name) return { type: "tool_result", tool_use_id: u.id, content: `That input didn't pass the check: ${x.submit.hint ?? "every field is required"}. Call it again.`, is_error: true };
         if (!isRead(u.name)) return { type: "tool_result", tool_use_id: u.id, content: `No tool named ${u.name}.`, is_error: true };
         const tool = u.name;
         const s = Date.now();

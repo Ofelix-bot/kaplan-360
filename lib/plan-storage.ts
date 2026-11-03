@@ -97,7 +97,12 @@ export type PlanAnswers = {
   skillGaps: SkillGap[];
   /** The Programme finder's six questions (/results, lib/finder/answers.ts); null until it is first answered. */
   finder: FinderAnswers | null;
+  /** The plan the student chose on the AI adviser's roadmap step (components/adviser/roadmap.tsx); /plan shows its steps as the student's own rows. */
+  roadmap: SavedRoadmap | null;
 };
+
+/** One of the adviser's three plans, as chosen: its dated steps (when: "YYYY-MM") and when it was chosen (ISO date). */
+export type SavedRoadmap = { plan: "A" | "B" | "C"; title: string; steps: { when: string; lane: "education" | "career"; text: string }[]; savedAt: string };
 
 /**
  * What the Programme finder asks beyond the answers above: the background chip, the degree's kind, the GPA as typed
@@ -241,6 +246,7 @@ export const EMPTY_ANSWERS: PlanAnswers = {
   experience: [],
   skillGaps: [],
   finder: null,
+  roadmap: null,
 };
 
 const KEY = "kaplan360:plan";
@@ -314,6 +320,8 @@ export function parsePlan(snapshot: string | null): StoredPlan | null {
     answers.experience = withCountedEntries(answers);
     // Answers saved before the hot roles' gaps could be added: none.
     answers.skillGaps = Array.isArray(answers.skillGaps) ? answers.skillGaps.filter(isSkillGap) : [];
+    // Answers saved before the adviser's roadmap step: no chosen plan.
+    answers.roadmap = savedRoadmap(answers.roadmap);
     // Answers saved before /profile asked the four-way status, or whose status another page changed since.
     answers.sgStatus = sgStatusOf(answers.status, answers.sgStatus);
     return { answers, remember: kind === "local", savedAt: data.savedAt, ...(kind === "example" ? { example: data.id } : {}) };
@@ -352,6 +360,22 @@ function isSkillGap(g: unknown): g is SkillGap {
     (x.module === null || typeof x.module === "string") &&
     typeof x.own === "boolean"
   );
+}
+
+/** A chosen plan as saved, or null for anything else: a plan id, a title, 1 to 6 dated steps with a lane and a line. */
+function savedRoadmap(v: unknown): SavedRoadmap | null {
+  if (!v || typeof v !== "object") return null;
+  const x = v as Record<string, unknown>;
+  const plan = x.plan === "A" || x.plan === "B" || x.plan === "C" ? x.plan : null;
+  const steps = Array.isArray(x.steps)
+    ? x.steps
+        .filter((s): s is Record<string, unknown> => !!s && typeof s === "object")
+        .filter((s) => typeof s.when === "string" && /^\d{4}-\d{2}$/.test(s.when) && (s.lane === "education" || s.lane === "career") && typeof s.text === "string" && !!s.text.trim())
+        .slice(0, 6)
+        .map((s) => ({ when: s.when as string, lane: s.lane as "education" | "career", text: (s.text as string).slice(0, 240) }))
+    : [];
+  if (!plan || typeof x.title !== "string" || !x.title.trim() || !steps.length) return null;
+  return { plan, title: x.title.slice(0, 90), steps, savedAt: typeof x.savedAt === "string" ? x.savedAt.slice(0, 10) : "" };
 }
 
 function cleanEntry(e: unknown): ExperienceEntry | null {

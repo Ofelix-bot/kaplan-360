@@ -1,7 +1,7 @@
 import "server-only";
 import type { Claim, SourceRef, Verdict } from "@/lib/agent/types";
 import { isRead } from "./checks";
-import type { CaseResult, IntakeResult, ToolCallRecord } from "./types";
+import { PLAN_IDS, type CaseResult, type IntakeResult, type PlansResult, type ToolCallRecord } from "./types";
 
 // The parts of an adviser v2 request that came back from the browser, read with only the shapes they may have. They are
 // data: the judge re-runs the cases' tool calls on the server (lib/adviser/checks.ts replay) and every line it writes
@@ -38,7 +38,7 @@ export function repliesOf(v: unknown): { id: string; answer: string }[] {
   return arr(v, 2).map((r) => ({ id: str(obj(r).id, 40), answer: str(obj(r).answer, 300) })).filter((r) => r.answer);
 }
 
-function callsOf(v: unknown): ToolCallRecord[] {
+export function callsOf(v: unknown): ToolCallRecord[] {
   return arr(v, 16).flatMap((c): ToolCallRecord[] => {
     const y = obj(c);
     return typeof y.tool === "string" && isRead(y.tool) ? [{ tool: y.tool, input: obj(y.input) }] : [];
@@ -72,4 +72,27 @@ export function verdictsOf(v: unknown): Verdict[] {
     const status = statuses.find((s) => s === y.status);
     return status ? [{ claim: str(y.claim), status, quote: typeof y.quote === "string" ? y.quote.slice(0, 600) : null, url: typeof y.url === "string" ? y.url.slice(0, 400) : null, note: str(y.note) }] : [];
   });
+}
+
+/** The three plans as the browser holds them (Kappy's reading rests on the server's re-run tool results, not on these lines). */
+export function plansOf(v: unknown): PlansResult | null {
+  const o = obj(v);
+  const plans = arr(o.plans, 3).flatMap((p): PlansResult["plans"] => {
+    const y = obj(p);
+    const id = PLAN_IDS.find((k) => k === y.id);
+    const road = (["study", "work", "both"] as const).find((r) => r === y.road);
+    const steps = arr(y.steps, 6).flatMap((s): PlansResult["plans"][number]["steps"] => {
+      const z = obj(s);
+      const lane = (["education", "career"] as const).find((l) => l === z.lane) ?? null;
+      const when = str(z.when, 7);
+      const text = str(z.text);
+      return lane && /^\d{4}-\d{2}$/.test(when) && text ? [{ when, lane, text }] : [];
+    });
+    const title = str(y.title, 90);
+    if (!id || !road || !title || !steps.length) return [];
+    const ids = (w: unknown) => arr(w, 2).map((x) => str(x, 400)).filter(Boolean);
+    return [{ id, title, road, bet: str(y.bet), steps, givesUp: str(y.givesUp), worksIf: str(y.worksIf), picks: ids(y.picks), roles: ids(y.roles) }];
+  });
+  if (plans.length !== 3) return null;
+  return { plans, follows: PLAN_IDS.find((k) => k === o.follows) ?? null };
 }

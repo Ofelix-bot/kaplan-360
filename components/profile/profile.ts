@@ -1,11 +1,13 @@
 import { splitLocale } from "@/lib/i18n/config";
-import { experienceCounts, plannedDegree, type ExperienceEntry, type PlanAnswers } from "@/lib/plan-storage";
+import { experienceCounts, type ExperienceEntry, type PlanAnswers } from "@/lib/plan-storage";
 
-// /profile's shared parts: which groups are filled (the floating button's ring), the round trip from a service
-// page (the address to go back to and its scroll position, in sessionStorage), and the answers patch for the
-// internship and work entries (the counts Where you stand and /careers read follow them).
+// /profile's shared parts: the round trip from a service page (the address to go back to and its scroll position,
+// in sessionStorage; components/profile/BackToService and EditProfileLink), and the answers patch for the internship
+// and work entries (the counts Where you stand and /careers read follow them). The floating profile button that
+// showed the groups' completion on the service pages was removed on 2026-11-03: Kappy (components/kappy) holds the
+// corner now.
 
-/** The five service pages the floating button shows on (the Services menu, in its order, without /profile itself). */
+/** The five service pages "Back to …" returns to (the Services menu, in its order, without /profile itself). */
 export const SERVICE_PAGES: { href: string; label: string }[] = [
   { href: "/careers", label: "Compass" },
   { href: "/results", label: "Programme finder" },
@@ -20,21 +22,6 @@ export function serviceOf(pathname: string): { href: string; label: string } | n
   // "/en/…" is the English route behind the rewrite; the browser shows it without the prefix.
   const bare = path.replace(/^\/en(?=\/|$)/, "") || "/";
   return SERVICE_PAGES.find((s) => bare === s.href || bare.startsWith(`${s.href}/`)) ?? null;
-}
-
-// ── The four groups ───────────────────────────────────────────────────────────────────────────────────────
-
-export type ProfileGroup = "degree" | "english" | "experience" | "certificates";
-export const PROFILE_GROUPS: readonly ProfileGroup[] = ["degree", "english", "experience", "certificates"];
-
-/** Whether each group has an answer: a degree (or another school's awarding university), an English test (or "not yet"), an entry or count, a certificate. */
-export function filledGroups(a: PlanAnswers): Record<ProfileGroup, boolean> {
-  return {
-    degree: plannedDegree(a) !== null || (!!a.school && a.school !== "kaplan" && !!a.schoolAwarder),
-    english: a.englishTest !== null,
-    experience: a.experience.length > 0 || a.research !== null || a.competitions !== null || a.projects !== null,
-    certificates: a.certificates.length > 0,
-  };
 }
 
 /** The entries as answers: the entries, and the counts they set. A count nobody has answered stays unanswered while no entry sets it. */

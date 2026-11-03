@@ -68,8 +68,9 @@ const used = new Set();
 // The new /careers routes put the workspace's .ui root in app/[lang]/careers (build spec §8), so they count as the
 // workspace's. The old [slug] route still uses the site's classes and stays counted. /plan's frame (PlanTabs) and
 // /results' page wrappers (the flow's step bar and next button) sit on that .ui root too (2026-10-30), and so does the
-// Programme finder (components/finder, 2026-11-01), the Core Algorithm page (components/algorithm, 2026-11-02) For parents (components/parents, 2026-11-02) and the AI adviser (components/agent, 2026-11-02).
-for (const f of files.filter((p) => !/components[\\/](ui|workspace|landing|shared|stand|next-steps|plan[\\/]road|careers|profile|finder|parents|algorithm|agent)[\\/]|components[\\/]plan[\\/]PlanTabs\.tsx$|app[\\/]\[lang\][\\/]careers[\\/](?:page\.tsx$|industries[\\/]|roles[\\/])|app[\\/]\[lang\][\\/]results[\\/]page\.tsx$/.test(p))) {
+// Programme finder (components/finder, 2026-11-01), the Core Algorithm page (components/algorithm, 2026-11-02) For parents (components/parents, 2026-11-02), the AI adviser (components/agent, 2026-11-02; its v2 page components/adviser,
+// 2026-11-03) and Kappy (components/kappy, CSS modules on the same root).
+for (const f of files.filter((p) => !/components[\\/](ui|workspace|landing|shared|stand|next-steps|plan[\\/]road|careers|profile|finder|parents|algorithm|agent|adviser|kappy)[\\/]|components[\\/]plan[\\/]PlanTabs\.tsx$|app[\\/]\[lang\][\\/]careers[\\/](?:page\.tsx$|industries[\\/]|roles[\\/])|app[\\/]\[lang\][\\/]results[\\/]page\.tsx$/.test(p))) {
   for (const m of read(f).matchAll(/className=(?:"([^"]*)"|\{`([^`]*)`\})/g)) for (const c of (m[1] ?? m[2]).split(/\s+/)) if (/^[\w-]+$/.test(c)) used.add(c);
 }
 

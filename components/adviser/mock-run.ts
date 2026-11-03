@@ -1,10 +1,11 @@
 import type { AuditResponse, Final } from "@/lib/agent/types";
-import type { AdviserEvent, CaseResult, IntakeResult } from "@/lib/adviser/types";
+import type { AdviserEvent, CaseResult, IntakeResult, PlansResult, ReviewResult } from "@/lib/adviser/types";
 import type { Recording } from "./use-adviser";
 
 // ?mock=1 on /adviser: a hand-written run for Arjun (an Indian student on a Student's Pass, Murdoch business top-up at
 // Kaplan, fintech in Singapore, 400,000 CNY in total) so the four steps can be shown without the model. Figures here
-// are illustrative only; the page never shows this outside ?mock=1.
+// are illustrative only; the page never shows this outside ?mock=1, except that a ?replay=arjun recording made before
+// Step 4 existed borrows the plans and the reading below (and says so).
 
 const UCD = "university-college-dublin-master-of-science-global-finance-kaplan-singapore";
 const MURDOCH_MBA = "murdoch-university-master-of-business-administration-kaplan-singapore";
@@ -94,6 +95,88 @@ const audit: AuditResponse = {
     .map((c) => ({ claim: c.text, status: "supported" as const, quote: null, url: null, note: "" })),
 };
 
+const plans: PlansResult = {
+  follows: "A",
+  plans: [
+    {
+      id: "A",
+      title: "Apply for fintech roles now, hold a January master’s offer as the fallback",
+      road: "both",
+      bet: "A fintech offer at or above the Employment Pass salary arrives by March 2027.",
+      steps: [
+        { when: "2026-11", lane: "education", text: "Apply to UCD MSc Global Finance at Kaplan for the January intake" },
+        { when: "2026-12", lane: "career", text: "Apply to five KYC and onboarding analyst roles at Singapore banks and fintechs" },
+        { when: "2027-01", lane: "career", text: "Finish a short AML/KYC course to close the compliance gap" },
+        { when: "2027-03", lane: "education", text: "Decide: accept the job and defer the master’s, or start the master’s" },
+      ],
+      givesUp: "Two months of the final term go to applications instead of study.",
+      worksIf: "Your parents accept work first when the offer is in finance.",
+      picks: [UCD],
+      roles: [ROLE],
+    },
+    {
+      id: "B",
+      title: "One-year finance master’s at Kaplan from January 2027, job search in the final term",
+      road: "study",
+      bet: "A master’s plus the compliance course lifts the first offer to the Employment Pass salary.",
+      steps: [
+        { when: "2026-11", lane: "education", text: "Apply to UCD MSc Global Finance and the Murdoch MBA at Kaplan" },
+        { when: "2027-01", lane: "education", text: "Start the master’s and keep the Student’s Pass" },
+        { when: "2027-06", lane: "career", text: "Take the AML/KYC short course alongside the course" },
+        { when: "2027-09", lane: "career", text: "Apply for KYC analyst roles three months before the course ends" },
+        { when: "2028-01", lane: "career", text: "Start work on an Employment Pass application" },
+      ],
+      givesUp: "Most of the 400,000 CNY budget, and a year of pay.",
+      worksIf: "The budget covers the tuition with room to spare.",
+      picks: [UCD, MURDOCH_MBA],
+      roles: [ROLE],
+    },
+    {
+      id: "C",
+      title: "Work first for two years, a part-time master’s later",
+      road: "work",
+      bet: "Two years of Singapore work experience count for more than a second business degree.",
+      steps: [
+        { when: "2026-12", lane: "career", text: "Apply to KYC and onboarding roles at Singapore banks and fintechs" },
+        { when: "2027-01", lane: "career", text: "Finish a short AML/KYC course" },
+        { when: "2027-02", lane: "career", text: "Accept an offer only at or above the Employment Pass salary" },
+        { when: "2028-11", lane: "education", text: "Apply for a part-time accounting or finance master’s for 2029" },
+      ],
+      givesUp: "The master’s waits two years, and your parents’ plan with it.",
+      worksIf: "An offer arrives before the Student’s Pass ends.",
+      picks: [MONASH],
+      roles: [ROLE],
+    },
+  ],
+};
+
+const review: ReviewResult = {
+  model: "demo (no model called)",
+  paragraphs: [
+    {
+      text: "All three plans end in the same place, a fintech job in Singapore; they differ in when the Employment Pass question gets answered. Plan A asks it first, by March 2027, and keeps the master’s as the fallback. Plans B and C answer it a year or two later.",
+      marks: [{ quote: "when the Employment Pass question gets answered", kind: "key", why: "The pass, not the degree, decides whether you can stay and work." }],
+    },
+    {
+      text: "Plan B spends most of the 400,000 CNY budget before the first salary, so it rests on the budget covering the tuition with room to spare. Plan C keeps the budget, but only works if an offer arrives before the Student’s Pass ends.",
+      marks: [
+        { quote: "most of the 400,000 CNY budget", kind: "check", why: "Confirm the tuition on the programme page before you count on this figure." },
+        { quote: "before the Student’s Pass ends", kind: "risk", why: "Without an offer in time you would have to leave Singapore." },
+      ],
+    },
+    {
+      text: "The skill gap is the same in all three: regulatory compliance and AML screening tools. A short AML/KYC course closes it whichever plan you pick, so it decides nothing between them.",
+      marks: [{ quote: "it decides nothing between them", kind: "key", why: "Don’t let the gap steer the choice; every plan closes it." }],
+    },
+  ],
+  takes: [
+    { plan: "A", line: "Best at keeping both doors open; the price is two busy months of applications on top of your final term." },
+    { plan: "B", line: "Best at the credential; the price is the budget and a year without pay." },
+    { plan: "C", line: "Best at experience and money; the price is the pass deadline doing the deciding." },
+  ],
+  question: "If a finance offer at the Employment Pass salary came in February, would your parents accept work first?",
+};
+
 const think = (agent: AdviserEvent["agent"], ...parts: string[]): AdviserEvent[] => parts.map((text) => ({ type: "thinking", agent, text }));
 
 export const MOCK_RUN: Recording = {
@@ -124,6 +207,16 @@ export const MOCK_RUN: Recording = {
       { type: "result", agent: "judge", data: final },
     ],
     audit: [{ type: "result", agent: "audit", data: audit }],
+    plans: [
+      ...think("planner", "Three real alternatives: ", "the judge’s sequence, a master’s first, ", "and work first with a part-time master’s later."),
+      { type: "tool", agent: "planner", id: "p1", tool: "search_programmes", lane: "education", summary: "Checked the January intake for the finance master’s at Kaplan", sources: 2, ms: 380, status: "done" },
+      ...think("planner", "Dating the steps from December 2026, ", "the graduation month."),
+      { type: "result", agent: "planner", data: plans },
+    ],
+    review: [
+      ...think("kappy", "Where do the three really differ? ", "The pass deadline, the budget, and when the first salary comes. ", "The skill gap is common to all three, so it shouldn’t steer the choice."),
+      { type: "result", agent: "kappy", data: review },
+    ],
   },
   questionsAnswered: [{ id: "q1", answer: "Yes, if the job is in finance" }],
 };

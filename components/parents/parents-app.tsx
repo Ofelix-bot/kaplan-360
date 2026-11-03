@@ -28,6 +28,9 @@ import type { IntakeWindow, PlanAnswers } from "@/lib/plan-storage";
 import { useResultsData } from "@/lib/workspace/data";
 import { usePlanStore } from "@/lib/workspace/plan-store";
 import { FamilyPlanView, type ParentsFacts } from "./family-plan";
+import { Kappy, KappyBubble } from "@/components/kappy/Kappy";
+import { KappyMic } from "@/components/kappy/KappyMic";
+import type { KappyEngine } from "@/components/kappy/engine";
 
 // /parents: a parent (or the student) describes the child in their own words. Claude reads it into the planner's
 // answers and the family's needs (app/api/parents, step "read"); the answers go into this browser's plan, as the
@@ -251,6 +254,30 @@ function Steps({ stage, counts, model }: { stage: Stage; counts: { total: number
   );
 }
 
+/**
+ * Kappy greets the parent, lists what parents usually ask (the page invites questions, it never asks about the child),
+ * and listens: its microphone (KappyMic.tsx) puts what is said into the question box.
+ */
+function ParentsGuide({ value, onText, disabled }: { value: string; onText: (text: string) => void; disabled: boolean }) {
+  const t = useT();
+  const kappy = useRef<KappyEngine | null>(null);
+  return (
+    <div className="flex items-end gap-3 [--kappy-scale:1] sm:[--kappy-scale:2] print:hidden">
+      <Kappy ref={kappy} label={t("Kappy, your guide on this page")} />
+      <KappyBubble tail="left" className="mb-4 text-[15px] leading-relaxed sm:mb-8">
+        <p className="font-semibold">{t("Hello, I’m Kappy. No forms here: just tell me about your child, the way you would tell a friend.")}</p>
+        <ol className="mt-2 list-decimal space-y-1 pl-5">
+          <li>{t("What your child studies now, and roughly how their grades look")}</li>
+          <li>{t("The budget your family has in mind, and where you would like them to study")}</li>
+          <li>{t("What worries you most, for example finding a job afterwards")}</li>
+        </ol>
+        <p className="mt-2 text-muted-foreground">{t("Not sure what to write? Press “Try an example” first and see how it works.")}</p>
+        {!disabled && <KappyMic kappys={() => [kappy.current]} value={value} onText={onText} maxLength={MAX_FAMILY_TEXT} className="mt-2" />}
+      </KappyBubble>
+    </div>
+  );
+}
+
 export function ParentsApp({ props, sources, facts }: { props: WorkspaceProps; sources: PlanSources; facts: ParentsFacts }) {
   const t = useT();
   const locale = useLocale();
@@ -378,6 +405,8 @@ export function ParentsApp({ props, sources, facts }: { props: WorkspaceProps; s
       <div className="print:hidden">
         <PageHead eyebrow={t("For parents")} title={t("Tell us about your child")} lede={t("In your own words, in any language. Three programmes that fit, what they cost, what graduates earn, recognition in China and the months ahead.")} />
       </div>
+
+      <ParentsGuide value={text} onText={setText} disabled={busy} />
 
       <div className="flex flex-col gap-4 rounded-2xl border border-border bg-card p-6 print:hidden">
         <div className="flex flex-wrap items-center justify-between gap-2">

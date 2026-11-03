@@ -1,30 +1,36 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { useT } from "@/components/i18n/I18nProvider";
-import Link from "@/components/i18n/Link";
+import { useRouter } from "next/navigation";
+import { useLocalize, useT } from "@/components/i18n/I18nProvider";
+import { useOpenAdviser } from "@/components/agent/AdviserDock";
 import type { KappyEngine } from "./engine";
 import { Kappy, KappyBubble } from "./Kappy";
+import { KappyMic } from "./KappyMic";
 import css from "./kappy.module.css";
 
 // Kappy in the bottom-left corner of every page (mounted in app/[lang]/layout.tsx): the site's one floating button
-// since the profile button went (2026-11-03). A click: it waves, asks its question and offers the way in; a second
-// click, or 9 s, puts the bubble away. It reads no route (the layout must stay prerendered), so the link carries no
-// `from`. On /adviser itself the page marks [data-kappy-stage] and kappy.module.css hides the dock: Kappy is on stage there.
-
-const ADVISER_HREF = "/adviser";
+// since the profile button went (2026-11-03). A click: it waves, asks its question and offers the way in, which opens
+// the adviser the way the header's button does (the side panel on a wide screen, else /adviser); a second click, or
+// 9 s, puts the bubble away. It hides on /adviser, which shows its own Kappy. Its microphone (KappyMic.tsx) takes a spoken
+// question and opens /adviser?q= with it in the box; the bubble stays open while it listens.
 
 export function KappyDock() {
   const t = useT();
   const kappy = useRef<KappyEngine | null>(null);
   const bubble = useRef<HTMLDivElement>(null);
   const [open, setOpen] = useState(false);
+  const [talking, setTalking] = useState(false);
+  const [heard, setHeard] = useState("");
+  const adviser = useOpenAdviser();
+  const router = useRouter();
+  const localize = useLocalize();
 
   useEffect(() => {
-    if (!open) return;
+    if (!open || talking) return;
     const id = window.setTimeout(() => setOpen(false), 9000);
     return () => window.clearTimeout(id);
-  }, [open]);
+  }, [open, talking]);
   useEffect(() => {
     if (!open) kappy.current?.hush();
   }, [open]);
@@ -47,7 +53,27 @@ export function KappyDock() {
         {open && (
           <>
             <br />
-            <Link href={ADVISER_HREF}>{t("Ask the AI adviser")} →</Link>
+            <button
+              type="button"
+              onClick={() => {
+                setOpen(false);
+                adviser.toggle();
+              }}
+            >
+              {t("Open the AI adviser")} →
+            </button>
+            <br />
+            <KappyMic
+              kappys={() => [kappy.current]}
+              onText={setHeard}
+              onListening={setTalking}
+              onDone={(q) => {
+                setOpen(false);
+                setHeard("");
+                router.push(localize(`/adviser?q=${encodeURIComponent(q)}`));
+              }}
+            />
+            {heard && <span className={css.heard}>“{heard}”</span>}
           </>
         )}
       </KappyBubble>

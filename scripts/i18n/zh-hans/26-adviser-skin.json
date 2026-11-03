@@ -1,0 +1,15 @@
+{
+  "Profile": "情况",
+  "Analysis": "分析",
+  "Decide": "决定",
+  "Roadmap": "路线图",
+  "Progress": "进度",
+  "Step {n}": "第 {n} 步",
+  "Waiting for your profile": "等你说完情况",
+  "Waiting for both advisers": "等两位顾问说完",
+  "Shown after the check passes": "核对通过后显示",
+  "{n} sources": "{n} 个来源",
+  "Both checks failed, so this advice isn’t shown": "两次核对都没通过，这份建议不显示",
+  "1 source": "1 个来源",
+  "Talk to Kappy": "跟 Kappy 说"
+}

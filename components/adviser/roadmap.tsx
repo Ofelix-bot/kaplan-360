@@ -1,11 +1,10 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { ArrowRightIcon, BookmarkPlusIcon, CheckIcon, HandIcon, RotateCcwIcon, Undo2Icon } from "lucide-react";
+import { ArrowRightIcon, BookmarkPlusIcon, CheckIcon, RotateCcwIcon, Undo2Icon } from "lucide-react";
 import Link from "@/components/i18n/Link";
 import { useIntlLocale, useT } from "@/components/i18n/I18nProvider";
 import { Button } from "@/components/ui/button";
-import { Spinner } from "@/components/workspace/spinner";
 import type { Final } from "@/lib/agent/types";
 import type { PlanId, PlansResult, ReviewResult } from "@/lib/adviser/types";
 import { monthYear } from "@/lib/i18n/format";
@@ -13,9 +12,9 @@ import type { SavedRoadmap, SkillGap } from "@/lib/plan-storage";
 import { useResultsData } from "@/lib/workspace/data";
 import { usePlanStore } from "@/lib/workspace/plan-store";
 import { cn } from "cn";
-import { Feed } from "./feed";
+import s from "./adviser.module.css";
+import { Blink, Feed } from "./feed";
 import { KappyRead } from "./kappy-read";
-import { KappyStage } from "./kappy-stage";
 import { PlanCards } from "./plan-cards";
 import type { ErrorCode } from "./transport";
 import type { FeedItem, Mode, Phase } from "./use-adviser";
@@ -24,7 +23,8 @@ import type { FeedItem, Mode, Phase } from "./use-adviser";
 // plans the student chooses between (nothing is chosen for them), Kappy reads the three and marks what it thinks matters,
 // and "Save plan X to my plan" puts the chosen plan's dated steps, programmes and the skill gaps into the plan, with a
 // 10 s undo. The page says throughout that a large language model is drafting, reading and highlighting, and shows its
-// reasoning summary as it goes. If the planner fails, the judge's own dated steps stand in, with a retry.
+// reasoning summary as it goes. If the planner fails, the judge's own dated steps stand in, with a retry. Kappy itself
+// is the page's (adviser-kappy.tsx): onChoose and onSaved tell it when to wave and when to celebrate.
 
 /** The skill-gap id /careers uses (components/careers/RoleGapPanel.tsx), so a gap saved twice stays one row. */
 const gapId = (roleId: string, skill: string) => `${roleId}-${skill.toLowerCase().normalize("NFKD").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`;
@@ -54,9 +54,11 @@ type Props = {
   reviewFeed: FeedItem[];
   reviewError: ErrorCode | null;
   onRetry: (which: "plans" | "review") => void;
+  onChoose?: (id: PlanId) => void;
+  onSaved?: () => void;
 };
 
-export function Roadmap({ final, phase, mode, plans, plansFeed, plansError, plansDemo, review, reviewFeed, reviewError, onRetry }: Props) {
+export function Roadmap({ final, phase, mode, plans, plansFeed, plansError, plansDemo, review, reviewFeed, reviewError, onRetry, onChoose, onSaved }: Props) {
   const t = useT();
   const locale = useIntlLocale();
   const name = useProgrammeName();
@@ -110,6 +112,7 @@ export function Roadmap({ final, phase, mode, plans, plansFeed, plansError, plan
     });
     setSaved(before);
     setUndone(false);
+    onSaved?.();
     if (timer.current) clearTimeout(timer.current);
     timer.current = setTimeout(() => setSaved(null), 10_000);
   };
@@ -123,41 +126,49 @@ export function Roadmap({ final, phase, mode, plans, plansFeed, plansError, plan
   };
 
   return (
-    <div className="space-y-5" data-kappy-stage>
-      {/* The stage: Kappy and its line, "you decide" and what is doing the drafting. */}
-      <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
-        <KappyStage phase={phase} plans={plans} review={review} plansError={plansError} reviewError={reviewError} tools={plansFeed} chosen={chosen} saved={!!saved} />
-        <div className="flex max-w-md flex-col items-start gap-1.5 sm:items-end sm:text-right">
-          <span className="inline-flex items-center gap-1.5 rounded-full border-2 border-amber-500 bg-amber-500/10 px-3 py-1 text-xs font-bold tracking-wide text-amber-900 uppercase dark:text-amber-200">
-            <HandIcon className="size-3.5" aria-hidden />
-            {t("Human must decide")}
-          </span>
-          <p className="text-xs leading-snug text-muted-foreground">
+    <div className="grid gap-5">
+      {/* "You decide", and what is doing the drafting. */}
+      <div className="grid justify-items-start gap-2">
+        <span className={s.decide}>
+          <b>{t("Human must decide")}</b>
+        </span>
+        <p className="max-w-[70ch] text-xs leading-snug text-muted-foreground">
             {mode === "mock" || plansDemo
               ? t("Three plans from demo data, and a demo reading: no model is called for this step here.")
               : t("A large language model drafts three plans from the decision above, each with a different bet. Kappy, the same model, reads them and highlights what it thinks matters. Neither picks for you: a plan is saved only when you choose it.")}
-          </p>
-        </div>
+        </p>
       </div>
 
       {/* The planner at work: its reasoning summary and lookups, live. */}
       {planning && (
-        <div className="rounded-lg border border-dashed bg-muted/40 p-3" role="status">
-          <p className="mb-1.5 flex items-center gap-1.5 text-xs font-medium text-muted-foreground">
-            <Spinner className="size-3.5" />
+        <div className={s.working} role="status">
+          <p>
+            <Blink />
             {t("The model is drafting three plans: its reasoning summary and lookups, as they happen")}
           </p>
           {plansFeed.length ? <Feed items={plansFeed} /> : <p className="text-xs text-muted-foreground italic">{t("Waiting for the first words…")}</p>}
         </div>
       )}
 
-      {plans && <PlanCards plans={plans} review={review} chosen={chosen} onChoose={setChosen} programmeName={name} disabled={!!saved} />}
+      {plans && (
+        <PlanCards
+          plans={plans}
+          review={review}
+          chosen={chosen}
+          onChoose={(id) => {
+            setChosen(id);
+            onChoose?.(id);
+          }}
+          programmeName={name}
+          disabled={!!saved}
+        />
+      )}
 
       {/* The planner failed: the judge's own steps stand in, with a retry. */}
       {!plans && plansError && !planning && (
         <div className="space-y-3">
-          <div className="flex flex-wrap items-center gap-2 rounded-lg border border-destructive/40 bg-destructive/5 p-3 text-sm" role="alert">
-            <span className="text-destructive">{t("The three plans didn’t come through this time.")}</span>
+          <div className={s.alert} role="alert">
+            <span>{t("The three plans didn’t come through this time.")}</span>
             {mode !== "replay" && (
               <Button size="sm" variant="outline" onClick={() => onRetry("plans")}>
                 <RotateCcwIcon aria-hidden />
@@ -167,14 +178,15 @@ export function Roadmap({ final, phase, mode, plans, plansFeed, plansError, plan
           </div>
           {!!final.roadmap.length && (
             <div>
-              <p className="mb-1 text-xs font-semibold text-muted-foreground uppercase">{t("Meanwhile, the judge’s dated steps")}</p>
-              <ol className="space-y-2">
-                {[...final.roadmap].sort((a, b) => a.when.localeCompare(b.when)).map((s, i) => (
-                  <li key={i} className={cn("flex items-baseline gap-3 text-sm", s.lane === "education" ? "text-primary" : "text-amber-700 dark:text-amber-400")}>
-                    <span className="inline-block size-2.5 shrink-0 rounded-full bg-current" aria-hidden />
-                    <span className="w-20 shrink-0 text-xs font-semibold tabular-nums">{label(s.when)}</span>
-                    <span className="sr-only">{s.lane === "education" ? t("Education") : t("Career")}: </span>
-                    <span className="min-w-0 text-foreground">{s.text}</span>
+              <p className={cn(s.label, "mb-1")}>{t("Meanwhile, the judge’s dated steps")}</p>
+              <ol className={s.road}>
+                {[...final.roadmap].sort((a, b) => a.when.localeCompare(b.when)).map((step, i) => (
+                  <li key={i}>
+                    <time className={step.lane === "education" ? s.edu : s.car}>{label(step.when)}</time>
+                    <span className="min-w-0">
+                      <span className="sr-only">{step.lane === "education" ? t("Education") : t("Career")}: </span>
+                      {step.text}
+                    </span>
                   </li>
                 ))}
               </ol>
@@ -185,23 +197,19 @@ export function Roadmap({ final, phase, mode, plans, plansFeed, plansError, plan
 
       {plans && (review || reviewing || reviewError) && <KappyRead review={review} reviewing={reviewing} feed={reviewFeed} error={reviewError} onRetry={() => onRetry("review")} demo={mode === "mock" || plansDemo} />}
 
-      <p className="flex gap-3 text-[11px]">
-        <span className="flex items-center gap-1 text-primary">
-          <span className="inline-block size-2 rounded-full bg-current" aria-hidden /> {t("Education")}
-        </span>
-        <span className="flex items-center gap-1 text-amber-700 dark:text-amber-400">
-          <span className="inline-block size-2 rounded-full bg-current" aria-hidden /> {t("Career")}
-        </span>
+      <p className={s.legend}>
+        <span className={s.edu}>{t("Education")}</span>
+        <span className={s.car}>{t("Career")}</span>
       </p>
 
       {!!final.gaps.length && (
         <div>
-          <p className="mb-1 text-xs font-semibold text-muted-foreground uppercase">{t("Skill gaps, whichever plan you choose")}</p>
-          <ul className="space-y-1 text-sm">
+          <h3 className="mb-1.5 text-sm font-bold">{t("Skill gaps, whichever plan you choose")}</h3>
+          <ul className={s.gaps}>
             {final.gaps.map((g, i) => (
-              <li key={i} className="flex flex-wrap items-baseline gap-x-2">
+              <li key={i}>
                 <span className="font-medium">{g.skill}</span>
-                <span className={cn("rounded px-1.5 text-[11px]", g.fix === "degree" ? "bg-primary/10 text-primary" : "bg-amber-500/10 text-amber-700 dark:text-amber-400")}>
+                <span className={cn(s.lane, g.fix === "degree" ? s.edu : s.car)}>
                   {g.fix === "degree" ? t("At Kaplan") : t("Outside")}
                 </span>
                 <span className="text-muted-foreground">{g.how}</span>
@@ -212,14 +220,14 @@ export function Roadmap({ final, phase, mode, plans, plansFeed, plansError, plan
       )}
 
       {plans && (
-        <div className="flex flex-wrap items-center gap-2">
-          <Button onClick={save} disabled={!plan || !!saved}>
+        <div className={s.saveRow}>
+          <Button className={s.primary} onClick={save} disabled={!plan || !!saved}>
             {saved ? <CheckIcon aria-hidden /> : <BookmarkPlusIcon aria-hidden />}
             {saved ? t("Saved") : plan ? t("Save plan {id} to my plan", { id: plan.id }) : t("Choose a plan first")}
           </Button>
           {!plan && !saved && <span className="text-xs text-muted-foreground">{t("Nothing is saved until you choose.")}</span>}
           {(saved || undone) && (
-            <Link href="/plan" className="inline-flex items-center gap-1 text-sm font-medium text-primary underline">
+            <Link href="/plan" className="inline-flex items-center gap-1 text-sm font-semibold text-(--accent-ink) underline">
               {t("Open your plan")} <ArrowRightIcon className="size-3.5" aria-hidden />
             </Link>
           )}
@@ -227,8 +235,8 @@ export function Roadmap({ final, phase, mode, plans, plansFeed, plansError, plan
       )}
 
       {saved && plan && (
-        <div className="fixed inset-x-4 bottom-4 z-50 mx-auto flex max-w-md items-center gap-3 rounded-lg border bg-popover p-3 text-sm text-popover-foreground shadow-lg" role="status">
-          <CheckIcon className="size-4 shrink-0 text-primary" strokeWidth={3} aria-hidden />
+        <div className={s.toast} role="status">
+          <CheckIcon className="size-4 shrink-0" strokeWidth={3} aria-hidden />
           <span className="flex-1">{t("Saved plan {id} to your plan: {n} dated steps and {g} skill gaps.", { id: plan.id, n: plan.steps.length, g: final.gaps.length })}</span>
           <Button size="sm" variant="ghost" onClick={undo}>
             <Undo2Icon aria-hidden />

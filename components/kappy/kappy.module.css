@@ -117,11 +117,11 @@
 .dock > * { pointer-events: auto; }
 .dock .bubble { font-size: 13.5px; padding: 8px 10px; min-height: 0; max-width: 24ch; margin-bottom: 42px; box-shadow: 3px 3px 0 var(--accent, #ffb547); }
 .dock .bubble::before { top: auto; bottom: 10px; }
-.dock .bubble a { display: inline-block; margin-top: 4px; font-weight: 600; color: var(--accent-ink, #a35700); }
+.dock .bubble button { display: inline-block; margin-top: 4px; padding: 0; border: 0; background: none; font: inherit; font-weight: 600; text-decoration: underline; cursor: pointer; color: var(--accent-ink, #a35700); }
 .dockBubble[data-empty] { display: none; }
 @media print { .dock { display: none; } }
-/* On /adviser Kappy is on the roadmap's stage (components/adviser/kappy-stage.tsx): the page marks itself and the dock hides. */
-:global(body:has([data-kappy-stage])) .dock { display: none; }
+/* /adviser shows its own Kappy (components/adviser/adviser-kappy.tsx). */
+:global(:root[data-kappy-here]) .dock { display: none; }
 
 :global(:root[data-paused="true"]) .bot, :global(:root[data-paused="true"]) .r1, :global(:root[data-paused="true"]) .r2, :global(:root[data-paused="true"]) .glow,
 :global(:root[data-paused="true"]) .bubble [data-vis].typing::after { animation: none !important; }
@@ -132,3 +132,21 @@
   .r2, .fx { display: none; }
   .bulb, .pupil { transition: none; }
 }
+
+/* ── the microphone that lets Kappy listen (KappyMic.tsx) ── */
+.mic {
+  display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px; border: 2px solid var(--text, #1a1240); border-radius: 6px;
+  background: var(--bg, #fff); color: var(--text, #1a1240); font: inherit; font-size: 13.5px; font-weight: 600; cursor: pointer;
+  box-shadow: 0 2px 0 var(--accent, #ffb547);
+}
+.mic svg { width: 15px; height: 15px; flex: none; }
+.mic:active:not(:disabled) { translate: 0 2px; box-shadow: none; }
+.mic:focus-visible { outline: 2px solid var(--focus-ring, #a35700); outline-offset: 2px; }
+.mic:disabled { opacity: 0.5; cursor: not-allowed; }
+.mic[data-on] { background: var(--accent, #ffb547); color: #1a0a00; }
+.mic[data-on] svg { animation: half 0.8s steps(1, end) infinite; }
+@media (prefers-reduced-motion: reduce) { .mic[data-on] svg { animation: none; } .mic:active:not(:disabled) { translate: none; } }
+.dock .bubble .mic { margin-top: 6px; font-size: 12.5px; padding: 3px 8px; text-decoration: none; }
+.heard { display: block; margin-top: 4px; font-size: 13px; color: var(--muted, #5d5689); }
+.dock .bubble .mic { display: inline-flex; border: 2px solid var(--text, #1a1240); background: var(--bg, #fff); color: var(--text, #1a1240); font-weight: 600; box-shadow: 0 2px 0 var(--accent, #ffb547); }
+.dock .bubble .mic[data-on] { background: var(--accent, #ffb547); color: #1a0a00; }

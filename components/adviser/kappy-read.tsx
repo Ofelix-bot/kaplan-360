@@ -1,14 +1,15 @@
 "use client";
 
 import { useEffect, useState, type ReactNode } from "react";
-import { BotIcon, ChevronDownIcon, CircleHelpIcon, HighlighterIcon, RotateCcwIcon } from "lucide-react";
+import { BotIcon, ChevronDownIcon, RotateCcwIcon } from "lucide-react";
 import { useT } from "@/components/i18n/I18nProvider";
+import { KappyIcon } from "@/components/kappy/Kappy";
 import { Button } from "@/components/ui/button";
-import { Spinner } from "@/components/workspace/spinner";
 import type { Mark, MarkKind, ReviewResult } from "@/lib/adviser/types";
 import { msg } from "@/lib/i18n/translate";
 import { cn } from "cn";
-import { Feed } from "./feed";
+import s from "./adviser.module.css";
+import { Blink, Feed } from "./feed";
 import type { ErrorCode } from "./transport";
 import type { FeedItem } from "./use-adviser";
 
@@ -134,13 +135,13 @@ export function KappyRead({ review, reviewing, feed, error, onRetry, demo }: Pro
   const thinking = feed.filter((i) => i.kind === "thinking");
 
   return (
-    <section className="rounded-xl border bg-card p-4" aria-labelledby="kappy-read">
-      <div className="mb-3 flex flex-wrap items-center gap-x-3 gap-y-1.5">
-        <h3 id="kappy-read" className="flex items-center gap-1.5 text-sm font-semibold">
-          <HighlighterIcon className="size-4 text-amber-600 dark:text-amber-400" aria-hidden />
+    <section className={s.read} aria-labelledby="kappy-read">
+      <div className={s.readH}>
+        <h3 id="kappy-read">
+          <KappyIcon name="happy" />
           {t("Kappy’s read of the three plans")}
         </h3>
-        <span className="inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[11px] text-muted-foreground" title={t("The large language model that wrote this")}>
+        <span className={s.model} title={t("The large language model that wrote this")}>
           <BotIcon className="size-3" aria-hidden />
           {reviewing ? t("LLM at work") : review ? review.model : t("LLM")}
         </span>
@@ -153,10 +154,10 @@ export function KappyRead({ review, reviewing, feed, error, onRetry, demo }: Pro
       </div>
 
       {(reviewing || reasoning) && (
-        <div className="mb-3 rounded-lg border border-dashed bg-muted/40 p-3">
+        <div className={s.working}>
           {reviewing && (
-            <p className="mb-1.5 flex items-center gap-1.5 text-xs font-medium text-muted-foreground" role="status">
-              <Spinner className="size-3.5" />
+            <p role="status">
+              <Blink />
               {t("A reasoning summary, streamed from the model while it reads")}
             </p>
           )}
@@ -165,8 +166,8 @@ export function KappyRead({ review, reviewing, feed, error, onRetry, demo }: Pro
       )}
 
       {error && !reviewing && (
-        <div className="flex flex-wrap items-center gap-2 rounded-lg border border-destructive/40 bg-destructive/5 p-3 text-sm" role="alert">
-          <span className="text-destructive">{t("Kappy couldn’t finish reading the plans.")}</span>
+        <div className={s.alert} role="alert">
+          <span>{t("Kappy couldn’t finish reading the plans.")}</span>
           <Button size="sm" variant="outline" onClick={onRetry}>
             <RotateCcwIcon aria-hidden />
             {t("Read them again")}
@@ -193,13 +194,10 @@ export function KappyRead({ review, reviewing, feed, error, onRetry, demo }: Pro
           )}
 
           {review.question && (
-            <div className="flex items-start gap-2 rounded-lg bg-primary/5 p-3 text-sm">
-              <CircleHelpIcon className="mt-0.5 size-4 shrink-0 text-primary" aria-hidden />
-              <p className="leading-snug">
-                <span className="font-semibold">{t("Only you can answer this")}: </span>
-                {review.question}
-              </p>
-            </div>
+            <p className={s.question}>
+              <span className="font-semibold">{t("Only you can answer this")}: </span>
+              {review.question}
+            </p>
           )}
 
           <p className="text-xs leading-snug text-muted-foreground">

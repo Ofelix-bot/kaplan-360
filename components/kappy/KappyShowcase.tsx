@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { cn } from "cn";
 import { useT } from "@/components/i18n/I18nProvider";
 import type { Face, KappyEngine, KappyInfo, Pose, Tool } from "./engine";
+import { KappyMic } from "./KappyMic";
 import { Kappy, KappyBubble, KappyIcon } from "./Kappy";
 import s from "./showcase.module.css";
 
@@ -176,6 +177,13 @@ export function KappyShowcase() {
                 onBlur={() => {
                   if (stage.current?.state === "listen") stage.current.set("idle");
                 }}
+              />
+              <KappyMic
+                kappys={() => [stage.current]}
+                onText={(text) => {
+                  if (input.current) input.current.value = text;
+                }}
+                className="justify-self-start"
               />
             </div>
           </div>

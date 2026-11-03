@@ -1,5 +1,5 @@
 import { Inter } from "next/font/google";
-import { AdviserContext } from "@/components/agent/AdviserDock";
+import { redirect } from "next/navigation";
 import { pageMetadata } from "@/lib/i18n/server";
 import { FinderFrame, FinderShell } from "@/components/finder/finder-frame";
 import type { ParentsFacts } from "@/components/parents/family-plan";
@@ -37,7 +37,9 @@ const FACTS: ParentsFacts = {
   },
 };
 
-export default async function ParentsPage() {
+export default async function ParentsPage({ params }: PageProps<"/[lang]/parents">) {
+  // The parents' page is Chinese by default: the English address opens the Simplified Chinese page.
+  if ((await params).lang === "en") redirect("/zh-hans/parents");
   const [{ benefits, institutions }, awarders] = await Promise.all([getBenefits(), getKaplanAwarders()]);
   const names = new Map([...(await getInstitutionNames(PLAN_DATE_INSTITUTIONS)), ...institutions.map((i) => [i.id, i.name] as const)]);
   const props = {
@@ -51,7 +53,6 @@ export default async function ParentsPage() {
   return (
     <FinderFrame font={inter.variable}>
       <FinderShell props={props} needsData={false}>
-        <AdviserContext page="parents" />
         <ParentsApp props={props} sources={planSources(benefits, names)} facts={FACTS} />
       </FinderShell>
     </FinderFrame>

@@ -2,29 +2,32 @@
 
 import { useEffect, useState, type ReactNode } from "react";
 import { useSearchParams } from "next/navigation";
-import { CheckIcon, HistoryIcon, PlayIcon, SparklesIcon, UserIcon, UserRoundCheckIcon, XIcon } from "lucide-react";
+import { GraduationCapIcon, HistoryIcon, PlayIcon, SparklesIcon, UserIcon, UserRoundCheckIcon, XIcon } from "lucide-react";
 import { useLocale, useT } from "@/components/i18n/I18nProvider";
 import Link from "@/components/i18n/Link";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
-import { Spinner } from "@/components/workspace/spinner";
 import type { PageContext } from "@/lib/agent/types";
 import { MAX_TEXT, type IntakeResult } from "@/lib/adviser/types";
 import { msg } from "@/lib/i18n/translate";
 import { EMPTY_ANSWERS, type PlanAnswers } from "@/lib/plan-storage";
 import { startPlanStore, usePlanStore } from "@/lib/workspace/plan-store";
 import { cn } from "cn";
+import s from "./adviser.module.css";
+import { useAdviserKappy } from "./adviser-kappy";
 import { AuditBadge } from "./audit-badge";
 import { DebateColumns } from "./debate-columns";
 import { DecisionTable } from "./decision-table";
-import { Feed } from "./feed";
+import { Blink, Feed } from "./feed";
 import { Roadmap } from "./roadmap";
-import { useAdviser, type Mode, type Phase } from "./use-adviser";
+import { useAdviser, type AdviserState, type Mode, type Phase } from "./use-adviser";
 
 // /adviser, AI adviser v2 (docs/agent/debate-blueprint.md): 1 the student and at most two questions, 2 two advisers
 // argue master's first and work first, 3 a judge decides (shown only once a second AI's audit passes), 4 the roadmap:
 // three plans the student chooses between, read and highlighted by Kappy (docs/agent/roadmap.md). Steps 3 and 4 never
-// show before the audit passes; a run the audit blocks twice ends with a human adviser.
+// show before the audit passes; a run the audit blocks twice ends with a human adviser. Laid out in Kappy's design
+// language (adviser.module.css): one plate, Kappy's head with the five steps on top, and the four steps below, each
+// shown from the start with what it waits for.
 
 const PAGES: PageContext["page"][] = ["outcomes", "results", "careers", "plan", "profile", "algorithm", "parents", "adviser"];
 
@@ -63,26 +66,51 @@ const ARJUN_ANSWERS: PlanAnswers = {
 const ORDER: Phase[] = ["idle", "intake", "asking", "debating", "judging", "auditing", "rewriting", "planning", "reviewing", "done"];
 const reached = (phase: Phase, step: Phase) => ORDER.indexOf(phase) >= ORDER.indexOf(step) || phase === "human" || phase === "error";
 
-function StepHead({ n, title, state }: { n: number; title: string; state: "todo" | "active" | "done" }) {
+type StepState = "todo" | "active" | "done" | "blocked";
+
+/** The five steps in Kappy's head: Profile, Analysis, Decide, Check, Roadmap. */
+function stepStates(state: AdviserState): StepState[] {
+  const { phase, passed } = state;
+  const at = (...p: Phase[]) => p.includes(phase);
+  const settled = at("debating", "judging", "auditing", "rewriting", "planning", "reviewing", "done", "human", "error");
+  return [
+    at("intake", "asking") ? "active" : state.intake && settled ? "done" : "todo",
+    at("debating") ? "active" : (state.study.result || state.work.result) && !at("idle", "intake", "asking") ? "done" : "todo",
+    at("judging") ? "active" : state.final && (reached(phase, "auditing") || at("human")) ? "done" : "todo",
+    at("auditing", "rewriting") ? "active" : passed ? "done" : at("human") ? "blocked" : "todo",
+    at("planning", "reviewing") ? "active" : at("done") && passed && state.plans ? "done" : "todo",
+  ];
+}
+
+const STEPS = [msg("Profile"), msg("Analysis"), msg("Decide"), msg("Check"), msg("Roadmap")];
+
+function Steps({ states, compact }: { states: StepState[]; compact: boolean }) {
+  const t = useT();
   return (
-    <div className="mb-3 flex items-center gap-2">
-      <span
-        className={cn(
-          "grid size-6 shrink-0 place-items-center rounded-full border text-xs font-semibold",
-          state === "done" && "border-primary bg-primary text-primary-foreground",
-          state === "active" && "border-primary text-primary",
-          state === "todo" && "text-muted-foreground",
-        )}
-      >
-        {state === "done" ? <CheckIcon className="size-3.5" strokeWidth={3} aria-hidden /> : state === "active" ? <Spinner className="size-3.5" /> : n}
-      </span>
-      <h2 className={cn("text-base font-semibold", state === "todo" && "text-muted-foreground")}>{title}</h2>
-    </div>
+    <ol className={s.pills} aria-label={compact ? undefined : t("Progress")}>
+      {STEPS.map((name, i) => (
+        <li key={name} data-s={states[i] === "todo" ? undefined : states[i]} aria-current={states[i] === "active" ? "step" : undefined}>
+          <i>{i + 1}</i>
+          <span className={s.pillName}>{t(name)}</span>
+        </li>
+      ))}
+    </ol>
   );
 }
 
-function Section({ children }: { children: ReactNode }) {
-  return <section className="rounded-xl border bg-background p-4 sm:p-5">{children}</section>;
+function Panel({ n, title, state, wait, children }: { n: number; title: string; state: "todo" | "active" | "done"; wait?: string | false; children?: ReactNode }) {
+  const t = useT();
+  return (
+    <section className={s.panel} aria-labelledby={`step-${n}`}>
+      <div className={s.panelH} data-s={state}>
+        <span className={s.num}>{t("Step {n}", { n })}</span>
+        <h2 id={`step-${n}`}>{title}</h2>
+        {state === "active" && <Blink />}
+        {wait && <span className={s.wait}>{wait}</span>}
+      </div>
+      {children}
+    </section>
+  );
 }
 
 /** The intake's questions: option buttons, a free answer, and Continue. */
@@ -91,13 +119,10 @@ function Questions({ intake, onSend, disabled }: { intake: IntakeResult; onSend:
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const ready = intake.questions.every((q) => (answers[q.id] ?? "").trim());
   return (
-    <div className="space-y-3">
+    <div className="grid gap-3">
       {intake.questions.map((q) => (
-        <div key={q.id} className="rounded-lg border-2 border-primary/50 bg-primary/5 p-3" role="group" aria-label={q.question}>
-          <p className="mb-2 flex items-start gap-1.5 text-sm font-semibold">
-            <SparklesIcon className="mt-0.5 size-4 shrink-0 text-primary" aria-hidden />
-            {q.question}
-          </p>
+        <div key={q.id} className={s.ask} role="group" aria-label={q.question}>
+          <p>{q.question}</p>
           <div className="flex flex-wrap gap-1.5">
             {q.options.map((o) => (
               <Button key={o} size="sm" variant={answers[q.id] === o ? "default" : "outline"} disabled={disabled} onClick={() => setAnswers((a) => ({ ...a, [q.id]: o }))}>
@@ -106,7 +131,7 @@ function Questions({ intake, onSend, disabled }: { intake: IntakeResult; onSend:
             ))}
           </div>
           <input
-            className="mt-2 h-8 w-full rounded-md border bg-background px-2 text-sm"
+            className={s.askInput}
             value={q.options.includes(answers[q.id] ?? "") ? "" : (answers[q.id] ?? "")}
             maxLength={200}
             disabled={disabled}
@@ -116,7 +141,7 @@ function Questions({ intake, onSend, disabled }: { intake: IntakeResult; onSend:
           />
         </div>
       ))}
-      <Button disabled={disabled || !ready} onClick={() => onSend(intake.questions.map((q) => ({ id: q.id, answer: (answers[q.id] ?? "").trim() })))}>
+      <Button className={cn(s.primary, "justify-self-start")} disabled={disabled || !ready} onClick={() => onSend(intake.questions.map((q) => ({ id: q.id, answer: (answers[q.id] ?? "").trim() })))}>
         {t("Continue")}
       </Button>
     </div>
@@ -132,9 +157,11 @@ export function AdviserApp() {
   const from: PageContext["page"] = fromParam && PAGES.includes(fromParam) ? fromParam : "adviser";
 
   const { state, start, reply, reset, retry } = useAdviser(mode);
+  const kappy = useAdviserKappy(state);
   const saved = usePlanStore((s) => s.answers);
   const ready = usePlanStore((s) => s.ready);
-  const [text, setText] = useState("");
+  // A question spoken to the corner Kappy arrives as ?q= (components/kappy/KappyDock.tsx).
+  const [text, setText] = useState(() => (params.get("q") ?? "").slice(0, MAX_TEXT));
   const [example, setExample] = useState(false);
   useEffect(() => startPlanStore(), []);
 
@@ -154,175 +181,178 @@ export function AdviserApp() {
   };
 
   const passed = state.passed && !!state.final;
+  const steps = stepStates(state);
+  const step1: "todo" | "active" | "done" = phase === "idle" ? "todo" : phase === "intake" || phase === "asking" ? "active" : "done";
   const step2: "todo" | "active" | "done" = state.study.result || state.work.result ? (reached(phase, "judging") ? "done" : "active") : reached(phase, "debating") ? "active" : "todo";
   const step3: "todo" | "active" | "done" = passed ? "done" : reached(phase, "judging") && phase !== "error" && phase !== "human" ? "active" : "todo";
   const step4: "todo" | "active" | "done" = phase === "planning" || phase === "reviewing" ? "active" : state.plans ? "done" : "todo";
+  const showDebate =
+    reached(phase, "debating") &&
+    phase !== "asking" &&
+    (state.study.feed.length > 0 || state.work.feed.length > 0 || state.study.result || state.work.result || phase === "debating" || state.study.failed || state.work.failed);
+  const showDecision = reached(phase, "judging") && (state.final || state.judgeFeed.length > 0 || phase === "judging");
 
   return (
-    <div className="space-y-4">
+    <div>
       {mode === "replay" && (
-        <p className="flex items-center gap-2 rounded-lg border border-amber-500/50 bg-amber-500/10 px-3 py-2 text-sm font-medium" role="note">
-          <HistoryIcon className="size-4 shrink-0" aria-hidden />
-          {t("This is a recorded real run")}
-          {state.recordedAt && <span className="text-xs font-normal text-muted-foreground">{state.recordedAt}</span>}
+        <p className={s.note} role="note">
+          <HistoryIcon className="size-4 shrink-0 self-center" aria-hidden />
+          <b>{t("This is a recorded real run")}</b>
+          {state.recordedAt && <span className={s.muted}>{state.recordedAt}</span>}
         </p>
       )}
       {mode === "mock" && (
-        <p className="rounded-lg border border-dashed px-3 py-2 text-xs text-muted-foreground" role="note">
-          {t("Demo data: no AI is called.")}
+        <p className={s.note} role="note">
+          <b>{t("Demo data: no AI is called.")}</b>
         </p>
       )}
 
-      <Section>
-        <StepHead n={1} title={t("You")} state={phase === "idle" ? "todo" : phase === "intake" ? "active" : "done"} />
-        <form
-          className="space-y-2"
-          onSubmit={(e) => {
-            e.preventDefault();
-            go(text, example);
-          }}
-        >
-          <Textarea
-            value={text}
-            onChange={(e) => setText(e.target.value.slice(0, MAX_TEXT))}
-            maxLength={MAX_TEXT}
-            rows={3}
-            placeholder={t("Your degree, your grades, your budget, and the job you want")}
-            aria-label={t("Tell the adviser about yourself")}
-            disabled={running}
-          />
-          <div className="flex flex-wrap items-center gap-2">
-            <Button type="submit" disabled={running || !text.trim()}>
-              {running ? <Spinner className="size-4" /> : <SparklesIcon aria-hidden />}
-              {t("Ask the AI adviser")}
-            </Button>
-            {mode !== "replay" && (
-              <Button type="button" variant="outline" disabled={running} onClick={tryExample}>
-                <PlayIcon aria-hidden />
-                {t("Try the Arjun example")}
-              </Button>
-            )}
-            {mode === "replay" && (
-              <Button type="button" variant="outline" disabled={running} onClick={tryExample}>
-                <PlayIcon aria-hidden />
-                {t("Play the recorded run")}
-              </Button>
-            )}
-            <span className="ml-auto text-xs text-muted-foreground tabular-nums">
-              {text.length}/{MAX_TEXT}
-            </span>
-          </div>
-          <p className="flex flex-wrap items-center gap-1.5 text-xs text-muted-foreground">
-            {example ? (
-              <>
-                <UserRoundCheckIcon className="size-3.5" aria-hidden />
-                {t("Using Arjun’s example profile")}
-                <button
-                  type="button"
-                  className="inline-flex items-center underline"
-                  disabled={running}
-                  onClick={() => {
-                    setExample(false);
-                    setText("");
-                  }}
-                >
-                  <XIcon className="size-3" aria-hidden />
-                  {t("Use mine")}
-                </button>
-              </>
-            ) : (
-              <>
-                <UserIcon className="size-3.5" aria-hidden />
-                {hasSaved ? t("Your saved answers are used too.") : t("No saved answers yet: the adviser reads only what you write.")}
-                <Link href="/profile" className="underline">
-                  {t("Edit")}
-                </Link>
-              </>
-            )}
-            {(phase === "done" || phase === "human" || phase === "error" || phase === "asking") && (
-              <button type="button" className="ml-auto underline" onClick={reset}>
-                {t("Start again")}
-              </button>
-            )}
-          </p>
-        </form>
-
-        {phase === "intake" && <Feed items={state.intakeFeed} className="mt-3" />}
-        {state.intake && (
-          <div className="mt-3 space-y-3">
-            {state.intake.goal && <p className="text-sm font-medium">{state.intake.goal}</p>}
-            {!!state.intake.you.length && (
-              <ul className="flex flex-wrap gap-1.5">
-                {state.intake.you.map((c, i) => (
-                  <li key={i} className="rounded-full bg-muted px-2.5 py-1 text-xs">
-                    {c.text}
-                  </li>
-                ))}
-              </ul>
-            )}
-            {phase === "asking" && !!state.intake.questions.length && <Questions intake={state.intake} onSend={reply} disabled={mode === "replay"} />}
-          </div>
+      <div className={s.plate}>
+        {kappy.head(
+          (compact) => <Steps states={steps} compact={compact} />,
+          { value: text, onText: setText, disabled: running },
         )}
-      </Section>
 
-      {state.error && (
-        <div className="rounded-lg border border-destructive/40 bg-destructive/5 p-3 text-sm" role="alert">
-          <p className="text-destructive">{t(ERRORS[state.error] ?? msg("That didn’t work. Try again."))}</p>
-          {mode !== "replay" && (
-            <Link href="/adviser?replay=arjun" className={cn(buttonVariants({ variant: "outline", size: "sm" }), "mt-2")}>
-              <HistoryIcon aria-hidden />
-              {t("Watch the recorded run")}
-            </Link>
+        <Panel n={1} title={t("You")} state={step1}>
+          <form
+            className="grid gap-2"
+            onSubmit={(e) => {
+              e.preventDefault();
+              go(text, example);
+            }}
+          >
+            <Textarea
+              className={s.said}
+              value={text}
+              onChange={(e) => {
+                setText(e.target.value.slice(0, MAX_TEXT));
+                kappy.hear(e.target);
+              }}
+              maxLength={MAX_TEXT}
+              rows={3}
+              placeholder={t("Your degree, your grades, your budget, and the job you want")}
+              aria-label={t("Tell the adviser about yourself")}
+              disabled={running}
+            />
+            <div className="flex flex-wrap items-center gap-2">
+              <Button type="submit" className={s.primary} disabled={running || !text.trim()}>
+                {running ? <Blink /> : <SparklesIcon aria-hidden />}
+                {t("Ask the AI adviser")}
+              </Button>
+              <Button type="button" variant="outline" disabled={running} onClick={tryExample}>
+                <PlayIcon aria-hidden />
+                {mode === "replay" ? t("Play the recorded run") : t("Try the Arjun example")}
+              </Button>
+              <span className={cn(s.pix, s.muted, "ml-auto text-[11px] tabular-nums")}>
+                {text.length}/{MAX_TEXT}
+              </span>
+            </div>
+            <p className="flex flex-wrap items-center gap-1.5 text-xs text-muted-foreground">
+              {example ? (
+                <>
+                  <UserRoundCheckIcon className="size-3.5" aria-hidden />
+                  {t("Using Arjun’s example profile")}
+                  <button
+                    type="button"
+                    className="inline-flex items-center underline"
+                    disabled={running}
+                    onClick={() => {
+                      setExample(false);
+                      setText("");
+                    }}
+                  >
+                    <XIcon className="size-3" aria-hidden />
+                    {t("Use mine")}
+                  </button>
+                </>
+              ) : (
+                <>
+                  <UserIcon className="size-3.5" aria-hidden />
+                  {hasSaved ? t("Your saved answers are used too.") : t("No saved answers yet: the adviser reads only what you write.")}
+                  <Link href="/profile" className="underline">
+                    {t("Edit")}
+                  </Link>
+                </>
+              )}
+              {(phase === "done" || phase === "human" || phase === "error" || phase === "asking") && (
+                <button type="button" className="ml-auto underline" onClick={reset}>
+                  {t("Start again")}
+                </button>
+              )}
+            </p>
+          </form>
+
+          {phase === "intake" && <Feed items={state.intakeFeed} />}
+          {state.intake && (
+            <div className="grid gap-3">
+              {state.intake.goal && <p className={s.goal}>{state.intake.goal}</p>}
+              {!!state.intake.you.length && (
+                <ul className={s.chips}>
+                  {state.intake.you.map((c, i) => (
+                    <li key={i}>{c.text}</li>
+                  ))}
+                </ul>
+              )}
+              {phase === "asking" && !!state.intake.questions.length && <Questions intake={state.intake} onSend={reply} disabled={mode === "replay"} />}
+            </div>
           )}
-        </div>
-      )}
 
-      {reached(phase, "debating") && phase !== "asking" && (state.study.feed.length > 0 || state.work.feed.length > 0 || state.study.result || state.work.result || phase === "debating" || state.study.failed || state.work.failed) && (
-        <Section>
-          <StepHead n={2} title={t("Two advisers argue it out")} state={step2} />
-          <DebateColumns study={state.study} work={state.work} running={phase === "debating"} />
-        </Section>
-      )}
+          {state.error && (
+            <div className={s.alert} role="alert">
+              <span>{t(ERRORS[state.error] ?? msg("That didn’t work. Try again."))}</span>
+              {mode !== "replay" && (
+                <Link href="/adviser?replay=arjun" className={cn(buttonVariants({ variant: "outline", size: "sm" }))}>
+                  <HistoryIcon aria-hidden />
+                  {t("Watch the recorded run")}
+                </Link>
+              )}
+            </div>
+          )}
+        </Panel>
 
-      {(reached(phase, "judging") && (state.final || state.judgeFeed.length > 0 || phase === "judging")) && (
-        <Section>
-          <StepHead n={3} title={t("The decision")} state={step3} />
-          {!passed && (phase === "judging" || phase === "rewriting") && <Feed items={state.judgeFeed} className="mb-3" />}
-          <AuditBadge phase={phase} checking={state.checking} checked={passed ? (state.audit?.verdicts.length ?? state.checking) : null} blocked={state.blocked} />
+        <Panel n={2} title={t("Two advisers argue it out")} state={showDebate ? step2 : "todo"} wait={!showDebate && t("Waiting for your profile")}>
+          {showDebate && <DebateColumns study={state.study} work={state.work} running={phase === "debating"} kappy={kappy.side} />}
+        </Panel>
+
+        <Panel n={3} title={t("The decision")} state={showDecision ? step3 : "todo"} wait={!showDecision && t("Waiting for both advisers")}>
+          {showDecision && (
+            <>
+              {!passed && (phase === "judging" || phase === "rewriting") && <Feed items={state.judgeFeed} />}
+              <AuditBadge phase={phase} checking={state.checking} checked={passed ? (state.audit?.verdicts.length ?? state.checking) : null} blocked={state.blocked} />
+              {passed && state.final && <DecisionTable final={state.final} />}
+              {phase === "human" && (
+                <div className={s.human} role="alert">
+                  <b>{t("This advice didn’t pass the check — please talk to a human adviser.")}</b>
+                  <Link href="/careers" className={cn(buttonVariants({ variant: "outline", size: "sm" }))}>
+                    <GraduationCapIcon aria-hidden />
+                    {t("Careers")}
+                  </Link>
+                </div>
+              )}
+            </>
+          )}
+        </Panel>
+
+        <Panel n={4} title={t("Your roadmap: three plans, your call")} state={passed && state.final ? step4 : "todo"} wait={!(passed && state.final) && t("Shown after the check passes")}>
           {passed && state.final && (
-            <div className="mt-3">
-              <DecisionTable final={state.final} />
-            </div>
+            <Roadmap
+              final={state.final}
+              phase={phase}
+              mode={mode}
+              plans={state.plans}
+              plansFeed={state.plansFeed}
+              plansError={state.plansError}
+              plansDemo={state.plansDemo}
+              review={state.review}
+              reviewFeed={state.reviewFeed}
+              reviewError={state.reviewError}
+              onRetry={retry}
+              onChoose={kappy.choose}
+              onSaved={kappy.celebrate}
+            />
           )}
-          {phase === "human" && (
-            <div className="mt-3 rounded-lg border border-destructive/40 bg-destructive/5 p-3 text-sm" role="alert">
-              <p className="mb-2 font-medium text-destructive">{t("This advice didn’t pass the check — please talk to a human adviser.")}</p>
-              <Link href="/careers" className={cn(buttonVariants({ variant: "outline", size: "sm" }))}>
-                {t("Careers")}
-              </Link>
-            </div>
-          )}
-        </Section>
-      )}
-
-      {passed && state.final && (
-        <Section>
-          <StepHead n={4} title={t("Your roadmap: three plans, your call")} state={step4} />
-          <Roadmap
-            final={state.final}
-            phase={phase}
-            mode={mode}
-            plans={state.plans}
-            plansFeed={state.plansFeed}
-            plansError={state.plansError}
-            plansDemo={state.plansDemo}
-            review={state.review}
-            reviewFeed={state.reviewFeed}
-            reviewError={state.reviewError}
-            onRetry={retry}
-          />
-        </Section>
-      )}
+        </Panel>
+      </div>
     </div>
   );
 }
